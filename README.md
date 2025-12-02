@@ -45,7 +45,7 @@ _Ultimo aggiornamento: 2025-12-02
 
 ## 🤝 Come contribuire
 
-Vuoi aiutare con la traduzione? Leggi [CONTRIBUTING.md](CONTRIBUTING.md)!
+Vuoi aiutare con la traduzione? Leggi [CONTRIBUTING](CONTRIBUTING.md)!
 
 Ogni contributo è benvenuto:
 - Traduzione di testi
