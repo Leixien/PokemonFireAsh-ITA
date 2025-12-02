@@ -7,7 +7,7 @@ Progetto di traduzione italiana non ufficiale per Pokemon Fire Ash.
 
 ## 📥 Come ottenere il gioco
 
-1. Scarica Pokemon Fire Ash dal sito ufficiale: [INSERIRE LINK]
+1. Scarica Pokemon Fire Ash dal sito ufficiale: https://pokemerald.com/pokemon-fire-ash-download-v3-4-completed
 2. Estrai il gioco in una cartella
 3. Applica la traduzione seguendo le istruzioni sotto
 
@@ -16,7 +16,7 @@ Progetto di traduzione italiana non ufficiale per Pokemon Fire Ash.
 ### Metodo automatico (consigliato)
 ```bash
 # 1. Scarica questo repository
-git clone https://github.com/TUO_USERNAME/pokemon-fire-ash-traduzione-italiana.git
+git clone https://github.com/leixien/PokemonFireAsh-ITA
 
 # 2. Esegui il patcher
 python patcher/apply_translation.py
