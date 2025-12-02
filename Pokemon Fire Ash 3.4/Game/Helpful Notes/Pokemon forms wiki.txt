@@ -1,0 +1,7155 @@
+# Any information that is not listed here means that it's the same as its base form.
+#-----------------------------------
+### Mega Venusaur ###
+#-----------------------------------
+# Base Stats #
+HP: 80
+Atk: 100
+Def: 123
+Sp. Atk: 122
+Sp. Def: 120
+Speed: 80
+#-----------------------------------
+Abilities: Thick Fat
+#-----------------------------------
+
+#-----------------------------------
+### Mega Charizard X ###
+#-----------------------------------
+Types: Fire, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 78
+Atk: 130
+Def: 111
+Sp. Atk: 130
+Sp. Def: 85
+Speed: 100
+#-----------------------------------
+Abilities: Tough Claws
+#-----------------------------------
+
+#-----------------------------------
+### Mega Charizard Y ###
+#-----------------------------------
+# Base Stats #
+HP: 78
+Atk: 104
+Def: 78
+Sp. Atk: 159
+Sp. Def: 115
+Speed: 100
+#-----------------------------------
+Abilities: Drought
+#-----------------------------------
+
+#-----------------------------------
+### Mega Blastoise ###
+#-----------------------------------
+# Base Stats #
+HP: 79
+Atk: 103
+Def: 120
+Sp. Atk: 135
+Sp. Def: 115
+Speed: 78
+#-----------------------------------
+Abilities: Mega Launcher
+#-----------------------------------
+
+#-----------------------------------
+### Mega Beedrill ###
+#-----------------------------------
+# Base Stats #
+HP: 65
+Atk: 150
+Def: 40
+Sp. Atk: 15
+Sp. Def: 80
+Speed: 145
+#-----------------------------------
+Abilities: Adaptability
+#-----------------------------------
+
+#-----------------------------------
+### Mega Pidgeot ###
+#-----------------------------------
+# Base Stats #
+HP: 83
+Atk: 80
+Def: 80
+Sp. Atk: 135
+Sp. Def: 80
+Speed: 121
+#-----------------------------------
+Abilities: No Guard
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Rattata ###
+#-----------------------------------
+Types: Dark, Normal
+#-----------------------------------
+Abilities: Gluttony, Hustle
+Hidden Ability: Thick Fat
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Double Team
+Facade
+Frustration
+Grass Knot
+Hidden Power
+Ice Beam
+Protect
+Rain Dance
+Rest
+Return
+Shadow Ball
+Shadow Claw
+Sludge Bomb
+Snarl
+Substitute
+Sunny Day
+Taunt
+Thief
+Toxic
+U-turn
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Endeavor
+Icy Wind
+Iron Tail
+Last Resort
+Sleep Talk
+Snatch
+Snore
+Super Fang
+Torment
+Uproar
+Zen Headbutt
+#-----------------------------------
+# Egg Moves #
+Counter
+Final Gambit
+Fury Swipes
+Me First
+Revenge
+Reversal
+Snatch
+Stockpile
+Swallow
+Switcheroo
+Uproar
+#-----------------------------------
+In the wild Alolan Rattata can hold:
+Pecha Berry (5%)
+#-----------------------------------
+# Evolutions #
+Raticate - Obtained by levelling up Alolan Rattata to at least level 20 at night (8:00pm - 4:59am).
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Raticate ###
+#-----------------------------------
+Types: Dark, Normal
+#-----------------------------------
+# Base Stats #
+HP: 75
+Atk: 71
+Def: 70
+Sp. Atk: 40
+Sp. Def: 80
+Speed: 77
+#-----------------------------------
+Abilities: Gluttony, Hustle
+Hidden Ability: Thick Fat
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Bulk Up
+Double Team
+Facade
+Frustration
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Ice Beam
+Protect
+Rain Dance
+Rest
+Return
+Roar
+Shadow Ball
+Shadow Claw
+Sludge Bomb
+Sludge Wave
+Snarl
+Substitute
+Sunny Day
+Swords Dance
+Taunt
+Thief
+Toxic
+U-turn
+Venoshock
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Endeavor
+Icy Wind
+Iron Tail
+Knock Off
+Last Resort
+Sleep Talk
+Snatch
+Snore
+Super Fang
+Torment
+Uproar
+Zen Headbutt
+#-----------------------------------
+In the wild Alolan Raticate can hold:
+Pecha Berry (5%)
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Raichu ###
+#-----------------------------------
+Types: Electric, Psychic
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 85
+Def: 50
+Sp. Atk: 95
+Sp. Def: 85
+Speed: 110
+#-----------------------------------
+Abilities: Surge Surfer
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Psychic
+Lv. 1:   Psychic
+Lv. 1:   Speed Swap
+Lv. 1:   Thunder Shock
+Lv. 1:   Tail Whip
+Lv. 1:   Quick Attack
+Lv. 1:   Thunderbolt
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Calm Mind
+Charge Beam
+Double Team
+Facade
+Focus Blast
+Frustration
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Protect
+Psychic
+Psyshock
+Rain Dance
+Reflect
+Rest
+Return
+Safeguard
+Substitute
+Thief
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Volt Switch
+Wild Charge
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Electroweb
+Extreme Speed
+Helping Hand
+Iron Tail
+Knock Off
+Magic Coat
+Magic Room
+Magnet Rise
+Recycle
+Signal Beam
+Sleep Talk
+Snore
+Thunder Punch
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Sandshrew ###
+#-----------------------------------
+Types: Ice, Steel
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 75
+Def: 90
+Sp. Atk: 10
+Sp. Def: 35
+Speed: 40
+#-----------------------------------
+Abilities: Snow Cloak
+Hidden Ability: Slush Rush
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Scratch
+Lv. 1:   Defense Curl
+Lv. 3:   Bide
+Lv. 5:   Powder Snow
+Lv. 7:   Ice Ball
+Lv. 9:   Rapid Spin
+Lv. 11:  Fury Cutter
+Lv. 14:  Metal Claw
+Lv. 17:  Swift
+Lv. 20:  Fury Swipes
+Lv. 23:  Iron Defense
+Lv. 26:  Slash
+Lv. 30:  Iron Head
+Lv. 34:  Gyro Ball
+Lv. 38:  Swords Dance
+Lv. 42:  Hail
+Lv. 46:  Blizzard
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Aurora Veil
+Blizzard
+Brick Break
+Bulldoze
+Double Team
+Earthquake
+Facade
+Frost Breath
+Frustration
+Gyro Ball
+Hail
+Hidden Power
+Poison Jab
+Protect
+Rest
+Return
+Rock Slide
+Safeguard
+Shadow Claw
+Substitute
+Sunny Day
+Swords Dance
+Thief
+Toxic
+Work Up
+X-Scissor
+#-----------------------------------
+# Move Tutor moves #
+Aqua Tail
+Covet
+Ice Punch
+Icy Wind
+Iron Defense
+Iron Head
+Iron Tail
+Knock Off
+Sleep Talk
+Snore
+Stealth Rock
+Super Fang
+#-----------------------------------
+# Egg Moves #
+Amnesia
+Chip Away
+Counter
+Crush Claw
+Curse
+Endure
+Flail
+Hone Claws
+Icicle Crash
+Icicle Spear
+Metal Claw
+Night Slash
+#-----------------------------------
+# Evolutions #
+Sandslash - Obtained by using an Ice Stone on Alolan Sandshrew.
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Sandslash ###
+#-----------------------------------
+Types: Ice, Steel
+#-----------------------------------
+# Base Stats #
+HP: 75
+Atk: 100
+Def: 120
+Sp. Atk: 25
+Sp. Def: 65
+Speed: 65
+#-----------------------------------
+Abilities: Snow Cloak
+Hidden Ability: Slush Rush
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Icicle Spear
+Lv. 1:   Icicle Spear
+Lv. 1:   Metal Burst
+Lv. 1:   Icicle Crash
+Lv. 1:   Slash
+Lv. 1:   Defense Curl
+Lv. 1:   Ice Ball
+Lv. 1:   Metal Claw
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Aurora Veil
+Blizzard
+Brick Break
+Bulldoze
+Double Team
+Earthquake
+Facade
+Focus Blast
+Frost Breath
+Frustration
+Giga Impact
+Gyro Ball
+Hail
+Hidden Power
+Hyper Beam
+Poison Jab
+Protect
+Rest
+Return
+Rock Slide
+Safeguard
+Shadow Claw
+Substitute
+Sunny Day
+Swords Dance
+Thief
+Toxic
+Work Up
+X-Scissor
+#-----------------------------------
+# Move Tutor moves #
+Aqua Tail
+Covet
+Drill Run
+Ice Punch
+Icy Wind
+Iron Defense
+Iron Head
+Iron Tail
+Knock Off
+Sleep Talk
+Snore
+Stealth Rock
+Super Fang
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Vulpix ###
+#-----------------------------------
+Types: Ice
+#-----------------------------------
+Abilities: Snow Cloak
+Hidden Ability: Snow Warning
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Powder Snow
+Lv. 4:   Tail Whip
+Lv. 7:   Roar
+Lv. 9:   Baby-Doll Eyes
+Lv. 10:  Ice Shard
+Lv. 12:  Confuse Ray
+Lv. 15:  Icy Wind
+Lv. 18:  Payback
+Lv. 20:  Mist
+Lv. 23:  Feint Attack
+Lv. 26:  Hex
+Lv. 28:  Aurora Beam
+Lv. 31:  Extrasensory
+Lv. 34:  Safeguard
+Lv. 36:  Ice Beam
+Lv. 39:  Imprison
+Lv. 42:  Blizzard
+Lv. 44:  Grudge
+Lv. 47:  Captivate
+Lv. 50:  Sheer Cold
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Aurora Veil
+Blizzard
+Double Team
+Facade
+Frost Breath
+Frustration
+Hail
+Hidden Power
+Ice Beam
+Payback
+Protect
+Rain Dance
+Rest
+Return
+Roar
+Safeguard
+Substitute
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Aqua Tail
+Covet
+Foul Play
+Heal Bell
+Icy Wind
+Iron Tail
+Pain Split
+Role Play
+Sleep Talk
+Snore
+Spite
+Zen Headbutt
+#-----------------------------------
+# Egg Moves #
+Agility
+Charm
+Disable
+Encore
+Extrasensory
+Flail
+Freeze-Dry
+Howl
+Hypnosis
+Moonblast
+Power Swap
+Secret Power
+Spite
+Tail Slap
+#-----------------------------------
+In the wild Alolan Vulpix can hold:
+Snowball (5%)
+#-----------------------------------
+# Evolutions #
+Ninetales - Obtained by using an Ice Stone on Alolan Vulpix.
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Ninetales ###
+#-----------------------------------
+Types: Ice, Fairy
+#-----------------------------------
+# Base Stats #
+HP: 73
+Atk: 67
+Def: 75
+Sp. Atk: 81
+Sp. Def: 100
+Speed: 109
+#-----------------------------------
+Abilities: Snow Cloak
+Hidden Ability: Snow Warning
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Dazzling Gleam
+Lv. 1:   Dazzling Gleam
+Lv. 1:   Imprison
+Lv. 1:   Nasty Plot
+Lv. 1:   Ice Beam
+Lv. 1:   Ice Shard
+Lv. 1:   Confuse Ray
+Lv. 1:   Safeguard
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Aurora Veil
+Blizzard
+Calm Mind
+Double Team
+Facade
+Frost Breath
+Frustration
+Giga Impact
+Hail
+Hidden Power
+Hyper Beam
+Ice Beam
+Payback
+Protect
+Psyshock
+Rain Dance
+Rest
+Return
+Roar
+Safeguard
+Substitute
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Aqua Tail
+Covet
+Foul Play
+Heal Bell
+Icy Wind
+Iron Tail
+Pain Split
+Role Play
+Sleep Talk
+Snore
+Spite
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+In the wild Alolan Ninetales can hold:
+Snowball (5%)
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Diglett ###
+#-----------------------------------
+Types: Ground, Steel
+#-----------------------------------
+# Base Stats #
+HP: 10
+Atk: 55
+Def: 30
+Sp. Atk: 35
+Sp. Def: 45
+Speed: 90
+#-----------------------------------
+Abilities: Sand Veil, Tangling Hair
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Sand Attack
+Lv. 1:   Metal Claw
+Lv. 4:   Growl
+Lv. 7:   Astonish
+Lv. 10:  Mud-Slap
+Lv. 14:  Magnitude
+Lv. 18:  Bulldoze
+Lv. 22:  Sucker Punch
+Lv. 25:  Mud Bomb
+Lv. 28:  Earth Power
+Lv. 31:  Dig
+Lv. 35:  Iron Head
+Lv. 39:  Earthquake
+Lv. 43:  Fissure
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Bulldoze
+Double Team
+Earthquake
+Facade
+Flash Cannon
+Frustration
+Hidden Power
+Protect
+Rest
+Return
+Rock Slide
+Sandstorm
+Shadow Claw
+Sludge Bomb
+Substitute
+Sunny Day
+Thief
+Toxic
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Earth Power
+Iron Defense
+Iron Head
+Sleep Talk
+Snore
+Stealth Rock
+#-----------------------------------
+# Egg Moves #
+Ancient Power
+Beat Up
+Endure
+Feint Attack
+Final Gambit
+Headbutt
+Memento
+Metal Sound
+Pursuit
+Reversal
+Thrash
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Dugtrio ###
+#-----------------------------------
+Types: Ground, Steel
+#-----------------------------------
+# Base Stats #
+HP: 35
+Atk: 100
+Def: 60
+Sp. Atk: 50
+Sp. Def: 70
+Speed: 110
+#-----------------------------------
+Abilities: Sand Veil, Tangling Hair
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Sand Tomb
+Lv. 1:   Sand Tomb
+Lv. 1:   Rototiller
+Lv. 1:   Night Slash
+Lv. 1:   Tri Attack
+Lv. 1:   Sand Attack
+Lv. 1:   Metal Claw
+Lv. 1:   Growl
+Lv. 4:   Growl
+Lv. 7:   Astonish
+Lv. 10:  Mud-Slap
+Lv. 14:  Magnitude
+Lv. 18:  Bulldoze
+Lv. 22:  Sucker Punch
+Lv. 25:  Mud Bomb
+Lv. 30:  Earth Power
+Lv. 35:  Dig
+Lv. 41:  Iron Head
+Lv. 47:  Earthquake
+Lv. 53:  Fissure
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Bulldoze
+Double Team
+Earthquake
+Facade
+Flash Cannon
+Frustration
+Giga Impact
+Hidden Power
+Hyper Beam
+Protect
+Rest
+Return
+Rock Slide
+Sandstorm
+Shadow Claw
+Sludge Bomb
+Sludge Wave
+Stone Edge
+Substitute
+Sunny Day
+Thief
+Toxic
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Earth Power
+Iron Defense
+Iron Head
+Sleep Talk
+Snore
+Stealth Rock
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Meowth ###
+#-----------------------------------
+Types: Dark
+#-----------------------------------
+# Base Stats #
+HP: 40
+Atk: 35
+Def: 35
+Sp. Atk: 50
+Sp. Def: 40
+Speed: 90
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Scratch
+Lv. 1:   Growl
+Lv. 6:   Bite
+Lv. 9:   Fake Out
+Lv. 14:  Fury Swipes
+Lv. 17:  Screech
+Lv. 22:  Feint Attack
+Lv. 25:  Taunt
+Lv. 30:  Pay Day
+Lv. 33:  Slash
+Lv. 38:  Nasty Plot
+Lv. 41:  Assurance
+Lv. 46:  Captivate
+Lv. 49:  Night Slash
+Lv. 50:  Feint
+Lv. 55:  Dark Pulse
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Double Team
+Facade
+Frustration
+Hidden Power
+Payback
+Protect
+Rain Dance
+Rest
+Return
+Shadow Ball
+Shadow Claw
+Substitute
+Sunny Day
+Taunt
+Thief
+Thunder
+Thunderbolt
+Toxic
+U-turn
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Foul Play
+Gunk Shot
+Hyper Voice
+Icy Wind
+Iron Tail
+Knock Off
+Last Resort
+Seed Bomb
+Sleep Talk
+Snatch
+Snore
+Spite
+Torment
+Uproar
+#-----------------------------------
+# Egg Moves #
+Amnesia
+Assist
+Charm
+Covet
+Flail
+Flatter
+Foul Play
+Hypnosis
+Parting Shot
+Punishment
+Snatch
+Spite
+#-----------------------------------
+# Evolutions #
+Persian - Obtained by having high friendship with Alolan Meowth.
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Meowth ###
+#-----------------------------------
+Types: Steel
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 65
+Def: 55
+Sp. Atk: 40
+Sp. Def: 40
+Speed: 40
+#-----------------------------------
+Abilities: Pickup, Tough Claws
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Fake Out
+Lv. 1:   Growl
+Lv. 4:   Hone Claws
+Lv. 8:   Scratch
+Lv. 12:  Pay Day
+Lv. 16:  Metal Claw
+Lv. 20:  Taunt
+Lv. 24:  Swagger
+Lv. 29:  Fury Swipes
+Lv. 32:  Screech
+Lv. 36:  Slash
+Lv. 40:  Metal Sound
+Lv. 44:  Thrash
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Crunch
+Dig
+Facade
+Gyro Ball
+Hidden Power
+Hone Claws
+Payback
+Play Rough
+Protect
+Rain Dance
+Rest
+Retaliate
+Shadow Ball
+Shadow Claw
+Substitute
+Sunny Day
+Swords Dance
+Taunt
+Thief
+Thrash
+Thunder
+Thunderbolt
+Toxic
+U-turn
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Endure
+Foul Play
+Gunk Shot
+Hyper Voice
+Iron Defense
+Iron Head
+Iron Tail
+Seed Bomb
+Sleep Talk
+Snore
+Uproar
+#-----------------------------------
+# Egg Moves #
+Covet
+Curse
+Double-Edge
+Flail
+Night Slash
+Spite
+#-----------------------------------
+# Evolutions #
+Perrserker - Obtained by levelling up Galarian Meowth to at least level 28.
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Persian ###
+#-----------------------------------
+Types: Dark
+#-----------------------------------
+# Base Stats #
+HP: 65
+Atk: 60
+Def: 60
+Sp. Atk: 75
+Sp. Def: 65
+Speed: 115
+#-----------------------------------
+Abilities: Fur Coat, Technician
+Hidden Ability: Rattled
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Power Gem
+Lv. 1:   Swift
+Lv. 1:   Quash
+Lv. 1:   Play Rough
+Lv. 1:   Switcheroo
+Lv. 1:   Scratch
+Lv. 1:   Growl
+Lv. 1:   Bite
+Lv. 1:   Fake Out
+Lv. 6:   Bite
+Lv. 9:   Fake Out
+Lv. 14:  Fury Swipes
+Lv. 17:  Screech
+Lv. 22:  Feint Attack
+Lv. 25:  Taunt
+Lv. 32:  Power Gem
+Lv. 37:  Slash
+Lv. 44:  Nasty Plot
+Lv. 49:  Assurance
+Lv. 56:  Captivate
+Lv. 61:  Night Slash
+Lv. 65:  Feint
+Lv. 69:  Dark Pulse
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Double Team
+Facade
+Frustration
+Giga Impact
+Hidden Power
+Hyper Beam
+Payback
+Protect
+Rain Dance
+Rest
+Return
+Roar
+Shadow Ball
+Shadow Claw
+Snarl
+Substitute
+Sunny Day
+Taunt
+Thief
+Thunder
+Thunderbolt
+Toxic
+U-turn
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Foul Play
+Gunk Shot
+Hyper Voice
+Icy Wind
+Iron Tail
+Knock Off
+Last Resort
+Seed Bomb
+Sleep Talk
+Snatch
+Snore
+Spite
+Torment
+Uproar
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Growlithe ###
+#-----------------------------------
+Types: Fire, Rock
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 75
+Def: 45
+Sp. Atk: 65
+Sp. Def: 50
+Speed: 55
+#-----------------------------------
+Abilities: Intimidate, Flash Fire
+Hidden Ability: Rock Head
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Leer
+Lv. 1:   Ember
+Lv. 4:   Howl
+Lv. 8:   Bite
+Lv. 12:  Flame Wheel
+Lv. 16:  Helping Hand
+Lv. 24:  Fire Fang
+Lv. 28:  Retaliate
+Lv. 32:  Crunch
+Lv. 36:  Take Down
+Lv. 40:  Flamethrower
+Lv. 44:  Roar
+Lv. 48:  Rock Slide
+Lv. 52:  Reversal
+Lv. 56:  Flare Blitz
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Close Combat
+Crunch
+Dig
+Facade
+Fire Blast
+Flame Charge
+Flamethrower
+Head Smash
+Hidden Power
+Outrage
+Overheat
+Protect
+Psychic Fangs
+Rest
+Retaliate
+Rock Slide
+Sandstorm
+Smart Strike
+Stone Edge
+Substitute
+Sunny Day
+Thrash
+Toxic
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Endure
+Heat Wave
+Helping Hand
+Sleep Talk
+Stealth Rock
+#-----------------------------------
+# Egg Moves #
+Covet
+Double Kick
+Double-Edge
+Head Smash
+Morning Sun
+Thrash
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Arcanine ###
+#-----------------------------------
+Types: Fire, Rock
+#-----------------------------------
+# Base Stats #
+HP: 95
+Atk: 115
+Def: 80
+Sp. Atk: 95
+Sp. Def: 80
+Speed: 90
+#-----------------------------------
+Abilities: Intimidate, Flash Fire
+Hidden Ability: Rock Head
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Extreme Speed
+Lv. 1:   Agility
+Lv. 1:   Bite
+Lv. 1:   Crunch
+Lv. 1:   Ember
+Lv. 1:   Fire Fang
+Lv. 1:   Flame Wheel
+Lv. 1:   Flare Blitz
+Lv. 1:   Helping Hand
+Lv. 1:   Howl
+Lv. 1:   Leer
+Lv. 1:   Play Rough
+Lv. 1:   Retaliate
+Lv. 1:   Reversal
+Lv. 1:   Roar
+Lv. 1:   Take Down
+Lv. 5:   Flamethrower
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Bulldoze
+Close Combat
+Crunch
+Dig
+Facade
+Fire Blast
+Flame Charge
+Flamethrower
+Giga Impact
+Head Smash
+Hidden Power
+Hyper Beam
+Outrage
+Overheat
+Protect
+Psychic Fangs
+Rest
+Retaliate
+Rock Slide
+Sandstorm
+Smart Strike
+Snarl
+Solar Beam
+Stone Edge
+Substitute
+Sunny Day
+Thief
+Thrash
+Toxic
+Wild Charge
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Dragon Pulse
+Endure
+Extreme Speed
+Heat Wave
+Helping Hand
+Iron Head
+Sleep Talk
+Snore
+Stealth Rock
+#-----------------------------------
+
+#-----------------------------------
+### Mega Alakazam ###
+#-----------------------------------
+# Base Stats #
+HP: 55
+Atk: 50
+Def: 65
+Sp. Atk: 175
+Sp. Def: 105
+Speed: 150
+#-----------------------------------
+Abilities: Trace
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Geodude ###
+#-----------------------------------
+Types: Rock, Electric
+#-----------------------------------
+Abilities: Magnet Pull, Sturdy
+Hidden Ability: Galvanize
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Tackle
+Lv. 1:   Defense Curl
+Lv. 4:   Charge
+Lv. 6:   Rock Polish
+Lv. 10:  Rollout
+Lv. 12:  Spark
+Lv. 16:  Rock Throw
+Lv. 18:  Smack Down
+Lv. 22:  Thunder Punch
+Lv. 24:  Self-Destruct
+Lv. 28:  Stealth Rock
+Lv. 30:  Rock Blast
+Lv. 34:  Discharge
+Lv. 36:  Explosion
+Lv. 40:  Double-Edge
+Lv. 42:  Stone Edge
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Bulldoze
+Charge Beam
+Double Team
+Earthquake
+Explosion
+Facade
+Fire Blast
+Flamethrower
+Frustration
+Gyro Ball
+Hidden Power
+Protect
+Rest
+Return
+Rock Polish
+Rock Slide
+Sandstorm
+Smack Down
+Stone Edge
+Substitute
+Sunny Day
+Thunder
+Thunderbolt
+Toxic
+Volt Switch
+#-----------------------------------
+# Move Tutor moves #
+Block
+Earth Power
+Electroweb
+Fire Punch
+Iron Defense
+Magnet Rise
+Sleep Talk
+Snore
+Stealth Rock
+Superpower
+Thunder Punch
+#-----------------------------------
+# Egg Moves #
+Autotomize
+Block
+Counter
+Curse
+Endure
+Flail
+Magnet Rise
+Rock Climb
+Screech
+Wide Guard
+#-----------------------------------
+In the wild Alolan Geodude can hold:
+Cell Battery (5%)
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Graveler ###
+#-----------------------------------
+Types: Rock, Electric
+#-----------------------------------
+Abilities: Magnet Pull, Sturdy
+Hidden Ability: Galvanize
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Tackle
+Lv. 1:   Defense Curl
+Lv. 1:   Charge
+Lv. 1:   Rock Polish
+Lv. 4:   Charge
+Lv. 6:   Rock Polish
+Lv. 10:  Rollout
+Lv. 12:  Spark
+Lv. 16:  Rock Throw
+Lv. 18:  Smack Down
+Lv. 22:  Thunder Punch
+Lv. 24:  Self-Destruct
+Lv. 30:  Stealth Rock
+Lv. 34:  Rock Blast
+Lv. 40:  Discharge
+Lv. 44:  Explosion
+Lv. 50:  Double-Edge
+Lv. 54:  Stone Edge
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Bulldoze
+Charge Beam
+Double Team
+Earthquake
+Explosion
+Facade
+Fire Blast
+Flamethrower
+Frustration
+Gyro Ball
+Hidden Power
+Protect
+Rest
+Return
+Rock Polish
+Rock Slide
+Sandstorm
+Smack Down
+Stone Edge
+Substitute
+Sunny Day
+Thunder
+Thunderbolt
+Toxic
+Volt Switch
+#-----------------------------------
+# Move Tutor moves #
+Block
+Earth Power
+Electroweb
+Fire Punch
+Iron Defense
+Magnet Rise
+Sleep Talk
+Snore
+Stealth Rock
+Superpower
+Thunder Punch
+#-----------------------------------
+In the wild Alolan Graveler can hold:
+Cell Battery (5%)
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Golem ###
+#-----------------------------------
+Types: Rock, Electric
+#-----------------------------------
+Abilities: Magnet Pull, Sturdy
+Hidden Ability: Galvanize
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Heavy Slam
+Lv. 1:   Tackle
+Lv. 1:   Defense Curl
+Lv. 1:   Charge
+Lv. 1:   Rock Polish
+Lv. 4:   Charge
+Lv. 6:   Rock Polish
+Lv. 10:  Steamroller
+Lv. 12:  Spark
+Lv. 16:  Rock Throw
+Lv. 18:  Smack Down
+Lv. 22:  Thunder Punch
+Lv. 24:  Self-Destruct
+Lv. 30:  Stealth Rock
+Lv. 34:  Rock Blast
+Lv. 40:  Discharge
+Lv. 44:  Explosion
+Lv. 50:  Double-Edge
+Lv. 54:  Stone Edge
+Lv. 60:  Heavy Slam
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Bulldoze
+Charge Beam
+Double Team
+Earthquake
+Explosion
+Facade
+Fire Blast
+Flamethrower
+Focus Blast
+Frustration
+Giga Impact
+Gyro Ball
+Hidden Power
+Hyper Beam
+Protect
+Rest
+Return
+Roar
+Rock Polish
+Rock Slide
+Sandstorm
+Smack Down
+Stone Edge
+Substitute
+Sunny Day
+Thunder
+Thunderbolt
+Toxic
+Volt Switch
+Wild Charge
+#-----------------------------------
+# Move Tutor moves #
+Block
+Earth Power
+Electroweb
+Fire Punch
+Iron Defense
+Iron Head
+Magnet Rise
+Sleep Talk
+Snore
+Stealth Rock
+Superpower
+Thunder Punch
+#-----------------------------------
+In the wild Alolan Golem can hold:
+Cell Battery (50%)
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Ponyta ###
+#-----------------------------------
+Types: Psychic
+#-----------------------------------
+Abilities: Run Away, Pastel Veil
+Hidden Ability: Anticipation
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Tackle
+Lv. 1:   Growl
+Lv. 5:   Tail Whip
+Lv. 10:  Confusion
+Lv. 15:  Fairy Wind
+Lv. 20:  Agility
+Lv. 25:  Psybeam
+Lv. 30:  Stomp
+Lv. 35:  Heal Pulse
+Lv. 41:  Take Down
+Lv. 45:  Dazzling Gleam
+Lv. 50:  Psychic
+Lv. 55:  Healing Wish
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Calm Mind
+Facade
+Hidden Power
+Play Rough
+Protect
+Psychic
+Rest
+Substitute
+Thrash
+Toxic
+Wild Charge
+#-----------------------------------
+# Move Tutor moves #
+Bounce
+Endure
+Iron Tail
+Low Kick
+Sleep Talk
+Snore
+Swift
+Zen Headbutt
+#-----------------------------------
+# Egg Moves #
+Double Kick
+Double-Edge
+Horn Drill
+Hypnosis
+Morning Sun
+Thrash
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Rapidash ###
+#-----------------------------------
+Types: Psychic, Fairy
+#-----------------------------------
+Abilities: Run Away, Pastel Veil
+Hidden Ability: Anticipation
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Psycho Cut
+Lv. 1:   Psycho Cut
+Lv. 1:   Megahorn
+Lv. 1:   Tackle
+Lv. 1:   Quick Attack
+Lv. 1:   Growl
+Lv. 1:   Tail Whip
+Lv. 1:   Confusion
+Lv. 15:  Fairy Wind
+Lv. 20:  Agility
+Lv. 25:  Psybeam
+Lv. 30:  Stomp
+Lv. 35:  Heal Pulse
+Lv. 43:  Take Down
+Lv. 49:  Dazzling Gleam
+Lv. 56:  Psychic
+Lv. 63:  Healing Wish
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Calm Mind
+Facade
+Giga Impact
+Hidden Power
+Hyper Beam
+Play Rough
+Protect
+Psychic
+Rest
+Smart Strike
+Substitute
+Swords Dance
+Thrash
+Toxic
+Trick Room
+Wild Charge
+#-----------------------------------
+# Move Tutor moves #
+Bounce
+Drill Run
+Endure
+Iron Tail
+Low Kick
+Magic Room
+Sleep Talk
+Snore
+Swift
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Slowpoke ###
+#-----------------------------------
+Types: Psychic
+#-----------------------------------
+Abilities: Gluttony, Own Tempo
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Tackle
+Lv. 1:   Curse
+Lv. 3:   Growl
+Lv. 6:   Acid
+Lv. 9:   Yawn
+Lv. 12:  Confusion
+Lv. 15:  Disable
+Lv. 18:  Water Pulse
+Lv. 21:  Headbutt
+Lv. 24:  Zen Headbutt
+Lv. 27:  Amnesia
+Lv. 30:  Surf
+Lv. 33:  Slack Off
+Lv. 36:  Psychic
+Lv. 39:  Psych Up
+Lv. 42:  Rain Dance
+Lv. 45:  Heal Pulse
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Bulldoze
+Calm Mind
+Dig
+Dive
+Earthquake
+Facade
+Fire Blast
+Flamethrower
+Grass Knot
+Hail
+Hidden Power
+Ice Beam
+Protect
+Psychic
+Psyshock
+Rain Dance
+Rest
+Scald
+Shadow Ball
+Substitute
+Sunny Day
+Thunder Wave
+Toxic
+Trick Room
+#-----------------------------------
+# Move Tutor moves #
+Block
+Endure
+Foul Play
+Headbutt
+Icy Wind
+Iron Tail
+Sleep Talk
+Snore
+Swift
+Trick
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+# Egg Moves #
+Belch
+Belly Drum
+Block
+Stomp
+#-----------------------------------
+# Evolutions #
+Slowking - Obtained by using a Galarica Wreath on Galarian Slowpoke.
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Slowbro ###
+#-----------------------------------
+Types: Poison, Psychic
+#-----------------------------------
+# Base Stats #
+HP: 95
+Atk: 100
+Def: 95
+Sp. Atk: 100
+Sp. Def: 70
+Speed: 30
+#-----------------------------------
+Abilities: Quick Draw, Own Tempo
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Shell Side Arm
+Lv. 1:   Shell Side Arm
+Lv. 1:   Withdraw
+Lv. 1:   Tackle
+Lv. 1:   Curse
+Lv. 1:   Growl
+Lv. 1:   Acid
+Lv. 9:   Yawn
+Lv. 12:  Confusion
+Lv. 15:  Disable
+Lv. 18:  Water Pulse
+Lv. 21:  Headbutt
+Lv. 24:  Zen Headbutt
+Lv. 27:  Amnesia
+Lv. 30:  Surf
+Lv. 33:  Slack Off
+Lv. 36:  Psychic
+Lv. 39:  Psych Up
+Lv. 42:  Rain Dance
+Lv. 45:  Heal Pulse
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Brick Break
+Bulldoze
+Calm Mind
+Dig
+Dive
+Earthquake
+Facade
+Fire Blast
+Flamethrower
+Focus Blast
+Giga Impact
+Grass Knot
+Hail
+Hidden Power
+Hyper Beam
+Ice Beam
+Poison Jab
+Protect
+Psychic
+Psyshock
+Rain Dance
+Razor Shell
+Rest
+Scald
+Shadow Ball
+Sludge Bomb
+Sludge Wave
+Substitute
+Sunny Day
+Thunder Wave
+Toxic
+Trick Room
+Venoshock
+#-----------------------------------
+# Move Tutor moves #
+Block
+Drain Punch
+Endure
+Foul Play
+Headbutt
+Ice Punch
+Icy Wind
+Iron Defense
+Iron Tail
+Sleep Talk
+Snore
+Swift
+Trick
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Mega Slowbro ###
+#-----------------------------------
+# Base Stats #
+HP: 95
+Atk: 75
+Def: 180
+Sp. Atk: 130
+Sp. Def: 80
+Speed: 30
+#-----------------------------------
+Abilities: Shell Armor
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Farfetch'd ###
+#-----------------------------------
+Types: Fighting
+#-----------------------------------
+# Base Stats #
+HP: 52
+Atk: 95
+Def: 55
+Sp. Atk: 58
+Sp. Def: 62
+Speed: 55
+#-----------------------------------
+Abilities: Steadfast
+Hidden Ability: Scrappy
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Peck
+Lv. 1:   Sand Attack
+Lv. 5:   Leer
+Lv. 10:  Fury Cutter
+Lv. 15:  Rock Smash
+Lv. 20:  Brutal Swing
+Lv. 25:  Detect
+Lv. 30:  Knock Off
+Lv. 35:  Defog
+Lv. 40:  Brick Break
+Lv. 45:  Swords Dance
+Lv. 50:  Slam
+Lv. 55:  Leaf Blade
+Lv. 60:  Final Gambit
+Lv. 65:  Brave Bird
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Close Combat
+Facade
+Hidden Power
+Leaf Blade
+Poison Jab
+Protect
+Rest
+Retaliate
+Rock Smash
+Solar Blade
+Substitute
+Sunny Day
+Swords Dance
+Toxic
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Brave Bird
+Covet
+Endure
+Helping Hand
+Knock Off
+Sky Attack
+Sleep Talk
+Snore
+Superpower
+#-----------------------------------
+# Egg Moves #
+Counter
+Covet
+Curse
+Double-Edge
+Feint
+Flail
+Night Slash
+Quick Attack
+Quick Guard
+Simple Beam
+Sky Attack
+#-----------------------------------
+In the wild Galarian Farfetch'd can hold:
+Leek (50%)
+#-----------------------------------
+# Evolutions #
+Sirfetch'd - Obtained by using dealing 3 critical hits with Galarian Farfetch'd in 1 battle.
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Grimer ###
+#-----------------------------------
+Types: Poison, Dark
+#-----------------------------------
+Abilities: Poison Touch, Gluttony
+Hidden Ability: Power of Alchemy
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Pound
+Lv. 1:   Poison Gas
+Lv. 4:   Harden
+Lv. 7:   Bite
+Lv. 12:  Disable
+Lv. 15:  Acid Spray
+Lv. 18:  Poison Fang
+Lv. 21:  Minimize
+Lv. 26:  Fling
+Lv. 29:  Knock Off
+Lv. 32:  Crunch
+Lv. 37:  Screech
+Lv. 40:  Gunk Shot
+Lv. 43:  Acid Armor
+Lv. 46:  Belch
+Lv. 48:  Memento
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Double Team
+Explosion
+Facade
+Fire Blast
+Flamethrower
+Frustration
+Hidden Power
+Payback
+Poison Jab
+Protect
+Rain Dance
+Rest
+Return
+Rock Polish
+Rock Slide
+Shadow Ball
+Sludge Bomb
+Sludge Wave
+Snarl
+Stone Edge
+Substitute
+Sunny Day
+Taunt
+Thief
+Toxic
+Venoshock
+#-----------------------------------
+# Move Tutor moves #
+Fire Punch
+Gastro Acid
+Giga Drain
+Gunk Shot
+Ice Punch
+Knock Off
+Pain Split
+Sleep Talk
+Snore
+Spite
+Thunder Punch
+Torment
+#-----------------------------------
+# Egg Moves #
+Assurance
+Clear Smog
+Curse
+Imprison
+Mean Look
+Power-Up Punch
+Pursuit
+Scary Face
+Shadow Sneak
+Spite
+Spit Up
+Stockpile
+Swallow
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Muk ###
+#-----------------------------------
+Types: Poison, Dark
+#-----------------------------------
+Abilities: Poison Touch, Gluttony
+Hidden Ability: Power of Alchemy
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Venom Drench
+Lv. 1:   Venom Drench
+Lv. 1:   Pound
+Lv. 1:   Poison Gas
+Lv. 1:   Harden
+Lv. 1:   Bite
+Lv. 4:   Harden
+Lv. 7:   Bite
+Lv. 12:  Disable
+Lv. 15:  Acid Spray
+Lv. 18:  Poison Fang
+Lv. 21:  Minimize
+Lv. 26:  Fling
+Lv. 29:  Knock Off
+Lv. 32:  Crunch
+Lv. 37:  Screech
+Lv. 40:  Gunk Shot
+Lv. 46:  Acid Armor
+Lv. 52:  Belch
+Lv. 57:  Memento
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Double Team
+Explosion
+Facade
+Fire Blast
+Flamethrower
+Focus Blast
+Frustration
+Giga Impact
+Hidden Power
+Hyper Beam
+Payback
+Poison Jab
+Protect
+Rain Dance
+Rest
+Return
+Rock Polish
+Rock Slide
+Shadow Ball
+Sludge Bomb
+Sludge Wave
+Snarl
+Stone Edge
+Substitute
+Sunny Day
+Taunt
+Thief
+Toxic
+Venoshock
+#-----------------------------------
+# Move Tutor moves #
+Block
+Fire Punch
+Gastro Acid
+Giga Drain
+Gunk Shot
+Ice Punch
+Knock Off
+Pain Split
+Recycle
+Sleep Talk
+Snore
+Spite
+Thunder Punch
+Torment
+#-----------------------------------
+
+#-----------------------------------
+### Mega Gengar ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 65
+Def: 80
+Sp. Atk: 170
+Sp. Def: 95
+Speed: 130
+#-----------------------------------
+Abilities: Shadow Tag
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Voltorb ###
+#-----------------------------------
+Types: Electric, Grass
+#-----------------------------------
+Abilities: Soundproof, Static
+Hidden Ability: Aftermath
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Charge
+Lv. 1:   Tackle
+Lv. 4:   Thunder Shock
+Lv. 6:   Eerie Impulse
+Lv. 9:   Spark
+Lv. 11:  Rollout
+Lv. 13:  Screech
+Lv. 16:  Charge Beam
+Lv. 20:  Swift
+Lv. 22:  Electro Ball
+Lv. 26:  Self-Destruct
+Lv. 29:  Light Screen
+Lv. 34:  Magnet Rise
+Lv. 37:  Discharge
+Lv. 41:  Explosion
+Lv. 46:  Gyro Ball
+Lv. 50:  Mirror Coat
+#-----------------------------------
+# Moves learnt by TM #
+Energy Ball
+Explosion
+Gyro Ball
+Facade
+Grass Knot
+Hidden Power
+Protect
+Rain Dance
+Reflect
+Rest
+Solar Beam
+Substitute
+Taunt
+Thief
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Volt Switch
+Wild Charge
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Foul Play
+Giga Drain
+Seed Bomb
+Sleep Talk
+Snore
+Swift
+#-----------------------------------
+# Egg Moves #
+Leech Seed
+Recycle
+Worry Seed
+#-----------------------------------
+# Evolutions #
+Electrode - Obtained by using a Leaf Stone on Hisuian Voltorb.
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Electrode ###
+#-----------------------------------
+Types: Electric, Grass
+#-----------------------------------
+Abilities: Soundproof, Static
+Hidden Ability: Aftermath
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Chloroblast
+Lv. 1:   Charge
+Lv. 1:   Tackle
+Lv. 4:   Thunder Shock
+Lv. 6:   Stun Spore
+Lv. 9:   Bullet Seed
+Lv. 11:  Rollout
+Lv. 13:  Screech
+Lv. 16:  Charge Beam
+Lv. 20:  Swift
+Lv. 22:  Electro Ball
+Lv. 26:  Self-Destruct
+Lv. 29:  Energy Ball
+Lv. 34:  Discharge
+Lv. 37:  Seed Bomb
+Lv. 41:  Explosion
+Lv. 46:  Gyro Ball
+Lv. 50:  Grassy Terrain
+#-----------------------------------
+# Moves learnt by TM #
+Energy Ball
+Explosion
+Gyro Ball
+Facade
+Giga Impact
+Grass Knot
+Gyro Ball
+Hidden Power
+Hyper Beam
+Protect
+Rain Dance
+Reflect
+Rest
+Solar Beam
+Substitute
+Taunt
+Thief
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Volt Switch
+Wild Charge
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Foul Play
+Giga Drain
+Seed Bomb
+Sleep Talk
+Snore
+Swift
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Exeggutor ###
+#-----------------------------------
+Types: Grass, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 95
+Atk: 105
+Def: 85
+Sp. Atk: 125
+Sp. Def: 75
+Speed: 45
+#-----------------------------------
+Abilities: Frisk
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Dragon Hammer
+Lv. 1:   Dragon Hammer
+Lv. 1:   Seed Bomb
+Lv. 1:   Barrage
+Lv. 1:   Hypnosis
+Lv. 1:   Confusion
+Lv. 17:  Psyshock
+Lv. 27:  Egg Bomb
+Lv. 37:  Wood Hammer
+Lv. 47:  Leaf Storm
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Bulldoze
+Double Team
+Dragon Tail
+Earthquake
+Energy Ball
+Explosion
+Facade
+Flamethrower
+Frustration
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Outrage
+Protect
+Psychic
+Psyshock
+Reflect
+Rest
+Return
+Sludge Bomb
+Solar Beam
+Substitute
+Sunny Day
+Swords Dance
+Thief
+Toxic
+Trick Room
+#-----------------------------------
+# Move Tutor moves #
+Block
+Draco Meteor
+Dragon Pulse
+Giga Drain
+Gravity
+Iron Head
+Iron Tail
+Knock Off
+Low Kick
+Seed Bomb
+Skill Swap
+Sleep Talk
+Snore
+Superpower
+Synthesis
+Worry Seed
+Zen Headbutt
+#-----------------------------------
+# Evolutions #
+Marowak - Obtained by levelling up Alolan Exeggutor to at least level 28 at night (8:00pm - 4:59am).
+#-----------------------------------
+
+#-----------------------------------
+### Alolan Marowak ###
+#-----------------------------------
+Types: Fire, Ghost
+#-----------------------------------
+Abilities: Cursed Body, Lightning Rod
+Hidden Ability: Rock Head
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Shadow Bone
+Lv. 1:   Growl
+Lv. 1:   Tail Whip
+Lv. 1:   Bone Club
+Lv. 1:   Flame Wheel
+Lv. 3:   Tail Whip
+Lv. 7:   Bone Club
+Lv. 11:  Flame Wheel
+Lv. 13:  Leer
+Lv. 17:  Hex
+Lv. 21:  Bonemerang
+Lv. 23:  Will-O-Wisp
+Lv. 27:  Shadow Bone
+Lv. 33:  Thrash
+Lv. 37:  Fling
+Lv. 43:  Stomping Tantrum
+Lv. 49:  Endeavor
+Lv. 53:  Flare Blitz
+Lv. 59:  Retaliate
+Lv. 65:  Bone Rush
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Blizzard
+Brick Break
+Bulldoze
+Double Team
+Earthquake
+Facade
+False Swipe
+Fire Blast
+Flame Charge
+Flamethrower
+Focus Blast
+Frustration
+Giga Impact
+Hidden Power
+Hyper Beam
+Ice Beam
+Outrage
+Protect
+Rain Dance
+Rest
+Return
+Rock Slide
+Sandstorm
+Shadow Ball
+Smack Down
+Stone Edge
+Substitute
+Sunny Day
+Swords Dance
+Thief
+Thunder
+Thunderbolt
+Toxic
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Earth Power
+Endeavor
+Fire Punch
+Heat Wave
+Icy Wind
+Iron Defense
+Iron Head
+Iron Tail
+Knock Off
+Low Kick
+Pain Split
+Sleep Talk
+Snore
+Spite
+Stealth Rock
+Thunder Punch
+Uproar
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Weezing ###
+#-----------------------------------
+Types: Poison, Fairy
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Double Hit
+Lv. 1:   Double Hit
+Lv. 1:   Strange Steam
+Lv. 1:   Defog
+Lv. 1:   Heat Wave
+Lv. 1:   Smog
+Lv. 1:   Smokescreen
+Lv. 1:   Haze
+Lv. 1:   Poison Gas
+Lv. 1:   Tackle
+Lv. 1:   Fairy Wind
+Lv. 1:   Aromatic Mist
+Lv. 12:  Clear Smog
+Lv. 16:  Assurance
+Lv. 20:  Sludge
+Lv. 24:  Aromatherapy
+Lv. 28:  Self-Destruct
+Lv. 32:  Sludge Bomb
+Lv. 38:  Toxic
+Lv. 44:  Belch
+Lv. 50:  Explosion
+Lv. 56:  Memento
+Lv. 62:  Destiny Bond
+Lv. 68:  Misty Terrain
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Explosion
+Facade
+Fire Blast
+Flamethrower
+Giga Impact
+Gyro Ball
+Hidden Power
+Hyper Beam
+Payback
+Play Rough
+Protect
+Rain Dance
+Rest
+Shadow Ball
+Sludge Bomb
+Sludge Wave
+Substitute
+Sunny Day
+Taunt
+Thief
+Thunder
+Thunderbolt
+Toxic
+Venoshock
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Heat Wave
+Sleep Talk
+Snore
+Uproar
+Wonder Room
+#-----------------------------------
+In the wild Galarian Weezing can hold:
+Misty Seed (5%)
+#-----------------------------------
+
+#-----------------------------------
+### Mega Kangaskhan ###
+#-----------------------------------
+# Base Stats #
+HP: 105
+Atk: 125
+Def: 100
+Sp. Atk: 60
+Sp. Def: 100
+Speed: 100
+#-----------------------------------
+Abilities: Parental Bond
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Mr. Mime ###
+#-----------------------------------
+Types: Ice, Psychic
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 65
+Def: 65
+Sp. Atk: 90
+Sp. Def: 90
+Speed: 100
+#-----------------------------------
+Abilities: Vital Spirit, Screen Cleaner
+Hidden Ability: Ice Body
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Copycat
+Lv. 1:   Encore
+Lv. 1:   Role Play
+Lv. 1:   Protect
+Lv. 1:   Recycle
+Lv. 1:   Mimic
+Lv. 1:   Light Screen
+Lv. 1:   Reflect
+Lv. 1:   Safeguard
+Lv. 1:   Dazzling Gleam
+Lv. 1:   Misty Terrain
+Lv. 1:   Pound
+Lv. 1:   Rapid Spin
+Lv. 1:   Baton Pass
+Lv. 1:   Ice Shard
+Lv. 12:  Confusion
+Lv. 16:  Ally Switch
+Lv. 20:  Icy Wind
+Lv. 24:  Double Kick
+Lv. 28:  Psybeam
+Lv. 32:  Hypnosis
+Lv. 36:  Mirror Coat
+Lv. 40:  Sucker Punch
+Lv. 44:  Freeze-Dry
+Lv. 48:  Psychic
+Lv. 52:  Teeter Dance
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Brick Break
+Calm Mind
+Energy Ball
+Facade
+Focus Blast
+Giga Impact
+Grass Knot
+Hail
+Hidden Power
+Hyper Beam
+Ice Beam
+Payback
+Protect
+Psychic
+Psyshock
+Rain Dance
+Reflect
+Rest
+Safeguard
+Shadow Ball
+Solar Beam
+Substitute
+Sunny Day
+Taunt
+Thief
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Trick Room
+#-----------------------------------
+# Move Tutor moves #
+Drain Punch
+Endure
+Helping Hand
+Ice Punch
+Icy Wind
+Iron Defense
+Magic Room
+Metronome
+Recycle
+Sleep Talk
+Snore
+Sucker Punch
+Trick
+Uproar
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+# Evolutions #
+Mr. Rime - Obtained by levelling up Galarian Mr. Mime to at least level 42.
+#-----------------------------------
+
+#-----------------------------------
+### Mega Pinsir ###
+#-----------------------------------
+Types: Bug, Flying
+#-----------------------------------
+# Base Stats #
+HP: 65
+Atk: 155
+Def: 120
+Sp. Atk: 65
+Sp. Def: 90
+Speed: 105
+#-----------------------------------
+Abilities: Aerilate
+#-----------------------------------
+
+#-----------------------------------
+### Mega Gyarados ###
+#-----------------------------------
+Types: Water, Dark
+#-----------------------------------
+# Base Stats #
+HP: 95
+Atk: 155
+Def: 109
+Sp. Atk: 70
+Sp. Def: 130
+Speed: 81
+#-----------------------------------
+Abilities: Mold Breaker
+#-----------------------------------
+
+#-----------------------------------
+### Mega Aerodactyl ###
+#-----------------------------------
+# Base Stats #
+HP: 80
+Atk: 135
+Def: 85
+Sp. Atk: 70
+Sp. Def: 95
+Speed: 150
+#-----------------------------------
+Abilities: Tough Claws
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Articuno ###
+#-----------------------------------
+Types: Psychic, Flying
+#-----------------------------------
+# Base Stats #
+HP: 90
+Atk: 85
+Def: 85
+Sp. Atk: 125
+Sp. Def: 100
+Speed: 95
+#-----------------------------------
+Abilities: Competitive
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Gust
+Lv. 1:   Psycho Shift
+Lv. 5:   Confusion
+Lv. 10:  Reflect
+Lv. 15:  Hypnosis
+Lv. 20:  Agility
+Lv. 25:  Ancient Power
+Lv. 30:  Tailwind
+Lv. 35:  Psycho Cut
+Lv. 40:  Recover
+Lv. 45:  Freezing Glare
+Lv. 50:  Dream Eater
+Lv. 55:  Hurricane
+Lv. 60:  Mind Reader
+Lv. 65:  Future Sight
+Lv. 70:  Trick Room
+#-----------------------------------
+# Moves learnt by TM #
+Calm Mind
+Facade
+Giga Impact
+Hidden Power
+Hurricane
+Hyper Beam
+Protect
+Psychic
+Psyshock
+Reflect
+Rest
+Shadow Ball
+Substitute
+Toxic
+Trick Room
+U-turn
+#-----------------------------------
+# Move Tutor moves #
+Ancient Power
+Brave Bird
+Endure
+Hyper Voice
+Sleep Talk
+Snore
+Swift
+Tailwind
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Zapdos ###
+#-----------------------------------
+Types: Fighting, Flying
+#-----------------------------------
+# Base Stats #
+HP: 90
+Atk: 125
+Def: 90
+Sp. Atk: 85
+Sp. Def: 90
+Speed: 100
+#-----------------------------------
+Abilities: Defiant
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Peck
+Lv. 1:   Focus Energy
+Lv. 5:   Rock Smash
+Lv. 10:  Light Screen
+Lv. 15:  Pluck
+Lv. 20:  Agility
+Lv. 25:  Ancient Power
+Lv. 30:  Brick Break
+Lv. 35:  Drill Peck
+Lv. 40:  Quick Guard
+Lv. 45:  Thunderous Kick
+Lv. 50:  Bulk Up
+Lv. 55:  Counter
+Lv. 60:  Detect
+Lv. 65:  Close Combat
+Lv. 70:  Reversal
+#-----------------------------------
+# Moves learnt by TM #
+Acrobatics
+Brick Break
+Bulk Up
+Close Combat
+Drill Peck
+Facade
+Giga Impact
+Hidden Power
+Hurricane
+Hyper Beam
+Payback
+Protect
+Rest
+Retaliate
+Rock Smash
+Substitute
+Taunt
+Toxic
+U-turn
+#-----------------------------------
+# Move Tutor moves #
+Ancient Power
+Bounce
+Endure
+Low Kick
+Sleep Talk
+Snore
+Superpower
+Swift
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Moltres ###
+#-----------------------------------
+Types: Dark, Flying
+#-----------------------------------
+# Base Stats #
+HP: 90
+Atk: 85
+Def: 90
+Sp. Atk: 100
+Sp. Def: 125
+Speed: 90
+#-----------------------------------
+Abilities: Berserk
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Gust
+Lv. 1:   Leer
+Lv. 5:   Payback
+Lv. 10:  Safeguard
+Lv. 15:  Wing Attack
+Lv. 20:  Agility
+Lv. 25:  Ancient Power
+Lv. 30:  Sucker Punch
+Lv. 35:  Air Slash
+Lv. 40:  After You
+Lv. 45:  Fiery Wrath
+Lv. 50:  Nasty Plot
+Lv. 55:  Hurricane
+Lv. 60:  Endure
+Lv. 65:  Memento
+Lv. 70:  Sky Attack
+#-----------------------------------
+# Moves learnt by TM #
+Facade
+Giga Impact
+Hidden Power
+Hurricane
+Hyper Beam
+Payback
+Protect
+Rest
+Safeguard
+Shadow Ball
+Snarl
+Substitute
+Taunt
+Toxic
+U-turn
+#-----------------------------------
+# Move Tutor moves #
+After You
+Ancient Power
+Brave Bird
+Endure
+Foul Play
+Hyper Voice
+Sky Attack
+Sleep Talk
+Snore
+Sucker Punch
+Swift
+#-----------------------------------
+
+#-----------------------------------
+### Mega Mewtwo X ###
+#-----------------------------------
+Types: Psychic, Fighting
+#-----------------------------------
+# Base Stats #
+HP: 106
+Atk: 190
+Def: 100
+Sp. Atk: 154
+Sp. Def: 100
+Speed: 130
+#-----------------------------------
+Abilities: Steadfast
+#-----------------------------------
+
+#-----------------------------------
+### Mega Mewtwo Y ###
+#-----------------------------------
+# Base Stats #
+HP: 106
+Atk: 150
+Def: 70
+Sp. Atk: 194
+Sp. Def: 120
+Speed: 140
+#-----------------------------------
+Abilities: Insomnia
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Typhlosion ###
+#-----------------------------------
+Types: Fire, Ghost
+#-----------------------------------
+# Base Stats #
+HP: 73
+Atk: 84
+Def: 78
+Sp. Atk: 119
+Sp. Def: 85
+Speed: 95
+#-----------------------------------
+Abilities: Blaze
+Hidden Ability: Frisk
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Infernal Parade
+Lv. 1:   Eruption
+Lv. 1:   Double-Edge
+Lv. 1:   Gyro Ball
+Lv. 1:   Tackle
+Lv. 1:   Leer
+Lv. 1:   Smokescreen
+Lv. 1:   Ember
+Lv. 13:  Quick Attack
+Lv. 20:  Flame Wheel
+Lv. 24:  Defense Curl
+Lv. 31:  Swift
+Lv. 35:  Flame Charge
+Lv. 43:  Lava Plume
+Lv. 48:  Flamethrower
+Lv. 56:  Inferno
+Lv. 61:  Rollout
+Lv. 74:  Overheat
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Brick Break
+Bulldoze
+Calm Mind
+Dig
+Earthquake
+Facade
+Fire Blast
+Flame Charge
+Flamethrower
+Focus Blast
+Giga Impact
+Gyro Ball
+Hidden Power
+Hyper Beam
+Overheat
+Play Rough
+Protect
+Rest
+Rock Slide
+Shadow Ball
+Shadow Claw
+Solar Beam
+Substitute
+Sunny Day
+Toxic
+Wild Charge
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Blast Burn
+Covet
+Endure
+Fire Pledge
+Fire Punch
+Heat Wave
+Iron Head
+Low Kick
+Sleep Talk
+Snore
+Swift
+Thunder Punch
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Mega Ampharos ###
+#-----------------------------------
+Types: Electric, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 90
+Atk: 95
+Def: 105
+Sp. Atk: 165
+Sp. Def: 110
+Speed: 45
+#-----------------------------------
+Abilities: Mold Breaker
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Slowking ###
+#-----------------------------------
+Types: Poison, Psychic
+#-----------------------------------
+# Base Stats #
+HP: 95
+Atk: 65
+Def: 80
+Sp. Atk: 110
+Sp. Def: 110
+Speed: 30
+#-----------------------------------
+Abilities: Curious Medicine, Own Tempo
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Eerie Spell
+Lv. 1:   Eerie Spell
+Lv. 1:   Power Gem
+Lv. 1:   Nasty Plot
+Lv. 1:   Swagger
+Lv. 1:   Tackle
+Lv. 1:   Curse
+Lv. 1:   Growl
+Lv. 1:   Acid
+Lv. 9:   Yawn
+Lv. 12:  Confusion
+Lv. 15:  Disable
+Lv. 18:  Water Pulse
+Lv. 21:  Headbutt
+Lv. 24:  Zen Headbutt
+Lv. 27:  Amnesia
+Lv. 30:  Surf
+Lv. 33:  Slack Off
+Lv. 36:  Psychic
+Lv. 39:  Psych Up
+Lv. 42:  Rain Dance
+Lv. 45:  Heal Pulse
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Brick Break
+Bulldoze
+Calm Mind
+Dig
+Dive
+Earthquake
+Facade
+Fire Blast
+Flamethrower
+Focus Blast
+Giga Impact
+Grass Knot
+Hail
+Hidden Power
+Hyper Beam
+Ice Beam
+Protect
+Psychic
+Psyshock
+Rain Dance
+Razor Shell
+Rest
+Scald
+Shadow Ball
+Sludge Bomb
+Sludge Wave
+Substitute
+Sunny Day
+Thunder Wave
+Toxic
+Trick Room
+Venoshock
+#-----------------------------------
+# Move Tutor moves #
+Block
+Drain Punch
+Endure
+Foul Play
+Headbutt
+Ice Punch
+Icy Wind
+Iron Defense
+Iron Tail
+Sleep Talk
+Snore
+Swift
+Trick
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Mega Steelix ###
+#-----------------------------------
+# Base Stats #
+HP: 75
+Atk: 125
+Def: 230
+Sp. Atk: 55
+Sp. Def: 95
+Speed: 30
+#-----------------------------------
+Abilities: Sand Force
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Qwilfish ###
+#-----------------------------------
+Types: Dark, Poison
+#-----------------------------------
+Abilities: Poison Point, Swift Swim
+Hidden Ability: Intimidate
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Poison Sting
+Lv. 1:   Tackle
+Lv. 4:   Harden
+Lv. 8:   Bite
+Lv. 12:  Fell Stinger
+Lv. 16:  Minimize
+Lv. 20:  Spikes
+Lv. 24:  Brine
+Lv. 28:  Barb Barrage
+Lv. 32:  Pin Missile
+Lv. 36:  Toxic Spikes
+Lv. 40:  Spit Up
+Lv. 40:  Stockpile
+Lv. 44:  Toxic
+Lv. 44:  Crunch
+Lv. 52:  Acupressure
+Lv. 56:  Destiny Bond
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Aqua Jet
+Blizzard
+Crunch
+Facade
+Giga Impact
+Hidden Power
+Ice Beam
+Poison Jab
+Protect
+Rain Dance
+Rest
+Shadow Ball
+Sludge Bomb
+Substitute
+Taunt
+Toxic
+Venoshock
+Waterfall
+#-----------------------------------
+# Move Tutor moves #
+Aqua Tail
+Endure
+Gunk Shot
+Icy Wind
+Sleep Talk
+Snore
+#-----------------------------------
+# Egg Moves #
+Acid Spray
+Aqua Jet
+Aqua Tail
+Astonish
+Bubble Beam
+Flail
+Haze
+Self-Destruct
+Supersonic
+Water Pulse
+#-----------------------------------
+# Evolutions #
+Overqwil - Obtained by having Barb Barrage on Hisuian Qwilfish.
+#-----------------------------------
+
+#-----------------------------------
+### Mega Scizor ###
+#-----------------------------------
+# Base Stats #
+HP: 70
+Atk: 150
+Def: 140
+Sp. Atk: 100
+Sp. Def: 75
+Speed: 65
+#-----------------------------------
+Abilities: Technician
+#-----------------------------------
+
+#-----------------------------------
+### Mega Heracross ###
+#-----------------------------------
+# Base Stats #
+HP: 80
+Atk: 185
+Def: 115
+Sp. Atk: 40
+Sp. Def: 105
+Speed: 75
+#-----------------------------------
+Abilities: Skill Link
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Sneasel ###
+#-----------------------------------
+Types: Fighting, Poison
+#-----------------------------------
+Abilities: Inner Focus, Keen Eye
+Hidden Ability: Pickpocket
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Leer
+Lv. 1:   Rock Smash
+Lv. 1:   Scratch
+Lv. 6:   Taunt
+Lv. 12:  Quick Attack
+Lv. 18:  Metal Claw
+Lv. 24:  Poison Jab
+Lv. 30:  Brick Break
+Lv. 36:  Hone Claws
+Lv. 42:  Slash
+Lv. 48:  Agility
+Lv. 54:  Screech
+Lv. 60:  Close Combat
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Brick Break
+Bulk Up
+Calm Mind
+Close Combat
+Dig
+Facade
+Focus Blast
+Giga Impact
+Grass Knot
+Hidden Power
+Hone Claws
+Poison Jab
+Protect
+Rest
+Rock Smash
+Shadow Ball
+Shadow Claw
+Sludge Bomb
+Substitute
+Swords Dance
+Taunt
+Thief
+Toxic
+Venoshock
+X-Scissor
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Gunk Shot
+Low Kick
+Sleep Talk
+Snore
+Swift
+#-----------------------------------
+# Egg Moves #
+Counter
+Double Hit
+Fake Out
+Feint
+Night Slash
+Quick Guard
+Switcheroo
+#-----------------------------------
+# Evolutions #
+Sneasler - Obtained by levelling up Hisuian Sneasel while holding a Razor Claw during the day (5:00am - 7:59pm).
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Corsola ###
+#-----------------------------------
+Types: Ghost
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 55
+Def: 100
+Sp. Atk: 65
+Sp. Def: 100
+Speed: 30
+#-----------------------------------
+Abilities: Weak Armor
+Hidden Ability: Cursed Body
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Tackle
+Lv. 1:   Harden
+Lv. 5:   Astonish
+Lv. 10:  Disable
+Lv. 15:  Spite
+Lv. 20:  Ancient Power
+Lv. 25:  Hex
+Lv. 30:  Curse
+Lv. 35:  Strength Sap
+Lv. 40:  Power Gem
+Lv. 45:  Night Shade
+Lv. 50:  Grudge
+Lv. 55:  Mirror Coat
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Bulldoze
+Calm Mind
+Dig
+Earthquake
+Facade
+Head Smash
+Hidden Power
+Ice Beam
+Protect
+Psychic
+Reflect
+Rest
+Rock Slide
+Safeguard
+Scald
+Shadow Ball
+Stone Edge
+Substitute
+Sunny Day
+Toxic
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Ancient Power
+Earth Power
+Endure
+Giga Drain
+Icy Wind
+Iron Defense
+Sleep Talk
+Snore
+Stealth Rock
+#-----------------------------------
+# Egg Moves #
+Confuse Ray
+Destiny Bond
+Haze
+Head Smash
+Nature Power
+Water Pulse
+#-----------------------------------
+# Evolutions #
+Cursola - Obtained by levelling up Galarian Corsola to at least level 38.
+#-----------------------------------
+
+#-----------------------------------
+### Mega Houndoom ###
+#-----------------------------------
+# Base Stats #
+HP: 75
+Atk: 90
+Def: 90
+Sp. Atk: 140
+Sp. Def: 90
+Speed: 115
+#-----------------------------------
+Abilities: Solar Power
+#-----------------------------------
+
+#-----------------------------------
+### Mega Tyranitar ###
+#-----------------------------------
+# Base Stats #
+HP: 100
+Atk: 164
+Def: 150
+Sp. Atk: 95
+Sp. Def: 120
+Speed: 71
+#-----------------------------------
+
+#-----------------------------------
+### Mega Sceptile ###
+#-----------------------------------
+Types: Grass, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 70
+Atk: 110
+Def: 75
+Sp. Atk: 145
+Sp. Def: 85
+Speed: 145
+#-----------------------------------
+Abilities: Lightning Rod
+#-----------------------------------
+
+#-----------------------------------
+### Mega Blaziken ###
+#-----------------------------------
+# Base Stats #
+HP: 80
+Atk: 160
+Def: 80
+Sp. Atk: 130
+Sp. Def: 80
+Speed: 100
+#-----------------------------------
+Abilities: Speed Boost
+#-----------------------------------
+
+#-----------------------------------
+### Mega Swampert ###
+#-----------------------------------
+# Base Stats #
+HP: 100
+Atk: 150
+Def: 110
+Sp. Atk: 95
+Sp. Def: 110
+Speed: 70
+#-----------------------------------
+Abilities: Swift Swim
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Zigzagoon ###
+#-----------------------------------
+Types: Dark, Normal
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Tackle
+Lv. 1:   Leer
+Lv. 3:   Sand Attack
+Lv. 6:   Lick
+Lv. 9:   Snarl
+Lv. 12:  Headbutt
+Lv. 15:  Baby-Doll Eyes
+Lv. 18:  Pin Missile
+Lv. 21:  Rest
+Lv. 24:  Take Down
+Lv. 27:  Scary Face
+Lv. 30:  Counter
+Lv. 33:  Taunt
+Lv. 36:  Double-Edge
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Dig
+Facade
+Grass Knot
+Hidden Power
+Ice Beam
+Payback
+Protect
+Rain Dance
+Rest
+Retaliate
+Shadow Ball
+Snarl
+Substitute
+Sunny Day
+Taunt
+Thief
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Extreme Speed
+Gunk Shot
+Headbutt
+Helping Hand
+Hyper Voice
+Icy Wind
+Iron Tail
+Knock Off
+Seed Bomb
+Sleep Talk
+Snore
+Swift
+Trick
+#-----------------------------------
+# Egg Moves #
+Knock Off
+Parting Shot
+Quick Guard
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Linoone ###
+#-----------------------------------
+Types: Dark, Normal
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Night Slash
+Lv. 1:   Night Slash
+Lv. 1:   Switcheroo
+Lv. 1:   Pin Missile
+Lv. 1:   Baby-Doll Eyes
+Lv. 1:   Tackle
+Lv. 1:   Leer
+Lv. 1:   Sand Attack
+Lv. 1:   Lick
+Lv. 9:   Snarl
+Lv. 12:  Headbutt
+Lv. 15:  Hone Claws
+Lv. 18:  Fury Swipes
+Lv. 23:  Rest
+Lv. 28:  Take Down
+Lv. 33:  Scary Face
+Lv. 38:  Counter
+Lv. 43:  Taunt
+Lv. 48:  Double-Edge
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Body Press
+Blizzard
+Dig
+Facade
+Giga Impact
+Grass Knot
+Hidden Power
+Hone Claws
+Hyper Beam
+Ice Beam
+Payback
+Protect
+Rain Dance
+Rest
+Retaliate
+Shadow Ball
+Shadow Claw
+Snarl
+Substitute
+Sunny Day
+Taunt
+Thief
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Extreme Speed
+Gunk Shot
+Headbutt
+Helping Hand
+Hyper Voice
+Icy Wind
+Iron Tail
+Knock Off
+Seed Bomb
+Sleep Talk
+Snore
+Swift
+Trick
+#-----------------------------------
+# Evolutions #
+Obstagoon - Obtained by levelling up Galarian Linoone to at least level 35 at night (8:00pm - 4:59am).
+#-----------------------------------
+
+#-----------------------------------
+### Mega Gardevoir ###
+#-----------------------------------
+# Base Stats #
+HP: 68
+Atk: 85
+Def: 65
+Sp. Atk: 165
+Sp. Def: 135
+Speed: 100
+#-----------------------------------
+Abilities: Pixilate
+#-----------------------------------
+
+#-----------------------------------
+### Mega Sableye ###
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 85
+Def: 125
+Sp. Atk: 85
+Sp. Def: 115
+Speed: 20
+#-----------------------------------
+Abilities: Magic Bounce
+#-----------------------------------
+
+#-----------------------------------
+### Mega Mawile ###
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 105
+Def: 125
+Sp. Atk: 55
+Sp. Def: 95
+Speed: 50
+#-----------------------------------
+Abilities: Huge Power
+#-----------------------------------
+
+#-----------------------------------
+### Mega Aggron ###
+#-----------------------------------
+Types: Steel
+#-----------------------------------
+# Base Stats #
+HP: 70
+Atk: 140
+Def: 230
+Sp. Atk: 60
+Sp. Def: 80
+Speed: 50
+#-----------------------------------
+Abilities: Filter
+#-----------------------------------
+
+#-----------------------------------
+### Mega Medicham ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 100
+Def: 85
+Sp. Atk: 80
+Sp. Def: 85
+Speed: 100
+#-----------------------------------
+
+#-----------------------------------
+### Mega Manectric ###
+#-----------------------------------
+# Base Stats #
+HP: 70
+Atk: 75
+Def: 80
+Sp. Atk: 135
+Sp. Def: 80
+Speed: 135
+#-----------------------------------
+Abilities: Intimidate
+#-----------------------------------
+
+#-----------------------------------
+### Mega Sharpedo ###
+#-----------------------------------
+# Base Stats #
+HP: 70
+Atk: 140
+Def: 70
+Sp. Atk: 110
+Sp. Def: 65
+Speed: 105
+#-----------------------------------
+Abilities: Strong Jaw
+#-----------------------------------
+
+#-----------------------------------
+### Mega Camerupt ###
+#-----------------------------------
+# Base Stats #
+HP: 70
+Atk: 120
+Def: 100
+Sp. Atk: 145
+Sp. Def: 105
+Speed: 20
+#-----------------------------------
+Abilities: Sheer Force
+#-----------------------------------
+
+#-----------------------------------
+### Mega Altaria ###
+#-----------------------------------
+Types: Dragon, Fairy
+#-----------------------------------
+# Base Stats #
+HP: 75
+Atk: 110
+Def: 110
+Sp. Atk: 110
+Sp. Def: 105
+Speed: 80
+#-----------------------------------
+Abilities: Pixilate
+#-----------------------------------
+
+#-----------------------------------
+### Sunny Form Castform ###
+#-----------------------------------
+Types: Fire
+#-----------------------------------
+
+#-----------------------------------
+### Rainy Form Castform ###
+#-----------------------------------
+Types: Water
+#-----------------------------------
+
+#-----------------------------------
+### Snowy Form Castform ###
+#-----------------------------------
+Types: Ice
+#-----------------------------------
+
+#-----------------------------------
+### Mega Banette ###
+#-----------------------------------
+# Base Stats #
+HP: 64
+Atk: 165
+Def: 75
+Sp. Atk: 93
+Sp. Def: 83
+Speed: 75
+#-----------------------------------
+Abilities: Prankster
+#-----------------------------------
+
+#-----------------------------------
+### Mega Absol ###
+#-----------------------------------
+# Base Stats #
+HP: 65
+Atk: 150
+Def: 60
+Sp. Atk: 115
+Sp. Def: 60
+Speed: 115
+#-----------------------------------
+Abilities: Magic Bounce
+#-----------------------------------
+
+#-----------------------------------
+### Mega Glalie ###
+#-----------------------------------
+# Base Stats #
+HP: 80
+Atk: 120
+Def: 80
+Sp. Atk: 120
+Sp. Def: 80
+Speed: 100
+#-----------------------------------
+Abilities: Refrigerate
+#-----------------------------------
+
+#-----------------------------------
+### Mega Salamence ###
+#-----------------------------------
+# Base Stats #
+HP: 95
+Atk: 145
+Def: 130
+Sp. Atk: 120
+Sp. Def: 90
+Speed: 120
+#-----------------------------------
+Abilities: Aerilate
+#-----------------------------------
+
+#-----------------------------------
+### Mega Metagross ###
+#-----------------------------------
+# Base Stats #
+HP: 95
+Atk: 145
+Def: 130
+Sp. Atk: 120
+Sp. Def: 90
+Speed: 120
+#-----------------------------------
+Abilities: Tough Claws
+#-----------------------------------
+
+#-----------------------------------
+### Mega Latias ###
+#-----------------------------------
+# Base Stats #
+HP: 80
+Atk: 100
+Def: 120
+Sp. Atk: 140
+Sp. Def: 150
+Speed: 110
+#-----------------------------------
+
+#-----------------------------------
+### Mega Latios ###
+#-----------------------------------
+# Base Stats #
+HP: 80
+Atk: 130
+Def: 100
+Sp. Atk: 160
+Sp. Def: 120
+Speed: 110
+#-----------------------------------
+
+#-----------------------------------
+### Primal Kyogre ###
+#-----------------------------------
+# Base Stats #
+HP: 100
+Atk: 150
+Def: 90
+Sp. Atk: 180
+Sp. Def: 160
+Speed: 90
+#-----------------------------------
+Abilities: Primordial Sea
+#-----------------------------------
+
+#-----------------------------------
+### Primal Groudon ###
+#-----------------------------------
+Types: Ground, Fire
+#-----------------------------------
+# Base Stats #
+HP: 100
+Atk: 180
+Def: 160
+Sp. Atk: 150
+Sp. Def: 90
+Speed: 90
+#-----------------------------------
+Abilities: Desolate Land
+#-----------------------------------
+
+#-----------------------------------
+### Mega Rayquaza ###
+#-----------------------------------
+# Base Stats #
+HP: 105
+Atk: 180
+Def: 100
+Sp. Atk: 180
+Sp. Def: 100
+Speed: 115
+#-----------------------------------
+Abilities: Delta Stream
+#-----------------------------------
+
+#-----------------------------------
+### Attack Forme Deoxys ###
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 180
+Def: 20
+Sp. Atk: 180
+Sp. Def: 20
+Speed: 150
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Leer
+Lv. 1:   Wrap
+Lv. 7:   Night Shade
+Lv. 13:  Teleport
+Lv. 19:  Taunt
+Lv. 25:  Pursuit
+Lv. 25:  Toxic Spikes
+Lv. 31:  Psychic
+Lv. 37:  Superpower
+Lv. 43:  Psycho Shift
+Lv. 49:  Zen Headbutt
+Lv. 55:  Cosmic Power
+Lv. 61:  Zap Cannon
+Lv. 67:  Psycho Boost
+Lv. 73:  Hyper Beam
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Brick Break
+Calm Mind
+Charge Beam
+Double Team
+Energy Ball
+Facade
+Flash
+Flash Cannon
+Focus Blast
+Frustration
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Ice Beam
+Poison Jab
+Protect
+Psychic
+Psyshock
+Rain Dance
+Reflect
+Rest
+Return
+Rock Slide
+Rock Smash
+Safeguard
+Shadow Ball
+Solar Beam
+Substitute
+Sunny Day
+Taunt
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Trick Room
+#-----------------------------------
+# Move Tutor moves #
+Bind
+Drain Punch
+Endure
+Gravity
+Low Kick
+Low Sweep
+Magic Coat
+Recycle
+Role Play
+Signal Beam
+Skill Swap
+Sleep Talk
+Snatch
+Snore
+Stealth Rock
+Superpower
+Torment
+Trick
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Defense Forme Deoxys ###
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 70
+Def: 160
+Sp. Atk: 70
+Sp. Def: 160
+Speed: 90
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Leer
+Lv. 1:   Wrap
+Lv. 7:   Night Shade
+Lv. 13:  Teleport
+Lv. 19:  Knock Off
+Lv. 25:  Spikes
+Lv. 31:  Psychic
+Lv. 37:  Snatch
+Lv. 37:  Switcheroo
+Lv. 43:  Psycho Shift
+Lv. 49:  Zen Headbutt
+Lv. 55:  Iron Defense
+Lv. 55:  Amnesia
+Lv. 61:  Recover
+Lv. 67:  Psycho Boost
+Lv. 73:  Counter
+Lv. 73:  Mirror Coat
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Brick Break
+Calm Mind
+Charge Beam
+Double Team
+Energy Ball
+Facade
+Flash
+Flash Cannon
+Focus Blast
+Frustration
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Ice Beam
+Poison Jab
+Protect
+Psychic
+Psyshock
+Rain Dance
+Reflect
+Rest
+Return
+Rock Slide
+Rock Smash
+Safeguard
+Shadow Ball
+Solar Beam
+Substitute
+Sunny Day
+Taunt
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Trick Room
+#-----------------------------------
+# Move Tutor moves #
+Bind
+Drain Punch
+Endure
+Gravity
+Iron Defense
+Knock Off
+Low Kick
+Low Sweep
+Magic Coat
+Recycle
+Role Play
+Signal Beam
+Skill Swap
+Sleep Talk
+Snatch
+Snore
+Stealth Rock
+Torment
+Trick
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Speed Forme Deoxys ###
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 95
+Def: 90
+Sp. Atk: 95
+Sp. Def: 90
+Speed: 180
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Leer
+Lv. 1:   Wrap
+Lv. 7:   Night Shade
+Lv. 13:  Double Team
+Lv. 19:  Knock Off
+Lv. 25:  Toxic Spikes
+Lv. 31:  Psychic
+Lv. 37:  Swift
+Lv. 43:  Psycho Shift
+Lv. 49:  Zen Headbutt
+Lv. 55:  Agility
+Lv. 61:  Recover
+Lv. 67:  Psycho Boost
+Lv. 73:  Extreme Speed
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Brick Break
+Calm Mind
+Charge Beam
+Double Team
+Energy Ball
+Facade
+Flash
+Flash Cannon
+Focus Blast
+Frustration
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Ice Beam
+Poison Jab
+Protect
+Psychic
+Psyshock
+Rain Dance
+Reflect
+Rest
+Return
+Rock Slide
+Rock Smash
+Safeguard
+Shadow Ball
+Solar Beam
+Substitute
+Sunny Day
+Taunt
+Thunder
+Thunderbolt
+Thunder Wave
+Trick Room
+#-----------------------------------
+# Move Tutor moves #
+Bind
+Drain Punch
+Endure
+Extreme Speed
+Fire Punch
+Gravity
+Ice Punch
+Knock Off
+Low Kick
+Low Sweep
+Magic Coat
+Recycle
+Role Play
+Signal Beam
+Skill Swap
+Sleep Talk
+Snatch
+Snore
+Stealth Rock
+Thunder Punch
+Torment
+Trick
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Sandy Cloak Wormadam ###
+#-----------------------------------
+Types: Bug, Ground
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 79
+Def: 105
+Sp. Atk: 59
+Sp. Def: 85
+Speed: 36
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Quiver Dance
+Lv. 1:   Quiver Dance
+Lv. 1:   Sucker Punch
+Lv. 1:   Tackle
+Lv. 1:   Protect
+Lv. 1:   Bug Bite
+Lv. 1:   Protect
+Lv. 1:   Bug Bite
+Lv. 20:  Hidden Power
+Lv. 20:  String Shot
+Lv. 23:  Confusion
+Lv. 26:  Rock Blast
+Lv. 29:  Harden
+Lv. 32:  Psybeam
+Lv. 35:  Captivate
+Lv. 35:  Infestation
+Lv. 38:  Flail
+Lv. 41:  Attract
+Lv. 44:  Psychic
+Lv. 47:  Fissure
+Lv. 50:  Bug Buzz
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Bug Buzz
+Bulldoze
+Dig
+Double Team
+Earthquake
+Facade
+Flash
+Frustration
+Giga Impact
+Hidden Power
+Hyper Beam
+Protect
+Psychic
+Rain Dance
+Rest
+Return
+Safeguard
+Sandstorm
+Shadow Ball
+Solar Beam
+Substitute
+Sunny Day
+Thief
+Toxic
+Venoshock
+#-----------------------------------
+# Move Tutor moves #
+Bug Bite
+Earth Power
+Electroweb
+Endeavor
+Endure
+Giga Drain
+Signal Beam
+Skill Swap
+Sleep Talk
+Snore
+Stealth Rock
+Uproar
+#-----------------------------------
+
+#-----------------------------------
+### Trash Cloak Wormadam ###
+#-----------------------------------
+Types: Bug, Steel
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 69
+Def: 95
+Sp. Atk: 69
+Sp. Def: 95
+Speed: 36
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Quiver Dance
+Lv. 1:   Quiver Dance
+Lv. 1:   Metal Burst
+Lv. 1:   Sucker Punch
+Lv. 1:   Tackle
+Lv. 1:   Protect
+Lv. 1:   Bug Bite
+Lv. 1:   Protect
+Lv. 1:   Bug Bite
+Lv. 20:  Hidden Power
+Lv. 20:  String Shot
+Lv. 23:  Confusion
+Lv. 26:  Mirror Shot
+Lv. 29:  Metal Sound
+Lv. 32:  Psybeam
+Lv. 35:  Captivate
+Lv. 35:  Infestation
+Lv. 38:  Flail
+Lv. 41:  Attract
+Lv. 44:  Psychic
+Lv. 47:  Iron Head
+Lv. 50:  Bug Buzz
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Bug Buzz
+Dig
+Double Team
+Facade
+Flash
+Flash Cannon
+Frustration
+Giga Impact
+Gyro Ball
+Hidden Power
+Hyper Beam
+Protect
+Psychic
+Rain Dance
+Rest
+Return
+Safeguard
+Shadow Ball
+Solar Beam
+Substitute
+Sunny Day
+Thief
+Toxic
+Venoshock
+#-----------------------------------
+# Move Tutor moves #
+Bug Bite
+Electroweb
+Endeavor
+Endure
+Giga Drain
+Gunk Shot
+Iron Defense
+Iron Head
+Magnet Rise
+Seed Bomb
+Signal Beam
+Skill Swap
+Sleep Talk
+Snore
+Stealth Rock
+Uproar
+#-----------------------------------
+
+#-----------------------------------
+### Mega Lopunny ###
+#-----------------------------------
+Types: Normal, Fighting
+#-----------------------------------
+# Base Stats #
+HP: 65
+Atk: 136
+Def: 94
+Sp. Atk: 54
+Sp. Def: 96
+Speed: 135
+#-----------------------------------
+Abilities: Scrappy
+#-----------------------------------
+
+#-----------------------------------
+### Mega Garchomp ###
+#-----------------------------------
+# Base Stats #
+HP: 108
+Atk: 170
+Def: 115
+Sp. Atk: 120
+Sp. Def: 95
+Speed: 92
+#-----------------------------------
+Abilities: Sand Force
+#-----------------------------------
+
+#-----------------------------------
+### Mega Lucario ###
+#-----------------------------------
+# Base Stats #
+HP: 70
+Atk: 145
+Def: 88
+Sp. Atk: 140
+Sp. Def: 70
+Speed: 112
+#-----------------------------------
+Abilities: Adaptability
+#-----------------------------------
+
+#-----------------------------------
+### Mega Abomasnow ###
+#-----------------------------------
+# Base Stats #
+HP: 90
+Atk: 132
+Def: 105
+Sp. Atk: 132
+Sp. Def: 105
+Speed: 30
+#-----------------------------------
+
+#-----------------------------------
+### Mega Gallade ###
+#-----------------------------------
+# Base Stats #
+HP: 68
+Atk: 165
+Def: 95
+Sp. Atk: 65
+Sp. Def: 115
+Speed: 110
+#-----------------------------------
+Abilities: Inner Focus
+#-----------------------------------
+
+#-----------------------------------
+### Heat Rotom ###
+#-----------------------------------
+Types: Electric, Fire
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 65
+Def: 107
+Sp. Atk: 105
+Sp. Def: 107
+Speed: 86
+#-----------------------------------
+
+#-----------------------------------
+### Wash Rotom ###
+#-----------------------------------
+Types: Electric, Water
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 65
+Def: 107
+Sp. Atk: 105
+Sp. Def: 107
+Speed: 86
+#-----------------------------------
+
+#-----------------------------------
+### Frost Rotom ###
+#-----------------------------------
+Types: Electric, Ice
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 65
+Def: 107
+Sp. Atk: 105
+Sp. Def: 107
+Speed: 86
+#-----------------------------------
+
+#-----------------------------------
+### Fan Rotom ###
+#-----------------------------------
+Types: Electric, Flying
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 65
+Def: 107
+Sp. Atk: 105
+Sp. Def: 107
+Speed: 86
+#-----------------------------------
+
+#-----------------------------------
+### Mow Rotom ###
+#-----------------------------------
+Types: Electric, Grass
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 65
+Def: 107
+Sp. Atk: 105
+Sp. Def: 107
+Speed: 86
+#-----------------------------------
+
+#-----------------------------------
+### Origin Forme Dialga ###
+#-----------------------------------
+Types: Steel, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 100
+Atk: 100
+Def: 120
+Sp. Atk: 150
+Sp. Def: 120
+Speed: 90
+#-----------------------------------
+Abilities: Pressure
+#-----------------------------------
+
+#-----------------------------------
+### Origin Forme Palkia ###
+#-----------------------------------
+Types: Water, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 90
+Atk: 100
+Def: 100
+Sp. Atk: 150
+Sp. Def: 120
+Speed: 120
+#-----------------------------------
+Abilities: Pressure
+#-----------------------------------
+
+#-----------------------------------
+### Origin Forme Giratina ###
+#-----------------------------------
+# Base Stats #
+HP: 150
+Atk: 120
+Def: 100
+Sp. Atk: 120
+Sp. Def: 100
+Speed: 90
+#-----------------------------------
+Abilities: Levitate
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Bulldoze
+Calm Mind
+Charge Beam
+Double Team
+Dragon Claw
+Dragon Tail
+Earthquake
+Energy Ball
+Facade
+Frustration
+Giga Impact
+Hidden Power
+Hyper Beam
+Outrage
+Payback
+Phantom Force
+Protect
+Psychic
+Rain Dance
+Rest
+Return
+Roar
+Rock Smash
+Safeguard
+Shadow Ball
+Shadow Claw
+Stone Edge
+Substitute
+Sunny Day
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Aqua Tail
+Draco Meteor
+Dragon Pulse
+Earth Power
+Endure
+Gravity
+Hyper Voice
+Icy Wind
+Iron Head
+Iron Tail
+Magic Coat
+Sleep Talk
+Snore
+Spite
+Swift
+Tailwind
+#-----------------------------------
+
+#-----------------------------------
+### Sky Forme Shaymin ###
+#-----------------------------------
+Types: Grass, Flying
+#-----------------------------------
+# Base Stats #
+HP: 100
+Atk: 103
+Def: 75
+Sp. Atk: 120
+Sp. Def: 75
+Speed: 127
+#-----------------------------------
+Abilities: Serene Grace
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Growth
+Lv. 10:  Magical Leaf
+Lv. 19:  Leech Seed
+Lv. 28:  Quick Attack
+Lv. 37:  Sweet Scent
+Lv. 46:  Natural Gift
+Lv. 46:  Healing Wish
+Lv. 55:  Worry Seed
+Lv. 64:  Air Slash
+Lv. 73:  Energy Ball
+Lv. 82:  Sweet Kiss
+Lv. 91:  Leaf Storm
+Lv. 100: Seed Flare
+#-----------------------------------
+# Moves learnt by TM #
+Double Team
+Energy Ball
+Facade
+Flash
+Frustration
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Protect
+Psychic
+Rest
+Return
+Safeguard
+Solar Beam
+Substitute
+Sunny Day
+Swords Dance
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Endure
+Giga Drain
+Last Resort
+Seed Bomb
+Sleep Talk
+Snore
+Synthesis
+Tailwind
+Worry Seed
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Fighting Type Arceus ###
+#-----------------------------------
+Types: Fighting
+#-----------------------------------
+
+#-----------------------------------
+### Flying Type Arceus ###
+#-----------------------------------
+Types: Flying
+#-----------------------------------
+
+#-----------------------------------
+### Poison Type Arceus ###
+#-----------------------------------
+Types: Poison
+#-----------------------------------
+
+#-----------------------------------
+### Ground Type Arceus ###
+#-----------------------------------
+Types: Ground
+#-----------------------------------
+
+#-----------------------------------
+### Rock Type Arceus ###
+#-----------------------------------
+Types: Rock
+#-----------------------------------
+
+#-----------------------------------
+### Bug Type Arceus ###
+#-----------------------------------
+Types: Bug
+#-----------------------------------
+
+#-----------------------------------
+### Ghost Type Arceus ###
+#-----------------------------------
+Types: Ghost
+#-----------------------------------
+
+#-----------------------------------
+### Steel Type Arceus ###
+#-----------------------------------
+Types: Steel
+#-----------------------------------
+
+#-----------------------------------
+### Fire Type Arceus ###
+#-----------------------------------
+Types: Fire
+#-----------------------------------
+
+#-----------------------------------
+### Water Type Arceus ###
+#-----------------------------------
+Types: Water
+#-----------------------------------
+
+#-----------------------------------
+### Grass Type Arceus ###
+#-----------------------------------
+Types: Grass
+#-----------------------------------
+
+#-----------------------------------
+### Electric Type Arceus ###
+#-----------------------------------
+Types: Electric
+#-----------------------------------
+
+#-----------------------------------
+### Psychic Type Arceus ###
+#-----------------------------------
+Types: Psychic
+#-----------------------------------
+
+#-----------------------------------
+### Ice Type Arceus ###
+#-----------------------------------
+Types: Ice
+#-----------------------------------
+
+#-----------------------------------
+### Dragon Type Arceus ###
+#-----------------------------------
+Types: Dragon
+#-----------------------------------
+
+#-----------------------------------
+### Dark Type Arceus ###
+#-----------------------------------
+Types: Dark
+#-----------------------------------
+
+#-----------------------------------
+### Fairy Type Arceus ###
+#-----------------------------------
+Types: Fairy
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Samurott ###
+#-----------------------------------
+Types: Water, Dark
+#-----------------------------------
+# Base Stats #
+HP: 90
+Atk: 108
+Def: 80
+Sp. Atk: 100
+Sp. Def: 65
+Speed: 85
+#-----------------------------------
+Abilities: Torrent
+Hidden Ability: Shell Armor
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Ceaseless Edge
+Lv. 1:   Megahorn
+Lv. 1:   Slash
+Lv. 1:   Sucker Punch
+Lv. 1:   Tackle
+Lv. 1:   Tail Whip
+Lv. 1:   Water Gun
+Lv. 13:  Focus Energy
+Lv. 18:  Razor Shell
+Lv. 21:  Fury Cutter
+Lv. 25:  Water Pulse
+Lv. 29:  Aerial Ace
+Lv. 34:  Aqua Jet
+Lv. 39:  Encore
+Lv. 46:  Aqua Tail
+Lv. 51:  Retaliate
+Lv. 58:  Swords Dance
+Lv. 63:  Hydro Pump
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Aqua Jet
+Attract
+Blizzard
+Brick Break
+Bulldoze
+Dig
+Facade
+Giga Impact
+Grass Knot
+Hail
+Hidden Power
+Hyper Beam
+Ice Beam
+Protect
+Rain Dance
+Razor Shell
+Rest
+Retaliate
+Smart Strike
+Snarl
+Substitute
+Swords Dance
+Taunt
+Thief
+Toxic
+Waterfall
+X-Scissor
+#-----------------------------------
+# Move Tutor moves #
+Aqua Tail
+Drill Run
+Endure
+Helping Hand
+Hydro Cannon
+Icy Wind
+Knock Off
+Sleep Talk
+Snore
+Sucker Punch
+Swift
+Water Pledge
+#-----------------------------------
+
+#-----------------------------------
+### Mega Audino ###
+#-----------------------------------
+Types: Normal, Fairy
+#-----------------------------------
+# Base Stats #
+HP: 103
+Atk: 60
+Def: 126
+Sp. Atk: 80
+Sp. Def: 126
+Speed: 50
+#-----------------------------------
+Abilities: Healer
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Lilligant ###
+#-----------------------------------
+Types: Grass, Fighting
+#-----------------------------------
+# Base Stats #
+HP: 70
+Atk: 105
+Def: 75
+Sp. Atk: 50
+Sp. Def: 75
+Speed: 105
+#-----------------------------------
+Abilities: Chlorophyll, Hustle
+Hidden Ability: Leaf Guard
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Victory Dance
+Lv. 1:   Absorb
+Lv. 1:   After You
+Lv. 1:   Defog
+Lv. 1:   Energy Ball
+Lv. 1:   Entrainment
+Lv. 1:   Giga Drain
+Lv. 1:   Growth
+Lv. 1:   Helping Hand
+Lv. 1:   Leaf Blade
+Lv. 1:   Leaf Storm
+Lv. 1:   Leech Seed
+Lv. 1:   Magical Leaf
+Lv. 1:   Mega Drain
+Lv. 1:   Mega Kick
+Lv. 1:   Petal Blizzard
+Lv. 1:   Sleep Powder
+Lv. 1:   Sleep Powder
+Lv. 1:   Solar Blade
+Lv. 1:   Stun Spore
+Lv. 1:   Sunny Day
+Lv. 1:   Synthesis
+Lv. 1:   Teeter Dance
+#-----------------------------------
+# Moves learnt by TM #
+Acrobatics
+Aerial Ace
+Attract
+Brick Break
+Close Combat
+Energy Ball
+Facade
+Giga Impact
+Grass Knot
+Hidden Power
+Hurricane
+Hyper Beam
+Leaf Blade
+Poison Jab
+Pollen Puff
+Protect
+Rain Dance
+Rest
+Solar Beam
+Solar Blade
+Substitute
+Sunny Day
+Swords Dance
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+After You
+Endure
+Giga Drain
+Helping Hand
+Low Kick
+Metronome
+Seed Bomb
+Sleep Talk
+Snore
+Synthesis
+#-----------------------------------
+
+#-----------------------------------
+### Blue-Striped Basculin ###
+#-----------------------------------
+Abilities: Rock Head, Adaptability
+#-----------------------------------
+In the wild Blue-Striped Basculin can hold:
+Deep Sea Scale (5%)
+#-----------------------------------
+
+#-----------------------------------
+### White-Striped Basculin ###
+#-----------------------------------
+Abilities: Rattled, Adaptability
+#-----------------------------------
+# Evolutions #
+Basculegion - Obtained by having Wave Crash on White-Striped Basculin.
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Darumaka ###
+#-----------------------------------
+Types: Ice
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Powder Snow
+Lv. 1:   Tackle
+Lv. 4:   Taunt
+Lv. 8:   Bite
+Lv. 12:  Avalanche
+Lv. 16:  Work Up
+Lv. 20:  Ice Fang
+Lv. 24:  Headbutt
+Lv. 28:  Ice Punch
+Lv. 32:  Uproar
+Lv. 36:  Belly Drum
+Lv. 40:  Blizzard
+Lv. 44:  Thrash
+Lv. 48:  Superpower
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Brick Break
+Dig
+Facade
+Fire Blast
+Flamethrower
+Grass Knot
+Gyro Ball
+Hidden Power
+Ice Beam
+Overheat
+Protect
+Rest
+Rock Slide
+Solar Beam
+Substitute
+Sunny Day
+Taunt
+Thief
+Thrash
+Toxic
+U-turn
+Will-O-Wisp
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Fire Punch
+Headbutt
+Heat Wave
+Ice Punch
+Sleep Talk
+Snore
+Superpower
+Uproar
+Zen Headbutt
+#-----------------------------------
+# Egg Moves #
+Flame Wheel
+Focus Punch
+Freeze-Dry
+Hammer Arm
+Incinerate
+Power-Up Punch
+Take Down
+Yawn
+#-----------------------------------
+# Evolutions #
+Darmanitan - Obtained by using an Ice Stone on Galarian Darumaka.
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Standard Mode Darmanitan ###
+#-----------------------------------
+Types: Ice
+#-----------------------------------
+Abilities: Gorilla Tactics
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Icicle Crash
+Lv. 1:   Icicle Crash
+Lv. 1:   Powder Snow
+Lv. 1:   Tackle
+Lv. 1:   Taunt
+Lv. 1:   Bite
+Lv. 12:  Avalanche
+Lv. 16:  Work Up
+Lv. 20:  Ice Fang
+Lv. 24:  Headbutt
+Lv. 28:  Ice Punch
+Lv. 32:  Uproar
+Lv. 38:  Belly Drum
+Lv. 44:  Blizzard
+Lv. 50:  Thrash
+Lv. 56:  Superpower
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Body Press
+Blizzard
+Brick Break
+Bulk Up
+Bulldoze
+Dig
+Earthquake
+Facade
+Fire Blast
+Flamethrower
+Focus Blast
+Giga Impact
+Grass Knot
+Gyro Ball
+Hidden Power
+Hyper Beam
+Ice Beam
+Overheat
+Payback
+Protect
+Psychic
+Rest
+Rock Slide
+Solar Beam
+Stone Edge
+Substitute
+Sunny Day
+Taunt
+Thief
+Thrash
+Toxic
+U-turn
+Will-O-Wisp
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Fire Punch
+Headbutt
+Heat Wave
+Ice Punch
+Iron Defense
+Iron Head
+Sleep Talk
+Snore
+Superpower
+Uproar
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Unovan Zen Mode Darmanitan ###
+#-----------------------------------
+Types: Fire, Psychic
+#-----------------------------------
+# Base Stats #
+HP: 105
+Atk: 30
+Def: 105
+Sp. Atk: 140
+Sp. Def: 105
+Speed: 55
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Zen Mode Darmanitan ###
+#-----------------------------------
+Types: Ice, Fire
+#-----------------------------------
+# Base Stats #
+HP: 105
+Atk: 160
+Def: 55
+Sp. Atk: 30
+Sp. Def: 55
+Speed: 135
+#-----------------------------------
+Abilities: Gorilla Tactics
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Icicle Crash
+Lv. 1:   Icicle Crash
+Lv. 1:   Powder Snow
+Lv. 1:   Tackle
+Lv. 1:   Taunt
+Lv. 1:   Bite
+Lv. 12:  Avalanche
+Lv. 16:  Work Up
+Lv. 20:  Ice Fang
+Lv. 24:  Headbutt
+Lv. 28:  Ice Punch
+Lv. 32:  Uproar
+Lv. 38:  Belly Drum
+Lv. 44:  Blizzard
+Lv. 50:  Thrash
+Lv. 56:  Superpower
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Body Press
+Brick Break
+Bulk Up
+Bulldoze
+Dig
+Earthquake
+Facade
+Fire Blast
+Flamethrower
+Focus Blast
+Giga Impact
+Grass Knot
+Gyro Ball
+Hidden Power
+Hyper Beam
+Ice Beam
+Mega Punch
+Overheat
+Payback
+Protect
+Psychic
+Rest
+Rock Slide
+Solar Beam
+Stone Edge
+Substitute
+Sunny Day
+Taunt
+Thief
+U-turn
+Will-O-Wisp
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Fire Punch
+Heat Wave
+Ice Punch
+Iron Defense
+Iron Head
+Sleep Talk
+Snore
+Superpower
+Uproar
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Yamask ###
+#-----------------------------------
+Types: Ground, Ghost
+#-----------------------------------
+# Base Stats #
+HP: 38
+Atk: 55
+Def: 85
+Sp. Atk: 30
+Sp. Def: 65
+Speed: 30
+#-----------------------------------
+Abilities: Wandering Spirit
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Astonish
+Lv. 1:   Protect
+Lv. 4:   Haze
+Lv. 8:   Night Shade
+Lv. 12:  Disable
+Lv. 16:  Brutal Swing
+Lv. 20:  Crafty Shield
+Lv. 24:  Hex
+Lv. 28:  Mean Look
+Lv. 32:  Slam
+Lv. 36:  Curse
+Lv. 40:  Shadow Ball
+Lv. 44:  Earthquake
+Lv. 48:  Power Split
+Lv. 48:  Guard Split
+Lv. 52:  Destiny Bond
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Calm Mind
+Earthquake
+Energy Ball
+Facade
+Hidden Power
+Payback
+Protect
+Psychic
+Rain Dance
+Rest
+Rock Slide
+Safeguard
+Sandstorm
+Shadow Ball
+Substitute
+Thief
+Toxic
+Trick Room
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Earth Power
+Endure
+Iron Defense
+Sleep Talk
+Snore
+Trick
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+# Egg Moves #
+Memento
+#-----------------------------------
+# Evolutions #
+Runerigus - Obtained by recieving at least 49 damage on Galarian Yamask in battle.
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Zorua ###
+#-----------------------------------
+Types: Normal, Ghost
+#-----------------------------------
+# Base Stats #
+HP: 35
+Atk: 60
+Def: 40
+Sp. Atk: 85
+Sp. Def: 40
+Speed: 70
+#-----------------------------------
+Abilities: Illusion
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Leer
+Lv. 1:   Scratch
+Lv. 4:   Torment
+Lv. 8:   Hone Claws
+Lv. 12:  Shadow Sneak
+Lv. 16:  Curse
+Lv. 20:  Taunt
+Lv. 24:  Knock Off
+Lv. 28:  Spite
+Lv. 32:  Agility
+Lv. 36:  Shadow Ball
+Lv. 40:  Bitter Malice
+Lv. 44:  Nasty Plot
+Lv. 48:  Foul Play
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Facade
+Hail
+Hidden Power
+Hone Claws
+Protect
+Rest
+Shadow Ball
+Substitute
+Taunt
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Foul Play
+Knock Off
+Sleep Talk
+Snore
+#-----------------------------------
+# Egg Moves #
+Detect
+Extrasensory
+Memento
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Zoroark ###
+#-----------------------------------
+Types: Normal, Ghost
+#-----------------------------------
+# Base Stats #
+HP: 55
+Atk: 100
+Def: 60
+Sp. Atk: 125
+Sp. Def: 60
+Speed: 110
+#-----------------------------------
+Abilities: Illusion
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Shadow Claw
+Lv. 1:   Hone Claws
+Lv. 1:   Leer
+Lv. 1:   Scratch
+Lv. 1:   Torment
+Lv. 1:   U-turn
+Lv. 12:  Shadow Sneak
+Lv. 16:  Curse
+Lv. 20:  Taunt
+Lv. 24:  Knock Off
+Lv. 28:  Spite
+Lv. 34:  Agility
+Lv. 40:  Shadow Ball
+Lv. 46:  Bitter Malice
+Lv. 52:  Nasty Plot
+Lv. 58:  Foul Play
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Brick Break
+Calm Mind
+Crunch
+Dig
+Facade
+Flamethrower
+Focus Blast
+Giga Impact
+Grass Knot
+Hail
+Hidden Power
+Hone Claws
+Hyper Beam
+Phantom Force
+Protect
+Psychic
+Rain Dance
+Rest
+Shadow Ball
+Shadow Claw
+Sludge Bomb
+Snarl
+Substitute
+Swords Dance
+Taunt
+Thief
+Toxic
+U-turn
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Foul Play
+Helping Hand
+Hyper Voice
+Icy Wind
+Low Kick
+Knock Off
+Sleep Talk
+Snore
+Swift
+Trick
+#-----------------------------------
+
+#-----------------------------------
+### Galarian Stunfisk ###
+#-----------------------------------
+Types: Ground, Steel
+#-----------------------------------
+# Base Stats #
+HP: 109
+Atk: 81
+Def: 99
+Sp. Atk: 66
+Sp. Def: 84
+Speed: 32
+#-----------------------------------
+Abilities: Mimicry
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Mud-Slap
+Lv. 1:   Tackle
+Lv. 1:   Water Gun
+Lv. 1:   Metal Claw
+Lv. 5:   Endure
+Lv. 10:  Mud Shot
+Lv. 15:  Revenge
+Lv. 20:  Metal Sound
+Lv. 25:  Sucker Punch
+Lv. 30:  Iron Defense
+Lv. 35:  Bounce
+Lv. 40:  Muddy Water
+Lv. 45:  Snap Trap
+Lv. 50:  Flail
+Lv. 55:  Fissure
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Bulldoze
+Crunch
+Dig
+Earthquake
+Facade
+Flash Cannon
+Hidden Power
+Protect
+Rain Dance
+Rest
+Rock Slide
+Sandstorm
+Scald
+Sludge Bomb
+Sludge Wave
+Stone Edge
+Substitute
+Thunder Wave
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Bounce
+Earth Power
+Endure
+Foul Play
+Iron Defense
+Mud-Slap
+Sleep Talk
+Snore
+Stealth Rock
+Sucker Punch
+Uproar
+#-----------------------------------
+# Egg Moves #
+Astonish
+Bind
+Counter
+Curse
+Pain Split
+Reflect Type
+Spite
+Yawn
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Braviary ###
+#-----------------------------------
+Types: Psychic, Flying
+#-----------------------------------
+# Base Stats #
+HP: 110
+Atk: 83
+Def: 70
+Sp. Atk: 112
+Sp. Def: 70
+Speed: 65
+#-----------------------------------
+Abilities: Keen Eye, Sheer Force
+Hidden Ability: Tinted Lens
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Esper Wing
+Lv. 1:   Hone Claws
+Lv. 1:   Leer
+Lv. 1:   Peck
+Lv. 1:   Sky Attack
+Lv. 1:   Superpower
+Lv. 1:   Wing Attack
+Lv. 18:  Tailwind
+Lv. 24:  Scary Face
+Lv. 30:  Aerial Ace
+Lv. 36:  Slash
+Lv. 42:  Whirlwind
+Lv. 48:  Crush Claw
+Lv. 57:  Air Slash
+Lv. 64:  Defog
+Lv. 72:  Thrash
+Lv. 80:  Hurricane
+#-----------------------------------
+# Moves learnt by TM #
+Acrobatics
+Aerial Ace
+Attract
+Bulk Up
+Calm Mind
+Close Combat
+Facade
+Giga Impact
+Hidden Power
+Hone Claws
+Hurricane
+Hyper Beam
+Protect
+Psychic
+Psyshock
+Rain Dance
+Rest
+Rock Slide
+Rock Smash
+Shadow Ball
+Shadow Claw
+Snarl
+Substitute
+Sunny Day
+Thrash
+Toxic
+U-turn
+#-----------------------------------
+# Move Tutor moves #
+Brave Bird
+Endure
+Heat Wave
+Helping Hand
+Hyper Voice
+Icy Wind
+Roost
+Sky Attack
+Sleep Talk
+Snore
+Superpower
+Swift
+Tailwind
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Therian Forme Tornadus ###
+#-----------------------------------
+# Base Stats #
+HP: 79
+Atk: 100
+Def: 80
+Sp. Atk: 110
+Sp. Def: 90
+Speed: 121
+#-----------------------------------
+Abilities: Regenerator
+#-----------------------------------
+
+#-----------------------------------
+### Therian Forme Thundurus ###
+#-----------------------------------
+# Base Stats #
+HP: 79
+Atk: 105
+Def: 70
+Sp. Atk: 145
+Sp. Def: 80
+Speed: 101
+#-----------------------------------
+Abilities: Volt Absorb
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Bulk Up
+Charge Beam
+Double Team
+Facade
+Flash Cannon
+Focus Blast
+Frustration
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Payback
+Protect
+Psychic
+Rain Dance
+Rest
+Return
+Rock Smash
+Sky Drop
+Sludge Bomb
+Sludge Wave
+Smack Down
+Substitute
+Taunt
+Thief
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+U-turn
+Volt Switch
+Wild Charge
+#-----------------------------------
+# Move Tutor moves #
+Electroweb
+Foul Play
+Iron Tail
+Knock Off
+Role Play
+Sleep Talk
+Snore
+Superpower
+Thunder Punch
+Torment
+Uproar
+#-----------------------------------
+
+#-----------------------------------
+### Therian Forme Landorus ###
+#-----------------------------------
+# Base Stats #
+HP: 89
+Atk: 145
+Def: 90
+Sp. Atk: 105
+Sp. Def: 80
+Speed: 91
+#-----------------------------------
+Abilities: Intimidate
+#-----------------------------------
+
+#-----------------------------------
+### White Kyurem ###
+#-----------------------------------
+# Base Stats #
+HP: 125
+Atk: 120
+Def: 90
+Sp. Atk: 170
+Sp. Def: 100
+Speed: 95
+#-----------------------------------
+Abilities: Turboblaze
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Icy Wind
+Lv. 1:   Dragon Rage
+Lv. 8:   Imprison
+Lv. 15:  Ancient Power
+Lv. 22:  Ice Beam
+Lv. 29:  Dragon Breath
+Lv. 36:  Slash
+Lv. 43:  Fusion Flare
+Lv. 50:  Ice Burn
+Lv. 57:  Dragon Pulse
+Lv. 64:  Noble Roar
+Lv. 71:  Endeavor
+Lv. 78:  Blizzard
+Lv. 85:  Outrage
+Lv. 92:  Hyper Voice
+#-----------------------------------
+
+#-----------------------------------
+### Black Kyurem ###
+#-----------------------------------
+# Base Stats #
+HP: 125
+Atk: 170
+Def: 100
+Sp. Atk: 120
+Sp. Def: 90
+Speed: 95
+#-----------------------------------
+Abilities: Teravolt
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Icy Wind
+Lv. 1:   Dragon Rage
+Lv. 8:   Imprison
+Lv. 15:  Ancient Power
+Lv. 22:  Ice Beam
+Lv. 29:  Dragon Breath
+Lv. 36:  Slash
+Lv. 43:  Fusion Bolt
+Lv. 50:  Freeze Shock
+Lv. 57:  Dragon Pulse
+Lv. 64:  Noble Roar
+Lv. 71:  Endeavor
+Lv. 78:  Blizzard
+Lv. 85:  Outrage
+Lv. 92:  Hyper Voice
+#-----------------------------------
+# Base Stats #
+HP: 125
+Atk: 120
+Def: 90
+Sp. Atk: 170
+Sp. Def: 100
+Speed: 95
+#-----------------------------------
+Abilities: Turboblaze
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Icy Wind
+Lv. 1:   Dragon Rage
+Lv. 8:   Imprison
+Lv. 15:  Ancient Power
+Lv. 22:  Ice Beam
+Lv. 29:  Dragon Breath
+Lv. 36:  Slash
+Lv. 43:  Fusion Flare
+Lv. 50:  Ice Burn
+Lv. 57:  Dragon Pulse
+Lv. 64:  Noble Roar
+Lv. 71:  Endeavor
+Lv. 78:  Blizzard
+Lv. 85:  Outrage
+Lv. 92:  Hyper Voice
+#-----------------------------------
+# Base Stats #
+HP: 125
+Atk: 170
+Def: 100
+Sp. Atk: 120
+Sp. Def: 90
+Speed: 95
+#-----------------------------------
+Abilities: Teravolt
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Icy Wind
+Lv. 1:   Dragon Rage
+Lv. 8:   Imprison
+Lv. 15:  Ancient Power
+Lv. 22:  Ice Beam
+Lv. 29:  Dragon Breath
+Lv. 36:  Slash
+Lv. 43:  Fusion Bolt
+Lv. 50:  Freeze Shock
+Lv. 57:  Dragon Pulse
+Lv. 64:  Noble Roar
+Lv. 71:  Endeavor
+Lv. 78:  Blizzard
+Lv. 85:  Outrage
+Lv. 92:  Hyper Voice
+#-----------------------------------
+
+#-----------------------------------
+### Resolute Form Keldeo ###
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Calm Mind
+Double Team
+Facade
+False Swipe
+Focus Blast
+Frustration
+Giga Impact
+Hail
+Hidden Power
+Hyper Beam
+Poison Jab
+Protect
+Rain Dance
+Reflect
+Rest
+Return
+Roar
+Rock Smash
+Safeguard
+Scald
+Stone Edge
+Substitute
+Swords Dance
+Taunt
+Toxic
+Work Up
+X-Scissor
+#-----------------------------------
+# Move Tutor moves #
+Aqua Tail
+Bounce
+Covet
+Endeavor
+Helping Hand
+Icy Wind
+Last Resort
+Low Kick
+Sleep Talk
+Snore
+Superpower
+#-----------------------------------
+
+#-----------------------------------
+### Pirouette Forme Meloetta ###
+#-----------------------------------
+Types: Normal, Fighting
+#-----------------------------------
+# Base Stats #
+HP: 100
+Atk: 128
+Def: 90
+Sp. Atk: 77
+Sp. Def: 77
+Speed: 128
+#-----------------------------------
+
+#-----------------------------------
+### Ash-Greninja ###
+#-----------------------------------
+# Base Stats #
+HP: 72
+Atk: 145
+Def: 67
+Sp. Atk: 153
+Sp. Def: 71
+Speed: 132
+#-----------------------------------
+Abilities: Battle Bond
+#-----------------------------------
+Egg Groups: Undiscovered
+#-----------------------------------
+
+#-----------------------------------
+### Female Meowstic ###
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Stored Power
+Lv. 1:   Me First
+Lv. 1:   Magical Leaf
+Lv. 1:   Scratch
+Lv. 1:   Leer
+Lv. 1:   Covet
+Lv. 1:   Confusion
+Lv. 5:   Covet
+Lv. 9:   Confusion
+Lv. 13:  Light Screen
+Lv. 17:  Psybeam
+Lv. 19:  Fake Out
+Lv. 22:  Disarming Voice
+Lv. 25:  Psyshock
+Lv. 28:  Charge Beam
+Lv. 31:  Shadow Ball
+Lv. 35:  Extrasensory
+Lv. 40:  Psychic
+Lv. 43:  Role Play
+Lv. 45:  Signal Beam
+Lv. 48:  Sucker Punch
+Lv. 50:  Future Sight
+Lv. 53:  Stored Power
+#-----------------------------------
+
+#-----------------------------------
+### Blade Forme Aegislash ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 140
+Def: 50
+Sp. Atk: 140
+Sp. Def: 50
+Speed: 60
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Sliggoo ###
+#-----------------------------------
+Types: Steel, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 58
+Atk: 75
+Def: 83
+Sp. Atk: 83
+Sp. Def: 113
+Speed: 40
+#-----------------------------------
+Abilities: Sap Sipper, Shell Armor
+Hidden Ability: Gooey
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Shelter
+Lv. 1:   Absorb
+Lv. 1:   Acid Armor
+Lv. 1:   Dragon Breath
+Lv. 1:   Tackle
+Lv. 1:   Water Gun
+Lv. 15:  Protect
+Lv. 20:  Flail
+Lv. 25:  Water Pulse
+Lv. 30:  Rain Dance
+Lv. 35:  Dragon Pulse
+Lv. 43:  Curse
+Lv. 49:  Body Slam
+Lv. 56:  Muddy Water
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Facade
+Flash Cannon
+Hidden Power
+Ice Beam
+Protect
+Outrage
+Rain Dance
+Rest
+Rock Slide
+Sandstorm
+Sludge Bomb
+Substitute
+Sunny Day
+Thunder
+Thunderbolt
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Draco Meteor
+Dragon Pulse
+Endure
+Iron Head
+Sleep Talk
+Snore
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Goodra ###
+#-----------------------------------
+Types: Steel, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 80
+Atk: 100
+Def: 100
+Sp. Atk: 110
+Sp. Def: 150
+Speed: 60
+#-----------------------------------
+Abilities: Sap Sipper, Shell Armor
+Hidden Ability: Gooey
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Iron Tail
+Lv. 1:   Absorb
+Lv. 1:   Acid Spray
+Lv. 1:   Dragon Breath
+Lv. 1:   Feint
+Lv. 1:   Shelter
+Lv. 1:   Tackle
+Lv. 1:   Tearful Look
+Lv. 1:   Water Gun
+Lv. 15:  Protect
+Lv. 20:  Flail
+Lv. 25:  Water Pulse
+Lv. 30:  Rain Dance
+Lv. 35:  Dragon Pulse
+Lv. 43:  Curse
+Lv. 49:  Body Slam
+Lv. 49:  Iron Head
+Lv. 58:  Muddy Water
+Lv. 67:  Heavy Slam
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Blizzard
+Body Press
+Bulldoze
+Dragon Claw
+Dragon Tail
+Earthquake
+Facade
+Fire Blast
+Flamethrower
+Flash Cannon
+Giga Impact
+Hidden Power
+Hyper Beam
+Ice Beam
+Outrage
+Protect
+Rain Dance
+Rest
+Rock Slide
+Sandstorm
+Sludge Bomb
+Substitute
+Sunny Day
+Thunder
+Thunderbolt
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Draco Meteor
+Dragon Pulse
+Endure
+Fire Punch
+Iron Head
+Iron Tail
+Sleep Talk
+Snore
+Thunder Punch
+#-----------------------------------
+
+#-----------------------------------
+### Large Size Pumpkaboo ###
+#-----------------------------------
+# Base Stats #
+HP: 54
+Atk: 66
+Def: 70
+Sp. Atk: 44
+Sp. Def: 55
+Speed: 46
+#-----------------------------------
+
+#-----------------------------------
+### Super Size Pumpkaboo ###
+#-----------------------------------
+# Base Stats #
+HP: 59
+Atk: 66
+Def: 70
+Sp. Atk: 44
+Sp. Def: 55
+Speed: 41
+#-----------------------------------
+In the wild Super Size Pumpkaboo can hold:
+Miracle Seed (100%)
+#-----------------------------------
+
+#-----------------------------------
+### Large Size Gourgeist ###
+#-----------------------------------
+# Base Stats #
+HP: 75
+Atk: 95
+Def: 122
+Sp. Atk: 58
+Sp. Def: 75
+Speed: 69
+#-----------------------------------
+
+#-----------------------------------
+### Super Size Gourgeist ###
+#-----------------------------------
+# Base Stats #
+HP: 85
+Atk: 100
+Def: 122
+Sp. Atk: 58
+Sp. Def: 75
+Speed: 54
+#-----------------------------------
+In the wild Super Size Gourgeist can hold:
+Miracle Seed (100%)
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Avalugg ###
+#-----------------------------------
+Types: Ice, Rock
+#-----------------------------------
+# Base Stats #
+HP: 95
+Atk: 127
+Def: 184
+Sp. Atk: 34
+Sp. Def: 46
+Speed: 38
+#-----------------------------------
+Abilities: Strong Jaw, Ice Body
+Hidden Ability: Sturdy
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Rock Slide
+Lv. 1:   Harden
+Lv. 1:   Powder Snow
+Lv. 1:   Rapid Spin
+Lv. 1:   Tackle
+Lv. 1:   Wide Guard
+Lv. 9:   Curse
+Lv. 12:  Icy Wind
+Lv. 15:  Protect
+Lv. 18:  Avalanche
+Lv. 24:  Ice Fang
+Lv. 27:  Iron Defense
+Lv. 30:  Recover
+Lv. 33:  Crunch
+Lv. 36:  Take Down
+Lv. 41:  Blizzard
+Lv. 46:  Double-Edge
+Lv. 51:  Stone Edge
+Lv. 61:  Mountain Gale
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Aurora Veil
+Blizzard
+Body Press
+Bulldoze
+Crunch
+Dig
+Earthquake
+Facade
+Giga Impact
+Hail
+Hidden Power
+Hyper Beam
+Ice Beam
+Protect
+Rain Dance
+Rest
+Rock Slide
+Sandstorm
+Stone Edge
+Substitute
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Icy Wind
+Iron Defense
+Sleep Talk
+Snore
+#-----------------------------------
+
+#-----------------------------------
+### 10% Forme Zygarde ###
+#-----------------------------------
+# Base Stats #
+HP: 54
+Atk: 100
+Def: 71
+Sp. Atk: 61
+Sp. Def: 85
+Speed: 115
+#-----------------------------------
+
+#-----------------------------------
+### Complete Forme Zygarde ###
+#-----------------------------------
+# Base Stats #
+HP: 216
+Atk: 100
+Def: 121
+Sp. Atk: 91
+Sp. Def: 95
+Speed: 85
+#-----------------------------------
+Abilities: Power Construct
+#-----------------------------------
+
+#-----------------------------------
+### Mega Diancie ###
+#-----------------------------------
+# Base Stats #
+HP: 50
+Atk: 160
+Def: 110
+Sp. Atk: 160
+Sp. Def: 110
+Speed: 110
+#-----------------------------------
+Abilities: Magic Bounce
+#-----------------------------------
+
+#-----------------------------------
+### Hoopa Unbound ###
+#-----------------------------------
+Types: Psychic, Dark
+#-----------------------------------
+# Base Stats #
+HP: 80
+Atk: 160
+Def: 60
+Sp. Atk: 170
+Sp. Def: 130
+Speed: 80
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Hyperspace Fury
+Lv. 1:   Trick
+Lv. 1:   Destiny Bond
+Lv. 1:   Ally Switch
+Lv. 1:   Confusion
+Lv. 6:   Astonish
+Lv. 10:  Magic Coat
+Lv. 15:  Light Screen
+Lv. 19:  Psybeam
+Lv. 25:  Skill Swap
+Lv. 29:  Power Split
+Lv. 29:  Guard Split
+Lv. 46:  Knock Off
+Lv. 50:  Wonder Room
+Lv. 50:  Trick Room
+Lv. 55:  Dark Pulse
+Lv. 75:  Psychic
+Lv. 85:  Hyperspace Fury
+#-----------------------------------
+
+#-----------------------------------
+### Hisuian Decidueye ###
+#-----------------------------------
+Types: Grass, Fighting
+#-----------------------------------
+# Base Stats #
+HP: 88
+Atk: 112
+Def: 80
+Sp. Atk: 95
+Sp. Def: 95
+Speed: 60
+#-----------------------------------
+Abilities: Overgrow
+Hidden Ability: Scrappy
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Triple Arrows
+Lv. 1:   Growl
+Lv. 1:   Leaf Storm
+Lv. 1:   Leafage
+Lv. 1:   Tackle
+Lv. 1:   U-turn
+Lv. 9:   Peck
+Lv. 12:  Shadow Sneak
+Lv. 15:  Razor Leaf
+Lv. 20:  Synthesis
+Lv. 25:  Pluck
+Lv. 30:  Bulk Up
+Lv. 37:  Sucker Punch
+Lv. 44:  Leaf Blade
+Lv. 51:  Feather Dance
+Lv. 58:  Brave Bird
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Attract
+Brick Break
+Bulk Up
+Close Combat
+Energy Ball
+Facade
+Focus Blast
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Leaf Blade
+Protect
+Rain Dance
+Rest
+Shadow Claw
+Solar Beam
+Substitute
+Sunny Day
+Swords Dance
+Taunt
+Toxic
+U-turn
+#-----------------------------------
+# Move Tutor moves #
+Brave Bird
+Endure
+Frenzy Plant
+Giga Drain
+Helping Hand
+Knock Off
+Low Kick
+Roost
+Seed Bomb
+Sleep Talk
+Snore
+Sucker Punch
+Swift
+Synthesis
+Tailwind
+#-----------------------------------
+
+#-----------------------------------
+### Pom-Pom Style Oricorio ###
+#-----------------------------------
+Types: Electric, Flying
+#-----------------------------------
+
+#-----------------------------------
+### Pa'u Style Oricorio ###
+#-----------------------------------
+Types: Psychic, Flying
+#-----------------------------------
+
+#-----------------------------------
+### Sensu Style Oricorio ###
+#-----------------------------------
+Types: Ghost, Flying
+#-----------------------------------
+
+#-----------------------------------
+### Midnight Form Lycanroc ###
+#-----------------------------------
+# Base Stats #
+HP: 85
+Atk: 115
+Def: 75
+Sp. Atk: 55
+Sp. Def: 75
+Speed: 82
+#-----------------------------------
+Abilities: Keen Eye, Vital Spirit
+Hidden Ability: No Guard
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Counter
+Lv. 1:   Counter
+Lv. 1:   Reversal
+Lv. 1:   Taunt
+Lv. 1:   Tackle
+Lv. 1:   Leer
+Lv. 1:   Sand Attack
+Lv. 1:   Bite
+Lv. 4:   Sand Attack
+Lv. 7:   Bite
+Lv. 12:  Howl
+Lv. 15:  Rock Throw
+Lv. 18:  Odor Sleuth
+Lv. 23:  Rock Tomb
+Lv. 26:  Roar
+Lv. 29:  Stealth Rock
+Lv. 34:  Rock Slide
+Lv. 37:  Scary Face
+Lv. 40:  Crunch
+Lv. 45:  Rock Climb
+Lv. 48:  Stone Edge
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Bulk Up
+Double Team
+Facade
+Frustration
+Hidden Power
+Outrage
+Protect
+Rest
+Return
+Roar
+Rock Polish
+Rock Slide
+Snarl
+Stone Edge
+Substitute
+Swords Dance
+Taunt
+Thrash
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Dual Chop
+Earth Power
+Endeavor
+Fire Punch
+Foul Play
+Hyper Voice
+Iron Defense
+Iron Head
+Iron Tail
+Last Resort
+Sleep Talk
+Snore
+Stealth Rock
+Thunder Punch
+Uproar
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Dusk Form Lycanroc ###
+#-----------------------------------
+# Base Stats #
+HP: 75
+Atk: 117
+Def: 65
+Sp. Atk: 55
+Sp. Def: 65
+Speed: 110
+#-----------------------------------
+Abilities: Tough Claws
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Crush Claw
+Evo. :   Thrash
+Lv. 1:   Accelerock
+Lv. 1:   Counter
+Lv. 1:   Tackle
+Lv. 1:   Leer
+Lv. 1:   Sand Attack
+Lv. 1:   Bite
+Lv. 4:   Sand Attack
+Lv. 7:   Bite
+Lv. 12:  Howl
+Lv. 15:  Rock Throw
+Lv. 18:  Odor Sleuth
+Lv. 23:  Rock Tomb
+Lv. 26:  Roar
+Lv. 29:  Stealth Rock
+Lv. 34:  Rock Slide
+Lv. 37:  Scary Face
+Lv. 40:  Crunch
+Lv. 45:  Rock Climb
+Lv. 48:  Stone Edge
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Brick Break
+Bulk Up
+Close Combat
+Crunch
+Double Team
+Facade
+Frustration
+Hidden Power
+Outrage
+Play Rough
+Protect
+Psychic Fangs
+Rest
+Return
+Roar
+Rock Polish
+Rock Slide
+Snarl
+Stone Edge
+Substitute
+Swords Dance
+Taunt
+Thrash
+Toxic
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Covet
+Drill Run
+Earth Power
+Endeavor
+Endure
+Hyper Voice
+Iron Defense
+Iron Head
+Iron Tail
+Last Resort
+Sleep Talk
+Snore
+Stealth Rock
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### School Form Wishiwashi ###
+#-----------------------------------
+# Base Stats #
+HP: 45
+Atk: 140
+Def: 130
+Sp. Atk: 140
+Sp. Def: 135
+Speed: 30
+#-----------------------------------
+
+#-----------------------------------
+### Type: Fighting Silvally ###
+#-----------------------------------
+Types: Fighting
+#-----------------------------------
+
+#-----------------------------------
+### Type: Flying Silvally ###
+#-----------------------------------
+Types: Flying
+#-----------------------------------
+
+#-----------------------------------
+### Type: Poison Silvally ###
+#-----------------------------------
+Types: Poison
+#-----------------------------------
+
+#-----------------------------------
+### Type: Ground Silvally ###
+#-----------------------------------
+Types: Ground
+#-----------------------------------
+
+#-----------------------------------
+### Type: Rock Silvally ###
+#-----------------------------------
+Types: Rock
+#-----------------------------------
+
+#-----------------------------------
+### Type: Bug Silvally ###
+#-----------------------------------
+Types: Bug
+#-----------------------------------
+
+#-----------------------------------
+### Type: Ghost Silvally ###
+#-----------------------------------
+Types: Ghost
+#-----------------------------------
+
+#-----------------------------------
+### Type: Steel Silvally ###
+#-----------------------------------
+Types: Steel
+#-----------------------------------
+
+#-----------------------------------
+### Type: Fire Silvally ###
+#-----------------------------------
+Types: Fire
+#-----------------------------------
+
+#-----------------------------------
+### Type: Water Silvally ###
+#-----------------------------------
+Types: Water
+#-----------------------------------
+
+#-----------------------------------
+### Type: Grass Silvally ###
+#-----------------------------------
+Types: Grass
+#-----------------------------------
+
+#-----------------------------------
+### Type: Electric Silvally ###
+#-----------------------------------
+Types: Electric
+#-----------------------------------
+
+#-----------------------------------
+### Type: Psychic Silvally ###
+#-----------------------------------
+Types: Psychic
+#-----------------------------------
+
+#-----------------------------------
+### Type: Ice Silvally ###
+#-----------------------------------
+Types: Ice
+#-----------------------------------
+
+#-----------------------------------
+### Type: Dragon Silvally ###
+#-----------------------------------
+Types: Dragon
+#-----------------------------------
+# Moves learnt by TM #
+Aerial Ace
+Double Team
+Dragon Claw
+Explosion
+Facade
+Flame Charge
+Flamethrower
+Flash Cannon
+Frustration
+Giga Impact
+Hail
+Hidden Power
+Hyper Beam
+Ice Beam
+Outrage
+Payback
+Protect
+Rain Dance
+Rest
+Return
+Roar
+Rock Slide
+Sandstorm
+Shadow Ball
+Shadow Claw
+Snarl
+Substitute
+Sunny Day
+Swords Dance
+Thunderbolt
+Thunder Wave
+Toxic
+U-turn
+Work Up
+X-Scissor
+#-----------------------------------
+# Move Tutor moves #
+Draco Meteor
+Grass Pledge
+Heat Wave
+Hyper Voice
+Icy Wind
+Iron Defense
+Iron Head
+Last Resort
+Magic Coat
+Signal Beam
+Sleep Talk
+Snore
+Tailwind
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Type: Dark Silvally ###
+#-----------------------------------
+Types: Dark
+#-----------------------------------
+
+#-----------------------------------
+### Type: Fairy Silvally ###
+#-----------------------------------
+Types: Fairy
+#-----------------------------------
+
+#-----------------------------------
+### Red Core Minior ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 100
+Def: 60
+Sp. Atk: 100
+Sp. Def: 60
+Speed: 120
+#-----------------------------------
+
+#-----------------------------------
+### Orange Core Minior ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 100
+Def: 60
+Sp. Atk: 100
+Sp. Def: 60
+Speed: 120
+#-----------------------------------
+
+#-----------------------------------
+### Yellow Core Minior ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 100
+Def: 60
+Sp. Atk: 100
+Sp. Def: 60
+Speed: 120
+#-----------------------------------
+
+#-----------------------------------
+### Green Core Minior ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 100
+Def: 60
+Sp. Atk: 100
+Sp. Def: 60
+Speed: 120
+#-----------------------------------
+
+#-----------------------------------
+### Blue Core Minior ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 100
+Def: 60
+Sp. Atk: 100
+Sp. Def: 60
+Speed: 120
+#-----------------------------------
+
+#-----------------------------------
+### Indigo Core Minior ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 100
+Def: 60
+Sp. Atk: 100
+Sp. Def: 60
+Speed: 120
+#-----------------------------------
+
+#-----------------------------------
+### Violet Core Minior ###
+#-----------------------------------
+# Base Stats #
+HP: 60
+Atk: 100
+Def: 60
+Sp. Atk: 100
+Sp. Def: 60
+Speed: 120
+#-----------------------------------
+
+#-----------------------------------
+### Dusk Mane Necrozma ###
+#-----------------------------------
+Types: Psychic, Steel
+#-----------------------------------
+# Base Stats #
+HP: 97
+Atk: 157
+Def: 127
+Sp. Atk: 113
+Sp. Def: 109
+Speed: 77
+#-----------------------------------
+
+#-----------------------------------
+### Dawn Wings Necrozma ###
+#-----------------------------------
+Types: Psychic, Ghost
+#-----------------------------------
+# Base Stats #
+HP: 97
+Atk: 113
+Def: 109
+Sp. Atk: 157
+Sp. Def: 127
+Speed: 77
+#-----------------------------------
+
+#-----------------------------------
+### Ultra Necrozma ###
+#-----------------------------------
+Types: Psychic, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 97
+Atk: 167
+Def: 97
+Sp. Atk: 167
+Sp. Def: 97
+Speed: 129
+#-----------------------------------
+Abilities: Neuroforce
+#-----------------------------------
+Types: Psychic, Dragon
+#-----------------------------------
+# Base Stats #
+HP: 97
+Atk: 167
+Def: 97
+Sp. Atk: 167
+Sp. Def: 97
+Speed: 129
+#-----------------------------------
+Abilities: Neuroforce
+#-----------------------------------
+
+#-----------------------------------
+### Low Key Form Toxtricity ###
+#-----------------------------------
+Abilities: Punk Rock, Minus
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Spark
+Lv. 1:   Spark
+Lv. 1:   Eerie Impulse
+Lv. 1:   Belch
+Lv. 1:   Tearful Look
+Lv. 1:   Nuzzle
+Lv. 1:   Growl
+Lv. 1:   Flail
+Lv. 1:   Acid
+Lv. 1:   Thunder Shock
+Lv. 1:   Acid Spray
+Lv. 1:   Leer
+Lv. 1:   Noble Roar
+Lv. 4:   Charge
+Lv. 8:   Shock Wave
+Lv. 12:  Scary Face
+Lv. 16:  Taunt
+Lv. 20:  Venom Drench
+Lv. 24:  Screech
+Lv. 28:  Swagger
+Lv. 32:  Toxic
+Lv. 36:  Discharge
+Lv. 40:  Poison Jab
+Lv. 44:  Overdrive
+Lv. 48:  Boomburst
+Lv. 52:  Magnetic Flux
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Facade
+Giga Impact
+Hidden Power
+Hyper Beam
+Payback
+Poison Jab
+Protect
+Rest
+Sludge Bomb
+Sludge Wave
+Snarl
+Substitute
+Taunt
+Thunder
+Thunderbolt
+Thunder Wave
+Toxic
+Wild Charge
+#-----------------------------------
+# Move Tutor moves #
+Endeavor
+Endure
+Gunk Shot
+Hyper Voice
+Sleep Talk
+Snore
+Thunder Punch
+Uproar
+#-----------------------------------
+
+#-----------------------------------
+### Antique Form Sinistea ###
+#-----------------------------------
+# Evolutions #
+Polteageist - Obtained by using a Chipped Pot on Antique Form Sinistea.
+#-----------------------------------
+
+#-----------------------------------
+### Antique Form Polteageist ###
+#-----------------------------------
+
+#-----------------------------------
+### Noice Face Eiscue ###
+#-----------------------------------
+# Base Stats #
+HP: 75
+Atk: 80
+Def: 70
+Sp. Atk: 65
+Sp. Def: 50
+Speed: 130
+#-----------------------------------
+
+#-----------------------------------
+### Female Indeedee ###
+#-----------------------------------
+# Base Stats #
+HP: 70
+Atk: 55
+Def: 65
+Sp. Atk: 95
+Sp. Def: 105
+Speed: 85
+#-----------------------------------
+Abilities: Own Tempo, Synchronize
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Stored Power
+Lv. 1:   Play Nice
+Lv. 5:   Baton Pass
+Lv. 10:  Disarming Voice
+Lv. 15:  Psybeam
+Lv. 20:  Helping Hand
+Lv. 25:  Follow Me
+Lv. 30:  Aromatherapy
+Lv. 35:  Psychic
+Lv. 40:  Calm Mind
+Lv. 45:  Guard Split
+Lv. 50:  Psychic Terrain
+Lv. 55:  Healing Wish
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Calm Mind
+Energy Ball
+Facade
+Hidden Power
+Play Rough
+Protect
+Psychic
+Psyshock
+Reflect
+Rest
+Safeguard
+Shadow Ball
+Substitute
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Drain Punch
+Endure
+Helping Hand
+Hyper Voice
+Metronome
+Sleep Talk
+Snore
+Swift
+Trick
+Zen Headbutt
+#-----------------------------------
+# Egg Moves #
+Fake Out
+Heal Pulse
+Psych Up
+Psycho Shift
+#-----------------------------------
+
+#-----------------------------------
+### Crowned Sword Zacian ###
+#-----------------------------------
+Types: Fairy, Steel
+#-----------------------------------
+# Base Stats #
+HP: 92
+Atk: 170
+Def: 115
+Sp. Atk: 80
+Sp. Def: 115
+Speed: 148
+#-----------------------------------
+
+#-----------------------------------
+### Crowned Shield Zamazenta ###
+#-----------------------------------
+Types: Fighting, Steel
+#-----------------------------------
+# Base Stats #
+HP: 92
+Atk: 130
+Def: 145
+Sp. Atk: 80
+Sp. Def: 145
+Speed: 128
+#-----------------------------------
+
+#-----------------------------------
+### Rapid Strike Style Urshifu ###
+#-----------------------------------
+Types: Fighting, Water
+#-----------------------------------
+# Moves learnt by level up #
+Evo. :   Surging Strikes
+Lv. 1:   Surging Strikes
+Lv. 1:   Aqua Jet
+Lv. 1:   Rock Smash
+Lv. 1:   Leer
+Lv. 1:   Endure
+Lv. 1:   Focus Energy
+Lv. 12:  Aerial Ace
+Lv. 16:  Scary Face
+Lv. 20:  Headbutt
+Lv. 24:  Brick Break
+Lv. 28:  Detect
+Lv. 32:  Bulk Up
+Lv. 36:  Iron Head
+Lv. 40:  Dynamic Punch
+Lv. 44:  Counter
+Lv. 48:  Close Combat
+Lv. 52:  Focus Punch
+#-----------------------------------
+# Moves learnt by TM #
+Acrobatics
+Aerial Ace
+Attract
+Aqua Jet
+Body Press
+Brick Break
+Bulk Up
+Close Combat
+Dig
+Dive
+Facade
+Focus Blast
+Giga Impact
+Hidden Power
+Poison Jab
+Protect
+Rain Dance
+Rest
+Retaliate
+Rock Slide
+Rock Smash
+Scald
+Stone Edge
+Substitute
+Taunt
+Toxic
+U-turn
+Waterfall
+Work Up
+#-----------------------------------
+# Move Tutor moves #
+Drain Punch
+Dynamic Punch
+Endure
+Fire Punch
+Headbutt
+Helping Hand
+Ice Punch
+Iron Defense
+Iron Head
+Low Kick
+Sleep Talk
+Snore
+Superpower
+Thunder Punch
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Ice Rider Calyrex ###
+#-----------------------------------
+Types: Psychic, Ice
+#-----------------------------------
+# Base Stats #
+HP: 100
+Atk: 165
+Def: 150
+Sp. Atk: 85
+Sp. Def: 130
+Speed: 50
+#-----------------------------------
+Abilities: As One
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Glacial Lance
+Lv. 1:   Tackle
+Lv. 1:   Tail Whip
+Lv. 1:   Double Kick
+Lv. 1:   Avalanche
+Lv. 1:   Stomp
+Lv. 1:   Torment
+Lv. 1:   Mist
+Lv. 1:   Icicle Crash
+Lv. 1:   Take Down
+Lv. 1:   Iron Defense
+Lv. 1:   Thrash
+Lv. 1:   Taunt
+Lv. 1:   Double-Edge
+Lv. 1:   Swords Dance
+Lv. 1:   Pound
+Lv. 1:   Mega Drain
+Lv. 1:   Confusion
+Lv. 1:   Growth
+Lv. 8:   Life Dew
+Lv. 16:  Giga Drain
+Lv. 24:  Psyshock
+Lv. 32:  Helping Hand
+Lv. 40:  Aromatherapy
+Lv. 48:  Energy Ball
+Lv. 56:  Psychic
+Lv. 64:  Leech Seed
+Lv. 72:  Heal Pulse
+Lv. 80:  Solar Beam
+Lv. 88:  Future Sight
+#-----------------------------------
+# Moves learnt by TM #
+Blizzard
+Body Press
+Bulldoze
+Calm Mind
+Close Combat
+Crunch
+Energy Ball
+Facade
+Giga Impact
+Grass Knot
+Hail
+Hidden Power
+Hyper Beam
+Ice Beam
+Outrage
+Payback
+Pollen Puff
+Protect
+Psychic
+Psyshock
+Reflect
+Rest
+Safeguard
+Smart Strike
+Snarl
+Solar Beam
+Solar Blade
+Substitute
+Sunny Day
+Swords Dance
+Taunt
+Thrash
+Toxic
+Trick Room
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Giga Drain
+Helping Hand
+Icy Wind
+Iron Defense
+Magic Room
+Metronome
+Seed Bomb
+Sleep Talk
+Snore
+Superpower
+Swift
+Trick
+Uproar
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Shadow Rider Calyrex ###
+#-----------------------------------
+Types: Psychic, Ghost
+#-----------------------------------
+# Base Stats #
+HP: 100
+Atk: 85
+Def: 80
+Sp. Atk: 165
+Sp. Def: 100
+Speed: 150
+#-----------------------------------
+Abilities: As One
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Astral Barrage
+Lv. 1:   Tackle
+Lv. 1:   Tail Whip
+Lv. 1:   Double Kick
+Lv. 1:   Hex
+Lv. 1:   Stomp
+Lv. 1:   Confuse Ray
+Lv. 1:   Haze
+Lv. 1:   Shadow Ball
+Lv. 1:   Take Down
+Lv. 1:   Agility
+Lv. 1:   Thrash
+Lv. 1:   Disable
+Lv. 1:   Double-Edge
+Lv. 1:   Nasty Plot
+Lv. 1:   Pound
+Lv. 1:   Mega Drain
+Lv. 1:   Confusion
+Lv. 1:   Growth
+Lv. 8:   Life Dew
+Lv. 16:  Giga Drain
+Lv. 24:  Psyshock
+Lv. 32:  Helping Hand
+Lv. 40:  Aromatherapy
+Lv. 48:  Energy Ball
+Lv. 56:  Psychic
+Lv. 64:  Leech Seed
+Lv. 72:  Heal Pulse
+Lv. 80:  Solar Beam
+Lv. 88:  Future Sight
+#-----------------------------------
+# Moves learnt by TM #
+Bulldoze
+Calm Mind
+Crunch
+Energy Ball
+Facade
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Payback
+Phantom Force
+Pollen Puff
+Protect
+Psychic
+Psyshock
+Reflect
+Rest
+Safeguard
+Shadow Ball
+Snarl
+Solar Beam
+Solar Blade
+Substitute
+Sunny Day
+Taunt
+Thrash
+Toxic
+Trick Room
+Will-O-Wisp
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Foul Play
+Giga Drain
+Helping Hand
+Magic Room
+Metronome
+Seed Bomb
+Sleep Talk
+Snore
+Swift
+Trick
+Uproar
+Wonder Room
+Zen Headbutt
+#-----------------------------------
+
+#-----------------------------------
+### Female Basculegion ###
+#-----------------------------------
+# Base Stats #
+HP: 120
+Atk: 92
+Def: 65
+Sp. Atk: 100
+Sp. Def: 75
+Speed: 78
+#-----------------------------------
+# Moves learnt by level up #
+Lv. 1:   Phantom Force
+Lv. 1:   Shadow Ball
+Lv. 1:   Tail Whip
+Lv. 1:   Water Gun
+Lv. 4:   Tackle
+Lv. 8:   Flail
+Lv. 12:  Aqua Jet
+Lv. 16:  Bite
+Lv. 20:  Scary Face
+Lv. 24:  Headbutt
+Lv. 28:  Soak
+Lv. 32:  Crunch
+Lv. 36:  Take Down
+Lv. 40:  Uproar
+Lv. 44:  Wave Crash
+Lv. 48:  Thrash
+Lv. 52:  Double-Edge
+Lv. 56:  Head Smash
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Aqua Jet
+Blizzard
+Crunch
+Facade
+Giga Impact
+Hail
+Head Smash
+Hidden Power
+Hyper Beam
+Ice Beam
+Outrage
+Phantom Force
+Protect
+Rain Dance
+Rest
+Shadow Ball
+Substitute
+Thrash
+Toxic
+Waterfall
+#-----------------------------------
+# Move Tutor moves #
+Endure
+Headbutt
+Icy Wind
+Sleep Talk
+Snore
+Uproar
+#-----------------------------------
+
+#-----------------------------------
+### Therian Forme Enamorus ###
+#-----------------------------------
+# Base Stats #
+HP: 74
+Atk: 115
+Def: 110
+Sp. Atk: 135
+Sp. Def: 100
+Speed: 46
+#-----------------------------------
+Abilities: Overcoat
+#-----------------------------------
+# Moves learnt by TM #
+Attract
+Calm Mind
+Facade
+Focus Blast
+Giga Impact
+Grass Knot
+Hidden Power
+Hyper Beam
+Outrage
+Play Rough
+Protect
+Psychic
+Rain Dance
+Rest
+Sludge Bomb
+Substitute
+Sunny Day
+Taunt
+Toxic
+#-----------------------------------
+# Move Tutor moves #
+Earth Power
+Endure
+Iron Defense
+Iron Head
+Sleep Talk
+Snore
+Superpower
+Tailwind
+Uproar
+Zen Headbutt
+#-----------------------------------

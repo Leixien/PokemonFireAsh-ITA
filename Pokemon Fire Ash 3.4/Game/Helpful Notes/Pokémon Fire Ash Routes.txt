@@ -1,0 +1,1030 @@
+﻿Pallet Town:
+Old Rod (Magikarp 70%, Poliwag 30%) L5
+Good Rod (Tangela 60%, Goldeen 20%, Poliwag 20%) L5
+Super Rod (Tangela 40%, Poliwag 40%, Horsea 16%, Staryu 4%) L15
+
+Route 1:
+Land (Pidgey 30%, Spearow 25%, Rattata 14%, Poliwag 10%, Sandshrew 10%, Mankey 10%, Ho-oh 1%) L2-5, Rare: L6, Ho-oh L50
+Old Rod (Magikarp 70%, Poliwag 30%) L5
+Good Rod (Magikarp 60%, Poliwag 40%) L7
+Super Rod (Poliwag 80%, Magikarp 20%) L15
+
+Viridian Forest:
+Land (Weedle 30%, Caterpie 20%, Pidgeotto 14%, Pidgey 10%, Kakuna 10%, Beedrill 10%, Spearow 5%, Fearow 1%) L3-5, Rare L7
+
+Route 3:
+Land (Pidgey 30%, Spearow 25%, Jigglypuff 14%, NidoranM 11%, NidoranF 10%, Mankey 9%, Ekans 1%) L3-8
+
+Mt Moon 1F:
+Cave (Zubat 30%, Clefairy 30%, Paras 24%, Clefable 12%, Geodude 4%) L5-10, Rare: L12
+
+Mt Moon B1F:
+Cave (Zubat 48%, Sandshrew 20%, Paras 20%, Clefairy 10%, Clefable 2%) L5-10
+
+Route 4
+Old Rod (Magikarp 70%, Poliwag 30%) L5-15
+Good Rod (Magikarp 60%, Poliwag 40%) L5-15
+Super Rod (Magikarp 55%, Poliwag 45%) L15-25
+
+Cerulean City
+Old Rod (Magikarp 70%, Poliwag 30%) L5-15
+Good Rod (Magikarp 60%, Poliwag 40%) L5-15
+Super Rod (Magikarp 55%, Poliwag 45%) L15-25
+
+Route 5:
+Land (Pidgey 39%, Meowth 36%, Oddish 25%) L10-16
+
+Hidden Village:
+Land (Rattata 25%, Paras 24%, Oddish 21%, Weepinbell 11%, Caterpie 10%, Staryu 5%, Magikarp 4%) L10-15, Rare: 16
+
+Route 24:
+Land (Spearow 20%, Caterpie 20%, Pidgey 10%, Oddish 10%, Venonat 10%, Weedle 10%, Metapod 5%, Kakuna 5%, Abra 5%, Bellsprout 4%, Pidgeotto 1%), L7-14, Rare: 15
+
+Route 25:
+Land (Pidgey 35%, Meowth 35%, Oddish 19%, Bellsprout 11%), L10-15, Rare: 16
+Old Rod (Krabby 100%) L15-22
+Good Rod (Krabby 100%) L15-22
+Super Rod (Krabby 100%) L25-32
+
+Vermillion City:
+Old Rod (Magikarp 100%) L5-15
+Good Rod (Magikarp 100%) L5-15
+Super Rod (Magikarp 100%) L15-25
+
+Route 11:
+Land (Sandshrew 34%, Drowzee 34%, Spearow 16%, Ekans 16%) L15-18
+
+Route 8:
+Land (Pidgey 25%, Meowth 25%, Sandshrew 14%, Ekans 14%, Vulpix 11%, Growlithe 11%) L15-20
+
+Pokemon Tower 3F-6F:
+Cave (Gastly 69%, Haunter 24%, Gengar 7%) L25-28
+
+Route 7:
+Land (Primeape 25%, Mankey 25%, Vulpix 10%, Meowth 10%, Pidgey 10%, Oddish 10%, Bellsprout 5%, Growlithe 5%) L25-27
+
+Route 16:
+Land (Doduo 34%, Rattata 34%, Spearow 16%, Raticate 16%) L25-30
+
+Gringey City Power Plant:
+Cave (Grimer 44%, Magnemite 34%, Magneton 21%, Muk 1%) L27-31
+
+Route 17:
+Land (Doduo 34%, Rattata 34%, Raticate 16%, Spearow 11%, Fearow 5%) L25-30
+Old Rod (Magikarp 70%, Poliwag 30%) L5-15
+Good Rod (Magikarp 80%, Poliwag 20%) L5-15
+Super Rod (Poliwag 55%, Magikarp 45%) L15-25
+
+Fuchsia City:
+Old Rod (Poliwag 70%, Slowpoke 30%) L5-20
+Good Rod (Poliwag 80%, Slowpoke 20%) L5-20
+Super Rod (Slowpoke 56%, Poliwag 44%) L15-30
+
+Safari Zone Kanto:
+Land (Tauros 40%, Tangela 10%, Rhyhorn 10%, Nidorina 10%, Nidorino 10%, Exeggcute 5%, Venonat 5%, Parasect 4%, Scyther 4%, Pinsir 1%, Chansey 1%) L30-35
+Old Rod (Horsea 70%, Dratini 30%) L30-32
+Good Rod (Seadra 60%, Dragonair 20%, Tentacruel 20%) L30-32
+Super Rod (Horsea 40%, Dratini 40%, Seadra 15%, Dragonair 4%, Tentacruel 1%) L40-42
+
+Route 19:
+Land (Venonat 24%, Lickitung 20%, Butterfree 14%, Exeggcute 11%, Spearow 10%, Abra 10%, Scyther 5%, Oddish 5%, Exeggutor 1%)
+
+Cinnabar Island:
+Old Rod (Horsea 70%, Goldeen 30%) L15-19
+Good Rod (Horsea 80%, Goldeen 20%) L15-19
+Super Rod (Goldeen 55%, Horsea 45%) L25-29
+
+Pokemon Mansion 1F:
+Cave (Raticate 20%, Koffing 21%, Grimer 21%, Rattata 14%, Growlithe 10%, Muk 9%, Weezing 5%) L26-36
+
+Pokemon Mansion 2F:
+Cave (Raticate 20%, Koffing 21%, Grimer 21%, Rattata 14%, Vulpix 10%, Muk 9%, Weezing 5%) L26-36
+
+Pokemon Mansion 3F:
+Cave (Raticate 20%, Koffing 21%, Grimer 21%, Rattata 14%, Ponyta 10%, Muk 9%, Weezing 5%) L26-36
+
+Pokemon Mansion B1F:
+Cave (Ditto 20%, Koffing 21%, Grimer 21%, Rattata 14%, Magmar 10%, Muk 9%, Weezing 5%) L26-36
+
+Route 22:
+Land: (Persian 20%, Onix 20%, Sandslash 14%, Machoke 14%, Jigglypuff 11%, Pidgeotto 11%, Poliwhirl 10%) L35-38
+
+Valencia Island:
+Land: (Butterfree 20%, NidoranF 20%, NidoranM 20%, Paras 12%, Raticate 10%, Vileplume 10%, Weepinbell 8%) L33-37
+Old Rod: (Poliwhirl 70%, Cloyster 30%) L25-33
+Good Rod: (Poliwhirl 80%, Cloyster 20%) L25-33
+Super Rod: (Cloyster 56%, Poliwhirl 44%) L35-43
+
+Tangelo Island:
+Old Rod: (Tentacool 70%, Slowpoke 30%) L15-25
+Good Rod: (Tentacool 80%, Slowpoke 20%) L15-25
+Super Rod: (Slowpoke 56%, Tentacool 44%) L25-35
+
+Mikan Island:
+Old Rod: (Horsea 70%, Staryu 30%) L25-30
+Good Rod: (Horsea 80%, Staryu 20%) L25-30
+Super Rod: (Staryu 56%, Horsea 44%) L35-40
+
+Navel Island:
+Old Rod: (Magikarp 70%, Seel 30%) L28-30
+Good Rod: (Magikarp 80%, Seel 20%) L28-30
+Super Rod: (Seel 56%, Magikarp 44%) L38-40
+
+Navel Rock 1F+2F:
+Cave: (Cubone 20%, Electabuzz 20%, Dugtrio 10%, Diglett 10%, Machop 10%, Ekans 10%, Golbat 9%, Zubat 5%, Graveler 4%, Koffing 1%, Voltorb 1%) L35-39
+
+Navel Rock B1F+3F:
+Cave: (Abra 20%, Graveler 20%, Dugtrio 10%, Diglett 10%, Machop 10%, Ekans 10%, Golbat 9%, Zubat 5%, Electabuzz 4%, Koffing 1%, Voltorb 1%) L35-39
+
+Seven Grapefruit Islands:
+Old Rod: (Goldeen 70%, Staryu 30%) L25-28
+Good Rod: (Goldeen 80%, Staryu 20%) L25-28
+Super Rod: (Staryu 56%, Goldeen 44%) L35-38
+
+Ascorbia Island:
+Land: (Paras 30%, Beedrill 24%, Psyduck 25%, Butterfree 10%, Krabby 5%, Staryu 5%, Parasect 1%) L35-39
+Old Rod: (Goldeen 70%, Shellder 30%) L25-28
+Good Rod: (Goldeen 80%, Shellder 20%) L25-28
+Super Rod: (Shellder 56%, Goldeen 44%) L35-38
+
+Kumquat Island:
+Old Rod: (Goldeen 70%, Shellder 30%) L25-28
+Good Rod: (Goldeen 80%, Shellder 20%) L25-28
+Super Rod: (Shellder 56%, Goldeen 44%) L35-38
+
+Pummelo Island:
+Land: (Sandslash 20%, Golem 20%, Magneton 10%, Nidorina 10%, Wigglytuff 10%, Kadabra 10%, Arcanine 5%, Nidorino 5%, Arbok 4%, Exeggutor 4%, Dragonair 2%) L40-45
+Old Rod: (Horsea 70%, Staryu 30%) L25-28
+Good Rod: (Horsea 80%, Staryu 20%) L25-28
+Super Rod: (Staryu 56%, Horsea 44%) L35-38
+
+Element Islands:
+Old Rod: (Staryu 70%, Goldeen 30%) L15
+Good Rod: (Staryu 80%, Goldeen 20%) L15
+Super Rod: (Goldeen 56%, Staryu 44%) L25
+
+Route 29:
+Land: (Heracross 26%, Spinarak 24%, Pinsir 14%, Butterfree 11%, Stantler 10%, NidoranF 10%, NidoranM 5%) L5-8
+
+Route 29 (snowy):
+Land: (Hoothoot 94%, Haunter 4%, Gengar 2%)
+
+Cherrygrove City:
+Old Rod: (Wooper 100%) L5
+Good Rod: (Wooper 100%) L5
+Super Rod: (Wooper 100%) L15
+
+Route 30:
+Land (Ledyba 30%, Hoothoot 20%, Spinarak 16%, Caterpie 10%, Weedle 10%, Metapod 5%, Kakuna 5%, Pidgey 4%) L7-8
+
+Violet City:
+Old Rod: (Magikarp 70%, Marill 30%) L7
+Good Rod: (Magikarp 80%, Marill 20%) L7
+Super Rod: (Marill 56%, Magikarp 44%) L17
+
+Route 32:
+Land: (Hoothoot 20%, Mareep 20%, Sentret 10%, Oddish 10%, Diglett 10%, Gloom 10%, Primeape 5%, Machoke 5%, Hitmonlee 4%, Hitmonchan 4%, Vileplume 2%) L8-10
+Old Rod: (Magikarp 70%, Goldeen 30%) L7-9
+Good Rod: (Magikarp 80%, Goldeen 20%) L7-9
+Super Rod: (Goldeen 56%, Magikarp 44%) L17-19
+
+Route 33:
+Land: (Pineco 41%, Mareep 15%, Sentret 14%, Oddish 14%, Hoothoot 10%, Diglett 6%) L11-16
+
+Slowpoke Well:
+Cave: (Slowpoke 100%) L10-12
+
+Ilex Forest:
+Land: (Farfetch'd 20%, Snubbull 20%, Hoothoot 10%, Pidgey 10%, Houndour 10%, Beedrill 10%, Eevee 8%, Onix 5%, Noctowl 5%, Ursaring 2%) L13-17
+
+Route 34:
+Land: (Girafarig 24%, Sandshrew 20%, Sentret 10%, Paras 10%, Voltorb 10%, Oddish 10%, Exeggcute 5%, Slowpoke 5%, Gloom 4%, Fearow 2%) L15-17
+Old Rod: (Krabby 70%, Staryu 30%) L9-12
+Good Rod: (Krabby 80%, Staryu 20%) L9-12
+Super Rod: (Staryu 56%, Krabby 44%) L19-22
+
+Route 35:
+Land: (Pidgey 20%, NidoranF 21%, Yanma 13%, NidoranM 11%, Abra 10%, Drowzee 10%, Ditto 10%, Hoothoot 5%) L14-20
+
+National Park:
+Land: (Pidgey 30%, Caterpie 20%, Weedle 20%, Sunkern 20%, Metapod 5%, Kakuna 5%) L10-14
+Bug Contest: (Pineco 20%, Weedle 20%, Beedrill 15%, Caterpie 10%, Paras 10%, Venomoth 10%, Scyther 6%, Spinarak 5%, Pinsir 4%) L15-18
+
+Route 36:
+Land (Pidgey 40%, Hoothoot 19%, NidoranF 10%, NidoranM 10%, Vulpix 10%, Growlithe 10%, Stantler 1%) L6-11
+
+Ruins of Alph:
+Cave: (Unown 100%) L11
+
+Route 37:
+Land: (Ledyba 20%, Pidgey 20%, NidoranF 10%, NidoranM 10%, Vulpix 10%, Growlithe 10%, Spinarak 9%, Hoothoot 5%, Pidgeotto 5%, Stantler 1%) L18-20
+
+Ecruteak City:
+Old Rod: (Poliwag 100%) L10-15
+Good Rod: (Poliwag 100%) L10-15
+Super Rod: (Poliwag 100%) L20-25
+
+Burned Tower:
+Cave: (Gastly 40%, Haunter 20%, Rattata 10%, Zubat 10%, Koffing 10%, Magmar 10%) L17-22
+
+Route 38:
+Land: (Teddiursa 25%, Murkrow 20%, Dunsparce 20%, Spinarak 10%, Sunkern 10%, Sunflora 9%, Ursaring 5%, Wobbuffet 1%) L15-22
+Old Rod: (Remoraid 100%) L15-17
+Good Rod: (Remoraid 100%) L15-17
+Super Rod: (Remoraid 100%) L25-37
+
+Route 39:
+Land: (Aipom 24%, Smeargle 20%, Miltank 10%, Ledian 10%, Natu 10%, Azumarill 10%, Rhydon 5%, Kecleon 5%, Exeggutor 4%, Hoppip 2%) L17-23
+Old Rod: (Seaking 70%, Remoraid 30%) L17-20
+Good Rod: (Seaking 80%, Remoraid 20%) L17-20
+Super Rod: (Remoraid 56%, Seaking 44%) L27-30
+
+Olivine City:
+Old Rod: (Krabby 70%, Marill 30%) L17-21
+Good Rod: (Krabby 80%, Marill 20%) L17-21
+Super Rod: (Marill 56%, Krabby 44%) L27-31
+
+Cianwood City:
+Old Rod: (Poliwag 70%, Shellder 30%) L17-21
+Good Rod: (Poliwag 80%, Shellder 20%) L17-21
+Super Rod: (Shellder 56%, Poliwag 44%) L27-31
+
+Red Rock Isle:
+Old Rod: (Seel 70%, Krabby 30%) L27-31
+Good Rod: (Seel 80%, Krabby 20%) L27-31
+Super Rod: (Krabby 56%, Seel 44%) L37-41
+
+Yellow Rock Isle:
+Old Rod: (Corsola 100%) L28-31
+Good Rod: (Corsola 100%) L28-31
+Super Rod: (Corsola 100%) L38-41
+
+Blue Rock Isle:
+Old Rod: (Horsea 70%, Goldeen 30%) L28-31
+Good Rod: (Horsea 80%, Goldeen 20%) L28-31
+Super Rod: (Goldeen 56%, Horsea 44%) L38-41
+
+Ogi Isle:
+Old Rod: (Tentacool 100%) L28-31
+Good Rod: (Tentacool 100%) L28-31
+Super Rod: (Tentacool 100%) L38-41
+
+Safari Zone Johto:
+Land: (Elekid 20%, Magby 20%, Smoochum 10%, Houndour 10%, Mareep 10%, Shuckle 10%, Jumpluff 5%, Murkrow 5%, Furret 4%, Larvitar 4%, Misdreavus 1%, Wobbuffet 1%) L30-38
+Old Rod: (Wooper 70%, Chinchou 30%) L20-25
+Good Rod: (Quagsire 60%, Lanturn 20%, Mantine 20%) L25-30
+Super Rod: (Wooper 40%, Chinchou 40%, Quagsire 15%, Lanturn 4%, Mantine 1%)
+
+Route 42:
+Land: (Exeggcute 20%, Kangaskhan 20%, Tyrogue 10%, Natu 10%, Aipom 10%, Mankey 10%, Primeape 5%, Xatu 5%, Butterfree 4%, Sandshrew 4%, Tauros 1%, Teddiursa 1%) L28-31
+Old Rod: (Skiploom 70%, Wooper 30%) L28-31
+Good Rod: (Skiploom 80%, Wooper 20%) L28-31
+Super Rod: (Wooper 56%, Skiploom 44%) L38-41
+
+Route 43:
+Land: (Caterpie 20%, Weedle 20%, Teddiursa 16%, Oddish 14%, Spinarak 11%, Rattata 10%, Aipom 9%) L28-32
+
+Lake of Rage:
+Old Rod: (Magikarp 100%) L28
+Good Rod: (Magikarp 100%) L28
+Super Rod: (Magikarp 100%) L38
+
+Route 44:
+Land: (Oddish 20%, Cleffa 20%, Magcargo 10%, Clefairy 10%, Gloom 10%, Aipom 10%, Parasect 5%, Vileplume 5%, Bellossom 4%, Spinarak 4%, Ursaring 2%) L30-34
+Old Rod: (Chinchou 70%, Qwilfish 30%) L30-34
+Good Rod: (Chinchou 80%, Qwilfish 20%) L30-34
+Super Rod: (Qwilfish 56%, Chinchou 44%) L40-44
+
+Ice Cave:
+Cave: (Delibird 24%, Swinub 20%, Aipom 16%, Piloswine 15%, Sneasel 11%, Jynx 10%, Zubat 4%) L32-35
+
+Blackthorn City:
+Old Rod: (Magikarp 70%, Poliwag 30%) L28-34
+Good Rod: (Horsea 80%, Poliwag 20%) L28-34
+Super Rod: (Poliwag 56%, Horsea 44%) L38-44
+
+Dragon's Den:
+Cave: (Dratini 20%, Larvitar 20%, Sentret 10%, Rattata 10%, Sunflora 10%, Bellsprout 10%, Dragonair 9%, Seadra 6%, Oddish 5%) L32-35
+
+Silver Conference:
+Land: (Sneasel 20%, Machoke 20%, Machop 10%, Voltorb 10%, Murkrow 10%, Misdreavus 10%, Ponyta 5%, Ursaring 5%, Tangela 4%, Onix 4%, Larvitar 1%, Donphan 1%) L35-38
+
+Littleroot Town:
+Old Rod: (Wingull 100%) L5
+Good Rod: (Wingull 100%) L5
+Super Rod: (Wingull 100%) L15
+
+Route 101:
+Land: (Poochyena 44%, Duskull 16%, Marill 15%, Wingull 10%, Azurill 10%, Azumarill 5%) L3-5
+Old Rod: (Wingull 70%, Relicanth 30%) L5
+Good Rod: (Wingull 80%, Relicanth 20%) L5
+Super Rod: (Relicanth 56%, Wingull 44%) L15
+
+Route 102:
+Land: (Poochyena 40%, Zigzagoon 20%, Ralts 11%, Wurmple 10%, Lotad 10%, Seedot 5%, Surskit 4%) L3-5
+
+Petalburg City:
+Old Rod: (Magikarp 70%, Goldeen 30%) L5
+Good Rod: (Magikarp 80%, Goldeen 20%) L5
+Super Rod: (Goldeen 56%, Magikarp 44%) L15
+
+Route 104:
+Land: (Poochyena 24%, Shroomish 20%, Taillow 11%, Wingull 11%, Stantler 10%, Aipom 10%, Spinarak 5%, Bellossom 5%, Marill 4%) L4-6
+Old Rod: (Lotad 70%, Wingull 30%) L4-6
+Good Rod: (Lotad 80%, Wingull 20%) L4-6
+Super Rod: (Wingull 56%, Lotad 44%) L14-16
+
+Petalburg Woods:
+Land: (Wurmple 34%, Taillow 24%, Shroomish 10%, Cacnea 10%, Seviper 10%, Ekans 5%, Koffing 5%, Sentret 1%, Pinsir 1%) L4-6
+
+Dewford Town:
+Old Rod: (Tentacool 70%, Wingull 30%) L5-8
+Good Rod: (Tentacool 80%, Wingull 20%) L5-8
+Super Rod: (Wingull 56%, Tentacool 44%) L15-18
+
+Granite Cave:
+Cave: (Loudred 25%, Aron 20%, Makuhita 14%, Sableye 14%, Abra 11%, Mawile 11%, Geodude 5%) L9-12
+
+Route 106:
+Old Rod: (Corphish 70%, Carvanha 30%) L9-12
+Good Rod: (Corphish 80%, Carvanha 20%) L9-12
+Super Rod: (Carvanha 56%, Corphish 44%) L19-22
+
+Route 109:
+Old Rod: (Wingull 70%, Tentacool 30%) L10
+Good Rod: (Wingull 80%, Tentacool 20%) L10
+Super Rod: (Tentacool 56%, Wingull 44%) L20
+
+Route 110:
+Land: (Oddish 20%, Zigzagoon 20%, Plusle 15%, Poochyena 10%, Wingull 10%, Electrike 10%, Minun 9%, Gulpin 6%) L12-14
+Old Rod: (Tentacool 70%, Magikarp 30%) L5-10
+Good Rod: (Wailmer 80%, Tentacool 20%) L10-14
+Super Rod: (Tentacool 41%, Magikarp 40%, Wailmer 19%) L15-24
+
+Route 111:
+Land: (Volbeat 30%, Illumise 30%, Weepinbell 13%, Skitty 11%, Pidgeotto 10%, Oddish 6%) L16-18
+Old Rod: (Goldeen 70%, Magikarp 30%) L5-10
+Good Rod: (Surskit 60%, Barboach 40%) L15-17
+Super Rod: (Goldeen 40%, Magikarp 40%, Surskit 15%, Barboach 5%)
+
+Route 113:
+Land: (Trapinch 25%, Sandshrew 25%, Skarmory 14%, Spinda 14%, Cacnea 11%, Geodude 11%)
+
+Fiery Path:
+Cave: (Slugma 50%, Grimer 14%, Koffing 14%, Numel 11%, Torkoal 11%) L16-18
+
+Route 112:
+Land: (Spinda 21%, Teddiursa 20%, Gulpin 15%, Shroomish 14%, Swablu 14%, Solrock 11%, Lunatone 5%) L14-21
+
+Valley of Steel:
+Cave: (Torkoal 31%, Magnemite 30%, Skarmory 15%, Magneton 14%, Steelix 10%) L17-21
+
+Route 118:
+Land: (Nuzleaf 21%, Shroomish 21%, Breloom 14%, Voltorb 10%, Oddish 10%, Weepinbell 10%, Spoink 9%, Vileplume 5%) L21-24
+Old Rod: (Remoraid 70%, Feebas 30%) L10-15
+Good Rod: (Poliwrath 60%, Whiscash 20%, Carvanha 20%) L20-23
+Super Rod: (Remoraid 40%, Feebas 40%, Poliwrath 15%, Whiscash 4%, Carvanha 1%) L20-33
+
+Route 119:
+Land: (Dugtrio 24%, Shroomish 20%, Shuppet 20%, Breloom 15%, Igglybuff 11%, Vileplume 5%, Oddish 4%, Castform 1%) L21-24
+Old Rod: (Remoraid 70%, Feebas 30%) L10-15
+Good Rod: (Poliwrath 60%, Whiscash 20%, Gyarados 20%) L20-23
+Super Rod: (Remoraid 40%, Feebas 40%, Poliwrath 15%, Whiscash 4%, Gyarados 1%) L20-33
+
+Route 120:
+Land: (Slakoth 20%, Chimecho 20%, Gardevoir 14%, Zigzagoon 14%, Beedrill 10%, Flaaffy 10%, Volbeat 6%, Swablu 6%) L23-26
+Old Rod: (Remoraid 70%, Feebas 30%) L10-15
+Good Rod: (Poliwhirl 80%, Masquerain 20%) L20-24
+Super Rod: (Remoraid 40%, Feebas 40%, Poliwhirl 16%, Masquerain 4%) L30-35
+
+Route 121:
+Land: (Slakoth 20%, Chimecho 20%, Gardevoir 14%, Zigzagoon 14%, Beedrill 10%, Flaaffy 10%, Volbeat 6%, Swablu 6%) L23-26
+Old Rod: (Clamperl 70%, Luvdisc 30%) L10-15
+Good Rod: (Mantine 60%, Huntail 20%, Wailmer 20%) L20-24
+Super Rod: (Clamperl 40%, Luvdisc 40%, Mantine 15%, Huntail 4%, Wailmer 1%) L30-35
+
+Mossdeep City:
+Old Rod: (Tentacool 70%, Wingull 30%) L10-15
+Good Rod: (Wailmer 80%, Sharpedo 20%) L21-26
+Super Rod: (Tentacool 40%, Wingull 40%, Wailmer 19%, Sharpedo 1%) L31-36
+
+Izabe Island:
+Old Rod: (Psyduck 70%, Surskit 30%) L25-30
+Good Rod: (Surskit 60%, Tentacruel 40%) L25-30
+Super Rod: (Surskit 55%, Psyduck 40%, Tentacruel 5%) L35-40
+
+Izabe Forest:
+Land: (NidoranF 20%, NidoranM 20%, Ralts 14%, Kirlia 14%, Heracross 11%, Tauros 10%, Gardevoir 6%, Poochyena 5%) L27-32
+
+Izabe Desert:
+Cave: (Trapinch 20%, Claydol 20%, Rhydon 15%, Camerupt 10%, Phanpy 10%, Donphan 10%, Vibrava 10%, Baltoy 5%) L27-32
+
+Izabe Cave:
+Cave: (Snorunt 39%, Zigzagoon 25%, Mawile 11%, Absol 11%, Girafarig 10%, Azurill 4%) L27-32
+
+Sootopolis City:
+Old Rod: (Tentacool 70%, Wailmer 30%) L25-30
+Good Rod: (Surskit 60%, Sharpedo 20%, Tentacruel 20%) L25-30
+Super Rod: (Tentacool 40%, Wailmer 40%, Surskit 15%, Sharpedo 4%, Tentacruel 1%) L35-40
+
+Pacifidlog Town:
+Old Rod: (Tentacool 70%, Wailmer 30%) L25-30
+Good Rod: (Surskit 60%, Sharpedo 20%, Tentacruel 20%) L25-30
+Super Rod: (Tentacool 40%, Wailmer 40%, Surskit 15%, Sharpedo 4%, Tentacruel 1%) L35-40
+
+Ever Grande Conference:
+Land: (Linoone 20%, Crobat 20%, Donphan 10%, Wingull 10%, Oddish 10%, Misdreavus 10%, Hoothoot 5%, Wynaut 5%, Shelgon 4%, Sudowoodo 4%, Vibrava 1%, Jynx 1%) L35-38
+
+Battle Factory:
+Land: (Growlithe 21%, Beedrill 20%, Clefairy 10%, Graveler 10%, Golem 10%, Geodude 10%, Arcanine 6%, Onix 5%, Jigglypuff 4%, Cleffa 4%) L35-38
+
+Route 12:
+Old Rod: (Magikarp 70%, Wailmer 30%) L25-30
+Good Rod: (Gyarados 60%, Goldeen 20%, Tentacruel 20%) L25-30
+Super Rod: (Magikarp 40%, Wailmer 40%, Gyarados 15%, Goldeen 4%, Tentacruel 1%) L35-40
+
+Route 13:
+Land: (Farfetch'd 24%, Bellossom 21%, Barboach 10%, Dragonair 10%, Surskit 10%, Exeggutor 10%, Azumarill 5%, Vileplume 5%, Machop 4%, Shroomish 1%) L35-38
+Old Rod: (Goldeen 70%, Marill 30%) L25-30
+Good Rod: (Surskit 60%, Barboach 20%, Quagsire 20%) L25-30
+Super Rod: (Goldeen 40%, Marill 40%, Surskit 15%, Barboach 4%, Quagsire 1%) L35-40
+
+Route 14:
+Land: (Elekid 30%, Seedot 20%, Scyther 10%, Nuzleaf 10%, Exeggutor 10%, Volbeat 5%, Illumise 5%, Kangaskhan 5%, Linoone 4%, Dugtrio 1%) L35-39
+
+Route 15:
+Land: (Kangaskhan 30%, Linoone 20%, Elekid 14%, Dugtrio 10%, Seedot 10%, Scyther 5%, Nuzleaf 5%, Exeggutor 4%, Volbeat 1%, Illumise 1%) L35-39
+
+Safari Zone Hoenn:
+Land: (Bagon 20%, Gardevoir 20%, Nuzleaf 10%, Vigoroth 10%, Beldum 10%, Swablu 10%, Vibrava 9%, Nosepass 5%, Tropius 4%, Dusclops 2%) L30-35
+Old Rod: (Surskit 70%, Barboach 30%) L30-32
+Good Rod: (Lombre 60%, Spheal 20%, Clamperl 20%)
+Super Rod: (Spheal 40%, Barboach 40%, Lombre 15%, Sealeo 4%, Clamperl 1%)
+
+Metallica Island:
+Land: (Beedrill 20%, Aron 20%, Tropius 14%, Rhyhorn 11%, Meditite 10%, Smoochum 10%, Girafarig 5%, Rapidash 5%, Nidoking 4%, Ponyta 1%) L38-41
+Old Rod: (Wingull 70%, Surskit 30%) L30-32
+Good Rod: (Surskit 60%, Pelipper 40%) L35-38
+Super Rod: (Surskit 55%, Wingull 40%, Pelipper 5%) L45-48
+
+Route 26:
+Land: (Jynx 20%, Butterfree 20%, Ninetales 10%, Snorunt 10%, Loudred 10%, Persian 10%, Spinda 5%, Mawile 5%, Manectric 4%, Growlithe 4%, Venomoth 1%, Spearow 1%) L38-41
+Old Rod: (Lotad 70%, Azurill 30%) L30-32
+Good Rod: (Gyarados 60%, Marill 20%, Lombre 20%) L35-38
+Super Rod: (Lotad 40%, Azurill 40%, Gyarados 15%, Marill 4%, Lombre 1%) L40-48
+
+Battle Pyramid:
+Land: (Miltank 20%, Nuzleaf 20%, Shroomish 10%, Altaria 10%, Seedot 10%, Pidgeot 10%, Salamence 5%, Hoothoot 5%, Mankey 4%, Vigoroth 4%, Slaking 2%) L40-43
+Old Rod: (Azurill 70%, Remoraid 30%) L36-40
+Good Rod: (Mantine 60%, Ninetales 20%, Gyarados 20%) L40-43
+Super Rod: (Azurill 40%, Remoraid 40%, Mantine 15%, Ninetales 4%, Gyarados 1%) L46-53
+
+Route 202:
+Land: (Starly 29%, Chatot 24%, Budew 11%, Bidoof 11%, Buneary 10%, Zigzagoon 10%, Staravia 5%) L2-5
+Old Rod: (Mantyke 70%, Remoraid 30%) L2-5
+Good Rod: (Mantine 60%, Bibarel 40%) L3-5
+Super Rod: (Mantyke 40%, Remoraid 40%, Mantine 15%, Bibarel 5%)
+
+Route 201:
+Land: (Starly 29%, Chatot 24%, Budew 11%, Bidoof 11%, Buneary 10%, Zigzagoon 10%, Staravia 5%) L2-5
+
+Lake Verity:
+Land: (Starly 29%, Chatot 24%, Budew 11%, Bidoof 11%, Buneary 10%, Zigzagoon 10%, Staravia 5%) L2-5
+Old Rod: (Mantyke 70%, Remoraid 30%) L2-5
+Good Rod: (Mantine 60%, Bibarel 40%) L3-5
+Super Rod: (Mantyke 40%, Remoraid 40%, Mantine 15%, Bibarel 5%)
+
+Twinleaf Town:
+Old Rod: (Psyduck 70%, Magikarp 30%) L2-5
+Good Rod: (Goldeen 80%, Golduck 20%) L3-5
+Super Rod: (Psyduck 40%, Magikarp 40%, Goldeen 19%, Golduck 1%)
+
+Route 203:
+Land: (Pidgey 20%, Spearow 20%, Seedot 10%, Nuzleaf 10%, Hoothoot 10%, Natu 10%, Taillow 5%, Swablu 5%, Swellow 4%, Pidgeot 4%, Shiftry 1%, Vileplume 1%) L4-7
+Old Rod: (Psyduck 70%, Magikarp 30%) L4-7
+Good Rod: (Golduck 80%, Seaking 20%) L4-7
+Super Rod: (Psyduck 40%, Magikarp 40%, Golduck 16%, Seaking 4%) L14-17
+
+Oreburgh Gate:
+Cave: (Zubat 54%, Psyduck 16%, Geodude 16%, Ursaring 14%) L4-8
+
+Oreburgh Mine:
+Cave: (Zubat 54%, Geodude 30%, Onix 16%) L4-10
+
+Route 204:
+Land (Pachirisu 24%, Paras 20%, Shinx 19%, Budew 16%, Kricketot 11%, Bidoof 10%) L4-7
+Old Rod: (Feebas 70%, Magikarp 30%) L4-7
+Good Rod: (Bidoof 60%, Seaking 20%, Golduck 20%) L4-7
+Super Rod: (Feebas 40%, Magikarp 40%, Bidoof 15%, Seaking 4%, Golduck 1%) L14-17
+
+Ravaged Path:
+Cave: (Bidoof 40%, Steelix 20%, Hitmontop 20%, Steelix 10%, Zubat 10%) L4-7
+
+Route 205:
+Land: (Combee 31%, Shinx 20%, Bellsprout 10%, Budew 10%, Swinub 10%, Bellossom 5%, Skiploom 5%, Sandshrew 4%, Growlithe 4%, Bidoof 1%) L8-13
+Old Rod: (Goldeen 70%, Quagsire 30%) L9-13
+Good Rod: (Whiscash 80%, Wooper 20%) L8-13
+Super Rod: (Goldeen 40%, Quagsire 40%, Whiscash 16%, Wooper 4%) L18-23
+
+Eterna Forest:
+Land: (Combee 30%, Burmy 30%, Caterpie 10%, Ledyba 10%, Shroomish 5%, Sunkern 5%, Kakuna 4%, Gloom 4%, Vespiquen 2%) L8-13
+
+Route 206:
+Land: (Happiny 31%, Furret 20%, Mismagius 15%, Hippopotas 10%, Onix 10%, Electrike 5%, Crobat 4%, Graveler 4%, Golem 1%) L14-19
+
+Route 207:
+Land: (Hippopotas 30%, Golem 20%, Mismagius 15%, Happiny 11%, Onix 10%, Electrike 5%, Crobat 4%, Graveler 4%, Furret 1%) L14-19
+
+Route 209:
+Land: (Zangoose 25%, Spiritomb 21%, Pidgeot 10%, Raticate 10%, Bagon 10%, Bidoof 10%, Nosepass 5%, Metang 4%, Rhydon 4%, Magmar 1%) L19-22
+Old Rod: (Magikarp 70%, Goldeen 30%) L15-20
+Good Rod: (Bibarel 80%, Gyarados 20%) L19-23
+Super Rod: (Magikarp 40%, Goldeen 40%, Bibarel 16%, Gyarados 4%) L25-32
+
+Solaceon Ruins:
+Cave: (Unown 100%) L20
+
+Route 210:
+Land: (Drifloon 20%, Luxray 20%, Swinub 10%, Ponyta 10%, Abra 10%, Miltank 10%, Glaceon 5%, Machoke 5%, Psyduck 4%, Muk 4%, Beedrill 2%) L19-25
+Old Rod: (Wooper 70%, Psyduck 30%) L15-20
+Good Rod: (Psyduck 60%, Wooper 20%, Muk 20%) L19-23
+Super Rod: (Wooper 44%, Psyduck 40%, Kingler 15%, Muk 1%) L25-32
+
+Route 215:
+Land: (Gligar 24%, Beautifly 20%, Gliscor 11%, Hippopotas 10%, Butterfree 10%, Glameow 10%, Hippowdon 5%, Spearow 5%, Pidgeot 4%, Cherubi 1%) L19-25
+
+Route 214:
+Land: (Chansey 20%, Unown 20%, Stunky 14%, Munchlax 11%, Dustox 10%, Cherubi 10%, Budew 9%, Shinx 6%) L19-25
+Old Rod: (Nincada 100%) L19-25
+Good Rod: (Buizel 60%, Floatzel 40%) L19-25
+Super Rod: (Nincada 80%, Buizel 15%, Floatzel 5%) L29-35
+
+Valor Lakefront:
+Land: (Chansey 20%, Unown 20%, Stunky 14%, Munchlax 11%, Dustox 10%, Cherubi 10%, Budew 9%, Shinx 6%) L19-25
+
+Lake Valor:
+Old Rod: (Feebas 70%, Nincada 30%) L19-25
+Good Rod: (Buizel 60%, Floatzel 20%, Milotic 20%) L19-25
+Super Rod: (Feebas 40%, Nincada 40%, Buizel 15%, Floatzel 4%, Milotic 1%) L29-35
+
+Route 213:
+Land: (Yanma 25%, Croagunk 25%, Wingull 14%, Shellos 14%, Chatot 11%, Drapion 11%) L20-26
+Old Rod: (Tentacool 70%, Magikarp 30%) L20-26
+Good Rod: (Remoraid 60%, Gyarados 20%, Octillery 20%) L20-26
+Super Rod: (Tentacool 40%, Magikarp 40%, Remoraid 15%, Gyarados 4%, Octillery 1%) L30-36
+
+Safari Zone Sinnoh:
+Land: (Carnivine 20%, Skorupi 20%, Croagunk 10%, Luxio 10%, Starly 10%, Budew 10%, Bidoof 5%, Staravia 5%, Toxicroak 5%, Gible 4%, Drapion 1%) L30-38
+Old Rod: (Finneon 70%, Mantyke 30%) L20-25
+Good Rod: (Bibarel 60%, Gastrodon 20%, Lumineon 20%) L25-30
+Super Rod: (Finneon 40%, Mantyke 40%, Bibarel 15%, Gastrodon 4%, Lumineon 1%) L30-40
+
+Route 212:
+Land: (Ralts 20%, Roselia 20%, Buizel 15%, Kricketune 14%, Shellos 14%, Croagunk 10%, Staravia 6%, Smeargle 1%) L21-26
+Old Rod: (Marill 70%, Psyduck 30%) L21-23
+Good Rod: (Octillery 60%, Gyarados 20%, Gastrodon 20%) L21-24
+Super Rod: (Marill 40%, Psyduck 40%, Octillery 15%, Gyarados 4%, Gastrodon 14%) L31-34
+
+Trophy Garden:
+Land: (Pichu 20%, Igglybuff 20%, Cleffa 10%, Azurill 10%, Swinub 10%, Bonsly 10%, Porygon 10%, Mime Jr. 5%, Eevee 5%) L15-18
+
+Route 210 (second part):
+Land: (Ursaring 25%, Luxray 20%, Machoke 20%, Muk 10%, Glaceon 10%, Drapion 5%, Tauros 4%, Shellos 4%, Gengar 1%, Shiftry 1%) L26-30
+Old Rod: (Wooper 70%, Surskit 30%) L23-26
+Good Rod: (Wailmer 60%, Staryu 20%, Poliwrath 20%) L25-30
+Super Rod: (Wooper 40%, Surskit 40%, Kingler 15%, Staryu 4%, Poliwrath 1%) L33-40
+
+Celestic Town:
+Old Rod: (Magikarp 70%, Goldeen 30%) L23-26
+Good Rod: (Seaking 60%, Staryu 20%, Poliwrath 20%) L25-30
+Super Rod: (Magikarp 40%, Goldeen 40%, Seaking 15%, Staryu 4%, Poliwrath 1%) L33-40
+
+Route 218:
+Old Rod: (Finneon 70%, Goldeen 30%) L23-26
+Good Rod: (Gyarados 60%, Staryu 20%, Poliwrath 20%) L22-30
+Super Rod: (Finneon 40%, Goldeen 40%, Gyarados 15%, Staryu 4%, Poliwrath 1%) L32-40
+
+Canalave City:
+Old Rod: (Marill 70%, Psyduck 30%) L21-23
+Good Rod: (Seaking 60%, Staryu 20%, Poliwrath 20%) L25-30
+Super Rod: (Marill 40%, Psyduck 40%, Seaking 15%, Staryu 4%, Poliwrath 1%) L31-40
+
+Route 211:
+Land: (Combee 21%, Shinx 20%, Nosepass 10%, Magnemite 10%, Budew 10%, Swinub 10%, Bellossom 5%, Skiploom 5%, Skarmory 4%, Growlithe 4%, Bidoof 1%) L8-13
+
+Route 216:
+Land: (Snover 21%, Snorunt 20%, Froslass 11%, Mantyke 10%, Bronzor 10%, Stunky 10%, Skorupi 5%, Shuckle 5%, Zubat 4%, Cloyster 4%) L32-37
+
+Route 217:
+Land: (Snover 21%, Snorunt 20%, Froslass 11%, Mantyke 10%, Stunky 10%, Skorupi 10%, Cloyster 5%, Bronzor 5%, Shuckle 4%, Zubat 4%) L32-37
+
+Route 222:
+Land: (Gible 30%, Zubat 20%, Onix 10%, Diglett 10%, Trapinch 10%, Teddiursa 5%, Raichu 5%, Murkrow 4%, Magnezone 4%, Metagross 2%) L39-42
+Old Rod: (Krabby 70%, Corphish 30%) L39-42
+Good Rod: (Sharpedo 60%, Octillery 20%, Poliwhirl 20%) L39-42
+Super Rod: (Krabby 40%, Corphish 40%, Sharpedo 15%, Octillery 4%, Poliwhirl 1%) L49-52
+
+Sunnyshore City:
+Old Rod: (Krabby 70%, Corphish 30%) L39-42
+Good Rod: (Octillery 60%, Politoed 20%, Lanturn 20%) L39-42
+Super Rod: (Krabby 40%, Corphish 40%, Octillery 15%, Politoed 4%, Lanturn 1%) L49-52
+
+Lily of the Valley Island:
+Land: (Lunatone 24%, Solrock 20%, Claydol 10%, Vileplume 10%, Voltorb 10%, Pineco 10%, Onix 6%, Golem 5%, Mantine 4%, Gloom 1%) L35-38
+
+Route 1:
+Land: (Pidove 30%, Patrat 25%, Deerling 15%, Woobat 15%, Sandile 15%) L2-4
+
+Route 2:
+Land: (Pidove 30%, Patrat 25%, Deerling 15%, Woobat 15%, Sandile 15%) L2-4
+
+Striaton City:
+Old Rod: (Basculin 100%) L5-8
+Good Rod: (Swanna 60%, Alomomola 40%) L7-9
+Super Rod: (Basculin 80%, Swanna 15%, Alomomola 5%) L15-19
+
+Dreamyard:
+Land: (Munna 84%, Musharna 16%) L8-11
+
+Route 3:
+Land: (Dwebble 30%, Darumaka 25%, Trubbish 15%, Minccino 14%, Yamask 10%, Scolipede 4%, Darmanitan 2%) L8-11
+Old Rod: (Basculin 100%) L8-9
+Good Rod: (Swanna 60%, Alomomola 40%) L9-11
+Super Rod: (Basculin 80%, Swanna 15%, Alomomola 5%) L18-21
+
+Wellspring Cave:
+Cave: (Roggenrola 50%, Woobat 50%) L10-13
+Old Rod: (Basculin 100%) L10-11
+Good Rod: (Swanna 60%, Alomomola 40%) L9-13
+Super Rod: (Basculin 80%, Swanna 15%, Alomomola 5%) L19-23
+
+Pinwheel Forest (670):
+Land: (Sewaddle 25%, Cottonee 25%, Galvantula 14%, Patrat 10%, Venipede 11%, Woobat 10%, Petilil 4%, Pidove 1%) L14-17
+
+Pinwheel Forest (675):
+Land: (Sewaddle 20%, Woobat 20%, Galvantula 14%, Petilil 14%, Venipede 10%, Patrat 10%, Swadloon 5%, Cottonee 5%, Whirlipede 1%, Gothitelle 1%) L14-17
+Old Rod: (Tympole 100%) L14-15
+Good Rod: (Ducklett 60%, Tympole 20%, Alomomola 20%) L12-17
+Super Rod: (Tympole 84%, Ducklett 15%, Alomomola 1%) L22-27
+
+Route 4 (682):
+Land: (Roggenrola 20%, Elgyem 20%, Litwick 14%, Blitzle 14%, Foongus 11%, Darumaka 10%, Lampent 5%, Swoobat 5%, Darmanitan 1%) L15-18
+Old Rod: (Tympole 70%, Frillish 30%) L15-17
+Good Rod: (Palpitoad 60%, Stunfisk 20%, Beartic 20%) L16-18
+Super Rod: (Tympole 40%, Frillish 40%, Palpitoad 15%, Stunfisk 4%, Beartic 1%)
+
+Route 4 (683):
+Land: (Emolga 20%, Cubchoo 20%, Joltik 14%, Audino 14%, Scrafty 10%, Mandibuzz 10%, Larvesta 6%, Simisear 5%, Scolipede 1%) L15-18
+
+Safari Zone Unova:
+Land: (Pansage 20%, Pansear 20%, Audino 10%, Axew 10%, Durant 10%, Ferrothorn 10%, Heatmor 5%, Larvesta 5%, Dwebble 4%, Deino 4%, Gothorita 1%, Deerling 1%) L30-35
+Old Rod: (Panpour 70%, Alomomola 30%) L30-32
+Good Rod: (Cryogonal 60%, Stunfisk 20%, Cubchoo 20%) L30-32
+Super Rod: (Basculin 40%, Beartic 44%, Jellicent 15%, Panpour 1%) L40-42
+
+Route 5:
+Land: (Lillipup 20%, Deino 20%, Sawsbuck 10%, Boufallant 10%, Axew 10%, Pansage 10%, Pansear 5%, Panpour 5%, Gothita 4%, Gigalith 4%, Garbodor 2%) L19-22
+
+Driftveil Drawbridge:
+Old Rod: (Ducklett 100%) L10-25
+Good Rod: (Ducklett 100%) L10-25
+Super Rod: (Ducklett 100%) L30-35
+
+Milos Island:
+Land: (Patrat 20%, Pidove 20%, Blitzle 15%, Cottonee 14%, Deerling 14%, Darmanitan 11%, Sawsbuck 6%, Blitzle 5%) L20-23
+Old Rod: (Basculin 70%, Swanna 30%) L20-22
+Good Rod: (Swanna 60%, Alomomola 20%, Basculin 20%) L20-23
+Super Rod: (Swanna 55%, Basculin 41%, Alomomola 4%) L30-33
+
+Route 6:
+Land: (Shelmet 25%, Karrablast 25%, Bouffalant 10%, Deerling 10%, Joltik 10%, Tranquill 10%, Foongus 4%, Sigilyph 4%, Escavalier 1%, Accelgor 1%) L22-25
+Old Rod: (Panpour 70%, Tympole 30%) L22-24
+Good Rod: (Tympole 60%, Panpour 20%, Palpitoad 20%) L22-24
+Super Rod: (Tympole 55%, Panpour 44%, Palpitoad 1%) L32-34
+
+Chargestone Cave 1F:
+Cave: (Joltik 34%, Klink 25%, Druddigon 14%, Klang 11%, Galvantula 10%, Klinklang 6%) L24-27
+
+Chargestone Cave B1F:
+Cave: (Joltik 34%, Klink 25%, Sigilyph 14%, Klang 11%, Galvantula 10%, Klinklang 6%) L24-27
+
+Chargestone Cave B2F:
+Cave: (Joltik 34%, Klink 25%, Cofagrigus 14%, Klang 11%, Galvantula 10%, Klinklang 6%) L24-27
+
+Route 7 (711):
+Land: (Durant 28%, Sewaddle 20%, Purrloin 10%, Watchog 10%, Litwick 10%, Lampent 10%, Blitzle 6%, Volcarona 5%, Chandelure 1%) L26-29
+
+Mistralton Tower 2F:
+Cave: (Litwick 60%, Purrloin 40%) L26-29
+
+Mistralton Tower 3F:
+Cave: (Solosis 49%, Elgyem 30%, Litwick 21%) L26-29
+
+Mistralton Tower 4F:
+Cave: (Golett 40%, Litwick 30%, Solosis 20%, Elgyem 10%) L26-29
+
+Route 7 (713):
+Land: (Sawk 20%, Throh 20%, Scraggy 14%, Gurdurr 14%, Mienshao 10%, Timburr 10%, Mienfoo 6%, Conkeldurr 6%) L27-31.
+
+Twist Mountain:
+Cave: (Drilbur 20%, Boldore 20%, Gurdurr 10%, Woobat 10%, Cubchoo 10%, Heatmor 10%, Excadrill 5%, Gigalith 5%, Conkeldurr 4%, Swoobat 4%, Beartic 1%, Volcarona 1%) L28-31
+
+Route 8:
+Land: (Ferroseed 30%, Tynamo 20%, Gothita 15%, Whimsicott 11%, Lillipup 10%, Zebstrika 8%, Krokorok 5%, Cottonee 1%) L30-33
+Old Rod: (Frillish 70%, Tynamo 30%) L30-31
+Good Rod: (Swanna 80%, Tynamo 20%) L30-33
+Super Rod: (Tynamo 41%, Frillish 40%, Swanna 19%) L40-43
+
+Route 9:
+Land: (Ferroseed 30%, Tynamo 20%, Gothita 15%, Cottonee 11%, Whimsicott 11%, Zebstrika 8%, Krokorok 5%) L30-33
+
+Virbank City:
+Old Rod: (Frillish 100%) L30-31
+Good Rod: (Jellicent 60%, Swanna 20%, Alomomola 20%) L30-33
+Super Rod: (Frillish 80%, Jellicent 15%, Swanna 4%, Alomomola 1%) L40-43
+
+Route 16:
+Land: (Rattata 24%, Foongus 20%, Pidove 15%, Onix 14%, Magnemite 11%, Blitzle 10%, Gothita 5%, Hydreigon 1%) L31-35
+
+Undella Town:
+Old Rod: (Staryu 70%, Krabby 30%) L31-33
+Good Rod: (Wailord 60%, Beartic 20%, Dragonite 20%) L32-35
+Super Rod: (Staryu 40%, Krabby 40%, Wailord 15%, Beartic 4%, Dragonite 1%) L41-45
+
+Route 12:
+Land: (Rufflet 20%, Vullaby 20%, Amoongus 10%, Karrablast 10%, Corphish 10%, Buizel 10%, Zweilous 9%, Fraxure 6%, Axew 5%) L33-36
+
+Vetress City:
+Land: (Stoutland 20%, Swoobat 20%, Eevee 12%, Trubbish 10%, Mareep 10%, Zebstrika 10%, Blitzle 5%, Cryogonal 5%, Garbodor 4%, Bouffalant 4%) L35-39
+
+Route 20:
+Land: (Maractus 25%, Pawniard 25%, Minccino 14%, Sunflora 14%, Shinx 11%, Amoonguss 11%) L36-40
+Old Rod: (Ducklett 100%) L37-40
+Good Rod: (Alomomola 60%, Beartic 20%, Swanna 20%) L37-40
+Super Rod: (Seel 55%, Ducklett 40%, Beartic 4%, Swanna 1%) L47-50
+
+Route 19:
+Land: (Braviary 25%, Swadloon 25%, Maractus 14%, Scolipede 14%, Audino 11%, Galvantula 11%) L36-40
+Old Rod: (Ducklett 100%) L37-40
+Good Rod: (Alomomola 60%, Beartic 20%, Swanna 20%) L37-40
+Super Rod: (Ducklett 80%, Alomomola 15%, Beartic 4%, Swanna 1%) L47-50
+
+Route 4:
+Land: (Fletchling 24%, Bunnelby 20%, Inkay 14%, Dedenne 10%, Rhyhorn 10%, Venipede 10%, Pidgey 5%, Oddish 5%, Volbeat 1%, Illumise 1%) L3-5
+
+Route 5:
+Land: (Pumpkaboo 25%, Pancham 25%, Espurr 14%, Riolu 11%, Pangoro 11%, Cubone 10%, Scatterbug 4%) L9-11
+
+Route 6:
+Land: (Fletchling 25%, Marill 25%, Hoppip 14%, Whismur 14%, Smeargle 11%, Skitty 11%) L10-12
+
+Route 7:
+Land: (Spritzee 25%, Swirlix 25%, Kecleon 14%, Malamar 14%, Onix 11%, Furret 11%) L13-14
+Old Rod: (Ducklett 100%) L5
+Good Rod: (Gulpin 60%, Psyduck 40%) L10-15
+Super Rod: (Bibarel 44%, Ducklett 41%, Mantine 15%) L20-25
+
+Route 8:
+Land: (Spritzee 34%, Swirlix 34%, Kecleon 16%, Meowstic 15%, Malamar 1%) L14-15
+Old Rod: (Shellder 70%, Finneon 30%) L5
+Good Rod: (Clauncher 60%, Skrelp 20%, Corsola 20%) L10-15
+Super Rod: (Dragalge 40%, Stunfisk 40%, Starmie 15%, Mantine 4%, Sharpedo 1%) L20-25
+
+Cyllage City:
+Old Rod: (Shellder 70%, Finneon 30%) L5
+Good Rod: (Clauncher 60%, Skrelp 20%, Corsola 20%) L10-15
+Super Rod: (Dragalge 40%, Stunfisk 40%, Starmie 15%, Mantine 4%, Sharpedo 1%) L20-25
+
+Route 10:
+Land: (Ralts 24%, Swirlix 21%, Bellossom 11%, Medicham 10%, Kirlia 10%, Audino 10%, Lilligant 5%, Smeargle 5%, Gulpin 4%) L19-21
+Old Rod: (Ducklett 70%, Psyduck 30%) L8
+Good Rod: (Binacle 60%, Marill 20%, Corsola 20%) L15-20
+Super Rod: (Swanna 40%, Bibarel 40%, Simipour 15%, Mantine 4%, Sharpedo 1%) L25-30
+
+Route 11:
+Land: (Hawlucha 24%, Furfrou 20%, Bonsly 10%, Ursaring 10%, Pidgeotto 10%, Machamp 10%, Trevenant 6%, Sudowoodo 5%, Pachirisu 4%, Machamp 1%) L21-25
+
+Reflection Cave:
+Cave: (Bonsly 29%, Trevenant 24%, Noibat 20%, Ursaring 11%, Sudowoodo 11%, Amoonguss 5%) L21-23
+
+Route 12:
+Land: (Pancham 20%, Luxio 20%, Skiddo 10%, Flabebe 10%, Magnemite 10%, Flaaffy 10%, Golbat 5%, Gogoat 5%, Spritzee 4%, Vanillite 4%, Salamence 1%, Goomy 1%) L23-27
+Old Rod: (Bidoof 70%, Marill 30%) L15
+Good Rod: (Marill 60%, Lotad 20%, Lombre 20%) L23-27
+Super Rod: (Lapras 44%, Simipour 41%, Lombre 15%) L30-35
+
+Coumarin City:
+Old Rod: (Bidoof 70%, Marill 30%) L15
+Good Rod: (Marill 60%, Lotad 20%, Lombre 20%) L23-27
+Super Rod: (Lapras 44%, Simipour 41%, Lombre 15%) L30-35
+
+Route 13:
+Cave: (Helioptile 20%, Spoink 20%, Magnezone 15%, Grumpig 14%, Electrike 10%, Stunfisk 10%, Diggersby 9%, Plusle 1%, Minun 1%) L26-28
+
+Route 14:
+Land: (Floette 20%, Carbink 20%, Pinsir 10%, Wooper 10%, Lotad 10%, Florges 10%, Yanmega 5%, Pangoro 5%, Beedrill 4%, Seviper 4%, Ariados 1%, Gulpin 1%) L30-32
+
+Laverre City:
+Old Rod: (Psyduck 70%, Marill 30%) L20
+Good Rod: (Marill 60%, Ducklett 20%, Goomy 20%) L30-35
+Super Rod: (Basculin 44%, Binacle 40%, Poliwhirl 15%, Goomy 1%) L30-45
+
+Route 15:
+Land: (Honedge 20%, Skorupi 20%, Watchog 15%, Liepard 14%, Foongus 14%, Pawniard 11%, Klefki 6%) L33-36
+Old Rod: (Poliwag 70%, Seel 30%) L20-26
+Good Rod: (Binacle 60%, Lombre 20%, Seel 20%) L33-36
+Super Rod: (Floatzel 44%, Seel 40%, Basculin 16%) L43-46
+
+Dedemille Town:
+Old Rod: (Frillish 100%) L20-26
+Good Rod: (Jellicent 60%, Swanna 20%, Alomomola 20%) L30-33
+Super Rod: (Frillish 80%, Jellicent 15%, Swanna 4%, Alomomola 1%) L40-43
+
+Route 17:
+Cave: (Snover 35%, Mamoswine 34%, Abomasnow 24%, Vivillon 6%, Fearow 1%) L36-38
+
+Frost Cavern 1F+2F:
+Cave: (Snover 25%, Mamoswine 24%, Abomasnow 14%, Eevee 10%, Crustle 10%, Fearow 11%, Vivillon 6%) L36-38
+
+Frost Cavern 3F:
+Cave: (Mamoswine 24%, Bergmite 20%, Abomasnow 14%, Eevee 10%, Crustle 10%, Fearow 11%, Vivillon 6%, Snover 5%) L36-38
+
+Safari Zone Kalos:
+Land: (Litleo 20%, Floette 20%, Skiddo 10%, Carbink 10%, Furfrou 10%, Gogoat 10%, Honedge 5%, Goomy 5%, Dedenne 4%, Pumpkaboo 4%, Phantump 1%, Bergmite 1%) L30-34
+Old Rod: (Binacle 70%, Clauncher 30%) L30-32
+Good Rod: (Binacle 60%, Inkay 20%, Malamar 20%) L30-32
+Super Rod: (Clawitzer 40%, Barbaracle 40%, Malamar 15%, Sliggoo 4%, Goodra 1%) L40-42
+
+Route 18:
+Land: (Litleo 25%, Marill 25%, Dodrio 14%, Flareon 14%, Zigzagoon 11%, Pyroar 10%, Jolteon 1%) L37-39
+Old Rod: (Azurill 100%) L25-30
+Good Rod: (Marill 60%, Lanturn 20%, Vaporeon 20%) L30-33
+Super Rod: (Panpour 41%, Vaporeon 40%, Beartic 15%, Huntail 4%) L47-51
+
+Couriway Town:
+Old Rod: (Azurill 100%) L25-30
+Good Rod: (Marill 60%, Lanturn 20%, Vaporeon 20%) L30-33
+Super Rod: (Frillish 80%, Jellicent 15%, Swanna 4%, Alomomola 1%) L47-51
+
+Route 19:
+Land: (Floette 21%, Phantump 21%, Lairon 10%, Shuckle 10%, Toxicroak 10%, Helioptile 10%, Litleo 5%, Diglett 5%, Staravia 4%, Sentret 4%) L38-40
+
+Route 21:
+Land: (Floette 21%, Phantump 21%, Lairon 10%, Shuckle 10%, Toxicroak 10%, Helioptile 10%, Litleo 5%, Diglett 5%, Staravia 4%, Sentret 4%) L38-40
+Old Rod: (Azurill 100%) L25-30
+Good Rod: (Marill 60%, Lanturn 20%, Vaporeon 20%) L30-33
+Super Rod: (Frillish 80%, Jellicent 15%, Swanna 4%, Alomomola 1%) L47-51
+
+Route 20:
+Land: (Vivillon 20%, Spewpa 20%, Butterfree 10%, Bergmite 10%, Snorlax 10%, Budew 10%, Fletchling 5%, Weedle 5%, Caterpie 4%, Scatterbug 4%, Zigzagoon 1%, Bidoof 1%) L40-43
+
+Route 22:
+Land: (Scyther 24%, Ursaring 20%, Altaria 11%, Spinda 10%, Floatzel 10%, Lombre 10%, Swablu 9%, Dragonair 6%) L43-47
+
+Route 1:
+Land: (Grubbin 30%, Pikipek 25%, Alolan Exeggutor 14%, Spearow 10%, Corsola 10%, Sandygast 5%, Bonsly 4%, Sudowoodo 1%, Bewear 1%) L2-5
+Old Rod: (Pyukumuku 70%, Slowpoke 30%) L2-5
+Good Rod: (Bruxish 60%, Wishiwashi 20%, Dewpider 20%) L2-5
+Super Rod: (Pyukumuku 40%, Slowpoke 40%, Bruxish 15%, Wishiwashi 4%, Dewpider 1%) L12-15
+
+Melemele Forest:
+Land: (Pikipek 20%, Grubbin 20%, Mimikyu 10%, Trumbeak 10%, Bounsweet 10%, Morelull 10%, Shiinotic 5%, Oranguru 5%, Drampa 4%, Alolan Exeggutor 4%, Toucannon 1%, Bewear 1%) L2-5
+
+Hau'oli City:
+Old Rod: (Poliwag 70%, Slowpoke 30%) L4-7
+Good Rod: (Corsola 60%, Sharpedo 20%, Pelipper 20%) L4-7
+Super Rod: (Poliwag 40%, Slowpoke 40%, Corsola 15%, Sharpedo 4%, Pelipper 1%) L14-17
+
+Hau'oli Outskirts:
+Land: (Salandit 24%, Roggenrola 24%, Charjabug 10%, Alolan Cubone 10%, Emolga 10%, Rufflet 10%, Spinarak 5%, Zubat 5%, Pikipek 1%, Bewear 1%) L5-8
+Old Rod: (Psyduck 70%, Slowpoke 30%) L5-8
+Good Rod: (Corsola 60%, Sharpedo 20%, Pelipper 20%) L5-8
+Super Rod: (Psyduck 40%, Slowpoke 40%, Corsola 15%, Sharpedo 4%, Pelipper 1%) L15-18
+
+Route 3:
+Land: (Alolan Diglett 30%, Alolan Rattata 20%, Cutiefly 14%, Mudbray 11%, Alolan Meowth 10%, Ribombee 5%, Passimian 5%, Alolan Raticate 5%) L10-14
+
+Route 2:
+Land: (Alolan Rattata 24%, Wimpod 24%, Alolan Pichu 10%, Butterfree 10%, Charjabug 10%, Tauros 10%, Miltank 5%, Murkrow 5%, Paras 1%, Stoutland 1%) L9-12
+Old Rod: (Mareanie 70%, Corsola 30%) L9-12
+Good Rod: (Chinchou 60%, Dhelmise 20%, Bruxish 20%) L9-12
+Super Rod: (Mareanie 40%, Corsola 40%, Chinchou 15%, Dhelmise 4%, Bruxish 1%) L19-22
+
+Verdant Cavern:
+Cave: (Yungoos 50%, Alolan Rattata 30%, Gumshoos 10%, Alolan Raticate 10%) L12-16
+
+Paniola Town:
+Old Rod: (Wishiwashi 70%, Alomomola 30%) L9-12
+Good Rod: (Pelipper 80%, Gyarados 20%) L15-18
+Super Rod: (Pelipper 41%, Gyarados 40%, Wishiwashi 15%, Alomomola 4%) L19-28
+
+Paniola Ranch:
+Land: (Mudbray 25%, Miltank 25%, Tauros 14%, Herdier 14%, Lillipup 11%, Alolan Geodude 11%) L15-18
+Old Rod: (Wishiwashi 70%, Alomomola 30%) L9-12
+Good Rod: (Pelipper 80%, Gyarados 20%) L15-18
+Super Rod: (Pelipper 41%, Gyarados 40%, Wishiwashi 15%, Alomomola 4%) L19-28
+
+Melemele Meadow:
+Cave: (Oricorio 55%, Butterfree 10%, Pikipek 10%, Ledyba 10%, Bewear 10%, Murkrow 5%) L17-20
+
+Route 5:
+Land: (Wimpod 26%, Cutiefly 25%, Crabrawler 20%, Alolan Exeggutor 10%, Grubbin 10%, Ribombee 5%, Butterfree 4%) L18-21
+
+Brooklet Hill:
+Old Rod: (Magikarp 70%, Feebas 30%) L21-23
+Good Rod: (Wishiwashi 80%, Alomomola 20%) L21-23
+Super Rod: (Magikarp 40%, Feebas 40%, Wishiwashi 16%, Alomomola 4%) L31-33
+
+Route 8:
+Land: (Alolan Geodude 31%, Alolan Diglett 20%, Lillipup 14%, Garbodor 10%, Herdier 10%, Fearow 6%, Yungoos 6%) L21-24
+Old Rod: (Wishiwashi 70%, Alomomola 30%) L21-24
+Good Rod: (Wimpod 60%, Gyarados 20%, Wishiwashi 20%) L21-24
+Super Rod: (Wishiwashi 41%, Alomomola 40%, Wimpod 15%, Gyarados 4%) L31-34
+
+Route 7:
+Land: (Alolan Geodude 31%, Alolan Diglett 20%, Lillipup 14%, Garbodor 10%, Herdier 10%, Fearow 6%, Yungoos 6%) L21-24
+Old Rod: (Wishiwashi 70%, Alomomola 30%) L21-24
+Good Rod: (Wimpod 60%, Gyarados 20%, Wishiwashi 20%) L21-24
+Super Rod: (Wishiwashi 41%, Alomomola 40%, Wimpod 15%, Gyarados 4%) L31-34
+
+Wela Volcano Park:
+Cave: (Alolan Marowak 25%, Alolan Cubone 25%, Magcargo 14%, Magby 14%, Salandit 11%, Ponyta 11%) L22-24
+
+Lush Jungle:
+Cave: (Fomantis 36%, Alolan Diglett 25%, Castform 14%, Lurantis 14%, Parasect 11%) L22-24
+
+Aether Paradise:
+Land: (Bounsweet 20%, Stufful 21%, Ditto 11%, Petilil 10%, Comfey 10%, Alolan Exeggcute 10%, Sandygast 9%, Jigglypuff 5%, Sandile 4%) L23-28
+Old Rod: (Shellos 70%, Qwilfish 30%) L23-28
+Good Rod: (Swanna 60%, Goldeen 20%, Wishiwashi 20%) L23-28
+Super Rod: (Shellos 40%, Qwilfish 40%, Swanna 15%, Goldeen 4%, Wishiwashi 1%) L33-38
+
+Ten Carat Hill:
+Cave: (Pinsir 20%, Magmar 20%, Day Lycanroc 14%, Night Lycanroc 14%, Alolan Raticate 10%, Spinda 10%, Sableye 5%, Pangoro 5%, Machop 2%) L24-29
+
+Vast Poni Canyon:
+Cave: (Jangmo-o 30%, Hakamo-o 20%, Mienfoo 10%, Carbink 10%, Kommo-o 10%, Machoke 5%, Golbat 5%, Night Lycanroc 4%, Day Lycanroc 4%, Machop 2%) L24-29
+
+Mount Lanakila:
+Land: (Alolan Vulpix 30%, Sneasel 25%, Alolan Sandshrew 20%, Crabominable 15%, Snorunt 10%) L25-30
+
+Haina Desert:
+Cave: (Trapinch 30%, Sandile 25%, Mudsdale 15%, Alolan Dugtrio 15%, Alolan Diglett 15%) L27-32
+
+Tapu Village:
+Old Rod: (Tentacool 70%, Finneon 30%) L27-32
+Good Rod: (Bruxish 80%, Wishiwashi 20%) L27-32
+Super Rod: (Tentacool 40%, Finneon 40%, Bruxish 16%, Wishiwashi 4%) L37-42
+
+Route 14:
+Land: (Cutiefly 28%, Drampa 25%, Salandit 25%, Gengar 11%, Blissey 11%) L27-32
+Old Rod: (Tentacool 70%, Finneon 30%) L27-32
+Good Rod: (Bruxish 80%, Wishiwashi 20%) L27-32
+Super Rod: (Tentacool 40%, Finneon 40%, Bruxish 16%, Wishiwashi 4%) L37-42
+
+Mount Lanakila Cave:
+Cave: (Alolan Sandshrew 39%, Boldore 35%, Alolan Raticate 24%, Tyranitar 1%, Alolan Sandslash 1%) L29-32
+
+Mount Hokulani:
+Land: (Minior 61%, Alolan Dugtrio 14%, Ditto 14%, Skarmory 11%) L32
+
+Safari Zone Alola:
+Land: (Alolan Grimer 20%, Togedemaru 20%, Alolan Graveler 10%, Comfey 10%, Alolan Vulpix 10%, Steenee 10%, Shiinotic 5%, Passimian 5%, Oranguru 4%, Jangmo-o 4%, Drampa 1%, Turtonator 1%) L30-38
+Old Rod: (Pyukumuku 70%, Wimpod 30%) L20-25
+Good Rod: (Bruxish 60%, Mareanie 20%, Dhelmise 20%) L25-30
+Super Rod: (Pyukumuku 40%, Wimpod 40%, Bruxish 15%, Mareanie 4%, Dhelmise 1%) L30-40
+
+Seafolk Village:
+Old Rod: (Wingull 100%) L32-34
+Good Rod: (Relicanth 60%, Wailmer 20%, Dhelmise 20%) L32-34
+Super Rod: (Wingull 80%, Relicanth 15%, Wailmer 4%, Dhelmise 1%) L42-44
+
+Poni Wilds:
+Land: (Oricorio 30%, Trumbeak 24%, Spinarak 20%, Granbull 10%, Gumshoos 9%, Pinsir 7%) L30-38
+Old Rod: (Wingull 70%, Wishiwashi 30%) L30-35
+Good Rod: (Relicanth 60%, Golduck 20%, Meltan 20%) L30-35
+Super Rod: (Wingull 40%, Wishiwashi 40%, Relicanth 15%, Golduck 4%, Meltan 1%) L40-45
+
+Ancient Poni Path:
+Land: (Oricorio 30%, Trumbeak 24%, Spinarak 20%, Granbull 10%, Gumshoos 9%, Pinsir 7%) L30-38
+
+Poni Breaker Coast:
+Old Rod: (Wimpod 70%, Wingull 30%) L32-34
+Good Rod: (Relicanth 60%, Sharpedo 20%, Tentacruel 20%) L32-34
+Super Rod: (Wimpod 40%, Wingull 40%, Relicanth 15%, Sharpedo 4%, Tentacruel 1%) L42-44
+
+Route 12:
+Land: (Eevee 36%, Pikipek 25%, Passimian 14%, Froslass 14%, Hariyama 11%) L30-34
+Old Rod: (Crabrawler 70%, Tentacool 30%) L30-35
+Good Rod: (Octillery 80%, Finneon 20%) L30-35
+Super Rod: (Crabrawler 40%, Tentacool 40%, Octillery 19%, Finneon 1%) L40-45
+
+Route 11:
+Land: (Eevee 36%, Pikipek 25%, Passimian 14%, Froslass 14%, Hariyama 11%) L30-34
+
+Land, LandMorning, LandDay, LandNight, Cave, BugContest = 20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
+Water, RockSmash = 60, 30, 5, 4, 1
+OldRod = 70, 30
+GoodRod = 60, 20, 20
+SuperRod = 40, 40, 15, 4, 1
+HeadbuttLow, HeadbuttHigh = 30, 25, 20, 10, 5, 5, 4, 1

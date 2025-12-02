@@ -1,0 +1,1317 @@
+﻿Pokemon that cannot be obtained are at the bottom of this list. U2=Unova Route 2. K2=Kalos Route 2. A2=Alola Route 2. G2=Galar Route 2.
+
+* means the Pokemon that appears there can only be found once.
+^ means the Pokemon cannot be found there upon the first visit.
+' means the Pokemon will disappear by the time the story is completed.
++ means the Pokemon is found in an Egg.
+
+
+It is possible that some things were missed while creating this list. Please email the creator if anything is missing.
+
+POKEMON OBTAINABLE
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+001 Bulbasaur-Hidden Village*
+004 Charmander-Route 24*
+007 Squirtle-Route 25*
+010 Caterpie-Route 24|30|43|K20|Viridian Forest|Hidden Village|National Park|Eterna Forest
+011 Metapod-Route 24|30|Hidden Village|National Park
+012 Butterfree-Route 19|26|29|42|215|K20|A2|A5|S.S. Anne*'|Valencia Island| Ascorbia Island|Melemele Meadow|Wild Area|Manalo Stadium'
+013 Weedle-Rotue 24|30|43|K20|Viridian Forest|National Park
+014 Kakuna-Route 24|30|Viridian Forest|National Park|Eterna Forest
+015 Beedrill-Route 120|121|210|U14|Viridian Forest|Ascrobia Island|Ilex Forest|National Park|Battle Factory|Metallica Island|Wild Area*^
+016 Pidgey-Route 1|3|5|7|8|24|25|30|35|36|37|203|U4|Viridian Forest|National Park|Ilex Forest
+017 Pidgeotto-Route 22|37|111|K11|Viridian Forest|Hidden Power
+018 Pidgeot-Route 203|209|215|Battle Pyramid
+019 Rattata-Route 1|16|17|43|U16|Hidden Village|Pokemon Mansion|Burned Tower|Dragon's Den
+019A Alolan Rattata-Route A2|A3|Verdant Cavern
+020 Raticate-Route 10|16|17|209|S.S. Anne*'|Pokemon Mansion|Valencia Island
+020A Alolan Raticate-Route A3|Verdant Cavern|Ten Carat Hill|Mount Lanakila Cave
+021 Spearow-Route 1|3|10|11|16|17|19|24|26|203|215|A1|Viridian Forest
+022 Fearow-Route 17|34|K17|A7|A8|Viridian Forest|Frost Cavern
+023 Ekans-Route 3|8|10|11|37|Navel Rock|Petalburg Woods
+024 Arbok-Pummelo Island
+025 Pikachu-Pallet Town*
+026 Raichu-Route 222
+027 Sandshrew-Route 1|8|10|11|34|42|113|205|Mt Moon
+027A Alolan Sandshrew-Mount Lanakila|Mount Lanakila Cave
+028 Sandslash-Route 22|Pummelo Island
+028A Alolan Sandslash-Mount Lanakila Cave
+029 Nidoran♀-Route 3|29|35|36|37|Valencia Island|Izabe Forest
+030 Nidorina-Safari Zone|Pummelo Island
+031 Nidoqueen-Pokemon Swap Meet*
+032 Nidoran♂-Route 3|29|35|36|37|Valencia Island|Izabe Forest
+033 Nidorino-Safari Zone|Pummelo Island
+034 Nidoking-Metallica Island
+035 Clefairy-Route 44|Mt Moon|Battle Factory|Mt. Coronet
+036 Clefable-Mt Moon
+037 Vulpix-Route 7|8|12+|36|37|Pokemon Mansion
+037A Alolan Vulpix-Mount Lanakila|Safari Zone|Manalo Stadium'
+038 Ninetales-Route 26|Battle Pyramid
+039 Jigglypuff-Route 3|22|Battle Factory|Aether Paradise
+040 Wigglytuff-Pummelo Island
+041 Zubat-Route 216|217|222|Mt Moon|Navel Rock|Burned Tower|Ice Cave|Oreburgh Gate|Oreburgh Mine|Ragged Path|Hau'oli Outskirts|Mt. Coronet|Seafoam Islands
+042 Golbat-Route K12|Navel Rock|Vast Poni Canyon|Seafoam Islands
+043 Oddish-Route 5|7|19|24|25|32|33|34|43|44|110|111|118|119|K4|Hidden Village|Dragon's Den|Ever Grande Conference'
+044 Gloom-Route 32|34|44|Eterna Forest|Lily of the Valley Island'
+045 Vileplume-Route 13|32|44|118|119|203|Valencia Island|Lily of the Valley Island'
+046 Paras-Route 34|204|A2|Mt Moon|Hidden Village|Safari Zone|Valencia Island|Ascorbia Island|National Park|Lush Jungle
+047 Parasect-Route 44|Safari Zone|Ascrobia Island|Lush Jungle
+048 Venonat-Route 19|24|229|Safari Zone
+049 Venomoth-Route 26|National Park
+050 Diglett-Route 32|33|222|K19|K21|Navel Rock
+050A Alolan Diglett-Route A3|A7|A8|Lush Jungle|Hania Desert
+051 Dugtrio-Route 14|15|119|Navel Rock
+051A Alolan Dugtrio-Hania Desert|Mount Hokulani
+052 Meowth-Route 5|7|8|25
+052A Alolan Meowth-Route A3
+052G Galarian Meowth-Route G7|Wild Area|Game Corner
+053 Persian-Route 22|26
+054 Psyduck-Route 203|210|212|K7|K10|Safari Zone|Ascorbia Island|Izabe Island|Twinleaf Town|Oreburgh Gate|Canalave City|Laverre City|Hau'oli Outskirts
+055 Golduck-Route 203|204|Twinleaf Town|Poni Wilds
+056 Mankey-Route 1|3|7|42|Battle Pyramid
+057 Primeape-Route 7|32|42
+058 Growlithe-Route 7|8|26|36|37|205|211|Pokemon Mansion|Battle Factory
+058H Hisuian Growlithe-Mt. Coronet - Past
+059 Arcanine-Pmmelo Island|Battle Factory
+060 Poliwag-Route 1|4|17|37|K15|Pallet Town|Cerulean City|Fuchsia City|Ecruteak City|Cianwood City|Blackthorn City|Hau'oli City
+061 Poliwhirl-Route 10|22|120|222|K15|Valencia Island|Laverre City
+062 Poliwrath-Route 118|119|210|218|Celestic Town|Canalave City
+063 Abra-Route 19|24|35|210|Navel Rock|Granite Cave
+064 Kadabra-Pummelo Island|Oreburgh City*
+066 Machop-Route 13|Navel Rock|Silver Conference'|Ten Carat Hill|Vast Poni Canyon|Mt. Coronet
+067 Machoke-Route 22|32|210|Silver Conference'|Vast Poni Canyon
+068 Machamp-Route K11
+069 Bellsprout-Route 7|24|25|205|Dragon's Den
+070 Weepinbell-Route 111|118|Hidden Village|Valencia Island
+072 Tentacool-Route 109|110|213|A12|Tangelo Island|Ogi Isle|Dewford Town|Mossdeep City|Sootopolis City|Pacifidlog Town
+073 Tentacruel-Route 12|Safari Zone|Izabe Island|Sootopolis City|Pacifidlog Town|Poni Breaker Coast
+074 Geodude-Route 10|113|Mt Moon|Granite Cave|Battle Factory|Oreburgh Gate|Oreburgh Mine|Seafoam Islands
+074 A Alolan Geodude-Route A7|A8|Paniola Ranch
+075 Graveler-Route 206|207|Navel Rock|Battle Factory|Seafoam Islands
+075A Alolan Graveler-Safari Zone|Manalo Stadium'
+076 Golem-Route 206|207|Lily of the Valley Island'
+077 Ponyta-Route 210|Cinnabar Island*|Pokemon Mansion|Silver Conference'|Metallica Island|Wela Volcano Peak
+077G Galarian Ponyta-Glimwood Tangle
+078 Rapidash-Metallica Island
+077G Galarian Rapidash-Glimwood Tangle
+079 Slowpoke-Route 34|A1|Fuchsia City|Tangelo Island|Slowpoke Well|Hau'oli City|Hau'oli Outskirts|Seafoam Islands
+079G Galarian Slowpoke-Wild Area
+081 Magnemite-Route 10|211|U16|K12|Gringey City Power Plant|Valley of Steel|Kanto Power Plant'
+082 Magneton-Gringey City Power Plant|Pummelo Island|Valley Steel|Kanto Power Plant'
+083 Farfetchd-Route 13|Ilex Forest|Vermilion City*|Santalune City*
+083G Galarian Farfetchd-Route G7|Wyndon*^
+084 Doduo-Route 16|17
+085 Dodrio-Route K18
+086 Seel-Route U20|K15|Navel Island|Red Rock Isle|Seafoam Islands
+087 Dewgong-Seafoam Islands
+088 Grimer-Gringey City Power Plant|Pokemon Mansion|Fiery Path
+088A Alolan Grimer-Safari Zone|Game Corner
+089 Muk-Route 37|210|Gringey City Power Plant|Pokemon Mansion
+090 Shellder-Route K8|Ascorbia Island|Kumquat Island|Seafoam Islands|Cianwood City|Cyllage City
+091 Cloyster-Route 216|217|Valencia Island|Seafoam Islands
+092 Gastly-Pokemon Tower|Burned Tower
+093 Haunter-Route 29|Pokemon Tower|Cinnabar Island*|Burned Tower
+094 Gengar-Route 29|210|A14|Pokemon Tower|Vermilion City*^
+095 Onix-Route 22|206|207|222|U16|K7|Violet City*|Ilex Forest|Silver Conference'|Battle Factory|Oreburgh Mine|Lily of the Valley Island'
+096 Drowzee-Route 11|35
+098 Krabby-Route 10|25|34|222|Ascorbia Island|Olivine City|Red Rock Isle|Sunnyshore City|Undella Town|Manalo Stadium'
+099 Kingler-Route 210
+100 Voltorb-Route 34|118|Navel Rock|Olivine City*|Silver Conference'|Lily of the Valley Island'|Kanto Power Plant'
+100H Hisuian Voltorb-Mt. Coronet - Past
+101 Electrode-Cinnabar Island*
+102 Exeggcute-Route 19|34|42|Cinnabar Island|Safari Zone
+102A Alolan Exeggcute-Aether Paradise
+103 Exeggutor-Route 13|14|15|19|39|Pummelo Island
+103A Alolan Exeggutor-Route A1|A5|Melemele Forest
+104 Cubone-Route K5|Navel Rock
+104A Alolan Cubone-Hau'oli Outskirts|Wela Volcano Peak
+105A Alolan Marowak-Wela Volcano Peak
+106 Hitmonlee-Route 32
+107 Hitmonchan-Route 32
+108 Lickitung-Route 18*|19|Pokemon Swap Meet*
+109 Koffing-Pokemon Mansion|Navel Rock|Burned Tower|Petalburg Woods|Fiery Path
+110 Weezing-Pokemon Mansion
+110G Galarian Weezing-Wild Area
+111 Rhyhorn-Route K4|Safari Zone|Pokemon Swap Meet*|Metallica Island
+112 Rhydon-Route 39|209|Pokemon Swap Meet|Izabe Desert
+113 Chansey-Route 214|Safari Zone|Valor Lakefront
+114 Tangela-Pallet Town|Cerulean City*|Safari Zone|Silver Conference'
+115 Kangaskhan-Route 14|15|42
+116 Horsea-Route 10|Pallet Town|Safari Zone|Cinnabar Island|Mikan Island|Pummelo Island|Blue Rock Isle|Blackthorn City
+117 Seadra-Safari Zone|Dragon's Den
+118 Goldeen-Route 12|13|32|111|205|209|229|Pallet Town|Cinnabar Island|Seven Grapefruit Islands|Ascorbia Island|Kumquat Island|Element Islands|Blue Rock Isle|Petalburg City|Twinleaf Town|Celestic Town|Aether Paradise|Resort Area
+119 Seaking-Route 37|39|203|204|Celestic Town|Canalave City
+120 Staryu-Route 34|210|218|Pallet Town|Hidden Village|Mikan Island|Seven Grapefruit Island|Ascorbia Island|Pummelo Island|Element Islands|Celestic Town|Canalave City|Undella Town
+121 Starmie-Route K8|Cyllage City
+122 Mr. Mime-Pallet Town*^
+122G Galarian Mr. Mime-Route G9|Crown Tundra
+123 Scyther-Route 14|15|22|K22|National Park|Mt. Coronet - Past|Safari Zone
+124 Jynx-Route 26|Ice Cave|Seafoam Islands|Ever Grande Conference'
+125 Electabuzz-Navel Rock|Snowpoint City*|Kanto Power Plant'
+126 Magmar-Route 209|Pokemon Mansion B1F|Burned Tower|Ten Carat Hill|Crown Tundra|Snowpoint City*
+127 Pinsir-Route 29|K14|National Park|Safari Zone|Petalburg Woods|Ten Carat Hill|Poni Wilds|Ancient Poni Path
+128 Tauros-Route 42|210|A2|Safari Zone|Izabe Forest|Paniola Town
+129 Magikarp-Route 1|4|12|17|32|110|111|203|204|209|213|Pallet Town|Cerulean City|Hidden Village|Vermillion City|S.S. Anne|Navel Island|Violet City|Lake of Rage|Blackthorn City|Petalburg City|Twinleaf Town|Celestic Town|Brooklet Hill|Resort Area
+130 Gyarados-Route 12|26|37|119|209|212|213|218|A7|A8|Lake of Rage*|Battle Pyramid|Paniola Town|Paniola Ranch
+131 Lapras-Route K12|Tangelo Island*|Coumarine City
+132 Ditto-Route 35|Pokemon Mansion B1F|Aether Paradise|Mount Hokulani
+133 Eevee-Route 12+|A11|A12|Celadon City*|Ilex Forest|Trophy Garden|Vetress City'|Frost Cavern (1F|2F|3F)
+134 Vaporeon-Route K18|K21|Couriway Town
+135 Jolteon-Route K18
+136 Flareon-Route K18
+137 Porygon-Pokemon Swap Meet*|Trophy Garden
+138 Omanyte-Navel Rock*|Aether Paradise
+140 Kabuto-Navel Rock*|Aether Paradise
+142 Aerodactyl-Route 36*|Aether Paradise
+143 Snorlax-Route K20|Seven Grapefruit Island*|Wild Area
+144 Articuno-Element Island*^
+144G Galarian Articuno-Wild Area*^
+145 Zapdos-Element Island*^
+145G Galarian Zapdos-Wild Area*^
+146 Moltres-Element Island*^
+146G Galarian Moltres-Wild Area*^
+147 Dratini-Safari Zone|Dragon's Den|Dragonite Island
+148 Dragonair-Route 13|K22|Dragonite Island|Safari Zone|Pummelo Island|Blackthorn City*|Dragon's Den
+149 Dragonite-Dragonite Island|Undella Town|Route 25
+150 Mewtwo-Viridian Gym*
+151 Mew-Pallet Town*^
+152 Chikorita-Route 29*
+155 Cyndaquil-Route 33*|Canalave City*^'
+158 Totodile-Ilex Forest*
+161 Sentret-Route 21|32|33|34|K19|Dragon's Den|Petalburg Woods
+162 Furret-Route 206|207|K7|Safari Zone
+163 Hoothoot-Route 29|30|32|33|35|36|37|203|Ilex Forest|Ever Grande Conference'|Battle Pyramid
+164 Noctowl-Route 37|Ilex Forest
+165 Ledyba-Route 30|37|Eterna Forest|Melemele Meadow
+166 Ledian-Route 39
+167 Spinarak-Route 29|30|37|38|43|44|104|National Park|Hau'oli Outskirts|Poni Wilds|Ancient Poni Path
+168 Ariados-Route K14
+169 Crobat-Route 26|207|Ever Grande Conference'
+170 Chinchou-Route 44|A2|Safari Zone
+171 Lanturn-Route K18|K21|Safari Zone|Sunnyshore City|Couriway Town
+172 Pichu-Route 12+|Trophy Garden
+172A Alolan Pichu-Route A2
+173 Cleffa-Route 12+|44|Battle Factory|Game Corner|Trophy Garden
+174 Igglybuff-Route 12+|119|Pokemon Swap Meet*|Game Corner|Trophy Garden
+175 Togepi-Mirage Kingdom*
+176 Togetic-Izabe Island*
+177 Natu-Route 39|42|203
+178 Xatu-Route 42
+179 Mareep-Route 32|33|Safari Zone|Vetress City'
+180 Flaaffy-Route 120|121|K12
+182 Bellossom-Route 13|44|104|205|211|K10|Pokemon Swap Meet*
+183 Marill-Route 26|39|101|104|212|K6|K10|K12|13|K18|K21|Violet City|Olivine City|Canalave City|Coumarine City|Laverre City|Couriway Town
+184 Azumarill-Route 13|39|101
+185 Sudowoodo-Route 36*^|K11|A1|Ever Grande Conference'|Reflection Cave
+186 Politoed-Sunnyshore City
+187 Hoppip-Route 39|K6|Fortree City
+188 Skiploom-Route 42|205|211
+189 Jumpluff-Safari Zone
+190 Aipom-Route 39|42|43|44|104|Pokemon Swap Meet*|Ice Cave|Indigo Plateau*^
+191 Sunkern-Route 38|National Park|Eterna Forest
+192 Sunflora-Route 38|U20|Dragon's Den
+193 Yanma-Route 35|213
+194 Wooper-Route 42|205|210|K14|Cherrygrove City|Safari Zone
+195 Quagsire-Route 13|205|Safari Zone
+198 Murkrow-Route 38|222|A2|Safari Zone|Silver Conference'|Melemele Meadow
+200 Misdreavus-Route 202|Safari Zone|Silver Conference'|Ever Grande Conference'
+201 Unown-Route 214|Ruins of Alph|Solaceon Ruins|Valor Lakefront
+202 Wobbuffet-Route 38|Safari Zone|Game Corner
+203 Girafarig-Route 34|Izabe Cave|Metallica Island
+204 Pineco-Route 33|National Park|Lily of the Valley Island'
+206 Dunsparce-Route 38
+207 Gligar-Route 215|Game Corner
+208 Steelix-Valley of Steel|Ravaged Path
+209 Snubbull-Ilex Forest
+210 Granbull-Poni Wilds|Ancient Poni Path
+211 Qwilfish-Route 44|Aether Paradise
+213 Shuckle-Route 216|217|K19|K21|Safari Zone
+214 Heracross-Route 29|Izabe Forest|Silver Conference'
+215 Sneasel-Ice Cave|Mount Lanakila
+215H Hisuian Sneasel-Mt. Coronet - Past
+216 Teddiursa-Route 38|42|43|112|222|Mt. Coronet - Past
+217 Ursaring-Route K11|K22|38|44|210|Ilex Forest|Silver Conference'|Oreburgh Gate|Reflection Cave
+218 Slugma-Fiery Path
+219 Magcargo-Route 44|Wela Volcano Park
+220 Swinub-Route 205|210|211|Ice Cave|Trophy Garden
+221 Piloswine-Ice Cave|Crown Tundra
+222 Corsola-Route K8|K10|A1|A2|Yellow Rock Isle|Cyllage City|Hau'oli City|Hau'oli Outskirts
+222G Galarian Corsola-Wild Area
+223 Remoraid-Route 38|39|118|119|120|202|213|Battle Pyramid|Lake Verity
+224 Octillery-Route 212|213|222|A12|Sunnyshore City
+225 Delibird-Ice Cave
+226 Mantine-Route 121|202|K7|K8|K10|Safari Zone|Battle Pyramid|Lake Verity|Lily of the Valley Island'|Cyllage City
+227 Skarmory-Route 113|211|Valley of Steel|Mount Hokulani
+228 Houndour-Ilex Forest|Safari Zone
+231 Phanpy-Route 42+|Izabe Desert
+232 Donphan-Silver Conference'|Izabe Desert|Ever Grande Conference'
+234 Stantler-Route 29|36|37|104
+235 Smeargle-Route K6|K10|39|212
+236 Tyrogue-Route 42
+237 Hitmontop-Ravaged Path
+238 Smoochum-Route 12+|Safari Zone|Metallica Island
+239 Elekid-Route 12+|14|15|Safari Zone
+240 Magby-Route 12+|Safari Zone|Wela Volcano Park
+241 Miltank-Route 39|210|A2|Battle Pyramid|Paniola Ranch
+242 Blissey-Route A14
+243 Raikou-Burned Tower*^
+244 Entei-Burned Tower*^
+245 Suicune-Burned Tower*^
+246 Larvitar-Route 45+^|Safari Zone|Game Corner|Dragon's Den|Silver Conference'
+248 Tyranitar-Mount Lanakila Cave
+249 Lugia-Ogi Isle*^
+250 Ho-Oh-Route 1
+251 Celebi-Route 14*
+252 Treecko-Petalburg Woods*
+255 Torchic-Littleroot Town*
+258 Mudkip-Route 206*
+261 Poochyena-Route 101|102|104|110|Izabe Forest
+263 Zigzagoon-Route 102|110|120|121|201|202|K18|K20|Izabe Cave|Lake Verity
+263G Galarian Zigzagoon-Route G7|G9|Wild Area
+264 Linoone-Route 14|15|Ever Grande Conference'
+265 Wurmple-Route 102|Petalburg Woods
+266 Beautifly-Route 215
+268 Dustox-Route 214|Valor Lakefront
+269 Lotad-Route 26|102|104|K12|K14|Coumarine City
+270 Lombre-Route 26|229|K12|K15|K22|Safari Zone|Coumarine City
+273 Seedot-Route 14|15|102|203|Battle Pyramid|Wild Area
+274 Nuzleaf-Route 14|15|118|203|Safari Zone|Battle Pyramid
+275 Shiftry-Route 203|210
+276 Taillow-Route 104|203|Petalburg Woods
+277 Swellow-Route 203
+278 Wingull-Route 101|104|109|110|213|Littleroot Town|Dewford Town|Mossdeep City|Ever Grande Conference'|Metallica Island|Seafolk Village|Poni Wilds|Poni Breaker Coast
+279 Pelipper-Metallica Island|Hau'oli City|Hau'oli Outskirts|Paniola Town|Paniola Ranch|Manalo Stadium'
+280 Ralts-Route 102|212|K10|Game Corner|Izabe Forest
+281 Kirla-Route K10|Izabe Forest
+282 Gardevoir-Route 120|121|Izabe Forest|Safari Zone
+283 Surskit-Route 13|102|111|210|229|Izabe Island|Sootopolis City|Pacifidlog Town|Safari Zone|Metallica Island
+284 Masquerain-Route 120
+285 Shroomish-Petalburg Woods
+286 Breloom-Route 118|119
+287 Slakoth-Route 120|121
+288 Vigoroth-Safari Zone|Battle Pyramid
+289 Slaking-Battle Pyramid
+290 Nincada-Route 214|Lake Valor
+293 Whismur-Route K6
+294 Loudred-Route 26|Granite Cave
+296 Makuhita-Route 12+|Rustboro City*|Granite Cave
+297 Hariyama- Route A11|A12
+298 Azurill-Route 26|101|K18|K21|Izabe Cave|Battle Pyramid|Trophy Garden|Couriway Town
+299 Nosepass-Route 209|211|Mt. Coronet|Safari Zone
+300 Skitty-Route 111|K6|Fortree City*
+302 Sableye-Granite Cave|Ten Carat Hill
+303 Mawile-Route 26|Granite Cave|Game Corner|Izabe Cave|Safari Zone
+304 Aron-Granite Cave|Metallica Island
+305 Lairon-Route K19|K21
+307 Meditite-Metallica Island
+308 Medicham-Route K10
+309 Electrike-Route 110|206|207|K13
+310 Manectric-Route 26
+311 Plusle-Route 110|K13
+312 Minun-Route 110|K13
+313 Volbeat-Route 14|15|111|120|121|229|K4
+314 Illumise-Route 14|15|111|229|K4
+315 Roselia-Route 212|229
+316 Gulpin-Route 110|112|K7|K10|K14|
+318 Carvanha-Route 106|118
+319 Sharpedo-Route 222|K8|K10|Mossdeep City|Sootopolis City|Pacifidlog Town|Cyllage City|Hau'oli City|Hau'oli Outskirts|Poni Breaker Coast
+320 Wailmer-Route 12|110|121|210|Mossdeep City|Sootoplolis City|Pacifidlog Town|Seafolk Village
+321 Wailord-Undella Town
+322 Numel-Fiery Path
+323 Camerupt-Izabe Desert
+324 Torkoal-Route G6|Fiery Path|Valley of Steel
+325 Spoink-Route 118|K13
+326 Grumpig-Route K13
+327 Spinda-Route 26|112|113|K22|Ten Carat Hill
+328 Trapinch-Route 113|222|A14|Mauville City^'|Izabe Desert
+329 Vibrava-Mauville City^'|Izabe Desert|Ever Grande Conference'|Safari Zone
+330 Flygon-Wild Area|Mauville City*^
+331 Cacnea-Route 113|Petalburg Woods
+333 Swablu-Route 112|120|121|203|K22|Safari Zone
+334 Altaria-Route K22|Battle Pyramid
+335 Zangoose-Route 209
+336 Seviper-Route K14|Petalburg Woods
+337 Lunatone-Route 112|Lily of the Valley Island'
+338 Solrock-Route 112|Lily of the Valley Island'
+339 Barboach-Route 13|111|Safari Zone
+340 Whiscash-Route 118|119|205
+341 Corphish-Route 106|222|U12|Sunnyshore City
+343 Baltoy-Izabe Desert
+344 Claydol-Izabe Desert|Lily of the Valley Island'
+345 Lileep-Izabe Desert*|Aether Paradise
+347 Anorith-Izabe Desert*|Aether Paradise
+349 Feebas-Route 118|119|120|204|Lavaridge Town*|Lake Valor|Brooklet Hill
+350 Milotic-Lake Valor
+351 Castform-Route 119*|Game Corner|Lush Jungle
+352 Kecleon-Route 39|K7|K8
+353 Shuppet-Route 119
+355 Duskull-Route 101
+356 Dusclops-Safari Zone
+357 Tropius-Safari Zone|Metallica Island
+358 Chimecho-Route 120|121
+359 Absol-Izabe Cave
+360 Wynaut-Lavaridge Town+|Ever Grande Conference'
+361 Snorunt-Route 26|216|217|Izabe Cave|Mount Lanakila
+362 Glalie-Crown Tundra
+363 Spheal-Route 218|Safari Zone
+364 Sealeo-Safari Zone
+366 Clamperl-Route 121|Safari Zone
+367 Huntail-Route 121|K18
+369 Relicanth-Route 101|Seafolk Village|Poni Wilds|Poni Breaker Coast
+370 Luvdisc-Route 121
+371 Bagon-Route 209|Game Corner|Safari Zone
+372 Shelgon-Ever Grande Conference'
+373 Salamence-Route K12|Battle Pyramid
+374 Beldum-Mossdeep City*|Game Corner|Safari Zone
+375 Metang-Route 209
+376 Metagross-Route 222
+377 Regirock-Battle Pyramid*^
+378 Regice-Battle Pyramid*^
+379 Registeel-Battle Pyramid*^
+380 Latias-Route 121*^
+381 Latios-Route 121*^
+382 Kyogre-Route 124*
+383 Groudon-Route 124*
+384 Rayquaza-Route 222*
+385 Jirachi-Fallarbor Town*^
+386 Deoxys-Route 26*^
+387 Turtwig-Route 202*
+390 Chimchar-Hearthome City*^'
+393 Piplup-Sandgem Town*
+396 Starly-Route 201|202|Lake Verity|Safari Zone
+397 Staravia-Route 201|202|212|K19|K21|Lake Verity|Safari Zone
+399 Bidoof-Route 201|202|204|205|209|211|K12|K20|Lake Verity|Ravaged Path|Safari Zone|Coumarine City
+400 Bibarel-Route 202|209|K7|K10|Lake Verity|Safari Zone
+401 Kricketot-Route 204
+402 Kricketune-Route 212
+403 Shinx-Route 204|205|211|214|U20|Valor Lakefront
+404 Luxio-Route K12|Safari Zone
+405 Luxray-Route 210
+406 Budew-Route 201|202|204|205|211|214|K20|Lake Verity|Valor Lakefront|Safari Zone
+408 Cranidos-Oreburgh Mine*|Aether Paradise
+410 Shieldon-Canalave City*|Aether Paradise
+412 Burmy-Eterna Forest
+415 Combee-Route 205|211|Eterna Forest
+416 Vespiquen-Eterna Forest
+417 Pachirisu-Route 204|K11
+418 Buizel-Route 209*'|212|214|U12|Lake Valor
+419 Floatzel-Route 214|K15|K22|Lake Valor
+420 Cherubi-Route 214|215|Valor Lakefront
+422 Shellos-Route 210|212|213|Aether Paradise
+423 Gastrodon-Route 212|Safari Zone
+425 Drifloon-Route 210
+427 Buneary-Route 201|202|Lake Verity
+429 Mismagius-Route 206|207
+431 Glameow-Route 215
+432 Purugly-Route 229
+433 Chingling-Mt. Coronet|Game Corner
+434 Stunky-Route 214|216|217|Valor Lakefront
+436 Bronzor-Route 216|217|Mt. Coronet
+438 Bonsly-Route K11|A1|Trophy Garden|Reflection Cave
+439 Mime Jr.-Route G9|Trophy Garden
+440 Happiny-Route 206|207|Malie City*
+441 Chatot-Route 201|202|213|Eterna City*|Lake Verity
+442 Spiritomb-Route 209
+443 Gible-Route 222|Game Corner|Safari Zone
+446 Munchlax-Route 214|Valor Lakefront|Undella Town*
+447 Riolu-Route K5|Iron Island+|Vermilion City*^+
+448 Hippopotas-Route 206|207|215|Wild Area
+449 Hippowdon-Route 215
+451 Skorupi-Route 216|217|K15|Safari Zone
+452 Drapion-Route 210|213|Safari Zone
+453 Croagunk-Route 212|213|Safari Zone
+454 Toxicroak-Route K19|K21|Safari Zone
+455 Carnivine-Safari Zone|Game Corner
+456 Finneon-Route 218|K8||A11|A12|Cyllage City|Safari Zone
+457 Lumineon-Safari Zone
+458 Mantyke-Route 202|216|217|Lake Verity|Safari Zone
+459 Snover-Route 216|217|K17|Game Corner|Frost Cavern
+460 Abomasnow-Route K17|Frost Cavern
+461 Weavile-Crown Tundra
+462 Magnezone-Route 222|K13
+466 Electivire-Solaceon Town*
+467 Magmortar-Solaceon Town*
+469 Yanmega-Route K14
+470 Leafeon-Route 212*
+471 Glaceon-Route 210
+472 Gliscor-Route 215
+473 Mamoswine-Route K17|Frost Cavern|Crown Tundra
+474 Porygon-Z-Solaceon Town*
+478 Froslass-Route 216|217|A11|A12
+479 Rotom-Game Corner|Old Chateau*
+480 Uxie-Lake Acuity Cave*^
+481 Mesprit-Lake Verity Cave*^
+482 Azelf-Lake Valor Cave*^
+483 Dialga-Spear Pillar*
+484 Palkia-Spear Pillar*
+485 Heatran-Route 222*^
+486 Regigigas-Snowpoint City*^
+487 Giratina-Mt. Coronet*
+488 Cresselia-Canalave City*
+489 Phione-Route 217*
+490 Manaphy-Lake Verity*^
+491 Darkrai-Canalave City*
+492 Shaymin-Route 222*^
+493 Arceus-Lake Valor*^
+494 Victini-Route U4*^
+495 Snivy-Route U3*
+498 Tepig-Accumula Town*
+501 Oshawott-Route U1*|Canalave City*^'
+504 Patrat-Route U1|U2|Pinwheel Forest|Milos Island
+505 Watchog-Route U7|K15
+506 Lillipup-Route U5A7|Paniola Ranch
+506H Hisuian Lilligant-Mt. Coronet - Past
+507 Herdier-Route A7|A8|Paniola Ranch
+508 Stoutland-Route A2|Vetress City'
+509 Purrloin-Route U7|Mistralton Tower
+510 Liepard-Route K15
+511 Pansage-Route U5|Safari Zone
+513 Pansear-Route U5|Safari Zone
+514 Simisear-Route U4
+515 Panpour-Route U5|U6|K18|Safari Zone
+516 Simipour-Route K10|K12|Coumarine City
+517 Munna-Dreamyard|Slumbering Weald
+518 Musharna-Dreamyard
+519 Pidove-Route U1|U2|U16|Pinwheel Forest|Milos Island
+520 Tranquill-Route U6
+522 Blitzle-Route U4|U16|Milos Island|Vetress City'
+523 Zebstrika-Route U8|U9|Vetress City'
+524 Roggenrola-Route U4|U7|Wellspring Cave|Hau'oli Outskirts
+525 Boldore-Route U7*|Twist Mountain|Mount Lanalika Cave|Wild Area
+526 Gigalith-Route U5|Twist Mountain
+527 Woobat-Route U1|U2|U4|Wellspring Cave|Pinwheel Forest|Twist Mountain|Desert Resort|Vetress City'
+528 Swoobat-Route U4|Twist Mountain|Vetress City'
+529 Drilbur-Twist Mountain
+530 Excadrill-Twist Mountain
+531 Audino-Route U4|U19|K10|Safari Zone
+532 Timburr-Route U7
+533 Gurdurr-Route U7|Virbank City*|Twist Mountain
+534 Conkeldurr-Route U7|Twist Mountain
+535 Tympole-Route U4|U6|Pinwheel Forest|Wild Area
+536 Palpitoad-Route U4|U6
+538 Throh-Route U7
+539 Sawk-Route U7
+540 Sewaddle-Route U7|Pinwheel Forest
+541 Swadloon-Route U19|Pinwheel Forest
+543 Venipede-Route K4|Pinwheel Forest|Castelia City'
+544 Whirlipede-Pinwheel Forest
+545 Scolipede-Route U3|U4|U19
+546 Cottonee-Route U8|U9|Pinwheel Forest|Milos Island
+547 Whimsicott-Route U8|U9
+548 Petilil-Nacrene City*|Pinwheel Forest
+549 Lilligant-Route K10
+550 Basculin-Route U3|K15|Striaton City|Wellspring Cave|Milos Island|Laverre City|Safari Zone
+550H Basculin-Mt. Coronet - Past
+551 Sandile-Route U1|U2|Haina Desert|Desert Resort
+552 Krokorok-Route U6*^|U8|U9
+554 Darumaka-Route U3|U4
+554G Galarian Darumaka-Route G9|Crown Tundra
+555 Darmanitan-Route U3|U4|Milos Island
+556 Maractus-Route U19|U20|Wild Area
+557 Dwebble-Route U3|Safari Zone
+558 Crustle-Frost Cavern
+559 Scraggy-Route U3+|U7
+560 Scrafty-Route U4
+561 Sigilyph-Route U6|Chargestone Cave
+562 Yamask-Route U3|Desert Resort
+562G Galarian Yamask-Route G6|Wild Area
+563 Cofagrigus-Chargestone Cave|Desert Resort
+564 Tirtouga-Nacrene Museum*|Aether Paradise
+566 Archen-Nacrene Museum*|Aether Paradise
+568 Trubbish-Route U3|Vetress City'
+569 Garbodor-Route U5|A7|A8|Vetress City'
+570 Zorua-Vermilion City*^|Driftveil City*|Game Corner
+570H Hisuian Zorua-Mt. Coronet - Past
+572 Minccino-Route U3|U20
+574 Gothita-Route U5|U6|U9|U16
+575 Gothorita-Safari Zone
+576 Gothitelle-Pinwheel Forest
+577 Solosis-Mistralton Tower
+580 Ducklett-Route U19|U20|K7|K10|Pinwheel Forest|Driftveil Drawbridge|Laverre City
+581 Swanna-Route U3|U8|U19|U20|K10|K21|Striaton City|Wellspring Cave|Milos Island|Virbank City|Dedemille Town|Couriway Town|Aether Paradise
+582 Vanillite-Route K12
+585 Deerling-Route U1|U2|U6|Milos Island|Safari Zone
+586 Sawsbuck-Route U5|Milos Island
+587 Emolga-Route U4|Hau'oli Outskirts
+588 Karrablast-Route U6|U12
+589 Escavalier-Route U6
+590 Foongus-Route U4|U6|U16|K15
+591 Amoonguss-Route U12|U20|Reflection Cave
+592 Frillish-Route U4|U8|K21|Wild Area|Virbank City|Dedemille Town|Couriway Town
+593 Jellicent-Route K21|Virbank City|Dedemille Town|Couriway Town|Safari Zone
+594 Alomomola-Route U3|U19|U20|K21|A7|A8|Striaton City|Wellspring Cave|Pinwheel Forest|Milos Island|Virbank City|Dedemille Town|Couriway Town|Safari Zone|Paniola Town|Paniola Ranch|Brooklet Hill
+595 Joltik-Route U4|U6|Chargestone Cave|Wild Area
+596 Galvantula-Route U19|Pinwheel Forest|Chargestone Cave
+597 Ferroseed-Route U8|U9
+598 Ferrothorn-Safari Zone
+599 Klink-Chargestone Cave
+600 Klang-Chargestone Cave
+601 Klinklang-Chargestone Cave
+602 Tynamo-Route U8|U9|Game Corner
+605 Elgyem-Route U4|Mistralton Tower|Game Corner
+607 Litwick-Route U4|U7|Mistralton Tower
+608 Lampent-Route U4|U7
+609 Chandelure-Route U7
+610 Axew-Route U5|U12|Safari Zone
+611 Fraxure-Route U12
+613 Cubchoo-Route U4|Twist Mountain|Safari Zone
+614 Beartic-Route U4|U19|U20|K18|Twist Mountain|Undella Town|Safari Zone
+615 Cryogonal-Route U12|Vetress City'|Crown Tundra|Safari Zone
+616 Shelmet-Route U6
+617 Accelgor-Route U6
+618 Stunfisk-Route U4|U8|K13|Cyllage City|Safari Zone
+618G Galarian Stunfisk-Wild Area|Vermilion City*^
+619 Mienfoo-Route U7|Vast Poni Canyon
+621 Druddigon-Chargestone Cave
+622 Golett-Mistralton Cave
+623 Golurk-Desert Resort
+624 Pawniard-Route U20|K15
+626 Bouffalant-Route U5|U6|Vetress City'
+627 Rufflet-Route U12|Hau'oli Outskirts
+628 Braviary-Route U19|Wild Area
+628H Hisuian Braviary-Mt. Coronet - Past
+629 Vullaby-Route U19
+630 Madibuzz-Route U4
+631 Heatmor-Twist Mountain|Safari Zone
+632 Durant-Route U7|Safari Zone
+633 Deino-Route U5|Safari Zone|Game Corner
+634 Zweilous-Route U12
+635 Hydreigon-Route U16
+636 Larvesta-Route U4|Safari Zone|Game Corner
+637 Volcarona-Route U7|Twist Mountain|Coalossus Ruins*^
+638 Cobalion-Mistralton Cave*^
+639 Terrakion-Twist Mountain*^
+640 Virizion-Pinwheel Forest*^
+641 Tornadus-Milos Island*
+642 Thundurus-Milos Island*
+643 Reshiram-White Ruins*
+644 Zekrom-Nuvema Town*
+645 Landorus-Milos Island*
+646 Kyurem-Icirrus Cave*
+647 Keldeo-Pledge Grove*
+648 Meloetta-Undella Town*^
+649 Genesect-Route U19*
+650 Chespin-Lumiose City*^
+653 Fennekin-Lumiose City*
+656 Froakie-Lumiose City*
+659 Bunnelby-Route K4|Slumbering Weald
+660 Diggersby-Route K13
+661 Fletchling-Route K4|K6|K20
+664 Scatterbug-Route K5|K20
+665 Spewpa-Route K20
+666 Vivillon-Route K17|K20|Frost Cavern
+667 Litleo-Route K18|K19|K21|Safari Zone
+668 Pyroar-Route K18
+669 Flabebe-Route K12
+670 Floette-Route K14|K19|K21|Safari Zone
+671 Florges-Route K14
+672 Skiddo-Route K12|Safari Zone
+672 Gogoat-Route K12|Safari Zone
+673 Pancham-Route K5|K12
+674 Pangoro-Route K5|K14|Ten Carat Hill
+675 Furfrou-Route K11|Safari Zone|Game Corner
+676 Espurr-Route K5
+677 Meowstic-Route K8
+679 Honedge-Route K15|Safari Zone|Game Corner
+682 Spritzee-Route K7|K8|K12|Glimwood Tangle
+684 Swirlix-Route K7|K8|K10|Glimwood Tangle
+686 Inkay-Route K4|Safari Zone|Game Corner
+687 Malamar-Route K7|K8|Safari Zone
+688 Binacle-Route K10|K15|Laverre City|Safari Zone
+689 Barbaracle-Safari Zone
+690 Skrelp-Route K8|Cyllage City
+691 Dragalge-Route K8|Cyllage City
+692 Clauncher-Route K8|Cyllage City|Safari Zone
+693 Clawitzer-Safari Zone
+694 Helioptile-Route K13|K19|K21
+696 Tyrunt-Cyllage City*|Aether Paradise
+698 Amaura-Cyllage City*|Aether Paradise
+701 Hawlucha-Route K11
+702 Dedenne-Route K4|Safari Zone
+703 Carbink-Route K14|Safari Zone|Game Corner|Vast Poni Canyon
+704 Goomy-Route K12|Wild Area|Laverre City|Hammerlocke|Safari Zone|Game Corner
+705 Sliggoo-Safari Zone
+706 Goodra-Safari Zone
+707 Klefki-Route K15
+708 Phantump-Route K19|K21|Wild Area|Glimwood Tangle|Safari Zone
+709 Trevenant-Route K11|Reflection Cave
+710 Pumpkaboo-Route K5|Safari Zone
+712 Bergmite-Route K20|Frost Cavern|Safari Zone
+713H Hisuian Avalugg-Mt. Coronet - Past
+714 Noibat-Route K15+|Reflection Cave
+716 Xerneas-Reflection Cave*
+717 Yveltal-Frost Cavern*
+718 Zygarde-Terminus Cave*^
+719 Diancie-Lumiose City*^
+720 Hoopa-Lumiose City*^
+721 Volcanion-Lumiose City*^
+722 Rowlet-Melemele Forest*|Canalave City*^'
+725 Litten-Hau'oli City*^
+728 Popplio-Hau'oli Outskirts*
+731 Pikipek-Route A1|A11|A12|Melemele Forest|Hau'oli Outskirts|Melemele Meadow
+732 Trumbeak-Melemele Forest|Poni Wilds|Ancient Poni Path
+733 Toucannon-Melemele Forest|Manalo Stadium'
+734 Yungoos-Route A7|A8|Verdant Cavern
+735 Gumshoos-Verdant Cavern|Poni Wilds|Ancient Poni Path
+736 Grubbin-Route A1|A5|Melemele Forest|Wild Area
+737 Charjabug-Route A2|Hau'oli Outskirts
+739 Crabrawler-Route A5|A11|A12
+740 Crabominable-Mount Lanakila
+741 Oricorio-Melemele Meadow|Poni Wilds|Ancient Poni Path
+742 Cutiefly-Route A3|A5|A14
+743 Ribombee-Route A3|A5|Wild Area|Manalo Stadium'
+744 Rockruff-Kukui's House*^|Game Corner
+745 Lycanroc Midday-Ten Carat Hill|Vast Poni Canyon
+745 Lycanroc Midnight-Ten Carat Hill|Vast Poni Canyon
+746 Wishiwashi-Route A1|A7|A8|Paniola Town|Paniola Ranch|Brooklet Hill|Aether Paradise|Poni Wilds
+747 Mareanie-Route A2|Safari Zone
+749 Mudbray-Route A3|Paniola Ranch
+750 Mudscale-Hania Desert|Manalo Stadium'
+751 Dewpider-Route A1
+753 Fomantis-Lush Jungle|Manalo Stadium'
+754 Lurantis-Lush Jungle
+755 Morelull-Melemele Forest|Glimwood Tangle
+756 Shiinotic-Melemele Forest|Safari Zone
+757 Salandit-Route A14|Hau'oli Outskirts|Wela Volcano Park
+759 Stufful-Aether Paradise
+760 Bewear-Route A1|Melemele Forest|Hau'oli Outskirts|Melemele Meadow
+761 Bounsweet-Melemele Forest|Aether Paradise
+762 Steenee-Safari Zone
+764 Comfey-Aether Paradise|Safari Zone
+765 Oranguru-Melemele Forest|Safari Zone
+766 Passimian- Route A3|A11|A12|Safari Zone
+767 Wimpod-Route A2|A5|A7|A8|Game Corner|Safari Zone|Poni Breaker Coast
+769 Sandygast-Route A1|Aether Paradise
+771 Pyukumuku-Route A1|Safari Zone
+772 Type: Null-Vast Poni Canyon*^|Aether Paradise*^
+774 Minior-Mount Hokulani
+775 Komala-Game Corner
+776 Turtonator-Game Corner|Safari Zone
+777 Togedemaru-Aether Paradise*|Safari Zone
+778 Mimikyu-Melemele Forest
+779 Bruxish-Route A1|A2|Safari Zone
+780 Drampa-Route A14|Melemele Forest|Safari Zone
+781 Dhelmise-Route A2|Seafolk Village|Safari Zone
+782 Jangmo-o-Game Corner|Vast Poni Canyon|Safari Zone
+783 Hakamo-o-Vast Poni Canyon
+784 Kommo-o-Vast Poni Canyon
+785 Tapu Koko-Route A1*^
+786 Tapu Lele-Ruins of Life*
+787 Tapu Bulu-Ruins of Abundance*
+788 Tapu Fini-Poni Breaker Coast*
+789 Cosmog-Hau'oli City*^|Melemele Forest*^
+791 Solgaleo-Altar of the Sunne*
+792 Lunala-Altar of the Sunne*^
+793 Nihilego-Aether Paradise*^
+794 Buzzwole-Melemele Meadow*^
+795 Pheromosa-Route A3*^
+796 Xurkitree-Route A2*^
+797 Celesteela-Route A3*^
+798 Kartana-Hau'oli City*^
+799 Guzzlord-Ultra Ruin*|Manalo Stadium*
+800 Necrozma-Ultra Deep Space*
+801 Magearna-Hau'oli City*^
+802 Marshadow-Hau'oli City*^
+803 Poipole-Pokemon School*^
+804 Naganadel-Manalo Stadium*'
+805 Stakataka-Route A1*^
+806 Blacephalon-Route A2*^
+807 Zeraora-Route A1*^
+808 Meltan-Poni Wilds^|Pokemon School*^
+810 Grookey-Vermilion City*^
+813 Scorbunny-Wyndon*
+816 Sobble-Wyndon*^
+819 Skwovet-Wild Area|Slumbering Weald
+820 Greedent-Safari Zone
+821 Rookidee-Wild Area|Slumbering Weald
+822 Corvisquire-Route G6|Safari Zone
+824 Blipbug-Wild Area|Slumbering Weald
+826 Orbettle-Safari Zone
+827 Nickit-Wild Area
+829 Gossifleur-Route 229|Wild Area|Safari Zone
+831 Wooloo-Wild Area
+832 Dubwool-Crown Tundra
+833 Chewtle-Wild Area|Wyndon|Safari Zone
+834 Drednaw-Wyndon
+835 Yamper-Route 10|Kanto Power Plant'
+836 Boltund-Wild Area
+837 Rolycoly-Route G6|Wild Area
+838 Carkol-Safari Zone
+840 Applin-Route 229|Wild Area
+841 Flapple-Safari Zone
+842 Appletun-Safari Zone
+843 Silicobra-Route G6|Wild Area|Desert Resort
+845 Cramorant-Wild Area|Hammerlocke
+846 Arrokuda-Wild Area|Safari Zone
+848 Toxel-Route 10|Kanto Power Plant'|Safari Zone
+850 Sizzlipede-Route G6|Wild Area
+852 Clobbopus-Wild Area|Safari Zone
+854 Sinistea-Wild Area|Glimwood Tangle
+856 Hatenna-Glimwood Tangle
+857 Hattrem-Safari Zone
+859 Impidimp-Glimwood Tangle
+860 Morgrem-Safari Zone
+864 Cursola-Safari Zone
+867 Runerigus-Route G7
+868 Milcrey-Route G7|Game Corner
+869 Alcremie-Route G7
+870 Falinks-Route G6|Game Corner
+871 Pincurchin-Route G7|G9|Safari Zone
+872 Snom-Route G9|Wild Area
+874 Stonjourner-Wild Area
+875 Eiscue-Route G9
+876 Indeedee-Glimwood Tangle
+877 Morpeko-Wild Area
+878 Cufant-Wild Area|Vermilion City*^
+880 Dracozolt-Route G6*
+881 Arctozolt-Wild Area*^
+882 Dracovish-Wild Area*^
+883 Arctovish-Route G6*
+884 Duraludon-Wild Area
+885 Dreepy-Wild Area|Safari Zone|Game Corner
+888 Zacian-Slumbering Weald*^
+889 Zamazenta-Slumbering Weald*^
+890 Eternatus-Wedgehurst*
+891 Kubfu-Game Corner
+983 Zarude-Glimwood Tangle*
+894 Regieleki-Split-Decision Ruins*
+895 Regidrago-Split-Decision Ruins*
+896 Glastrier-Wild Area*^
+897 Spectrier-Wild ARea*^
+898 Calyrex-Freezington*^
+899 Wyrdeer-Mt. Coronet - Past
+901 Ursaluna-Mt. Coronet - Past
+902 Basculegion-Mt. Coronet - Past
+905 Enamorus-Mt. Coronet - Past*
+
+POKEMON UNOBTAINABLE WITHOUT EVOLVING
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+002-Ivysaur
+003-Venusaur
+005-Charmeleon
+006-Charizard
+008-Wartortle
+009-Blastoise
+025A-Alolan Pikachu
+026A-Alolan Raichu
+038A-Alolan Ninetales
+053A-Alolan Persian
+059H-Hisuian Arcanine
+065-Alakazam
+071-Victreebel
+076A-Alolan Golem
+080-Slowbro
+080G-Galarian Slowbro
+089A-Alolan Muk
+097-Hypno
+101H-Hisuian Electrode
+105-Marowak
+139-Omastar
+141-Kabutops
+153-Bayleef
+154-Meganium
+156-Quilava
+157-Typhlosion
+157H-Hisuian Typhlosion
+159-Croconaw
+160-Feraligatr
+181-Ampharos
+196-Espeon
+197-Umbreon
+199-Slowking
+199G-Galarian Slowking
+205-Forretress
+212-Scizor
+229-Houndoom
+230-Kingdra
+233-Porygon2
+247-Pupitar
+253-Grovyle
+254-Sceptile
+256-Combusken
+257-Blaziken
+259-Marshtomp
+260-Swarmpert
+262-Mightyena
+264-Galarian Linoone
+266-Silcoon
+268-Cascoon
+272-Ludicolo
+291-Ninjask
+292-Shedinja
+295-Exploud
+301-Delcatty
+306-Aggron
+317-Swalot
+332-Cacturne
+342-Crawdaunt
+346-Cradily
+348-Armaldo
+354-Banette
+365-Walrein
+368-Gorebyss
+388-Grotle
+389-Torterra
+391-Monferno
+392-Infernape
+394-Prinplup
+395-Empoleon
+398-Staraptor
+407-Roserade
+409-Rampardos
+411-Bastiodon
+413-Wormadam
+414-Mothim
+421-Cherrim
+424-Ambipom
+426-Drifblim
+428-Lopunny
+430-Honchkrow
+435-Skuntank
+437-Bronzong
+444-Gabite
+445-Garchomp
+448-Lucario
+463-Lickilicky
+464-Rhyperior
+465-Tangrowth
+468-Togekiss
+475-Gallade
+476-Probopass
+477-Dusknoir
+496-Servine
+497-Serperior
+499-Pignite
+500-Emboar
+502-Dewott
+503-Samurott
+503H-Hisuian Samurott
+512-Simisage
+521-Unfezant
+537-Seismitoad
+542-Leavanny
+553-Krookodile
+565-Carracosta
+567-Archeops
+571-Zoroark
+571H-Hisuian Zoroark
+573-Cinccino
+578-Duosion
+579-Reuniclus
+583-Vanillish
+584-Vanilluxe
+603-Eelektrik
+604-Eelektross
+606-Beheeyem
+612-Haxorus
+620-Mienshao
+625-Bisharp
+651-Quilladin
+652-Chesnaught
+654-Braixen
+655-Delphox
+657-Frogadier
+658-Greninja
+662-Fletchinder
+663-Talonflame
+680-Doublade
+681-Aegislash
+683-Aromatisse
+685-Slurpuff
+695-Heliolisk
+697-Tyrantrum
+699-Aurorus
+700-Sylveon
+706H-Hisuian Goodra
+711-Gourgeist
+713-Avalugg
+715-Noivern
+723-Dartix
+724-Decidueye
+724H-Hisuian Decidueye
+726-Torracat
+727-Incineroar
+729-Brionne
+730-Primarina
+738-Vikavolt
+745-Lycanroc Dusk
+748-Toxapex
+752-Araquanid
+758-Salazzle
+763-Tsareena
+768-Golisopod
+770-Palossand
+773-Silvally
+790-Cosmoem
+809-Melmetal
+811-Thwackey
+812-Rillaboom
+814-Raboot
+815-Cinderace
+817-Drizzile
+818-Inteleon
+823-Corviknight
+825-Dottler
+828-Thievul
+830-Eldegoss
+839-Coalossal
+844-Sandaconda
+847-Barraskewda
+849-Toxtricity
+851-Centiskorch
+853-Grapploct
+855-Polteageist
+858-Hatterene
+861-Grimmsnarl
+862-Obstagoon
+863-Perrserker
+865-Sirfetch'd
+866-Mr. Rime
+873-Frosmoth
+879-Copperajah
+886-Drakloak
+887-Dragapult
+892-Urshifu
+900-Kleavor
+903-Sneasler
+904-Overqwil
+
+TM LIST
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+TM01 HONE CLAWS-Nuvema Town
+TM02 DRAGON CLAW-Blackthorn Gym
+TM03 PSYSHOCK-Mossdeep Gym
+TM04 CALM MIND-Saffron Gym
+TM05 ROAR-Nacrene Gym
+TM06 TOXIC-Fuchisa Gym
+TM07 HAIL-Mahogany Gym
+TM08 BULK UP-Mt Moon 2F
+TM09 VENOSHOCK-Route 11
+TM10 HIDDEN POWER-Fortree City
+TM11 SUNNY DAY-Safari Zone Kanto
+TM12 TAUNT-Castelia City
+TM13 ICE BEAM-Navel Gym
+TM14 BLIZZARD-Snowpoint Gym
+TM15 HYPER BEAM-Petalburg Gym
+TM16 LUNGE-Ruins of Alph
+TM17 PROTECT-Gringey City Power Plant
+TM18 RAIN DANCE-Mikan Gym
+TM19 PSYCHIC FANGS (Telekinesis)-Lake Verity
+TM20 SAFEGUARD-Route 8
+TM21 FRUSTRATION-Celadon City
+TM22 SOLAR BEAM-Pokemon Mansion B1F
+TM23 SMACK DOWN-Twinleaf Town
+TM24 THUNDERBOLT-Vermilion Gym
+TM25 THUNDER-Mikan Island
+TM26 EARTHQUAKE-Viridian City
+TM27 RETURN-Cerulean City
+TM28 DIG-Driftveil Gym
+TM29 PSYCHIC-Saffron City
+TM30 SHADOW BALL-Ecruteak City
+TM31 BRICK BREAK-Cianwood Gym
+TM32 DOUBLE TEAM-Route 113
+TM33 SMART STRIKE (Magnet Bomb)-Kumquat Gym
+TM34 SLUDGE WAVE-Virbank Gym
+TM35 FLAMETHROWER-Cinnabar Gym
+TM36 SLUDGE BOMB-Goldenrod City
+TM37 SANDSTORM-Pewter City
+TM38 FIRE BLAST-Striaton Gym
+TM39 HEAD SMASH (Rock Tomb)-Oreburgh Gym
+TM40 AERIAL ACE-Violet Gym
+TM41 LEAF BLADE (Torment)-Route 101
+TM42 FACADE-Mikan Island
+TM43 FLAME CHARGE-Charicific Valley
+TM44 REST-S.S. Anne
+TM45 ATTRACT-Goldenrod Gym
+TM46 THIEF-Mt Moon 1F
+TM47 BODY PRESS (Low Sweep)-Veilstone Gym
+TM48 WATERFALL (Round)-Pastoria City
+TM49 THRASH (Echoed Voice)-Aspertia Gym
+TM50 OVERHEAT-Lavaridge Gym
+TM51 REFLECT (Ally Switch)-Anistar City
+TM52 FOCUS BLAST-Route 106
+TM53 ENERGY BALL-Celadon City
+TM54 FALSE SWIPE-Route 2
+TM55 SCALD-Cerulean City
+TM56 OUTRAGE-Shalour City
+TM57 CHARGE BEAM-Chargestone Cave B2F
+TM58 SKY DROP-Fortree Gym
+TM59 BLAZE KICK (Incinerate)-Route K18
+TM60 CLOSE COMBAT (Quash)-Geosenge Town
+TM61 WILLOWISP-Nimbasa City
+TM62 ACROBATICS-Mistralton Gym
+TM63 CRUNCH (Embargo)-Ice Cave
+TM64 EXPLOSION-Snowpoint City
+TM65 SHADOW CLAW-Ecruteak Gym
+TM66 PAYBACK-Mistralton Tower Roof
+TM67 RETALIATE-Trovita Gym
+TM68 GIGA IMPACT-Mauville City
+TM69 ROCK POLISH-Rustboro Gym
+TM70 FLASH-Bellsprout Tower
+TM71 STONE EDGE-Lilycove City
+TM72 VOLT SWITCH-Nimbasa Gym
+TM73 THUNDER WAVE-Mauville Gym
+TM74 GYRO BALL-Canalave Gym
+TM75 SWORDS DANCE-Route 209
+TM76 POLLEN PUFF (Struggle Bug)-Castelia Gym
+TM77 HURRICANE (Psych Up)-Twist Mountain
+TM78 BULLDOZE-Metallica Island
+TM79 FROST BREATH-Icirrus Gym
+TM80 ROCK SLIDE-Pewter Gym
+TM81 XSCISSOR-Azalea Gym
+TM82 DRAGON TAIL-Opelucid City
+TM83 WORK UP-Navel Island
+TM84 POISON JAB-Floaroma Town
+TM85 PHANTOM FORCE (Dream Eater)-Route 121
+TM86 GRASS KNOT-Eterna Gym
+TM87 CROSS POISON (Swagger)-Undella Town
+TM88 PLUCK-Route K21
+TM89 UTURN-Ascorbia Island
+TM90 SUBSTITUTE-Saffron City
+TM91 FLASH CANNON-Olivine Gym
+TM92 TRICK ROOM-Lumiose City
+TM93 WILD CHARGE-Sunnyshore Gym
+TM94 ROCK SMASH-Saffron City
+TM95 SNARL-Route 205
+TM96 RAZOR SHELL (Bubble Beam)-Sootopolis Gym
+TM97 AQUA JET-Pastoria Gym
+TM98 DRILL PECK-Goldenrod City
+TM99 BUG BUZZ-Route K20
+TM100 HORN LEECH-Route 26
+TM101 CONFUSE RAY-Hearthome Gym
+TM102 CRUSH CLAW-Pallet Town
+TM103 EERIE IMPULSE (Zap Cannon)-Shalour City
+TM104 AIR SLASH-Hearthome City
+TM105 TOXIC SPIKES-Seven Grapefruit Islands
+TM106 BULLET PUNCH-Battle Factory
+TM107 CURSE-Izabe Island
+TM108 SOLAR BLADE (Bullet Seed)-Striaton Gym
+TM109 DIVE (Water Pulse)-Striaton Gym
+TM110 STEEL WING-Granite Cave	
+TM111 DAZZLING GLEAM-Vermilion City
+TM112 AURORA VEIL (Confide)-Frost Cavern 2F
+TM113 MEGAHORN (Infestation)-Santalune Gym
+TM114 AURA SPHERE (Power Up Punch)-Shalour Gym
+TM115 SHOCK WAVE-Lumiose Gym
+TM116 PETAL DANCE-Coumarine Gym
+TM117 MOONBLAST-Laverre Gym
+TM118 ROLLOUT-Cyllage Gym
+TM119 LIGHT SCREEN (Stored Power/Reflect)-Anistar Gym
+TM120 ICICLE CRASH-Snowpoint Gym
+TM121 SHADOW PUNCH-Pokemon Tower
+TM122 DARK PULSE-Veilstone City
+TM123 SLACK OFF-Poni Wilds
+TM124 ARM THRUST-Mount Lanakila Cave
+TM125 POWER GEM-Route A2
+TM126 LIQUIDATION-Vast Poni Canyon
+TM127 LEECH SEED-Wela Volcano Park
+TM128 PLAY ROUGH (Night Shade)-Route A14
+TM129 BRUTAL SWING-Route A3
+TM130 SHORE UP-Aether Paradise
+TM131 DRAGON RUSH-Malie City
+TM132 REVENGE-Royal Avenue
+TM133 SURF-Tangelo Island
+TM134 FLY-Cycling Road North Gatehouse
+TM135 ROCK CLIMB-Route 215
+
+MOVE TUTOR
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+After You-Pacifidlog Town Contest Hall
+Air Cutter-Laverre City
+Ancient Power-Dedemille Town
+Aqua Tail-Lake Valor
+Bind-Goldenrod City Dept. Store
+Blast Burn-Pummelo Island
+Block-Snowpoint City
+Bounce-Snowbelle City
+Brave Bird-Veilstone City
+Bug Bite-Izabe Forest
+Covet-Celadon City
+Draco Meteor-Route 210
+Dragon Ascent-Fallabor Town
+Dragon Pulse-Blackthorn City
+Torment (Dragon Rush)-Battle Tower
+Drain Punch-Iki Town
+Drill Run-Driftveil City
+Dual Chop-Opelucid City
+Dynamic Punch-Mossdeep City
+Earth Power-Cianwood City
+Electroweb-Nacrene City
+Endeavor-Trovita Island
+Endure-Jubilife City Contest Hall
+Extreme Speed-Battle Pyramid
+Fire Pledge-Driftveil City
+Fire Punch-Navel Island
+Foul Play-Izabe Island
+Frenzy Plant-Pummelo Island
+Fury Cutter-Twinleaf Town
+Gastro Acid-Verdanturf Town Contest Hall
+Giga Drain-Hau'oli City
+Grass Pledge-Driftveil City
+Gravity-Cherrygrove City
+Gunk Shot-Royal Avenue
+Headbutt-Ilex Forest
+Heal Beal-Solaceon Town
+Heat Wave-Route 45
+Helping Hand-Hearthome City
+Hydro Cannon-Pummelo Island
+Hyper Voice-Dewford Town
+Ice Punch-Navel Island
+Icy Wind-Izabe Island
+Iron Defense-Pewter City
+Iron Head-Mount Lanakila
+Iron Tail-Rustboro City
+Knock Off-Shalour City
+Last Resort-Shopping Mall Nine
+Low Kick-Pacifidlog Town
+Magic Coat-Lilycove City Contest Hall
+Magic Room-Slateport City Contest Hall
+Magnet Rise-Vast Poni Canyon
+Metronome-Indigo Plateau
+Mud Slap-Geosenge Town
+Ominous Wind-Cyllage City
+Pain Split-Fallabor Town Contest Hall
+Recycle-Florama Town
+Relic Song-Undella Town
+Role Play-Route U4
+Roost-Pokemon Swap Meet
+Low Sweep (Rollout)-Olivine City
+Secret Sword-Aspertia City
+Seed Bomb-Seafolk Village
+Seismic Toss-Cinnabar Island
+Signal Beam-Veilstone City Dept. Store
+Skill Swap-Izabe Island Contest Hall
+Sky Attack-Celadon City Dept. Store
+Sleep Talk-Fortree City
+Snatch-Goldenrod City
+Snore-Viridian City
+Spite-Mauville City
+Stealth Rock-Canalave City
+Steel Beam-Hammerlocke
+String Shot-Celestic Town
+Sucker Punch-Malie City
+Super Fang-Vermilion City
+Superpower-Lilycove City Dept. Store
+Super Fang-Kumquat Island 
+Swift-Weather Institute
+Synthesis-Fortree City
+Tailwind-Route 222
+Thunder Punch-Navel Island
+Trick-Battle Factory
+Twister-Route A14
+Uproar-Parfum Palace
+Vacuum Wave-Pastoria City
+Volt Tackle-Lavender Town Gate
+Water Pledge-Driftveil City
+Wonder Room-Ruins of Alph
+Worry Seed-Pokemon Tower
+Zen Headbutt-Saffron City Contest Hall
+
+PLATES
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Stone Plate-Oreburgh Gate
+Splash Plate-Route 215
+Zap Plate-Sunnyshore City
+Meadow Plate-Route 210
+Toxic Plate-Floaroma Meadow
+Mind Plate-Hearthome City
+Flame Plate-Route 207
+Earth Plate-Route 211
+Sky Plate-Route 206
+Insect Plate-Eterna Forest
+Blank Plate-Mt. Coronet - Past
+Spooky Plate-Old Chateau
+Fist Plate-Twinleaf Town
+Iron Plate-Iron Island
+Icicle Plate-Route 217
+Draco Plate-Celestic Town
+Dread Plate-Solaceon Ruins
+Pixie Plate-Valor Lakefront
+
+MEGA STONES
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Venusaurite-Shalour City
+Charizardite X-Route K19
+Charizardite Y-Shalour City
+Blastoisinite-Shalour City
+Alakazite-Snowpoint City
+Gengarite-Geosenge Town
+Kangaskhanite-Route K10	
+Pinsirite-Anistar City
+Gyaradosite-Lumiose City
+Aerodactylite-Route K19
+Mewtwonite X-Route K22
+Mewtwonite Y-Route K22
+Ampharosite-Lumiose City
+Scizorite-Frost Cavern 3F
+Heracronite-Geosenge Town
+Houndoominite-Anistar City
+Tyranitarite-Route K13
+Blazikenite-Geosenge Town
+Gardevoirite-Route K10
+Mawilite-Coumarine City
+Aggronite-Route K13
+Medichamite-Laverre City
+Manectite-Route K21
+Banettite-Route K14
+Absolite-Anistar City
+Garchompite-Lumiose City
+Lucarionite-Shalour Gym
+Abomoasnite-Snopoint Gym
+Beedrillite-Laverre City
+Pidgeotite-Anistar City
+Slowbronite-Dedemille Town
+Steelixite-Route K13
+Sceptilite-Couriway Town
+Swampertite-Coumarine City
+Sablenite-Reflection Cave
+Sharpedonite-Route K15
+Camuruptite-Route K15
+Altarianite-Route K12
+Galatitie-Route K17
+Salamenceite-Anistar City
+Metagrossite-Anistar City
+Latiasite-Terminus Cave
+Latiosite-Terminus Cave
+Lopunnite-Coumarine City
+Galladite-Lumiose City
+Audinite-Anistar City
+Diancite-Lumiose City
+Shuriken-Route K18
+Dragon Scroll-Route K22
+
+Z-CRYSTALS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rockium Z-Ruins of Life
+Waterium Z-Seafolk Village
+Electrium Z-Iki Town
+Grassium Z-Lush Jungle
+Psychium Z-Route A12
+Poisonium Z-Route A5
+Firium Z-Route A1
+Groundium Z-Aether Paradise
+Flyinium Z-Poni Breaker Coast
+Buginium Z-Route A7
+Normalium Z-Verdant Cavern
+Ghostium Z-Mount Lanakila Cave
+Fightinium Z-Ten Carat Hill
+Steelium Z-Ruins of Hope
+Icium Z-Mount Lanakila
+Dragonium Z-Vast Poni Canyon
+Darkinium Z-Malie City
+Fairium Z-Hau'oli City
+Pikanium Z-Melemele Forest
+Pikashunium Z-Alter of the Sunne
+Eevium Z-Route A1
+Snorlium Z-Paniola Ranch
+Mewnium Z-Aether Paradise
+Decidium Z-Royal Avenue
+Incinium Z-Royal Avenue
+Primarium Z-Royal Avenue
+Lycanium Z-Tapu Village
+Mimikium Z-Seafolk Village
+Tapunium Z-Manalo Stadium
+Solganium Z-Alter of the Sunne
+Lunalium Z-Alter of the Sunne
+Marshadium Z-Route A11
+Aloraichium Z-Haina Desert

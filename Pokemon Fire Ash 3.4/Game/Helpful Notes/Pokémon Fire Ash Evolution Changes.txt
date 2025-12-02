@@ -1,0 +1,47 @@
+Anything that is not listed in here evolves as it does in the main series games.
+
+Poliwhirl -> Politoed = Level up holding King's Rock during the day
+Kadabra -> Alakazam = Level 35
+Machoke -> Machamp = Level 35
+Graveler -> Golem = Level 35
+Slowpoke -> Slowking = Level up holding King's Rock during the day
+Magneton -> Magnezone = Level up at Route 110/Route 207/Mt. Coronet/Chargestone Cave/Kalos Route 13/Vast Poni Canyon/Use Thunder Stone
+Haunter -> Gengar = Level 35
+Onix -> Steelix = Level up holding Metal Coat during the day
+Rhydon -> Rhyperior = Level up holding Protector during the day
+Seadra -> Kingdra = Level up holding Dragon Scale during the night
+Scyther -> Scizor = Level up holding Metal Coat during the night
+Electabuzz -> Electivire = Level up holding Electirizer during the night
+Magmar -> Magmortar = Level up holding Magmarizer during the day
+Eevee -> Leafeon = Level up at Petalburg Woods/Eterna Forest/Pinwheel Forest/Lush Jungle/Use Leaf Stone
+Eevee -> Glaceon = Level up at Route 217/Twist Mountain 4F/Frost Cavern 3F/Mount Lanakila/Use Ice Stone
+Eevee -> Sylveon = Max friendship + has a Fairy move
+Porygon -> Porygon2 = Level up holding Upgrade during the day
+
+Porygon2 -> Porygon-Z = Level up holding Dubious Disc during the night
+
+Nosepass -> Probopass = Level up at Route 110/Route 207/Mt. Coronet/Chargestone Cave/Kalos Route 13/Vast Poni Canyon
+Febass -> Milotic = 170 in Beauty/Level up holding Prism Scale during the day
+Dusclops -> Dusknoir = Level up holding Reaper Cloth during the night
+Clamperl -> Huntail = Level up holding Deep Sea Tooth during the night
+Clamperl -> Gorebyss = Level up holding Deep Sea Scale during the day
+
+Boldore -> Gigalith = Level 35
+Gurdurr -> Conkeldurr = Level 35
+Karrablast -> Escavalier = Have Shelmet in party/have Accelgor in party
+Shelmet -> Accelgor = Have Karrablast in party/have Excavalier in party
+
+Spritzee -> Aromatisse = Level up holding Sachet during the day
+Swirlix -> Slurpuff = Level up holding Whipped Dream during the night
+Inkay -> Malamar = Level 30
+Sliggoo -> Goodra = Has the Move Rain Dance
+Phantump -> Trevenant = Level 35
+Pumpkaboo -> Gourgeist = Level 35
+
+Charjabug -> Vikavolt = Level up at Route 110/Route 207/Mt. Coronet/Chargestone Cave/Kalos Route 13/Vast Poni Canyon/Use Thunder Stone
+Rockruff -> Lycanroc Midday Form = High Friendship during day
+Rockruff -> Lycanroc Midnight Form = High Friendship during night
+Rockruff -> Lycanroc Dusk Form = Level 25
+Cosmoem -> Solgaleo = Level 53 during the day
+Cosmoem -> Lunala = Level during the night
+Meltan -> Melmetal = Level up holding Rare Candy
