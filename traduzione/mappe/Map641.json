@@ -1,0 +1,127 @@
+[
+ {
+  "id": "\\bNot going easy.",
+  "en": "\\bNot going easy.",
+  "it": "\\bNon ci andrò piano."
+ },
+ {
+  "id": "\\bYou may be able to beat Volkner.",
+  "en": "\\bYou may be able to beat Volkner.",
+  "it": "\\bForse riuscirai a battere Corrado."
+ },
+ {
+  "id": "\\bLet's roll.",
+  "en": "\\bLet's roll.",
+  "it": "\\bSi parte."
+ },
+ {
+  "id": "\\bSick moves man.",
+  "en": "\\bSick moves man.",
+  "it": "\\bMosse pazzesche, amico."
+ },
+ {
+  "id": "\\bVolkner: Well you seem like you have some potential. Don't disappoint me, okay.",
+  "en": "\\bVolkner: Well you seem like you have some potential. Don't disappoint me, okay.",
+  "it": "\\bCorrado: Beh, sembra che tu abbia del potenziale. Non deludermi, d'accordo?"
+ },
+ {
+  "id": "\\bVolkner: Someone is messing with Sunnyshore Tower. We can pick up the battle after we find out what's happening.",
+  "en": "\\bVolkner: Someone is messing with Sunnyshore Tower. We can pick up the battle after we find out what's happening.",
+  "it": "\\bCorrado: Qualcuno sta facendo pasticci con la Torre di Arenipoli. Riprenderemo la lotta dopo aver scoperto cosa succede."
+ },
+ {
+  "id": "\\bVolkner: Someone is tampering with Sunnyshore Tower. We need to check it out.",
+  "en": "\\bVolkner: Someone is tampering with Sunnyshore Tower. We need to check it out.",
+  "it": "\\bCorrado: Qualcuno sta manomettendo la Torre di Arenipoli. Dobbiamo andare a controllare."
+ },
+ {
+  "id": "\\bVolkner: Thank you for handling the intruders. I know it took some time to fix the gym, but let's get back to our battle.",
+  "en": "\\bVolkner: Thank you for handling the intruders. I know it took some time to fix the gym, but let's get back to our battle.",
+  "it": "\\bCorrado: Grazie per esserti occupato degli intrusi. So che ci è voluto un po' per riparare la Palestra, ma riprendiamo la nostra lotta."
+ },
+ {
+  "id": "\\bVolkner: You've earned the Beacon Badge.",
+  "en": "\\bVolkner: You've earned the Beacon Badge.",
+  "it": "\\bCorrado: Ti sei guadagnato la Medaglia Faro."
+ },
+ {
+  "id": "\\bHere, have this TM too.",
+  "en": "\\bHere, have this TM too.",
+  "it": "\\bEcco, prendi anche questa MT."
+ },
+ {
+  "id": "\\bTM93 contains Wild Charge. A powerful electrical tackle that causes recoil.",
+  "en": "\\bTM93 contains Wild Charge. A powerful electrical tackle that causes recoil.",
+  "it": "\\bLa MT93 contiene Sprizzalampo. Una potente carica elettrica che causa danni da contraccolpo."
+ },
+ {
+  "id": "\\bVolkner: I'm going to stay a gym leader for a while. Thanks for showing me there are still strong Trainers out there.",
+  "en": "\\bVolkner: I'm going to stay a gym leader for a while.  Thanks for showing me there are still strong Trainers out there.",
+  "it": "\\bCorrado: Resterò Capopalestra ancora per un po'.  Grazie per avermi mostrato che là fuori ci sono ancora Allenatori forti."
+ },
+ {
+  "id": "\\bVolkner: Good to see you again. Show me once more why battles are so exciting.",
+  "en": "\\bVolkner: Good to see you again. Show me once more why battles are so exciting.",
+  "it": "\\bCorrado: Che piacere rivederti. Mostrami ancora una volta perché le lotte sono così emozionanti."
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 64.",
+  "en": "Rotom Phone: Based on performance, your rank is now 64.",
+  "it": "Rotom Phone: in base ai risultati, ora sei al posto 64 in classifica."
+ },
+ {
+  "id": "\\bVolkner: Continue to train. The Master Class won't take it easy on you.",
+  "en": "\\bVolkner: Continue to train. The Master Class won't take it easy on you. ",
+  "it": "\\bCorrado: Continua ad allenarti. La Classe Master non ci andrà piano con te. "
+ },
+ {
+  "id": "\\bHey!",
+  "en": "\\bHey!",
+  "it": "\\bEhi!"
+ },
+ {
+  "id": "\\bCan you beat everyone?",
+  "en": "\\bCan you beat everyone?",
+  "it": "\\bRiesci a battere tutti?"
+ },
+ {
+  "id": "\\bLast chance to quit.",
+  "en": "\\bLast chance to quit.",
+  "it": "\\bUltima occasione per ritirarti."
+ },
+ {
+  "id": "\\bHope you beat him.",
+  "en": "\\bHope you beat him.",
+  "it": "\\bSpero che tu lo batta."
+ },
+ {
+  "id": "\\bVolkner uses Electric type Pokémon. They are weak aganst only the Ground type.",
+  "en": "\\bVolkner uses Electric type Pokémon. They are weak aganst only the Ground type.",
+  "it": "\\bCorrado usa Pokémon di tipo Elettro. Sono deboli solo contro il tipo Terra."
+ },
+ {
+  "id": "\\bThey are strong against Flying and Water. Flying, Electric, and Steel moves also don't do much damage.",
+  "en": "\\bThey are strong against Flying and Water. Flying, Electric, and Steel moves also don't do much damage.",
+  "it": "\\bSono forti contro Volante e Acqua. Anche le mosse Volante, Elettro e Acciaio non fanno loro molto danno."
+ },
+ {
+  "id": "\\rI'm not losing.",
+  "en": "\\rI'm not losing.",
+  "it": "\\rNon perderò."
+ },
+ {
+  "id": "\\rVolkner is an expert at Electric types. Use a Ground type.",
+  "en": "\\rVolkner is an expert at Electric types. Use a Ground type.",
+  "it": "\\rCorrado è un esperto del tipo Elettro. Usa un tipo Terra."
+ },
+ {
+  "id": "\\rDon't think you're going to win.",
+  "en": "\\rDon't think you're going to win.",
+  "it": "\\rNon pensare di vincere."
+ },
+ {
+  "id": "\\rVolker will beat you. He beats everyone.",
+  "en": "\\rVolker will beat you. He beats everyone.",
+  "it": "\\rCorrado ti batterà. Batte tutti."
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "\\bOpal uses Fairy type Pokémon. They are weak aganst the Poison and Steel types.",
+  "en": "\\bOpal uses Fairy type Pokémon. They are weak aganst the Poison and Steel types.",
+  "it": "\\bPoppy usa Pokémon di tipo Folletto. Sono deboli contro i tipi Veleno e Acciaio."
+ },
+ {
+  "id": "\\bThey are strong against Fighting, Dragon, and Dark. Bug, Fighting, and Dark moves also don't do much damage. They are immune to Dragon types as well.",
+  "en": "\\bThey are strong against Fighting, Dragon, and Dark.  Bug, Fighting, and Dark moves also don't do much damage. They are immune to Dragon types as well.",
+  "it": "\\bSono forti contro Lotta, Drago e Buio. Anche le mosse di tipo Coleottero, Lotta e Buio fanno pochi danni. In più sono immuni al tipo Drago."
+ },
+ {
+  "id": "\\bGoh: This was... interesting.",
+  "en": "\\bGoh: This was... interesting.",
+  "it": "\\bGoh: È stato... interessante."
+ },
+ {
+  "id": "\\bThis way leads to the battlefield. There's no battle scheduled right now, but you can go back and talk to one of our chefs to set what cream you want for a certain Pokémon. You know what Pokémon I'm talking about, since you've battled Opal.",
+  "en": "\\bThis way leads to the battlefield. There's no battle scheduled right now, but you can go back and talk to one of our chefs to set what cream you want for a certain Pokémon. You know what Pokémon I'm talking about, since you've battled Opal.",
+  "it": "\\bDi qui si va al campo di lotta. Al momento non ci sono lotte in programma, ma puoi tornare indietro e parlare con uno dei nostri chef per scegliere la crema che vuoi per un certo Pokémon. Sai di quale Pokémon parlo, visto che hai lottato contro Poppy."
+ },
+ {
+  "id": "\\bThis way leads to the battlefield. There's no battle scheduled right now.",
+  "en": "\\bThis way leads to the battlefield. There's no battle scheduled right now.",
+  "it": "\\bDi qui si va al campo di lotta. Al momento non è in programma nessun incontro."
+ },
+ {
+  "id": "\\bAre you ready to battle?",
+  "en": "\\bAre you ready to battle?",
+  "it": "\\bSei pronto a lottare?"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": "\\bPokémon stat enhancers can be bought only here.",
+  "en": "\\bPokémon stat enhancers can be bought only here.",
+  "it": "\\bI potenziatori delle statistiche dei Pokémon si possono comprare solo qui."
+ },
+ {
+  "id": "\\bHP Up increases the base HP of a Pokémon.",
+  "en": "\\bHP Up increases the base HP of a Pokémon.",
+  "it": "\\bIl PS-Su aumenta i PS base di un Pokémon."
+ },
+ {
+  "id": "\\bCalcuim increases the base SP. Atk of a Pokémon.",
+  "en": "\\bCalcuim increases the base SP. Atk of a Pokémon.",
+  "it": "\\bIl Calcio aumenta l'Attacco Speciale base di un Pokémon."
+ },
+ {
+  "id": "\\bZinc increases the base SP. Def of a Pokémon.",
+  "en": "\\bZinc increases the base SP. Def of a Pokémon.",
+  "it": "\\bLo Zinco aumenta la Difesa Speciale base di un Pokémon."
+ },
+ {
+  "id": "\\bCarbos increases the base Speed of a Pokémon.",
+  "en": "\\bCarbos increases the base Speed of a Pokémon.",
+  "it": "\\bIl Carburante aumenta la Velocità base di un Pokémon."
+ },
+ {
+  "id": "\\bThe enhancers are so expensive.",
+  "en": "\\bThe enhancers are so expensive.",
+  "it": "\\bGli strumenti potenzianti costano un occhio della testa."
+ },
+ {
+  "id": "\\sign[signskin]5F: Drugstore",
+  "en": "\\sign[signskin]5F: Drugstore",
+  "it": "\\sign[signskin]5° P: Farmacia"
+ }
+]

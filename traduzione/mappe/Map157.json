@@ -1,0 +1,47 @@
+[
+ {
+  "id": "\\bCaptured Pokémon are registered with an ID No. and the OT.",
+  "en": "\\bCaptured Pokémon are registered with an ID No.  and the OT.",
+  "it": "\\bI Pokémon catturati vengono registrati con un N. ID e un AO."
+ },
+ {
+  "id": "\\bOT stands for \"Original Trainer\".",
+  "en": "\\bOT stands for \"Original Trainer\".",
+  "it": "\\bAO sta per \"Allenatore Originario\"."
+ },
+ {
+  "id": "\\bI can teach your Pokémon a very powerful move, Sky Attack!",
+  "en": "\\bI can teach your Pokémon a very powerful move, Sky Attack!",
+  "it": "\\bPosso insegnare ai tuoi Pokémon una mossa potentissima, Aeroattacco!"
+ },
+ {
+  "id": "\\bWhich Pokémon would you like me to teach?",
+  "en": "\\bWhich Pokémon would you like me to teach?",
+  "it": "\\bA quale Pokémon vuoi che la insegni?"
+ },
+ {
+  "id": "\\bCome back anytime!",
+  "en": "\\bCome back anytime!",
+  "it": "\\bTorna quando vuoi!"
+ },
+ {
+  "id": "\\rYou can identify Pokémon you get in trades by their ID Numbers.",
+  "en": "\\rYou can identify Pokémon you get in trades by their ID Numbers.",
+  "it": "\\rPuoi riconoscere i Pokémon ottenuti negli scambi dal loro N. ID."
+ },
+ {
+  "id": "\\bAll right!\\nMy buddy's going to trade me his Kangaskhan for my Haunter!",
+  "en": "\\bAll right!\\nMy buddy's going to trade me his Kangaskhan for my Haunter!",
+  "it": "\\bEvvai!\\nIl mio amico mi scambierà il suo Kangaskhan con il mio Haunter!"
+ },
+ {
+  "id": "\\bI love Haunter! I collect them!\\nHuh? Haunter turned into a different Pokémon while being traded!",
+  "en": "\\bI love Haunter! I collect them!\\nHuh? Haunter turned into a different Pokémon while being traded!",
+  "it": "\\bAdoro Haunter! Li colleziono!\\nEh? Haunter è diventato un altro Pokémon durante lo scambio!"
+ },
+ {
+  "id": "\\sign[signskin]3F: TV Game Shop",
+  "en": "\\sign[signskin]3F: TV Game Shop",
+  "it": "\\sign[signskin]3° P: Negozio di videogiochi"
+ }
+]

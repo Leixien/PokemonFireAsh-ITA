@@ -1,0 +1,252 @@
+[
+ {
+  "id": "Check results for which challenge?",
+  "en": "Check results for which challenge?",
+  "it": "Di quale sfida vuoi vedere i risultati?"
+ },
+ {
+  "id": "\\PN's Battle Palace Level 50 Single Battle results:",
+  "en": "\\PN's Battle Palace Level 50 Single Battle results:",
+  "it": "Risultati Palazzo Lotta di \\PN, Lotta Singola Livello 50:"
+ },
+ {
+  "id": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "en": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "it": "Ultima serie di vittorie: \\v[1]\\nRecord di vittorie: \\v[2]"
+ },
+ {
+  "id": "\\PN's Battle Palace Open Level Single Battle results:",
+  "en": "\\PN's Battle Palace Open Level Single Battle results:",
+  "it": "Risultati Palazzo Lotta di \\PN, Lotta Singola Livello Libero:"
+ },
+ {
+  "id": "\\PN's Battle Palace Level 50 Double Battle results:",
+  "en": "\\PN's Battle Palace Level 50 Double Battle results:",
+  "it": "Risultati Palazzo Lotta di \\PN, Lotta in Doppio Livello 50:"
+ },
+ {
+  "id": "\\PN's Battle Palace Open Level Double Battle results:",
+  "en": "\\PN's Battle Palace Open Level Double Battle results:",
+  "it": "Risultati Palazzo Lotta di \\PN, Lotta in Doppio Livello Libero:"
+ },
+ {
+  "id": "Which heading do you want to read?\\ch[1,-1, Battle Basics,Pokémon Nature,Pokémon Moves, Underpowered,When in Danger,Exit]",
+  "en": "Which heading do you want to read?\\ch[1,-1, Battle Basics,Pokémon Nature,Pokémon Moves, Underpowered,When in Danger,Exit]",
+  "it": "Quale argomento vuoi leggere?\\ch[1,-1, Basi della lotta,Natura dei Pokémon,Mosse dei Pokémon, Poco efficaci,In pericolo,Esci]"
+ },
+ {
+  "id": "In the Battle Palace, Pokémon are required to think by themselves.",
+  "en": "In the Battle Palace, Pokémon are required to think by themselves.",
+  "it": "Nel Palazzo Lotta, i Pokémon devono pensare da soli."
+ },
+ {
+  "id": "Unlike in the wild, Pokémon that live with people behave differently depending on their nature.",
+  "en": "Unlike in the wild, Pokémon that live with people behave differently depending on their nature.",
+  "it": "A differenza di quelli selvatici, i Pokémon che vivono con le persone si comportano in modo diverso a seconda della loro natura."
+ },
+ {
+  "id": "Depending on its nature, a Pokémon may prefer to attack no matter what.",
+  "en": "Depending on its nature, a Pokémon may prefer to attack no matter what.",
+  "it": "A seconda della natura, un Pokémon potrebbe preferire attaccare a ogni costo."
+ },
+ {
+  "id": "Another Pokémon may prefer to protect itself from harm.",
+  "en": "Another Pokémon may prefer to protect itself from harm.",
+  "it": "Un altro Pokémon potrebbe preferire proteggersi dai danni."
+ },
+ {
+  "id": "Yet another may enjoy vexing or confounding its foes.",
+  "en": "Yet another may enjoy vexing or confounding its foes.",
+  "it": "Un altro ancora potrebbe divertirsi a infastidire o confondere gli avversari."
+ },
+ {
+  "id": "A Pokémon's nature determines which moves it is good at using, and which moves it has trouble using.",
+  "en": "A Pokémon's nature determines which moves it is good at using, and which moves it has trouble using.",
+  "it": "La natura di un Pokémon determina quali mosse sa usare bene e quali invece usa con difficoltà."
+ },
+ {
+  "id": "There are offensive moves that deal direct damage on the foe.",
+  "en": "There are offensive moves that deal direct damage on the foe.",
+  "it": "Ci sono mosse offensive che infliggono danni diretti all'avversario."
+ },
+ {
+  "id": "There are defensive moves that are used to prepare for enemy attacks or used to heal HP and so on.",
+  "en": "There are defensive moves that are used to prepare for enemy attacks or used to heal HP and so on.",
+  "it": "Ci sono mosse difensive, usate per prepararsi agli attacchi nemici o per recuperare PS e così via."
+ },
+ {
+  "id": "And there are other somewhat-odd moves that may enfeeble the foe with status problems including poison and paralysis.",
+  "en": "And there are other somewhat-odd moves that may enfeeble the foe with status problems including poison and paralysis.",
+  "it": "E ci sono altre mosse un po' strane che possono indebolire l'avversario con problemi di stato come avvelenamento e paralisi."
+ },
+ {
+  "id": "Pokémon will consider using moves in these three categories.",
+  "en": "Pokémon will consider using moves in these three categories.",
+  "it": "I Pokémon valuteranno l'uso di mosse di queste tre categorie."
+ },
+ {
+  "id": "When not taking commands from its Trainer, a Pokémon may be unable to effectively use certain kinds of moves.",
+  "en": "When not taking commands from its Trainer, a Pokémon may be unable to effectively use certain kinds of moves.",
+  "it": "Quando non riceve ordini dal suo Allenatore, un Pokémon potrebbe non riuscire a usare efficacemente certi tipi di mosse."
+ },
+ {
+  "id": "A Pokémon is not good at using any move that it dislikes.",
+  "en": "A Pokémon is not good at using any move that it dislikes.",
+  "it": "Un Pokémon non è bravo a usare le mosse che non gli piacciono."
+ },
+ {
+  "id": "If a Pokémon only knows moves that don't conform to its nature, it will often be unable to live up to its potential.",
+  "en": "If a Pokémon only knows moves that don't conform to its nature, it will often be unable to live up to its potential.",
+  "it": "Se un Pokémon conosce solo mosse che non si addicono alla sua natura, spesso non riuscirà a esprimere il suo potenziale."
+ },
+ {
+  "id": "Depending on its nature, a Pokémon may start using moves that don't match its nature when it is in trouble.",
+  "en": "Depending on its nature, a Pokémon may start using moves that don't match its nature when it is in trouble.",
+  "it": "A seconda della natura, un Pokémon in difficoltà potrebbe iniziare a usare mosse che non si addicono alla sua natura."
+ },
+ {
+  "id": "If a Pokémon begins behaving oddly in a pinch, watch it carefully.",
+  "en": "If a Pokémon begins behaving oddly in a pinch, watch it carefully.",
+  "it": "Se un Pokémon inizia a comportarsi in modo strano quando è alle strette, osservalo con attenzione."
+ },
+ {
+  "id": "There is no battle recorded.",
+  "en": "There is no battle recorded.",
+  "it": "Non è stata registrata nessuna lotta."
+ },
+ {
+  "id": "\\bWelcome to the Battle Palace.",
+  "en": "\\bWelcome to the Battle Palace.",
+  "it": "\\bBenvenuto al Palazzo Lotta."
+ },
+ {
+  "id": "\\bWould you like to participate in a single battle?",
+  "en": "\\bWould you like to participate in a single battle?",
+  "it": "\\bVuoi partecipare a una lotta singola?"
+ },
+ {
+  "id": "\\bDo you want to take the Level 50 challenge, or the Open Level challenge?",
+  "en": "\\bDo you want to take the Level 50 challenge, or the Open Level challenge?",
+  "it": "\\bVuoi affrontare la sfida Livello 50 o la sfida Livello Libero?"
+ },
+ {
+  "id": "\\bSorry, you can't participate. You need three different Pokémon to enter.",
+  "en": "\\bSorry, you can't participate.  You need three different Pokémon to enter.",
+  "it": "\\bMi spiace, non puoi partecipare.  Per iscriverti servono tre Pokémon diversi."
+ },
+ {
+  "id": "\\bThey must be of a different species and hold different items.",
+  "en": "\\bThey must be of a different species and hold different items.",
+  "it": "\\bDevono essere di specie diverse e tenere strumenti diversi."
+ },
+ {
+  "id": "\\bCertain exotic species, as well as eggs, are ineligible.",
+  "en": "\\bCertain exotic species, as well as eggs, are ineligible.",
+  "it": "\\bAlcune specie esotiche, così come le uova, non sono ammesse."
+ },
+ {
+  "id": "\\bPlease choose the three Pokémon that will enter.",
+  "en": "\\bPlease choose the three Pokémon that will enter.",
+  "it": "\\bScegli i tre Pokémon che parteciperanno."
+ },
+ {
+  "id": "\\bPlease come this way.",
+  "en": "\\bPlease come this way.",
+  "it": "\\bDa questa parte, prego."
+ },
+ {
+  "id": "\\bCome back another time.",
+  "en": "\\bCome back another time.",
+  "it": "\\bTorna un'altra volta."
+ },
+ {
+  "id": "\\bCongratulations for winning.",
+  "en": "\\bCongratulations for winning.",
+  "it": "\\bCongratulazioni per la vittoria."
+ },
+ {
+  "id": "\\bPlease take this prize.",
+  "en": "\\bPlease take this prize.",
+  "it": "\\bTi prego, accetta questo premio."
+ },
+ {
+  "id": "\\bYou have no room for it. At least you won, though.",
+  "en": "\\bYou have no room for it.  At least you won, though.",
+  "it": "\\bNon hai spazio per tenerlo.  Almeno hai vinto, però."
+ },
+ {
+  "id": "\\bWould you like to record your last battle?",
+  "en": "\\bWould you like to record your last battle?",
+  "it": "\\bVuoi registrare la tua ultima lotta?"
+ },
+ {
+  "id": "\\se[expfull]The battle was recorded.",
+  "en": "\\se[expfull]The battle was recorded.",
+  "it": "\\se[expfull]La lotta è stata registrata."
+ },
+ {
+  "id": "Your results will be recorded.\\wtnp[15]",
+  "en": "Your results will be recorded.\\wtnp[15]",
+  "it": "I tuoi risultati verranno registrati.\\wtnp[15]"
+ },
+ {
+  "id": "\\bThanks for playing.",
+  "en": "\\bThanks for playing.",
+  "it": "\\bGrazie per aver partecipato."
+ },
+ {
+  "id": "\\bWe've been waiting for you. Please come this way.",
+  "en": "\\bWe've been waiting for you.  Please come this way.",
+  "it": "\\bTi stavamo aspettando.  Da questa parte, prego."
+ },
+ {
+  "id": "\\bExcuse me, but you didn't save before finishing your challenge last time.",
+  "en": "\\bExcuse me, but you didn't save before finishing your challenge last time.",
+  "it": "\\bScusa, ma l'ultima volta non hai salvato prima di terminare la sfida."
+ },
+ {
+  "id": "\\bSorry, but your challenge has been canceled.",
+  "en": "\\bSorry, but your challenge has been canceled.",
+  "it": "\\bSpiacente, ma la tua sfida è stata annullata."
+ },
+ {
+  "id": "\\bWould you like to participate in a double battle?",
+  "en": "\\bWould you like to participate in a double battle?",
+  "it": "\\bVuoi partecipare a una lotta in doppio?"
+ },
+ {
+  "id": "Level 50",
+  "en": "Level 50",
+  "it": "Livello 50"
+ },
+ {
+  "id": "Open Level",
+  "en": "Open Level",
+  "it": "Livello Libero"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Battle Palace rules",
+  "en": "Battle Palace rules",
+  "it": "Regole del Palazzo Lotta"
+ },
+ {
+  "id": "Play recorded battle",
+  "en": "Play recorded battle",
+  "it": "Guarda lotta registrata"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

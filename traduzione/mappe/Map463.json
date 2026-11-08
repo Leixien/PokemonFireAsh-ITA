@@ -1,0 +1,122 @@
+[
+ {
+  "id": "\\bWhere would you like to go?",
+  "en": "\\bWhere would you like to go?",
+  "it": "\\bDove vorresti andare?"
+ },
+ {
+  "id": "\\bI'm afraid about this. What if I lose?",
+  "en": "\\bI'm afraid about this. What if I lose?",
+  "it": "\\bHo paura. E se perdo?"
+ },
+ {
+  "id": "\\bBrock: I figured you would be here.",
+  "en": "\\bBrock: I figured you would be here.",
+  "it": "\\bBrock: Immaginavo che ti avrei trovato qui."
+ },
+ {
+  "id": "\\bI know you're busy preparing for the league, so I think a battle might help you out.",
+  "en": "\\bI know you're busy preparing for the league, so I think a battle might help you out.",
+  "it": "\\bSo che sei impegnato a prepararti per la Lega, quindi penso che una lotta potrebbe aiutarti."
+ },
+ {
+  "id": "\\bBrock: Great battle \\PN! If you want I can groom one of your Pokémon. It may help it in battle.",
+  "en": "\\bBrock: Great battle \\PN! If you want I can groom one of your Pokémon. It may help it in battle.",
+  "it": "\\bBrock: Gran bella lotta, \\PN! Se vuoi, posso curare l'aspetto di uno dei tuoi Pokémon. Potrebbe aiutarlo in lotta."
+ },
+ {
+  "id": "\\bBrock: Which Pokémon do you want me to groom?",
+  "en": "\\bBrock: Which Pokémon do you want me to groom?",
+  "it": "\\bBrock: A quale Pokémon vuoi che faccia la toelettatura?"
+ },
+ {
+  "id": "\\bBrock: Oh, okay then.",
+  "en": "\\bBrock: Oh, okay then.",
+  "it": "\\bBrock: Oh, va bene allora."
+ },
+ {
+  "id": "\\bBrock: There! \\v[2] looks a lot better now!",
+  "en": "\\bBrock: There!  \\v[2] looks a lot better now!",
+  "it": "\\bBrock: Ecco fatto!  \\v[2] ha un aspetto molto migliore ora!"
+ },
+ {
+  "id": "\\bJames: Welcome to our shop.",
+  "en": "\\bJames: Welcome to our shop.",
+  "it": "\\bJames: Benvenuti nel nostro negozio."
+ },
+ {
+  "id": "\\rLet's do this!",
+  "en": "\\rLet's do this!",
+  "it": "\\rDiamoci dentro!"
+ },
+ {
+  "id": "\\rJessie: How can we help you?",
+  "en": "\\rJessie: How can we help you?",
+  "it": "\\rJessie: Come possiamo aiutarti?"
+ },
+ {
+  "id": "\\bWobbuffet!",
+  "en": "\\bWobbuffet!",
+  "it": "\\bWobbuffet!"
+ },
+ {
+  "id": "\\rCynda!",
+  "en": "\\rCynda!",
+  "it": "\\rCynda!"
+ },
+ {
+  "id": "\\bGood to see you \\PN. I'm one of Professor Oak's aides. He would like to see you as soon as possible.",
+  "en": "\\bGood to see you \\PN. I'm one of Professor Oak's aides. He would like to see you as soon as possible.",
+  "it": "\\bChe bello vederti, \\PN. Sono uno degli assistenti del Professor Oak. Vorrebbe vederti il prima possibile."
+ },
+ {
+  "id": "\\rI'm so ready for this. You don't stand a chance.",
+  "en": "\\rI'm so ready for this. You don't stand a chance.",
+  "it": "\\rSono prontissima. Non hai speranze."
+ },
+ {
+  "id": "\\bI could use some last minute practice. The Grand Festival is going to be tough.",
+  "en": "\\bI could use some last minute practice. The Grand Festival is going to be tough.",
+  "it": "\\bMi farebbe comodo un po' di allenamento dell'ultimo minuto. Il Grand Festival sarà dura."
+ },
+ {
+  "id": "\\bWait, is it over?",
+  "en": "\\bWait, is it over?",
+  "it": "\\bAspetta, è già finita?"
+ },
+ {
+  "id": "\\rThat shop looks shady to me.\\nWhat do you think?",
+  "en": "\\rThat shop looks shady to me.\\nWhat do you think?",
+  "it": "\\rQuel negozio mi sembra losco.\\nTu che ne pensi?"
+ },
+ {
+  "id": "\\bI need some more training before it starts.",
+  "en": "\\bI need some more training before it starts.",
+  "it": "\\bMi serve ancora un po' di allenamento prima che inizi."
+ },
+ {
+  "id": "Pacifidlog",
+  "en": "Pacifidlog",
+  "it": "Orocea"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Littleroot",
+  "en": "Littleroot",
+  "it": "Albanova"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

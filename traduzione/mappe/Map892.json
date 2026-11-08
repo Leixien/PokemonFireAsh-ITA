@@ -1,0 +1,522 @@
+[
+ {
+  "id": "\\bRockruff",
+  "en": "\\bRockruff",
+  "it": "\\bRockruff"
+ },
+ {
+  "id": "\\bLycan!",
+  "en": "\\bLycan!",
+  "it": "\\bLycan!"
+ },
+ {
+  "id": "Rotom: Good morning. Time to head to school.",
+  "en": "Rotom: Good morning. Time to head to school.",
+  "it": "Rotom: Buongiorno. È ora di andare a scuola."
+ },
+ {
+  "id": "\\bKukui: Welcome home, \\PN. I'm guessing a battle is what you're looking for.",
+  "en": "\\bKukui: Welcome home, \\PN. I'm guessing a battle is what you're looking for.",
+  "it": "\\bKukui: Bentornato a casa, \\PN. Immagino che tu stia cercando una lotta."
+ },
+ {
+  "id": "\\bKukui: Looking good, cousin.",
+  "en": "\\bKukui: Looking good, cousin.",
+  "it": "\\bKukui: Ti vedo in forma, cugino."
+ },
+ {
+  "id": "\\bKukui: Welcome back, cousin.",
+  "en": "\\bKukui: Welcome back, cousin.",
+  "it": "\\bKukui: Bentornato, cugino."
+ },
+ {
+  "id": "\\bLitten",
+  "en": "\\bLitten",
+  "it": "\\bLitten"
+ },
+ {
+  "id": "\\bTorracat",
+  "en": "\\bTorracat",
+  "it": "\\bTorracat"
+ },
+ {
+  "id": "\\bIncineroar",
+  "en": "\\bIncineroar",
+  "it": "\\bIncineroar"
+ },
+ {
+  "id": "\\bKukui: You're awake. I have some exciting news for you. Ula'ula Island's Island Kahuna has some free time for a challenger.",
+  "en": "\\bKukui: You're awake. I have some exciting news for you. Ula'ula Island's Island Kahuna has some free time for a challenger.",
+  "it": "\\bKukui: Sei sveglio. Ho una notizia entusiasmante per te. Il Kahuna dell'Isola di Ula'ula ha un po' di tempo libero per uno sfidante."
+ },
+ {
+  "id": "\\bHead over to the ship in Hau'oli. I'll inform the class on where you're going.",
+  "en": "\\bHead over to the ship in Hau'oli. I'll inform the class on where you're going.",
+  "it": "\\bVai alla nave a Hau'oli. Informerò io la classe su dove sei andato."
+ },
+ {
+  "id": "\\bKukui: I've got nothing for you today. Enjoy the day off.",
+  "en": "\\bKukui: I've got nothing for you today. Enjoy the day off.",
+  "it": "\\bKukui: Oggi non ho niente per te. Goditi la giornata libera."
+ },
+ {
+  "id": "Rotom Dex: Let's go visit Lillie.",
+  "en": "Rotom Dex: Let's go visit Lillie.",
+  "it": "Rotom Dex: Andiamo a trovare Lylia."
+ },
+ {
+  "id": "\\bKukui: I've got nothing for today. Get some rest.",
+  "en": "\\bKukui: I've got nothing for today. Get some rest.",
+  "it": "\\bKukui: Oggi non ho niente. Riposati un po'."
+ },
+ {
+  "id": "\\bKukui: Good job beating your trial.",
+  "en": "\\bKukui: Good job beating your trial.",
+  "it": "\\bKukui: Ottimo lavoro con la prova."
+ },
+ {
+  "id": "\\bKukui: Head over to Sophocles's house today.",
+  "en": "\\bKukui: Head over to Sophocles's house today.",
+  "it": "\\bKukui: Oggi vai a casa di Chrys."
+ },
+ {
+  "id": "\\bKukui: Time for bed.",
+  "en": "\\bKukui: Time for bed.",
+  "it": "\\bKukui: È ora di andare a letto."
+ },
+ {
+  "id": "\\bKukui: Hope you had fun in your hometown. Better get some sleep.",
+  "en": "\\bKukui: Hope you had fun in your hometown. Better get some sleep.",
+  "it": "\\bKukui: Spero che ti sia divertito nella tua città natale. Meglio che tu vada a dormire."
+ },
+ {
+  "id": "\\bKukui: You have a free day today. Do whatever you want.",
+  "en": "\\bKukui: You have a free day today. Do whatever you want.",
+  "it": "\\bKukui: Oggi hai la giornata libera. Fai quello che vuoi."
+ },
+ {
+  "id": "Rotom Dex: Let's explore the forest near the school!",
+  "en": "Rotom Dex: Let's explore the forest near the school!",
+  "it": "Rotom Dex: Esploriamo la foresta vicino alla scuola!"
+ },
+ {
+  "id": "\\bKukui: What you find there, cousin? I wish I could tell you, but I've never seen anything like it before.",
+  "en": "\\bKukui: What you find there, cousin? I wish I could tell you, but I've never seen anything like it before.",
+  "it": "\\bKukui: Cos'hai trovato lì, cugino? Vorrei potertelo dire, ma non ho mai visto niente del genere."
+ },
+ {
+  "id": "\\bWe'll take it to some professionals tomorrow.",
+  "en": "\\bWe'll take it to some professionals tomorrow.",
+  "it": "\\bDomani lo porteremo da qualche esperto."
+ },
+ {
+  "id": "\\bKukui: We'll take it to some professionals tomorrow.",
+  "en": "\\bKukui: We'll take it to some professionals tomorrow.",
+  "it": "\\bKukui: Domani lo porteremo da qualche esperto."
+ },
+ {
+  "id": "\\bKukui: What a fun day. Get some sleep cousin.",
+  "en": "\\bKukui: What a fun day. Get some sleep cousin.",
+  "it": "\\bKukui: Che giornata divertente. Fatti una dormita, cugino."
+ },
+ {
+  "id": "\\bKukui: It's good to see you're okay. I was worried. We can just do today's plans tomorrow.",
+  "en": "\\bKukui: It's good to see you're okay. I was worried.  We can just do today's plans tomorrow.",
+  "it": "\\bKukui: Sono contento di vedere che stai bene. Ero preoccupato.  Possiamo fare i programmi di oggi domani."
+ },
+ {
+  "id": "\\bKukui: It's good to see you're okay. I was worried. I guess we can just do today's plans tomorrow.",
+  "en": "\\bKukui: It's good to see you're okay. I was worried. I guess we can just do today's plans tomorrow.",
+  "it": "\\bKukui: Sono contento di vedere che stai bene. Ero preoccupato. Direi che possiamo fare i programmi di oggi domani."
+ },
+ {
+  "id": "\\bKukui: Today I want you to head back the the Aether Paradise. They have some news on Nebby.",
+  "en": "\\bKukui: Today I want you to head back the the Aether Paradise. They have some news on Nebby.",
+  "it": "\\bKukui: Oggi voglio che tu torni al Paradiso Aether. Hanno delle novità su Nebby."
+ },
+ {
+  "id": "\\bKukui: Lillie has already stopped by and told us her plan. We are all going to Poni Island to catch up with her. Head to the boat when you're ready.",
+  "en": "\\bKukui: Lillie has already stopped by and told us her plan. We are all going to Poni Island to catch up with her. Head to the boat when you're ready.",
+  "it": "\\bKukui: Lylia è già passata e ci ha raccontato il suo piano. Andiamo tutti sull'Isola di Poni a raggiungerla. Vai alla barca quando sei pronto."
+ },
+ {
+  "id": "\\bKukui: Good job \\PN. I hear everyone is safe now.",
+  "en": "\\bKukui: Good job \\PN. I hear everyone is safe now.",
+  "it": "\\bKukui: Ottimo lavoro, \\PN. Ho sentito che ora sono tutti al sicuro."
+ },
+ {
+  "id": "\\bKukui: Bit cold today, wasn't it? Well tomorrow is another day.",
+  "en": "\\bKukui: Bit cold today, wasn't it? Well tomorrow is another day.",
+  "it": "\\bKukui: Un po' freddo oggi, eh? Beh, domani è un altro giorno."
+ },
+ {
+  "id": "\\bKukui: Getting the Ultra Beast went well.",
+  "en": "\\bKukui: Getting the Ultra Beast went well.",
+  "it": "\\bKukui: La cattura dell'Ultracreatura è andata bene."
+ },
+ {
+  "id": "\\bKukui: I want you to go to the Royal Avenue today and experience their kind of battle firsthand. It's east of Paniola Ranch.",
+  "en": "\\bKukui: I want you to go to the Royal Avenue today and experience their kind of battle firsthand. It's east of Paniola Ranch.",
+  "it": "\\bKukui: Oggi voglio che tu vada al Viale Reale a provare di persona il loro tipo di lotta. Si trova a est del Ranch Paniola."
+ },
+ {
+  "id": "\\bKukui: What's did you think of that Masked Royal? What a strong Trainer.",
+  "en": "\\bKukui: What's did you think of that Masked Royal?  What a strong Trainer.",
+  "it": "\\bKukui: Che ne pensi di quel Reale Mascherato?  Che Allenatore forte."
+ },
+ {
+  "id": "\\bKukui: I heard there was an Ultra Beast wandering the island. See if you can't find it, Ultra Guardian.",
+  "en": "\\bKukui: I heard there was an Ultra Beast wandering the island. See if you can't find it, Ultra Guardian.",
+  "it": "\\bKukui: Ho sentito che un'Ultracreatura si aggira per l'isola. Vedi se riesci a trovarla, Ultraguardiano."
+ },
+ {
+  "id": "Rotom Dex: Using my scanner I found an unknown Pokémon inside the school!",
+  "en": "Rotom Dex: Using my scanner I found an unknown Pokémon inside the school!",
+  "it": "Rotom Dex: Con il mio scanner ho trovato un Pokémon sconosciuto dentro la scuola!"
+ },
+ {
+  "id": "\\bKukui: So you found it? Great job.",
+  "en": "\\bKukui: So you found it? Great job.",
+  "it": "\\bKukui: Quindi l'hai trovato? Ottimo lavoro."
+ },
+ {
+  "id": "Poipole!",
+  "en": "Poipole!",
+  "it": "Poipole!"
+ },
+ {
+  "id": "Rotom Dex: Let's head to the school.",
+  "en": "Rotom Dex: Let's head to the school.",
+  "it": "Rotom Dex: Andiamo a scuola."
+ },
+ {
+  "id": "\\bRow... let",
+  "en": "\\bRow... let",
+  "it": "\\bRow... let"
+ },
+ {
+  "id": "\\bKukui: Two Ultra Beasts have been seen in the area. I suggest you hurry up and get them.",
+  "en": "\\bKukui: Two Ultra Beasts have been seen in the area. I suggest you hurry up and get them.",
+  "it": "\\bKukui: Due Ultracreature sono state avvistate in zona. Ti consiglio di sbrigarti a prenderle."
+ },
+ {
+  "id": "Rotom Dex: My scanners say they are on Route 2.",
+  "en": "Rotom Dex: My scanners say they are on Route 2.",
+  "it": "Rotom Dex: Secondo i miei scanner sono sul Percorso 2."
+ },
+ {
+  "id": "\\bKukui: Alola! So you're \\PN. Glad to have you on board.",
+  "en": "\\bKukui: Alola! So you're \\PN. Glad to have you on board.",
+  "it": "\\bKukui: Alola! Quindi sei tu \\PN. Felice di averti a bordo."
+ },
+ {
+  "id": "\\bThis is my home. Let me show you around a little.",
+  "en": "\\bThis is my home. Let me show you around a little.",
+  "it": "\\bQuesta è casa mia. Lascia che ti mostri un po' in giro."
+ },
+ {
+  "id": "\\bThat there is Rockruff. It's a friendly guy who I'm sure you'll grow to love.",
+  "en": "\\bThat there is Rockruff. It's a friendly guy who I'm sure you'll grow to love.",
+  "it": "\\bQuello lì è Rockruff. È un tipo socievole, sono sicuro che imparerai ad adorarlo."
+ },
+ {
+  "id": "\\bRockruff!",
+  "en": "\\bRockruff!",
+  "it": "\\bRockruff!"
+ },
+ {
+  "id": "\\bOh right, your bed is the one closest to the door.",
+  "en": "\\bOh right, your bed is the one closest to the door.",
+  "it": "\\bAh, giusto, il tuo letto è quello più vicino alla porta."
+ },
+ {
+  "id": "\\bThis is a Rotom Dex. I figured it would be a nice companion for you to have while you're here. Enjoy it.",
+  "en": "\\bThis is a Rotom Dex. I figured it would be a nice companion for you to have while you're here. Enjoy it.",
+  "it": "\\bQuesto è un Rotom Dex. Ho pensato che sarebbe stato un bel compagno da avere mentre sei qui. Divertiti."
+ },
+ {
+  "id": "It's a Pokédex.",
+  "en": "It's a Pokédex.",
+  "it": "È un Pokédex."
+ },
+ {
+  "id": "Rotom: Hello there \\PN. Nice to meet you. I look forward to our adventures together.",
+  "en": "Rotom: Hello there \\PN. Nice to meet you. I look forward to our adventures together.",
+  "it": "Rotom: Ciao \\PN. Piacere di conoscerti. Non vedo l'ora di vivere tante avventure insieme."
+ },
+ {
+  "id": "You got the Rotom Pokédex.\\me[Item get]\\wtnp[40]",
+  "en": "You got the Rotom Pokédex.\\me[Item get]\\wtnp[40]",
+  "it": "Hai ottenuto il Rotom Pokédex.\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "Meltan",
+  "en": "Meltan",
+  "it": "Meltan"
+ },
+ {
+  "id": "Melmetal",
+  "en": "Melmetal",
+  "it": "Melmetal"
+ },
+ {
+  "id": "Rotom Dex: You're awake. Let's go to the market in Hau'oli City.",
+  "en": "Rotom Dex: You're awake. Let's go to the market in Hau'oli City.",
+  "it": "Rotom Dex: Sei sveglio. Andiamo al mercato di Hau'oli."
+ },
+ {
+  "id": "\\bKukui: Let's go meet your classmates now that you have Rotom.",
+  "en": "\\bKukui: Let's go meet your classmates now that you have Rotom.",
+  "it": "\\bKukui: Ora che hai Rotom, andiamo a conoscere i tuoi compagni di classe."
+ },
+ {
+  "id": "\\bKukui: It's been a fun day. Better get some rest.",
+  "en": "\\bKukui: It's been a fun day. Better get some rest.",
+  "it": "\\bKukui: È stata una giornata divertente. Meglio che ti riposi."
+ },
+ {
+  "id": "\\bKukui: For today I have a different assignment for you. I want you to go meet up with Lana in Hau'oli City. She's going to take you fishing.",
+  "en": "\\bKukui: For today I have a different assignment for you. I want you to go meet up with Lana in Hau'oli City. She's going to take you fishing. ",
+  "it": "\\bKukui: Oggi ho un compito diverso per te. Voglio che tu vada a incontrare Suiren a Hau'oli. Ti porterà a pescare. "
+ },
+ {
+  "id": "\\bKukui: Seems like you had a fun day. I've got something fun for you tomorrow so get some sleep.",
+  "en": "\\bKukui: Seems like you had a fun day. I've got something fun for you tomorrow so get some sleep.",
+  "it": "\\bKukui: Sembra che tu ti sia divertito oggi. Domani ho in serbo qualcosa di divertente per te, quindi vai a dormire."
+ },
+ {
+  "id": "\\bKukui: For today I want you to meet up with Sophocles. He'll be in the shopping mall.",
+  "en": "\\bKukui: For today I want you to meet up with Sophocles. He'll be in the shopping mall.",
+  "it": "\\bKukui: Oggi voglio che tu vada a incontrare Chrys. Sarà al centro commerciale."
+ },
+ {
+  "id": "\\bKukui: Get some sleep \\PN.",
+  "en": "\\bKukui: Get some sleep \\PN.",
+  "it": "\\bKukui: Fatti una dormita, \\PN."
+ },
+ {
+  "id": "\\bKukui: I'm guessing you won. Great job cousin! I knew you could do it.",
+  "en": "\\bKukui: I'm guessing you won. Great job cousin! I knew you could do it.",
+  "it": "\\bKukui: Immagino che tu abbia vinto. Ottimo lavoro, cugino! Sapevo che ce l'avresti fatta."
+ },
+ {
+  "id": "\\bRockruff has been excited ever since you left. I think it wants to join your team. I'd be fine letting the litte guy go with you.",
+  "en": "\\bRockruff has been excited ever since you left. I think it wants to join your team. I'd be fine letting the litte guy go with you.",
+  "it": "\\bRockruff è agitatissimo da quando sei uscito. Credo che voglia unirsi alla tua squadra. Per me non c'è problema se il piccoletto viene con te."
+ },
+ {
+  "id": "\\bTomorrow's another day though. Be sure to get some rest.",
+  "en": "\\bTomorrow's another day though. Be sure to get some rest.",
+  "it": "\\bComunque domani è un altro giorno. Assicurati di riposare."
+ },
+ {
+  "id": "\\bKukui: Tomorrow's another day though. Be sure to get some rest.",
+  "en": "\\bKukui: Tomorrow's another day though. Be sure to get some rest.",
+  "it": "\\bKukui: Comunque domani è un altro giorno. Assicurati di riposare."
+ },
+ {
+  "id": "\\bKukui: Head over to Lillie's today. After that I want you to meet with Kiawe at the school.",
+  "en": "\\bKukui: Head over to Lillie's today. After that I want you to meet with Kiawe at the school.",
+  "it": "\\bKukui: Oggi vai da Lylia. Dopo voglio che tu incontri Kiawe a scuola."
+ },
+ {
+  "id": "\\bKukui: Have fun today? I've got another fun day planned for you tomorrow.",
+  "en": "\\bKukui: Have fun today? I've got another fun day planned for you tomorrow.",
+  "it": "\\bKukui: Ti sei divertito oggi? Anche per domani ho in programma una giornata divertente."
+ },
+ {
+  "id": "\\bKukui: Today I want you to meet with Mallow on Route 3.",
+  "en": "\\bKukui: Today I want you to meet with Mallow on Route 3.",
+  "it": "\\bKukui: Oggi voglio che tu incontri Ibis sul Percorso 3."
+ },
+ {
+  "id": "\\bKukui: Have a fun day? I hope so. I was wondering if you noticed the Litten that's been wandering the island?",
+  "en": "\\bKukui: Have a fun day? I hope so. I was wondering if you noticed the Litten that's been wandering the island?",
+  "it": "\\bKukui: Bella giornata? Spero di sì. Mi chiedevo se avessi notato il Litten che gironzola per l'isola."
+ },
+ {
+  "id": "\\bMight be a good idea to talk to it. Maybe you can cheer it up.",
+  "en": "\\bMight be a good idea to talk to it. Maybe you can cheer it up.",
+  "it": "\\bPotrebbe essere una buona idea parlarci. Magari riesci a tirarlo su di morale."
+ },
+ {
+  "id": "\\bKukui: Have a fun day? I hope so. I was wondering if you noticed the Litten that's been wondering the island?",
+  "en": "\\bKukui: Have a fun day? I hope so. I was wondering if you noticed the Litten that's been wondering the island?",
+  "it": "\\bKukui: Bella giornata? Spero di sì. Mi chiedevo se avessi notato il Litten che vaga per l'isola."
+ },
+ {
+  "id": "\\bKukui: You beat the gym. I'm not even surprised.",
+  "en": "\\bKukui: You beat the gym. I'm not even surprised.",
+  "it": "\\bKukui: Hai battuto la Palestra. Non sono nemmeno sorpreso."
+ },
+ {
+  "id": "\\bKukui: Glad you're awake. There's been another Ultra Beast sighting on the island. I'd check in Hau'oli City this time.",
+  "en": "\\bKukui: Glad you're awake. There's been another Ultra Beast sighting on the island. I'd check in Hau'oli City this time.",
+  "it": "\\bKukui: Meno male che sei sveglio. C'è stato un altro avvistamento di Ultracreature sull'isola. Stavolta controllerei a Hau'oli."
+ },
+ {
+  "id": "\\bKukui: Welcome back, Champion.",
+  "en": "\\bKukui: Welcome back, Champion.",
+  "it": "\\bKukui: Bentornato, Campione."
+ },
+ {
+  "id": "\\rBurnet: How are you doing \\PN? I hope it's not a problem that I moved in with my husband.",
+  "en": "\\rBurnet: How are you doing \\PN? I hope it's not a problem that I moved in with my husband.",
+  "it": "\\rMagnolia: Come stai, \\PN? Spero non sia un problema che mi sia trasferita da mio marito."
+ },
+ {
+  "id": "\\rBurnet: How are you doing \\PN? It's good to see you again.",
+  "en": "\\rBurnet: How are you doing \\PN? It's good to see you again.",
+  "it": "\\rMagnolia: Come stai, \\PN? È bello rivederti."
+ },
+ {
+  "id": "\\rBurnet: How are you doing \\PN? Kukui and the Pokémon here are doing well. Our son, Lei, should be happy to see you.",
+  "en": "\\rBurnet: How are you doing \\PN? Kukui and the Pokémon here are doing well. Our son, Lei, should be happy to see you.",
+  "it": "\\rMagnolia: Come stai, \\PN? Kukui e i Pokémon qui stanno bene. Nostro figlio Lei sarà felice di vederti."
+ },
+ {
+  "id": "Rockruff wants to join you. Would you like to take it with you?",
+  "en": "Rockruff wants to join you. Would you like to take it with you?",
+  "it": "Rockruff vuole unirsi a te. Vuoi portarlo con te?"
+ },
+ {
+  "id": "\\bKukui: Oh...is it morning already. Sorry, I'm just so tired. Why don't you head to the school without me.",
+  "en": "\\bKukui: Oh...is it morning already. Sorry, I'm just so tired. Why don't you head to the school without me.",
+  "it": "\\bKukui: Oh... è già mattina? Scusa, sono stanchissimo. Perché non vai a scuola senza di me?"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Kalos,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Kalos,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unima,Kalos,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Kalos,Galar,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Kalos,Galar,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unima,Kalos,Galar,Annulla]"
+ },
+ {
+  "id": "Rotom Dex: I just got information about another Ultra Beast sighting. Let's go to Route 3.",
+  "en": "Rotom Dex: I just got information about another Ultra Beast sighting. Let's go to Route 3.",
+  "it": "Rotom Dex: Ho appena ricevuto notizie di un altro avvistamento di Ultracreature. Andiamo al Percorso 3."
+ },
+ {
+  "id": "\\rMunch...",
+  "en": "\\rMunch...",
+  "it": "\\rGnam..."
+ },
+ {
+  "id": "Rotom: Good morning. Let's go for a walk in the woods today.",
+  "en": "Rotom: Good morning. Let's go for a walk in the woods today.",
+  "it": "Rotom: Buongiorno. Oggi andiamo a fare una passeggiata nel bosco."
+ },
+ {
+  "id": "\\bKukui: Good morning \\PN. For today I've got a fun lesson plan for you.",
+  "en": "\\bKukui: Good morning \\PN. For today I've got a fun lesson plan for you.",
+  "it": "\\bKukui: Buongiorno, \\PN. Per oggi ho in serbo una lezione divertente per te."
+ },
+ {
+  "id": "Cosmog!",
+  "en": "Cosmog!",
+  "it": "Cosmog!"
+ },
+ {
+  "id": "\\bKukui: What the?!",
+  "en": "\\bKukui: What the?!",
+  "it": "\\bKukui: Ma che...?!"
+ },
+ {
+  "id": "Rotom Dex: It looks like Nebby teleported us! I wonder where we are?",
+  "en": "Rotom Dex: It looks like Nebby teleported us! I wonder where we are?",
+  "it": "Rotom Dex: Sembra che Nebby ci abbia teletrasportati! Chissà dove siamo?"
+ },
+ {
+  "id": "Your Pokémon were fully healed.",
+  "en": "Your Pokémon were fully healed.",
+  "it": "I tuoi Pokémon sono stati curati completamente."
+ },
+ {
+  "id": "\\bKukui: Great news \\PN! We finally fixed the bridge next to the school. That means you can challenge the island trials on this island.",
+  "en": "\\bKukui: Great news \\PN! We finally fixed the bridge next to the school. That means you can challenge the island trials on this island.",
+  "it": "\\bKukui: Ottime notizie, \\PN! Finalmente abbiamo riparato il ponte vicino alla scuola. Significa che puoi affrontare le prove di quest'isola."
+ },
+ {
+  "id": "\\bThey are kind of similar to gym battles, but distinct. Speak to Hala in the next town over. He will fill you in on the details.",
+  "en": "\\bThey are kind of similar to gym battles, but distinct.  Speak to Hala in the next town over. He will fill you in on the details.",
+  "it": "\\bSono un po' simili alle lotte in Palestra, ma diverse.  Parla con Hala nel paese qui accanto. Ti spiegherà tutti i dettagli."
+ },
+ {
+  "id": "\\bSpeak to Hala in the next town over. He will fill you in on the details.",
+  "en": "\\bSpeak to Hala in the next town over. He will fill you in on the details.",
+  "it": "\\bParla con Hala nel paese qui accanto. Ti spiegherà tutti i dettagli."
+ },
+ {
+  "id": "\\bKukui: There's an Ultra Beast on Route 3.",
+  "en": "\\bKukui: There's an Ultra Beast on Route 3.",
+  "it": "\\bKukui: C'è un'Ultracreatura sul Percorso 3."
+ },
+ {
+  "id": "\\bKukui: Did you have fun today?",
+  "en": "\\bKukui: Did you have fun today?",
+  "it": "\\bKukui: Ti sei divertito oggi?"
+ },
+ {
+  "id": "\\bKukui: Head over to the ship in Hau'oli. I'll inform the class on where you're going.",
+  "en": "\\bKukui: Head over to the ship in Hau'oli. I'll inform the class on where you're going.",
+  "it": "\\bKukui: Vai alla nave a Hau'oli. Informerò io la classe su dove sei andato."
+ },
+ {
+  "id": "\\bKukui: That's already your third win. Just one more to go!",
+  "en": "\\bKukui: That's already your third win. Just one more to go!",
+  "it": "\\bKukui: È già la tua terza vittoria. Ne manca solo una!"
+ },
+ {
+  "id": "\\bKukui: Good job. Now that that's taken care of, I want to take everyone to Hokulani Observatory.",
+  "en": "\\bKukui: Good job. Now that that's taken care of, I want to take everyone to Hokulani Observatory. ",
+  "it": "\\bKukui: Ottimo lavoro. Ora che questa è sistemata, voglio portare tutti all'Osservatorio di Hokulani. "
+ },
+ {
+  "id": "\\bLet's head to the ship and go to Mount Lanakila. Everyone else got a head start while you were busy.",
+  "en": "\\bLet's head to the ship and go to Mount Lanakila.  Everyone else got a head start while you were busy.",
+  "it": "\\bAndiamo alla nave e dirigiamoci al Monte Lanakila.  Gli altri sono partiti in anticipo mentre eri impegnato."
+ },
+ {
+  "id": "\\bKukui: You're back. The Masked Royal wants to have a battle with you. He told me to tell you to meet him at the Royal Avenue Battle Dome.",
+  "en": "\\bKukui: You're back. The Masked Royal wants to have a battle with you. He told me to tell you to meet him at the Royal Avenue Battle Dome.",
+  "it": "\\bKukui: Sei tornato. Il Reale Mascherato vuole lottare con te. Mi ha detto di dirti di raggiungerlo alla Cupola Lotta del Viale Reale."
+ },
+ {
+  "id": "\\bHow do I know the Masked Royal? Um, we go way back.",
+  "en": "\\bHow do I know the Masked Royal? Um, we go way back.",
+  "it": "\\bCome faccio a conoscere il Reale Mascherato? Ehm, ci conosciamo da una vita."
+ },
+ {
+  "id": "\\bKukui: I heard you did good in your battle. Wish I could have been there.",
+  "en": "\\bKukui: I heard you did good in your battle. Wish I could have been there.",
+  "it": "\\bKukui: Ho sentito che te la sei cavata bene nella lotta. Avrei voluto esserci."
+ },
+ {
+  "id": "\\bKukui: So you found it?",
+  "en": "\\bKukui: So you found it?",
+  "it": "\\bKukui: Quindi l'hai trovato?"
+ },
+ {
+  "id": "\\bKukui: Boy, do I feel a lot better. What a long day, eh cousin?",
+  "en": "\\bKukui: Boy, do I feel a lot better. What a long day, eh cousin?",
+  "it": "\\bKukui: Accidenti, mi sento molto meglio. Che giornata lunga, eh cugino?"
+ },
+ {
+  "id": "\\bKukui: Your last trial is over at last. You must feel proud.",
+  "en": "\\bKukui: Your last trial is over at last. You must feel proud.",
+  "it": "\\bKukui: La tua ultima prova è finalmente conclusa. Sarai fiero di te."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

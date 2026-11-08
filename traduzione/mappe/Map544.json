@@ -1,0 +1,137 @@
+[
+ {
+  "id": "\\bPlease speak to Allister.",
+  "en": "\\bPlease speak to Allister.",
+  "it": "\\bPer favore, parla con Onion."
+ },
+ {
+  "id": "\\rLeave our leader alone.",
+  "en": "\\rLeave our leader alone.",
+  "it": "\\rLascia in pace il nostro Capopalestra."
+ },
+ {
+  "id": "\\rHe doesn't like to be disturbed.",
+  "en": "\\rHe doesn't like to be disturbed.",
+  "it": "\\rNon gli piace essere disturbato."
+ },
+ {
+  "id": "\\bI guess this could be good.",
+  "en": "\\bI guess this could be good.",
+  "it": "\\bForse potrebbe andare bene."
+ },
+ {
+  "id": "\\bYou're pretty good.",
+  "en": "\\bYou're pretty good.",
+  "it": "\\bSei piuttosto bravo."
+ },
+ {
+  "id": "\\rAre you here for a challenge?",
+  "en": "\\rAre you here for a challenge?",
+  "it": "\\rSei qui per una sfida?"
+ },
+ {
+  "id": "\\rYou're quite the Trainer.",
+  "en": "\\rYou're quite the Trainer.",
+  "it": "\\rSei proprio un ottimo Allenatore."
+ },
+ {
+  "id": "\\bBea uses Fighting type Pokémon. They are weak aganst the Flying, Psychic, and Fairy types.",
+  "en": "\\bBea uses Fighting type Pokémon. They are weak aganst the Flying, Psychic, and Fairy types.",
+  "it": "\\bFabia usa Pokémon di tipo Lotta. Sono deboli contro i tipi Volante, Psico e Folletto."
+ },
+ {
+  "id": "\\bThey are strong against Normal, Ice, Dark, Rock, and Steel. They are resistant to Bug, Dark, and Rock.",
+  "en": "\\bThey are strong against Normal, Ice, Dark, Rock, and Steel. They are resistant to Bug, Dark, and Rock.",
+  "it": "\\bSono superefficaci contro Normale, Ghiaccio, Buio, Roccia e Acciaio. Resistono a Coleottero, Buio e Roccia."
+ },
+ {
+  "id": "\\bAllister uses Ghost type Pokémon. They are weak aganst the Dark and Ghost types.",
+  "en": "\\bAllister uses Ghost type Pokémon. They are weak aganst the Dark and Ghost types.",
+  "it": "\\bOnion usa Pokémon di tipo Spettro. Sono deboli contro i tipi Buio e Spettro."
+ },
+ {
+  "id": "\\bThey are strong against Ghost and Psychic. They are resistant to Bug and Poison and are immune to Normal and Fighting types.",
+  "en": "\\bThey are strong against Ghost and Psychic. They are resistant to Bug and Poison and are immune to Normal and Fighting types. ",
+  "it": "\\bSono superefficaci contro Spettro e Psico. Resistono a Coleottero e Veleno e sono immuni ai tipi Normale e Lotta. "
+ },
+ {
+  "id": "\\rWhat are you doing? Get out.",
+  "en": "\\rWhat are you doing? Get out.",
+  "it": "\\rChe fai? Fuori di qui."
+ },
+ {
+  "id": "\\rAllister is a kind soul.",
+  "en": "\\rAllister is a kind soul.",
+  "it": "\\rOnion è un animo gentile."
+ },
+ {
+  "id": "\\bDon't blame me if you get hurt.",
+  "en": "\\bDon't blame me if you get hurt.",
+  "it": "\\bNon prendertela con me se ti fai male."
+ },
+ {
+  "id": "\\bThe bear I had? Mind your buisness.",
+  "en": "\\bThe bear I had? Mind your buisness.",
+  "it": "\\bL'orso che avevo? Fatti gli affari tuoi."
+ },
+ {
+  "id": "\\rYou're making too much noise.",
+  "en": "\\rYou're making too much noise.",
+  "it": "\\rStai facendo troppo rumore."
+ },
+ {
+  "id": "\\rMake sure to lower your voice.",
+  "en": "\\rMake sure to lower your voice.",
+  "it": "\\rVedi di abbassare la voce."
+ },
+ {
+  "id": "\\bThis way leads to the battlefield. There's no battle scheduled right now.",
+  "en": "\\bThis way leads to the battlefield. There's no battle scheduled right now.",
+  "it": "\\bDi qui si va al campo di lotta. Al momento non è in programma nessun incontro."
+ },
+ {
+  "id": "\\bAre you ready to battle?",
+  "en": "\\bAre you ready to battle?",
+  "it": "\\bSei pronto a lottare?"
+ },
+ {
+  "id": "\\bWe take training here seriously. You won't catch us slaking off like that Ghost Gym.",
+  "en": "\\bWe take training here seriously. You won't catch us slaking off like that Ghost Gym.",
+  "it": "\\bQui l'allenamento lo prendiamo sul serio. Non ci vedrai mai battere la fiacca come in quella Palestra Spettro."
+ },
+ {
+  "id": "\\bGhost-types are still good. Don't get me wrong.",
+  "en": "\\bGhost-types are still good. Don't get me wrong.",
+  "it": "\\bI tipi Spettro restano validi, sia chiaro."
+ },
+ {
+  "id": "\\bAllister:... T-Thank you for coming. You... take this.",
+  "en": "\\bAllister:... T-Thank you for coming. You... take this.",
+  "it": "\\bOnion:... G-Grazie di essere venuto. Tu... prendi questo."
+ },
+ {
+  "id": "\\bAllister:That item... It helps you Gigantamax. Talk to... him if you want more.",
+  "en": "\\bAllister:That item... It helps you Gigantamax. Talk to... him if you want more.",
+  "it": "\\bOnion:Quello strumento... Ti aiuta a usare il Gigamax. Parla con... lui se ne vuoi altri."
+ },
+ {
+  "id": "\\bLet's pound fists.",
+  "en": "\\bLet's pound fists.",
+  "it": "\\bBattiamo i pugni."
+ },
+ {
+  "id": "\\bCrush it!",
+  "en": "\\bCrush it!",
+  "it": "\\bSpacca tutto!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

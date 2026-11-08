@@ -1,0 +1,72 @@
+[
+ {
+  "id": "\\bOh, hello. I'm a scientist.",
+  "en": "\\bOh, hello. I'm a scientist.",
+  "it": "\\bOh, ciao. Sono uno scienziato."
+ },
+ {
+  "id": "\\bI can turn fossils into living, breathing Pokémon!",
+  "en": "\\bI can turn fossils into living, breathing Pokémon!",
+  "it": "\\bPosso trasformare i fossili in Pokémon vivi e vegeti!"
+ },
+ {
+  "id": "\\bAiyah! You come again!",
+  "en": "\\bAiyah! You come again!",
+  "it": "\\bAiyah! Tu tornato di nuovo!"
+ },
+ {
+  "id": "<c2=6546675A>Do you have a fossil for me to revive?",
+  "en": "<c2=6546675A>Do you have a fossil for me to revive?",
+  "it": "<c2=6546675A>Hai un fossile da farmi rigenerare?"
+ },
+ {
+  "id": "\\bLet me know when you want me to revive a fossil for you.",
+  "en": "\\bLet me know when you want me to revive a fossil for you.",
+  "it": "\\bFammi sapere quando vuoi che ti rigeneri un fossile."
+ },
+ {
+  "id": "\\bOkay. I'll see if I can revive your \\v[3].",
+  "en": "\\bOkay. I'll see if I can revive your \\v[3].",
+  "it": "\\bD'accordo. Vedrò se riesco a rigenerare il tuo \\v[3]."
+ },
+ {
+  "id": "\\bCome back later.",
+  "en": "\\bCome back later.",
+  "it": "\\bTorna più tardi."
+ },
+ {
+  "id": "\\bWhere have you been? I've finished reviving your fossil.",
+  "en": "\\bWhere have you been?  I've finished reviving your fossil.",
+  "it": "\\bDove ti eri cacciato?  Ho finito di rigenerare il tuo fossile."
+ },
+ {
+  "id": "\\bIt was \\v[3] like I thought.",
+  "en": "\\bIt was \\v[3] like I thought.",
+  "it": "\\bEra un \\v[3], proprio come pensavo."
+ },
+ {
+  "id": "\\bYou have no room left. Make room, then come see me.",
+  "en": "\\bYou have no room left.  Make room, then come see me.",
+  "it": "\\bNon hai più spazio.  Fai spazio, poi torna da me."
+ },
+ {
+  "id": "\\bI managed to revive your fossil.",
+  "en": "\\bI managed to revive your fossil.",
+  "it": "\\bSono riuscito a rigenerare il tuo fossile."
+ },
+ {
+  "id": "\\bHowever, what I brought back didn't live long...\\1 fortunately.",
+  "en": "\\bHowever, what I brought back didn't live long...\\1 fortunately.",
+  "it": "\\bPerò, quello che ho riportato in vita non è vissuto a lungo...\\1 per fortuna."
+ },
+ {
+  "id": "\\bSorry.",
+  "en": "\\bSorry.",
+  "it": "\\bMi dispiace."
+ },
+ {
+  "id": "\\bI told you, come back later.",
+  "en": "\\bI told you, come back later.",
+  "it": "\\bTe l'ho detto, torna più tardi."
+ }
+]

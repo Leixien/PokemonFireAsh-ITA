@@ -1,0 +1,162 @@
+[
+ {
+  "id": "......\\wt[5] ......",
+  "en": "......\\wt[5] ......",
+  "it": "......\\wt[5] ......"
+ },
+ {
+  "id": "Hello, \\PN!\\nI can see you calling me over there!",
+  "en": "Hello, \\PN!\\nI can see you calling me over there!",
+  "it": "Ciao, \\PN!\\nTi vedo che mi chiami da laggiù!"
+ },
+ {
+  "id": "Come over and talk to me.",
+  "en": "Come over and talk to me.",
+  "it": "Vieni qui a parlarmi."
+ },
+ {
+  "id": "Hello, this is Professor Oak...\\nOh, hello, \\PN!",
+  "en": "Hello, this is Professor Oak...\\nOh, hello, \\PN!",
+  "it": "Pronto, sono il Professor Oak...\\nOh, ciao, \\PN!"
+ },
+ {
+  "id": "So, how's your Pokédex coming along?",
+  "en": "So, how's your Pokédex coming along?",
+  "it": "Allora, come procede il tuo Pokédex?"
+ },
+ {
+  "id": "Hmm, let's see..\\nYou've seen \\v[1] Pokémon, and \\nyou've caught \\v[2] Pokémon!\\nI see!",
+  "en": "Hmm, let's see..\\nYou've seen \\v[1] Pokémon, and \\nyou've caught \\v[2] Pokémon!\\nI see!",
+  "it": "Mmh, vediamo...\\nHai visto \\v[1] Pokémon e \\nne hai catturati \\v[2]!\\nCapisco!"
+ },
+ {
+  "id": "Hmm, you still have a long journey ahead of you! \\nKeep on going!",
+  "en": "Hmm, you still have a long journey ahead of you! \\nKeep on going!",
+  "it": "Mmh, hai ancora un lungo viaggio davanti a te! \\nContinua così!"
+ },
+ {
+  "id": "Hmm, you're catching Pokémon at a decent pace!",
+  "en": "Hmm, you're catching Pokémon at a decent pace!",
+  "it": "Mmh, stai catturando Pokémon a un buon ritmo!"
+ },
+ {
+  "id": "You've caught a lot of Pokémon, but make sure you're raising them carefully!",
+  "en": "You've caught a lot of Pokémon, but make sure you're raising them carefully!",
+  "it": "Hai catturato tanti Pokémon, ma assicurati di allevarli con cura!"
+ },
+ {
+  "id": "I didn't even know that many Pokémon existed!",
+  "en": "I didn't even know that many Pokémon existed!",
+  "it": "Non sapevo nemmeno che esistessero così tanti Pokémon!"
+ },
+ {
+  "id": "Show me your Pokédex again anytime!",
+  "en": "Show me your Pokédex again anytime!",
+  "it": "Mostrami di nuovo il tuo Pokédex quando vuoi!"
+ },
+ {
+  "id": "Show me your Pokédex anytime!",
+  "en": "Show me your Pokédex anytime!",
+  "it": "Mostrami il tuo Pokédex quando vuoi!"
+ },
+ {
+  "id": "Click!\\wt[10]\\n......\\wt[5] ......",
+  "en": "Click!\\wt[10]\\n......\\wt[5] ......",
+  "it": "Clic!\\wt[10]\\n......\\wt[5] ......"
+ },
+ {
+  "id": "\\bDo you want me to stop following you?",
+  "en": "\\bDo you want me to stop following you?",
+  "it": "\\bVuoi che smetta di seguirti?"
+ },
+ {
+  "id": "\\bI'll stay here, then.",
+  "en": "\\bI'll stay here, then.",
+  "it": "\\bAllora resterò qui."
+ },
+ {
+  "id": "\\bLet's keep going!",
+  "en": "\\bLet's keep going!",
+  "it": "\\bAndiamo avanti!"
+ },
+ {
+  "id": "\\bPaul: I can't believe how weak it was. I'm getting rid of it now.",
+  "en": "\\bPaul: I can't believe how weak it was. I'm getting rid of it now.",
+  "it": "\\bPaul: Non posso credere che fosse così debole. Me ne libero subito."
+ },
+ {
+  "id": "\\bPaul: What a worthless prize. You can take it. I have no need for it.",
+  "en": "\\bPaul: What a worthless prize. You can take it. I have no need for it.",
+  "it": "\\bPaul: Che premio inutile. Prendilo pure tu. A me non serve."
+ },
+ {
+  "id": "\\bCilan: That was wonderful. We should do it again sometime.",
+  "en": "\\bCilan: That was wonderful. We should do it again sometime.",
+  "it": "\\bSpighetto: È stato meraviglioso. Dovremmo rifarlo, prima o poi."
+ },
+ {
+  "id": "Melo...",
+  "en": "Melo...",
+  "it": "Melo..."
+ },
+ {
+  "id": "\\rLana: Thanks again for the help.",
+  "en": "\\rLana: Thanks again for the help.",
+  "it": "\\rSuiren: Grazie ancora per l'aiuto."
+ },
+ {
+  "id": "Cosmog...",
+  "en": "Cosmog...",
+  "it": "Cosmog..."
+ },
+ {
+  "id": "Rotom Dex: Nebby was taken! After him!",
+  "en": "Rotom Dex: Nebby was taken! After him!",
+  "it": "Rotom Dex: Hanno preso Nebby! Inseguiamoli!"
+ },
+ {
+  "id": "\\bKiawe: That was great.",
+  "en": "\\bKiawe: That was great.",
+  "it": "\\bKiawe: È stato grandioso."
+ },
+ {
+  "id": "\\bSophocles: That was fun.",
+  "en": "\\bSophocles: That was fun.",
+  "it": "\\bChrys: Che divertimento."
+ },
+ {
+  "id": "\\bMasked Royal: This has been a blast!",
+  "en": "\\bMasked Royal: This has been a blast!",
+  "it": "\\bReale Mascherato: È stato uno spasso!"
+ },
+ {
+  "id": "\\rCynthia: Thank you for helping, \\PN.",
+  "en": "\\rCynthia: Thank you for helping, \\PN.",
+  "it": "\\rCamilla: Grazie per l'aiuto, \\PN."
+ },
+ {
+  "id": "\\bGladion: That was a fantastic battle.",
+  "en": "\\bGladion: That was a fantastic battle.",
+  "it": "\\bIridio: È stata una lotta fantastica."
+ },
+ {
+  "id": "Evaluate Pokédex",
+  "en": "Evaluate Pokédex",
+  "it": "Valuta Pokédex"
+ },
+ {
+  "id": "Quit",
+  "en": "Quit",
+  "it": "Esci"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,197 @@
+[
+ {
+  "id": "\\bAfter spending years in this town I decided to help out and teach the move, Endure.",
+  "en": "\\bAfter spending years in this town I decided to help out and teach the move, Endure.",
+  "it": "\\bDopo aver passato anni in questa città ho deciso di rendermi utile insegnando la mossa Resistenza."
+ },
+ {
+  "id": "\\bI can teach it to you if you want?",
+  "en": "\\bI can teach it to you if you want?",
+  "it": "\\bPosso insegnartela, se vuoi."
+ },
+ {
+  "id": "\\bWhich Pokémon would you like me to teach?",
+  "en": "\\bWhich Pokémon would you like me to teach?",
+  "it": "\\bA quale Pokémon vuoi che la insegni?"
+ },
+ {
+  "id": "\\bCome back anytime!",
+  "en": "\\bCome back anytime!",
+  "it": "\\bTorna quando vuoi!"
+ },
+ {
+  "id": "\\rDawn: \\PN, are you going to enter a Contest too? Looks like we can share our first time.",
+  "en": "\\rDawn: \\PN, are you going to enter a Contest too?  Looks like we can share our first time.",
+  "it": "\\rLucinda: \\PN, anche tu partecipi a una Gara?  Sembra che vivremo insieme la nostra prima volta."
+ },
+ {
+  "id": "\\rNo need to worry. I won't be upset if you beat me.",
+  "en": "\\rNo need to worry. I won't be upset if you beat me.",
+  "it": "\\rNon preoccuparti. Non me la prenderò se mi batti."
+ },
+ {
+  "id": "\\rWelcome. You're just in time to enter our Contest.",
+  "en": "\\rWelcome. You're just in time to enter our Contest.",
+  "it": "\\rBenvenuto. Sei appena in tempo per iscriverti alla nostra Gara."
+ },
+ {
+  "id": "\\rOh, you don't have a pass. Here, let me give you one.",
+  "en": "\\rOh, you don't have a pass. Here, let me give you one.",
+  "it": "\\rOh, non hai una tessera. Ecco, lascia che te ne dia una."
+ },
+ {
+  "id": "\\rThat will allow you to enter Contests in all of Sinnoh. Come talk to me again if you'd like to enter.",
+  "en": "\\rThat will allow you to enter Contests in all of Sinnoh. Come talk to me again if you'd like to enter.",
+  "it": "\\rTi permetterà di partecipare alle Gare in tutta Sinnoh. Torna a parlarmi se vuoi iscriverti."
+ },
+ {
+  "id": "\\rWelcome. You're just in time to enter our Contest. Are you ready?",
+  "en": "\\rWelcome. You're just in time to enter our Contest.  Are you ready?",
+  "it": "\\rBenvenuto. Sei appena in tempo per iscriverti alla nostra Gara. Sei pronto?"
+ },
+ {
+  "id": "\\rPlease come again.",
+  "en": "\\rPlease come again.",
+  "it": "\\rTorna a trovarci."
+ },
+ {
+  "id": "\\rThank you for entering.",
+  "en": "\\rThank you for entering.",
+  "it": "\\rGrazie per aver partecipato."
+ },
+ {
+  "id": "\\bFor the Performance Stage I'll be judging your Pokémon.",
+  "en": "\\bFor the Performance Stage I'll be judging your Pokémon.",
+  "it": "\\bNella Fase Esibizione giudicherò io i tuoi Pokémon."
+ },
+ {
+  "id": "\\b...Oh? You don't need me to judge. I get it.",
+  "en": "\\b...Oh? You don't need me to judge. I get it.",
+  "it": "\\b...Oh? Non ti serve il mio giudizio. Capisco."
+ },
+ {
+  "id": "\\bI see, I see...",
+  "en": "\\bI see, I see...",
+  "it": "\\bVedo, vedo..."
+ },
+ {
+  "id": "\\bThis Pokémon's potential is outstanding overall.",
+  "en": "\\bThis Pokémon's potential is outstanding overall.",
+  "it": "\\bNel complesso, il potenziale di questo Pokémon è eccezionale."
+ },
+ {
+  "id": "\\bThis Pokémon's potential is relatively superior overall.",
+  "en": "\\bThis Pokémon's potential is relatively superior overall.",
+  "it": "\\bNel complesso, il potenziale di questo Pokémon è decisamente superiore."
+ },
+ {
+  "id": "\\bThis Pokémon's potential is above average overall.",
+  "en": "\\bThis Pokémon's potential is above average overall.",
+  "it": "\\bNel complesso, il potenziale di questo Pokémon è sopra la media."
+ },
+ {
+  "id": "\\bThis Pokémon's potential is decent overall.",
+  "en": "\\bThis Pokémon's potential is decent overall.",
+  "it": "\\bNel complesso, il potenziale di questo Pokémon è discreto."
+ },
+ {
+  "id": "\\bThat's my determination, and it's final.",
+  "en": "\\bThat's my determination, and it's final.",
+  "it": "\\bQuesto è il mio verdetto, ed è definitivo."
+ },
+ {
+  "id": "\\bIncidentally, I would say the best potential lies in its \\v[4] stat.",
+  "en": "\\bIncidentally, I would say the best potential lies in its \\v[4] stat.",
+  "it": "\\bTra l'altro, direi che il potenziale migliore sta nella statistica \\v[4]."
+ },
+ {
+  "id": "\\bAnd its Attack stat is also good.",
+  "en": "\\bAnd its Attack stat is also good.",
+  "it": "\\bE anche il suo Attacco è buono."
+ },
+ {
+  "id": "\\bI see, its Defense stat is also good.",
+  "en": "\\bI see, its Defense stat is also good.",
+  "it": "\\bVedo, anche la sua Difesa è buona."
+ },
+ {
+  "id": "\\bWell, its Speed stat is also good.",
+  "en": "\\bWell, its Speed stat is also good.",
+  "it": "\\bBeh, anche la sua Velocità è buona."
+ },
+ {
+  "id": "\\bIts Special Attack stat is equally good.",
+  "en": "\\bIts Special Attack stat is equally good.",
+  "it": "\\bAnche il suo Attacco Speciale è altrettanto buono."
+ },
+ {
+  "id": "\\bIts Special Defense stat is good as well.",
+  "en": "\\bIts Special Defense stat is good as well.",
+  "it": "\\bAnche la sua Difesa Speciale è buona."
+ },
+ {
+  "id": "\\bIt can't be better in that regard. That's how I judged it.",
+  "en": "\\bIt can't be better in that regard. That's how I judged it.",
+  "it": "\\bSotto quell'aspetto non potrebbe essere migliore. Questo è il mio giudizio."
+ },
+ {
+  "id": "\\bIt's fantastic in that regard. That's how I judged it.",
+  "en": "\\bIt's fantastic in that regard. That's how I judged it.",
+  "it": "\\bSotto quell'aspetto è fantastico. Questo è il mio giudizio."
+ },
+ {
+  "id": "\\bIt's very good in that regard. That's how I judged it.",
+  "en": "\\bIt's very good in that regard. That's how I judged it.",
+  "it": "\\bSotto quell'aspetto è molto buono. Questo è il mio giudizio."
+ },
+ {
+  "id": "\\bIt's rather decent in that regard. That's how I judged it.",
+  "en": "\\bIt's rather decent in that regard. That's how I judged it.",
+  "it": "\\bSotto quell'aspetto è piuttosto discreto. Questo è il mio giudizio."
+ },
+ {
+  "id": "\\bLooks like the judges agree. Congratulations, you're moving on to the Battle Stage.",
+  "en": "\\bLooks like the judges agree. Congratulations, you're moving on to the Battle Stage.",
+  "it": "\\bA quanto pare i giudici sono d'accordo. Congratulazioni, passi alla Fase Lotta."
+ },
+ {
+  "id": "\\bI'm too old for this. I should quit while I'm behind.",
+  "en": "\\bI'm too old for this. I should quit while I'm behind.",
+  "it": "\\bSono troppo vecchio per queste cose. Dovrei ritirarmi finché sono in svantaggio."
+ },
+ {
+  "id": "\\rIs this your first Contest? Don't worry, you've got this.",
+  "en": "\\rIs this your first Contest? Don't worry, you've got this.",
+  "it": "\\rÈ la tua prima Gara? Non preoccuparti, ce la farai."
+ },
+ {
+  "id": "\\bThat's the battle. The judges are now giving their scores and...",
+  "en": "\\bThat's the battle. The judges are now giving their scores and...",
+  "it": "\\bE la lotta è finita. I giudici stanno assegnando i punteggi e..."
+ },
+ {
+  "id": "\\bContestant Zoey wins by a landslide! She'll be moving on to round 2.",
+  "en": "\\bContestant Zoey wins by a landslide! She'll be moving on to round 2.",
+  "it": "\\bLa concorrente Zoey vince con un distacco enorme! Passerà al secondo turno."
+ },
+ {
+  "id": "\\rThank you for competing. Please take this as a participation reward.",
+  "en": "\\rThank you for competing. Please take this as a participation reward.",
+  "it": "\\rGrazie per aver partecipato. Accetta questo come premio di partecipazione."
+ },
+ {
+  "id": "\\rA Contest judges your Pokémon before you get to move on to the battle rounds.",
+  "en": "\\rA Contest judges your Pokémon before you get to move on to the battle rounds.",
+  "it": "\\rIn una Gara i tuoi Pokémon vengono giudicati prima di passare ai turni di lotta."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

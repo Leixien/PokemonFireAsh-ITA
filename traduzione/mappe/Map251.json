@@ -1,0 +1,57 @@
+[
+ {
+  "id": "The door is locked.",
+  "en": "The door is locked.",
+  "it": "La porta è chiusa a chiave."
+ },
+ {
+  "id": "\\bExcuse me.",
+  "en": "\\bExcuse me.",
+  "it": "\\bScusa."
+ },
+ {
+  "id": "\\bI believe Professor Elm was looking for you.",
+  "en": "\\bI believe Professor Elm was looking for you.",
+  "it": "\\bMi pare che il Professor Elm ti stesse cercando."
+ },
+ {
+  "id": "New Bark Town\\nThe Town Where Winds of a New Beginning Blow.",
+  "en": "New Bark Town\\nThe Town Where Winds of a New Beginning Blow.",
+  "it": "Borgo Foglianova\\nDove soffiano i venti di un nuovo inizio."
+ },
+ {
+  "id": "\\bYou're from Kanto? Welcome.",
+  "en": "\\bYou're from Kanto? Welcome.",
+  "it": "\\bVieni da Kanto? Benvenuto."
+ },
+ {
+  "id": "\\rProfessor Elm is our Pokémon Professor.",
+  "en": "\\rProfessor Elm is our Pokémon Professor.",
+  "it": "\\rIl Professor Elm è il nostro Professore di Pokémon."
+ },
+ {
+  "id": "\\rDid you know he studied under Professor Oak?",
+  "en": "\\rDid you know he studied under Professor Oak?",
+  "it": "\\rLo sapevi che ha studiato con il Professor Oak?"
+ },
+ {
+  "id": "\\bProfessor Elm focuses on Pokémon breeding in his studies.",
+  "en": "\\bProfessor Elm focuses on Pokémon breeding in his studies.",
+  "it": "\\bIl Professor Elm concentra i suoi studi sull'allevamento dei Pokémon."
+ },
+ {
+  "id": "\\rHoothoot",
+  "en": "\\rHoothoot",
+  "it": "\\rHoothoot"
+ },
+ {
+  "id": "\\rNoctowl",
+  "en": "\\rNoctowl",
+  "it": "\\rNoctowl"
+ },
+ {
+  "id": "Professor Elm's Lab",
+  "en": "Professor Elm's Lab",
+  "it": "Laboratorio del Professor Elm"
+ }
+]

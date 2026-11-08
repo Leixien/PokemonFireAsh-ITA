@@ -1,0 +1,112 @@
+[
+ {
+  "id": "\\bThe Masked Royal is amazing! He's so hard to beat.",
+  "en": "\\bThe Masked Royal is amazing! He's so hard to beat.",
+  "it": "\\bIl Reale Mascherato è fantastico! È difficilissimo da battere."
+ },
+ {
+  "id": "\\bIt's not easy out there. Take this.",
+  "en": "\\bIt's not easy out there. Take this.",
+  "it": "\\bLà fuori non è facile. Prendi questo."
+ },
+ {
+  "id": "\\bNever leave home without one.",
+  "en": "\\bNever leave home without one.",
+  "it": "\\bNon uscire mai di casa senza."
+ },
+ {
+  "id": "\\rNobody knows who the Masked Royal is. It's an unsolved mystery.",
+  "en": "\\rNobody knows who the Masked Royal is. It's an unsolved mystery.",
+  "it": "\\rNessuno sa chi sia il Reale Mascherato. È un mistero irrisolto."
+ },
+ {
+  "id": "\\bWelcome to the Battle Royal Dome. Would you like to enter?",
+  "en": "\\bWelcome to the Battle Royal Dome. Would you like to enter?",
+  "it": "\\bBenvenuto all'Arena Battle Royal. Vuoi partecipare?"
+ },
+ {
+  "id": "\\bWho do you want as your partner.",
+  "en": "\\bWho do you want as your partner.",
+  "it": "\\bChi vuoi come compagno?"
+ },
+ {
+  "id": "\\PN teamed up with Kiawe!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Kiawe!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN ha fatto squadra con Kiawe!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\PN teamed up with Sophocles!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Sophocles!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN ha fatto squadra con Chrys!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\bVery well. Enjoy your day.",
+  "en": "\\bVery well. Enjoy your day.",
+  "it": "\\bMolto bene. Buona giornata."
+ },
+ {
+  "id": "\\bThe Battle Royal is over for now.",
+  "en": "\\bThe Battle Royal is over for now.",
+  "it": "\\bPer ora il Battle Royal è finito."
+ },
+ {
+  "id": "\\bWelcome to the Battle Royal Dome. You must be \\PN. Are you ready?",
+  "en": "\\bWelcome to the Battle Royal Dome. You must be \\PN. Are you ready?",
+  "it": "\\bBenvenuto all'Arena Battle Royal. Tu devi essere \\PN. Sei pronto?"
+ },
+ {
+  "id": "\\PN teamed up with Royal!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Royal!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN ha fatto squadra con Royal!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\rLana: I think I'm ready. Are you ready to help?",
+  "en": "\\rLana: I think I'm ready. Are you ready to help?",
+  "it": "\\rSuiren: Credo di essere pronta. Sei pronto ad aiutarmi?"
+ },
+ {
+  "id": "\\PN teamed up with Lana!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Lana!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN fa squadra con Suiren!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\rOk then.",
+  "en": "\\rOk then.",
+  "it": "\\rOk, allora."
+ },
+ {
+  "id": "\\PN teamed up with Gladion!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Gladion!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN ha fatto squadra con Iridio!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\bKukui: Fantastic battle, \\PN. All of Alola was cheering for you.",
+  "en": "\\bKukui: Fantastic battle, \\PN. All of Alola was cheering for you.",
+  "it": "\\bKukui: Lotta fantastica, \\PN. Tutta Alola faceva il tifo per te."
+ },
+ {
+  "id": "\\bAs our champion, we're expecting great things from you. Do you best in the Masters Tournament.",
+  "en": "\\bAs our champion, we're expecting great things from you. Do you best in the Masters Tournament.",
+  "it": "\\bCome nostro Campione, ci aspettiamo grandi cose da te. Dai il massimo nel Torneo dei Master."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Kiawe",
+  "en": "Kiawe",
+  "it": "Kiawe"
+ },
+ {
+  "id": "Sophocles",
+  "en": "Sophocles",
+  "it": "Chrys"
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "\\bI wanted to show you something, but now isn't the best time.",
+  "en": "\\bI wanted to show you something, but now isn't the best time.",
+  "it": "\\bVolevo mostrarti una cosa, ma non è il momento migliore."
+ },
+ {
+  "id": "\\bI learned this to help out, but no one wants it.",
+  "en": "\\bI learned this to help out, but no one wants it.",
+  "it": "\\bL'ho imparata per rendermi utile, ma nessuno la vuole."
+ },
+ {
+  "id": "\\bWould you like to learn Swift?",
+  "en": "\\bWould you like to learn Swift?",
+  "it": "\\bVuoi imparare Comete?"
+ },
+ {
+  "id": "\\bPlease come again!",
+  "en": "\\bPlease come again!",
+  "it": "\\bTorna a trovarci!"
+ },
+ {
+  "id": "\\bWhat do we do? The data can't fall into the wrong hands.",
+  "en": "\\bWhat do we do? The data can't fall into the wrong hands.",
+  "it": "\\bChe facciamo? I dati non devono finire nelle mani sbagliate."
+ },
+ {
+  "id": "\\bHere at the institute we study the different effects of weather. We have even found a Pokémon that focuses around it.",
+  "en": "\\bHere at the institute we study the different effects of weather. We have even found a Pokémon that focuses around it.",
+  "it": "\\bQui all'istituto studiamo i diversi effetti del tempo atmosferico. Abbiamo persino trovato un Pokémon legato proprio a quello."
+ },
+ {
+  "id": "\\bWhy are you in here?",
+  "en": "\\bWhy are you in here?",
+  "it": "\\bChe ci fai qui dentro?"
+ },
+ {
+  "id": "\\bHow did I lose?",
+  "en": "\\bHow did I lose?",
+  "it": "\\bCome ho fatto a perdere?"
+ },
+ {
+  "id": "\\bOh no.",
+  "en": "\\bOh no.",
+  "it": "\\bOh, no."
+ },
+ {
+  "id": "\\bI finally did it! I made a rock that extends the effects of Rain. Please take it and spread the word.",
+  "en": "\\bI finally did it! I made a rock that extends the effects of Rain. Please take it and spread the word.",
+  "it": "\\bCe l'ho fatta, finalmente! Ho creato una roccia che prolunga gli effetti della pioggia. Prendila e spargi la voce."
+ },
+ {
+  "id": "\\bCome back later. I may have made more.",
+  "en": "\\bCome back later. I may have made more.",
+  "it": "\\bTorna più tardi. Potrei averne fatte altre."
+ },
+ {
+  "id": "\\bStay out of the way.",
+  "en": "\\bStay out of the way.",
+  "it": "\\bTogliti di mezzo."
+ },
+ {
+  "id": "\\rWhat are you doing? Did you scare them away?",
+  "en": "\\rWhat are you doing? Did you scare them away?",
+  "it": "\\rChe stai facendo? Li hai fatti scappare?"
+ },
+ {
+  "id": "\\b...",
+  "en": "\\b...",
+  "it": "\\b..."
+ },
+ {
+  "id": "\\bWhat am I doing? I already have the data chip. There's no need for the disguise anymore.",
+  "en": "\\bWhat am I doing? I already have the data chip.  There's no need for the disguise anymore.",
+  "it": "\\bChe sto facendo? Ho già il chip dei dati.  Il travestimento non serve più."
+ },
+ {
+  "id": "\\bTime to return to base. Later.",
+  "en": "\\bTime to return to base. Later.",
+  "it": "\\bÈ ora di tornare alla base. Ci vediamo."
+ },
+ {
+  "id": "\\bThank you so much.",
+  "en": "\\bThank you so much.",
+  "it": "\\bGrazie mille."
+ },
+ {
+  "id": "\\bThank you for your help. How would you like to train a Castform? It changes based on the weather.",
+  "en": "\\bThank you for your help. How would you like to train a Castform? It changes based on the weather.",
+  "it": "\\bGrazie per il tuo aiuto. Che ne diresti di allenare un Castform? Cambia in base al tempo atmosferico."
+ },
+ {
+  "id": "\\bPity. It could be very helpful.",
+  "en": "\\bPity. It could be very helpful.",
+  "it": "\\bPeccato. Potrebbe esserti molto utile."
+ },
+ {
+  "id": "\\bTake good care of it.",
+  "en": "\\bTake good care of it.",
+  "it": "\\bTrattalo bene."
+ },
+ {
+  "id": "\\rShelly: Are you trying to save the Castform? Too bad, we need the data chip its carrying.",
+  "en": "\\rShelly: Are you trying to save the Castform? Too bad, we need the data chip its carrying.",
+  "it": "\\rAda: Stai cercando di salvare i Castform? Peccato, ci serve il chip dei dati che si portano dietro."
+ },
+ {
+  "id": "\\rShelly: You win this round. Grunts, get ready to retreat.",
+  "en": "\\rShelly: You win this round. Grunts, get ready to retreat.",
+  "it": "\\rAda: Questo round l'hai vinto tu. Reclute, preparatevi alla ritirata."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

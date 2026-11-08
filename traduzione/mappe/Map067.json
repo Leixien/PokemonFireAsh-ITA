@@ -1,0 +1,97 @@
+[
+ {
+  "id": "\\bWelcome to the Safari Zone!",
+  "en": "\\bWelcome to the Safari Zone!",
+  "it": "\\bBenvenuto nella Zona Safari!"
+ },
+ {
+  "id": "\\G\\bFor just $500, you can play the Safari Game.",
+  "en": "\\G\\bFor just $500, you can play the Safari Game.",
+  "it": "\\G\\bCon soli 500$ puoi partecipare al Gioco Safari."
+ },
+ {
+  "id": "\\G\\bYou can roam the wide-open safari and catch what you like.",
+  "en": "\\G\\bYou can roam the wide-open safari and catch what you like.",
+  "it": "\\G\\bPotrai girare liberamente per il safari e catturare ciò che vuoi."
+ },
+ {
+  "id": "\\G\\bWould you like to play?",
+  "en": "\\G\\bWould you like to play?",
+  "it": "\\G\\bVuoi giocare?"
+ },
+ {
+  "id": "\\G\\bSorry, your PC boxes are full.",
+  "en": "\\G\\bSorry, your PC boxes are full.",
+  "it": "\\G\\bSpiacente, i Box del tuo PC sono pieni."
+ },
+ {
+  "id": "\\G\\bOops!\\nNot enough money!",
+  "en": "\\G\\bOops!\\nNot enough money!",
+  "it": "\\G\\bOps!\\nNon hai abbastanza soldi!"
+ },
+ {
+  "id": "\\G\\bCome again.",
+  "en": "\\G\\bCome again.",
+  "it": "\\G\\bTorna a trovarci."
+ },
+ {
+  "id": "\\G\\bThat'll be $500, please!",
+  "en": "\\G\\bThat'll be $500, please!",
+  "it": "\\G\\bSono 500$, grazie!"
+ },
+ {
+  "id": "\\G\\bWe only use a special kind of Poké Ball here.",
+  "en": "\\G\\bWe only use a special kind of Poké Ball here.",
+  "it": "\\G\\bQui usiamo solo un tipo speciale di Poké Ball."
+ },
+ {
+  "id": "\\G\\PN received 30 Safari Balls from the attendant. \\se[itemlevel]\\wtnp[20]",
+  "en": "\\G\\PN received 30 Safari Balls from the attendant. \\se[itemlevel]\\wtnp[20]",
+  "it": "\\G\\PN ha ricevuto 30 Safari Ball dall'addetto. \\se[itemlevel]\\wtnp[20]"
+ },
+ {
+  "id": "\\G\\bWe'll call you on the PA when you run out of time or Safari Balls.",
+  "en": "\\G\\bWe'll call you on the PA when you run out of time or Safari Balls.",
+  "it": "\\G\\bTi chiameremo con l'altoparlante quando avrai finito il tempo o le Safari Ball."
+ },
+ {
+  "id": "\\G\\bWell, I'll wish you the best of luck!",
+  "en": "\\G\\bWell, I'll wish you the best of luck!",
+  "it": "\\G\\bBene, ti auguro buona fortuna!"
+ },
+ {
+  "id": "\\G\\bOkay.\\nPlease come again!",
+  "en": "\\G\\bOkay.\\nPlease come again!",
+  "it": "\\G\\bD'accordo.\\nTorna a trovarci!"
+ },
+ {
+  "id": "\\bAre you going to leave the Safari Zone early?",
+  "en": "\\bAre you going to leave the Safari Zone early?",
+  "it": "\\bVuoi lasciare la Zona Safari in anticipo?"
+ },
+ {
+  "id": "\\bPlease return any Safari Balls you may have left.",
+  "en": "\\bPlease return any Safari Balls you may have left.",
+  "it": "\\bRestituisci le Safari Ball che ti sono rimaste, per favore."
+ },
+ {
+  "id": "\\bGood luck!",
+  "en": "\\bGood luck!",
+  "it": "\\bBuona fortuna!"
+ },
+ {
+  "id": "\\bDid you catch your fair share? Come again!",
+  "en": "\\bDid you catch your fair share?  Come again!",
+  "it": "\\bHai catturato quello che volevi?  Torna a trovarci!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

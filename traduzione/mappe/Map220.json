@@ -1,0 +1,97 @@
+[
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Sette Grapefruit,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Trovita,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Trovita,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Sette Grapefruit,Trovita,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Trovita,Ascorbia,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Trovita,Ascorbia,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Sette Grapefruit,Trovita,Ascorbia,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Sette Grapefruit,Trovita,Ascorbia,Kumquat,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Sette Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Esci]"
+ },
+ {
+  "id": "\\bSee that mountain over there?",
+  "en": "\\bSee that mountain over there?",
+  "it": "\\bVedi quella montagna laggiù?"
+ },
+ {
+  "id": "\\bThe Gym is on the top of it.",
+  "en": "\\bThe Gym is on the top of it.",
+  "it": "\\bLa Palestra è in cima."
+ },
+ {
+  "id": "\\bAre you ready for this?",
+  "en": "\\bAre you ready for this?",
+  "it": "\\bSei pronto?"
+ },
+ {
+  "id": "\\bWork up a sweat with that move.",
+  "en": "\\bWork up a sweat with that move.",
+  "it": "\\bCon quella mossa ti farai una bella sudata."
+ },
+ {
+  "id": "Navel Gym ahead",
+  "en": "Navel Gym ahead",
+  "it": "Palestra di Navel più avanti"
+ },
+ {
+  "id": "\\rTrainers are in there to get stronger. Be careful!",
+  "en": "\\rTrainers are in there to get stronger. Be careful!",
+  "it": "\\rLì dentro ci sono Allenatori che vogliono diventare più forti. Fai attenzione!"
+ },
+ {
+  "id": "\\rElectabuzz",
+  "en": "\\rElectabuzz",
+  "it": "\\rElectabuzz"
+ },
+ {
+  "id": "\\bWant a hint on our Gym Leader?",
+  "en": "\\bWant a hint on our Gym Leader?",
+  "it": "\\bVuoi un indizio sul nostro Capopalestra?"
+ },
+ {
+  "id": "\\bDanny dosen't have a set type like most Gym Leaders.",
+  "en": "\\bDanny dosen't have a set type like most Gym Leaders.",
+  "it": "\\bDanny non usa un tipo preciso come la maggior parte dei Capipalestra."
+ },
+ {
+  "id": "\\bHe does have a few Ground types though.",
+  "en": "\\bHe does have a few Ground types though.",
+  "it": "\\bPerò ha qualche Pokémon di tipo Terra."
+ },
+ {
+  "id": "\\bFine! You can just lose then!",
+  "en": "\\bFine! You can just lose then!",
+  "it": "\\bE va bene! Allora perdi e basta!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

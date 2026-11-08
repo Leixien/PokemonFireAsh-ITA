@@ -1,0 +1,562 @@
+[
+ {
+  "id": "\\bOak: Come here and get your Pokédex, \\PN.",
+  "en": "\\bOak: Come here and get your Pokédex, \\PN.",
+  "it": "\\bOak: Vieni qui a prendere il tuo Pokédex, \\PN."
+ },
+ {
+  "id": "\\bOak: Wait, don't forget your starter Pokémon!",
+  "en": "\\bOak: Wait, don't forget your starter Pokémon!",
+  "it": "\\bOak: Aspetta, non dimenticare il tuo Pokémon iniziale!"
+ },
+ {
+  "id": "\\bOak: Wait, don't forget Pikachu!",
+  "en": "\\bOak: Wait, don't forget Pikachu!",
+  "it": "\\bOak: Aspetta, non dimenticare Pikachu!"
+ },
+ {
+  "id": "Battle?\\ch[1,1,Red,Blue,Green,Yellow,Gold,Silver, Crystal,Ruby,Sapphire,Emerald,Diamond,Pearl,Platinum, Black,White,Blake,Whitley,X,Y,Sun,Moon,Henry,Casey]",
+  "en": "Battle?\\ch[1,1,Red,Blue,Green,Yellow,Gold,Silver, Crystal,Ruby,Sapphire,Emerald,Diamond,Pearl,Platinum, Black,White,Blake,Whitley,X,Y,Sun,Moon,Henry,Casey]",
+  "it": "Lottare?\\ch[1,1,Red,Blue,Green,Yellow,Gold,Silver, Crystal,Ruby,Sapphire,Emerald,Diamond,Pearl,Platinum, Black,White,Blake,Whitley,X,Y,Sun,Moon,Henry,Casey]"
+ },
+ {
+  "id": "This place...appears to be Pallet Town.",
+  "en": "This place...appears to be Pallet Town.",
+  "it": "Questo posto... sembra essere Biancavilla."
+ },
+ {
+  "id": "This place...appears to be the Viridian Gym.",
+  "en": "This place...appears to be the Viridian Gym.",
+  "it": "Questo posto... sembra essere la Palestra di Smeraldopoli."
+ },
+ {
+  "id": "This place...appears to be the Indigo Plateau.",
+  "en": "This place...appears to be the Indigo Plateau.",
+  "it": "Questo posto... sembra essere l'Altopiano Blu."
+ },
+ {
+  "id": "This place...appears to be Viridian Forest.",
+  "en": "This place...appears to be Viridian Forest.",
+  "it": "Questo posto... sembra essere il Bosco Smeraldo."
+ },
+ {
+  "id": "This place...appears to be New Bark Town.",
+  "en": "This place...appears to be New Bark Town.",
+  "it": "Questo posto... sembra essere Borgo Foglianova."
+ },
+ {
+  "id": "This place...appears to be Viridian City.",
+  "en": "This place...appears to be Viridian City.",
+  "it": "Questo posto... sembra essere Smeraldopoli."
+ },
+ {
+  "id": "This place...appears to be Ecruteak City.",
+  "en": "This place...appears to be Ecruteak City.",
+  "it": "Questo posto... sembra essere Amarantopoli."
+ },
+ {
+  "id": "This place...appears to be Slateport City.",
+  "en": "This place...appears to be Slateport City.",
+  "it": "Questo posto... sembra essere Porto Selcepoli."
+ },
+ {
+  "id": "This place...appears to be Littleroot Town.",
+  "en": "This place...appears to be Littleroot Town.",
+  "it": "Questo posto... sembra essere Albanova."
+ },
+ {
+  "id": "This place...appears to be the Battle Tower.",
+  "en": "This place...appears to be the Battle Tower.",
+  "it": "Questo posto... sembra essere la Torre Lotta."
+ },
+ {
+  "id": "This place...appears to be Iron Island.",
+  "en": "This place...appears to be Iron Island.",
+  "it": "Questo posto... sembra essere l'Isola Ferrosa."
+ },
+ {
+  "id": "This place...appears to be Pastoria City.",
+  "en": "This place...appears to be Pastoria City.",
+  "it": "Questo posto... sembra essere Pratopoli."
+ },
+ {
+  "id": "This place...appears to be Mt. Coronet.",
+  "en": "This place...appears to be Mt. Coronet.",
+  "it": "Questo posto... sembra essere il Monte Corona."
+ },
+ {
+  "id": "This place...appears to be the Unova Pokémon League.",
+  "en": "This place...appears to be the Unova Pokémon League.",
+  "it": "Questo posto... sembra essere la Lega Pokémon di Unima."
+ },
+ {
+  "id": "This place...appears to be Nimbasa City.",
+  "en": "This place...appears to be Nimbasa City.",
+  "it": "Questo posto... sembra essere Sciroccopoli."
+ },
+ {
+  "id": "This place...appears to be Virbank City.",
+  "en": "This place...appears to be Virbank City.",
+  "it": "Questo posto... sembra essere Virbopoli."
+ },
+ {
+  "id": "This place...appears to be Aspertia City.",
+  "en": "This place...appears to be Aspertia City.",
+  "it": "Questo posto... sembra essere Alisopoli."
+ },
+ {
+  "id": "This place...appears to be Geosenge Town.",
+  "en": "This place...appears to be Geosenge Town.",
+  "it": "Questo posto... sembra essere Cromleburgo."
+ },
+ {
+  "id": "This place...appears to be Shalour City.",
+  "en": "This place...appears to be Shalour City.",
+  "it": "Questo posto... sembra essere Yantaropoli."
+ },
+ {
+  "id": "This place...appears to be Iki Town.",
+  "en": "This place...appears to be Iki Town.",
+  "it": "Questo posto... sembra essere Iki."
+ },
+ {
+  "id": "This place...appears to be Aether Paradise.",
+  "en": "This place...appears to be Aether Paradise.",
+  "it": "Questo posto... sembra essere il Paradiso Aether."
+ },
+ {
+  "id": "This place...appears to be Tower Summit.",
+  "en": "This place...appears to be Tower Summit.",
+  "it": "Questo posto... sembra essere la Cima della Torre."
+ },
+ {
+  "id": "This place...appears to be Slumbering Weald.",
+  "en": "This place...appears to be Slumbering Weald.",
+  "it": "Questo posto... sembra essere il Bosco Assopito."
+ },
+ {
+  "id": "\\bOak: Ah \\PN, how is it going? Is your Pikachu doing well?",
+  "en": "\\bOak: Ah \\PN, how is it going? Is your Pikachu doing well?",
+  "it": "\\bOak: Ah, \\PN, come va? Il tuo Pikachu sta bene?"
+ },
+ {
+  "id": "\\bOak: If you want it, take it.",
+  "en": "\\bOak: If you want it, take it.",
+  "it": "\\bOak: Se lo vuoi, prendilo."
+ },
+ {
+  "id": "\\bOak: Ah \\PN, you got the GS ball didn't you?",
+  "en": "\\bOak: Ah \\PN, you got the GS ball didn't you?",
+  "it": "\\bOak: Ah, \\PN, hai preso la GS Ball, vero?"
+ },
+ {
+  "id": "\\bGood good. Let me have a look at it.",
+  "en": "\\bGood good. Let me have a look at it.",
+  "it": "\\bBene, bene. Fammela vedere."
+ },
+ {
+  "id": "\\bHmm. I can't seem to figure out what to do with it.",
+  "en": "\\bHmm. I can't seem to figure out what to do with it.",
+  "it": "\\bMmm. Non riesco proprio a capire cosa farne."
+ },
+ {
+  "id": "\\b\\PN, can I ask you to hold on to it a little longer and take it to Kurt?",
+  "en": "\\b\\PN, can I ask you to hold on to it a little longer and take it to Kurt?",
+  "it": "\\b\\PN, posso chiederti di tenerla ancora un po' e di portarla a Kurt?"
+ },
+ {
+  "id": "\\bHe lives in Azalea Town in the Johto region. The fastest way there should be on Route 22. It's near the Kanto League.",
+  "en": "\\bHe lives in Azalea Town in the Johto region. The fastest way there should be on Route 22. It's near the Kanto League.",
+  "it": "\\bVive ad Azalina, nella regione di Johto. La strada più veloce dovrebbe essere il Percorso 22. È vicino alla Lega di Kanto."
+ },
+ {
+  "id": "\\bOak: The fastest way to the Johto region is through Route 22. It's near the Kanto League.",
+  "en": "\\bOak: The fastest way to the Johto region is through Route 22. It's near the Kanto League.",
+  "it": "\\bOak: La strada più veloce per la regione di Johto passa per il Percorso 22. È vicino alla Lega di Kanto."
+ },
+ {
+  "id": "\\bOak: Ah, hello \\PN. I heard you did well in the Silver Conference.",
+  "en": "\\bOak: Ah, hello \\PN. I heard you did well in the Silver Conference.",
+  "it": "\\bOak: Ah, ciao \\PN. Ho sentito che te la sei cavata bene alla Conferenza Argento."
+ },
+ {
+  "id": "\\bGary decided to head off to Hoenn to do some research. It seems like a lovely place for you to go if you want a new challenge.",
+  "en": "\\bGary decided to head off to Hoenn to do some research. It seems like a lovely place for you to go if you want a new challenge.",
+  "it": "\\bGary ha deciso di partire per Hoenn per fare delle ricerche. Sembra un posto incantevole per te, se cerchi una nuova sfida."
+ },
+ {
+  "id": "\\bHead to Vermilion City. I'll tell the captain you are coming. There is a ship that will take you there.",
+  "en": "\\bHead to Vermilion City. I'll tell the captain you are coming. There is a ship that will take you there.",
+  "it": "\\bVai ad Aranciopoli. Avviserò il capitano del tuo arrivo. C'è una nave che ti porterà lì."
+ },
+ {
+  "id": "\\bAlso, speak to my aide downstairs. He has a gift for you.",
+  "en": "\\bAlso, speak to my aide downstairs. He has a gift for you.",
+  "it": "\\bE parla anche con il mio assistente al piano di sotto. Ha un regalo per te."
+ },
+ {
+  "id": "\\bAnd last but not least, your mother has some new clothes for you. Here you go.",
+  "en": "\\bAnd last but not least, your mother has some new clothes for you. Here you go.",
+  "it": "\\bE infine, ma non meno importante, tua madre ha dei vestiti nuovi per te. Ecco qui."
+ },
+ {
+  "id": "\\bThey look spendid. If you'd prefer your old ones though you can change with the dresser in your room.",
+  "en": "\\bThey look spendid. If you'd prefer your old ones though you can change with the dresser in your room.",
+  "it": "\\bSono splendidi. Se però preferisci quelli vecchi, puoi cambiarti con l'armadio in camera tua."
+ },
+ {
+  "id": "\\bOak: Head to Vermilion City. I'll tell the captain you are coming. There is a ship that will take you to Hoenn.",
+  "en": "\\bOak: Head to Vermilion City. I'll tell the captain you are coming. There is a ship that will take you to Hoenn.",
+  "it": "\\bOak: Vai ad Aranciopoli. Avviserò il capitano del tuo arrivo. C'è una nave che ti porterà a Hoenn."
+ },
+ {
+  "id": "\\bOak: Ah, hello \\PN. I heard you did well in the Ever Grande Conference.",
+  "en": "\\bOak: Ah, hello \\PN. I heard you did well in the Ever Grande Conference.",
+  "it": "\\bOak: Ah, ciao \\PN. Ho sentito che te la sei cavata bene alla Conferenza Iridopoli."
+ },
+ {
+  "id": "\\bIt's good timing too since the Battle Frontier just opened up right here in Kanto! The first one I would recommend is the Battle Factory near Cerulean City.",
+  "en": "\\bIt's good timing too since the Battle Frontier just opened up right here in Kanto! The first one I would recommend is the Battle Factory near Cerulean City.",
+  "it": "\\bE arrivi proprio al momento giusto, perché il Parco Lotta ha appena aperto qui a Kanto! Il primo che ti consiglio è la Fabbrica Lotta vicino a Celestopoli."
+ },
+ {
+  "id": "\\bOak: Head to Cerulean City to battle the Battle Frontier.",
+  "en": "\\bOak: Head to Cerulean City to battle the Battle Frontier.",
+  "it": "\\bOak: Vai a Celestopoli per affrontare il Parco Lotta."
+ },
+ {
+  "id": "\\bOak: Ah, hello \\PN. So you beat the Battle Frontier then?",
+  "en": "\\bOak: Ah, hello \\PN. So you beat the Battle Frontier then?",
+  "it": "\\bOak: Ah, ciao \\PN. Allora hai battuto il Parco Lotta?"
+ },
+ {
+  "id": "\\bYou're thinking about the Sinnoh region? I'll set up a ride for you. Like always, head over to Vermilion City.",
+  "en": "\\bYou're thinking about the Sinnoh region? I'll set up a ride for you. Like always, head over to Vermilion City.",
+  "it": "\\bStai pensando alla regione di Sinnoh? Ti organizzo io il viaggio. Come sempre, vai ad Aranciopoli."
+ },
+ {
+  "id": "\\bAnd once again, here are some new clothes.",
+  "en": "\\bAnd once again, here are some new clothes.",
+  "it": "\\bE ancora una volta, ecco dei vestiti nuovi."
+ },
+ {
+  "id": "\\bOak: Head to Vermilion City to get a ride to Sinnoh.",
+  "en": "\\bOak: Head to Vermilion City to get a ride to Sinnoh.",
+  "it": "\\bOak: Vai ad Aranciopoli per un passaggio verso Sinnoh."
+ },
+ {
+  "id": "\\bOak: Ah, hello \\PN. So you finished the Sinnoh League.",
+  "en": "\\bOak: Ah, hello \\PN. So you finished the Sinnoh League.",
+  "it": "\\bOak: Ah, ciao \\PN. Quindi hai concluso la Lega di Sinnoh."
+ },
+ {
+  "id": "\\bI saw you did quite well. I'm sure you're ready for your next challenge. Why not head to Unova with me?",
+  "en": "\\bI saw you did quite well. I'm sure you're ready for your next challenge. Why not head to Unova with me?",
+  "it": "\\bHo visto che te la sei cavata piuttosto bene. Sono sicuro che sei pronto per la prossima sfida. Perché non vieni a Unima con me?"
+ },
+ {
+  "id": "\\bHead over to Viridian City. A blimp will be there to take us over.",
+  "en": "\\bHead over to Viridian City. A blimp will be there to take us over.",
+  "it": "\\bVai a Smeraldopoli. Lì ci sarà un dirigibile che ci porterà a destinazione."
+ },
+ {
+  "id": "\\bAnd as I'm sure you guessed by now your mother has a new outfit for you.",
+  "en": "\\bAnd as I'm sure you guessed by now your mother has a new outfit for you.",
+  "it": "\\bE come avrai già immaginato, tua madre ha un nuovo completo per te."
+ },
+ {
+  "id": "\\bOak: Head over to Viridian City. A blimp will be there to take us over.",
+  "en": "\\bOak: Head over to Viridian City. A blimp will be there to take us over.",
+  "it": "\\bOak: Vai a Smeraldopoli. Lì ci sarà un dirigibile che ci porterà a destinazione."
+ },
+ {
+  "id": "\\bOak: The Unova League sounds like a good challenge for you. I look forward to hearing your results.",
+  "en": "\\bOak: The Unova League sounds like a good challenge for you. I look forward to hearing your results.",
+  "it": "\\bOak: La Lega di Unima mi sembra una bella sfida per te. Non vedo l'ora di sapere come andrà."
+ },
+ {
+  "id": "This ball contains a Pokémon caught by the Professor.",
+  "en": "This ball contains a Pokémon caught by the Professor.",
+  "it": "Questa Poké Ball contiene un Pokémon catturato dal Professore."
+ },
+ {
+  "id": "\\bOak: So, you want Pikachu, the Electric mouse Pokémon?",
+  "en": "\\bOak: So, you want Pikachu, the Electric mouse Pokémon?",
+  "it": "\\bOak: Allora, vuoi Pikachu, il Pokémon Topo di tipo Elettro?"
+ },
+ {
+  "id": "\\bOak: Unfortunately, it is the only one left, so I suggest you take it.",
+  "en": "\\bOak: Unfortunately, it is the only one left, so I suggest you take it.",
+  "it": "\\bOak: Purtroppo è l'unico rimasto, quindi ti consiglio di prenderlo."
+ },
+ {
+  "id": "\\bPikachu",
+  "en": "\\bPikachu",
+  "it": "\\bPikachu"
+ },
+ {
+  "id": "Pikachu started to follow you.\\se[itemlevel]\\wtnp[20]",
+  "en": "Pikachu started to follow you.\\se[itemlevel]\\wtnp[20]",
+  "it": "Pikachu ha iniziato a seguirti.\\se[itemlevel]\\wtnp[20]"
+ },
+ {
+  "id": "Misty: Cerulean City\\n Brock: Pewter City\\n Tracey: Oak's Corral",
+  "en": "Misty: Cerulean City\\n Brock: Pewter City\\n Tracey: Oak's Corral",
+  "it": "Misty: Celestopoli\\n Brock: Plumbeopoli\\n Tracey: Recinto di Oak"
+ },
+ {
+  "id": "May: Goldenrod City\\n Dawn: Eterna City",
+  "en": "May: Goldenrod City\\n Dawn: Eterna City",
+  "it": "Vera: Fiordoropoli\\n Lucinda: Evopoli"
+ },
+ {
+  "id": "Iris: Opelucid City\\n Cilan: Striaton City",
+  "en": "Iris: Opelucid City\\n Cilan: Striaton City",
+  "it": "Iris: Spiraria\\n Spighetto: Levantopoli"
+ },
+ {
+  "id": "Clemont: Lumiose City\\n Serena: Lilycove City",
+  "en": "Clemont: Lumiose City\\n Serena: Lilycove City",
+  "it": "Lem: Luminopoli\\n Serena: Porto Alghepoli"
+ },
+ {
+  "id": "Lana: Hau'oli City\\n Kiawe: Ruins of Life",
+  "en": "Lana: Hau'oli City\\n Kiawe: Ruins of Life",
+  "it": "Suiren: Hau'oli\\n Kiawe: Rovine della Vita"
+ },
+ {
+  "id": "Mallow: Hau'oli City\\n Sophocles: Pokémon School\\n Lillie: Hau'oli City",
+  "en": "Mallow: Hau'oli City\\n Sophocles: Pokémon School\\n Lillie: Hau'oli City",
+  "it": "Ibis: Hau'oli\\n Chrys: Scuola Pokémon\\n Lylia: Hau'oli"
+ },
+ {
+  "id": "Goh: Cerise Park",
+  "en": "Goh: Cerise Park",
+  "it": "Goh: Parco Cerise"
+ },
+ {
+  "id": "Gary: Pallet Town\\n Paul: Veilstone City\\n Barry: Twinleaf Town",
+  "en": "Gary: Pallet Town\\n Paul: Veilstone City\\n Barry: Twinleaf Town",
+  "it": "Gary: Biancavilla\\n Paul: Rupepoli\\n Barry: Duefoglie"
+ },
+ {
+  "id": "Trip: Nuvema Town\\n Alain: Professor Sycamore's Lab\\n Sawyer: Lumiose City",
+  "en": "Trip: Nuvema Town\\n Alain: Professor Sycamore's Lab\\n Sawyer: Lumiose City",
+  "it": "Trip: Soffiolieve\\n Alain: Laboratorio del Prof. Platan\\n Sawyer: Luminopoli"
+ },
+ {
+  "id": "Gladion: Hau'oli City\\n Hau: Tapu Village",
+  "en": "Gladion: Hau'oli City\\n Hau: Tapu Village",
+  "it": "Iridio: Hau'oli\\n Hau: Villaggio Tapu"
+ },
+ {
+  "id": "\\PN received a Pokédex!",
+  "en": "\\PN received a Pokédex!",
+  "it": "\\PN ha ricevuto un Pokédex!"
+ },
+ {
+  "id": "You already have a Pokédex.",
+  "en": "You already have a Pokédex.",
+  "it": "Hai già un Pokédex."
+ },
+ {
+  "id": "\\bHello \\PN. I've managed to make a machine that captures the essence of powerful Trainers from a different dimension.",
+  "en": "\\bHello \\PN. I've managed to make a machine that captures the essence of powerful Trainers from a different dimension.",
+  "it": "\\bCiao \\PN. Sono riuscito a costruire una macchina che cattura l'essenza di Allenatori potenti provenienti da un'altra dimensione."
+ },
+ {
+  "id": "\\bThey are called 'Pokédex holders'. Feel free to try the machine out.",
+  "en": "\\bThey are called 'Pokédex holders'. Feel free to try the machine out.",
+  "it": "\\bVengono chiamati \"Possessori di Pokédex\". Prova pure la macchina."
+ },
+ {
+  "id": "Rotom!!",
+  "en": "Rotom!!",
+  "it": "Rotom!!"
+ },
+ {
+  "id": "\\bOak: \\PN, you're late. All of the starter Pokémon have been taken. ...Well there is one left, but it is a bit reckless.",
+  "en": "\\bOak: \\PN, you're late. All of the starter Pokémon have been taken. ...Well there is one left, but it is a bit reckless.",
+  "it": "\\bOak: \\PN, sei in ritardo. Hanno già preso tutti i Pokémon iniziali. ...Beh, ne è rimasto uno, ma è un po' scalmanato."
+ },
+ {
+  "id": "\\bOak: It seems Pikachu doesn't like to stay in its Poké Ball.",
+  "en": "\\bOak: It seems Pikachu doesn't like to stay in its Poké Ball.",
+  "it": "\\bOak: Sembra che a Pikachu non piaccia stare nella sua Poké Ball."
+ },
+ {
+  "id": "\\bOak: Charmander, an excellent choice!",
+  "en": "\\bOak: Charmander, an excellent choice!",
+  "it": "\\bOak: Charmander, un'ottima scelta!"
+ },
+ {
+  "id": "\\bOak: Squirtle, an excellent choice!",
+  "en": "\\bOak: Squirtle, an excellent choice!",
+  "it": "\\bOak: Squirtle, un'ottima scelta!"
+ },
+ {
+  "id": "\\bDon't forget to take your Pokédex before you leave.",
+  "en": "\\bDon't forget to take your Pokédex before you leave.",
+  "it": "\\bNon dimenticare di prendere il tuo Pokédex prima di andare."
+ },
+ {
+  "id": "\\bOak: I hear you've beaten the Unova region as well. Wonderful work, \\PN.",
+  "en": "\\bOak: I hear you've beaten the Unova region as well.  Wonderful work, \\PN.",
+  "it": "\\bOak: Ho sentito che hai conquistato anche la regione di Unima.  Ottimo lavoro, \\PN."
+ },
+ {
+  "id": "\\bHave you met Rotom yet? I caught it in the Decolore Islands.",
+  "en": "\\bHave you met Rotom yet? I caught it in the Decolore Islands.",
+  "it": "\\bHai già conosciuto Rotom? L'ho catturato nelle Isole Decolore."
+ },
+ {
+  "id": "\\bWhere's that at? Oh, it's a horrible place. I wouldn't want to make you suffer the trip. I only went to find a Rotom.",
+  "en": "\\bWhere's that at? Oh, it's a horrible place. I wouldn't want to make you suffer the trip. I only went to find a Rotom.",
+  "it": "\\bDove si trovano? Oh, è un posto orribile. Non vorrei farti soffrire un viaggio simile. Ci sono andato solo per trovare un Rotom."
+ },
+ {
+  "id": "\\bYou plan on going to the Kalos region next? Excellent idea. I heard of a mysterious power coming from the region.",
+  "en": "\\bYou plan on going to the Kalos region next?  Excellent idea. I heard of a mysterious power coming from the region.",
+  "it": "\\bHai intenzione di andare nella regione di Kalos?  Ottima idea. Ho sentito parlare di un potere misterioso che proviene da quella regione."
+ },
+ {
+  "id": "\\bHead over to Viridian City. A blimp will be there to take you over.",
+  "en": "\\bHead over to Viridian City. A blimp will be there to take you over.",
+  "it": "\\bVai a Smeraldopoli. Lì ci sarà un dirigibile che ti porterà a destinazione."
+ },
+ {
+  "id": "\\bOh, and let's not forget your new clothes.",
+  "en": "\\bOh, and let's not forget your new clothes.",
+  "it": "\\bOh, e non dimentichiamo i tuoi vestiti nuovi."
+ },
+ {
+  "id": "\\bOak: Head over to Viridian City. A blimp will be there to take you over.",
+  "en": "\\bOak: Head over to Viridian City. A blimp will be there to take you over.",
+  "it": "\\bOak: Vai a Smeraldopoli. Lì ci sarà un dirigibile che ti porterà a destinazione."
+ },
+ {
+  "id": "\\bOak: I hear you were the runner up of Kalos League. Wonderful work.",
+  "en": "\\bOak: I hear you were the runner up of Kalos League. Wonderful work.",
+  "it": "\\bOak: Ho sentito che sei arrivato secondo alla Lega di Kalos. Ottimo lavoro."
+ },
+ {
+  "id": "\\bIt's also wonderful timing. Your mother just won a trip to the Alola region.",
+  "en": "\\bIt's also wonderful timing. Your mother just won a trip to the Alola region.",
+  "it": "\\bE anche il tempismo è perfetto. Tua madre ha appena vinto un viaggio nella regione di Alola."
+ },
+ {
+  "id": "\\bI also have this egg that I need to deliver to my cousin Samson. Give it to him when you arrive.",
+  "en": "\\bI also have this egg that I need to deliver to my cousin Samson. Give it to him when you arrive.",
+  "it": "\\bHo anche quest'uovo da consegnare a mio cugino Samson. Daglielo quando arrivi."
+ },
+ {
+  "id": "\\bWait. Don't forget your clothes.",
+  "en": "\\bWait. Don't forget your clothes.",
+  "it": "\\bAspetta. Non dimenticare i tuoi vestiti."
+ },
+ {
+  "id": "\\bOak: Go speak with your mother.",
+  "en": "\\bOak: Go speak with your mother.",
+  "it": "\\bOak: Va' a parlare con tua madre."
+ },
+ {
+  "id": "\\bOak: Shouldn't you be in school right now?",
+  "en": "\\bOak: Shouldn't you be in school right now?",
+  "it": "\\bOak: Non dovresti essere a scuola adesso?"
+ },
+ {
+  "id": "\\bOak: Excellent work on becoming the Champion of Alola, \\PN. It was quite the exciting match.",
+  "en": "\\bOak: Excellent work on becoming the Champion of Alola, \\PN. It was quite the exciting match.",
+  "it": "\\bOak: Splendido lavoro, sei diventato Campione di Alola, \\PN. È stato un incontro davvero emozionante."
+ },
+ {
+  "id": "\\bI'm sorry to cut this meeting short, but a new Professor is opening a lab in Vermilion City and I agreed to attend.",
+  "en": "\\bI'm sorry to cut this meeting short, but a new Professor is opening a lab in Vermilion City and I agreed to attend.",
+  "it": "\\bMi dispiace interrompere così in fretta, ma un nuovo Professore apre un laboratorio ad Aranciopoli e ho promesso di partecipare."
+ },
+ {
+  "id": "\\bI know! Why don't you join me? Well then, it's settled. Your mother and I will meet you in Vermilion.",
+  "en": "\\bI know! Why don't you join me? Well then, it's settled. Your mother and I will meet you in Vermilion.",
+  "it": "\\bHo un'idea! Perché non vieni con me? Bene allora, è deciso. Tua madre e io ti aspetteremo ad Aranciopoli."
+ },
+ {
+  "id": "\\bNaturally, your mother left you some clothes here. She was worried you'd be in such a rush to see your Pokémon that you'd forget to stop home.",
+  "en": "\\bNaturally, your mother left you some clothes here.  She was worried you'd be in such a rush to see your Pokémon that you'd forget to stop home.",
+  "it": "\\bOvviamente, tua madre ti ha lasciato dei vestiti qui.  Temeva che saresti stato così di fretta di vedere i tuoi Pokémon da dimenticarti di passare a casa."
+ },
+ {
+  "id": "\\bOak: Your mother and I will meet you in Vermilion.",
+  "en": "\\bOak: Your mother and I will meet you in Vermilion.",
+  "it": "\\bOak: Tua madre e io ti aspetteremo ad Aranciopoli."
+ },
+ {
+  "id": "\\bOak: Hello \\PN. How is it working with Professor Cerise?",
+  "en": "\\bOak: Hello \\PN. How is it working with Professor Cerise?",
+  "it": "\\bOak: Ciao \\PN. Come va il lavoro con il Professor Cerise?"
+ },
+ {
+  "id": "\\bOak: Hello \\PN. How is it working with Professor Cerise? Is Project Mew going well for Goh?",
+  "en": "\\bOak: Hello \\PN. How is it working with Professor Cerise? Is Project Mew going well for Goh?",
+  "it": "\\bOak: Ciao \\PN. Come va il lavoro con il Professor Cerise? Il Progetto Mew procede bene per Goh?"
+ },
+ {
+  "id": "\\bOak: Hello \\PN. The surprise I have for you is out back.",
+  "en": "\\bOak: Hello \\PN. The surprise I have for you is out back.",
+  "it": "\\bOak: Ciao \\PN. La sorpresa che ho per te è sul retro."
+ },
+ {
+  "id": "\\bOak: Hello \\PN. How did your meeting go with Paul? Did he mention he recieved an offer to become a Gym Leader?",
+  "en": "\\bOak: Hello \\PN. How did your meeting go with Paul?  Did he mention he recieved an offer to become a Gym Leader?",
+  "it": "\\bOak: Ciao \\PN. Com'è andato l'incontro con Paul?  Ti ha detto di aver ricevuto un'offerta per diventare Capopalestra?"
+ },
+ {
+  "id": "\\bOak: Excellent job on becoming the Monarch, \\PN.",
+  "en": "\\bOak: Excellent job on becoming the Monarch, \\PN.",
+  "it": "\\bOak: Ottimo lavoro, sei diventato il Monarca, \\PN."
+ },
+ {
+  "id": "\\bOak: Come back after another journey, have you? It's always a pleasant surprise.",
+  "en": "\\bOak: Come back after another journey, have you?  It's always a pleasant surprise.",
+  "it": "\\bOak: Sei tornato dopo un altro viaggio, eh?  È sempre una piacevole sorpresa."
+ },
+ {
+  "id": "\\bYou've accomplished so much since you first met Pikachu. The bonds you've made, the regions you've explored, and the friends and Pokémon too.",
+  "en": "\\bYou've accomplished so much since you first met Pikachu. The bonds you've made, the regions you've explored, and the friends and Pokémon too.",
+  "it": "\\bHai ottenuto così tanto da quando hai conosciuto Pikachu. I legami che hai stretto, le regioni che hai esplorato, e anche gli amici e i Pokémon."
+ },
+ {
+  "id": "\\bYou've never stopped growing as a Trainer, and I doubt you have any intention on quitting now. The road to becoming a Pokémon Master is a long one.",
+  "en": "\\bYou've never stopped growing as a Trainer, and I doubt you have any intention on quitting now. The road to becoming a Pokémon Master is a long one.",
+  "it": "\\bNon hai mai smesso di crescere come Allenatore, e dubito che tu abbia intenzione di fermarti adesso. La strada per diventare un Maestro di Pokémon è lunga."
+ },
+ {
+  "id": "\\bI'm truly proud of you, \\PN. I wish you luck in your next journey. And know that you're always welcomed back home.",
+  "en": "\\bI'm truly proud of you, \\PN. I wish you luck in your next journey. And know that you're always welcomed back home.",
+  "it": "\\bSono davvero fiero di te, \\PN. Ti auguro buona fortuna per il tuo prossimo viaggio. E sappi che sarai sempre il benvenuto a casa."
+ },
+ {
+  "id": "\\bOak: I'm not sure what else there is for you to do, \\PN. I would say you've made huge strides to becoming a Pokémon Master.",
+  "en": "\\bOak: I'm not sure what else there is for you to do, \\PN. I would say you've made huge strides to becoming a Pokémon Master.",
+  "it": "\\bOak: Non so cos'altro ti resti da fare, \\PN. Direi che hai fatto passi da gigante per diventare un Maestro di Pokémon."
+ },
+ {
+  "id": "\\bYou could seek out the friends you've met along the way. They may want to see you again. I have a list of the places where they are somewhere around here.",
+  "en": "\\bYou could seek out the friends you've met along the way. They may want to see you again. I have a list of the places where they are somewhere around here.",
+  "it": "\\bPotresti andare a cercare gli amici che hai incontrato lungo la strada. Forse vorranno rivederti. Ho una lista dei posti dove si trovano, qui da qualche parte."
+ },
+ {
+  "id": "\\bThere is also a battle hall in Driftveil City that might interest you.",
+  "en": "\\bThere is also a battle hall in Driftveil City that might interest you.",
+  "it": "\\bC'è anche un Salone Lotta a Libecciopoli che potrebbe interessarti."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

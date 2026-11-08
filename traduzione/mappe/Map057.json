@@ -1,0 +1,372 @@
+[
+ {
+  "id": "Check results for which challenge?\\ch[1,5, Pika Cup,Fancy Cup,Poké Cup,Little Cup,Cancel]",
+  "en": "Check results for which challenge?\\ch[1,5, Pika Cup,Fancy Cup,Poké Cup,Little Cup,Cancel]",
+  "it": "Di quale sfida vuoi vedere i risultati?\\ch[1,5, Coppa Pika,Coppa Baby,Coppa Poké,Coppa Mini,Annulla]"
+ },
+ {
+  "id": "\\PN's Battle Tower Pika Cup Single Battle results:",
+  "en": "\\PN's Battle Tower Pika Cup Single Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta Singola Coppa Pika:"
+ },
+ {
+  "id": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "en": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "it": "Ultima serie di vittorie: \\v[1]\\nRecord di vittorie: \\v[2]"
+ },
+ {
+  "id": "\\PN's Battle Tower Fancy Cup Single Battle results:",
+  "en": "\\PN's Battle Tower Fancy Cup Single Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta Singola Coppa Baby:"
+ },
+ {
+  "id": "\\PN's Battle Tower Poké Cup Single Battle results:",
+  "en": "\\PN's Battle Tower Poké Cup Single Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta Singola Coppa Poké:"
+ },
+ {
+  "id": "\\PN's Battle Tower Little Cup Single Battle results:",
+  "en": "\\PN's Battle Tower Little Cup Single Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta Singola Coppa Mini:"
+ },
+ {
+  "id": "\\PN's Battle Tower Pika Cup Double Battle results:",
+  "en": "\\PN's Battle Tower Pika Cup Double Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta in Doppio Coppa Pika:"
+ },
+ {
+  "id": "\\PN's Battle Tower Fancy Cup Double Battle results:",
+  "en": "\\PN's Battle Tower Fancy Cup Double Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta in Doppio Coppa Baby:"
+ },
+ {
+  "id": "\\PN's Battle Tower Poké Cup Double Battle results:",
+  "en": "\\PN's Battle Tower Poké Cup Double Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta in Doppio Coppa Poké:"
+ },
+ {
+  "id": "\\PN's Battle Tower Little Cup Double Battle results:",
+  "en": "\\PN's Battle Tower Little Cup Double Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta in Doppio Coppa Mini:"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "Which heading would you like to read?\\ch[1,-1, Stadium Cups,Pika Cup,Fancy Cup, Poké Cup,Little Cup,Battle Rules,Exit]",
+  "en": "Which heading would you like to read?\\ch[1,-1, Stadium Cups,Pika Cup,Fancy Cup, Poké Cup,Little Cup,Battle Rules,Exit]",
+  "it": "Quale argomento vuoi leggere?\\ch[1,-1, Coppe Stadio,Coppa Pika,Coppa Baby, Coppa Poké,Coppa Mini,Regole di lotta,Esci]"
+ },
+ {
+  "id": "This facility lets you conduct battles similar to Stadium championships.",
+  "en": "This facility lets you conduct battles similar to Stadium championships.",
+  "it": "Questa struttura permette di disputare lotte simili ai campionati di Stadium."
+ },
+ {
+  "id": "This facility holds battles for Pika Cup, Fancy Cup, Poké Cup, and Little Cup. Each cup has its own rules and restrictions.",
+  "en": "This facility holds battles for Pika Cup, Fancy Cup, Poké Cup, and Little Cup.  Each cup has its own rules and restrictions.",
+  "it": "Questa struttura ospita lotte per la Coppa Pika, la Coppa Baby, la Coppa Poké e la Coppa Mini.  Ogni coppa ha le sue regole e restrizioni."
+ },
+ {
+  "id": "The Pika Cup is open to Pokémon level 15 to 20.",
+  "en": "The Pika Cup is open to Pokémon level 15 to 20.",
+  "it": "La Coppa Pika è aperta ai Pokémon dal livello 15 al 20."
+ },
+ {
+  "id": "Choose three Pokémon to enter.\\n However, the total level of all three can't be higher than 50.",
+  "en": "Choose three Pokémon to enter.\\n However, the total level of all three can't be higher than 50.",
+  "it": "Scegli tre Pokémon da iscrivere.\\n Però la somma dei livelli dei tre non può superare 50."
+ },
+ {
+  "id": "Also, certain exotic kinds of Pokémon may not enter.",
+  "en": "Also, certain exotic kinds of Pokémon may not enter.",
+  "it": "Inoltre, alcuni tipi di Pokémon esotici non possono partecipare."
+ },
+ {
+  "id": "The Fancy Cup is open to baby Pokémon level 25 to 30.",
+  "en": "The Fancy Cup is open to baby Pokémon level 25 to 30.",
+  "it": "La Coppa Baby è aperta ai Pokémon baby dal livello 25 al 30."
+ },
+ {
+  "id": "Choose three Pokémon to enter.\\n However, the total level of all three can't be higher than 80.",
+  "en": "Choose three Pokémon to enter.\\n However, the total level of all three can't be higher than 80.",
+  "it": "Scegli tre Pokémon da iscrivere.\\n Però la somma dei livelli dei tre non può superare 80."
+ },
+ {
+  "id": "Also, very huge or very tall Pokémon may not enter the Fancy Cup.",
+  "en": "Also, very huge or very tall Pokémon may not enter the Fancy Cup.",
+  "it": "Inoltre, i Pokémon molto grossi o molto alti non possono partecipare alla Coppa Baby."
+ },
+ {
+  "id": "The height limit is 2 meters, and the weight limit is 20 kilograms for the Fancy Cup.",
+  "en": "The height limit is 2 meters, and the weight limit is 20 kilograms for the Fancy Cup.",
+  "it": "Per la Coppa Baby il limite di altezza è di 2 metri e il limite di peso è di 20 chilogrammi."
+ },
+ {
+  "id": "The Poké Cup is open to Pokémon level 50 to 55.",
+  "en": "The Poké Cup is open to Pokémon level 50 to 55.",
+  "it": "La Coppa Poké è aperta ai Pokémon dal livello 50 al 55."
+ },
+ {
+  "id": "Choose three Pokémon to enter.\\n However, the total level of all three can't be higher than 155.",
+  "en": "Choose three Pokémon to enter.\\n However, the total level of all three can't be higher than 155.",
+  "it": "Scegli tre Pokémon da iscrivere.\\n Però la somma dei livelli dei tre non può superare 155."
+ },
+ {
+  "id": "The Little Cup is open to baby Pokémon at level 5 that are capable of evolving.",
+  "en": "The Little Cup is open to baby Pokémon at level 5 that are capable of evolving.",
+  "it": "La Coppa Mini è aperta ai Pokémon baby di livello 5 in grado di evolversi."
+ },
+ {
+  "id": "Choose three Pokémon to enter a single battle, or four for a double battle.",
+  "en": "Choose three Pokémon to enter a single battle, or four for a double battle.",
+  "it": "Scegli tre Pokémon da iscrivere per una lotta singola, o quattro per una lotta in doppio."
+ },
+ {
+  "id": "Also, in the Little Cup, moves that deal a set amount of damage, like Dragon Rage and SonicBoom, will always miss.",
+  "en": "Also, in the Little Cup, moves that deal a set amount of damage, like Dragon Rage and SonicBoom, will always miss.",
+  "it": "Inoltre, nella Coppa Mini le mosse che infliggono una quantità fissa di danni, come Ira di Drago e Sonicboom, falliranno sempre."
+ },
+ {
+  "id": "In Stadium Cups, there are several rules to keep in mind.",
+  "en": "In Stadium Cups, there are several rules to keep in mind.",
+  "it": "Nelle Coppe Stadio ci sono diverse regole da tenere a mente."
+ },
+ {
+  "id": "First, two Pokémon in the same team can't be both asleep or both frozen at the same time.",
+  "en": "First, two Pokémon in the same team can't be both asleep or both frozen at the same time.",
+  "it": "Primo, due Pokémon della stessa squadra non possono essere entrambi addormentati o entrambi congelati nello stesso momento."
+ },
+ {
+  "id": "Also, you can't choose two of the same kind of Pokémon, or two Pokémon holding the same item.",
+  "en": "Also, you can't choose two of the same kind of Pokémon, or two Pokémon holding the same item.",
+  "it": "Inoltre, non puoi scegliere due Pokémon della stessa specie o due Pokémon che tengono lo stesso strumento."
+ },
+ {
+  "id": "Finally, if a Pokémon uses Selfdestruct or Explosion to make all remaining Pokémon faint at the same time, that Pokémon's trainer loses.",
+  "en": "Finally, if a Pokémon uses Selfdestruct or Explosion to make all remaining Pokémon faint at the same time, that Pokémon's trainer loses.",
+  "it": "Infine, se un Pokémon usa Autodistruzione o Esplosione e fa esaurire tutti i Pokémon rimasti nello stesso momento, il suo allenatore perde."
+ },
+ {
+  "id": "There is no battle recorded.",
+  "en": "There is no battle recorded.",
+  "it": "Non è stata registrata nessuna lotta."
+ },
+ {
+  "id": "\\rWelcome to the Battle Tower's Stadium Cup Division.",
+  "en": "\\rWelcome to the Battle Tower's Stadium Cup Division.",
+  "it": "\\rBenvenuto nella Divisione Coppe Stadio della Torre Lotta."
+ },
+ {
+  "id": "\\rWould you like to participate in a single battle?",
+  "en": "\\rWould you like to participate in a single battle?",
+  "it": "\\rVuoi partecipare a una lotta singola?"
+ },
+ {
+  "id": "\\rWhich Stadium Cup would you like to enter?\\ch[1,5, Pika Cup,Fancy Cup,Poké Cup,Little Cup,Cancel]",
+  "en": "\\rWhich Stadium Cup would you like to enter?\\ch[1,5, Pika Cup,Fancy Cup,Poké Cup,Little Cup,Cancel]",
+  "it": "\\rA quale Coppa Stadio vuoi partecipare?\\ch[1,5, Coppa Pika,Coppa Baby,Coppa Poké,Coppa Mini,Annulla]"
+ },
+ {
+  "id": "\\rSorry, you can't participate. You need three different Pokémon level 15 to 20 to enter.",
+  "en": "\\rSorry, you can't participate.  You need three different Pokémon level 15 to 20 to enter.",
+  "it": "\\rMi spiace, non puoi partecipare.  Per iscriverti servono tre Pokémon diversi dal livello 15 al 20."
+ },
+ {
+  "id": "\\rThey must be of a different species and hold different items.",
+  "en": "\\rThey must be of a different species and hold different items.",
+  "it": "\\rDevono essere di specie diverse e tenere strumenti diversi."
+ },
+ {
+  "id": "\\rCertain exotic species, as well as eggs, are ineligible.",
+  "en": "\\rCertain exotic species, as well as eggs, are ineligible.",
+  "it": "\\rAlcune specie esotiche, così come le uova, non sono ammesse."
+ },
+ {
+  "id": "\\rSorry, you can't participate. You need three different Pokémon level 25 to 30 to enter.",
+  "en": "\\rSorry, you can't participate.  You need three different Pokémon level 25 to 30 to enter.",
+  "it": "\\rMi spiace, non puoi partecipare.  Per iscriverti servono tre Pokémon diversi dal livello 25 al 30."
+ },
+ {
+  "id": "\\rThey also must be baby Pokémon, and can't be too tall or too heavy.",
+  "en": "\\rThey also must be baby Pokémon, and can't be too tall or too heavy.",
+  "it": "\\rDevono inoltre essere Pokémon baby, e non possono essere troppo alti o troppo pesanti."
+ },
+ {
+  "id": "\\rEggs are ineligible.",
+  "en": "\\rEggs are ineligible.",
+  "it": "\\rLe uova non sono ammesse."
+ },
+ {
+  "id": "\\rSorry, you can't participate. You need three different Pokémon level 50 to 55 to enter.",
+  "en": "\\rSorry, you can't participate.  You need three different Pokémon level 50 to 55 to enter.",
+  "it": "\\rMi spiace, non puoi partecipare.  Per iscriverti servono tre Pokémon diversi dal livello 50 al 55."
+ },
+ {
+  "id": "\\rSorry, you can't participate. You need three different baby Pokémon at level 5 to enter.",
+  "en": "\\rSorry, you can't participate.  You need three different baby Pokémon at level 5 to enter.",
+  "it": "\\rMi spiace, non puoi partecipare.  Per iscriverti servono tre Pokémon baby diversi di livello 5."
+ },
+ {
+  "id": "\\rThey also must be baby Pokémon that are capable of evolving.",
+  "en": "\\rThey also must be baby Pokémon that are capable of evolving.",
+  "it": "\\rDevono inoltre essere Pokémon baby in grado di evolversi."
+ },
+ {
+  "id": "\\rPlease choose the Pokémon that will enter.",
+  "en": "\\rPlease choose the Pokémon that will enter.",
+  "it": "\\rScegli i Pokémon che parteciperanno."
+ },
+ {
+  "id": "\\rPlease come this way.",
+  "en": "\\rPlease come this way.",
+  "it": "\\rDa questa parte, prego."
+ },
+ {
+  "id": "\\rCome back another time.",
+  "en": "\\rCome back another time.",
+  "it": "\\rTorna un'altra volta."
+ },
+ {
+  "id": "\\rCongratulations for winning.",
+  "en": "\\rCongratulations for winning.",
+  "it": "\\rCongratulazioni per la vittoria."
+ },
+ {
+  "id": "\\rPlease take this prize.",
+  "en": "\\rPlease take this prize.",
+  "it": "\\rTi prego, accetta questo premio."
+ },
+ {
+  "id": "\\rYou have no room for it. At least you won, though.",
+  "en": "\\rYou have no room for it.  At least you won, though.",
+  "it": "\\rNon hai spazio per tenerlo.  Almeno hai vinto, però."
+ },
+ {
+  "id": "\\rWould you like to record your last battle?",
+  "en": "\\rWould you like to record your last battle?",
+  "it": "\\rVuoi registrare la tua ultima lotta?"
+ },
+ {
+  "id": "\\se[expfull]The battle was recorded.",
+  "en": "\\se[expfull]The battle was recorded.",
+  "it": "\\se[expfull]La lotta è stata registrata."
+ },
+ {
+  "id": "Your results will be recorded.\\wtnp[15]",
+  "en": "Your results will be recorded.\\wtnp[15]",
+  "it": "I tuoi risultati verranno registrati.\\wtnp[15]"
+ },
+ {
+  "id": "\\rThanks for playing.",
+  "en": "\\rThanks for playing.",
+  "it": "\\rGrazie per aver partecipato."
+ },
+ {
+  "id": "\\rWe've been waiting for you. Please come this way.",
+  "en": "\\rWe've been waiting for you.  Please come this way.",
+  "it": "\\rTi stavamo aspettando.  Da questa parte, prego."
+ },
+ {
+  "id": "\\rExcuse me, but you didn't save before finishing your challenge last time.",
+  "en": "\\rExcuse me, but you didn't save before finishing your challenge last time.",
+  "it": "\\rScusa, ma l'ultima volta non hai salvato prima di terminare la sfida."
+ },
+ {
+  "id": "\\rSorry, but your challenge has been canceled.",
+  "en": "\\rSorry, but your challenge has been canceled.",
+  "it": "\\rMi spiace, ma la tua sfida è stata annullata."
+ },
+ {
+  "id": "\\rWould you like to participate in a double battle?",
+  "en": "\\rWould you like to participate in a double battle?",
+  "it": "\\rVuoi partecipare a una lotta in doppio?"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Stadium Cup rules",
+  "en": "Stadium Cup rules",
+  "it": "Regole Coppe Stadio"
+ },
+ {
+  "id": "Play recorded battle",
+  "en": "Play recorded battle",
+  "it": "Guarda lotta registrata"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ }
+]

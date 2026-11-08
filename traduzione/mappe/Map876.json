@@ -1,0 +1,262 @@
+[
+ {
+  "id": "\\bThe world will be ours.",
+  "en": "\\bThe world will be ours.",
+  "it": "\\bIl mondo sarà nostro."
+ },
+ {
+  "id": "\\bGogoat!",
+  "en": "\\bGogoat!",
+  "it": "\\bGogoat!"
+ },
+ {
+  "id": "\\rMeowstic!",
+  "en": "\\rMeowstic!",
+  "it": "\\rMeowstic!"
+ },
+ {
+  "id": "\\bLuxray!",
+  "en": "\\bLuxray!",
+  "it": "\\bLuxray!"
+ },
+ {
+  "id": "\\bMeowstic!",
+  "en": "\\bMeowstic!",
+  "it": "\\bMeowstic!"
+ },
+ {
+  "id": "Metagross!",
+  "en": "Metagross!",
+  "it": "Metagross!"
+ },
+ {
+  "id": "Herb Shop",
+  "en": "Herb Shop",
+  "it": "Erboristeria"
+ },
+ {
+  "id": "\\bWulfirc: These small fries are nothing.",
+  "en": "\\bWulfirc: These small fries are nothing.",
+  "it": "\\bEdel: Questi pesci piccoli non sono niente."
+ },
+ {
+  "id": "\\bSawyer: I've got this one.",
+  "en": "\\bSawyer: I've got this one.",
+  "it": "\\bSawyer: A questo ci penso io."
+ },
+ {
+  "id": "\\bSycamore: Head to the gym!",
+  "en": "\\bSycamore: Head to the gym!",
+  "it": "\\bPlatan: Vai alla Palestra!"
+ },
+ {
+  "id": "\\rViola: I've got this one. Keep going.",
+  "en": "\\rViola: I've got this one. Keep going.",
+  "it": "\\rViola: A questo ci penso io. Tu vai avanti."
+ },
+ {
+  "id": "\\bAbomasnow!",
+  "en": "\\bAbomasnow!",
+  "it": "\\bAbomasnow!"
+ },
+ {
+  "id": "\\rGarchomp!",
+  "en": "\\rGarchomp!",
+  "it": "\\rGarchomp!"
+ },
+ {
+  "id": "\\rAliana: Stop resisting.",
+  "en": "\\rAliana: Stop resisting.",
+  "it": "\\rAliana: Smettila di opporre resistenza."
+ },
+ {
+  "id": "No!",
+  "en": "No!",
+  "it": "No!"
+ },
+ {
+  "id": "\\rAliana: Resisting us is pointless. This world will end.",
+  "en": "\\rAliana: Resisting us is pointless. This world will end.",
+  "it": "\\rAliana: Resisterci è inutile. Questo mondo finirà."
+ },
+ {
+  "id": "\\rDiantha: Don't worry about me.",
+  "en": "\\rDiantha: Don't worry about me.",
+  "it": "\\rDiantha: Non preoccuparti per me."
+ },
+ {
+  "id": "\\rVivillon!",
+  "en": "\\rVivillon!",
+  "it": "\\rVivillon!"
+ },
+ {
+  "id": "\\rValerie: I'll be fine, thank you.",
+  "en": "\\rValerie: I'll be fine, thank you.",
+  "it": "\\rValérie: Starò bene, grazie."
+ },
+ {
+  "id": "\\bGrant: Don't slow down.",
+  "en": "\\bGrant: Don't slow down.",
+  "it": "\\bLino: Non rallentare."
+ },
+ {
+  "id": "\\rGardevoir!",
+  "en": "\\rGardevoir!",
+  "it": "\\rGardevoir!"
+ },
+ {
+  "id": "\\bBow down to our rule.",
+  "en": "\\bBow down to our rule.",
+  "it": "\\bInchinati al nostro dominio."
+ },
+ {
+  "id": "\\rSpritzee!",
+  "en": "\\rSpritzee!",
+  "it": "\\rSpritzee!"
+ },
+ {
+  "id": "\\rKorrina: I'll be fine.",
+  "en": "\\rKorrina: I'll be fine.",
+  "it": "\\rOrnella: Starò bene."
+ },
+ {
+  "id": "\\bSceptile",
+  "en": "\\bSceptile",
+  "it": "\\bSceptile"
+ },
+ {
+  "id": "\\bJames: We won't lose to you.",
+  "en": "\\bJames: We won't lose to you.",
+  "it": "\\bJames: Non perderemo contro di te."
+ },
+ {
+  "id": "\\bI'll stop you.",
+  "en": "\\bI'll stop you.",
+  "it": "\\bTi fermerò."
+ },
+ {
+  "id": "\\rJessie: Get lost!",
+  "en": "\\rJessie: Get lost!",
+  "it": "\\rJessie: Sparisci!"
+ },
+ {
+  "id": "\\bYou've made it too far. You stop now.",
+  "en": "\\bYou've made it too far. You stop now.",
+  "it": "\\bSei arrivato fin troppo lontano. Ti fermi qui."
+ },
+ {
+  "id": "\\bRamos: You think this will be enough to stop me?",
+  "en": "\\bRamos: You think this will be enough to stop me?",
+  "it": "\\bAmur: Credi che basterà questo a fermarmi?"
+ },
+ {
+  "id": "\\bTeam Rocket will always prevail.",
+  "en": "\\bTeam Rocket will always prevail.",
+  "it": "\\bIl Team Rocket trionferà sempre."
+ },
+ {
+  "id": "\\bI've got this one.",
+  "en": "\\bI've got this one.",
+  "it": "\\bA questo ci penso io."
+ },
+ {
+  "id": "\\bClemont: \\PN! Head for the gym. I think the boss is in there.",
+  "en": "\\bClemont: \\PN! Head for the gym. I think the boss is in there.",
+  "it": "\\bLem: \\PN! Vai alla Palestra. Credo che il capo sia lì dentro."
+ },
+ {
+  "id": "\\bWobbuffet!",
+  "en": "\\bWobbuffet!",
+  "it": "\\bWobbuffet!"
+ },
+ {
+  "id": "\\rMable: How did you get past everyone?",
+  "en": "\\rMable: How did you get past everyone?",
+  "it": "\\rMable: Come hai fatto a superare tutti?"
+ },
+ {
+  "id": "\\rMable: Don't go in the gym.",
+  "en": "\\rMable: Don't go in the gym.",
+  "it": "\\rMable: Non entrare nella Palestra."
+ },
+ {
+  "id": "\\rSerena: \\PN! Hurry and help everyone else.",
+  "en": "\\rSerena: \\PN! Hurry and help everyone else.",
+  "it": "\\rSerena: \\PN! Sbrigati ad aiutare gli altri."
+ },
+ {
+  "id": "\\rBryony: Haha. This time we can't be stopped.",
+  "en": "\\rBryony: Haha. This time we can't be stopped.",
+  "it": "\\rBryony: Ahah. Stavolta non potete fermarci."
+ },
+ {
+  "id": "\\rBryony: I can't fall here.",
+  "en": "\\rBryony: I can't fall here.",
+  "it": "\\rBryony: Non posso cadere qui."
+ },
+ {
+  "id": "\\rGourgeist!",
+  "en": "\\rGourgeist!",
+  "it": "\\rGourgeist!"
+ },
+ {
+  "id": "\\rBraixen",
+  "en": "\\rBraixen",
+  "it": "\\rBraixen"
+ },
+ {
+  "id": "\\rCelosia: Not another step.",
+  "en": "\\rCelosia: Not another step.",
+  "it": "\\rCelosia: Non un passo di più."
+ },
+ {
+  "id": "\\rCelosia: This won't end here. We will win.",
+  "en": "\\rCelosia: This won't end here. We will win.",
+  "it": "\\rCelosia: Non finisce qui. Vinceremo noi."
+ },
+ {
+  "id": "\\bSteven: Good to see you again \\PN. Though I can't say now is the best time to catch up.",
+  "en": "\\bSteven: Good to see you again \\PN. Though I can't say now is the best time to catch up.",
+  "it": "\\bRocco: Che piacere rivederti, \\PN. Anche se non direi che sia il momento migliore per fare due chiacchiere."
+ },
+ {
+  "id": "\\bInkay!",
+  "en": "\\bInkay!",
+  "it": "\\bInkay!"
+ },
+ {
+  "id": "\\rOlympia: The event I predicted is happening at last. Don't let us down.",
+  "en": "\\rOlympia: The event I predicted is happening at last.  Don't let us down.",
+  "it": "\\rAstra: L'evento che avevo predetto sta finalmente accadendo.  Non deluderci."
+ },
+ {
+  "id": "\\bTyrunt!",
+  "en": "\\bTyrunt!",
+  "it": "\\bTyrunt!"
+ },
+ {
+  "id": "Lumiose City Pokémon Gym Leader:\\nClemont",
+  "en": "Lumiose City Pokémon Gym Leader:\\nClemont",
+  "it": "Capopalestra di Luminopoli:\\nLem"
+ },
+ {
+  "id": "The inventor lighting up the world.",
+  "en": "The inventor lighting up the world.",
+  "it": "L'inventore che illumina il mondo."
+ },
+ {
+  "id": "\\bLucario!",
+  "en": "\\bLucario!",
+  "it": "\\bLucario!"
+ },
+ {
+  "id": "Professor Sycamore's Lab",
+  "en": "Professor Sycamore's Lab",
+  "it": "Laboratorio del Professor Platan"
+ },
+ {
+  "id": "Lumiose Town Blimp Service",
+  "en": "Lumiose Town Blimp Service",
+  "it": "Servizio Dirigibili di Luminopoli"
+ }
+]

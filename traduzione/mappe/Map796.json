@@ -1,0 +1,112 @@
+[
+ {
+  "id": "\\rWhat was I looking for?",
+  "en": "\\rWhat was I looking for?",
+  "it": "\\rCosa stavo cercando?"
+ },
+ {
+  "id": "The ball holds a Chespin. Would you like to take it?",
+  "en": "The ball holds a Chespin. Would you like to take it?",
+  "it": "La Ball contiene Chespin. Vuoi prenderlo?"
+ },
+ {
+  "id": "The ball holds a Fenniken. Would you like to take it?",
+  "en": "The ball holds a Fenniken. Would you like to take it?",
+  "it": "La Ball contiene Fenniken. Vuoi prenderlo?"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange,Johto,Hoenn,Sinnoh,Unima,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange,Johto,Hoenn,Sinnoh,Unima,Alola,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Galar,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Galar,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange,Johto,Hoenn,Sinnoh,Unima,Alola,Galar,Annulla]"
+ },
+ {
+  "id": "\\bSycamore: Sorry, but I need to find Froakie. We can talk soon.",
+  "en": "\\bSycamore: Sorry, but I need to find Froakie. We can talk soon.",
+  "it": "\\bPlatan: Scusami, ma devo trovare Froakie. Parliamo più tardi."
+ },
+ {
+  "id": "\\bSycamore: I see you found Froakie. Thanks for the help. Please take a starter if you want to.",
+  "en": "\\bSycamore: I see you found Froakie. Thanks for the help. Please take a starter if you want to.",
+  "it": "\\bPlatan: Vedo che hai trovato Froakie. Grazie dell'aiuto. Prendi pure uno starter, se ti va."
+ },
+ {
+  "id": "\\bYou have a lot of promise. I'm entrusting you with this Mega Ring. I hope you find the answer to what it does.",
+  "en": "\\bYou have a lot of promise. I'm entrusting you with this Mega Ring. I hope you find the answer to what it does.",
+  "it": "\\bHai un grande potenziale. Ti affido questo Megacerchio. Spero che scoprirai a cosa serve."
+ },
+ {
+  "id": "\\bSycamore: I study Mega Evolution. I'm hoping Garchomp and I can achieve it soon.",
+  "en": "\\bSycamore: I study Mega Evolution. I'm hoping Garchomp and I can achieve it soon.",
+  "it": "\\bPlatan: Studio la Megaevoluzione. Spero che io e Garchomp riusciremo a raggiungerla presto."
+ },
+ {
+  "id": "\\bSycamore: Garchomp and I have figured out Mega Evolution. Take this and see it for yourself.",
+  "en": "\\bSycamore: Garchomp and I have figured out Mega Evolution. Take this and see it for yourself.",
+  "it": "\\bPlatan: Io e Garchomp abbiamo scoperto il segreto della Megaevoluzione. Prendi questo e vedrai tu stesso."
+ },
+ {
+  "id": "\\bSycamore: I study Mega Evolution. Garchomp and I are able to do it together.",
+  "en": "\\bSycamore: I study Mega Evolution. Garchomp and I are able to do it together.",
+  "it": "\\bPlatan: Studio la Megaevoluzione. Io e Garchomp riusciamo a usarla insieme."
+ },
+ {
+  "id": "\\bAlain: Good to see you again, \\PN. I'm on a break from searching for Mega Stones, but a battle would be a good way to keep me sharp.",
+  "en": "\\bAlain: Good to see you again, \\PN. I'm on a break from searching for Mega Stones, but a battle would be a good way to keep me sharp.",
+  "it": "\\bAlan: Che piacere rivederti, \\PN. Mi sto prendendo una pausa dalla ricerca delle Megapietre, ma una lotta sarebbe un ottimo modo per tenermi in forma."
+ },
+ {
+  "id": "\\bAlain: Come back anytime. It's always a rush to battle you.",
+  "en": "\\bAlain: Come back anytime. It's always a rush to battle you.",
+  "it": "\\bAlan: Torna quando vuoi. Lottare contro di te è sempre una scarica di adrenalina."
+ },
+ {
+  "id": "\\bSycamore: Welcome to my lab. You're \\PN, I believe.",
+  "en": "\\bSycamore: Welcome to my lab. You're \\PN, I believe.",
+  "it": "\\bPlatan: Benvenuto nel mio laboratorio. Tu devi essere \\PN, se non sbaglio."
+ },
+ {
+  "id": "\\bWelcome to Kalos, though I'm sorry to say I'm a bit distracted. A Froakie we take care of left its new Trainer again and we still can't find it.",
+  "en": "\\bWelcome to Kalos, though I'm sorry to say I'm a bit distracted. A Froakie we take care of left its new Trainer again and we still can't find it.",
+  "it": "\\bBenvenuto a Kalos, anche se purtroppo sono un po' distratto. Un Froakie di cui ci prendiamo cura ha abbandonato di nuovo il suo nuovo Allenatore e non riusciamo a trovarlo."
+ },
+ {
+  "id": "\\bIf you help us find it I'll let you take a Kalos starter of your own.",
+  "en": "\\bIf you help us find it I'll let you take a Kalos starter of your own.",
+  "it": "\\bSe ci aiuti a trovarlo, ti lascerò prendere uno starter di Kalos tutto per te."
+ },
+ {
+  "id": "Your Pokémon were fully healed.",
+  "en": "Your Pokémon were fully healed.",
+  "it": "I tuoi Pokémon sono stati curati completamente."
+ },
+ {
+  "id": "\\rGarchomp!",
+  "en": "\\rGarchomp!",
+  "it": "\\rGarchomp!"
+ },
+ {
+  "id": "\\rProfessor Sycamore used to have an aide with a Charmander. I wonder where he went.",
+  "en": "\\rProfessor Sycamore used to have an aide with a Charmander. I wonder where he went.",
+  "it": "\\rIl Professor Platan aveva un assistente con un Charmander. Chissà che fine ha fatto."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "There is a questionnaire.\\nWould you like to fill it out?",
+  "en": "There is a questionnaire.\\nWould you like to fill it out?",
+  "it": "C'è un questionario.\\nVuoi compilarlo?"
+ },
+ {
+  "id": "\\PN filled in the questionnaire.",
+  "en": "\\PN filled in the questionnaire.",
+  "it": "\\PN ha compilato il questionario."
+ },
+ {
+  "id": "\\bOh, hello!\\nYou filled in the questionnaire?",
+  "en": "\\bOh, hello!\\nYou filled in the questionnaire?",
+  "it": "\\bOh, ciao!\\nHai compilato il questionario?"
+ },
+ {
+  "id": "\\bThat means you must know about the Mystery Gift.",
+  "en": "\\bThat means you must know about the Mystery Gift.",
+  "it": "\\bAllora devi sapere del Dono Segreto."
+ },
+ {
+  "id": "\\bFrom now on, you should be receiving Mystery Gifts!",
+  "en": "\\bFrom now on, you should be receiving Mystery Gifts!",
+  "it": "\\bD'ora in poi dovresti ricevere dei Doni Segreti!"
+ },
+ {
+  "id": "\\w[signskin]Once you save your game, you can access the Mystery Gift.",
+  "en": "\\w[signskin]Once you save your game, you can access the Mystery Gift.",
+  "it": "\\w[signskin]Dopo aver salvato la partita, potrai accedere al Dono Segreto."
+ },
+ {
+  "id": "\\bHello. You must be \\PN.",
+  "en": "\\bHello. You must be \\PN.",
+  "it": "\\bCiao. Tu devi essere \\PN."
+ },
+ {
+  "id": "\\bI've received a gift for you.\\nHere you go!",
+  "en": "\\bI've received a gift for you.\\nHere you go!",
+  "it": "\\bHo ricevuto un regalo per te.\\nEccolo!"
+ },
+ {
+  "id": "\\bI haven't received any other gifts for you.",
+  "en": "\\bI haven't received any other gifts for you.",
+  "it": "\\bNon ho ricevuto altri regali per te."
+ },
+ {
+  "id": "\\bWe look forward to your next visit.",
+  "en": "\\bWe look forward to your next visit.",
+  "it": "\\bTi aspettiamo alla prossima visita."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

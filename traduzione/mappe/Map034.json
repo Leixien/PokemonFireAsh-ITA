@@ -1,0 +1,27 @@
+[
+ {
+  "id": "This is another boulder-down-hole puzzle.",
+  "en": "This is another boulder-down-hole puzzle.",
+  "it": "Questo è un altro enigma del masso da spingere nella buca."
+ },
+ {
+  "id": "It is identical to the regular kind, except the boulder downstairs is just a regular immovable event rather than a boulder itself.",
+  "en": "It is identical to the regular kind, except the boulder downstairs is just a regular immovable event rather than a boulder itself.",
+  "it": "È identico a quello normale, solo che il masso al piano di sotto è un semplice evento inamovibile anziché un vero masso."
+ },
+ {
+  "id": "On the right is an example of a cracked ice tile. You can walk over it once, but step on it again and you'll fall through to another map.",
+  "en": "On the right is an example of a cracked ice tile.  You can walk over it once, but step on it again and you'll fall through to another map.",
+  "it": "A destra c'è un esempio di lastra di ghiaccio incrinata. Puoi camminarci sopra una volta, ma se la calpesti di nuovo cadrai in un'altra mappa."
+ },
+ {
+  "id": "In this case, you will \"fall down\" to a different part of this same map. There's no difference to warrant the two levels of this cave to be on different maps.",
+  "en": "In this case, you will \"fall down\" to a different part of this same map.  There's no difference to warrant the two levels of this cave to be on different maps.",
+  "it": "In questo caso \"cadrai\" in un'altra parte di questa stessa mappa. Non c'è alcuna differenza che giustifichi mettere i due livelli della grotta su mappe diverse."
+ },
+ {
+  "id": "Ice you slide around on has terrain tag 12.",
+  "en": "Ice you slide around on has terrain tag 12.",
+  "it": "Il ghiaccio su cui si scivola ha il terrain tag 12."
+ }
+]

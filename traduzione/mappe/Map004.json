@@ -1,0 +1,232 @@
+[
+ {
+  "id": "This ball contains a Pokémon caught by the Professor.",
+  "en": "This ball contains a Pokémon caught by the Professor.",
+  "it": "Questa Poké Ball contiene un Pokémon catturato dal Professore."
+ },
+ {
+  "id": "\\bOak: So, you want Charmander, the fire Pokémon?",
+  "en": "\\bOak: So, you want Charmander, the fire Pokémon?",
+  "it": "\\bOak: Allora, vuoi Charmander, il Pokémon di tipo Fuoco?"
+ },
+ {
+  "id": "\\bOak: Choose carefully!",
+  "en": "\\bOak: Choose carefully!",
+  "it": "\\bOak: Scegli con attenzione!"
+ },
+ {
+  "id": "Global variable 7 should store 1 if the player chose the Grass starter, 2 if they chose the Fire starter, and 3 if they chose the Water starter.",
+  "en": "Global variable 7 should store 1 if the player chose the Grass starter, 2 if they chose the Fire starter, and 3 if they chose the Water starter.",
+  "it": "La variabile globale 7 deve contenere 1 se il giocatore ha scelto lo starter Erba, 2 se ha scelto lo starter Fuoco e 3 se ha scelto lo starter Acqua."
+ },
+ {
+  "id": "This information can be used later in the game, e.g. to determine which Pokémon the rival uses.",
+  "en": "This information can be used later in the game, e.g. to determine which Pokémon the rival uses.",
+  "it": "Questa informazione può essere usata più avanti nel gioco, ad esempio per stabilire quali Pokémon usa il rivale."
+ },
+ {
+  "id": "\\bOak: So, you want Squirtle, the water Pokémon?",
+  "en": "\\bOak: So, you want Squirtle, the water Pokémon?",
+  "it": "\\bOak: Allora, vuoi Squirtle, il Pokémon di tipo Acqua?"
+ },
+ {
+  "id": "\\bOak: You should battle with your Pokémon to make it strong.",
+  "en": "\\bOak: You should battle with your Pokémon to make it strong.",
+  "it": "\\bOak: Dovresti lottare con il tuo Pokémon per renderlo forte."
+ },
+ {
+  "id": "\\bOak: If you register me in your Pokégear, you can call me any time to rate your Pokédex completion.",
+  "en": "\\bOak: If you register me in your Pokégear, you can call me any time to rate your Pokédex completion.",
+  "it": "\\bOak: Se mi registri nel tuo Pokégear, puoi chiamarmi quando vuoi per farmi valutare il completamento del tuo Pokédex."
+ },
+ {
+  "id": "\\bOak: Please let me know how you get on!",
+  "en": "\\bOak: Please let me know how you get on!",
+  "it": "\\bOak: Fammi sapere come te la cavi!"
+ },
+ {
+  "id": "\\bOak: Oh, okay. Let me know if you change your mind.",
+  "en": "\\bOak: Oh, okay. Let me know if you change your mind.",
+  "it": "\\bOak: Oh, va bene. Fammi sapere se cambi idea."
+ },
+ {
+  "id": "\\bOak: Well, which one do you want?",
+  "en": "\\bOak: Well, which one do you want?",
+  "it": "\\bOak: Allora, quale vuoi?"
+ },
+ {
+  "id": "\\PN received a Pokédex!",
+  "en": "\\PN received a Pokédex!",
+  "it": "\\PN ha ricevuto un Pokédex!"
+ },
+ {
+  "id": "You already have a Pokédex.",
+  "en": "You already have a Pokédex.",
+  "it": "Hai già un Pokédex."
+ },
+ {
+  "id": "\\bOak: Wait, don't leave yet!",
+  "en": "\\bOak: Wait, don't leave yet!",
+  "it": "\\bOak: Aspetta, non andartene ancora!"
+ },
+ {
+  "id": "\\bI can control your Pokédex access. What do you want me to do?",
+  "en": "\\bI can control your Pokédex access.  What do you want me to do?",
+  "it": "\\bPosso gestire il tuo accesso al Pokédex.  Cosa vuoi che faccia?"
+ },
+ {
+  "id": "\\bWhat about it?",
+  "en": "\\bWhat about it?",
+  "it": "\\bCosa vuoi fare?"
+ },
+ {
+  "id": "\\bThe Kanto Dex was unlocked.",
+  "en": "\\bThe Kanto Dex was unlocked.",
+  "it": "\\bIl Pokédex di Kanto è stato sbloccato."
+ },
+ {
+  "id": "\\bThe Kanto Dex was locked.",
+  "en": "\\bThe Kanto Dex was locked.",
+  "it": "\\bIl Pokédex di Kanto è stato bloccato."
+ },
+ {
+  "id": "\\bThe Johto Dex was unlocked.",
+  "en": "\\bThe Johto Dex was unlocked.",
+  "it": "\\bIl Pokédex di Johto è stato sbloccato."
+ },
+ {
+  "id": "\\bThe Johto Dex was locked.",
+  "en": "\\bThe Johto Dex was locked.",
+  "it": "\\bIl Pokédex di Johto è stato bloccato."
+ },
+ {
+  "id": "\\bThe National Dex was unlocked.",
+  "en": "\\bThe National Dex was unlocked.",
+  "it": "\\bIl Pokédex Nazionale è stato sbloccato."
+ },
+ {
+  "id": "\\bThe National Dex was locked.",
+  "en": "\\bThe National Dex was locked.",
+  "it": "\\bIl Pokédex Nazionale è stato bloccato."
+ },
+ {
+  "id": "\\bOak: Here, take one of these rare Pokémon.",
+  "en": "\\bOak: Here, take one of these rare Pokémon.",
+  "it": "\\bOak: Ecco, prendi uno di questi Pokémon rari."
+ },
+ {
+  "id": "\\bOak: Ah, you made your choice!",
+  "en": "\\bOak: Ah, you made your choice!",
+  "it": "\\bOak: Ah, hai fatto la tua scelta!"
+ },
+ {
+  "id": "\\bOak: Bulbasaur, an excellent choice!",
+  "en": "\\bOak: Bulbasaur, an excellent choice!",
+  "it": "\\bOak: Bulbasaur, un'ottima scelta!"
+ },
+ {
+  "id": "\\bOak: Charmander, an excellent choice!",
+  "en": "\\bOak: Charmander, an excellent choice!",
+  "it": "\\bOak: Charmander, un'ottima scelta!"
+ },
+ {
+  "id": "\\bOak: Squirtle, an excellent choice!",
+  "en": "\\bOak: Squirtle, an excellent choice!",
+  "it": "\\bOak: Squirtle, un'ottima scelta!"
+ },
+ {
+  "id": "\\bOak: If I had a grandson, he would probably want his own Pokémon around now...",
+  "en": "\\bOak: If I had a grandson, he would probably want his own Pokémon around now...",
+  "it": "\\bOak: Se avessi un nipote, probabilmente a quest'ora vorrebbe un Pokémon tutto suo..."
+ },
+ {
+  "id": "\\bHi! I'm \\v[2].",
+  "en": "\\bHi!  I'm \\v[2].",
+  "it": "\\bCiao!  Sono \\v[2]."
+ },
+ {
+  "id": "\\bI created the Pokémon Storage System.",
+  "en": "\\bI created the Pokémon Storage System.",
+  "it": "\\bHo creato io il Sistema Memoria Pokémon."
+ },
+ {
+  "id": "\\bThat's interesting, isn't it?",
+  "en": "\\bThat's interesting, isn't it?",
+  "it": "\\bInteressante, vero?"
+ },
+ {
+  "id": "\\bOak: So, you want Bulbasaur, the grass Pokémon?",
+  "en": "\\bOak: So, you want Bulbasaur, the grass Pokémon?",
+  "it": "\\bOak: Allora, vuoi Bulbasaur, il Pokémon di tipo Erba?"
+ },
+ {
+  "id": "The event next to the Professor contains the autorun commands.",
+  "en": "The event next to the Professor contains the autorun commands.",
+  "it": "L'evento accanto al Professore contiene i comandi in esecuzione automatica."
+ },
+ {
+  "id": "There are two lots: those that happen when the player first enters the map, and those that happen when the player has chosen a starter.",
+  "en": "There are two lots: those that happen when the player first enters the map, and those that happen when the player has chosen a starter.",
+  "it": "Ci sono due gruppi: quelli che avvengono quando il giocatore entra per la prima volta nella mappa e quelli che avvengono dopo che ha scelto uno starter."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Kanto Dex access",
+  "en": "Kanto Dex access",
+  "it": "Pokédex di Kanto"
+ },
+ {
+  "id": "Johto Dex access",
+  "en": "Johto Dex access",
+  "it": "Pokédex di Johto"
+ },
+ {
+  "id": "National Dex access",
+  "en": "National Dex access",
+  "it": "Pokédex Nazionale"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Unlock Kanto Dex",
+  "en": "Unlock Kanto Dex",
+  "it": "Sblocca Dex Kanto"
+ },
+ {
+  "id": "Lock Kanto Dex",
+  "en": "Lock Kanto Dex",
+  "it": "Blocca Dex Kanto"
+ },
+ {
+  "id": "Unlock Johto Dex",
+  "en": "Unlock Johto Dex",
+  "it": "Sblocca Dex Johto"
+ },
+ {
+  "id": "Lock Johto Dex",
+  "en": "Lock Johto Dex",
+  "it": "Blocca Dex Johto"
+ },
+ {
+  "id": "Unlock National Dex",
+  "en": "Unlock National Dex",
+  "it": "Sblocca Dex Nazionale"
+ },
+ {
+  "id": "Lock National Dex",
+  "en": "Lock National Dex",
+  "it": "Blocca Dex Nazionale"
+ }
+]

@@ -1,0 +1,1212 @@
+[
+ {
+  "id": 0,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 1,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 2,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 3,
+  "en": "Pokémon Coordinator",
+  "it": "Coordinatore"
+ },
+ {
+  "id": 4,
+  "en": "Rival",
+  "it": "Rivale"
+ },
+ {
+  "id": 5,
+  "en": "Rival",
+  "it": "Rivale"
+ },
+ {
+  "id": 6,
+  "en": "Aroma Lady",
+  "it": "Aromadama"
+ },
+ {
+  "id": 7,
+  "en": "Beauty",
+  "it": "Bellezza"
+ },
+ {
+  "id": 8,
+  "en": "Biker",
+  "it": "Centauro"
+ },
+ {
+  "id": 9,
+  "en": "Bird Keeper",
+  "it": "Ornitologo"
+ },
+ {
+  "id": 10,
+  "en": "Bug Catcher",
+  "it": "Pigliamosche"
+ },
+ {
+  "id": 11,
+  "en": "Burglar",
+  "it": "Ladro"
+ },
+ {
+  "id": 12,
+  "en": "Channeler",
+  "it": "Medium"
+ },
+ {
+  "id": 13,
+  "en": "Cue Ball",
+  "it": "Teppista"
+ },
+ {
+  "id": 14,
+  "en": "Engineer",
+  "it": "Ingegnere"
+ },
+ {
+  "id": 15,
+  "en": "Fisherman",
+  "it": "Pescatore"
+ },
+ {
+  "id": 16,
+  "en": "Gambler",
+  "it": "Giocatore"
+ },
+ {
+  "id": 17,
+  "en": "Gentleman",
+  "it": "Gentiluomo"
+ },
+ {
+  "id": 18,
+  "en": "Hiker",
+  "it": "Montanaro"
+ },
+ {
+  "id": 19,
+  "en": "Juggler",
+  "it": "Giocoliere"
+ },
+ {
+  "id": 20,
+  "en": "Lady",
+  "it": "Damigella"
+ },
+ {
+  "id": 21,
+  "en": "Painter",
+  "it": "Pittrice"
+ },
+ {
+  "id": 22,
+  "en": "Poké Maniac",
+  "it": "PokéFanatico"
+ },
+ {
+  "id": 23,
+  "en": "Pokémon Breeder",
+  "it": "Allevatore Pokémon"
+ },
+ {
+  "id": 24,
+  "en": "Professor",
+  "it": "Professore"
+ },
+ {
+  "id": 25,
+  "en": "Rocker",
+  "it": "Rocker"
+ },
+ {
+  "id": 26,
+  "en": "Ruin Maniac",
+  "it": "Rovinologo"
+ },
+ {
+  "id": 27,
+  "en": "Sailor",
+  "it": "Marinaio"
+ },
+ {
+  "id": 28,
+  "en": "Scientist",
+  "it": "Scienziato"
+ },
+ {
+  "id": 29,
+  "en": "Super Nerd",
+  "it": "Secchione"
+ },
+ {
+  "id": 30,
+  "en": "Tamer",
+  "it": "Domatore"
+ },
+ {
+  "id": 31,
+  "en": "Black Belt",
+  "it": "Karateka"
+ },
+ {
+  "id": 32,
+  "en": "Crush Girl",
+  "it": "Lottatrice"
+ },
+ {
+  "id": 33,
+  "en": "Camper",
+  "it": "Campeggiatore"
+ },
+ {
+  "id": 34,
+  "en": "Picnicker",
+  "it": "Campeggiatrice"
+ },
+ {
+  "id": 35,
+  "en": "Cool Trainer",
+  "it": "Fantallenatore"
+ },
+ {
+  "id": 36,
+  "en": "Cool Trainer",
+  "it": "Fantallenatore"
+ },
+ {
+  "id": 37,
+  "en": "Youngster",
+  "it": "Bullo"
+ },
+ {
+  "id": 38,
+  "en": "Lass",
+  "it": "Pupa"
+ },
+ {
+  "id": 39,
+  "en": "Pokémon Ranger",
+  "it": "Pokémon Ranger"
+ },
+ {
+  "id": 40,
+  "en": "Pokémon Ranger",
+  "it": "Pokémon Ranger"
+ },
+ {
+  "id": 41,
+  "en": "Psychic",
+  "it": "Sensitivo"
+ },
+ {
+  "id": 42,
+  "en": "Psychic",
+  "it": "Sensitivo"
+ },
+ {
+  "id": 43,
+  "en": "Swimmer",
+  "it": "Nuotatore"
+ },
+ {
+  "id": 44,
+  "en": "Swimmer",
+  "it": "Nuotatore"
+ },
+ {
+  "id": 45,
+  "en": "Swimmer",
+  "it": "Nuotatore"
+ },
+ {
+  "id": 46,
+  "en": "Swimmer",
+  "it": "Nuotatore"
+ },
+ {
+  "id": 47,
+  "en": "Tuber",
+  "it": "Bagnante"
+ },
+ {
+  "id": 48,
+  "en": "Tuber",
+  "it": "Bagnante"
+ },
+ {
+  "id": 49,
+  "en": "Tuber",
+  "it": "Bagnante"
+ },
+ {
+  "id": 50,
+  "en": "Tuber",
+  "it": "Bagnante"
+ },
+ {
+  "id": 51,
+  "en": "Cool Couple",
+  "it": "Fantacoppia"
+ },
+ {
+  "id": 52,
+  "en": "Crush Kin",
+  "it": "Lottatori"
+ },
+ {
+  "id": 53,
+  "en": "Sis and Bro",
+  "it": "Fratellini"
+ },
+ {
+  "id": 54,
+  "en": "Twins",
+  "it": "Gemelle"
+ },
+ {
+  "id": 55,
+  "en": "Young Couple",
+  "it": "Giovane Coppia"
+ },
+ {
+  "id": 56,
+  "en": "Team Rocket",
+  "it": "Team Rocket"
+ },
+ {
+  "id": 57,
+  "en": "Team Rocket",
+  "it": "Team Rocket"
+ },
+ {
+  "id": 58,
+  "en": "Rocket Boss",
+  "it": "Capo Rocket"
+ },
+ {
+  "id": 59,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 60,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 61,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 62,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 63,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 64,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 65,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 66,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 67,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 68,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 69,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 70,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 71,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 72,
+  "en": "Team Rocket's",
+  "it": "Team Rocket"
+ },
+ {
+  "id": 73,
+  "en": "Breeder",
+  "it": "Allevatore"
+ },
+ {
+  "id": 74,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 75,
+  "en": "Watcher",
+  "it": "Osservatore"
+ },
+ {
+  "id": 76,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 77,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 78,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 79,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 80,
+  "en": "Orange Crew Leader",
+  "it": "Capo Orange"
+ },
+ {
+  "id": 81,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 82,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 83,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 84,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 85,
+  "en": "Kimono Girl",
+  "it": "Ragazza Kimono"
+ },
+ {
+  "id": 86,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 87,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 88,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 89,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 90,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 91,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 92,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 93,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 94,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 95,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 96,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 97,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 98,
+  "en": "Factory Head",
+  "it": "Capofabbrica"
+ },
+ {
+  "id": 99,
+  "en": "Arena Tycoon",
+  "it": "Magnate Arena"
+ },
+ {
+  "id": 100,
+  "en": "Dome Ace",
+  "it": "Asso Cupola"
+ },
+ {
+  "id": 101,
+  "en": "Pike Queen",
+  "it": "Regina Tubo"
+ },
+ {
+  "id": 102,
+  "en": "Palace Maven",
+  "it": "Guru Palazzo"
+ },
+ {
+  "id": 103,
+  "en": "Salon Maiden",
+  "it": "Dama Salone"
+ },
+ {
+  "id": 104,
+  "en": "Pyramid King",
+  "it": "Re Piramide"
+ },
+ {
+  "id": 105,
+  "en": "Pokémon Coordinator",
+  "it": "Coordinatore"
+ },
+ {
+  "id": 106,
+  "en": "Rival",
+  "it": "Rivale"
+ },
+ {
+  "id": 107,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 108,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 109,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 110,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 111,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 112,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 113,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 114,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 115,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 116,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 117,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 118,
+  "en": "Tower Tycoon",
+  "it": "Magnate Torre"
+ },
+ {
+  "id": 119,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 120,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 121,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 122,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 123,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 124,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 125,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 126,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 127,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 128,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 129,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 130,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 131,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 132,
+  "en": "Connoisseur",
+  "it": "Intenditore"
+ },
+ {
+  "id": 133,
+  "en": "Subway Boss",
+  "it": "Capo Metrò"
+ },
+ {
+  "id": 134,
+  "en": "Subway Boss",
+  "it": "Capo Metrò"
+ },
+ {
+  "id": 135,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 136,
+  "en": "Team Plasma",
+  "it": "Team Plasma"
+ },
+ {
+  "id": 137,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 138,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 139,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 140,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 141,
+  "en": "Breeder",
+  "it": "Allevatore"
+ },
+ {
+  "id": 142,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 143,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 144,
+  "en": "Pokémon Coordinator",
+  "it": "Coordinatore"
+ },
+ {
+  "id": 145,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 146,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 147,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 148,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 149,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 150,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 151,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 152,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 153,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 154,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 155,
+  "en": "Sky Trainer",
+  "it": "Aviallenatore"
+ },
+ {
+  "id": 156,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 157,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 158,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 159,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 160,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 161,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 162,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 163,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 164,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 165,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 166,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 167,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 168,
+  "en": "Flare Boss",
+  "it": "Capo Flare"
+ },
+ {
+  "id": 169,
+  "en": "Team Flare",
+  "it": "Team Flare"
+ },
+ {
+  "id": 170,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 171,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 172,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 173,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 174,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 175,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 176,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 177,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 178,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 179,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 180,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 181,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 182,
+  "en": "Island Kahuna",
+  "it": "Kahuna"
+ },
+ {
+  "id": 183,
+  "en": "Island Kahuna",
+  "it": "Kahuna"
+ },
+ {
+  "id": 184,
+  "en": "Island Kahuna",
+  "it": "Kahuna"
+ },
+ {
+  "id": 185,
+  "en": "Island Kahuna",
+  "it": "Kahuna"
+ },
+ {
+  "id": 186,
+  "en": "Totem Pokémon",
+  "it": "Pokémon dominante"
+ },
+ {
+  "id": 187,
+  "en": "Aether President",
+  "it": "Presidente Aether"
+ },
+ {
+  "id": 188,
+  "en": "Masked",
+  "it": "Mascherato"
+ },
+ {
+  "id": 189,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 190,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 191,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 192,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 193,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 194,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 195,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 196,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 197,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 198,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 199,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 200,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 201,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 202,
+  "en": "Skull Boss",
+  "it": "Capo Skull"
+ },
+ {
+  "id": 203,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 204,
+  "en": "Professor",
+  "it": "Professore"
+ },
+ {
+  "id": 205,
+  "en": "Team Aqua",
+  "it": "Team Idro"
+ },
+ {
+  "id": 206,
+  "en": "Team Magma",
+  "it": "Team Magma"
+ },
+ {
+  "id": 207,
+  "en": "Team Aqua",
+  "it": "Team Idro"
+ },
+ {
+  "id": 208,
+  "en": "Team Magma",
+  "it": "Team Magma"
+ },
+ {
+  "id": 209,
+  "en": "Team Galactic",
+  "it": "Team Galassia"
+ },
+ {
+  "id": 210,
+  "en": "Team Galactic",
+  "it": "Team Galassia"
+ },
+ {
+  "id": 211,
+  "en": "Team Galactic",
+  "it": "Team Galassia"
+ },
+ {
+  "id": 212,
+  "en": "Team Galactic",
+  "it": "Team Galassia"
+ },
+ {
+  "id": 213,
+  "en": "Team Plasma",
+  "it": "Team Plasma"
+ },
+ {
+  "id": 214,
+  "en": "Team Flare",
+  "it": "Team Flare"
+ },
+ {
+  "id": 215,
+  "en": "Team Flare",
+  "it": "Team Flare"
+ },
+ {
+  "id": 216,
+  "en": "Team Flare",
+  "it": "Team Flare"
+ },
+ {
+  "id": 217,
+  "en": "Team Flare",
+  "it": "Team Flare"
+ },
+ {
+  "id": 218,
+  "en": "Team Flare",
+  "it": "Team Flare"
+ },
+ {
+  "id": 219,
+  "en": "Team Skull",
+  "it": "Team Skull"
+ },
+ {
+  "id": 220,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 221,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 222,
+  "en": "Pokémon Performer",
+  "it": "Artista Pokémon"
+ },
+ {
+  "id": 223,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 224,
+  "en": "Champion",
+  "it": "Campione"
+ },
+ {
+  "id": 225,
+  "en": "Dynamax Pokémon",
+  "it": "Pokémon Dynamax"
+ },
+ {
+  "id": 226,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 227,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 228,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 229,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 230,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 231,
+  "en": "Elite Four",
+  "it": "Superquattro"
+ },
+ {
+  "id": 232,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 233,
+  "en": "Chairman",
+  "it": "Presidente"
+ },
+ {
+  "id": 234,
+  "en": "Legendary Pokémon",
+  "it": "Pokémon leggendario"
+ },
+ {
+  "id": 235,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 236,
+  "en": "Team Yell",
+  "it": "Team Yell"
+ },
+ {
+  "id": 237,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 238,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 239,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 240,
+  "en": "Team Rocket's",
+  "it": "Team Rocket"
+ },
+ {
+  "id": 241,
+  "en": "Team Rocket's",
+  "it": "Team Rocket"
+ }
+]

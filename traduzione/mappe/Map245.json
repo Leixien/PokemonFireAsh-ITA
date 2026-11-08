@@ -1,0 +1,107 @@
+[
+ {
+  "id": "\\bI'm training before I try my challenge.",
+  "en": "\\bI'm training before I try my challenge.",
+  "it": "\\bMi sto allenando prima di tentare la mia sfida."
+ },
+ {
+  "id": "\\bYou're gonna fight Drake!?\\nWow!!!",
+  "en": "\\bYou're gonna fight Drake!?\\nWow!!!",
+  "it": "\\bSfiderai Drake!?\\nWow!!!"
+ },
+ {
+  "id": "\\rGood luck Trainer.",
+  "en": "\\rGood luck Trainer.",
+  "it": "\\rBuona fortuna, Allenatore."
+ },
+ {
+  "id": "\\rHello! I'm a Move Tutor!",
+  "en": "\\rHello! I'm a Move Tutor!",
+  "it": "\\rCiao! Sono un Insegnamosse!"
+ },
+ {
+  "id": "\\rI can teach a special and powerful move to your Pokémon.",
+  "en": "\\rI can teach a special and powerful move to your Pokémon.",
+  "it": "\\rPosso insegnare una mossa speciale e potente ai tuoi Pokémon."
+ },
+ {
+  "id": "\\rWhich special move would you like me to teach?",
+  "en": "\\rWhich special move would you like me to teach?",
+  "it": "\\rQuale mossa speciale vuoi che insegni?"
+ },
+ {
+  "id": "\\rWould you like me to teach another Pokémon a special move?",
+  "en": "\\rWould you like me to teach another Pokémon a special move?",
+  "it": "\\rVuoi che insegni una mossa speciale a un altro Pokémon?"
+ },
+ {
+  "id": "\\rCome back any time!",
+  "en": "\\rCome back any time!",
+  "it": "\\rTorna quando vuoi!"
+ },
+ {
+  "id": "\\rMisty: You're gonna challenge Drake, aren't you? Not before you fight my powerful team!",
+  "en": " \\rMisty: You're gonna challenge Drake, aren't you?  Not before you fight my powerful team!",
+  "it": " \\rMisty: Stai per sfidare Drake, vero?  Non prima di aver affrontato la mia potente squadra!"
+ },
+ {
+  "id": "\\rMisty: Wow. You did really good.",
+  "en": "\\rMisty: Wow. You did really good.",
+  "it": "\\rMisty: Wow. Sei stato davvero bravo."
+ },
+ {
+  "id": "\\rWell I guess I'll move aside and let you get to your big fight. I'm rooting for you, okay.",
+  "en": "\\rWell I guess I'll move aside and let you get to your big fight. I'm rooting for you, okay.",
+  "it": "\\rBe', immagino che mi farò da parte e ti lascerò andare alla tua grande sfida. Faccio il tifo per te, eh."
+ },
+ {
+  "id": "\\bThe Championship will be mine!",
+  "en": "\\bThe Championship will be mine!",
+  "it": "\\bIl campionato sarà mio!"
+ },
+ {
+  "id": "\\bOne day...",
+  "en": "\\bOne day...",
+  "it": "\\bUn giorno..."
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Ascorbia,Kumquat,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Ascorbia,Kumquat,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Trovita,Ascorbia,Kumquat,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Ascorbia,Kumquat, Elements,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Ascorbia,Kumquat, Elements,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Trovita,Ascorbia,Kumquat, Elements,Esci]"
+ },
+ {
+  "id": "Frenzy Plant",
+  "en": "Frenzy Plant",
+  "it": "Radicalbero"
+ },
+ {
+  "id": "Blast Burn",
+  "en": "Blast Burn",
+  "it": "Incendio"
+ },
+ {
+  "id": "Hydro Cannon",
+  "en": "Hydro Cannon",
+  "it": "Idrocannone"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

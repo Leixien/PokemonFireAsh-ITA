@@ -1,0 +1,77 @@
+[
+ {
+  "id": "\\sign[signskin]Rooftop Square: Vending Machines",
+  "en": "\\sign[signskin]Rooftop Square: Vending Machines",
+  "it": "\\sign[signskin]Terrazza: Distributori automatici"
+ },
+ {
+  "id": "It's a vending machine.\\n Which drink would you like?\\G",
+  "en": "It's a vending machine.\\n Which drink would you like?\\G",
+  "it": "È un distributore automatico.\\n Quale bibita vuoi?\\G"
+ },
+ {
+  "id": "\\GA Fresh Water dropped down!",
+  "en": "\\GA Fresh Water dropped down!",
+  "it": "\\Gè uscita un'Acqua Fresca!"
+ },
+ {
+  "id": "\\GBonus! Another Fresh Water dropped down.",
+  "en": "\\GBonus! Another Fresh Water dropped down.",
+  "it": "\\GBonus! È uscita un'altra Acqua Fresca."
+ },
+ {
+  "id": "\\GYou have no room left in the Bag.",
+  "en": "\\GYou have no room left in the Bag.",
+  "it": "\\GNon hai più spazio nella Borsa."
+ },
+ {
+  "id": "\\GYou don't have enough money.",
+  "en": "\\GYou don't have enough money.",
+  "it": "\\GNon hai abbastanza soldi."
+ },
+ {
+  "id": "\\GA Soda Pop dropped down!",
+  "en": "\\GA Soda Pop dropped down!",
+  "it": "\\Gè uscita una Gassosa!"
+ },
+ {
+  "id": "\\GBonus! Another Soda Pop dropped down.",
+  "en": "\\GBonus! Another Soda Pop dropped down.",
+  "it": "\\GBonus! È uscita un'altra Gassosa."
+ },
+ {
+  "id": "\\GA Lemonade dropped down!",
+  "en": "\\GA Lemonade dropped down!",
+  "it": "\\Gè uscito un Lemonsucco!"
+ },
+ {
+  "id": "\\GBonus! Another Lemonade dropped down.",
+  "en": "\\GBonus! Another Lemonade dropped down.",
+  "it": "\\GBonus! È uscito un altro Lemonsucco."
+ },
+ {
+  "id": "\\GDecided not to buy a drink.",
+  "en": "\\GDecided not to buy a drink.",
+  "it": "\\GHai deciso di non comprare niente."
+ },
+ {
+  "id": "Fresh Water - $200",
+  "en": "Fresh Water - $200",
+  "it": "Acqua Fresca - $200"
+ },
+ {
+  "id": "Soda Pop - $300",
+  "en": "Soda Pop - $300",
+  "it": "Gassosa - $300"
+ },
+ {
+  "id": "Lemonade - $350",
+  "en": "Lemonade - $350",
+  "it": "Lemonsucco - $350"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ }
+]

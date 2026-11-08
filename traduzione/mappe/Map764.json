@@ -1,0 +1,407 @@
+[
+ {
+  "id": "\\bOsha",
+  "en": "\\bOsha",
+  "it": "\\bOsha"
+ },
+ {
+  "id": "\\bTaur!",
+  "en": "\\bTaur!",
+  "it": "\\bTaur!"
+ },
+ {
+  "id": "\\bGible",
+  "en": "\\bGible",
+  "it": "\\bGible"
+ },
+ {
+  "id": "\\bCynda",
+  "en": "\\bCynda",
+  "it": "\\bCynda"
+ },
+ {
+  "id": "\\bQuilava",
+  "en": "\\bQuilava",
+  "it": "\\bQuilava"
+ },
+ {
+  "id": "\\bSamson: So good to be in Kanto again.",
+  "en": "\\bSamson: So good to be in Kanto again.",
+  "it": "\\bSamson: Che bello essere di nuovo a Kanto."
+ },
+ {
+  "id": "\\rUnfezant",
+  "en": "\\rUnfezant",
+  "it": "\\rUnfezant"
+ },
+ {
+  "id": "\\bTotodile",
+  "en": "\\bTotodile",
+  "it": "\\bTotodile"
+ },
+ {
+  "id": "\\rBulba!",
+  "en": "\\rBulba!",
+  "it": "\\rBulba!"
+ },
+ {
+  "id": "\\bBrock: Welcome back \\PN. It's been a long time. I'm still working at being a doctor, but don't think that's made me any easier. I'm still gym leader worthy.",
+  "en": "\\bBrock: Welcome back \\PN. It's been a long time. I'm still working at being a doctor, but don't think that's made me any easier. I'm still gym leader worthy.",
+  "it": "\\bBrock: Bentornato, \\PN. È passato tanto tempo. Sto ancora studiando per diventare medico, ma non pensare che questo mi abbia reso più facile da battere. Sono ancora all'altezza di un Capopalestra."
+ },
+ {
+  "id": "\\bBrock: Wonderful battle. I imagine Misty will be even harder.",
+  "en": "\\bBrock: Wonderful battle. I imagine Misty will be even harder.",
+  "it": "\\bBrock: Una lotta splendida. Immagino che Misty sarà ancora più tosta."
+ },
+ {
+  "id": "\\bGary: Impressive work. You might be good enough for Project Mew. Might.",
+  "en": "\\bGary: Impressive work. You might be good enough for Project Mew. Might.",
+  "it": "\\bGary: Ottimo lavoro. Potresti essere all'altezza del Progetto Mew. Forse."
+ },
+ {
+  "id": "\\bGoh: I... think I'll join. I won't be left behind.",
+  "en": "\\bGoh: I... think I'll join. I won't be left behind.",
+  "it": "\\bGoh: Io... credo che mi unirò. Non resterò indietro."
+ },
+ {
+  "id": "\\bGary: Ha. We'll see. A qualifying mission will be sent to you soon. See you don't fail it. I'll be rooting for you.",
+  "en": "\\bGary: Ha. We'll see. A qualifying mission will be sent to you soon. See you don't fail it. I'll be rooting for you.",
+  "it": "\\bGary: Ah. Vedremo. Presto ti verrà inviata una missione di qualificazione. Vedi di non fallirla. Farò il tifo per te."
+ },
+ {
+  "id": "\\bGoh: I won't! I'll prove myself and find Mew.",
+  "en": "\\bGoh: I won't! I'll prove myself and find Mew.",
+  "it": "\\bGoh: Non fallirò! Dimostrerò quanto valgo e troverò Mew."
+ },
+ {
+  "id": "\\bThanks for helping, \\PN. Let's head back to the lab.",
+  "en": "\\bThanks for helping, \\PN. Let's head back to the lab.",
+  "it": "\\bGrazie dell'aiuto, \\PN. Torniamo al laboratorio."
+ },
+ {
+  "id": "\\rMisty: It's about time I get to see you again. It's been far too long since I've beat you.",
+  "en": "\\rMisty: It's about time I get to see you again. It's been far too long since I've beat you.",
+  "it": "\\rMisty: Era ora che ti rivedessi. È passato fin troppo tempo dall'ultima volta che ti ho battuto."
+ },
+ {
+  "id": "\\rMisty: It's good to see you every now and then. Stop by more often.",
+  "en": "\\rMisty: It's good to see you every now and then.  Stop by more often.",
+  "it": "\\rMisty: È bello vederti ogni tanto.  Passa più spesso."
+ },
+ {
+  "id": "\\bPhanpy",
+  "en": "\\bPhanpy",
+  "it": "\\bPhanpy"
+ },
+ {
+  "id": "\\bDonphan",
+  "en": "\\bDonphan",
+  "it": "\\bDonphan"
+ },
+ {
+  "id": "\\bBoldore",
+  "en": "\\bBoldore",
+  "it": "\\bBoldore"
+ },
+ {
+  "id": "\\bKrby!",
+  "en": "\\bKrby!",
+  "it": "\\bKrby!"
+ },
+ {
+  "id": "\\bKingler!",
+  "en": "\\bKingler!",
+  "it": "\\bKingler!"
+ },
+ {
+  "id": "\\bLeavanny",
+  "en": "\\bLeavanny",
+  "it": "\\bLeavanny"
+ },
+ {
+  "id": "\\bGoh: A Moltres. I'd like to see that. Let's try and find it.",
+  "en": "\\bGoh: A Moltres. I'd like to see that. Let's try and find it.",
+  "it": "\\bGoh: Un Moltres. Mi piacerebbe vederlo. Proviamo a trovarlo."
+ },
+ {
+  "id": "\\bKukui: Are you surprised? Professor Oak asked these two here for the demonstration.",
+  "en": "\\bKukui: Are you surprised? Professor Oak asked these two here for the demonstration.",
+  "it": "\\bKukui: Sorpreso? Il Professor Oak ha invitato questi due qui per la dimostrazione."
+ },
+ {
+  "id": "\\bKukui: That's it for our lesson. I hope everyone had fun here. Let's all head back to school.",
+  "en": "\\bKukui: That's it for our lesson. I hope everyone had fun here. Let's all head back to school.",
+  "it": "\\bKukui: La lezione finisce qui. Spero che vi siate divertiti tutti. Torniamo tutti a scuola."
+ },
+ {
+  "id": "\\bNoctowl!",
+  "en": "\\bNoctowl!",
+  "it": "\\bNoctowl!"
+ },
+ {
+  "id": "\\bGoh: This Moltres is tough. Help me out, \\PN.",
+  "en": "\\bGoh: This Moltres is tough. Help me out, \\PN.",
+  "it": "\\bGoh: Questo Moltres è tosto. Dammi una mano, \\PN."
+ },
+ {
+  "id": "\\bMuk! Muk!",
+  "en": "\\bMuk! Muk!",
+  "it": "\\bMuk! Muk!"
+ },
+ {
+  "id": "\\bSnor..lax",
+  "en": "\\bSnor..lax",
+  "it": "\\bSnor..lax"
+ },
+ {
+  "id": "\\rLillie: What an amazing place! So many Pokémon to discover.",
+  "en": "\\rLillie: What an amazing place! So many Pokémon to discover.",
+  "it": "\\rLylia: Che posto incredibile! Ci sono così tanti Pokémon da scoprire."
+ },
+ {
+  "id": "\\bTorkoal",
+  "en": "\\bTorkoal",
+  "it": "\\bTorkoal"
+ },
+ {
+  "id": "\\bPalpitoad",
+  "en": "\\bPalpitoad",
+  "it": "\\bPalpitoad"
+ },
+ {
+  "id": "\\bGengar",
+  "en": "\\bGengar",
+  "it": "\\bGengar"
+ },
+ {
+  "id": "\\bGary: \\PN, good to see you again. Let's catch up more after I deal with this Moltres.",
+  "en": "\\bGary: \\PN, good to see you again. Let's catch up more after I deal with this Moltres.",
+  "it": "\\bGary: \\PN, che piacere rivederti. Facciamo due chiacchiere dopo che mi sarò occupato di questo Moltres."
+ },
+ {
+  "id": "\\bTorterra",
+  "en": "\\bTorterra",
+  "it": "\\bTorterra"
+ },
+ {
+  "id": "\\bKrookodile!",
+  "en": "\\bKrookodile!",
+  "it": "\\bKrookodile!"
+ },
+ {
+  "id": "\\bLucario",
+  "en": "\\bLucario",
+  "it": "\\bLucario"
+ },
+ {
+  "id": "\\bKiawe: So many Fire types! It's almost too much!",
+  "en": "\\bKiawe: So many Fire types! It's almost too much!",
+  "it": "\\bKiawe: Quanti tipi Fuoco! È quasi troppo!"
+ },
+ {
+  "id": "\\bGlalie",
+  "en": "\\bGlalie",
+  "it": "\\bGlalie"
+ },
+ {
+  "id": "\\bPaul: I heard you made it into the Masters Eight.",
+  "en": "\\bPaul: I heard you made it into the Masters Eight.",
+  "it": "\\bPaul: Ho sentito che sei entrato negli Otto Master."
+ },
+ {
+  "id": "\\bWhat am I doing here? I came to study under Professor Oak. Any Trainer wishing to understand Pokémon better would do the same thing.",
+  "en": "\\bWhat am I doing here? I came to study under Professor Oak. Any Trainer wishing to understand Pokémon better would do the same thing.",
+  "it": "\\bChe ci faccio qui? Sono venuto a studiare sotto la guida del Professor Oak. Qualsiasi Allenatore desideroso di capire meglio i Pokémon farebbe lo stesso."
+ },
+ {
+  "id": "\\bDo you understand your Pokémon? Show me in a battle.",
+  "en": "\\bDo you understand your Pokémon? Show me in a battle.",
+  "it": "\\bTu capisci i tuoi Pokémon? Dimostramelo in una lotta."
+ },
+ {
+  "id": "\\bPaul: I think you might be ready. Don't disappoint me, okay? Later.",
+  "en": "\\bPaul: I think you might be ready. Don't disappoint me, okay? Later.",
+  "it": "\\bPaul: Penso che tu possa essere pronto. Non deludermi, chiaro? Ci si vede."
+ },
+ {
+  "id": "Rotom Phone: Incoming call from Goh:",
+  "en": "Rotom Phone: Incoming call from Goh:",
+  "it": "Rotom Phone: chiamata in arrivo da Goh:"
+ },
+ {
+  "id": "\\bGoh: Hey \\PN. Could you meet me at Cerise Park? Thanks.",
+  "en": "\\bGoh: Hey \\PN. Could you meet me at Cerise Park?  Thanks.",
+  "it": "\\bGoh: Ehi \\PN. Puoi raggiungermi al Parco Cerise? Grazie."
+ },
+ {
+  "id": "\\bStaraptor",
+  "en": "\\bStaraptor",
+  "it": "\\bStaraptor"
+ },
+ {
+  "id": "\\bHeracross!",
+  "en": "\\bHeracross!",
+  "it": "\\bHeracross!"
+ },
+ {
+  "id": "\\bScraggy",
+  "en": "\\bScraggy",
+  "it": "\\bScraggy"
+ },
+ {
+  "id": "\\bSirfetch'd",
+  "en": "\\bSirfetch'd",
+  "it": "\\bSirfetch'd"
+ },
+ {
+  "id": "\\rLana: I want to go swimming.",
+  "en": "\\rLana: I want to go swimming.",
+  "it": "\\rSuiren: Voglio andare a nuotare."
+ },
+ {
+  "id": "\\bCor",
+  "en": "\\bCor",
+  "it": "\\bCor"
+ },
+ {
+  "id": "\\bChar!",
+  "en": "\\bChar!",
+  "it": "\\bChar!"
+ },
+ {
+  "id": "\\bBulba!",
+  "en": "\\bBulba!",
+  "it": "\\bBulba!"
+ },
+ {
+  "id": "\\bInfernape",
+  "en": "\\bInfernape",
+  "it": "\\bInfernape"
+ },
+ {
+  "id": "\\bTracey: Hi \\PN. Come back for another visit?",
+  "en": "\\bTracey: Hi \\PN. Come back for another visit?",
+  "it": "\\bTracey: Ciao, \\PN. Sei tornato per un'altra visita?"
+ },
+ {
+  "id": "\\bTracey: You want to battle, huh? I guess so.",
+  "en": "\\bTracey: You want to battle, huh? I guess so.",
+  "it": "\\bTracey: Vuoi lottare, eh? Va bene, d'accordo."
+ },
+ {
+  "id": "Draco",
+  "en": "Draco",
+  "it": "Draco"
+ },
+ {
+  "id": "\\rDragonite",
+  "en": "\\rDragonite",
+  "it": "\\rDragonite"
+ },
+ {
+  "id": "\\bSceptile",
+  "en": "\\bSceptile",
+  "it": "\\bSceptile"
+ },
+ {
+  "id": "\\rMallow: Grass types!",
+  "en": "\\rMallow: Grass types!",
+  "it": "\\rIbis: Tipi Erba!"
+ },
+ {
+  "id": "\\bHawlucha",
+  "en": "\\bHawlucha",
+  "it": "\\bHawlucha"
+ },
+ {
+  "id": "\\bBuizel",
+  "en": "\\bBuizel",
+  "it": "\\bBuizel"
+ },
+ {
+  "id": "\\rSnivy",
+  "en": "\\rSnivy",
+  "it": "\\rSnivy"
+ },
+ {
+  "id": "\\bPidgeot!",
+  "en": "\\bPidgeot!",
+  "it": "\\bPidgeot!"
+ },
+ {
+  "id": "\\bSophocles: I wish there were some Electric types around...",
+  "en": "\\bSophocles: I wish there were some Electric types around...",
+  "it": "\\bChrys: Vorrei che ci fossero dei tipi Elettro qui in giro..."
+ },
+ {
+  "id": "\\bSwellow",
+  "en": "\\bSwellow",
+  "it": "\\bSwellow"
+ },
+ {
+  "id": "\\bTalonflame",
+  "en": "\\bTalonflame",
+  "it": "\\bTalonflame"
+ },
+ {
+  "id": "\\rBayleef!!",
+  "en": "\\rBayleef!!",
+  "it": "\\rBayleef!!"
+ },
+ {
+  "id": "\\bPignite!!",
+  "en": "\\bPignite!!",
+  "it": "\\bPignite!!"
+ },
+ {
+  "id": "\\rGliscor",
+  "en": "\\rGliscor",
+  "it": "\\rGliscor"
+ },
+ {
+  "id": "\\bOak: Welcome home \\PN! I'm sure you're excited to see your friends again.",
+  "en": "\\bOak: Welcome home \\PN! I'm sure you're excited to see your friends again.",
+  "it": "\\bOak: Bentornato a casa, \\PN! Sono sicuro che non vedi l'ora di rivedere i tuoi amici."
+ },
+ {
+  "id": "\\bOak: Welcome home \\PN! Thank you for coming on such short notice. I figured it's been some time since you were home to visit your Pokémon.",
+  "en": "\\bOak: Welcome home \\PN! Thank you for coming on such short notice. I figured it's been some time since you were home to visit your Pokémon.",
+  "it": "\\bOak: Bentornato a casa, \\PN! Grazie per essere venuto con così poco preavviso. Ho pensato che fosse da un po' che non tornavi a trovare i tuoi Pokémon."
+ },
+ {
+  "id": "\\bGoh: Um, Professor. Why did you invite me as well?",
+  "en": "\\bGoh: Um, Professor. Why did you invite me as well?",
+  "it": "\\bGoh: Ehm, Professore. Perché ha invitato anche me?"
+ },
+ {
+  "id": "\\bOak: Have you heard of Project Mew? It's an organization aimed at finding Mew. They're currently recruiting members.",
+  "en": "\\bOak: Have you heard of Project Mew? It's an organization aimed at finding Mew. They're currently recruiting members.",
+  "it": "\\bOak: Hai mai sentito parlare del Progetto Mew? È un'organizzazione che mira a trovare Mew. Al momento stanno reclutando membri."
+ },
+ {
+  "id": "\\bGoh: I'm not sure. Working with a team isn't really my style.",
+  "en": "\\bGoh: I'm not sure. Working with a team isn't really my style.",
+  "it": "\\bGoh: Non saprei. Lavorare in squadra non è proprio il mio stile."
+ },
+ {
+  "id": "\\bOak: Is that so? Well, that's alright. \\PN, I forgot to mention, but Gary is also here. He's in the middle of looking for a Moltres for Project Mew.",
+  "en": "\\bOak: Is that so? Well, that's alright. \\PN, I forgot to mention, but Gary is also here. He's in the middle of looking for a Moltres for Project Mew.",
+  "it": "\\bOak: Davvero? Beh, va bene così. \\PN, dimenticavo di dirti che c'è anche Gary. Sta cercando un Moltres per il Progetto Mew."
+ },
+ {
+  "id": "\\bPerhaps you two could join him.",
+  "en": "\\bPerhaps you two could join him.",
+  "it": "\\bForse voi due potreste unirvi a lui."
+ },
+ {
+  "id": "\\bOak: Perhaps you two could join Gary finding Moltres.",
+  "en": "\\bOak: Perhaps you two could join Gary finding Moltres.",
+  "it": "\\bOak: Forse voi due potreste aiutare Gary a cercare Moltres."
+ },
+ {
+  "id": "\\bNoivern!",
+  "en": "\\bNoivern!",
+  "it": "\\bNoivern!"
+ }
+]

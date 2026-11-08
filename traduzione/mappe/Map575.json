@@ -1,0 +1,72 @@
+[
+ {
+  "id": "\\bReggie: Hello there. My name is Reggie. And you are?",
+  "en": "\\bReggie: Hello there. My name is Reggie. And you are?",
+  "it": "\\bReggie: Salve. Mi chiamo Reggie. E tu sei?"
+ },
+ {
+  "id": "\\b...So you're \\PN. My brother Paul has mentioned you a few times. I take care of his Pokémon while he is traveling.",
+  "en": "\\b...So you're \\PN. My brother Paul has mentioned you a few times. I take care of his Pokémon while he is traveling.",
+  "it": "\\b...Quindi sei \\PN. Mio fratello Paul ti ha nominato un paio di volte. Mi prendo cura dei suoi Pokémon mentre è in viaggio."
+ },
+ {
+  "id": "\\bI'm sure he has caused you some trouble so I would like to make it up to you.",
+  "en": "\\bI'm sure he has caused you some trouble so I would like to make it up to you. ",
+  "it": "\\bSono sicuro che ti ha creato qualche problema, quindi vorrei farmi perdonare. "
+ },
+ {
+  "id": "\\bFeel free to ask anytime.",
+  "en": "\\bFeel free to ask anytime.",
+  "it": "\\bChiedi pure quando vuoi."
+ },
+ {
+  "id": "\\bReggie: The move I'm going to teach you is called Brave Bird. It's a powerful Flying move that should help you beat Maylene.",
+  "en": "\\bReggie: The move I'm going to teach you is called Brave Bird. It's a powerful Flying move that should help you beat Maylene.",
+  "it": "\\bReggie: La mossa che ti insegnerò si chiama Baldeali. È una potente mossa di tipo Volante che dovrebbe aiutarti a battere Maylene."
+ },
+ {
+  "id": "\\bWhich Pokémon would you like me to teach?",
+  "en": "\\bWhich Pokémon would you like me to teach?",
+  "it": "\\bA quale Pokémon vuoi che la insegni?"
+ },
+ {
+  "id": "\\bGlad I could help. Come back anytime.",
+  "en": "\\bGlad I could help. Come back anytime.",
+  "it": "\\bSono contento di esserti stato d'aiuto. Torna quando vuoi."
+ },
+ {
+  "id": "\\rI don't like that we have a place to gamble. What will the children think?",
+  "en": "\\rI don't like that we have a place to gamble. What will the children think?",
+  "it": "\\rNon mi piace che abbiamo un posto dove si gioca d'azzardo. Cosa penseranno i bambini?"
+ },
+ {
+  "id": "\\rWould you like me to groom one of your Pokémon?",
+  "en": "\\rWould you like me to groom one of your Pokémon?",
+  "it": "\\rVuoi che faccia la toelettatura a uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\rWhich Pokémon do you want me to groom?",
+  "en": "\\rWhich Pokémon do you want me to groom?",
+  "it": "\\rA quale Pokémon vuoi che faccia la toelettatura?"
+ },
+ {
+  "id": "\\rOh, okay then.",
+  "en": "\\rOh, okay then.",
+  "it": "\\rOh, va bene allora."
+ },
+ {
+  "id": "\\rThere! \\v[2] looks a lot happier and prettier now!",
+  "en": "\\rThere!  \\v[2] looks a lot happier and prettier now!",
+  "it": "\\rEcco!  \\v[2] ora sembra molto più felice e più bello!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

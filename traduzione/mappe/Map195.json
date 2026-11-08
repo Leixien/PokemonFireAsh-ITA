@@ -1,0 +1,317 @@
+[
+ {
+  "id": "Terracotta Pokémon Contest\\nComing soon!",
+  "en": "Terracotta Pokémon Contest\\nComing soon!",
+  "it": "Gara Pokémon di Terracotta\\nIn arrivo!"
+ },
+ {
+  "id": "Terracotta Pokémon Contest",
+  "en": "Terracotta Pokémon Contest",
+  "it": "Gara Pokémon di Terracotta"
+ },
+ {
+  "id": "\\bWe're setting up a Contest here. Please come back soon if you'd like to enter.",
+  "en": "\\bWe're setting up a Contest here. Please come back soon if you'd like to enter.",
+  "it": "\\bStiamo allestendo una Gara qui. Torna presto se vuoi partecipare."
+ },
+ {
+  "id": "\\bWelcome to the Terracotta Contest. This is an informal Contest, so no Contest Pass is needed to enter. Would you like to enter?",
+  "en": "\\bWelcome to the Terracotta Contest. This is an informal Contest, so no Contest Pass is needed to enter. Would you like to enter?",
+  "it": "\\bBenvenuto alla Gara di Terracotta. È una Gara informale, quindi per partecipare non serve la Tessera Gare. Vuoi iscriverti?"
+ },
+ {
+  "id": "\\bWonderful. Please speak with the judge next to me to begin.",
+  "en": "\\bWonderful. Please speak with the judge next to me to begin.",
+  "it": "\\bMagnifico. Parla con il giudice accanto a me per cominciare."
+ },
+ {
+  "id": "\\bI hope you stick around and enjoy yourself.",
+  "en": "\\bI hope you stick around and enjoy yourself.",
+  "it": "\\bSpero che resterai a divertirti."
+ },
+ {
+  "id": "\\bCongratulations on winning. Thank you for participating.",
+  "en": "\\bCongratulations on winning. Thank you for participating.",
+  "it": "\\bCongratulazioni per la vittoria. Grazie per aver partecipato."
+ },
+ {
+  "id": "\\bI think I'm going to sit back and watch this one.",
+  "en": "\\bI think I'm going to sit back and watch this one.",
+  "it": "\\bCredo che questa me la godrò seduto a guardare."
+ },
+ {
+  "id": "\\bHey there. Looking for a battle?",
+  "en": "\\bHey there. Looking for a battle?",
+  "it": "\\bEhi, ciao. Cerchi una lotta?"
+ },
+ {
+  "id": "Oh my God!!!",
+  "en": "Oh my God!!!",
+  "it": "Oh mio Dio!!!"
+ },
+ {
+  "id": "\\bMaybe I'm not ready. Or maybe you are just too good.",
+  "en": "\\bMaybe I'm not ready. Or maybe you are just too good.",
+  "it": "\\bForse non sono pronto. O forse sei tu che sei troppo bravo."
+ },
+ {
+  "id": "\\rThis area is currently under construction.",
+  "en": "\\rThis area is currently under construction.",
+  "it": "\\rQuest'area è attualmente in costruzione."
+ },
+ {
+  "id": "\\rUp ahead is the Battle Tower.",
+  "en": "\\rUp ahead is the Battle Tower.",
+  "it": "\\rPiù avanti c'è la Torre Lotta."
+ },
+ {
+  "id": "Pokémon League\\nFront Gate",
+  "en": "Pokémon League\\nFront Gate",
+  "it": "Lega Pokémon\\nIngresso principale"
+ },
+ {
+  "id": "\\rMay: Looks like you made it to the finals too. This should be intense.",
+  "en": "\\rMay: Looks like you made it to the finals too. This should be intense.",
+  "it": "\\rVera: Sembra che anche tu sia arrivato in finale. Sarà una sfida intensa."
+ },
+ {
+  "id": "\\bThat's the battle. The judges are now giving their scores and...",
+  "en": "\\bThat's the battle. The judges are now giving their scores and...",
+  "it": "\\bE la lotta è finita. I giudici stanno assegnando i punteggi e..."
+ },
+ {
+  "id": "\\bIt's a tie! Both Trainers will be leaving with a ribbon today.",
+  "en": "\\bIt's a tie! Both Trainers will be leaving with a ribbon today.",
+  "it": "\\bÈ un pareggio! Entrambi gli Allenatori oggi se ne andranno con un Fiocco."
+ },
+ {
+  "id": "\\bCongratulations on winning. Thank you for joining us.",
+  "en": "\\bCongratulations on winning. Thank you for joining us.",
+  "it": "\\bCongratulazioni per la vittoria. Grazie per essere stato con noi."
+ },
+ {
+  "id": "\\bI wanna test out my strength.",
+  "en": "\\bI wanna test out my strength.",
+  "it": "\\bVoglio mettere alla prova la mia forza."
+ },
+ {
+  "id": "No way!",
+  "en": "No way!",
+  "it": "Non ci credo!"
+ },
+ {
+  "id": "\\bI've trained my whole life for the League.",
+  "en": "\\bI've trained my whole life for the League.",
+  "it": "\\bMi sono allenato tutta la vita per la Lega."
+ },
+ {
+  "id": "\\rThis path is currently under construction.",
+  "en": "\\rThis path is currently under construction.",
+  "it": "\\rQuesto sentiero è attualmente in costruzione."
+ },
+ {
+  "id": "\\bThis is the path to the Pokémon League. If you don't have 8 badges you won't stand a chance here.",
+  "en": "\\bThis is the path to the Pokémon League. If you don't have 8 badges you won't stand a chance here.",
+  "it": "\\bQuesta è la strada per la Lega Pokémon. Se non hai 8 medaglie non hai nessuna speranza qui."
+ },
+ {
+  "id": "\\rI need some help. Humor me.",
+  "en": "\\rI need some help. Humor me.",
+  "it": "\\rMi serve un po' d'aiuto. Assecondami."
+ },
+ {
+  "id": "\\rThank you.",
+  "en": "\\rThank you.",
+  "it": "\\rGrazie."
+ },
+ {
+  "id": "\\bYou think you're reasy to battle this expert Water Trainer?",
+  "en": "\\bYou think you're reasy to battle this expert Water Trainer?",
+  "it": "\\bPensi di essere pronto a sfidare questa esperta Allenatrice di tipo Acqua?"
+ },
+ {
+  "id": "Maybe I should have diversified.",
+  "en": "Maybe I should have diversified.",
+  "it": "Forse avrei dovuto variare un po'."
+ },
+ {
+  "id": "\\bSo what if my whole team wasn't Water?",
+  "en": "\\bSo what if my whole team wasn't Water?",
+  "it": "\\bE allora? Che importa se la mia squadra non era tutta di tipo Acqua?"
+ },
+ {
+  "id": "\\rI'm excited to watch the Performers.",
+  "en": "\\rI'm excited to watch the Performers.",
+  "it": "\\rNon vedo l'ora di vedere le Artiste."
+ },
+ {
+  "id": "\\rI'm just trying to find some plants.",
+  "en": "\\rI'm just trying to find some plants.",
+  "it": "\\rSto solo cercando qualche pianta."
+ },
+ {
+  "id": "\\rI'm looking for plants. Try not to bother me again.",
+  "en": "\\rI'm looking for plants. Try not to bother me again.",
+  "it": "\\rSto cercando piante. Cerca di non disturbarmi più."
+ },
+ {
+  "id": "\\bHelp me find a strong one.",
+  "en": "\\bHelp me find a strong one.",
+  "it": "\\bAiutami a trovarne uno forte."
+ },
+ {
+  "id": "That didn't help!",
+  "en": "That didn't help!",
+  "it": "Non è servito a niente!"
+ },
+ {
+  "id": "\\bI need one more Pokémon to balance out of team.",
+  "en": "\\bI need one more Pokémon to balance out of team.",
+  "it": "\\bMi serve un altro Pokémon per bilanciare la squadra."
+ },
+ {
+  "id": "\\bFor the Performance Stage, I'll be judging Pokémon.",
+  "en": "\\bFor the Performance Stage, I'll be judging Pokémon.",
+  "it": "\\bPer la Fase Esibizione, sarò io a giudicare i Pokémon."
+ },
+ {
+  "id": "\\bFor the Performance Stage, I'll be judging your Pokémon.",
+  "en": "\\bFor the Performance Stage, I'll be judging your Pokémon.",
+  "it": "\\bPer la Fase Esibizione, sarò io a giudicare i tuoi Pokémon."
+ },
+ {
+  "id": "\\b...Oh? You don't need me to judge. I get it.",
+  "en": "\\b...Oh? You don't need me to judge. I get it.",
+  "it": "\\b...Oh? Non ti serve il mio giudizio. Capisco."
+ },
+ {
+  "id": "\\bI see, I see...",
+  "en": "\\bI see, I see...",
+  "it": "\\bVedo, vedo..."
+ },
+ {
+  "id": "\\bThis Pokémon's potential is outstanding overall.",
+  "en": "\\bThis Pokémon's potential is outstanding overall.",
+  "it": "\\bNel complesso, il potenziale di questo Pokémon è eccezionale."
+ },
+ {
+  "id": "\\bThis Pokémon's potential is relatively superior overall.",
+  "en": "\\bThis Pokémon's potential is relatively superior overall.",
+  "it": "\\bNel complesso, il potenziale di questo Pokémon è decisamente superiore."
+ },
+ {
+  "id": "\\bThis Pokémon's potential is above average overall.",
+  "en": "\\bThis Pokémon's potential is above average overall.",
+  "it": "\\bNel complesso, il potenziale di questo Pokémon è sopra la media."
+ },
+ {
+  "id": "\\bThis Pokémon's potential is decent overall.",
+  "en": "\\bThis Pokémon's potential is decent overall.",
+  "it": "\\bNel complesso, il potenziale di questo Pokémon è discreto."
+ },
+ {
+  "id": "\\bThat's my determination, and it's final.",
+  "en": "\\bThat's my determination, and it's final.",
+  "it": "\\bQuesto è il mio verdetto, ed è definitivo."
+ },
+ {
+  "id": "\\bIncidentally, I would say the best potential lies in its \\v[4] stat.",
+  "en": "\\bIncidentally, I would say the best potential lies in its \\v[4] stat.",
+  "it": "\\bTra l'altro, direi che il potenziale migliore sta nella statistica \\v[4]."
+ },
+ {
+  "id": "\\bAnd its Attack stat is also good.",
+  "en": "\\bAnd its Attack stat is also good.",
+  "it": "\\bE anche il suo Attacco è buono."
+ },
+ {
+  "id": "\\bI see, its Defense stat is also good.",
+  "en": "\\bI see, its Defense stat is also good.",
+  "it": "\\bVedo, anche la sua Difesa è buona."
+ },
+ {
+  "id": "\\bWell, its Speed stat is also good.",
+  "en": "\\bWell, its Speed stat is also good.",
+  "it": "\\bBeh, anche la sua Velocità è buona."
+ },
+ {
+  "id": "\\bIts Special Attack stat is equally good.",
+  "en": "\\bIts Special Attack stat is equally good.",
+  "it": "\\bAnche il suo Attacco Speciale è altrettanto buono."
+ },
+ {
+  "id": "\\bIts Special Defense stat is good as well.",
+  "en": "\\bIts Special Defense stat is good as well.",
+  "it": "\\bAnche la sua Difesa Speciale è buona."
+ },
+ {
+  "id": "\\bIt can't be better in that regard. That's how I judged it.",
+  "en": "\\bIt can't be better in that regard. That's how I judged it.",
+  "it": "\\bSotto quell'aspetto non potrebbe essere migliore. Questo è il mio giudizio."
+ },
+ {
+  "id": "\\bIt's fantastic in that regard. That's how I judged it.",
+  "en": "\\bIt's fantastic in that regard. That's how I judged it.",
+  "it": "\\bSotto quell'aspetto è fantastico. Questo è il mio giudizio."
+ },
+ {
+  "id": "\\bIt's very good in that regard. That's how I judged it.",
+  "en": "\\bIt's very good in that regard. That's how I judged it.",
+  "it": "\\bSotto quell'aspetto è molto buono. Questo è il mio giudizio."
+ },
+ {
+  "id": "\\bIt's rather decent in that regard. That's how I judged it.",
+  "en": "\\bIt's rather decent in that regard. That's how I judged it.",
+  "it": "\\bSotto quell'aspetto è piuttosto discreto. Questo è il mio giudizio."
+ },
+ {
+  "id": "\\bYou're moving on to the Final Stage.",
+  "en": "\\bYou're moving on to the Final Stage.",
+  "it": "\\bPassi alla Fase Finale."
+ },
+ {
+  "id": "\\bCongratulations, you're moving on to the Final Stage.",
+  "en": "\\bCongratulations, you're moving on to the Final Stage.",
+  "it": "\\bCongratulazioni, passi alla Fase Finale."
+ },
+ {
+  "id": "\\bThat was an excellent performance.",
+  "en": "\\bThat was an excellent performance.",
+  "it": "\\bÈ stata un'esibizione eccellente."
+ },
+ {
+  "id": "\\rI'm going to be a bit harder okay?",
+  "en": "\\rI'm going to be a bit harder okay?",
+  "it": "\\rStavolta sarò un po' più dura, ok?"
+ },
+ {
+  "id": "\\rI think I might try movies next.",
+  "en": "\\rI think I might try movies next.",
+  "it": "\\rForse la prossima volta proverò con i film."
+ },
+ {
+  "id": "\\bI'm looking for a good test.",
+  "en": "\\bI'm looking for a good test.",
+  "it": "\\bCerco una bella prova."
+ },
+ {
+  "id": "Wow! So strong!",
+  "en": "Wow! So strong!",
+  "it": "Wow! Che forza!"
+ },
+ {
+  "id": "\\bDespite everything, my Pokémon and I need to train more.",
+  "en": "\\bDespite everything, my Pokémon and I need to train more.",
+  "it": "\\bNonostante tutto, io e i miei Pokémon dobbiamo allenarci di più."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

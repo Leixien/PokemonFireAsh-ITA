@@ -1,0 +1,107 @@
+[
+ {
+  "id": "\\bI need a new challenge.",
+  "en": "\\bI need a new challenge.",
+  "it": "\\bHo bisogno di una nuova sfida."
+ },
+ {
+  "id": "\\bTry me again some other day.",
+  "en": "\\bTry me again some other day.",
+  "it": "\\bRiprova con me un altro giorno."
+ },
+ {
+  "id": "\\rTaste my love.",
+  "en": "\\rTaste my love.",
+  "it": "\\rAssaggia il mio amore."
+ },
+ {
+  "id": "\\rMe and Ralph will be together forever.",
+  "en": "\\rMe and Ralph will be together forever.",
+  "it": "\\rIo e Ralph staremo insieme per sempre."
+ },
+ {
+  "id": "\\bI help supply power to the island.",
+  "en": "\\bI help supply power to the island.",
+  "it": "\\bAiuto a fornire energia all'isola."
+ },
+ {
+  "id": "\\bI feel refreshed.",
+  "en": "\\bI feel refreshed.",
+  "it": "\\bMi sento rinvigorito."
+ },
+ {
+  "id": "\\bTracey: Hey \\PN. Isn't this forest amazing! There are so many Pokémon here.",
+  "en": "\\bTracey: Hey \\PN. Isn't this forest amazing! There are so many Pokémon here.",
+  "it": "\\bTracey: Ehi \\PN. Non è fantastica questa foresta? Ci sono così tanti Pokémon!"
+ },
+ {
+  "id": "\\bTracey: Your team is amazing \\PN.",
+  "en": "\\bTracey: Your team is amazing \\PN.",
+  "it": "\\bTracey: La tua squadra è fantastica, \\PN."
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Trovita,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Kumquat,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Kumquat,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Trovita,Kumquat,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Kumquat,Pummelo,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Kumquat,Pummelo,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Trovita,Kumquat,Pummelo,Esci]"
+ },
+ {
+  "id": "\\bGo easy on me.",
+  "en": "\\bGo easy on me.",
+  "it": "\\bVacci piano con me."
+ },
+ {
+  "id": "\\bGreat battle. You're not half bad.",
+  "en": "\\bGreat battle. You're not half bad.",
+  "it": "\\bBella lotta. Non sei niente male."
+ },
+ {
+  "id": "\\bCaptain Aidan: Thanks for finding Wartortle. I hope you didn't get hurt in that fire.",
+  "en": "\\bCaptain Aidan: Thanks for finding Wartortle. I hope you didn't get hurt in that fire.",
+  "it": "\\bCapitano Aidan: Grazie per aver trovato Wartortle. Spero che tu non ti sia fatto male in quell'incendio."
+ },
+ {
+  "id": "\\bWartorle and I are going to head back to our place now. Stop by when you get a chance.",
+  "en": "\\bWartorle and I are going to head back to our place now. Stop by when you get a chance.",
+  "it": "\\bIo e Wartortle adesso torniamo a casa nostra. Passa a trovarci quando puoi."
+ },
+ {
+  "id": "\\rI'm practicing to be a firefighter.",
+  "en": "\\rI'm practicing to be a firefighter.",
+  "it": "\\rMi sto esercitando per diventare pompiere."
+ },
+ {
+  "id": "I think I'm ready.",
+  "en": "I think I'm ready.",
+  "it": "Credo di essere pronta."
+ },
+ {
+  "id": "\\rMy Water type Pokémon are strong.",
+  "en": "\\rMy Water type Pokémon are strong.",
+  "it": "\\rI miei Pokémon di tipo Acqua sono forti."
+ },
+ {
+  "id": "\\bTangela...",
+  "en": "\\bTangela...",
+  "it": "\\bTangela..."
+ },
+ {
+  "id": "\\bFull power.",
+  "en": "\\bFull power.",
+  "it": "\\bMassima potenza."
+ },
+ {
+  "id": "\\bEmily and I are a perfect match.",
+  "en": "\\bEmily and I are a perfect match.",
+  "it": "\\bIo ed Emily siamo una coppia perfetta."
+ }
+]

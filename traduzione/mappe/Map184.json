@@ -1,0 +1,237 @@
+[
+ {
+  "id": "\\rI'm looking for a Raichu.",
+  "en": "\\rI'm looking for a Raichu.",
+  "it": "\\rSto cercando un Raichu."
+ },
+ {
+  "id": "\\rWant to trade it for my Electrode?",
+  "en": "\\rWant to trade it for my Electrode?",
+  "it": "\\rVuoi scambiarlo con il mio Electrode?"
+ },
+ {
+  "id": "\\rYou don't want to trade? That's too bad.",
+  "en": "\\rYou don't want to trade?  That's too bad.",
+  "it": "\\rNon vuoi fare lo scambio?  Peccato."
+ },
+ {
+  "id": "\\rOkay, let's begin.",
+  "en": "\\rOkay, let's begin.",
+  "it": "\\rOk, cominciamo."
+ },
+ {
+  "id": "Electrode",
+  "en": "Electrode",
+  "it": "Electrode"
+ },
+ {
+  "id": "Laxus",
+  "en": "Laxus",
+  "it": "Laxus"
+ },
+ {
+  "id": "\\PN traded Raichu for Electrode!",
+  "en": "\\PN traded Raichu for Electrode!",
+  "it": "\\PN ha scambiato Raichu con Electrode!"
+ },
+ {
+  "id": "\\rThanks!",
+  "en": "\\rThanks!",
+  "it": "\\rGrazie!"
+ },
+ {
+  "id": "\\rThanks for the trade.",
+  "en": "\\rThanks for the trade.",
+  "it": "\\rGrazie per lo scambio."
+ },
+ {
+  "id": "\\bTenacool",
+  "en": "\\bTenacool",
+  "it": "\\bTenacool"
+ },
+ {
+  "id": "\\rDewgong",
+  "en": "\\rDewgong",
+  "it": "\\rDewgong"
+ },
+ {
+  "id": "\\rThe island's volcano is a bit more down the coast. The Gym is also located there.",
+  "en": "\\rThe island's volcano is a bit more down the coast.  The Gym is also located there.",
+  "it": "\\rIl vulcano dell'isola è un po' più giù lungo la costa.  Anche la Palestra si trova lì."
+ },
+ {
+  "id": "\\rAzurill",
+  "en": "\\rAzurill",
+  "it": "\\rAzurill"
+ },
+ {
+  "id": "\\bMarill",
+  "en": "\\bMarill",
+  "it": "\\bMarill"
+ },
+ {
+  "id": "\\bAzurill",
+  "en": "\\bAzurill",
+  "it": "\\bAzurill"
+ },
+ {
+  "id": "\\bI have a great move to help you beat Blaine.",
+  "en": "\\bI have a great move to help you beat Blaine.",
+  "it": "\\bConosco una mossa fantastica per aiutarti a battere Blaine."
+ },
+ {
+  "id": "\\bIt's called Seismic Toss. Wanna learn it?",
+  "en": "\\bIt's called Seismic Toss. Wanna learn it?",
+  "it": "\\bSi chiama Movimento Sismico. Vuoi impararla?"
+ },
+ {
+  "id": "\\bCome back when you're ready.",
+  "en": "\\bCome back when you're ready.",
+  "it": "\\bTorna quando sei pronto."
+ },
+ {
+  "id": "\\bWelcome. Where would you like to go?",
+  "en": "\\bWelcome. Where would you like to go?",
+  "it": "\\bBenvenuto. Dove vorresti andare?"
+ },
+ {
+  "id": "\\rWelcome. Where would you like to go?\\ch[1,-1, Vermillion,Cinnabar Gym,Metallica Island,Seafoam Islamds,Exit]",
+  "en": "\\rWelcome. Where would you like to go?\\ch[1,-1, Vermillion,Cinnabar Gym,Metallica Island,Seafoam Islamds,Exit]",
+  "it": "\\rBenvenuto. Dove vuoi andare?\\ch[1,-1, Aranciopoli,Palestra Cannella,Isola Metallica,Isole Spumarine,Esci]"
+ },
+ {
+  "id": "\\bI'm looking for a Seel.",
+  "en": "\\bI'm looking for a Seel.",
+  "it": "\\bSto cercando un Seel."
+ },
+ {
+  "id": "\\bWant to trade it for my Ponyta?",
+  "en": "\\bWant to trade it for my Ponyta?",
+  "it": "\\bVuoi scambiarlo con il mio Ponyta?"
+ },
+ {
+  "id": "\\bYou don't want to trade? Shame.",
+  "en": "\\bYou don't want to trade?  Shame.",
+  "it": "\\bNon vuoi fare lo scambio?  Peccato."
+ },
+ {
+  "id": "\\bOK, let's hurry this up.",
+  "en": "\\bOK, let's hurry this up.",
+  "it": "\\bOk, sbrighiamoci."
+ },
+ {
+  "id": "Ponyta",
+  "en": "Ponyta",
+  "it": "Ponyta"
+ },
+ {
+  "id": "Jean",
+  "en": "Jean",
+  "it": "Jean"
+ },
+ {
+  "id": "\\PN traded Seel for Ponyta!",
+  "en": "\\PN traded Seel for Ponyta!",
+  "it": "\\PN ha scambiato Seel con Ponyta!"
+ },
+ {
+  "id": "\\bThanks for the Seel sucker!",
+  "en": "\\bThanks for the Seel sucker!",
+  "it": "\\bGrazie per il Seel, pollo!"
+ },
+ {
+  "id": "\\bThanks for the trade, sucker.",
+  "en": "\\bThanks for the trade, sucker.",
+  "it": "\\bGrazie per lo scambio, pollo."
+ },
+ {
+  "id": "Cinnabar Island\\nThe Fiery Town of Burning Desire",
+  "en": "Cinnabar Island\\nThe Fiery Town of Burning Desire",
+  "it": "Isola Cannella\\nLa città focosa del desiderio ardente"
+ },
+ {
+  "id": "\\rI'm looking for a Venonat.",
+  "en": "\\rI'm looking for a Venonat.",
+  "it": "\\rSto cercando un Venonat."
+ },
+ {
+  "id": "\\rWant to trade it for my Haunter?",
+  "en": "\\rWant to trade it for my Haunter?",
+  "it": "\\rVuoi scambiarlo con il mio Haunter?"
+ },
+ {
+  "id": "\\rYou don't want to trade? Aw, you suck.",
+  "en": "\\rYou don't want to trade?  Aw, you suck.",
+  "it": "\\rNon vuoi fare lo scambio?  Uffa, che antipatico."
+ },
+ {
+  "id": "\\rAwesome!",
+  "en": "\\rAwesome!",
+  "it": "\\rFantastico!"
+ },
+ {
+  "id": "Haunter",
+  "en": "Haunter",
+  "it": "Haunter"
+ },
+ {
+  "id": "Akane",
+  "en": "Akane",
+  "it": "Akane"
+ },
+ {
+  "id": "\\PN traded Venonat for Haunter!",
+  "en": "\\PN traded Venonat for Haunter!",
+  "it": "\\PN ha scambiato Venonat con Haunter!"
+ },
+ {
+  "id": "\\rThank you!",
+  "en": "\\rThank you!",
+  "it": "\\rGrazie!"
+ },
+ {
+  "id": "\\rMy new Venonat is amazing!",
+  "en": "\\rMy new Venonat is amazing!",
+  "it": "\\rIl mio nuovo Venonat è stupendo!"
+ },
+ {
+  "id": "Power Shop.\\nFor when your Pokémon needs a boost!",
+  "en": "Power Shop.\\nFor when your Pokémon needs a boost!",
+  "it": "Negozio Potenziamenti.\\nPer quando i tuoi Pokémon hanno bisogno di una spinta!"
+ },
+ {
+  "id": "\\bGoh: I'm a little nervous, but I'm ready to go.",
+  "en": "\\bGoh: I'm a little nervous, but I'm ready to go.",
+  "it": "\\bGoh: Sono un po' nervoso, ma sono pronto a partire."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Vermilion",
+  "en": "Vermilion",
+  "it": "Aranciopoli"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Cinnabar Gym",
+  "en": "Cinnabar Gym",
+  "it": "Palestra di Cannella"
+ },
+ {
+  "id": "Metallica Island",
+  "en": "Metallica Island",
+  "it": "Isola Metallica"
+ }
+]

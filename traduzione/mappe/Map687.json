@@ -1,0 +1,72 @@
+[
+ {
+  "id": "\\rOh?\\nYour \\v[1]...",
+  "en": "\\rOh?\\nYour \\v[1]...",
+  "it": "\\rOh?\\nIl tuo \\v[1]..."
+ },
+ {
+  "id": "\\rOh! Your \\v[1], that Ribbon looks good on it!",
+  "en": "\\rOh! Your \\v[1], that Ribbon looks good on it!",
+  "it": "\\rOh! Quel Fiocco sta proprio bene al tuo \\v[1]!"
+ },
+ {
+  "id": "\\rWent for it stupendously!",
+  "en": "\\rWent for it stupendously!",
+  "it": "\\rSi è impegnato in modo straordinario!"
+ },
+ {
+  "id": "\\rAs its reward, please give it this Ribbon.",
+  "en": "\\rAs its reward, please give it this Ribbon.",
+  "it": "\\rCome ricompensa, dagli questo Fiocco."
+ },
+ {
+  "id": "\\PN received the Special Ribbon. \\me[Item get]\\wtnp[20]",
+  "en": "\\PN received the Special Ribbon. \\me[Item get]\\wtnp[20]",
+  "it": "\\PN riceve il Fiocco Speciale. \\me[Item get]\\wtnp[20]"
+ },
+ {
+  "id": "\\PN put the Special Ribbon on \\v[1].",
+  "en": "\\PN put the Special Ribbon on \\v[1].",
+  "it": "\\PN mette il Fiocco Speciale a \\v[1]."
+ },
+ {
+  "id": "\\rYou have to go for it a little harder.",
+  "en": "\\rYou have to go for it a little harder.",
+  "it": "\\rDevi impegnarti un po' di più."
+ },
+ {
+  "id": "\\rIf you do, I'll give your Pokémon something nice.",
+  "en": "\\rIf you do, I'll give your Pokémon something nice.",
+  "it": "\\rSe lo farai, darò al tuo Pokémon qualcosa di bello."
+ },
+ {
+  "id": "\\rMy brother is upstairs. He loves looking at stones.",
+  "en": "\\rMy brother is upstairs. He loves looking at stones.",
+  "it": "\\rMio fratello è al piano di sopra. Adora guardare le pietre."
+ },
+ {
+  "id": "\\bThe city is known for all the activities you can enjoy.",
+  "en": "\\bThe city is known for all the activities you can enjoy.",
+  "it": "\\bLa città è famosa per tutte le attività che offre."
+ },
+ {
+  "id": "\\bYou must be here because you love stones too. Take this from one stone lover to another.",
+  "en": "\\bYou must be here because you love stones too.  Take this from one stone lover to another.",
+  "it": "\\bSarai qui perché anche tu ami le pietre. Prendi questa, da un amante delle pietre all'altro."
+ },
+ {
+  "id": "\\bStones are useful for many things. Don't confuse them with fossils.",
+  "en": "\\bStones are useful for many things. Don't confuse them with fossils.",
+  "it": "\\bLe pietre servono a tante cose. Non confonderle con i fossili."
+ },
+ {
+  "id": "\\bMy sister loves judging the effort of Pokémon. Use this, it will help with that.",
+  "en": "\\bMy sister loves judging the effort of Pokémon.  Use this, it will help with that.",
+  "it": "\\bMia sorella adora giudicare l'impegno dei Pokémon. Usa questo, ti aiuterà in quello."
+ },
+ {
+  "id": "\\bPokémon gain a lot from friendship. Some even evolve with it, like Woobat and Swadloon.",
+  "en": "\\bPokémon gain a lot from friendship. Some even evolve with it, like Woobat and Swadloon.",
+  "it": "\\bI Pokémon guadagnano molto dall'amicizia. Alcuni si evolvono persino grazie a essa, come Woobat e Swadloon."
+ }
+]

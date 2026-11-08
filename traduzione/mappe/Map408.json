@@ -1,0 +1,217 @@
+[
+ {
+  "id": "\\rIsn't the town's hot spring nice? Pokémon can use it too, though you won't find any if you fish for them.",
+  "en": "\\rIsn't the town's hot spring nice? Pokémon can use it too, though you won't find any if you fish for them.",
+  "it": "\\rLe terme del paese sono bellissime, vero? Possono usarle anche i Pokémon, ma se ci peschi non ne troverai nessuno."
+ },
+ {
+  "id": "\\bAh, it's you!",
+  "en": "\\bAh, it's you!",
+  "it": "\\bAh, sei tu!"
+ },
+ {
+  "id": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "en": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "it": "\\bStavamo allevando il tuo Pokémon e, santo cielo, che sorpresa!"
+ },
+ {
+  "id": "\\bYour Pokémon was holding an Egg!",
+  "en": "\\bYour Pokémon was holding an Egg!",
+  "it": "\\bIl tuo Pokémon aveva con sé un Uovo!"
+ },
+ {
+  "id": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "en": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "it": "\\bNon sappiamo come ci sia finito, ma ce l'aveva il tuo Pokémon."
+ },
+ {
+  "id": "\\bYou do want it, don't you?",
+  "en": "\\bYou do want it, don't you?",
+  "it": "\\bLo vuoi, vero?"
+ },
+ {
+  "id": "\\bYou have no room for it right now... Come back when you've made room.",
+  "en": "\\bYou have no room for it right now... Come back when you've made room.",
+  "it": "\\bAl momento non hai spazio... Torna quando ne avrai fatto."
+ },
+ {
+  "id": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "en": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "it": "\\me[Egg get]\\PN ha ricevuto l'Uovo dal signore della Pensione."
+ },
+ {
+  "id": "\\bYou take good care of it.",
+  "en": "\\bYou take good care of it.",
+  "it": "\\bAbbine cura, mi raccomando."
+ },
+ {
+  "id": "\\bI really will keep it. You do want this Egg, yes?",
+  "en": "\\bI really will keep it. You do want this Egg, yes?",
+  "it": "\\bAllora lo tengo davvero. Lo vuoi questo Uovo, sì?"
+ },
+ {
+  "id": "\\bWell all right then, I'll take it. Thank you.",
+  "en": "\\bWell all right then, I'll take it. Thank you.",
+  "it": "\\bVa bene, allora lo prendo io. Grazie."
+ },
+ {
+  "id": "\\bThat is, I don't think we'll ever find another...",
+  "en": "\\bThat is, I don't think we'll ever find another...",
+  "it": "\\bCioè, non credo che ne troveremo mai un altro..."
+ },
+ {
+  "id": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "en": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "it": "\\bNo, no, sono sicuro che ne troveremo un altro. Ne sono assolutamente certo!"
+ },
+ {
+  "id": "\\bI'm the Day-Care Man.",
+  "en": "\\bI'm the Day-Care Man.",
+  "it": "\\bSono il Signore della Pensione."
+ },
+ {
+  "id": "\\bI help take care of the precious Pokémon of trainers.",
+  "en": "\\bI help take care of the precious Pokémon of trainers.",
+  "it": "\\bAiuto ad accudire i preziosi Pokémon degli Allenatori."
+ },
+ {
+  "id": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "en": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "it": "\\bSe vuoi far allevare un Pokémon, puoi lasciarlo alle cure di mia moglie."
+ },
+ {
+  "id": "\\bAh, it's you!\\nGood to see you!",
+  "en": "\\bAh, it's you!\\nGood to see you!",
+  "it": "\\bAh, sei tu!\\nChe piacere vederti!"
+ },
+ {
+  "id": "\\bYour \\v[3] is doing just fine.",
+  "en": "\\bYour \\v[3] is doing just fine.",
+  "it": "\\bIl tuo \\v[3] sta benissimo."
+ },
+ {
+  "id": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "en": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "it": "\\bI tuoi \\v[3] e \\v[4] stanno benissimo."
+ },
+ {
+  "id": "\\bThe two play with other Pokémon rather than with each other...",
+  "en": "\\bThe two play with other Pokémon rather than with each other...",
+  "it": "\\bQuei due preferiscono giocare con altri Pokémon piuttosto che tra loro..."
+ },
+ {
+  "id": "\\bThe two don't seem to like each other much.",
+  "en": "\\bThe two don't seem to like each other much.",
+  "it": "\\bQuei due non sembrano piacersi molto."
+ },
+ {
+  "id": "\\bThe two seem to get along.",
+  "en": "\\bThe two seem to get along.",
+  "it": "\\bQuei due sembrano andare d'accordo."
+ },
+ {
+  "id": "\\bThe two seem to get along very well.",
+  "en": "\\bThe two seem to get along very well.",
+  "it": "\\bQuei due sembrano andare molto d'accordo."
+ },
+ {
+  "id": "\\rHow many badges do you have? You haven't even beat Wattson yet?! There's no way I'm letting someone in here with that level of skill.",
+  "en": "\\rHow many badges do you have? You haven't even beat Wattson yet?! There's no way I'm letting someone in here with that level of skill.",
+  "it": "\\rQuante medaglie hai? Non hai ancora battuto nemmeno Walter?! Non se ne parla di farti entrare con un livello del genere."
+ },
+ {
+  "id": "\\bI used to be the old Gym Leader here, but my granddaughter has taken over.",
+  "en": "\\bI used to be the old Gym Leader here, but my granddaughter has taken over.",
+  "it": "\\bUn tempo ero io il Capopalestra di qui, ma ora ha preso il mio posto mia nipote."
+ },
+ {
+  "id": "\\bI wonder if you have enough strength to beat an old man like me?",
+  "en": "\\bI wonder if you have enough strength to beat an old man like me?",
+  "it": "\\bChissà se hai abbastanza forza per battere un vecchietto come me?"
+ },
+ {
+  "id": "\\bMy granddaughter is a bit new to her position, so please be patient with her.",
+  "en": "\\bMy granddaughter is a bit new to her position, so please be patient with her.",
+  "it": "\\bMia nipote è ancora alle prime armi nel suo ruolo, quindi abbi pazienza con lei."
+ },
+ {
+  "id": "\\bWingull",
+  "en": "\\bWingull",
+  "it": "\\bWingull"
+ },
+ {
+  "id": "\\bI bet Flannery only got the position because of her grandfather...",
+  "en": "\\bI bet Flannery only got the position because of her grandfather...",
+  "it": "\\bScommetto che Fiammetta ha avuto il posto solo grazie a suo nonno..."
+ },
+ {
+  "id": "\\bSpoink",
+  "en": "\\bSpoink",
+  "it": "\\bSpoink"
+ },
+ {
+  "id": "\\bPsst... you want to have something really cool?",
+  "en": "\\bPsst... you want to have something really cool?",
+  "it": "\\bPsst... vuoi qualcosa di davvero forte?"
+ },
+ {
+  "id": "Libi",
+  "en": "Libi",
+  "it": "Libi"
+ },
+ {
+  "id": "You got an egg.",
+  "en": "You got an egg.",
+  "it": "Hai ricevuto un Uovo."
+ },
+ {
+  "id": "\\bTake good care of the egg! Haha.",
+  "en": "\\bTake good care of the egg! Haha.",
+  "it": "\\bAbbi cura dell'Uovo! Ahah."
+ },
+ {
+  "id": "\\bOh, you can't carry it with you.",
+  "en": "\\bOh, you can't carry it with you.",
+  "it": "\\bOh, non puoi portarlo con te."
+ },
+ {
+  "id": "\\bOh. Well I'm always here if you do.",
+  "en": "\\bOh. Well I'm always here if you do.",
+  "it": "\\bOh. Beh, io sono sempre qui se cambi idea."
+ },
+ {
+  "id": "\\bNo returns.",
+  "en": "\\bNo returns.",
+  "it": "\\bNiente resi."
+ },
+ {
+  "id": "Lavaridge Town\\nAn excellent place for relaxing!",
+  "en": "Lavaridge Town\\nAn excellent place for relaxing!",
+  "it": "Cuordilava\\nIl posto ideale per rilassarsi!"
+ },
+ {
+  "id": "\\rYou came through the Fiery Path? Even I wouldn't try that.",
+  "en": "\\rYou came through the Fiery Path? Even I wouldn't try that.",
+  "it": "\\rSei passato per il Cammino Ardente? Nemmeno io ci proverei."
+ },
+ {
+  "id": "Lavaridge Town Pokémon Gym Leader: \\nFlannery",
+  "en": "Lavaridge Town Pokémon Gym Leader: \\nFlannery",
+  "it": "Capopalestra della Palestra Pokémon di Cuordilava: \\nFiammetta"
+ },
+ {
+  "id": "One with a fiery passion that burns!",
+  "en": "One with a fiery passion that burns!",
+  "it": "Una passione ardente che brucia!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

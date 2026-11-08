@@ -1,0 +1,162 @@
+[
+ {
+  "id": "\\bI prepared for this.",
+  "en": "\\bI prepared for this.",
+  "it": "\\bMi sono preparato per questo."
+ },
+ {
+  "id": "Not enough.",
+  "en": "Not enough.",
+  "it": "Non basta."
+ },
+ {
+  "id": "\\bPsychic types fear Bugs.",
+  "en": "\\bPsychic types fear Bugs.",
+  "it": "\\bI Pokémon Psico temono i Coleottero."
+ },
+ {
+  "id": "\\bYou'll never beat Sabrina.",
+  "en": "\\bYou'll never beat Sabrina.",
+  "it": "\\bNon batterai mai Sabrina."
+ },
+ {
+  "id": "What?!",
+  "en": "What?!",
+  "it": "Cosa?!"
+ },
+ {
+  "id": "\\bSabrina wiped out the Karate Master next door.",
+  "en": "\\bSabrina wiped out the Karate Master next door.",
+  "it": "\\bSabrina ha spazzato via il Maestro di Karate qui accanto."
+ },
+ {
+  "id": "\\rSabrina: Oh? You want to battle? Fine, but don't say I didn't warn you.",
+  "en": "\\rSabrina: Oh? You want to battle? Fine, but don't say I didn't warn you.",
+  "it": "\\rSabrina: Oh? Vuoi lottare? D'accordo, ma non dire che non ti avevo avvertito."
+ },
+ {
+  "id": "\\rSabrina: You have potential but you are not good enough yet. Come back after you beat Pokémon Tower in Lavender Town. Then I'll battle seriously.",
+  "en": "\\rSabrina: You have potential but you are not good enough yet. Come back after you beat Pokémon Tower in Lavender Town. Then I'll battle seriously.",
+  "it": "\\rSabrina: Hai del potenziale, ma non sei ancora abbastanza bravo. Torna dopo aver superato la Torre Pokémon di Lavandonia. Allora lotterò sul serio."
+ },
+ {
+  "id": "\\rWhat? You thought I was going to give you the badge? Haha, don't be silly.",
+  "en": "\\rWhat? You thought I was going to give you the badge? Haha, don't be silly.",
+  "it": "\\rCosa? Pensavi che ti avrei dato la medaglia? Haha, non essere sciocco."
+ },
+ {
+  "id": "\\rSabrina: Come back when you beat Pokémon Tower.",
+  "en": "\\rSabrina: Come back when you beat Pokémon Tower.",
+  "it": "\\rSabrina: Torna quando avrai superato la Torre Pokémon."
+ },
+ {
+  "id": "\\rSabrina: So, you came back. I thought you might. Well, let's see if you got any stronger, shall we?",
+  "en": "\\rSabrina: So, you came back. I thought you might.  Well, let's see if you got any stronger, shall we?",
+  "it": "\\rSabrina: Dunque sei tornato. Immaginavo che l'avresti fatto.  Bene, vediamo se sei diventato più forte, che ne dici?"
+ },
+ {
+  "id": "\\rSabrina: You've done very well. I admit that you're a talented and strong Trainer. Here, you earned the Marsh Badge.",
+  "en": "\\rSabrina: You've done very well. I admit that you're a talented and strong Trainer. Here, you earned the Marsh Badge.",
+  "it": "\\rSabrina: Sei stato davvero bravo. Ammetto che sei un Allenatore forte e di talento. Ecco, ti sei guadagnato la Medaglia Palude."
+ },
+ {
+  "id": "\\rHere, have this TM too.",
+  "en": "\\rHere, have this TM too.",
+  "it": "\\rEcco, prendi anche questa MT."
+ },
+ {
+  "id": "\\rTM04 contains Calm Mind. It raises the Special Attack and Special Defense of a Pokémon.",
+  "en": "\\rTM04 contains Calm Mind. It raises the Special Attack and Special Defense of a Pokémon.",
+  "it": "\\rLa MT04 contiene Calmamente. Aumenta l'Attacco Speciale e la Difesa Speciale di un Pokémon."
+ },
+ {
+  "id": "\\rSabrina: I feel much better now. Thank you \\PN.",
+  "en": "\\rSabrina: I feel much better now. Thank you \\PN.",
+  "it": "\\rSabrina: Ora mi sento molto meglio. Grazie, \\PN."
+ },
+ {
+  "id": "\\rWho goes there?",
+  "en": "\\rWho goes there?",
+  "it": "\\rChi va là?"
+ },
+ {
+  "id": "Waa.",
+  "en": "Waa.",
+  "it": "Waa."
+ },
+ {
+  "id": "\\rI knew that this was going to take place.",
+  "en": "\\rI knew that this was going to take place.",
+  "it": "\\rSapevo che sarebbe successo."
+ },
+ {
+  "id": "\\bSabrina uses Psychic type Pokémon. They are weak aganst the Bug, Ghost, and Dark types.",
+  "en": "\\bSabrina uses Psychic type Pokémon. They are weak aganst the Bug, Ghost, and Dark types.",
+  "it": "\\bSabrina usa Pokémon di tipo Psico. Sono deboli contro i tipi Coleottero, Spettro e Buio."
+ },
+ {
+  "id": "\\bThey are strong against Fighting and Poison. Psychic and Fighting moves also don't do much damage.",
+  "en": "\\bThey are strong against Fighting and Poison.  Psychic and Fighting moves also don't do much damage.",
+  "it": "\\bSono forti contro Lotta e Veleno.  Anche le mosse Psico e Lotta non fanno loro molto danno."
+ },
+ {
+  "id": "\\rPrepare yourself.",
+  "en": "\\rPrepare yourself.",
+  "it": "\\rPreparati."
+ },
+ {
+  "id": "No!",
+  "en": "No!",
+  "it": "No!"
+ },
+ {
+  "id": "\\rI have much to learn still...",
+  "en": "\\rI have much to learn still...",
+  "it": "\\rHo ancora molto da imparare..."
+ },
+ {
+  "id": "\\rIn a battle of equals, the one with the stronger will win.",
+  "en": "\\rIn a battle of equals, the one with the stronger will win.",
+  "it": "\\rIn una lotta tra pari, vince chi ha la volontà più forte."
+ },
+ {
+  "id": "I see.",
+  "en": "I see.",
+  "it": "Capisco."
+ },
+ {
+  "id": "\\rIf you wish to beat Sabrina, focus and will yourself to victory.",
+  "en": "\\rIf you wish to beat Sabrina, focus and will yourself to victory.",
+  "it": "\\rSe vuoi battere Sabrina, concentrati e conquista la vittoria con la forza di volontà."
+ },
+ {
+  "id": "\\bBeat me first. Then we will see if you are good enough for Sabrina.",
+  "en": "\\bBeat me first. Then we will see if you are good enough for Sabrina.",
+  "it": "\\bPrima battimi. Poi vedremo se sei all'altezza di Sabrina."
+ },
+ {
+  "id": "Perhaps you are.",
+  "en": "Perhaps you are.",
+  "it": "Forse lo sei."
+ },
+ {
+  "id": "\\bI can use telepathy to read your mind!",
+  "en": "\\bI can use telepathy to read your mind!",
+  "it": "\\bPosso usare la telepatia per leggerti nel pensiero!"
+ },
+ {
+  "id": "\\bYou dare challenge me?",
+  "en": "\\bYou dare challenge me?",
+  "it": "\\bOsi sfidarmi?"
+ },
+ {
+  "id": "I didn't expect that.",
+  "en": "I didn't expect that.",
+  "it": "Questo non me l'aspettavo."
+ },
+ {
+  "id": "\\bThere used to two Pokémon Gyms in Saffron. We destroyed any chances of them staying though.",
+  "en": "\\bThere used to two Pokémon Gyms in Saffron. We destroyed any chances of them staying though.",
+  "it": "\\bUna volta a Zafferanopoli c'erano due Palestre Pokémon. Ma abbiamo distrutto ogni possibilità che restassero entrambe."
+ }
+]

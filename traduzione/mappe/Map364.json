@@ -1,0 +1,47 @@
+[
+ {
+  "id": "\\rYou look tired. Why don't you take a rest.",
+  "en": "\\rYou look tired. Why don't you take a rest.",
+  "it": "\\rSembri stanco. Perché non ti riposi un po'?"
+ },
+ {
+  "id": "\\rOh, good! You and your Pokémon are looking great. Take care now!",
+  "en": "\\rOh, good! You and your Pokémon are looking great.  Take care now!",
+  "it": "\\rOh, bene! Tu e i tuoi Pokémon avete un ottimo aspetto. Abbi cura di te!"
+ },
+ {
+  "id": "\\bI've been looking for the strongest Magikarp. I hear it's in the resort.",
+  "en": "\\bI've been looking for the strongest Magikarp. I hear it's in the resort.",
+  "it": "\\bSto cercando il Magikarp più forte. Ho sentito che si trova nell'area svago."
+ },
+ {
+  "id": "\\rAre you enjoying the resort? Stay as long as you can afford to.",
+  "en": "\\rAre you enjoying the resort? Stay as long as you can afford to.",
+  "it": "\\rTi stai godendo l'Area Svago? Resta finché te lo puoi permettere."
+ },
+ {
+  "id": "\\rSometimes people need a little help. Try this if you are struggling.",
+  "en": "\\rSometimes people need a little help. Try this if you are struggling.",
+  "it": "\\rA volte le persone hanno bisogno di una mano. Prova questo se sei in difficoltà."
+ },
+ {
+  "id": "\\bEverybody needs a little help sometimes.",
+  "en": "\\bEverybody needs a little help sometimes.",
+  "it": "\\bTutti hanno bisogno di una mano, ogni tanto."
+ },
+ {
+  "id": "\\rWelcome to the Resort Mansion.",
+  "en": "\\rWelcome to the Resort Mansion.",
+  "it": "\\rBenvenuto nella Villa dell'Area Svago."
+ },
+ {
+  "id": "\\rThis area is off limits.",
+  "en": "\\rThis area is off limits.",
+  "it": "\\rL'accesso a quest'area è vietato."
+ },
+ {
+  "id": "\\bPlaying a game. Don't bother me. I never wanted to come here anyway.",
+  "en": "\\bPlaying a game. Don't bother me. I never wanted to come here anyway.",
+  "it": "\\bSto giocando. Non disturbarmi. Tanto non volevo nemmeno venirci, qui."
+ }
+]

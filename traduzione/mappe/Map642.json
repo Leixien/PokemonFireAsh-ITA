@@ -1,0 +1,122 @@
+[
+ {
+  "id": "\\rThat shop looks shady to me.\\nWhat do you think?",
+  "en": "\\rThat shop looks shady to me.\\nWhat do you think?",
+  "it": "\\rQuel negozio mi sembra losco.\\nTu che ne pensi?"
+ },
+ {
+  "id": "\\bBetter hope you don't meet me in battle. You'll lose before you know what happened.",
+  "en": "\\bBetter hope you don't meet me in battle. You'll lose before you know what happened.",
+  "it": "\\bSpera di non incontrarmi in lotta. Perderai prima di capire cos'è successo."
+ },
+ {
+  "id": "\\bBrock: I expected you would be here sooner or later.",
+  "en": "\\bBrock: I expected you would be here sooner or later.",
+  "it": "\\bBrock: Immaginavo che prima o poi saresti venuto qui."
+ },
+ {
+  "id": "\\bI know you're busy preparing for the league, but I think a battle might help you out.",
+  "en": "\\bI know you're busy preparing for the league, but I think a battle might help you out.",
+  "it": "\\bSo che sei impegnato a prepararti per la Lega, ma penso che una lotta potrebbe aiutarti."
+ },
+ {
+  "id": "\\bBrock: Great battle \\PN! If you want I can groom one of your Pokémon. It may help it in battle.",
+  "en": "\\bBrock: Great battle \\PN! If you want I can groom one of your Pokémon. It may help it in battle.",
+  "it": "\\bBrock: Gran bella lotta, \\PN! Se vuoi, posso curare l'aspetto di uno dei tuoi Pokémon. Potrebbe aiutarlo in lotta."
+ },
+ {
+  "id": "\\bBrock: Which Pokémon do you want me to groom?",
+  "en": "\\bBrock: Which Pokémon do you want me to groom?",
+  "it": "\\bBrock: A quale Pokémon vuoi che faccia la toelettatura?"
+ },
+ {
+  "id": "\\bBrock: Oh, okay then.",
+  "en": "\\bBrock: Oh, okay then.",
+  "it": "\\bBrock: Oh, va bene allora."
+ },
+ {
+  "id": "\\bBrock: There! \\v[2] looks a lot better now!",
+  "en": "\\bBrock: There!  \\v[2] looks a lot better now!",
+  "it": "\\bBrock: Ecco fatto!  \\v[2] ha un aspetto molto migliore ora!"
+ },
+ {
+  "id": "\\bWelcome. Where would you like to go?",
+  "en": "\\bWelcome. Where would you like to go?",
+  "it": "\\bBenvenuto. Dove vorresti andare?"
+ },
+ {
+  "id": "\\bAipom",
+  "en": "\\bAipom",
+  "it": "\\bAipom"
+ },
+ {
+  "id": "\\bWobbuffet!",
+  "en": "\\bWobbuffet!",
+  "it": "\\bWobbuffet!"
+ },
+ {
+  "id": "\\bLet's win the whole thing!",
+  "en": "\\bLet's win the whole thing!",
+  "it": "\\bVinciamo tutto!"
+ },
+ {
+  "id": "\\bAipom, calm down. We begin soon.",
+  "en": "\\bAipom, calm down. We begin soon.",
+  "it": "\\bAipom, calmati. Tra poco si comincia."
+ },
+ {
+  "id": "\\bJames: Welcome to our shop.",
+  "en": "\\bJames: Welcome to our shop.",
+  "it": "\\bJames: Benvenuti nel nostro negozio."
+ },
+ {
+  "id": "\\bHonchkrow",
+  "en": "\\bHonchkrow",
+  "it": "\\bHonchkrow"
+ },
+ {
+  "id": "\\rI didn't get enough badges, but I still love watching.",
+  "en": "\\rI didn't get enough badges, but I still love watching.",
+  "it": "\\rNon ho ottenuto abbastanza Medaglie, ma adoro comunque guardare."
+ },
+ {
+  "id": "\\rJessie: How can we help you?",
+  "en": "\\rJessie: How can we help you?",
+  "it": "\\rJessie: Come possiamo aiutarti?"
+ },
+ {
+  "id": "\\rI need to get in some last minute training.",
+  "en": "\\rI need to get in some last minute training.",
+  "it": "\\rDevo fare un ultimo allenamento dell'ultimo minuto."
+ },
+ {
+  "id": "\\bBrock: You're done with the Sinnoh League now. Why don't you head home. Your family will want to hear how you did.",
+  "en": "\\bBrock: You're done with the Sinnoh League now.  Why don't you head home. Your family will want to hear how you did.",
+  "it": "\\bBrock: Ora hai finito con la Lega di Sinnoh.  Perché non torni a casa? La tua famiglia vorrà sapere com'è andata."
+ },
+ {
+  "id": "\\bBrock: If you want I can groom one of your Pokémon. It may help it in battle.",
+  "en": "\\bBrock: If you want I can groom one of your Pokémon. It may help it in battle.",
+  "it": "\\bBrock: Se vuoi, posso fare la toelettatura a uno dei tuoi Pokémon. Potrebbe aiutarlo in lotta."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Sunnyshore",
+  "en": "Sunnyshore",
+  "it": "Arenipoli"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ }
+]

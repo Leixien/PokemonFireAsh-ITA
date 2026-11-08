@@ -1,0 +1,392 @@
+[
+ {
+  "id": "\\bNickit",
+  "en": "\\bNickit",
+  "it": "\\bNickit"
+ },
+ {
+  "id": "\\bThievul",
+  "en": "\\bThievul",
+  "it": "\\bThievul"
+ },
+ {
+  "id": "\\bRose: Why don't you head inside?",
+  "en": "\\bRose: Why don't you head inside?",
+  "it": "\\bRose: Perché non entri?"
+ },
+ {
+  "id": "\\rJessie: The twerp? Shouldn't they be busy?",
+  "en": "\\rJessie: The twerp? Shouldn't they be busy?",
+  "it": "\\rJessie: Il moccioso? Non dovrebbe essere occupato?"
+ },
+ {
+  "id": "\\bMeowth: Who cares? We'll take their Pokémon too!",
+  "en": "\\bMeowth: Who cares? We'll take their Pokémon too!",
+  "it": "\\bMeowth: Chi se ne importa? Ci prenderemo anche i suoi Pokémon!"
+ },
+ {
+  "id": "\\bJames: Exactly. A Champion doesn't scare us.",
+  "en": "\\bJames: Exactly. A Champion doesn't scare us.",
+  "it": "\\bJames: Esatto. Un Campione non ci fa paura."
+ },
+ {
+  "id": "\\bWobbuffet: Wobbuffet!",
+  "en": "\\bWobbuffet: Wobbuffet!",
+  "it": "\\bWobbuffet: Wobbuffet!"
+ },
+ {
+  "id": "\\bGoh: The legends of Galar. I'd like to figure out the answers to these mysteries.",
+  "en": "\\bGoh: The legends of Galar. I'd like to figure out the answers to these mysteries.",
+  "it": "\\bGoh: Le leggende di Galar. Mi piacerebbe trovare le risposte a questi misteri."
+ },
+ {
+  "id": "\\bGoh: Want to head back to the lab with me?",
+  "en": "\\bGoh: Want to head back to the lab with me?",
+  "it": "\\bGoh: Vuoi tornare al laboratorio con me?"
+ },
+ {
+  "id": "\\bLet's go.",
+  "en": "\\bLet's go.",
+  "it": "\\bAndiamo."
+ },
+ {
+  "id": "\\bWhenever you're ready.",
+  "en": "\\bWhenever you're ready.",
+  "it": "\\bQuando sei pronto."
+ },
+ {
+  "id": "\\rNickit",
+  "en": "\\rNickit",
+  "it": "\\rNickit"
+ },
+ {
+  "id": "\\rThievul",
+  "en": "\\rThievul",
+  "it": "\\rThievul"
+ },
+ {
+  "id": "\\rOleana: The Chairman rarely meets with regular Trainers. Consider yourself lucky.",
+  "en": "\\rOleana: The Chairman rarely meets with regular Trainers. Consider yourself lucky.",
+  "it": "\\rOleana: Il Presidente incontra raramente degli Allenatori qualunque. Ritieniti fortunato."
+ },
+ {
+  "id": "\\bFarfetch'd",
+  "en": "\\bFarfetch'd",
+  "it": "\\bFarfetch'd"
+ },
+ {
+  "id": "Farfetch'd is staring intently at you. Would you like to take it with you?",
+  "en": "Farfetch'd is staring intently at you. Would you like to take it with you?",
+  "it": "Farfetch'd ti sta fissando intensamente. Vuoi portarlo con te?"
+ },
+ {
+  "id": "\\bGoh: Good job driving them off. I need to leave for a Project Mew mission. Be sure to win.",
+  "en": "\\bGoh: Good job driving them off. I need to leave for a Project Mew mission. Be sure to win.",
+  "it": "\\bGoh: Bel lavoro, li hai messi in fuga. Devo partire per una missione del Progetto Mew. Mi raccomando, vinci."
+ },
+ {
+  "id": "\\bI'm thinking about going fishing later. Can you believe it?",
+  "en": "\\bI'm thinking about going fishing later. Can you believe it?",
+  "it": "\\bPiù tardi penso di andare a pescare. Ci credi?"
+ },
+ {
+  "id": "Would you like to take Sobble with you?",
+  "en": "Would you like to take Sobble with you?",
+  "it": "Vuoi portare Sobble con te?"
+ },
+ {
+  "id": "\\rI love watching Contests. Do you know any famous ones?",
+  "en": "\\rI love watching Contests. Do you know any famous ones?",
+  "it": "\\rAdoro guardare le Gare. Ne conosci qualcuna famosa?"
+ },
+ {
+  "id": "\\bYou didn't get this from me.",
+  "en": "\\bYou didn't get this from me.",
+  "it": "\\bNon l'hai avuto da me."
+ },
+ {
+  "id": "\\bYou never saw me.",
+  "en": "\\bYou never saw me.",
+  "it": "\\bNon mi hai mai visto."
+ },
+ {
+  "id": "\\bWhat are you doing here? Didn't you know that the match was moved to Spikemuth?",
+  "en": "\\bWhat are you doing here? Didn't you know that the match was moved to Spikemuth?",
+  "it": "\\bChe ci fai qui? Non sapevi che l'incontro è stato spostato a Spikemuth?"
+ },
+ {
+  "id": "\\bWe'll help you get there. Wouldn't want you to miss your battle.",
+  "en": "\\bWe'll help you get there. Wouldn't want you to miss your battle.",
+  "it": "\\bTi aiutiamo noi ad arrivarci. Non vorremmo che ti perdessi la lotta."
+ },
+ {
+  "id": "Train Station",
+  "en": "Train Station",
+  "it": "Stazione ferroviaria"
+ },
+ {
+  "id": "\\bMorgrem",
+  "en": "\\bMorgrem",
+  "it": "\\bMorgrem"
+ },
+ {
+  "id": "\\rPeople from all over the world come to this city.",
+  "en": "\\rPeople from all over the world come to this city.",
+  "it": "\\rIn questa città viene gente da tutto il mondo."
+ },
+ {
+  "id": "\\bLeon: Excellent! To the next one.",
+  "en": "\\bLeon: Excellent! To the next one. ",
+  "it": "\\bDandel: Ottimo! Al prossimo. "
+ },
+ {
+  "id": "\\bThis is where the best Trainers in the world meet.",
+  "en": "\\bThis is where the best Trainers in the world meet.",
+  "it": "\\bQui si incontrano i migliori Allenatori del mondo."
+ },
+ {
+  "id": "Wyndon\\nThis booming metropolis was designed and developed by our very own Chairman Rose.",
+  "en": "Wyndon\\nThis booming metropolis was designed and developed by our very own Chairman Rose.",
+  "it": "Wyndon\\nQuesta metropoli in pieno boom è stata progettata e sviluppata dal nostro Presidente Rose."
+ },
+ {
+  "id": "\\bCorviknight",
+  "en": "\\bCorviknight",
+  "it": "\\bCorviknight"
+ },
+ {
+  "id": "\\bWant to play?",
+  "en": "\\bWant to play?",
+  "it": "\\bVuoi giocare?"
+ },
+ {
+  "id": "\\bLeon: Let's take this one down too.",
+  "en": "\\bLeon: Let's take this one down too.",
+  "it": "\\bDandel: Abbattiamo anche questo."
+ },
+ {
+  "id": "\\bLeon: Let's move on. It's near Rose Tower.",
+  "en": "\\bLeon: Let's move on. It's near Rose Tower.",
+  "it": "\\bDandel: Andiamo avanti. È vicino alla Torre Rose."
+ },
+ {
+  "id": "\\bHow would you like a life changing partner?",
+  "en": "\\bHow would you like a life changing partner?",
+  "it": "\\bChe ne diresti di un compagno che ti cambierà la vita?"
+ },
+ {
+  "id": "\\bNo big deal.",
+  "en": "\\bNo big deal.",
+  "it": "\\bNessun problema."
+ },
+ {
+  "id": "\\bTake good care of it.",
+  "en": "\\bTake good care of it.",
+  "it": "\\bTrattalo bene."
+ },
+ {
+  "id": "\\rI entered the World Coronation Series last year. I struggled to even make it to the Great Class.",
+  "en": "\\rI entered the World Coronation Series last year. I struggled to even make it to the Great Class.",
+  "it": "\\rL'anno scorso ho partecipato alla World Coronation Series. Ho faticato persino ad arrivare alla Great Class."
+ },
+ {
+  "id": "\\bIt's fun to watch the Pokémon swim past.",
+  "en": "\\bIt's fun to watch the Pokémon swim past.",
+  "it": "\\bÈ divertente guardare i Pokémon che passano nuotando."
+ },
+ {
+  "id": "\\bCharizard!",
+  "en": "\\bCharizard!",
+  "it": "\\bCharizard!"
+ },
+ {
+  "id": "Rose of the Rondelands",
+  "en": "Rose of the Rondelands",
+  "it": "Rose of the Rondelands"
+ },
+ {
+  "id": "\\bWhere would you like to go?",
+  "en": "\\bWhere would you like to go?",
+  "it": "\\bDove vorresti andare?"
+ },
+ {
+  "id": "\\bThe Wild Area holds dozens of Pokémon. You should check it out.",
+  "en": "\\bThe Wild Area holds dozens of Pokémon. You should check it out.",
+  "it": "\\bNelle Terre Selvagge vivono decine di Pokémon. Dovresti andarci."
+ },
+ {
+  "id": "\\bHold it. You're the Alola Champion! For the honor of my brother, I'll defeat you here.",
+  "en": "\\bHold it. You're the Alola Champion! For the honor of my brother, I'll defeat you here.",
+  "it": "\\bAlt. Tu sei il Campione di Alola! Per l'onore di mio fratello, ti sconfiggerò qui."
+ },
+ {
+  "id": "\\bGreat battle. The name is Hop. I'm Leon's younger brother. I just know he's going to be the winner by the end of this.",
+  "en": "\\bGreat battle. The name is Hop. I'm Leon's younger brother. I just know he's going to be the winner by the end of this.",
+  "it": "\\bGran bella lotta. Mi chiamo Hop. Sono il fratello minore di Dandel. Sono sicuro che alla fine sarà lui a vincere."
+ },
+ {
+  "id": "\\bI won't hold you up any longer. Thanks for the battle.",
+  "en": "\\bI won't hold you up any longer. Thanks for the battle.",
+  "it": "\\bNon ti trattengo oltre. Grazie per la lotta."
+ },
+ {
+  "id": "\\rI grew up here. The park has always been my favorite.",
+  "en": "\\rI grew up here. The park has always been my favorite.",
+  "it": "\\rSono cresciuta qui. Il parco è sempre stato il mio posto preferito."
+ },
+ {
+  "id": "Rose Tower",
+  "en": "Rose Tower",
+  "it": "Torre Rose"
+ },
+ {
+  "id": "\\bI like to bike down this road. I'm taking a break right now.",
+  "en": "\\bI like to bike down this road. I'm taking a break right now.",
+  "it": "\\bMi piace scendere in bici lungo questa strada. Ora mi sto prendendo una pausa."
+ },
+ {
+  "id": "\\bLeon: Go meet with Chariman Rose. I'm going to keep dealing with the Dynamax problem.",
+  "en": "\\bLeon: Go meet with Chariman Rose. I'm going to keep dealing with the Dynamax problem.",
+  "it": "\\bDandel: Va' a incontrare il Presidente Rose. Io continuerò a occuparmi del problema Dynamax."
+ },
+ {
+  "id": "\\rSonia: This statue... It depicts a legendary hero from Galar's past.",
+  "en": "\\rSonia: This statue... It depicts a legendary hero from Galar's past. ",
+  "it": "\\rSonia: Questa statua... Raffigura un eroe leggendario del passato di Galar. "
+ },
+ {
+  "id": "\\rA long time ago, a great black storm covered the region, and giant Pokémon ran rampant.",
+  "en": "\\rA long time ago, a great black storm covered the region, and giant Pokémon ran rampant. ",
+  "it": "\\rTanto tempo fa, una grande tempesta nera ricoprì la regione e dei Pokémon giganti seminarono il caos. "
+ },
+ {
+  "id": "\\rThe chaos was eventually stopped by a single young hero wielding a sword and a shield. Many details still remain unclear though.",
+  "en": "\\rThe chaos was eventually stopped by a single young hero wielding a sword and a shield. Many details still remain unclear though.",
+  "it": "\\rIl caos fu infine fermato da un giovane eroe che brandiva una spada e uno scudo. Però molti dettagli restano ancora poco chiari."
+ },
+ {
+  "id": "\\rWho was the hero? Where did the sword and shield go? What does this have to do with Dynamax?",
+  "en": "\\rWho was the hero? Where did the sword and shield go? What does this have to do with Dynamax?",
+  "it": "\\rChi era l'eroe? Dove sono finiti la spada e lo scudo? Che cosa c'entra tutto questo con il Dynamax?"
+ },
+ {
+  "id": "\\rSorry, I'm rambling again. I'm Sonia. I'm doing research for my grandmother.",
+  "en": "\\rSorry, I'm rambling again. I'm Sonia. I'm doing research for my grandmother.",
+  "it": "\\rScusa, sto di nuovo divagando. Sono Sonia. Faccio ricerche per mia nonna."
+ },
+ {
+  "id": "\\rOh, did you come to see Leon's match? It ended a few mintues ago. He won to no one's surprise.",
+  "en": "\\rOh, did you come to see Leon's match? It ended a few mintues ago. He won to no one's surprise.",
+  "it": "\\rOh, sei venuto a vedere l'incontro di Dandel? È finito qualche minuto fa. Ha vinto lui, e nessuno ne è rimasto sorpreso."
+ },
+ {
+  "id": "\\bRose: Excellent job. You took that rogue Pokémon down in no time at all.",
+  "en": "\\bRose: Excellent job. You took that rogue Pokémon down in no time at all.",
+  "it": "\\bRose: Ottimo lavoro. Hai messo al tappeto quel Pokémon impazzito in un batter d'occhio."
+ },
+ {
+  "id": "\\bLeon: Chairman, Oleana, it's not safe out here.",
+  "en": "\\bLeon: Chairman, Oleana, it's not safe out here.",
+  "it": "\\bDandel: Presidente, Oleana, qui fuori non è sicuro."
+ },
+ {
+  "id": "\\bRose: It's fine, Leon. I'm likely safest in your care.",
+  "en": "\\bRose: It's fine, Leon. I'm likely safest in your care.",
+  "it": "\\bRose: Va tutto bene, Dandel. Probabilmente non c'è posto più sicuro che sotto la tua protezione."
+ },
+ {
+  "id": "\\bLeon: I suppose you're right. \\PN, this is Rose, the Chairman of Marco Cosmos. It supplies energy across Galar. He also spotted my talents as a Trainer.",
+  "en": "\\bLeon: I suppose you're right. \\PN, this is Rose, the Chairman of Marco Cosmos. It supplies energy across Galar. He also spotted my talents as a Trainer.",
+  "it": "\\bDandel: Immagino tu abbia ragione. \\PN, lui è Rose, il Presidente della Macro Cosmos. Fornisce energia a tutta Galar. È anche colui che ha scoperto il mio talento da Allenatore."
+ },
+ {
+  "id": "\\bChairman, do you know what's going on?",
+  "en": "\\bChairman, do you know what's going on?",
+  "it": "\\bPresidente, sa cosa sta succedendo?"
+ },
+ {
+  "id": "\\bRose: I don't. However, the Dynamax outbreaks may be a trial for a stronger future. But let's not worry about that. You two could use a break.",
+  "en": "\\bRose: I don't. However, the Dynamax outbreaks may be a trial for a stronger future. But let's not worry about that. You two could use a break.",
+  "it": "\\bRose: No. Tuttavia, i fenomeni Dynamax potrebbero essere una prova per un futuro più forte. Ma non preoccupiamocene ora. A voi due farebbe bene una pausa."
+ },
+ {
+  "id": "\\bLeon: Thank you, but I'm going to continue to help. \\PN, you go ahead. It's a rare opportunity.",
+  "en": "\\bLeon: Thank you, but I'm going to continue to help.  \\PN, you go ahead. It's a rare opportunity.",
+  "it": "\\bDandel: Grazie, ma continuerò ad aiutare. \\PN, vai pure tu. È un'occasione rara."
+ },
+ {
+  "id": "\\bFraxure",
+  "en": "\\bFraxure",
+  "it": "\\bFraxure"
+ },
+ {
+  "id": "Rotom Phone: Announcment. Incoming call from Goh:",
+  "en": "Rotom Phone: Announcment. Incoming call from Goh:",
+  "it": "Rotom Phone: Avviso. Chiamata in arrivo da Goh:"
+ },
+ {
+  "id": "\\bGoh: Hey \\PN. There's several large beams of light coming out from Hammerlocke. Could you check them out? I'm afraid it's a sign more Dynamax is coming.",
+  "en": "\\bGoh: Hey \\PN. There's several large beams of light coming out from Hammerlocke. Could you check them out? I'm afraid it's a sign more Dynamax is coming.",
+  "it": "\\bGoh: Ehi, \\PN. Da Hammerlocke escono diversi grandi fasci di luce. Potresti andare a controllare? Temo sia il segnale che arriverà altro Dynamax."
+ },
+ {
+  "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Tony, located in the Vermilion City Gym, is ready for battle.",
+  "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Tony, located in the Vermilion City Gym, is ready for battle.",
+  "it": "Rotom Phone: Avviso. Trovato un nuovo avversario per la World Coronation Series. Tony, alla Palestra di Aranciopoli, è pronto a lottare."
+ },
+ {
+  "id": "Rotom Phone: Incoming call from Goh:",
+  "en": "Rotom Phone: Incoming call from Goh:",
+  "it": "Rotom Phone: chiamata in arrivo da Goh:"
+ },
+ {
+  "id": "\\bGoh: \\PN, could you meet me back at the lab? Thanks.",
+  "en": "\\bGoh: \\PN, could you meet me back at the lab?  Thanks.",
+  "it": "\\bGoh: \\PN, puoi raggiungermi al laboratorio? Grazie."
+ },
+ {
+  "id": "\\bGoh: \\PN, I did it! I touched Mew with my own hands. With that, the future is in my hands more than ever before. How did your match go?",
+  "en": "\\bGoh: \\PN, I did it! I touched Mew with my own hands. With that, the future is in my hands more than ever before. How did your match go?",
+  "it": "\\bGoh: \\PN, ce l'ho fatta! Ho toccato Mew con le mie mani. Con questo, il futuro è nelle mie mani più che mai. Com'è andato il tuo incontro?"
+ },
+ {
+  "id": "\\bYou did it! That's fantastic. We have to celebrate once you get back. Speaking of...",
+  "en": "\\bYou did it! That's fantastic. We have to celebrate once you get back. Speaking of...",
+  "it": "\\bCe l'hai fatta! È fantastico. Dobbiamo festeggiare quando torni. A proposito..."
+ },
+ {
+  "id": "\\bNever mind. We can discuss it when you get here. Bye.",
+  "en": "\\bNever mind. We can discuss it when you get here.  Bye.",
+  "it": "\\bNiente, lascia stare. Ne parliamo quando arrivi. Ciao."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Wild Area",
+  "en": "Wild Area",
+  "it": "Terre Selvagge"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Slumbering Weald",
+  "en": "Slumbering Weald",
+  "it": "Bosco Assopito"
+ },
+ {
+  "id": "Hammerlocke",
+  "en": "Hammerlocke",
+  "it": "Hammerlocke"
+ }
+]

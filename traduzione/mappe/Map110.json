@@ -1,0 +1,332 @@
+[
+ {
+  "id": "\\rHi there. You must be \\PN. Let's make this quick. I have Bug Pokémon to get back to.",
+  "en": "\\rHi there. You must be \\PN. Let's make this quick. I have Bug Pokémon to get back to.",
+  "it": "\\rCiao. Tu devi essere \\PN. Facciamo in fretta. Ho dei Pokémon Coleottero che mi aspettano."
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 890.",
+  "en": "Rotom Phone: Based on performance, your rank is now 890.",
+  "it": "Rotom Phone: In base ai risultati, la tua posizione in classifica ora è 890."
+ },
+ {
+  "id": "\\rI collect Bug-types. I've already gotten all of the ones from Sinnoh.",
+  "en": "\\rI collect Bug-types. I've already gotten all of the ones from Sinnoh.",
+  "it": "\\rColleziono Pokémon di tipo Coleottero. Ho già preso tutti quelli di Sinnoh."
+ },
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
+  "id": "\\rNurse Joy: Excuse me?",
+  "en": "\\rNurse Joy: Excuse me?",
+  "it": "\\rInfermiera Joy: Scusa?"
+ },
+ {
+  "id": "\\rI'm sorry to bother you, but I'm taking care of an Egg that refuses to hatch. However, it reacted to your presence.",
+  "en": "\\rI'm sorry to bother you, but I'm taking care of an Egg that refuses to hatch. However, it reacted to your presence.",
+  "it": "\\rMi dispiace disturbarti, ma mi sto prendendo cura di un Uovo che non vuole proprio schiudersi. Però ha reagito alla tua presenza."
+ },
+ {
+  "id": "\\rWould you like to take care of it? I feel it could hatch if it was with you.",
+  "en": "\\rWould you like to take care of it? I feel it could hatch if it was with you.",
+  "it": "\\rTi andrebbe di prendertene cura tu? Ho la sensazione che potrebbe schiudersi se stesse con te."
+ },
+ {
+  "id": "Nurse Joy",
+  "en": "Nurse Joy",
+  "it": "Infermiera Joy"
+ },
+ {
+  "id": "\\rTake good care of it!",
+  "en": "\\rTake good care of it!",
+  "it": "\\rAbbine cura!"
+ },
+ {
+  "id": "\\rOh, you can't carry it with you.",
+  "en": "\\rOh, you can't carry it with you.",
+  "it": "\\rOh, non puoi portarlo con te."
+ },
+ {
+  "id": "\\rMake some space in your party and then talk to me outside.",
+  "en": "\\rMake some space in your party and then talk to me outside.",
+  "it": "\\rFai un po' di spazio nella tua squadra e poi parlami fuori."
+ },
+ {
+  "id": "\\rOh. Will this little one ever hatch?",
+  "en": "\\rOh. Will this little one ever hatch?",
+  "it": "\\rOh. Chissà se questo piccolino si schiuderà mai..."
+ },
+ {
+  "id": "\\bI'm looking for a Spearow.",
+  "en": "\\bI'm looking for a Spearow.",
+  "it": "\\bSto cercando uno Spearow."
+ },
+ {
+  "id": "\\bWant to trade it for my Farfetch'd?",
+  "en": "\\bWant to trade it for my Farfetch'd?",
+  "it": "\\bVuoi scambiarlo con il mio Farfetch'd?"
+ },
+ {
+  "id": "\\bYou don't want to trade? Shame.",
+  "en": "\\bYou don't want to trade?  Shame.",
+  "it": "\\bNon vuoi fare lo scambio?  Peccato."
+ },
+ {
+  "id": "\\bOK, let's do this.",
+  "en": "\\bOK, let's do this.",
+  "it": "\\bOK, facciamolo."
+ },
+ {
+  "id": "Farfetch'd",
+  "en": "Farfetch'd",
+  "it": "Farfetch'd"
+ },
+ {
+  "id": "Ri",
+  "en": "Ri",
+  "it": "Ri"
+ },
+ {
+  "id": "\\PN traded Spearow for Farfetch'd!",
+  "en": "\\PN traded Spearow for Farfetch'd!",
+  "it": "\\PN ha scambiato Spearow con Farfetch'd!"
+ },
+ {
+  "id": "\\bThanks!",
+  "en": "\\bThanks!",
+  "it": "\\bGrazie!"
+ },
+ {
+  "id": "\\bYou got a good deal.",
+  "en": "\\bYou got a good deal.",
+  "it": "\\bHai fatto un buon affare."
+ },
+ {
+  "id": "\\bMy Pokémon was poisoned!\\nIt almost fainted while we were walking!",
+  "en": "\\bMy Pokémon was poisoned!\\nIt almost fainted while we were walking!",
+  "it": "\\bIl mio Pokémon è stato avvelenato!\\nStava quasi per andare KO mentre camminavamo!"
+ },
+ {
+  "id": "\\rI'm looking for a Wailord.",
+  "en": "\\rI'm looking for a Wailord.",
+  "it": "\\rSto cercando un Wailord."
+ },
+ {
+  "id": "\\rWant to trade it for my Zorua?",
+  "en": "\\rWant to trade it for my Zorua?",
+  "it": "\\rVuoi scambiarlo con il mio Zorua?"
+ },
+ {
+  "id": "\\rOh, okay.",
+  "en": "\\rOh, okay.",
+  "it": "\\rOh, va bene."
+ },
+ {
+  "id": "\\rLet's do this.",
+  "en": "\\rLet's do this.",
+  "it": "\\rFacciamolo."
+ },
+ {
+  "id": "Zorua",
+  "en": "Zorua",
+  "it": "Zorua"
+ },
+ {
+  "id": "Lin",
+  "en": "Lin",
+  "it": "Lin"
+ },
+ {
+  "id": "\\PN traded Wailord for Zorua!",
+  "en": "\\PN traded Wailord for Zorua!",
+  "it": "\\PN ha scambiato Wailord con Zorua!"
+ },
+ {
+  "id": "\\rThanks!",
+  "en": "\\rThanks!",
+  "it": "\\rGrazie!"
+ },
+ {
+  "id": "\\rYou don't want to trade? Okay.",
+  "en": "\\rYou don't want to trade?  Okay.",
+  "it": "\\rNon vuoi fare lo scambio?  Va bene."
+ },
+ {
+  "id": "\\rThanks again.",
+  "en": "\\rThanks again.",
+  "it": "\\rGrazie ancora."
+ },
+ {
+  "id": "\\bEven if they are the same level, Pokémon can have very different stats and abilities.",
+  "en": "\\bEven if they are the same level, Pokémon can have very different stats and abilities.",
+  "it": "\\bAnche se hanno lo stesso livello, i Pokémon possono avere statistiche e abilità molto diverse."
+ },
+ {
+  "id": "\\bA Pokémon raised by a Trainer is stronger than one in the wild.",
+  "en": "\\bA Pokémon raised by a Trainer is stronger than one in the wild.",
+  "it": "\\bUn Pokémon allenato da un Allenatore è più forte di uno selvatico."
+ },
+ {
+  "id": "\\rI'm looking for a Sylveon.",
+  "en": "\\rI'm looking for a Sylveon.",
+  "it": "\\rSto cercando un Sylveon."
+ },
+ {
+  "id": "\\rWant to trade it for my Cufant?",
+  "en": "\\rWant to trade it for my Cufant?",
+  "it": "\\rVuoi scambiarlo con il mio Cufant?"
+ },
+ {
+  "id": "Cufant",
+  "en": "Cufant",
+  "it": "Cufant"
+ },
+ {
+  "id": "Class",
+  "en": "Class",
+  "it": "Class"
+ },
+ {
+  "id": "\\PN traded Sylveon for Cufant!",
+  "en": "\\PN traded Sylveon for Cufant!",
+  "it": "\\PN ha scambiato Sylveon con Cufant!"
+ },
+ {
+  "id": "\\rFree",
+  "en": "\\rFree",
+  "it": "\\rFree"
+ },
+ {
+  "id": "\\bI'm looking for a Psyduck.",
+  "en": "\\bI'm looking for a Psyduck.",
+  "it": "\\bSto cercando uno Psyduck."
+ },
+ {
+  "id": "\\bWant to trade it for my Stunfisk?",
+  "en": "\\bWant to trade it for my Stunfisk?",
+  "it": "\\bVuoi scambiarlo con il mio Stunfisk?"
+ },
+ {
+  "id": "Stunfisk",
+  "en": "Stunfisk",
+  "it": "Stunfisk"
+ },
+ {
+  "id": "Sok",
+  "en": "Sok",
+  "it": "Sok"
+ },
+ {
+  "id": "\\PN traded Psyduck for Stunfisk!",
+  "en": "\\PN traded Psyduck for Stunfisk!",
+  "it": "\\PN ha scambiato Psyduck con Stunfisk!"
+ },
+ {
+  "id": "\\bGreat trade. Thanks again.",
+  "en": "\\bGreat trade. Thanks again.",
+  "it": "\\bOttimo scambio. Grazie ancora."
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\rMy Butterfree can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Cancel]",
+  "en": "\\rMy Butterfree can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Cancel]",
+  "it": "\\rIl mio Butterfree può teletrasportarti.\\ch[1,-1,Smeraldopoli, Plumbeopoli,Celestopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Butterfree can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Saffron,Lavender,Cancel]",
+  "en": "\\rMy Butterfree can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Saffron,Lavender,Cancel]",
+  "it": "\\rIl mio Butterfree può teletrasportarti.\\ch[1,-1,Smeraldopoli, Plumbeopoli,Celestopoli,Zafferanopoli,Lavandonia,Annulla]"
+ },
+ {
+  "id": "\\rMy Buttterfree can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Saffron,Lavender,Celadon,Cancel]",
+  "en": "\\rMy Buttterfree can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Saffron,Lavender,Celadon,Cancel]",
+  "it": "\\rIl mio Butterfree può teletrasportarti.\\ch[1,-1,Smeraldopoli, Plumbeopoli,Celestopoli,Zafferanopoli,Lavandonia,Azzurropoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Butterfee can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Saffron,Lavender,Celadon,Fuchsia, Cancel]",
+  "en": "\\rMy Butterfee can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Saffron,Lavender,Celadon,Fuchsia, Cancel]",
+  "it": "\\rIl mio Butterfree può teletrasportarti.\\ch[1,-1,Smeraldopoli, Plumbeopoli,Celestopoli,Zafferanopoli,Lavandonia,Azzurropoli,Fucsiapoli, Annulla]"
+ },
+ {
+  "id": "\\rMy Butterfee can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Saffron,Lavender,Celadon,Fuchsia, Cinnabar,Cancel]",
+  "en": "\\rMy Butterfee can Teleport you.\\ch[1,-1,Viridian, Pewter,Cerulean,Saffron,Lavender,Celadon,Fuchsia, Cinnabar,Cancel]",
+  "it": "\\rIl mio Butterfree può teletrasportarti.\\ch[1,-1,Smeraldopoli, Plumbeopoli,Celestopoli,Zafferanopoli,Lavandonia,Azzurropoli,Fucsiapoli, Cannella,Annulla]"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": "The ball holds a Torchic. Would you like to take it?",
+  "en": "The ball holds a Torchic. Would you like to take it?",
+  "it": "La Poké Ball contiene un Torchic. Vuoi prenderlo?"
+ },
+ {
+  "id": "\\bBirch: The Pokémon I have for you is called a Torchic. It's just like the one you battled against.",
+  "en": "\\bBirch: The Pokémon I have for you is called a Torchic. It's just like the one you battled against.",
+  "it": "\\bBirch: Il Pokémon che ho per te si chiama Torchic. È proprio come quello contro cui hai lottato."
+ },
+ {
+  "id": "Your Pokémon were fully healed.",
+  "en": "Your Pokémon were fully healed.",
+  "it": "I tuoi Pokémon sono stati curati completamente."
+ },
+ {
+  "id": "\\bBirch: Here you go May. Your very first Pokémon.",
+  "en": "\\bBirch: Here you go May. Your very first Pokémon.",
+  "it": "\\bBirch: Ecco qua, Vera. Il tuo primo Pokémon."
+ },
+ {
+  "id": "\\rMay: Thank you Professor.",
+  "en": "\\rMay: Thank you Professor.",
+  "it": "\\rVera: Grazie, Professore."
+ },
+ {
+  "id": "\\rWho are you?\\nOh, hello \\PN. Nice to meet you.",
+  "en": "\\rWho are you?\\nOh, hello \\PN. Nice to meet you.",
+  "it": "\\rChi sei?\\nOh, ciao \\PN. Piacere di conoscerti."
+ },
+ {
+  "id": "\\bBirch: So you're \\PN. Oak told me you would be coming here. I've prepared a little welcoming gift for you if you want it.",
+  "en": "\\bBirch: So you're \\PN. Oak told me you would be coming here. I've prepared a little welcoming gift for you if you want it.",
+  "it": "\\bBirch: Allora tu sei \\PN. Oak mi aveva detto che saresti venuto qui. Ti ho preparato un piccolo regalo di benvenuto, se lo vuoi."
+ },
+ {
+  "id": "\\rMay: Hold on Professor. I want to battle with \\PN first. They looks like a good first test.",
+  "en": "\\rMay: Hold on Professor. I want to battle with \\PN first. They looks like a good first test.",
+  "it": "\\rVera: Aspetti, Professore. Prima voglio lottare con \\PN. Mi sembra un buon primo banco di prova."
+ },
+ {
+  "id": "\\rMay: That was fun. I better get going now. See ya.",
+  "en": "\\rMay: That was fun. I better get going now. See ya.",
+  "it": "\\rVera: È stato divertente. Ora è meglio che vada. Ci vediamo."
+ },
+ {
+  "id": "\\bBirch: Well as I was saying, I have a gift for you. A Pokémon. I only have one though.",
+  "en": "\\bBirch: Well as I was saying, I have a gift for you. A Pokémon. I only have one though.",
+  "it": "\\bBirch: Dunque, come stavo dicendo, ho un regalo per te. Un Pokémon. Però ne ho solo uno."
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unova,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unova,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unima,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unova,Kalos,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unova,Kalos,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unima,Kalos,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unova,Kalos,Alola,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unova,Kalos,Alola,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unima,Kalos,Alola,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unova,Kalos,Alola,Galar,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unova,Kalos,Alola,Galar,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Sinnoh,Unima,Kalos,Alola,Galar,Annulla]"
+ },
+ {
+  "id": "\\bProfessor Birch may be a bit scattered, but he is a great scientist.",
+  "en": "\\bProfessor Birch may be a bit scattered, but he is a great scientist.",
+  "it": "\\bIl Professor Birch sarà anche un po' distratto, ma è un grande scienziato."
+ },
+ {
+  "id": "\\bHe studies the places that Pokémon live in.",
+  "en": "\\bHe studies the places that Pokémon live in.",
+  "it": "\\bStudia i luoghi in cui vivono i Pokémon."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

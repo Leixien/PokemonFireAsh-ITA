@@ -1,0 +1,152 @@
+[
+ {
+  "id": "\\rI'm looking for a Electabuzz.",
+  "en": "\\rI'm looking for a Electabuzz.",
+  "it": "\\rSto cercando un Electabuzz."
+ },
+ {
+  "id": "\\rWant to trade it for my Magmortar?",
+  "en": "\\rWant to trade it for my Magmortar?",
+  "it": "\\rVuoi scambiarlo con il mio Magmortar?"
+ },
+ {
+  "id": "\\rYou don't want to trade? Shame.",
+  "en": "\\rYou don't want to trade?  Shame.",
+  "it": "\\rNon vuoi scambiare?  Peccato."
+ },
+ {
+  "id": "\\rOK, let's do this.",
+  "en": "\\rOK, let's do this.",
+  "it": "\\rOK, facciamolo."
+ },
+ {
+  "id": "Magmortar",
+  "en": "Magmortar",
+  "it": "Magmortar"
+ },
+ {
+  "id": "Carol",
+  "en": "Carol",
+  "it": "Carol"
+ },
+ {
+  "id": "\\PN traded Electabuzz for Magmortar!",
+  "en": "\\PN traded Electabuzz for Magmortar!",
+  "it": "\\PN ha scambiato Electabuzz con Magmortar!"
+ },
+ {
+  "id": "\\rThanks!",
+  "en": "\\rThanks!",
+  "it": "\\rGrazie!"
+ },
+ {
+  "id": "\\rThanks for the trade.",
+  "en": "\\rThanks for the trade.",
+  "it": "\\rGrazie per lo scambio."
+ },
+ {
+  "id": "\\rI'm looking for a Magmar.",
+  "en": "\\rI'm looking for a Magmar.",
+  "it": "\\rSto cercando un Magmar."
+ },
+ {
+  "id": "\\rWant to trade it for my Electivire?",
+  "en": "\\rWant to trade it for my Electivire?",
+  "it": "\\rVuoi scambiarlo con il mio Electivire?"
+ },
+ {
+  "id": "Electivire",
+  "en": "Electivire",
+  "it": "Electivire"
+ },
+ {
+  "id": "Ann",
+  "en": "Ann",
+  "it": "Ann"
+ },
+ {
+  "id": "\\PN traded Magmar for Electivire!",
+  "en": "\\PN traded Magmar for Electivire!",
+  "it": "\\PN ha scambiato Magmar con Electivire!"
+ },
+ {
+  "id": "\\bI'm the Pokémon Move Maniac.",
+  "en": "\\bI'm the Pokémon Move Maniac.",
+  "it": "\\bSono il Maniaco delle Mosse Pokémon."
+ },
+ {
+  "id": "\\bI know every single move that Pokémon learn growing up.",
+  "en": "\\bI know every single move that Pokémon learn growing up.",
+  "it": "\\bConosco ogni singola mossa che i Pokémon imparano crescendo."
+ },
+ {
+  "id": "\\bI'm also a collector of Heart Scales.",
+  "en": "\\bI'm also a collector of Heart Scales.",
+  "it": "\\bColleziono anche Squame Cuore."
+ },
+ {
+  "id": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "en": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "it": "\\bSe me ne porti una, insegnerò una mossa a uno dei tuoi Pokémon."
+ },
+ {
+  "id": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "en": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "it": "\\bOh! Eccola! È una Squama Cuore autentica al cento per cento!"
+ },
+ {
+  "id": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "en": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "it": "\\bFammi indovinare, vuoi che insegni una mossa a uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bWhich Pokémon needs tutoring?",
+  "en": "\\bWhich Pokémon needs tutoring?",
+  "it": "\\bQuale Pokémon ha bisogno di lezioni?"
+ },
+ {
+  "id": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "en": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "it": "\\bSe i tuoi Pokémon devono imparare una mossa, torna con una Squama Cuore."
+ },
+ {
+  "id": "\\bHunh? There isn't a single move that I can teach an Egg.",
+  "en": "\\bHunh? There isn't a single move that I can teach an Egg.",
+  "it": "\\bEh? Non c'è nemmeno una mossa che possa insegnare a un Uovo."
+ },
+ {
+  "id": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "en": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "it": "\\bNeanche per sogno, non voglio avvicinarmi a un Pokémon Ombra..."
+ },
+ {
+  "id": "\\bSorry...",
+  "en": "\\bSorry...",
+  "it": "\\bMi dispiace..."
+ },
+ {
+  "id": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "en": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "it": "\\bA quanto pare non ho nessuna mossa da insegnare al tuo \\v[3]."
+ },
+ {
+  "id": "\\bWhich move should I teach to your \\v[3]?",
+  "en": "\\bWhich move should I teach to your \\v[3]?",
+  "it": "\\bQuale mossa devo insegnare al tuo \\v[3]?"
+ },
+ {
+  "id": "\\PN handed over one Heart Scale in exchange.",
+  "en": "\\PN handed over one Heart Scale in exchange.",
+  "it": "\\PN ha consegnato una Squama Cuore in cambio."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

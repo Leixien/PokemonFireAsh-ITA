@@ -1,0 +1,187 @@
+[
+ {
+  "id": "\\bHello. I used to be a Stats Judge, but my job became obsolete when Trainers became able to see a Pokémon's potential on their own. Now I'm retired...",
+  "en": "\\bHello. I used to be a Stats Judge, but my job became obsolete when Trainers became able to see a Pokémon's potential on their own. Now I'm retired...",
+  "it": "\\bSalve. Un tempo ero un Giudice delle Statistiche, ma il mio lavoro è diventato inutile quando gli Allenatori hanno imparato a vedere da soli il potenziale dei Pokémon. Ora sono in pensione..."
+ },
+ {
+  "id": "\\bHold on a minute... your future. It's brilliant! Yes, I can just tell!",
+  "en": "\\bHold on a minute... your future. It's brilliant! Yes, I can just tell!",
+  "it": "\\bAspetta un attimo... il tuo futuro. È brillante! Sì, lo sento!"
+ },
+ {
+  "id": "\\bTrainer... go out there and find some Pokémon!",
+  "en": "\\bTrainer... go out there and find some Pokémon!",
+  "it": "\\bAllenatore... vai là fuori e trova qualche Pokémon!"
+ },
+ {
+  "id": "\\bI see you achieved that brilliant future.",
+  "en": "\\bI see you achieved that brilliant future.",
+  "it": "\\bVedo che hai raggiunto quel futuro brillante."
+ },
+ {
+  "id": "It's notes on how to win a Cool Contest.",
+  "en": "It's notes on how to win a Cool Contest.",
+  "it": "Sono appunti su come vincere una Gara Classe."
+ },
+ {
+  "id": "\\bI've been entering contests since I was a young lad. I even managed to win against Wallace once. My grandkid has taken it up now.",
+  "en": "\\bI've been entering contests since I was a young lad. I even managed to win against Wallace once. My grandkid has taken it up now.",
+  "it": "\\bPartecipo alle gare da quando ero un ragazzino. Una volta sono persino riuscito a battere Adriano. Ora ha preso il testimone mio nipote."
+ },
+ {
+  "id": "\\bWhat? You want to go to Mossdeep City?",
+  "en": "\\bWhat? You want to go to Mossdeep City?",
+  "it": "\\bCosa? Vuoi andare a Verdeazzupoli?"
+ },
+ {
+  "id": "\\bWell if you're good enough to beat me I might let you use my ship. How about it?",
+  "en": "\\bWell if you're good enough to beat me I might let you use my ship. How about it?",
+  "it": "\\bBeh, se sei abbastanza bravo da battermi, potrei lasciarti usare la mia nave. Che ne dici?"
+ },
+ {
+  "id": "\\bI guess you're good enough. Let's ship out.",
+  "en": "\\bI guess you're good enough. Let's ship out.",
+  "it": "\\bDirei che sei all'altezza. Salpiamo."
+ },
+ {
+  "id": "\\bWell fine. I didn't want to go anyways.",
+  "en": "\\bWell fine. I didn't want to go anyways.",
+  "it": "\\bE va bene. Tanto non volevo andarci."
+ },
+ {
+  "id": "\\bHello, hello!\\nI am the official Name Rater!",
+  "en": "\\bHello, hello!\\nI am the official Name Rater!",
+  "it": "\\bSalve, salve!\\nSono il Giudice dei Nomi ufficiale!"
+ },
+ {
+  "id": "\\bWant me to rate the nicknames of your Pokémon?",
+  "en": "\\bWant me to rate the nicknames of your Pokémon?",
+  "it": "\\bVuoi che valuti i soprannomi dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bWhich Pokémon's nickname should I critique?",
+  "en": "\\bWhich Pokémon's nickname should I critique?",
+  "it": "\\bDi quale Pokémon devo giudicare il soprannome?"
+ },
+ {
+  "id": "\\bI see.\\nDo come visit again.",
+  "en": "\\bI see.\\nDo come visit again.",
+  "it": "\\bCapisco.\\nTorna pure a trovarmi."
+ },
+ {
+  "id": "\\bNow, now... That is merely an Egg!",
+  "en": "\\bNow, now... That is merely an Egg!",
+  "it": "\\bSu, su... Quello è soltanto un Uovo!"
+ },
+ {
+  "id": "\\bI wouldn't dare critique a Shadow Pokémon's name!",
+  "en": "\\bI wouldn't dare critique a Shadow Pokémon's name!",
+  "it": "\\bNon oserei mai giudicare il nome di un Pokémon Ombra!"
+ },
+ {
+  "id": "\\bHmmm... \\v[3] it is!",
+  "en": "\\bHmmm... \\v[3] it is!",
+  "it": "\\bHmmm... \\v[3] sia!"
+ },
+ {
+  "id": "\\bThis is a magnificent nickname! It is impeccably beyond reproach!",
+  "en": "\\bThis is a magnificent nickname! It is impeccably beyond reproach!",
+  "it": "\\bChe soprannome magnifico! È impeccabile e irreprensibile!"
+ },
+ {
+  "id": "\\bYou'll do well to cherish your \\v[3] now and beyond.",
+  "en": "\\bYou'll do well to cherish your \\v[3] now and beyond.",
+  "it": "\\bFaresti bene ad avere cura del tuo \\v[3], ora e per sempre."
+ },
+ {
+  "id": "\\b\\v[3], is it?\\nThat is a decent nickname!",
+  "en": "\\b\\v[3], is it?\\nThat is a decent nickname!",
+  "it": "\\b\\v[3], eh?\\nÈ un soprannome discreto!"
+ },
+ {
+  "id": "\\bBut, would you like me to give it a nicer name?",
+  "en": "\\bBut, would you like me to give it a nicer name?",
+  "it": "\\bMa vorresti che gli dessi un nome più bello?"
+ },
+ {
+  "id": "\\bHow about it?",
+  "en": "\\bHow about it?",
+  "it": "\\bChe ne dici?"
+ },
+ {
+  "id": "\\bAh, good. Then, what shall the new nickname be?",
+  "en": "\\bAh, good. Then, what shall the new nickname be?",
+  "it": "\\bAh, bene. Allora, quale sarà il nuovo soprannome?"
+ },
+ {
+  "id": "\\bI see. You're right, there's no need to change this Pokémon's nickname.",
+  "en": "\\bI see. You're right, there's no need to change this Pokémon's nickname.",
+  "it": "\\bCapisco. Hai ragione, non c'è bisogno di cambiare il soprannome di questo Pokémon."
+ },
+ {
+  "id": "\\bIt already had a superb name!",
+  "en": "\\bIt already had a superb name!",
+  "it": "\\bAveva già un nome superbo!"
+ },
+ {
+  "id": "\\bDone! From now on, this Pokémon shall be known as \\v[3]!",
+  "en": "\\bDone! From now on, this Pokémon shall be known as \\v[3]!",
+  "it": "\\bFatto! D'ora in poi, questo Pokémon si chiamerà \\v[3]!"
+ },
+ {
+  "id": "\\bIt looks no different from before, and yet, this is vastly superior!",
+  "en": "\\bIt looks no different from before, and yet, this is vastly superior!",
+  "it": "\\bSembra uguale a prima, eppure è di gran lunga superiore!"
+ },
+ {
+  "id": "\\bHow fortunate for you!",
+  "en": "\\bHow fortunate for you!",
+  "it": "\\bChe fortuna per te!"
+ },
+ {
+  "id": "\\bDone! From now on, this Pokémon shall be known as \\v[5]!",
+  "en": "\\bDone! From now on, this Pokémon shall be known as \\v[5]!",
+  "it": "\\bFatto! D'ora in poi, questo Pokémon si chiamerà \\v[5]!"
+ },
+ {
+  "id": "\\bIt is a better name than before!\\nHow fortunate for you!",
+  "en": "\\bIt is a better name than before!\\nHow fortunate for you!",
+  "it": "\\bÈ un nome migliore di prima!\\nChe fortuna per te!"
+ },
+ {
+  "id": "\\bThere is a ship around here that will take you around Hoenn. Though he is hard to please.",
+  "en": "\\bThere is a ship around here that will take you around Hoenn. Though he is hard to please.",
+  "it": "\\bQui in giro c'è una nave che può portarti in giro per Hoenn. Però il capitano è difficile da accontentare."
+ },
+ {
+  "id": "\\bI've always wanted to sell items. Is that strange?",
+  "en": "\\bI've always wanted to sell items. Is that strange?",
+  "it": "\\bHo sempre voluto vendere strumenti. È strano?"
+ },
+ {
+  "id": "Mossdeep",
+  "en": "Mossdeep",
+  "it": "Verdeazzupoli"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Route 124",
+  "en": "Route 124",
+  "it": "Percorso 124"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

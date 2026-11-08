@@ -1,0 +1,17 @@
+[
+ {
+  "id": "\\bI hate waiting for the train. I wish I had a Pokémon to fly me around like the old days.",
+  "en": "\\bI hate waiting for the train. I wish I had a Pokémon to fly me around like the old days.",
+  "it": "\\bOdio aspettare il treno. Vorrei avere un Pokémon che mi porti in volo come ai vecchi tempi."
+ },
+ {
+  "id": "\\rGalar has so much to offer. I wish more people would visit.",
+  "en": "\\rGalar has so much to offer. I wish more people would visit.",
+  "it": "\\rGalar ha così tanto da offrire. Vorrei che più persone la visitassero."
+ },
+ {
+  "id": "\\bWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wyndon,Exit]",
+  "en": "\\bWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wyndon,Exit]",
+  "it": "\\bDove vorresti andare?\\ch[1,-1,Zafferanopoli, Fiordoropoli,Freezington,Wyndon,Esci]"
+ }
+]

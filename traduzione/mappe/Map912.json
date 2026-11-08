@@ -1,0 +1,47 @@
+[
+ {
+  "id": "\\rLana: Don't forget about my trial.",
+  "en": "\\rLana: Don't forget about my trial.",
+  "it": "\\rSuiren: Non dimenticarti della mia prova."
+ },
+ {
+  "id": "\\rLana: I beat my first trial. It feels amazing! Thanks for helping, \\PN. With this Waterium Z I'll become stronger.",
+  "en": "\\rLana: I beat my first trial. It feels amazing! Thanks for helping, \\PN. With this Waterium Z I'll become stronger.",
+  "it": "\\rSuiren: Ho superato la mia prima prova. È una sensazione fantastica! Grazie dell'aiuto, \\PN. Con questo Acquium Z diventerò più forte."
+ },
+ {
+  "id": "\\rI think Kiawe was heading to a trial. He went west of here.",
+  "en": "\\rI think Kiawe was heading to a trial. He went west of here.",
+  "it": "\\rCredo che Kiawe stesse andando a una prova. È andato a ovest di qui."
+ },
+ {
+  "id": "\\rLana: I'm going to clear this trial. Get me warmed up.",
+  "en": "\\rLana: I'm going to clear this trial. Get me warmed up.",
+  "it": "\\rSuiren: Sto per superare questa prova. Aiutami a scaldarmi."
+ },
+ {
+  "id": "\\rLana: I think I'm ready. Are you ready to help?",
+  "en": "\\rLana: I think I'm ready. Are you ready to help?",
+  "it": "\\rSuiren: Credo di essere pronta. Sei pronto ad aiutarmi?"
+ },
+ {
+  "id": "\\PN teamed up with Lana!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Lana!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN fa squadra con Suiren!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\rOk then.",
+  "en": "\\rOk then.",
+  "it": "\\rOk, allora."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

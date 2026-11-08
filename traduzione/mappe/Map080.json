@@ -1,0 +1,22 @@
+[
+ {
+  "id": "Route 2",
+  "en": "Route 2",
+  "it": "Percorso 2"
+ },
+ {
+  "id": "\\bYou may not know this but most Pokémon have found ways to evolve outside of trading. Take Kadabra for example. It now evolves at level 35.",
+  "en": "\\bYou may not know this but most Pokémon have found ways to evolve outside of trading. Take Kadabra for example. It now evolves at level 35.",
+  "it": "\\bForse non lo sai, ma la maggior parte dei Pokémon ha trovato il modo di evolversi senza bisogno di scambi. Prendi Kadabra, per esempio: ora si evolve al livello 35."
+ },
+ {
+  "id": "\\bIf you don't know how they evolve try talking to my friends.",
+  "en": "\\bIf you don't know how they evolve try talking to my friends.",
+  "it": "\\bSe non sai come si evolvono, prova a parlare con i miei amici."
+ },
+ {
+  "id": "\\bThey are in Viridian City, Cherrygrove City, Oldale Town, Twinleaf Town, Accumula Town, Santalune City, Iki Town, and Hammerlocke.",
+  "en": "\\bThey are in Viridian City, Cherrygrove City, Oldale Town, Twinleaf Town, Accumula Town, Santalune City, Iki Town, and Hammerlocke.",
+  "it": "\\bSi trovano a Smeraldopoli, Fiorpescopoli, Solarosa, Duefoglie, Quattroventi, Novartopoli, Iki e Hammerlocke."
+ }
+]

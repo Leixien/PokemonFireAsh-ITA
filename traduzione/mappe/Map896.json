@@ -1,0 +1,152 @@
+[
+ {
+  "id": "\\rIn Alola we have our Mart inside the Centers. We like to make things simple.",
+  "en": "\\rIn Alola we have our Mart inside the Centers. We like to make things simple.",
+  "it": "\\rAd Alola il Market si trova dentro i Centri Pokémon. Ci piace semplificare le cose."
+ },
+ {
+  "id": "\\rComfey",
+  "en": "\\rComfey",
+  "it": "\\rComfey"
+ },
+ {
+  "id": "\\rMy Ralts can Teleport you. However, he is too tired right now.",
+  "en": "\\rMy Ralts can Teleport you. However, he is too tired right now.",
+  "it": "\\rIl mio Ralts può teletrasportarti. Però al momento è troppo stanco."
+ },
+ {
+  "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki,Cancel]",
+  "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki,Cancel]",
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki,Annulla]"
+ },
+ {
+  "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki,Paniola,Cancel]",
+  "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki,Paniola,Cancel]",
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki,Paniola,Annulla]"
+ },
+ {
+  "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Cancel]",
+  "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Cancel]",
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Paniola,Royal,Annulla]"
+ },
+ {
+  "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Cancel]",
+  "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Cancel]",
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Annulla]"
+ },
+ {
+  "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Seafolk,Cancel]",
+  "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Seafolk,Cancel]",
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Marino,Annulla]"
+ },
+ {
+  "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Seafolk,Malie,Cancel]",
+  "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Seafolk,Malie,Cancel]",
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Marino,Malie,Annulla]"
+ },
+ {
+  "id": "\\bRalts",
+  "en": "\\bRalts",
+  "it": "\\bRalts"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\bBrock: \\PN, you wouldn't believe how good the Nurse Joy is here. She let me help her out with taking care of the Pokémon. I even got a gift from her.",
+  "en": "\\bBrock: \\PN, you wouldn't believe how good the Nurse Joy is here. She let me help her out with taking care of the Pokémon. I even got a gift from her.",
+  "it": "\\bBrock: \\PN, non crederesti a quanto è brava l'Infermiera Joy di qui. Mi ha lasciato aiutarla a prendersi cura dei Pokémon. Ho persino ricevuto un regalo da lei."
+ },
+ {
+  "id": "\\bHere, let me show you.",
+  "en": "\\bHere, let me show you.",
+  "it": "\\bEcco, lascia che te lo mostri."
+ },
+ {
+  "id": "\\bBrock: Ah, what a lovely region. I think I'm going to go see if I can meet Olivia next.",
+  "en": "\\bBrock: Ah, what a lovely region. I think I'm going to go see if I can meet Olivia next.",
+  "it": "\\bBrock: Ah, che regione splendida. Credo che adesso andrò a vedere se riesco a incontrare Olivia."
+ },
+ {
+  "id": "Rotom Dex: That was enough for one day, wasn't it? Let's head back home.",
+  "en": "Rotom Dex: That was enough for one day, wasn't it?  Let's head back home.",
+  "it": "Rotom Dex: Per oggi basta così, non trovi?  Torniamo a casa."
+ },
+ {
+  "id": "\\rBlissey",
+  "en": "\\rBlissey",
+  "it": "\\rBlissey"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "id": "\\rPidgey",
+  "en": "\\rPidgey",
+  "it": "\\rPidgey"
+ },
+ {
+  "id": "\\bGo to the tree.",
+  "en": "\\bGo to the tree.",
+  "it": "\\bVai all'albero."
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Navel,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Navel,Sette Grapefruit,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Trovita,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Trovita,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Navel,Sette Grapefruit,Trovita,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Trovita,Ascorbia,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Trovita,Ascorbia,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Navel,Sette Grapefruit,Trovita,Ascorbia,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Navel,Sette Grapefruit,Trovita,Ascorbia,Kumquat,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Navel,Sette Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Esci]"
+ },
+ {
+  "id": "Mikan Island Pokémon Gym Leader: \\nCissy",
+  "en": "Mikan Island Pokémon Gym Leader: \\nCissy",
+  "it": "Capopalestra della Palestra Pokémon dell'Isola Mikan: \\nCissy"
+ },
+ {
+  "id": "The Water type Master.",
+  "en": "The Water type Master.",
+  "it": "La Maestra del tipo Acqua."
+ },
+ {
+  "id": "\\rThis has always been quite the quiet place. If it wasn't for the Gym I doubt anyone would stop by.",
+  "en": "\\rThis has always been quite the quiet place. If it wasn't for the Gym I doubt anyone would stop by.",
+  "it": "\\rQuesto è sempre stato un posto piuttosto tranquillo. Se non fosse per la Palestra, dubito che qualcuno si fermerebbe qui."
+ },
+ {
+  "id": "\\bIf you battle Cissy you will need this.",
+  "en": "\\bIf you battle Cissy you will need this.",
+  "it": "\\bSe sfidi Cissy, ti servirà questa."
+ },
+ {
+  "id": "\\bTM25 contains Thunder. It should be helpful in your Gym battle.",
+  "en": "\\bTM25 contains Thunder. It should be helpful in your Gym battle.",
+  "it": "\\bLa MT25 contiene Tuono. Dovrebbe esserti utile nella lotta in Palestra."
+ },
+ {
+  "id": "\\bI've fished here for years, but I still haven't found the perfect Seadra.",
+  "en": "\\bI've fished here for years, but I still haven't found the perfect Seadra.",
+  "it": "\\bPesco qui da anni, ma non ho ancora trovato il Seadra perfetto."
+ },
+ {
+  "id": "\\rWait your turn.",
+  "en": "\\rWait your turn.",
+  "it": "\\rAspetta il tuo turno."
+ },
+ {
+  "id": "\\rKabuto",
+  "en": "\\rKabuto",
+  "it": "\\rKabuto"
+ }
+]

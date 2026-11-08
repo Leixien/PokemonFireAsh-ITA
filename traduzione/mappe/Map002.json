@@ -1,0 +1,12 @@
+[
+ {
+  "id": "\\bThese doors are examples of good, solid door events.",
+  "en": "\\bThese doors are examples of good, solid door events.",
+  "it": "\\bQueste porte sono esempi di eventi porta ben fatti."
+ },
+ {
+  "id": "\\bWhen the player goes outside, be sure to transfer the player onto the door rather than next to it. It looks better that way.",
+  "en": "\\bWhen the player goes outside, be sure to transfer the player onto the door rather than next to it.  It looks better that way.",
+  "it": "\\bQuando il giocatore esce, assicurati di trasferirlo sopra la porta e non accanto. Così è più bello da vedere."
+ }
+]

@@ -1,0 +1,1357 @@
+[
+ {
+  "id": "Indigo Plateau",
+  "en": "Indigo Plateau",
+  "it": "Altopiano Blu"
+ },
+ {
+  "id": "Route 22",
+  "en": "Route 22",
+  "it": "Percorso 22"
+ },
+ {
+  "id": "Route 26",
+  "en": "Route 26",
+  "it": "Percorso 26"
+ },
+ {
+  "id": "Battle Tower",
+  "en": "Battle Tower",
+  "it": "Torre Lotta"
+ },
+ {
+  "id": "Battle Pyramid",
+  "en": "Battle Pyramid",
+  "it": "Piramide Lotta"
+ },
+ {
+  "id": "Pewter City",
+  "en": "Pewter City",
+  "it": "Plumbeopoli"
+ },
+ {
+  "id": "Route 2",
+  "en": "Route 2",
+  "it": "Percorso 2"
+ },
+ {
+  "id": "Viridian Forest",
+  "en": "Viridian Forest",
+  "it": "Bosco Smeraldo"
+ },
+ {
+  "id": "Viridian City",
+  "en": "Viridian City",
+  "it": "Smeraldopoli"
+ },
+ {
+  "id": "Route 1",
+  "en": "Route 1",
+  "it": "Percorso 1"
+ },
+ {
+  "id": "Route 3",
+  "en": "Route 3",
+  "it": "Percorso 3"
+ },
+ {
+  "id": "Pallet Town",
+  "en": "Pallet Town",
+  "it": "Biancavilla"
+ },
+ {
+  "id": "Gringey City Power Plant",
+  "en": "Gringey City Power Plant",
+  "it": "Centrale Elettrica di Gringey City"
+ },
+ {
+  "id": "Route 17",
+  "en": "Route 17",
+  "it": "Percorso 17"
+ },
+ {
+  "id": "Route 18",
+  "en": "Route 18",
+  "it": "Percorso 18"
+ },
+ {
+  "id": "Mt. Moon",
+  "en": "Mt. Moon",
+  "it": "Monte Luna"
+ },
+ {
+  "id": "Route 16",
+  "en": "Route 16",
+  "it": "Percorso 16"
+ },
+ {
+  "id": "Route 19",
+  "en": "Route 19",
+  "it": "Percorso 19"
+ },
+ {
+  "id": "Battle Factory",
+  "en": "Battle Factory",
+  "it": "Fabbrica Lotta"
+ },
+ {
+  "id": "Route 4",
+  "en": "Route 4",
+  "it": "Percorso 4"
+ },
+ {
+  "id": "Celadon City",
+  "en": "Celadon City",
+  "it": "Azzurropoli"
+ },
+ {
+  "id": "Fuchsia City",
+  "en": "Fuchsia City",
+  "it": "Fucsiapoli"
+ },
+ {
+  "id": "Battle Arena",
+  "en": "Battle Arena",
+  "it": "Dojo Lotta"
+ },
+ {
+  "id": "Cerulean City",
+  "en": "Cerulean City",
+  "it": "Celestopoli"
+ },
+ {
+  "id": "Hidden Village",
+  "en": "Hidden Village",
+  "it": "Villaggio Nascosto"
+ },
+ {
+  "id": "Route 7",
+  "en": "Route 7",
+  "it": "Percorso 7"
+ },
+ {
+  "id": "Route 5",
+  "en": "Route 5",
+  "it": "Percorso 5"
+ },
+ {
+  "id": "Saffron City",
+  "en": "Saffron City",
+  "it": "Zafferanopoli"
+ },
+ {
+  "id": "Route 24",
+  "en": "Route 24",
+  "it": "Percorso 24"
+ },
+ {
+  "id": "Route 25",
+  "en": "Route 25",
+  "it": "Percorso 25"
+ },
+ {
+  "id": "Vermillion City",
+  "en": "Vermillion City",
+  "it": "Aranciopoli"
+ },
+ {
+  "id": "Route 8",
+  "en": "Route 8",
+  "it": "Percorso 8"
+ },
+ {
+  "id": "Route 11",
+  "en": "Route 11",
+  "it": "Percorso 11"
+ },
+ {
+  "id": "Cinnabar Island",
+  "en": "Cinnabar Island",
+  "it": "Isola Cannella"
+ },
+ {
+  "id": "Route 15",
+  "en": "Route 15",
+  "it": "Percorso 15"
+ },
+ {
+  "id": "Battle Dome",
+  "en": "Battle Dome",
+  "it": "Cupola Lotta"
+ },
+ {
+  "id": "Route 14",
+  "en": "Route 14",
+  "it": "Percorso 14"
+ },
+ {
+  "id": "Cinnabar Volcano",
+  "en": "Cinnabar Volcano",
+  "it": "Vulcano di Cannella"
+ },
+ {
+  "id": "Route 13",
+  "en": "Route 13",
+  "it": "Percorso 13"
+ },
+ {
+  "id": "Lavender Town",
+  "en": "Lavender Town",
+  "it": "Lavandonia"
+ },
+ {
+  "id": "Route 12",
+  "en": "Route 12",
+  "it": "Percorso 12"
+ },
+ {
+  "id": "Metallica Island",
+  "en": "Metallica Island",
+  "it": "Isola Metallica"
+ },
+ {
+  "id": "Cianwood City",
+  "en": "Cianwood City",
+  "it": "Fiorlisopoli"
+ },
+ {
+  "id": "Route 39",
+  "en": "Route 39",
+  "it": "Percorso 39"
+ },
+ {
+  "id": "Olivine City",
+  "en": "Olivine City",
+  "it": "Olivinopoli"
+ },
+ {
+  "id": "Route 38",
+  "en": "Route 38",
+  "it": "Percorso 38"
+ },
+ {
+  "id": "Pokemon Swap Meet",
+  "en": "Pokemon Swap Meet",
+  "it": "Mercatino Pokémon"
+ },
+ {
+  "id": "Ecruteak City",
+  "en": "Ecruteak City",
+  "it": "Amarantopoli"
+ },
+ {
+  "id": "Route 35",
+  "en": "Route 35",
+  "it": "Percorso 35"
+ },
+ {
+  "id": "Goldenrod City",
+  "en": "Goldenrod City",
+  "it": "Fiordoropoli"
+ },
+ {
+  "id": "Route 34",
+  "en": "Route 34",
+  "it": "Percorso 34"
+ },
+ {
+  "id": "Ilex Forest",
+  "en": "Ilex Forest",
+  "it": "Bosco di Lecci"
+ },
+ {
+  "id": "Route 37",
+  "en": "Route 37",
+  "it": "Percorso 37"
+ },
+ {
+  "id": "Route 36",
+  "en": "Route 36",
+  "it": "Percorso 36"
+ },
+ {
+  "id": "Route 42",
+  "en": "Route 42",
+  "it": "Percorso 42"
+ },
+ {
+  "id": "Ruins of Alph",
+  "en": "Ruins of Alph",
+  "it": "Rovine d'Alfa"
+ },
+ {
+  "id": "Azalea Town",
+  "en": "Azalea Town",
+  "it": "Azalina"
+ },
+ {
+  "id": "Violet City",
+  "en": "Violet City",
+  "it": "Violapoli"
+ },
+ {
+  "id": "Route 32",
+  "en": "Route 32",
+  "it": "Percorso 32"
+ },
+ {
+  "id": "Charicific Valley",
+  "en": "Charicific Valley",
+  "it": "Valle Charicifica"
+ },
+ {
+  "id": "Route 33",
+  "en": "Route 33",
+  "it": "Percorso 33"
+ },
+ {
+  "id": "Lake of Rage",
+  "en": "Lake of Rage",
+  "it": "Lago d'Ira"
+ },
+ {
+  "id": "Route 43",
+  "en": "Route 43",
+  "it": "Percorso 43"
+ },
+ {
+  "id": "Route 30",
+  "en": "Route 30",
+  "it": "Percorso 30"
+ },
+ {
+  "id": "Cherrygrove City",
+  "en": "Cherrygrove City",
+  "it": "Fiorpescopoli"
+ },
+ {
+  "id": "Mahogany Town",
+  "en": "Mahogany Town",
+  "it": "Mogania"
+ },
+ {
+  "id": "Route 29 Forest",
+  "en": "Route 29 Forest",
+  "it": "Bosco del Percorso 29"
+ },
+ {
+  "id": "Route 29",
+  "en": "Route 29",
+  "it": "Percorso 29"
+ },
+ {
+  "id": "Route 44",
+  "en": "Route 44",
+  "it": "Percorso 44"
+ },
+ {
+  "id": "Dragon Holy Land",
+  "en": "Dragon Holy Land",
+  "it": "Terra Sacra dei Draghi"
+ },
+ {
+  "id": "Dragon`s Den",
+  "en": "Dragon`s Den",
+  "it": "Tana del Drago"
+ },
+ {
+  "id": "Blackthorn City",
+  "en": "Blackthorn City",
+  "it": "Ebanopoli"
+ },
+ {
+  "id": "Ice Cave",
+  "en": "Ice Cave",
+  "it": "Grotta Ghiacciata"
+ },
+ {
+  "id": "New Bark Town",
+  "en": "New Bark Town",
+  "it": "Borgo Foglianova"
+ },
+ {
+  "id": "Silver Conference",
+  "en": "Silver Conference",
+  "it": "Conferenza Argento"
+ },
+ {
+  "id": "Route 45",
+  "en": "Route 45",
+  "it": "Percorso 45"
+ },
+ {
+  "id": "Littleroot Town",
+  "en": "Littleroot Town",
+  "it": "Albanova"
+ },
+ {
+  "id": "Route 101",
+  "en": "Route 101",
+  "it": "Percorso 101"
+ },
+ {
+  "id": "Oldale Town",
+  "en": "Oldale Town",
+  "it": "Solarosa"
+ },
+ {
+  "id": "Route 102",
+  "en": "Route 102",
+  "it": "Percorso 102"
+ },
+ {
+  "id": "Petalburg City",
+  "en": "Petalburg City",
+  "it": "Petalipoli"
+ },
+ {
+  "id": "Route104",
+  "en": "Route104",
+  "it": "Percorso 104"
+ },
+ {
+  "id": "Petalburg Woods",
+  "en": "Petalburg Woods",
+  "it": "Bosco Petalo"
+ },
+ {
+  "id": "Route 104",
+  "en": "Route 104",
+  "it": "Percorso 104"
+ },
+ {
+  "id": "Rustboro City",
+  "en": "Rustboro City",
+  "it": "Ferrugipoli"
+ },
+ {
+  "id": "Dewford Town",
+  "en": "Dewford Town",
+  "it": "Bluruvia"
+ },
+ {
+  "id": "Granite Cave",
+  "en": "Granite Cave",
+  "it": "Grotta Pietrosa"
+ },
+ {
+  "id": "Route 106",
+  "en": "Route 106",
+  "it": "Percorso 106"
+ },
+ {
+  "id": "Route 109",
+  "en": "Route 109",
+  "it": "Percorso 109"
+ },
+ {
+  "id": "Slateport City",
+  "en": "Slateport City",
+  "it": "Porto Selcepoli"
+ },
+ {
+  "id": "Route 110",
+  "en": "Route 110",
+  "it": "Percorso 110"
+ },
+ {
+  "id": "Mauville City",
+  "en": "Mauville City",
+  "it": "Ciclamipoli"
+ },
+ {
+  "id": "Route 111",
+  "en": "Route 111",
+  "it": "Percorso 111"
+ },
+ {
+  "id": "Mirage Kingdom",
+  "en": "Mirage Kingdom",
+  "it": "Regno Miraggio"
+ },
+ {
+  "id": "Route 113",
+  "en": "Route 113",
+  "it": "Percorso 113"
+ },
+ {
+  "id": "Fallarbor Town",
+  "en": "Fallarbor Town",
+  "it": "Brunifoglia"
+ },
+ {
+  "id": "Fiery Path",
+  "en": "Fiery Path",
+  "it": "Cammino Ardente"
+ },
+ {
+  "id": "Lavaridge Town",
+  "en": "Lavaridge Town",
+  "it": "Cuordilava"
+ },
+ {
+  "id": "Route 112",
+  "en": "Route 112",
+  "it": "Percorso 112"
+ },
+ {
+  "id": "Route 117",
+  "en": "Route 117",
+  "it": "Percorso 117"
+ },
+ {
+  "id": "Verdanturf Town",
+  "en": "Verdanturf Town",
+  "it": "Mentania"
+ },
+ {
+  "id": "Route 118",
+  "en": "Route 118",
+  "it": "Percorso 118"
+ },
+ {
+  "id": "Route 119",
+  "en": "Route 119",
+  "it": "Percorso 119"
+ },
+ {
+  "id": "Fortree City",
+  "en": "Fortree City",
+  "it": "Forestopoli"
+ },
+ {
+  "id": "Route 120",
+  "en": "Route 120",
+  "it": "Percorso 120"
+ },
+ {
+  "id": "Route 121",
+  "en": "Route 121",
+  "it": "Percorso 121"
+ },
+ {
+  "id": "Lilycove City",
+  "en": "Lilycove City",
+  "it": "Porto Alghepoli"
+ },
+ {
+  "id": "Route 124",
+  "en": "Route 124",
+  "it": "Percorso 124"
+ },
+ {
+  "id": "Mossdeep City",
+  "en": "Mossdeep City",
+  "it": "Verdeazzupoli"
+ },
+ {
+  "id": "Izabe Island (Purika)",
+  "en": "Izabe Island (Purika)",
+  "it": "Isola Izabe (Purika)"
+ },
+ {
+  "id": "Izabe Forest",
+  "en": "Izabe Forest",
+  "it": "Bosco di Izabe"
+ },
+ {
+  "id": "Izabe Island (Riyado)",
+  "en": "Izabe Island (Riyado)",
+  "it": "Isola Izabe (Riyado)"
+ },
+ {
+  "id": "Izabe Desert",
+  "en": "Izabe Desert",
+  "it": "Deserto di Izabe"
+ },
+ {
+  "id": "Izabe Cave",
+  "en": "Izabe Cave",
+  "it": "Grotta di Izabe"
+ },
+ {
+  "id": "Izabe Island (Cerosi)",
+  "en": "Izabe Island (Cerosi)",
+  "it": "Isola Izabe (Cerosi)"
+ },
+ {
+  "id": "Sootopolis City",
+  "en": "Sootopolis City",
+  "it": "Ceneride"
+ },
+ {
+  "id": "Pacifidlog Town",
+  "en": "Pacifidlog Town",
+  "it": "Orocea"
+ },
+ {
+  "id": "Hoenn Pokemon League",
+  "en": "Hoenn Pokemon League",
+  "it": "Lega Pokémon di Hoenn"
+ },
+ {
+  "id": "Ever Grande Conference",
+  "en": "Ever Grande Conference",
+  "it": "Conferenza Iridopoli"
+ },
+ {
+  "id": "Route 202",
+  "en": "Route 202",
+  "it": "Percorso 202"
+ },
+ {
+  "id": "Sandgem Town",
+  "en": "Sandgem Town",
+  "it": "Sabbiafine"
+ },
+ {
+  "id": "Route 201",
+  "en": "Route 201",
+  "it": "Percorso 201"
+ },
+ {
+  "id": "Lake Verity",
+  "en": "Lake Verity",
+  "it": "Lago Verità"
+ },
+ {
+  "id": "Twinleaf Town",
+  "en": "Twinleaf Town",
+  "it": "Duefoglie"
+ },
+ {
+  "id": "Jubilife City",
+  "en": "Jubilife City",
+  "it": "Giubilopoli"
+ },
+ {
+  "id": "Route 203",
+  "en": "Route 203",
+  "it": "Percorso 203"
+ },
+ {
+  "id": "Oreburgh Gate",
+  "en": "Oreburgh Gate",
+  "it": "Varco Mineropoli"
+ },
+ {
+  "id": "Oreburgh City",
+  "en": "Oreburgh City",
+  "it": "Mineropoli"
+ },
+ {
+  "id": "Oreburgh Mine",
+  "en": "Oreburgh Mine",
+  "it": "Miniera di Mineropoli"
+ },
+ {
+  "id": "Route 204",
+  "en": "Route 204",
+  "it": "Percorso 204"
+ },
+ {
+  "id": "Ravaged Path",
+  "en": "Ravaged Path",
+  "it": "Via Dissestata"
+ },
+ {
+  "id": "Floaroma Town",
+  "en": "Floaroma Town",
+  "it": "Floraria"
+ },
+ {
+  "id": "Floaroma Meadow",
+  "en": "Floaroma Meadow",
+  "it": "Prato Floraria"
+ },
+ {
+  "id": "Route 205",
+  "en": "Route 205",
+  "it": "Percorso 205"
+ },
+ {
+  "id": "Eterna Forest",
+  "en": "Eterna Forest",
+  "it": "Bosco Evopoli"
+ },
+ {
+  "id": "Eterna City",
+  "en": "Eterna City",
+  "it": "Evopoli"
+ },
+ {
+  "id": "Route 206",
+  "en": "Route 206",
+  "it": "Percorso 206"
+ },
+ {
+  "id": "Route 207",
+  "en": "Route 207",
+  "it": "Percorso 207"
+ },
+ {
+  "id": "Mt. Coronet",
+  "en": "Mt. Coronet",
+  "it": "Monte Corona"
+ },
+ {
+  "id": "Hearthome City",
+  "en": "Hearthome City",
+  "it": "Cuoripoli"
+ },
+ {
+  "id": "Route 209",
+  "en": "Route 209",
+  "it": "Percorso 209"
+ },
+ {
+  "id": "Solaceon Town",
+  "en": "Solaceon Town",
+  "it": "Flemminia"
+ },
+ {
+  "id": "Solaceon Ruins",
+  "en": "Solaceon Ruins",
+  "it": "Rovine di Flemminia"
+ },
+ {
+  "id": "Route 210 (South)",
+  "en": "Route 210 (South)",
+  "it": "Percorso 210 (Sud)"
+ },
+ {
+  "id": "Route 215",
+  "en": "Route 215",
+  "it": "Percorso 215"
+ },
+ {
+  "id": "Veilstone City",
+  "en": "Veilstone City",
+  "it": "Rupepoli"
+ },
+ {
+  "id": "Route 214",
+  "en": "Route 214",
+  "it": "Percorso 214"
+ },
+ {
+  "id": "Valor Lakefront",
+  "en": "Valor Lakefront",
+  "it": "Riva Lago Valore"
+ },
+ {
+  "id": "Lake Valor",
+  "en": "Lake Valor",
+  "it": "Lago Valore"
+ },
+ {
+  "id": "Route 213",
+  "en": "Route 213",
+  "it": "Percorso 213"
+ },
+ {
+  "id": "Pastoria City",
+  "en": "Pastoria City",
+  "it": "Pratopoli"
+ },
+ {
+  "id": "Route 212",
+  "en": "Route 212",
+  "it": "Percorso 212"
+ },
+ {
+  "id": "Route 210 (North)",
+  "en": "Route 210 (North)",
+  "it": "Percorso 210 (Nord)"
+ },
+ {
+  "id": "Celestic Town",
+  "en": "Celestic Town",
+  "it": "Memoride"
+ },
+ {
+  "id": "Route 218",
+  "en": "Route 218",
+  "it": "Percorso 218"
+ },
+ {
+  "id": "Canalave City",
+  "en": "Canalave City",
+  "it": "Canalipoli"
+ },
+ {
+  "id": "Iron Island",
+  "en": "Iron Island",
+  "it": "Isola Ferrosa"
+ },
+ {
+  "id": "Route 211",
+  "en": "Route 211",
+  "it": "Percorso 211"
+ },
+ {
+  "id": "Route 216",
+  "en": "Route 216",
+  "it": "Percorso 216"
+ },
+ {
+  "id": "Route 217",
+  "en": "Route 217",
+  "it": "Percorso 217"
+ },
+ {
+  "id": "Lake Acuity",
+  "en": "Lake Acuity",
+  "it": "Lago Arguzia"
+ },
+ {
+  "id": "Snowpoint City",
+  "en": "Snowpoint City",
+  "it": "Nevepoli"
+ },
+ {
+  "id": "Route 222",
+  "en": "Route 222",
+  "it": "Percorso 222"
+ },
+ {
+  "id": "Sunnyshore City",
+  "en": "Sunnyshore City",
+  "it": "Arenipoli"
+ },
+ {
+  "id": "Lily of the Valley Island",
+  "en": "Lily of the Valley Island",
+  "it": "Isola Mughetto"
+ },
+ {
+  "id": "Sinnoh Pokemon League",
+  "en": "Sinnoh Pokemon League",
+  "it": "Lega Pokémon di Sinnoh"
+ },
+ {
+  "id": "Nuvema Town",
+  "en": "Nuvema Town",
+  "it": "Soffiolieve"
+ },
+ {
+  "id": "Accumula Town",
+  "en": "Accumula Town",
+  "it": "Quattroventi"
+ },
+ {
+  "id": "Striaton City",
+  "en": "Striaton City",
+  "it": "Levantopoli"
+ },
+ {
+  "id": "Dreamyard",
+  "en": "Dreamyard",
+  "it": "Cantiere dei Sogni"
+ },
+ {
+  "id": "Wellspring Cave",
+  "en": "Wellspring Cave",
+  "it": "Grotta Sgorgo"
+ },
+ {
+  "id": "Nacrene City",
+  "en": "Nacrene City",
+  "it": "Zefiropoli"
+ },
+ {
+  "id": "Pinwheel Forest",
+  "en": "Pinwheel Forest",
+  "it": "Bosco Girandola"
+ },
+ {
+  "id": "Skyarrow Bridge",
+  "en": "Skyarrow Bridge",
+  "it": "Ponte Freccialuce"
+ },
+ {
+  "id": "Castelia City",
+  "en": "Castelia City",
+  "it": "Austropoli"
+ },
+ {
+  "id": "Club Battle",
+  "en": "Club Battle",
+  "it": "Club Battle"
+ },
+ {
+  "id": "Nimbasa City",
+  "en": "Nimbasa City",
+  "it": "Sciroccopoli"
+ },
+ {
+  "id": "Driftveil City",
+  "en": "Driftveil City",
+  "it": "Libecciopoli"
+ },
+ {
+  "id": "Route 6",
+  "en": "Route 6",
+  "it": "Percorso 6"
+ },
+ {
+  "id": "Mistralton Cave",
+  "en": "Mistralton Cave",
+  "it": "Grotta Ponentopoli"
+ },
+ {
+  "id": "Chargestone Cave",
+  "en": "Chargestone Cave",
+  "it": "Grotta Pietrelettrica"
+ },
+ {
+  "id": "Mistralton City",
+  "en": "Mistralton City",
+  "it": "Ponentopoli"
+ },
+ {
+  "id": "Mistralton Tower",
+  "en": "Mistralton Tower",
+  "it": "Torre Ponentopoli"
+ },
+ {
+  "id": "Clubsplosion",
+  "en": "Clubsplosion",
+  "it": "Clubsplosion"
+ },
+ {
+  "id": "Twist Mountain",
+  "en": "Twist Mountain",
+  "it": "Monte Vite"
+ },
+ {
+  "id": "Icirrus City",
+  "en": "Icirrus City",
+  "it": "Mistralopoli"
+ },
+ {
+  "id": "Route 9",
+  "en": "Route 9",
+  "it": "Percorso 9"
+ },
+ {
+  "id": "Virbank City",
+  "en": "Virbank City",
+  "it": "Virbopoli"
+ },
+ {
+  "id": "Undella Town",
+  "en": "Undella Town",
+  "it": "Spiraria"
+ },
+ {
+  "id": "Undella Bay",
+  "en": "Undella Bay",
+  "it": "Baia Spiraria"
+ },
+ {
+  "id": "Opelucid City",
+  "en": "Opelucid City",
+  "it": "Boreduopoli"
+ },
+ {
+  "id": "Vetress City",
+  "en": "Vetress City",
+  "it": "Vetress City"
+ },
+ {
+  "id": "Route 20",
+  "en": "Route 20",
+  "it": "Percorso 20"
+ },
+ {
+  "id": "Aspertia City",
+  "en": "Aspertia City",
+  "it": "Alisopoli"
+ },
+ {
+  "id": "White Ruins",
+  "en": "White Ruins",
+  "it": "Rovine Bianche"
+ },
+ {
+  "id": "Pledge Grove",
+  "en": "Pledge Grove",
+  "it": "Bosco Promessa"
+ },
+ {
+  "id": "Icirrus Cave",
+  "en": "Icirrus Cave",
+  "it": "Grotta Mistralopoli"
+ },
+ {
+  "id": "Lumiose City",
+  "en": "Lumiose City",
+  "it": "Luminopoli"
+ },
+ {
+  "id": "Santalune City",
+  "en": "Santalune City",
+  "it": "Novartopoli"
+ },
+ {
+  "id": "Camphrier Town",
+  "en": "Camphrier Town",
+  "it": "Castel Vanità"
+ },
+ {
+  "id": "Parfum Palace",
+  "en": "Parfum Palace",
+  "it": "Palazzo Parfum"
+ },
+ {
+  "id": "Cyllage City",
+  "en": "Cyllage City",
+  "it": "Petroglifari"
+ },
+ {
+  "id": "Route 10",
+  "en": "Route 10",
+  "it": "Percorso 10"
+ },
+ {
+  "id": "Geosenge Town",
+  "en": "Geosenge Town",
+  "it": "Cromleburgo"
+ },
+ {
+  "id": "Reflection Cave",
+  "en": "Reflection Cave",
+  "it": "Grotta Riflessi"
+ },
+ {
+  "id": "Shalour City",
+  "en": "Shalour City",
+  "it": "Yantaropoli"
+ },
+ {
+  "id": "Coumarine City",
+  "en": "Coumarine City",
+  "it": "Batikopoli"
+ },
+ {
+  "id": "Laverre City",
+  "en": "Laverre City",
+  "it": "Romantopoli"
+ },
+ {
+  "id": "Dendemille Town",
+  "en": "Dendemille Town",
+  "it": "Frescovilla"
+ },
+ {
+  "id": "Frost Cavern",
+  "en": "Frost Cavern",
+  "it": "Grotta Gelata"
+ },
+ {
+  "id": "Anistar City",
+  "en": "Anistar City",
+  "it": "Fluxopoli"
+ },
+ {
+  "id": "Anistar Sundial",
+  "en": "Anistar Sundial",
+  "it": "Meridiana di Fluxopoli"
+ },
+ {
+  "id": "Couriway Town",
+  "en": "Couriway Town",
+  "it": "Ponte Mosaico"
+ },
+ {
+  "id": "Terminus Cave",
+  "en": "Terminus Cave",
+  "it": "Grotta Capolinea"
+ },
+ {
+  "id": "Route 21",
+  "en": "Route 21",
+  "it": "Percorso 21"
+ },
+ {
+  "id": "Snowbelle City",
+  "en": "Snowbelle City",
+  "it": "Fractalopoli"
+ },
+ {
+  "id": "Melemele Forest",
+  "en": "Melemele Forest",
+  "it": "Bosco di Mele Mele"
+ },
+ {
+  "id": "Melemele Meadow",
+  "en": "Melemele Meadow",
+  "it": "Prato di Mele Mele"
+ },
+ {
+  "id": "Iki Town",
+  "en": "Iki Town",
+  "it": "Iki"
+ },
+ {
+  "id": "Hau'oli City",
+  "en": "Hau'oli City",
+  "it": "Hau'oli"
+ },
+ {
+  "id": "Verdant Cavern",
+  "en": "Verdant Cavern",
+  "it": "Grotta Sottobosco"
+ },
+ {
+  "id": "Hau'oli Outskirts",
+  "en": "Hau'oli Outskirts",
+  "it": "Periferia di Hau'oli"
+ },
+ {
+  "id": "Ten Carat Hill",
+  "en": "Ten Carat Hill",
+  "it": "Collina Diecicarati"
+ },
+ {
+  "id": "Paniola Town",
+  "en": "Paniola Town",
+  "it": "Paniola"
+ },
+ {
+  "id": "Paniola Ranch",
+  "en": "Paniola Ranch",
+  "it": "Ranch Paniola"
+ },
+ {
+  "id": "Brooklet Hill",
+  "en": "Brooklet Hill",
+  "it": "Collina Ruscello"
+ },
+ {
+  "id": "Lush Jungle",
+  "en": "Lush Jungle",
+  "it": "Foresta Ombrosa"
+ },
+ {
+  "id": "Wela Volcano Park",
+  "en": "Wela Volcano Park",
+  "it": "Parco Vulcano Wela"
+ },
+ {
+  "id": "Royal Avenue",
+  "en": "Royal Avenue",
+  "it": "Viale Reale"
+ },
+ {
+  "id": "Ruins of Life",
+  "en": "Ruins of Life",
+  "it": "Rovine della Vita"
+ },
+ {
+  "id": "Aether Paradise",
+  "en": "Aether Paradise",
+  "it": "Paradiso Aether"
+ },
+ {
+  "id": "Tapu Village",
+  "en": "Tapu Village",
+  "it": "Villaggio Tapu"
+ },
+ {
+  "id": "Haina Desert",
+  "en": "Haina Desert",
+  "it": "Deserto di Haina"
+ },
+ {
+  "id": "Ruins of Abundance",
+  "en": "Ruins of Abundance",
+  "it": "Rovine dell'Abbondanza"
+ },
+ {
+  "id": "Malie City",
+  "en": "Malie City",
+  "it": "Malie"
+ },
+ {
+  "id": "Mount Hokulani",
+  "en": "Mount Hokulani",
+  "it": "Monte Hokulani"
+ },
+ {
+  "id": "Hokulani Observatory",
+  "en": "Hokulani Observatory",
+  "it": "Osservatorio di Hokulani"
+ },
+ {
+  "id": "Mount Lanakila",
+  "en": "Mount Lanakila",
+  "it": "Monte Lanakila"
+ },
+ {
+  "id": "Mount Lanakila Cave",
+  "en": "Mount Lanakila Cave",
+  "it": "Grotta del Monte Lanakila"
+ },
+ {
+  "id": "Seafolk Village",
+  "en": "Seafolk Village",
+  "it": "Villaggio Marino"
+ },
+ {
+  "id": "Poni Wilds",
+  "en": "Poni Wilds",
+  "it": "Lande di Poni"
+ },
+ {
+  "id": "Ancient Poni Path",
+  "en": "Ancient Poni Path",
+  "it": "Antico Sentiero di Poni"
+ },
+ {
+  "id": "Poni Breaker Coast",
+  "en": "Poni Breaker Coast",
+  "it": "Costa Frangiflutti di Poni"
+ },
+ {
+  "id": "Ruins of Hope",
+  "en": "Ruins of Hope",
+  "it": "Rovine della Speranza"
+ },
+ {
+  "id": "Manalo Stadium",
+  "en": "Manalo Stadium",
+  "it": "Stadio Manalo"
+ },
+ {
+  "id": "Vast Poni Canyon",
+  "en": "Vast Poni Canyon",
+  "it": "Gran Canyon di Poni"
+ },
+ {
+  "id": "Altar of the Sunne",
+  "en": "Altar of the Sunne",
+  "it": "Altare del Sole"
+ },
+ {
+  "id": "Thrifty Megamart",
+  "en": "Thrifty Megamart",
+  "it": "Megamarket Parsimonia"
+ },
+ {
+  "id": "Ultra Deep Space",
+  "en": "Ultra Deep Space",
+  "it": "Ultraspazio Profondo"
+ },
+ {
+  "id": "Ultra Ruin",
+  "en": "Ultra Ruin",
+  "it": "Ultrarovine"
+ },
+ {
+  "id": "Pallet Town?",
+  "en": "Pallet Town?",
+  "it": "Biancavilla?"
+ },
+ {
+  "id": "Viridian Gym?",
+  "en": "Viridian Gym?",
+  "it": "Palestra di Smeraldopoli?"
+ },
+ {
+  "id": "Indigo Plateau?",
+  "en": "Indigo Plateau?",
+  "it": "Altopiano Blu?"
+ },
+ {
+  "id": "Viridian Forest?",
+  "en": "Viridian Forest?",
+  "it": "Bosco Smeraldo?"
+ },
+ {
+  "id": "New Bark Town?",
+  "en": "New Bark Town?",
+  "it": "Borgo Foglianova?"
+ },
+ {
+  "id": "Viridian City?",
+  "en": "Viridian City?",
+  "it": "Smeraldopoli?"
+ },
+ {
+  "id": "Ecruteak City?",
+  "en": "Ecruteak City?",
+  "it": "Amarantopoli?"
+ },
+ {
+  "id": "Slateport City?",
+  "en": "Slateport City?",
+  "it": "Porto Selcepoli?"
+ },
+ {
+  "id": "Littleroot Town?",
+  "en": "Littleroot Town?",
+  "it": "Albanova?"
+ },
+ {
+  "id": "Battle Tower?",
+  "en": "Battle Tower?",
+  "it": "Torre Lotta?"
+ },
+ {
+  "id": "Iron Island?",
+  "en": "Iron Island?",
+  "it": "Isola Ferrosa?"
+ },
+ {
+  "id": "Pastoria City?",
+  "en": "Pastoria City?",
+  "it": "Pratopoli?"
+ },
+ {
+  "id": "Mt. Coronet?",
+  "en": "Mt. Coronet?",
+  "it": "Monte Corona?"
+ },
+ {
+  "id": "Unova Pokemon League?",
+  "en": "Unova Pokemon League?",
+  "it": "Lega Pokémon di Unima?"
+ },
+ {
+  "id": "Nimbasa City?",
+  "en": "Nimbasa City?",
+  "it": "Sciroccopoli?"
+ },
+ {
+  "id": "Aspertia City?",
+  "en": "Aspertia City?",
+  "it": "Alisopoli?"
+ },
+ {
+  "id": "Virbank City?",
+  "en": "Virbank City?",
+  "it": "Virbopoli?"
+ },
+ {
+  "id": "Geosenge Town?",
+  "en": "Geosenge Town?",
+  "it": "Cromleburgo?"
+ },
+ {
+  "id": "Shalour City?",
+  "en": "Shalour City?",
+  "it": "Yantaropoli?"
+ },
+ {
+  "id": "Iki Town?",
+  "en": "Iki Town?",
+  "it": "Iki?"
+ },
+ {
+  "id": "Aether Paradise?",
+  "en": "Aether Paradise?",
+  "it": "Paradiso Aether?"
+ }
+]

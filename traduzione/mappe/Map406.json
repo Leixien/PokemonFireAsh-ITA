@@ -1,0 +1,77 @@
+[
+ {
+  "id": "\\rI'm ready to go. Are you ready to go?",
+  "en": "\\rI'm ready to go. Are you ready to go?",
+  "it": "\\rIo sono pronta a partire. Tu sei pronto?"
+ },
+ {
+  "id": "\\rGood job, Trainer.",
+  "en": "\\rGood job, Trainer.",
+  "it": "\\rBel lavoro, Allenatore."
+ },
+ {
+  "id": "\\bWhere are you going?",
+  "en": "\\bWhere are you going?",
+  "it": "\\bDove stai andando?"
+ },
+ {
+  "id": "\\bBe careful in the Power Plant. It's dangerous.",
+  "en": "\\bBe careful in the Power Plant. It's dangerous.",
+  "it": "\\bFai attenzione nella Centrale Elettrica. È pericolosa."
+ },
+ {
+  "id": "Power Plant",
+  "en": "Power Plant",
+  "it": "Centrale Elettrica"
+ },
+ {
+  "id": "\\bHello. Would you like to go to the other side of the cave?",
+  "en": "\\bHello. Would you like to go to the other side of the cave?",
+  "it": "\\bSalve. Vuoi andare dall'altra parte della grotta?"
+ },
+ {
+  "id": "\\bFair enough. Perhaps I'll see you again.",
+  "en": "\\bFair enough. Perhaps I'll see you again.",
+  "it": "\\bD'accordo. Forse ci rivedremo."
+ },
+ {
+  "id": "Voltorb",
+  "en": "Voltorb",
+  "it": "Voltorb"
+ },
+ {
+  "id": "\\bThe Power Plant is not avaliable to the public.",
+  "en": "\\bThe Power Plant is not avaliable to the public.",
+  "it": "\\bLa Centrale Elettrica non è aperta al pubblico."
+ },
+ {
+  "id": "Rock Tunnel",
+  "en": "Rock Tunnel",
+  "it": "Tunnel Roccioso"
+ },
+ {
+  "id": "\\bJames: This is going to make a great base for Team Rocket.",
+  "en": "\\bJames: This is going to make a great base for Team Rocket.",
+  "it": "\\bJames: Questa diventerà un'ottima base per il Team Rocket."
+ },
+ {
+  "id": "\\rJessie: It needs some work, but the boss will love us when it's done.",
+  "en": "\\rJessie: It needs some work, but the boss will love us when it's done.",
+  "it": "\\rJessie: C'è un po' da lavorarci, ma il capo ci adorerà quando sarà finita."
+ },
+ {
+  "id": "\\bMeowth: I bet he'll even give us a promotion. Wait, it's the twerp!",
+  "en": "\\bMeowth: I bet he'll even give us a promotion. Wait, it's the twerp!",
+  "it": "\\bMeowth: Scommetto che ci darà perfino una promozione. Un momento, è il moccioso!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

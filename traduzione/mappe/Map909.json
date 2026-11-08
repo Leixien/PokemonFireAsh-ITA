@@ -1,0 +1,192 @@
+[
+ {
+  "id": "\\bI'm the Pokémon Move Maniac.",
+  "en": "\\bI'm the Pokémon Move Maniac.",
+  "it": "\\bSono il Maniaco delle Mosse Pokémon."
+ },
+ {
+  "id": "\\bI know every single move that Pokémon learn growing up.",
+  "en": "\\bI know every single move that Pokémon learn growing up.",
+  "it": "\\bConosco ogni singola mossa che i Pokémon imparano crescendo."
+ },
+ {
+  "id": "\\bI'm also a collector of Heart Scales.",
+  "en": "\\bI'm also a collector of Heart Scales.",
+  "it": "\\bColleziono anche Squame Cuore."
+ },
+ {
+  "id": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "en": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "it": "\\bSe me ne porti una, insegnerò una mossa a uno dei tuoi Pokémon."
+ },
+ {
+  "id": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "en": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "it": "\\bOh! Eccola! È una Squama Cuore autentica al cento per cento!"
+ },
+ {
+  "id": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "en": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "it": "\\bFammi indovinare, vuoi che insegni una mossa a uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bWhich Pokémon needs tutoring?",
+  "en": "\\bWhich Pokémon needs tutoring?",
+  "it": "\\bQuale Pokémon ha bisogno di lezioni?"
+ },
+ {
+  "id": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "en": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "it": "\\bSe i tuoi Pokémon devono imparare una mossa, torna con una Squama Cuore."
+ },
+ {
+  "id": "\\bHunh? There isn't a single move that I can teach an Egg.",
+  "en": "\\bHunh? There isn't a single move that I can teach an Egg.",
+  "it": "\\bEh? Non c'è nemmeno una mossa che possa insegnare a un Uovo."
+ },
+ {
+  "id": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "en": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "it": "\\bNeanche per sogno, non voglio avvicinarmi a un Pokémon Ombra..."
+ },
+ {
+  "id": "\\bSorry...",
+  "en": "\\bSorry...",
+  "it": "\\bMi dispiace..."
+ },
+ {
+  "id": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "en": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "it": "\\bA quanto pare non ho nessuna mossa da insegnare al tuo \\v[3]."
+ },
+ {
+  "id": "\\bWhich move should I teach to your \\v[3]?",
+  "en": "\\bWhich move should I teach to your \\v[3]?",
+  "it": "\\bQuale mossa devo insegnare al tuo \\v[3]?"
+ },
+ {
+  "id": "\\PN handed over one Heart Scale in exchange.",
+  "en": "\\PN handed over one Heart Scale in exchange.",
+  "it": "\\PN ha consegnato una Squama Cuore in cambio."
+ },
+ {
+  "id": "\\rComfey",
+  "en": "\\rComfey",
+  "it": "\\rComfey"
+ },
+ {
+  "id": "\\rMy Electabuzz can Teleport you. However he is too tired right now.",
+  "en": "\\rMy Electabuzz can Teleport you. However he is too tired right now.",
+  "it": "\\rIl mio Electabuzz può teletrasportarti. Però adesso è troppo stanco."
+ },
+ {
+  "id": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki, Cancel]",
+  "en": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki, Cancel]",
+  "it": "\\rIl mio Electabuzz può teletrasportarti.\\ch[1,-1,Hau'oli, Iki, Annulla]"
+ },
+ {
+  "id": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki,Royal,Cancel]",
+  "en": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki,Royal,Cancel]",
+  "it": "\\rIl mio Electabuzz può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Viale Reale,Annulla]"
+ },
+ {
+  "id": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki,Royal,Tapu,Cancel]",
+  "en": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki,Royal,Tapu,Cancel]",
+  "it": "\\rIl mio Electabuzz può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Viale Reale,Tapu,Annulla]"
+ },
+ {
+  "id": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki,Royal,Tapu,Seafolk,Cancel]",
+  "en": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki,Royal,Tapu,Seafolk,Cancel]",
+  "it": "\\rIl mio Electabuzz può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Viale Reale,Tapu,V. Marino,Annulla]"
+ },
+ {
+  "id": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki,Royal,Tapu,Seafolk,Malie,Cancel]",
+  "en": "\\rMy Electabuzz can Teleport you.\\ch[1,-1,Hau'oli, Iki,Royal,Tapu,Seafolk,Malie,Cancel]",
+  "it": "\\rIl mio Electabuzz può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Viale Reale,Tapu,V. Marino,Malie,Annulla]"
+ },
+ {
+  "id": "\\bElecta",
+  "en": "\\bElecta",
+  "it": "\\bElecta"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\rBlissey",
+  "en": "\\rBlissey",
+  "it": "\\rBlissey"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

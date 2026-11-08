@@ -1,0 +1,27 @@
+[
+ {
+  "id": "\\bThis is the Tiall Region.",
+  "en": "\\bThis is the Tiall Region.",
+  "it": "\\bQuesta è la Regione di Tiall."
+ },
+ {
+  "id": "\\bDo you want to go back to the Essen Region?",
+  "en": "\\bDo you want to go back to the Essen Region?",
+  "it": "\\bVuoi tornare nella Regione di Essen?"
+ },
+ {
+  "id": "\\bLet me know if you do.",
+  "en": "\\bLet me know if you do.",
+  "it": "\\bFammi sapere se vuoi farlo."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

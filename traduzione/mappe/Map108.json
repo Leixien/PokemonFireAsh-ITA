@@ -1,0 +1,727 @@
+[
+ {
+  "id": "\\bThe ship is not ready yet. Come back later.",
+  "en": "\\bThe ship is not ready yet. Come back later.",
+  "it": "\\bLa nave non è ancora pronta. Torna più tardi."
+ },
+ {
+  "id": "\\bThe ship is currently under repair. Come back later.",
+  "en": "\\bThe ship is currently under repair. Come back later.",
+  "it": "\\bLa nave è in riparazione. Torna più tardi."
+ },
+ {
+  "id": "\\rBulbasaur",
+  "en": "\\rBulbasaur",
+  "it": "\\rBulbasaur"
+ },
+ {
+  "id": "\\rI'm waiting to match up with an opponent.",
+  "en": "\\rI'm waiting to match up with an opponent.",
+  "it": "\\rSto aspettando di essere abbinata a un avversario."
+ },
+ {
+  "id": "\\rDid we match up? Let's start the battle.",
+  "en": "\\rDid we match up? Let's start the battle.",
+  "it": "\\rSiamo stati abbinati? Iniziamo la lotta."
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 1,021. You have entered the Normal Class.",
+  "en": "Rotom Phone: Based on performance, your rank is now 1,021. You have entered the Normal Class.",
+  "it": "Rotom Phone: In base alle prestazioni, il tuo grado ora è 1.021. Sei entrato nella Classe Normale."
+ },
+ {
+  "id": "Incoming call from Professor Cerise:",
+  "en": "Incoming call from Professor Cerise:",
+  "it": "Chiamata in arrivo dalla Professoressa Cerise:"
+ },
+ {
+  "id": "\\bCerise: \\PN, could you meet me at the lab? Come as soon as you can.",
+  "en": "\\bCerise: \\PN, could you meet me at the lab? Come as soon as you can.",
+  "it": "\\bCerise: \\PN, puoi raggiungermi al laboratorio? Vieni appena puoi."
+ },
+ {
+  "id": "\\rMaybe we can battle again in the future.",
+  "en": "\\rMaybe we can battle again in the future.",
+  "it": "\\rMagari potremo lottare di nuovo in futuro."
+ },
+ {
+  "id": "\\bWe work together to become ping pong masters.",
+  "en": "\\bWe work together to become ping pong masters.",
+  "it": "\\bCollaboriamo per diventare maestri di ping pong."
+ },
+ {
+  "id": "\\bIvysaur",
+  "en": "\\bIvysaur",
+  "it": "\\bIvysaur"
+ },
+ {
+  "id": "\\rTrying to see the Squirtle?",
+  "en": "\\rTrying to see the Squirtle?",
+  "it": "\\rVuoi vedere gli Squirtle?"
+ },
+ {
+  "id": "\\rI obtained a Squirtle as my starter.",
+  "en": "\\rI obtained a Squirtle as my starter.",
+  "it": "\\rHo ricevuto uno Squirtle come primo Pokémon."
+ },
+ {
+  "id": "\\bWhat's the rush?",
+  "en": "\\bWhat's the rush?",
+  "it": "\\bChe fretta c'è?"
+ },
+ {
+  "id": "\\bSlow and stready. That's the way to life.",
+  "en": "\\bSlow and stready. That's the way to life.",
+  "it": "\\bPiano e con calma. Così va vissuta la vita."
+ },
+ {
+  "id": "\\bHave you been on the S.S. Anne cruise before? You have to try it! While you're here, stop and see Lt. Surge as well. We have a lot to love in Vermilion.",
+  "en": "\\bHave you been on the S.S. Anne cruise before?  You have to try it! While you're here, stop and see Lt.  Surge as well. We have a lot to love in Vermilion.",
+  "it": "\\bSei mai stato in crociera sulla M/N Anna?  Devi provarla! Già che sei qui, passa anche a trovare Lt.  Surge. Ad Aranciopoli c'è tanto da amare."
+ },
+ {
+  "id": "\\rYou look so cute.",
+  "en": "\\rYou look so cute.",
+  "it": "\\rSei così carino."
+ },
+ {
+  "id": "\\rI should have stayed inside and looked at cute Pokémon.",
+  "en": "\\rI should have stayed inside and looked at cute Pokémon.",
+  "it": "\\rAvrei dovuto restare a casa a guardare Pokémon carini."
+ },
+ {
+  "id": "Vermilion Harbor",
+  "en": "Vermilion Harbor",
+  "it": "Porto di Aranciopoli"
+ },
+ {
+  "id": "\\bGoh: Just as I thought! It's a Lugia.",
+  "en": "\\bGoh: Just as I thought! It's a Lugia.",
+  "it": "\\bGoh: Proprio come pensavo! È un Lugia."
+ },
+ {
+  "id": "\\bI wonder if I can get closer to it?",
+  "en": "\\bI wonder if I can get closer to it?",
+  "it": "\\bChissà se riesco ad avvicinarmi?"
+ },
+ {
+  "id": "\\bIt's amazing, isn't it?",
+  "en": "\\bIt's amazing, isn't it?",
+  "it": "\\bÈ incredibile, vero?"
+ },
+ {
+  "id": "\\bLook at that. It must like us.",
+  "en": "\\bLook at that. It must like us.",
+  "it": "\\bGuarda. Dev'essergli simpatico."
+ },
+ {
+  "id": "\\bI'm Goh. My dream is to catch Mew. What's your name?",
+  "en": "\\bI'm Goh. My dream is to catch Mew. What's your name?",
+  "it": "\\bIo sono Goh. Il mio sogno è catturare Mew. Tu come ti chiami?"
+ },
+ {
+  "id": "\\b\\PN. It's nice to meet you, \\PN.",
+  "en": "\\b\\PN. It's nice to meet you, \\PN. ",
+  "it": "\\b\\PN. Piacere di conoscerti, \\PN. "
+ },
+ {
+  "id": "\\bThat was incredible. But...I should probably get back to the lab.",
+  "en": "\\bThat was incredible. But...I should probably get back to the lab.",
+  "it": "\\bÈ stato incredibile. Ma... dovrei tornare al laboratorio."
+ },
+ {
+  "id": "\\bOh, that's where you're going too? Let's go together then.",
+  "en": "\\bOh, that's where you're going too? Let's go together then.",
+  "it": "\\bOh, anche tu vai lì? Allora andiamo insieme."
+ },
+ {
+  "id": "Would you like to take Grookey with you?",
+  "en": "Would you like to take Grookey with you?",
+  "it": "Vuoi portare Grookey con te?"
+ },
+ {
+  "id": "\\rJessie: This is the best idea we've ever had.",
+  "en": "\\rJessie: This is the best idea we've ever had.",
+  "it": "\\rJessie: È la migliore idea che abbiamo mai avuto."
+ },
+ {
+  "id": "\\bJames: We're making so much money with these Squirtle.",
+  "en": "\\bJames: We're making so much money with these Squirtle.",
+  "it": "\\bJames: Stiamo facendo un sacco di soldi con questi Squirtle."
+ },
+ {
+  "id": "\\bMeowth: Not again. Let's get out of here.",
+  "en": "\\bMeowth: Not again. Let's get out of here.",
+  "it": "\\bMeowth: Non di nuovo. Filiamocela!"
+ },
+ {
+  "id": "\\bWobbuffet",
+  "en": "\\bWobbuffet",
+  "it": "\\bWobbuffet"
+ },
+ {
+  "id": "Vermilion City Pokémon Gym Leader: \\nLt. Surge",
+  "en": "Vermilion City Pokémon Gym Leader: \\nLt. Surge",
+  "it": "Capopalestra della Palestra Pokémon di Aranciopoli: \\nLt. Surge"
+ },
+ {
+  "id": "The Lightning American!",
+  "en": "The Lightning American!",
+  "it": "Il Fulmine Americano!"
+ },
+ {
+  "id": "\\bGoh: How dare you try to steal these Pokémon!",
+  "en": "\\bGoh: How dare you try to steal these Pokémon!",
+  "it": "\\bGoh: Come osate cercare di rubare questi Pokémon!"
+ },
+ {
+  "id": "\\bGoh: Thanks for stepping in there. I don't have a Pokémon yet, due to waiting for Mew.",
+  "en": "\\bGoh: Thanks for stepping in there. I don't have a Pokémon yet, due to waiting for Mew.",
+  "it": "\\bGoh: Grazie per essere intervenuto. Non ho ancora un Pokémon, perché sto aspettando Mew."
+ },
+ {
+  "id": "\\bYou again? This time it will be a real battle. I hope you've grown.",
+  "en": "\\bYou again? This time it will be a real battle. I hope you've grown.",
+  "it": "\\bAncora tu? Stavolta sarà una vera lotta. Spero tu sia migliorato."
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 184.",
+  "en": "Rotom Phone: Based on performance, your rank is now 184.",
+  "it": "Rotom Phone: In base alle prestazioni, il tuo grado ora è 184."
+ },
+ {
+  "id": "Announcment. New opponent found for the World Coronation Series. Iris, located in Opelucid City, is ready for battle.",
+  "en": "Announcment. New opponent found for the World Coronation Series. Iris, located in Opelucid City, is ready for battle.",
+  "it": "Annuncio. Nuovo avversario trovato per le World Coronation Series. Iris, a Boreduopoli, è pronta a lottare."
+ },
+ {
+  "id": "\\bYou did well.",
+  "en": "\\bYou did well.",
+  "it": "\\bSei stato bravo."
+ },
+ {
+  "id": "Pokémon Fan Club\\nAll Pokémon fans welcome!",
+  "en": "Pokémon Fan Club\\nAll Pokémon fans welcome!",
+  "it": "Pokémon Fan Club\\nTutti i fan dei Pokémon sono benvenuti!"
+ },
+ {
+  "id": "\\bSquirtle",
+  "en": "\\bSquirtle",
+  "it": "\\bSquirtle"
+ },
+ {
+  "id": "\\bGallade",
+  "en": "\\bGallade",
+  "it": "\\bGallade"
+ },
+ {
+  "id": "Vermilion City\\nThe port of Exquisite Sunsets",
+  "en": "Vermilion City\\nThe port of Exquisite Sunsets",
+  "it": "Aranciopoli\\nIl porto dei tramonti meravigliosi"
+ },
+ {
+  "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\rTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\rAh, looks like a challenging Trainer. Ready, Devi?",
+  "en": "\\rAh, looks like a challenging Trainer. Ready, Devi?",
+  "it": "\\rAh, sembra un Allenatore impegnativo. Pronta, Devi?"
+ },
+ {
+  "id": "\\rAt least I still have Devi.",
+  "en": "\\rAt least I still have Devi.",
+  "it": "\\rAlmeno ho ancora Devi."
+ },
+ {
+  "id": "\\bHave you seen the S.S. Anne? Its a beautiful ship.",
+  "en": "\\bHave you seen the S.S. Anne? Its a beautiful ship.",
+  "it": "\\bHai visto la M/N Anna? È una nave bellissima."
+ },
+ {
+  "id": "\\bVenusaur",
+  "en": "\\bVenusaur",
+  "it": "\\bVenusaur"
+ },
+ {
+  "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\bTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\bAh, looks like a challenging Trainer. Ready, Multa?",
+  "en": "\\bAh, looks like a challenging Trainer. Ready, Multa?",
+  "it": "\\bAh, sembra un Allenatore impegnativo. Pronto, Multa?"
+ },
+ {
+  "id": "\\bStay with me Multa.",
+  "en": "\\bStay with me Multa.",
+  "it": "\\bResta con me, Multa."
+ },
+ {
+  "id": "\\rWe're careful about pollution here.",
+  "en": "\\rWe're careful about pollution here.",
+  "it": "\\rQui stiamo attenti all'inquinamento."
+ },
+ {
+  "id": "\\rWe've heard Grimer multiplies in toxic sludge.",
+  "en": "\\rWe've heard Grimer multiplies in toxic sludge.",
+  "it": "\\rAbbiamo sentito che i Grimer si moltiplicano nei fanghi tossici."
+ },
+ {
+  "id": "\\bAh. Don't mind me.",
+  "en": "\\bAh. Don't mind me.",
+  "it": "\\bAh. Non badare a me."
+ },
+ {
+  "id": "\\bI'm sorry. I'm just a big fan of the professor.",
+  "en": "\\bI'm sorry. I'm just a big fan of the professor.",
+  "it": "\\bScusa. È che sono un grande fan della professoressa."
+ },
+ {
+  "id": "\\bYou don't have a Vermillion Ticket. I can't let you ride.",
+  "en": "\\bYou don't have a Vermillion Ticket. I can't let you ride.",
+  "it": "\\bNon hai un Biglietto Aranciopoli. Non posso farti salire."
+ },
+ {
+  "id": "\\bWelcome. Where would you like to go?",
+  "en": "\\bWelcome. Where would you like to go?",
+  "it": "\\bBenvenuto. Dove vorresti andare?"
+ },
+ {
+  "id": "\\bDo you have any blue Pokémon?",
+  "en": "\\bDo you have any blue Pokémon?",
+  "it": "\\bHai dei Pokémon blu?"
+ },
+ {
+  "id": "\\bBlue Pokémon are the best.",
+  "en": "\\bBlue Pokémon are the best.",
+  "it": "\\bI Pokémon blu sono i migliori."
+ },
+ {
+  "id": "\\rUm... Hello.",
+  "en": "\\rUm... Hello.",
+  "it": "\\rEhm... Ciao."
+ },
+ {
+  "id": "\\rPlease keep your distance.",
+  "en": "\\rPlease keep your distance.",
+  "it": "\\rPer favore, mantieni le distanze."
+ },
+ {
+  "id": "\\rPrepare to be amazed.",
+  "en": "\\rPrepare to be amazed.",
+  "it": "\\rPreparati a rimanere a bocca aperta."
+ },
+ {
+  "id": "\\rI bet you were burned up from excitement.",
+  "en": "\\rI bet you were burned up from excitement.",
+  "it": "\\rScommetto che ardevi dall'emozione."
+ },
+ {
+  "id": "\\bI'm sorry, but you are not allowed on this ship.",
+  "en": "\\bI'm sorry, but you are not allowed on this ship.",
+  "it": "\\bMi dispiace, ma non ti è permesso salire su questa nave."
+ },
+ {
+  "id": "\\rJessie: Prepare for trouble!",
+  "en": "\\rJessie: Prepare for trouble!",
+  "it": "\\rJessie: Preparatevi a passare guai!"
+ },
+ {
+  "id": "\\bJames: Make it double!",
+  "en": "\\bJames: Make it double!",
+  "it": "\\bJames: Dei guai molto grossi!"
+ },
+ {
+  "id": "\\rJessie: To protect the world from devastation!",
+  "en": "\\rJessie: To protect the world from devastation!",
+  "it": "\\rJessie: Proteggeremo il mondo dalla devastazione!"
+ },
+ {
+  "id": "\\bJames: To unite all people within our nation!",
+  "en": "\\bJames: To unite all people within our nation!",
+  "it": "\\bJames: Uniremo tutti i popoli nella nostra nazione!"
+ },
+ {
+  "id": "\\rJessie: To denounce the evils of truth and love!",
+  "en": "\\rJessie: To denounce the evils of truth and love!",
+  "it": "\\rJessie: Denunceremo i mali della verità e dell'amore!"
+ },
+ {
+  "id": "\\bJames: To extend our reach to the stars above!",
+  "en": "\\bJames: To extend our reach to the stars above!",
+  "it": "\\bJames: Estenderemo il nostro potere fino alle stelle!"
+ },
+ {
+  "id": "\\rJessie: Jessie!",
+  "en": "\\rJessie: Jessie!",
+  "it": "\\rJessie: Jessie!"
+ },
+ {
+  "id": "\\bJames: James!",
+  "en": "\\bJames: James!",
+  "it": "\\bJames: James!"
+ },
+ {
+  "id": "\\rJessie: Team Rocket, blast off at the speed of light!",
+  "en": "\\rJessie: Team Rocket, blast off at the speed of light!",
+  "it": "\\rJessie: Team Rocket, pronti a partire alla velocità della luce!"
+ },
+ {
+  "id": "\\bJames: Surrender now, or prepare to fight!",
+  "en": "\\bJames: Surrender now, or prepare to fight!",
+  "it": "\\bJames: Arrendetevi subito o preparatevi a combattere!"
+ },
+ {
+  "id": "\\bMeowth: Meowth! That's right!",
+  "en": "\\bMeowth: Meowth! That's right!",
+  "it": "\\bMeowth: Meowth! Proprio così!"
+ },
+ {
+  "id": "\\bWobbuffet!",
+  "en": "\\bWobbuffet!",
+  "it": "\\bWobbuffet!"
+ },
+ {
+  "id": "\\bPrepare to be amazed.",
+  "en": "\\bPrepare to be amazed.",
+  "it": "\\bPreparati a rimanere a bocca aperta."
+ },
+ {
+  "id": "\\bI bet you were shocked from excitement.",
+  "en": "\\bI bet you were shocked from excitement.",
+  "it": "\\bScommetto che eri elettrizzato dall'emozione."
+ },
+ {
+  "id": "\\bI'm going to increase my ranking.",
+  "en": "\\bI'm going to increase my ranking.",
+  "it": "\\bAumenterò il mio grado."
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 1,439.",
+  "en": "Rotom Phone: Based on performance, your rank is now 1,439.",
+  "it": "Rotom Phone: In base alle prestazioni, il tuo grado ora è 1.439."
+ },
+ {
+  "id": "\\bCerise: \\PN, how are your battles going? I'm sorry to interrupt, but I need you back at the lab.",
+  "en": "\\bCerise: \\PN, how are your battles going? I'm sorry to interrupt, but I need you back at the lab.",
+  "it": "\\bCerise: \\PN, come vanno le tue lotte? Scusa se ti interrompo, ma ho bisogno che torni al laboratorio."
+ },
+ {
+  "id": "\\bI got unlucky.",
+  "en": "\\bI got unlucky.",
+  "it": "\\bSono stato sfortunato."
+ },
+ {
+  "id": "\\bGoh: Lugia. It reminds me of when we first met.",
+  "en": "\\bGoh: Lugia. It reminds me of when we first met.",
+  "it": "\\bGoh: Lugia. Mi ricorda di quando ci siamo conosciuti."
+ },
+ {
+  "id": "\\bYou've been with me my entire journey. I worry about not having your support, but thinking about everything I've done... I can handle it.",
+  "en": "\\bYou've been with me my entire journey. I worry about not having your support, but thinking about everything I've done... I can handle it.",
+  "it": "\\bSei stato con me per tutto il mio viaggio. Mi preoccupa non avere il tuo sostegno, ma pensando a tutto quello che ho fatto... ce la posso fare."
+ },
+ {
+  "id": "\\bYou also want to go on your own again. Thank you, \\PN, for everything.",
+  "en": "\\bYou also want to go on your own again. Thank you, \\PN, for everything.",
+  "it": "\\bAnche tu vuoi tornare a viaggiare da solo. Grazie, \\PN, di tutto."
+ },
+ {
+  "id": "\\bCome on. Let's go back to the lab one last time.",
+  "en": "\\bCome on. Let's go back to the lab one last time.",
+  "it": "\\bDai. Torniamo al laboratorio un'ultima volta."
+ },
+ {
+  "id": "\\bNice to meet you. I guess you're my next opponent. Don't go easy. Stanium and I don't plan to lose.",
+  "en": "\\bNice to meet you. I guess you're my next opponent.  Don't go easy. Stanium and I don't plan to lose.",
+  "it": "\\bPiacere di conoscerti. A quanto pare sei il mio prossimo avversario.  Non andarci piano. Io e Stanium non abbiamo intenzione di perdere."
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 1,512.",
+  "en": "Rotom Phone: Based on performance, your rank is now 1,512.",
+  "it": "Rotom Phone: In base alle prestazioni, il tuo grado ora è 1.512."
+ },
+ {
+  "id": "Announcment. New opponent found for the World Coronation Series. Hayden, located in Vermilion City, is ready for battle.",
+  "en": "Announcment. New opponent found for the World Coronation Series. Hayden, located in Vermilion City, is ready for battle.",
+  "it": "Annuncio. Nuovo avversario trovato per le World Coronation Series. Hayden, ad Aranciopoli, è pronto a lottare."
+ },
+ {
+  "id": "\\bI promise I won't lose the next one.",
+  "en": "\\bI promise I won't lose the next one.",
+  "it": "\\bTi prometto che la prossima volta non perderò."
+ },
+ {
+  "id": "\\bLt. Surge told me to keep watch for when the ship leaves.",
+  "en": "\\bLt. Surge told me to keep watch for when the ship leaves.",
+  "it": "\\bIl Lt. Surge mi ha detto di stare di guardia finché la nave non salpa."
+ },
+ {
+  "id": "\\bBrock: You're moving fast, \\PN. This is already going to be your third gym.",
+  "en": " \\bBrock: You're moving fast, \\PN. This is already going to be your third gym.",
+  "it": " \\bBrock: Vai proprio veloce, \\PN. Questa sarà già la tua terza Palestra."
+ },
+ {
+  "id": "\\bI've managed to travel a little on my own. Think I can keep up with you?",
+  "en": "\\bI've managed to travel a little on my own. Think I can keep up with you?",
+  "it": "\\bSono riuscito a viaggiare un po' per conto mio. Credi che riuscirò a starti dietro?"
+ },
+ {
+  "id": "\\bBrock: I guess I should continue my journey. Wouldn't want to slow you down next time.",
+  "en": "\\bBrock: I guess I should continue my journey.  Wouldn't want to slow you down next time.",
+  "it": "\\bBrock: Credo che dovrei continuare il mio viaggio.  Non vorrei rallentarti la prossima volta."
+ },
+ {
+  "id": "... ... .........",
+  "en": "... ... .........",
+  "it": "... ... ........."
+ },
+ {
+  "id": "The words has been scratched out.",
+  "en": "The words has been scratched out.",
+  "it": "Le parole sono state cancellate a graffi."
+ },
+ {
+  "id": "Professor Cerise's Lab",
+  "en": "Professor Cerise's Lab",
+  "it": "Laboratorio del Professor Cerise"
+ },
+ {
+  "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Oliver, located in Vermilion City, is ready for battle.",
+  "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Oliver, located in Vermilion City, is ready for battle.",
+  "it": "Rotom Phone: Annuncio. Trovato un nuovo avversario per la World Coronation Series. Oliver, ad Aranciopoli, è pronto a lottare."
+ },
+ {
+  "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Kricketina Kylie, located in Vermilion City, is ready for battle.",
+  "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Kricketina Kylie, located in Vermilion City, is ready for battle.",
+  "it": "Rotom Phone: Annuncio. Trovato un nuovo avversario per la World Coronation Series. Kricketina Kylie, ad Aranciopoli, è pronta a lottare."
+ },
+ {
+  "id": "\\rNurse Joy: Excuse me?",
+  "en": "\\rNurse Joy: Excuse me?",
+  "it": "\\rInfermiera Joy: Scusa?"
+ },
+ {
+  "id": "\\rI'm sorry to bother you, but I'm taking care of an Egg that refuses to hatch. However, it reacted to your presence.",
+  "en": "\\rI'm sorry to bother you, but I'm taking care of an Egg that refuses to hatch. However, it reacted to your presence.",
+  "it": "\\rMi dispiace disturbarti, ma mi sto prendendo cura di un Uovo che non vuole proprio schiudersi. Però ha reagito alla tua presenza."
+ },
+ {
+  "id": "\\rWould you like to take care of it? I feel it could hatch if it was with you.",
+  "en": "\\rWould you like to take care of it? I feel it could hatch if it was with you.",
+  "it": "\\rTi andrebbe di prendertene cura tu? Ho la sensazione che potrebbe schiudersi se stesse con te."
+ },
+ {
+  "id": "Nurse Joy",
+  "en": "Nurse Joy",
+  "it": "Infermiera Joy"
+ },
+ {
+  "id": "\\rTake good care of it!",
+  "en": "\\rTake good care of it!",
+  "it": "\\rAbbine cura!"
+ },
+ {
+  "id": "\\rOh, you can't carry it with you.",
+  "en": "\\rOh, you can't carry it with you.",
+  "it": "\\rOh, non puoi portarlo con te."
+ },
+ {
+  "id": "\\rMake some space in your party and come back.",
+  "en": "\\rMake some space in your party and come back.",
+  "it": "\\rFai un po' di spazio nella tua squadra e poi torna."
+ },
+ {
+  "id": "\\rOh. Will this little one ever hatch?",
+  "en": "\\rOh. Will this little one ever hatch?",
+  "it": "\\rOh. Chissà se questo piccolino si schiuderà mai..."
+ },
+ {
+  "id": "\\rNurse Joy: How is the Egg doing?",
+  "en": "\\rNurse Joy: How is the Egg doing?",
+  "it": "\\rInfermiera Joy: Come sta l'Uovo?"
+ },
+ {
+  "id": "\\bI'm renovating this building. My employer said it will be a research lab when we finish.",
+  "en": "\\bI'm renovating this building. My employer said it will be a research lab when we finish.",
+  "it": "\\bSto ristrutturando questo edificio. Il mio datore di lavoro dice che, quando avremo finito, sarà un laboratorio di ricerca."
+ },
+ {
+  "id": "\\bMy Machop is tamping the land to lay the foundation.",
+  "en": "\\bMy Machop is tamping the land to lay the foundation.",
+  "it": "\\bIl mio Machop sta battendo il terreno per gettare le fondamenta."
+ },
+ {
+  "id": "\\bGoh: Hey. You're back.",
+  "en": "\\bGoh: Hey. You're back. ",
+  "it": "\\bGoh: Ehi. Sei tornato. "
+ },
+ {
+  "id": "\\bI don't know how else to say this... I want to go off on my own.",
+  "en": "\\bI don't know how else to say this... I want to go off on my own.",
+  "it": "\\bNon so come dirlo in un altro modo... Voglio proseguire da solo."
+ },
+ {
+  "id": "\\bI don't want to have to rely on you anymore, and I'm ready to explore the rest of Kanto. Besides, you-",
+  "en": "\\bI don't want to have to rely on you anymore, and I'm ready to explore the rest of Kanto. Besides, you-",
+  "it": "\\bNon voglio più dover dipendere da te, e sono pronto a esplorare il resto di Kanto. E poi, tu-"
+ },
+ {
+  "id": "\\bLugia? \\PN, I think it wants us to battle it.",
+  "en": "\\bLugia? \\PN, I think it wants us to battle it.",
+  "it": "\\bLugia? \\PN, credo che voglia sfidarci a lottare."
+ },
+ {
+  "id": "\\bGoh: I think it wants us to battle it.",
+  "en": "\\bGoh: I think it wants us to battle it.",
+  "it": "\\bGoh: Credo che voglia sfidarci a lottare."
+ },
+ {
+  "id": "\\bHi there. Let's have a fair, fun battle.",
+  "en": "\\bHi there. Let's have a fair, fun battle.",
+  "it": "\\bCiao. Facciamo una lotta leale e divertente."
+ },
+ {
+  "id": "\\bGreat battle!",
+  "en": "\\bGreat battle!",
+  "it": "\\bBella lotta!"
+ },
+ {
+  "id": "\\rMachop",
+  "en": "\\rMachop",
+  "it": "\\rMachop"
+ },
+ {
+  "id": "\\bEnjoy your cruise!",
+  "en": "\\bEnjoy your cruise!",
+  "it": "\\bBuona crociera!"
+ },
+ {
+  "id": "\\bGoh: There's a trading event going on in the Pokémon Center. I'm debating if it's worth trading one of mine away.",
+  "en": "\\bGoh: There's a trading event going on in the Pokémon Center. I'm debating if it's worth trading one of mine away.",
+  "it": "\\bGoh: Al Centro Pokémon c'è un evento di scambi. Sto pensando se valga la pena scambiare uno dei miei."
+ },
+ {
+  "id": "\\bThis is a good move.",
+  "en": "\\bThis is a good move.",
+  "it": "\\bQuesta è una bella mossa."
+ },
+ {
+  "id": "\\bWant to learn Super Fang?",
+  "en": "\\bWant to learn Super Fang?",
+  "it": "\\bVuoi imparare Superzanna?"
+ },
+ {
+  "id": "\\bCome back anytime!",
+  "en": "\\bCome back anytime!",
+  "it": "\\bTorna quando vuoi!"
+ },
+ {
+  "id": "\\bDon't cut in line.",
+  "en": "\\bDon't cut in line.",
+  "it": "\\bNon saltare la fila."
+ },
+ {
+  "id": "\\bFighting fires is a noble cause.",
+  "en": "\\bFighting fires is a noble cause.",
+  "it": "\\bSpegnere gli incendi è una nobile causa."
+ },
+ {
+  "id": "\\bReady for battle?",
+  "en": "\\bReady for battle?",
+  "it": "\\bPronto a lottare?"
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 975.",
+  "en": "Rotom Phone: Based on performance, your rank is now 975.",
+  "it": "Rotom Phone: In base ai risultati, la tua posizione in classifica ora è 975."
+ },
+ {
+  "id": "Announcment. New opponent found for the World Coronation Series. Val, located in Vermilion City, is ready for battle.",
+  "en": "Announcment. New opponent found for the World Coronation Series. Val, located in Vermilion City, is ready for battle.",
+  "it": "Annuncio. Trovato un nuovo avversario per la World Coronation Series. Val, ad Aranciopoli, è pronta a lottare."
+ },
+ {
+  "id": "\\bBetter luck next time.",
+  "en": "\\bBetter luck next time.",
+  "it": "\\bSarà per la prossima volta."
+ },
+ {
+  "id": "\\bWait. I've seen you before.",
+  "en": "\\bWait. I've seen you before.",
+  "it": "\\bAspetta. Ti ho già visto da qualche parte."
+ },
+ {
+  "id": "\\bYeah. I saw you on TV.",
+  "en": "\\bYeah. I saw you on TV.",
+  "it": "\\bSì. Ti ho visto in TV."
+ },
+ {
+  "id": "\\rAmbipom",
+  "en": "\\rAmbipom",
+  "it": "\\rAmbipom"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Cinnabar",
+  "en": "Cinnabar",
+  "it": "Isola Cannella"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Valencia",
+  "en": "Valencia",
+  "it": "Valencia"
+ },
+ {
+  "id": "Olivine",
+  "en": "Olivine",
+  "it": "Olivinopoli"
+ },
+ {
+  "id": "Littleroot",
+  "en": "Littleroot",
+  "it": "Albanova"
+ },
+ {
+  "id": "Sinnoh",
+  "en": "Sinnoh",
+  "it": "Sinnoh"
+ },
+ {
+  "id": "Hoenn Battle Frontier",
+  "en": "Hoenn Battle Frontier",
+  "it": "Parco Lotta di Hoenn"
+ },
+ {
+  "id": "Dragonite Island",
+  "en": "Dragonite Island",
+  "it": "Isola Dragonite"
+ },
+ {
+  "id": "Resort Area",
+  "en": "Resort Area",
+  "it": "Area Svago"
+ },
+ {
+  "id": "Cero Island",
+  "en": "Cero Island",
+  "it": "Isola Cero"
+ }
+]

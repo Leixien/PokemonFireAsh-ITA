@@ -1,0 +1,52 @@
+[
+ {
+  "id": "\\bLeon: It's too strong. I can't stop it.",
+  "en": "\\bLeon: It's too strong. I can't stop it.",
+  "it": "\\bDandel: È troppo forte. Non riesco a fermarlo."
+ },
+ {
+  "id": "\\bGoh: You're here. I've collected the Rusted Sword and Shield and gained the help of the heroes. Let's stop this now.",
+  "en": "\\bGoh: You're here. I've collected the Rusted Sword and Shield and gained the help of the heroes. Let's stop this now.",
+  "it": "\\bGoh: Sei qui. Ho recuperato la Spada Rovinata e lo Scudo Rovinato e ho ottenuto l'aiuto degli eroi. Fermiamo tutto questo, ora."
+ },
+ {
+  "id": "\\PN teamed up with Goh!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Goh!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN fa squadra con Goh!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\bHurry back. I can't do this on my own.",
+  "en": "\\bHurry back. I can't do this on my own.",
+  "it": "\\bTorna presto. Non posso farcela da solo."
+ },
+ {
+  "id": "\\bGoh: We did it! We stopped the Darkest Day.",
+  "en": "\\bGoh: We did it! We stopped the Darkest Day.",
+  "it": "\\bGoh: Ce l'abbiamo fatta! Abbiamo fermato la Giorno più Buio."
+ },
+ {
+  "id": "\\bThat was exhausting. Let's head back home.",
+  "en": "\\bThat was exhausting. Let's head back home.",
+  "it": "\\bChe fatica. Torniamo a casa."
+ },
+ {
+  "id": "Zacian",
+  "en": "Zacian",
+  "it": "Zacian"
+ },
+ {
+  "id": "Zamazenta",
+  "en": "Zamazenta",
+  "it": "Zamazenta"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

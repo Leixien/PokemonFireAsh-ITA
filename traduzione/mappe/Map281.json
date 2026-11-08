@@ -1,0 +1,32 @@
+[
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?",
+  "it": "\\bBenvenuto al Lapras Express. Dove vuoi andare?"
+ },
+ {
+  "id": "Ice",
+  "en": "Ice",
+  "it": "Ghiaccio"
+ },
+ {
+  "id": "Lightning",
+  "en": "Lightning",
+  "it": "Fulmine"
+ },
+ {
+  "id": "Pummelo",
+  "en": "Pummelo",
+  "it": "Pummelo"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Fire",
+  "en": "Fire",
+  "it": "Fuoco"
+ }
+]

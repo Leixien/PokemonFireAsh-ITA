@@ -1,0 +1,57 @@
+[
+ {
+  "id": "The ball holds Eternatus. Would you like to take it?",
+  "en": "The ball holds Eternatus. Would you like to take it?",
+  "it": "La sfera contiene Eternatus. Vuoi prenderla?"
+ },
+ {
+  "id": "\\rMagnolia: Eternatus is the source of all Dynamax energy. I wonder what Galar would be like if it had never settled here.",
+  "en": "\\rMagnolia: Eternatus is the source of all Dynamax energy. I wonder what Galar would be like if it had never settled here.",
+  "it": "\\rMagnolia: Eternatus è la fonte di tutta l'energia Dynamax. Chissà come sarebbe Galar se non si fosse mai stabilito qui."
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Cancel]",
+  "it": "Dove vorresti andare?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unima,Kalos,Alola,Annulla]"
+ },
+ {
+  "id": "\\rMagnolia: Welcome. You must be \\PN, the Alola Champion. Your friend spoke of you when we met during the Darkest Day.",
+  "en": "\\rMagnolia: Welcome. You must be \\PN, the Alola Champion. Your friend spoke of you when we met during the Darkest Day.",
+  "it": "\\rMagnolia: Benvenuto. Tu devi essere \\PN, il Campione di Alola. Il tuo amico mi ha parlato di te quando ci siamo incontrati durante il Giorno più Buio."
+ },
+ {
+  "id": "\\rI have to thank you for putting a stop to that. Eternatus, the controller of Galar particles, threatened the world with its calamity.",
+  "en": "\\rI have to thank you for putting a stop to that.  Eternatus, the controller of Galar particles, threatened the world with its calamity.",
+  "it": "\\rDevo ringraziarti per averlo fermato.  Eternatus, che controlla le particelle di Galar, minacciava il mondo con la sua calamità."
+ },
+ {
+  "id": "\\rThankfully, Leon, Sonia and I have spent a large amount of time to get Eternatus used to humans. I now feel it is safe to be around people.",
+  "en": "\\rThankfully, Leon, Sonia and I have spent a large amount of time to get Eternatus used to humans. I now feel it is safe to be around people.",
+  "it": "\\rPer fortuna, Dandel, Sonia e io abbiamo passato molto tempo ad abituare Eternatus agli esseri umani. Ora credo che sia sicuro stare in sua compagnia."
+ },
+ {
+  "id": "\\rYou're strong enough to keep it in check should anything go wrong. If you want it, it's yours.",
+  "en": "\\rYou're strong enough to keep it in check should anything go wrong. If you want it, it's yours.",
+  "it": "\\rSei abbastanza forte da tenerlo a bada se qualcosa dovesse andare storto. Se lo vuoi, è tuo."
+ },
+ {
+  "id": "Your Pokémon were fully healed.",
+  "en": "Your Pokémon were fully healed.",
+  "it": "I tuoi Pokémon sono stati curati completamente."
+ },
+ {
+  "id": "\\rSonia: The Darkest Day is something I never want to see again. I'm glad we were able to stop it.",
+  "en": "\\rSonia: The Darkest Day is something I never want to see again. I'm glad we were able to stop it.",
+  "it": "\\rSonia: Il Giorno più Buio è qualcosa che non voglio rivedere mai più. Sono contenta che siamo riusciti a fermarlo."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

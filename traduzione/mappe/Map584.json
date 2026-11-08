@@ -1,0 +1,77 @@
+[
+ {
+  "id": "\\rDon't disappoint me.",
+  "en": "\\rDon't disappoint me.",
+  "it": "\\rNon deludermi."
+ },
+ {
+  "id": "\\rBe careful okay?",
+  "en": "\\rBe careful okay?",
+  "it": "\\rStai attento, ok?"
+ },
+ {
+  "id": "\\rMaylene: Hi! Hope you're ready for a super hard challenge, cause I sure am.",
+  "en": "\\rMaylene: Hi! Hope you're ready for a super hard challenge, cause I sure am.",
+  "it": "\\rMaylene: Ciao! Spero che tu sia pronto per una sfida super difficile, perché io lo sono di sicuro."
+ },
+ {
+  "id": "\\rSorry about not accepting challenges earlier. I was in a bit of a funk. I'm gonna do my best to make the wait worth it though.",
+  "en": "\\rSorry about not accepting challenges earlier. I was in a bit of a funk. I'm gonna do my best to make the wait worth it though.",
+  "it": "\\rScusa se prima non accettavo sfide. Ero un po' giù di morale. Però farò del mio meglio perché l'attesa ne valga la pena."
+ },
+ {
+  "id": "\\rMaylene: You've earned the Cobble Badge.",
+  "en": "\\rMaylene: You've earned the Cobble Badge.",
+  "it": "\\rMaylene: Ti sei guadagnato la Medaglia Lastra."
+ },
+ {
+  "id": "\\rHere, have this TM too.",
+  "en": "\\rHere, have this TM too.",
+  "it": "\\rEcco, prendi anche questa MT."
+ },
+ {
+  "id": "\\rTM47 contains Body Press. Its damage scales based on your Pokémon's defense stat.",
+  "en": "\\rTM47 contains Body Press. Its damage scales based on your Pokémon's defense stat.",
+  "it": "\\rLa MT47 contiene Pressacorpo. Il danno dipende dalla Difesa del tuo Pokémon."
+ },
+ {
+  "id": "\\rMaylene: I'm going to keep getting stronger. Just watch me!",
+  "en": "\\rMaylene: I'm going to keep getting stronger. Just watch me!",
+  "it": "\\rMaylene: Continuerò a diventare più forte. Guardami bene!"
+ },
+ {
+  "id": "\\bMaylene uses Fighting type Pokémon. They are weak aganst the Flying, Psychic, and Fairy types.",
+  "en": "\\bMaylene uses Fighting type Pokémon. They are weak aganst the Flying, Psychic, and Fairy types.",
+  "it": "\\bMaylene usa Pokémon di tipo Lotta. Sono deboli contro i tipi Volante, Psico e Folletto."
+ },
+ {
+  "id": "\\bThey are strong against Normal, Ice, Dark, Rock, and Steel. They are resistant to Bug, Dark, and Rock.",
+  "en": "\\bThey are strong against Normal, Ice, Dark, Rock, and Steel. They are resistant to Bug, Dark, and Rock.",
+  "it": "\\bSono superefficaci contro Normale, Ghiaccio, Buio, Roccia e Acciaio. Resistono a Coleottero, Buio e Roccia."
+ },
+ {
+  "id": "\\bA challenge already? Are you prepared?",
+  "en": "\\bA challenge already? Are you prepared?",
+  "it": "\\bGià una sfida? Sei pronto?"
+ },
+ {
+  "id": "\\bI got a bad start.",
+  "en": "\\bI got a bad start.",
+  "it": "\\bHo iniziato male."
+ },
+ {
+  "id": "\\bI guess this could be good.",
+  "en": "\\bI guess this could be good.",
+  "it": "\\bForse potrebbe andare bene."
+ },
+ {
+  "id": "\\bYou're pretty good.",
+  "en": "\\bYou're pretty good.",
+  "it": "\\bSei piuttosto bravo."
+ },
+ {
+  "id": "\\bOh ho! A challenge.",
+  "en": "\\bOh ho! A challenge.",
+  "it": "\\bOh oh! Una sfida."
+ }
+]

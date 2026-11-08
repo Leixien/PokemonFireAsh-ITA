@@ -1,0 +1,967 @@
+[
+ {
+  "id": "\\bCrasher Wake: Hahaha! Let's go!",
+  "en": "\\bCrasher Wake: Hahaha! Let's go!",
+  "it": "\\bOmar: Ahahah! Andiamo!"
+ },
+ {
+  "id": "\\bCrasher Wake: Come back and try again whenever you want.",
+  "en": "\\bCrasher Wake: Come back and try again whenever you want.",
+  "it": "\\bOmar: Torna a riprovarci quando vuoi."
+ },
+ {
+  "id": "\\bChuck: You think you're tough enough?",
+  "en": "\\bChuck: You think you're tough enough?",
+  "it": "\\bFurio: Credi di essere abbastanza tosto?"
+ },
+ {
+  "id": "\\bChuck: To lose to a kid. The next generation is doing great.",
+  "en": "\\bChuck: To lose to a kid. The next generation is doing great.",
+  "it": "\\bFurio: Perdere contro un ragazzino. La nuova generazione se la cava alla grande."
+ },
+ {
+  "id": "\\rMalva: I heard you were at Lumiose City during Team Flare's attack. I myself used to be a member, but not anymore. I'm still strong though.",
+  "en": "\\rMalva: I heard you were at Lumiose City during Team Flare's attack. I myself used to be a member, but not anymore. I'm still strong though.",
+  "it": "\\rMalva: Ho sentito che eri a Luminopoli durante l'attacco del Team Flare. Anch'io ne facevo parte, ma ora non più. Sono comunque ancora forte."
+ },
+ {
+  "id": "\\rMalva: It's no wonder Lysandre lost.",
+  "en": "\\rMalva: It's no wonder Lysandre lost.",
+  "it": "\\rMalva: Non c'è da stupirsi che Elisio abbia perso."
+ },
+ {
+  "id": "\\rOlympia: Have anything new to show me?",
+  "en": "\\rOlympia: Have anything new to show me?",
+  "it": "\\rAstra: Hai qualcosa di nuovo da mostrarmi?"
+ },
+ {
+  "id": "\\rOlympia: There are still some surprises after all.",
+  "en": "\\rOlympia: There are still some surprises after all.",
+  "it": "\\rAstra: Dopotutto ci sono ancora delle sorprese."
+ },
+ {
+  "id": "\\rLucy: Is luck on your side?",
+  "en": "\\rLucy: Is luck on your side?",
+  "it": "\\rLucy: La fortuna è dalla tua parte?"
+ },
+ {
+  "id": "\\rLucy: Maybe next time.",
+  "en": "\\rLucy: Maybe next time.",
+  "it": "\\rLucy: Sarà per la prossima volta."
+ },
+ {
+  "id": "\\rOpal: Oh? Ready for another quiz?",
+  "en": "\\rOpal: Oh? Ready for another quiz?",
+  "it": "\\rPoppy: Oh? Pronto per un altro quiz?"
+ },
+ {
+  "id": "\\rOpal: I've grown tired. Leave.",
+  "en": "\\rOpal: I've grown tired. Leave.",
+  "it": "\\rPoppy: Mi sono stancata. Vattene."
+ },
+ {
+  "id": "\\rDiantha: Why am I not suprised to see you here, \\PN? I suppose I'm ready.",
+  "en": "\\rDiantha: Why am I not suprised to see you here, \\PN? I suppose I'm ready.",
+  "it": "\\rDiantha: Perché non mi sorprende vederti qui, \\PN? Suppongo di essere pronta."
+ },
+ {
+  "id": "\\rDiantha: If I used a full team against you, I'd be unstoppable.",
+  "en": "\\rDiantha: If I used a full team against you, I'd be unstoppable.",
+  "it": "\\rDiantha: Se avessi usato una squadra completa contro di te, sarei stata inarrestabile."
+ },
+ {
+  "id": "\\bRamos: Back for more I see.",
+  "en": "\\bRamos: Back for more I see.",
+  "it": "\\bAmur: Vedo che sei tornato per un'altra lezione."
+ },
+ {
+  "id": "\\bRamos: You did good child.",
+  "en": "\\bRamos: You did good child.",
+  "it": "\\bAmur: Te la sei cavata bene, ragazzo."
+ },
+ {
+  "id": "\\rJasmine: Let's take it nice and easy.",
+  "en": "\\rJasmine: Let's take it nice and easy.",
+  "it": "\\rJasmine: Prendiamocela con calma."
+ },
+ {
+  "id": "\\rJasmine: That battle was fun. I'm so glad we did this.",
+  "en": "\\rJasmine: That battle was fun. I'm so glad we did this.",
+  "it": "\\rJasmine: È stata una lotta divertente. Sono così felice che l'abbiamo fatta."
+ },
+ {
+  "id": "\\rOlivia: Back for more I see.",
+  "en": "\\rOlivia: Back for more I see.",
+  "it": "\\rOlivia: Vedo che sei tornato per un'altra lezione."
+ },
+ {
+  "id": "\\rOlivia: I look forward to the next battle.",
+  "en": "\\rOlivia: I look forward to the next battle.",
+  "it": "\\rOlivia: Non vedo l'ora della prossima lotta."
+ },
+ {
+  "id": "\\rSkyla: My Air Battle has already told me the outcome.",
+  "en": "\\rSkyla: My Air Battle has already told me the outcome.",
+  "it": "\\rAnemone: La mia Lotta Aerea mi ha già detto come andrà a finire."
+ },
+ {
+  "id": "\\rSkyla: I guess I need to battle to figure out the real outcome.",
+  "en": "\\rSkyla: I guess I need to battle to figure out the real outcome.",
+  "it": "\\rAnemone: Credo di dover lottare per scoprire come andrà davvero."
+ },
+ {
+  "id": "\\bCress: I'm about to serve up a mouth savoring meal.",
+  "en": "\\bCress: I'm about to serve up a mouth savoring meal.",
+  "it": "\\bMaisello: Sto per servirti un pasto da leccarsi i baffi."
+ },
+ {
+  "id": "\\bCress: You served up a real beating.",
+  "en": "\\bCress: You served up a real beating.",
+  "it": "\\bMaisello: Mi hai servito una bella batosta."
+ },
+ {
+  "id": "\\bBrawly: Time to ride the waves.",
+  "en": "\\bBrawly: Time to ride the waves.",
+  "it": "\\bRudi: È ora di cavalcare le onde."
+ },
+ {
+  "id": "\\bBrawly: Come visit the island sometime. The waves are great there.",
+  "en": "\\bBrawly: Come visit the island sometime. The waves are great there.",
+  "it": "\\bRudi: Vieni a trovarmi sull'isola, prima o poi. Le onde lì sono fantastiche."
+ },
+ {
+  "id": "\\bSiebold: Let me cook you up something tasteful.",
+  "en": "\\bSiebold: Let me cook you up something tasteful.",
+  "it": "\\bNarciso: Lascia che ti cucini qualcosa di gustoso."
+ },
+ {
+  "id": "\\bSiebold: If I wasn't up to your tastes try one of the other members of the Kalos Elite Four.",
+  "en": "\\bSiebold: If I wasn't up to your tastes try one of the other members of the Kalos Elite Four.",
+  "it": "\\bNarciso: Se non ero di tuo gusto, prova con uno degli altri membri dei Superquattro di Kalos."
+ },
+ {
+  "id": "\\bGiovanni: This time victory will be mine.",
+  "en": "\\bGiovanni: This time victory will be mine.",
+  "it": "\\bGiovanni: Stavolta la vittoria sarà mia."
+ },
+ {
+  "id": "\\bGiovanni: Leave while you can.",
+  "en": "\\bGiovanni: Leave while you can.",
+  "it": "\\bGiovanni: Vattene finché puoi."
+ },
+ {
+  "id": "\\bBrandon: You don't stand a chance.",
+  "en": "\\bBrandon: You don't stand a chance.",
+  "it": "\\bBrandon: Non hai alcuna possibilità."
+ },
+ {
+  "id": "\\bBrandon: Continue to love and support your team.",
+  "en": "\\bBrandon: Continue to love and support your team.",
+  "it": "\\bBrandon: Continua ad amare e sostenere la tua squadra."
+ },
+ {
+  "id": "\\rDrasna: Back for more?",
+  "en": "\\rDrasna: Back for more?",
+  "it": "\\rDrasna: Sei tornato per un'altra lezione?"
+ },
+ {
+  "id": "\\rDrasna: I suppose you won this time.",
+  "en": "\\rDrasna: I suppose you won this time.",
+  "it": "\\rDrasna: Suppongo che stavolta abbia vinto tu."
+ },
+ {
+  "id": "\\bMarlon: Let's ride the waves.",
+  "en": "\\bMarlon: Let's ride the waves.",
+  "it": "\\bCiprian: Cavalchiamo le onde."
+ },
+ {
+  "id": "\\bMarlon: That was a sick battle.",
+  "en": "\\bMarlon: That was a sick battle.",
+  "it": "\\bCiprian: È stata una lotta pazzesca."
+ },
+ {
+  "id": "\\rCissy: I've trained hard. I think I can do this.",
+  "en": "\\rCissy: I've trained hard. I think I can do this.",
+  "it": "\\rCissy: Mi sono allenata duramente. Penso di potercela fare."
+ },
+ {
+  "id": "\\rCissy: I'm going to get tougher.",
+  "en": "\\rCissy: I'm going to get tougher.",
+  "it": "\\rCissy: Diventerò più forte."
+ },
+ {
+  "id": "\\bNanu:... So, you're back?",
+  "en": "\\bNanu:... So, you're back?",
+  "it": "\\bAugusto:... Allora, sei tornato?"
+ },
+ {
+  "id": "\\bNanu: Give me some time to rest.",
+  "en": "\\bNanu: Give me some time to rest.",
+  "it": "\\bAugusto: Dammi un po' di tempo per riposare."
+ },
+ {
+  "id": "\\bBrock: Time for a battle, \\PN.",
+  "en": "\\bBrock: Time for a battle, \\PN.",
+  "it": "\\bBrock: È ora di lottare, \\PN."
+ },
+ {
+  "id": "\\bBrock: Good to see you again, \\PN.",
+  "en": "\\bBrock: Good to see you again, \\PN.",
+  "it": "\\bBrock: Che piacere rivederti, \\PN."
+ },
+ {
+  "id": "\\bWulfric: Think you can handle it?",
+  "en": "\\bWulfric: Think you can handle it?",
+  "it": "\\bEdel: Pensi di farcela?"
+ },
+ {
+  "id": "\\bWulfric: Your power is always at its peak.",
+  "en": "\\bWulfric: Your power is always at its peak.",
+  "it": "\\bEdel: Il tuo potere è sempre al massimo."
+ },
+ {
+  "id": "\\bLance: We meet again. It's time I tested you in battle.",
+  "en": "\\bLance: We meet again. It's time I tested you in battle.",
+  "it": "\\bLance: Ci incontriamo di nuovo. È ora che ti metta alla prova in una lotta."
+ },
+ {
+  "id": "\\bLance: I'm impressed. You're deserving of the Champion title.",
+  "en": "\\bLance: I'm impressed. You're deserving of the Champion title.",
+  "it": "\\bLance: Sono colpito. Meriti il titolo di Campione."
+ },
+ {
+  "id": "\\bWikstrom: It is a pleasure to see you again. Let us fight with chivalry and honor.",
+  "en": "\\bWikstrom: It is a pleasure to see you again. Let us fight with chivalry and honor.",
+  "it": "\\bTimeos: È un piacere rivederti. Combattiamo con cavalleria e onore."
+ },
+ {
+  "id": "\\bWikstrom: I enjoyed our fight. Continue to train yourself.",
+  "en": "\\bWikstrom: I enjoyed our fight. Continue to train yourself.",
+  "it": "\\bTimeos: Mi è piaciuto il nostro duello. Continua ad allenarti."
+ },
+ {
+  "id": "\\bClay: You think you stand a chance?",
+  "en": "\\bClay: You think you stand a chance?",
+  "it": "\\bRafan: Pensi di avere qualche possibilità?"
+ },
+ {
+  "id": "\\bClay: It was all luck and you know it.",
+  "en": "\\bClay: It was all luck and you know it.",
+  "it": "\\bRafan: È stata tutta fortuna e lo sai."
+ },
+ {
+  "id": "\\rAnabel: Does your connection beat mine?",
+  "en": "\\rAnabel: Does your connection beat mine?",
+  "it": "\\rAnabel: Il tuo legame supera il mio?"
+ },
+ {
+  "id": "\\rAnabel: Even my psychic powers were no match.",
+  "en": "\\rAnabel: Even my psychic powers were no match.",
+  "it": "\\rAnabel: Nemmeno i miei poteri psichici sono serviti."
+ },
+ {
+  "id": "\\bLeon: Champion time!",
+  "en": "\\bLeon: Champion time!",
+  "it": "\\bDandel: È l'ora del Campione!"
+ },
+ {
+  "id": "\\bLeon: As strong as ever. The rush you give me is like no other.",
+  "en": "\\bLeon: As strong as ever. The rush you give me is like no other.",
+  "it": "\\bDandel: Forte come sempre. L'adrenalina che mi dai non ha eguali."
+ },
+ {
+  "id": "\\bLt. Surge: So the punk is back.",
+  "en": "\\bLt. Surge: So the punk is back.",
+  "it": "\\bLt. Surge: Così il teppista è tornato."
+ },
+ {
+  "id": "\\bLt. Surge: So you beat me again. It won't happen again.",
+  "en": "\\bLt. Surge: So you beat me again. It won't happen again.",
+  "it": "\\bLt. Surge: Quindi mi hai battuto di nuovo. Non succederà più."
+ },
+ {
+  "id": "\\rMaylene: Full power!",
+  "en": "\\rMaylene: Full power!",
+  "it": "\\rMarzia: Massima potenza!"
+ },
+ {
+  "id": "\\rMaylene: I just need to work harder.",
+  "en": "\\rMaylene: I just need to work harder.",
+  "it": "\\rMarzia: Devo solo impegnarmi di più."
+ },
+ {
+  "id": "\\rRoxie: Let's turn it up to eleven.",
+  "en": "\\rRoxie: Let's turn it up to eleven.",
+  "it": "\\rVelia: Alziamo il volume al massimo."
+ },
+ {
+  "id": "\\rRoxie: That battle spoke to my soul.",
+  "en": "\\rRoxie: That battle spoke to my soul.",
+  "it": "\\rVelia: Questa lotta mi ha parlato all'anima."
+ },
+ {
+  "id": "\\bDanny: Good to see you again.",
+  "en": "\\bDanny: Good to see you again.",
+  "it": "\\bDanny: Che piacere rivederti."
+ },
+ {
+  "id": "\\bDanny: Don't worry about it. I'll get better.",
+  "en": "\\bDanny: Don't worry about it. I'll get better.",
+  "it": "\\bDanny: Non preoccuparti. Migliorerò."
+ },
+ {
+  "id": "\\rHapu: Maybe this time I can give you a good fight.",
+  "en": "\\rHapu: Maybe this time I can give you a good fight.",
+  "it": "\\rHapu: Forse stavolta riuscirò a darti del filo da torcere."
+ },
+ {
+  "id": "\\rHapu: Come back soon.",
+  "en": "\\rHapu: Come back soon.",
+  "it": "\\rHapu: Torna presto."
+ },
+ {
+  "id": "\\bRoark: Let's bring the power.",
+  "en": "\\bRoark: Let's bring the power.",
+  "it": "\\bPedro: Tiriamo fuori tutta la potenza."
+ },
+ {
+  "id": "\\bRoark: That battle was intense. Can't wait for next time.",
+  "en": "\\bRoark: That battle was intense. Can't wait for next time.",
+  "it": "\\bPedro: Che lotta intensa. Non vedo l'ora della prossima volta."
+ },
+ {
+  "id": "\\bBrycen: Let's set the stage.",
+  "en": "\\bBrycen: Let's set the stage.",
+  "it": "\\bSilvestro: Prepariamo la scena."
+ },
+ {
+  "id": "\\bBrycen: This is very different from the stage.",
+  "en": "\\bBrycen: This is very different from the stage.",
+  "it": "\\bSilvestro: È molto diverso dal palcoscenico."
+ },
+ {
+  "id": "\\bAlder:... Oh, is it time to fight?",
+  "en": "\\bAlder:... Oh, is it time to fight?",
+  "it": "\\bNardo:... Oh, è ora di lottare?"
+ },
+ {
+  "id": "\\bAlder:...",
+  "en": "\\bAlder:...",
+  "it": "\\bNardo:..."
+ },
+ {
+  "id": "\\bBlaine: Back for more are you?",
+  "en": "\\bBlaine: Back for more are you?",
+  "it": "\\bBlaine: Sei tornato per un'altra lezione, eh?"
+ },
+ {
+  "id": "\\bBlaine: Not even the best tricks can get me out of that one.",
+  "en": "\\bBlaine: Not even the best tricks can get me out of that one.",
+  "it": "\\bBlaine: Nemmeno i trucchi migliori possono tirarmi fuori da questa."
+ },
+ {
+  "id": "\\bSpenser: Let us begin.",
+  "en": "\\bSpenser: Let us begin.",
+  "it": "\\bSpenser: Cominciamo."
+ },
+ {
+  "id": "\\bSpenser: Don't get frustrated. Let your partners guide you.",
+  "en": "\\bSpenser: Don't get frustrated. Let your partners guide you.",
+  "it": "\\bSpenser: Non scoraggiarti. Lascia che i tuoi compagni ti guidino."
+ },
+ {
+  "id": "\\bWattson: Wahahaha. About time we do this.",
+  "en": "\\bWattson: Wahahaha. About time we do this.",
+  "it": "\\bWalter: Uahahah. Era ora che lo facessimo."
+ },
+ {
+  "id": "\\bWattson: Wahaha. I just can't win.",
+  "en": "\\bWattson: Wahaha. I just can't win.",
+  "it": "\\bWalter: Uahah. Proprio non riesco a vincere."
+ },
+ {
+  "id": "\\rWhitney: Don't make me get serious.",
+  "en": "\\rWhitney: Don't make me get serious.",
+  "it": "\\rChiara: Non costringermi a fare sul serio."
+ },
+ {
+  "id": "\\rWhitney: Don't think that this is over.",
+  "en": "\\rWhitney: Don't think that this is over.",
+  "it": "\\rChiara: Non pensare che sia finita qui."
+ },
+ {
+  "id": "\\bSteven: Well \\PN, let's test each other out.",
+  "en": "\\bSteven: Well \\PN, let's test each other out.",
+  "it": "\\bRocco: Bene, \\PN, mettiamoci alla prova a vicenda."
+ },
+ {
+  "id": "\\bSteven: Please return soon.",
+  "en": "\\bSteven: Please return soon.",
+  "it": "\\bRocco: Torna presto, per favore."
+ },
+ {
+  "id": "It's your spot. Don't you feel proud?",
+  "en": "It's your spot. Don't you feel proud?",
+  "it": "È il tuo posto. Non ti senti orgoglioso?"
+ },
+ {
+  "id": "\\rRoxanne: See if you can teach me anything.",
+  "en": "\\rRoxanne: See if you can teach me anything.",
+  "it": "\\rPetra: Vediamo se riesci a insegnarmi qualcosa."
+ },
+ {
+  "id": "\\rRoxanne: Stop by and visit the school anytime you can.",
+  "en": "\\rRoxanne: Stop by and visit the school anytime you can.",
+  "it": "\\rPetra: Passa a visitare la scuola ogni volta che puoi."
+ },
+ {
+  "id": "\\rCandice: What are we waiting for? Let's get started!",
+  "en": "\\rCandice: What are we waiting for? Let's get started!",
+  "it": "\\rBianca: Cosa stiamo aspettando? Cominciamo!"
+ },
+ {
+  "id": "\\rCandice: I guess I battled a little too seriously.",
+  "en": "\\rCandice: I guess I battled a little too seriously.",
+  "it": "\\rBianca: Forse ho lottato in modo un po' troppo serio."
+ },
+ {
+  "id": "\\bDrake: I'm ready whenever you are. I'll represent the entire Hoenn Elite Four in their absence.",
+  "en": "\\bDrake: I'm ready whenever you are. I'll represent the entire Hoenn Elite Four in their absence.",
+  "it": "\\bDrake: Sono pronto quando vuoi. Rappresenterò l'intero gruppo dei Superquattro di Hoenn in loro assenza."
+ },
+ {
+  "id": "\\bDrake: Don't think my age has slowed me down.",
+  "en": "\\bDrake: Don't think my age has slowed me down.",
+  "it": "\\bDrake: Non pensare che l'età mi abbia rallentato."
+ },
+ {
+  "id": "\\bKoga: Strike swiftly.",
+  "en": "\\bKoga: Strike swiftly.",
+  "it": "\\bKoga: Colpisci rapido."
+ },
+ {
+  "id": "\\bKoga: Victory goes to the swift.",
+  "en": "\\bKoga: Victory goes to the swift.",
+  "it": "\\bKoga: La vittoria va ai più rapidi."
+ },
+ {
+  "id": "\\bDrake: Let's see what two champions can do.",
+  "en": "\\bDrake: Let's see what two champions can do.",
+  "it": "\\bDrake: Vediamo cosa sanno fare due campioni."
+ },
+ {
+  "id": "\\bDanny: It's always good to find a good challenger.",
+  "en": "\\bDanny: It's always good to find a good challenger.",
+  "it": "\\bDanny: Fa sempre piacere trovare uno sfidante valido."
+ },
+ {
+  "id": "\\bChili: I'm gonna serve up a scorching meal.",
+  "en": "\\bChili: I'm gonna serve up a scorching meal.",
+  "it": "\\bChicco: Sto per servirti un piatto rovente."
+ },
+ {
+  "id": "\\bChili: You served up a real beating.",
+  "en": "\\bChili: You served up a real beating.",
+  "it": "\\bChicco: Mi hai servito una bella batosta."
+ },
+ {
+  "id": "\\rNurse Joy: You should take a break.",
+  "en": "\\rNurse Joy: You should take a break.",
+  "it": "\\rInfermiera Joy: Dovresti prenderti una pausa."
+ },
+ {
+  "id": "\\rOh, good! You and your Pokémon are looking great. Take care now!",
+  "en": "\\rOh, good! You and your Pokémon are looking great.  Take care now!",
+  "it": "\\rOh, bene! Tu e i tuoi Pokémon avete un ottimo aspetto. Abbi cura di te!"
+ },
+ {
+  "id": "\\bVolkner: Good to see you again. Let's make this exciting.",
+  "en": "\\bVolkner: Good to see you again. Let's make this exciting. ",
+  "it": "\\bCorrado: Che bello rivederti. Rendiamola emozionante. "
+ },
+ {
+  "id": "\\bVolkner: That was a rush. Come back any time.",
+  "en": "\\bVolkner: That was a rush. Come back any time.",
+  "it": "\\bCorrado: Che scarica di adrenalina. Torna quando vuoi."
+ },
+ {
+  "id": "\\bNorman: Welcome. I hope you're ready.",
+  "en": "\\bNorman: Welcome. I hope you're ready.",
+  "it": "\\bNorman: Benvenuto. Spero tu sia pronto."
+ },
+ {
+  "id": "\\bNorman: You did a great job.",
+  "en": "\\bNorman: You did a great job.",
+  "it": "\\bNorman: Hai fatto un ottimo lavoro."
+ },
+ {
+  "id": "\\bWallace: I may love contests, but I can battle just as well as anyone else.",
+  "en": "\\bWallace: I may love contests, but I can battle just as well as anyone else.",
+  "it": "\\bAdriano: Amerò anche le gare, ma so lottare bene quanto chiunque altro."
+ },
+ {
+  "id": "\\bWallace: We should do a performance together.",
+  "en": "\\bWallace: We should do a performance together.",
+  "it": "\\bAdriano: Dovremmo fare un'esibizione insieme."
+ },
+ {
+  "id": "\\bGrant: Time to climb to the top.",
+  "en": "\\bGrant: Time to climb to the top.",
+  "it": "\\bLino: È ora di scalare fino in cima."
+ },
+ {
+  "id": "\\bGrant: You've climbed high up in this world.",
+  "en": "\\bGrant: You've climbed high up in this world.",
+  "it": "\\bLino: Sei salito davvero in alto in questo mondo."
+ },
+ {
+  "id": "\\bPryce: Don't hold back now.",
+  "en": "\\bPryce: Don't hold back now.",
+  "it": "\\bAlfredo: Non trattenerti proprio adesso."
+ },
+ {
+  "id": "\\bPryce: It's rare to find a Trainer as good as you.",
+  "en": "\\bPryce: It's rare to find a Trainer as good as you.",
+  "it": "\\bAlfredo: È raro trovare un Allenatore bravo come te."
+ },
+ {
+  "id": "\\rBertha: I figured I'd see you again.",
+  "en": "\\rBertha: I figured I'd see you again.",
+  "it": "\\rTerrie: Me lo sentivo che ti avrei rivisto."
+ },
+ {
+  "id": "\\rBertha: You won't catch me off guard next time.",
+  "en": "\\rBertha: You won't catch me off guard next time.",
+  "it": "\\rTerrie: La prossima volta non mi coglierai impreparata."
+ },
+ {
+  "id": "\\bDrayden: You hold a lot of potential. Let me see if I can help you grow.",
+  "en": "\\bDrayden: You hold a lot of potential. Let me see if I can help you grow.",
+  "it": "\\bAristide: Hai molto potenziale. Vediamo se posso aiutarti a crescere."
+ },
+ {
+  "id": "\\bDrayden: You've gotten better.",
+  "en": "\\bDrayden: You've gotten better.",
+  "it": "\\bAristide: Sei migliorato."
+ },
+ {
+  "id": "\\bRudy: Don't think I'm holding back.",
+  "en": "\\bRudy: Don't think I'm holding back.",
+  "it": "\\bRudy: Non pensare che mi tratterrò."
+ },
+ {
+  "id": "\\bRudy: Come back when you're even better.",
+  "en": "\\bRudy: Come back when you're even better.",
+  "it": "\\bRudy: Torna quando sarai ancora più forte."
+ },
+ {
+  "id": "\\rIris: Hi \\PN! Back to battle a Champion?",
+  "en": "\\rIris: Hi \\PN! Back to battle a Champion?",
+  "it": "\\rIris: Ciao \\PN! Sei tornato a sfidare una Campionessa?"
+ },
+ {
+  "id": "\\rIris: I think we're both improving. Try to bring more Dragon types next time.",
+  "en": "\\rIris: I think we're both improving. Try to bring more Dragon types next time.",
+  "it": "\\rIris: Credo che stiamo migliorando tutti e due. La prossima volta prova a portare più tipi Drago."
+ },
+ {
+  "id": "\\rElesa: Let's make this beautiful.",
+  "en": "\\rElesa: Let's make this beautiful.",
+  "it": "\\rCamelia: Rendiamola uno spettacolo meraviglioso."
+ },
+ {
+  "id": "\\rElesa: Come back any time to show me a stunning battle.",
+  "en": "\\rElesa: Come back any time to show me a stunning battle.",
+  "it": "\\rCamelia: Torna quando vuoi a mostrarmi una lotta sfolgorante."
+ },
+ {
+  "id": "\\rLenora: I guess I can give it a try.",
+  "en": "\\rLenora: I guess I can give it a try.",
+  "it": "\\rAloe: Beh, posso fare un tentativo."
+ },
+ {
+  "id": "\\rLenora: Impressive. Keep training like that and become a champion one day.",
+  "en": "\\rLenora: Impressive. Keep training like that and become a champion one day.",
+  "it": "\\rAloe: Notevole. Continua ad allenarti così e un giorno diventerai campione."
+ },
+ {
+  "id": "\\rCynthia: At long last I get to try you on myself. Are you ready \\PN?",
+  "en": "\\rCynthia: At long last I get to try you on myself. Are you ready \\PN?",
+  "it": "\\rCamilla: Finalmente posso metterti alla prova di persona. Sei pronto, \\PN?"
+ },
+ {
+  "id": "\\rCynthia: Keep traveling and discovering new things. It will help you out in the long run.",
+  "en": "\\rCynthia: Keep traveling and discovering new things.  It will help you out in the long run.",
+  "it": "\\rCamilla: Continua a viaggiare e a scoprire cose nuove.  Alla lunga ti sarà d'aiuto."
+ },
+ {
+  "id": "\\rFlannery: I'm ready... I mean I'm going to... Whatever. Let's just fight.",
+  "en": "\\rFlannery: I'm ready... I mean I'm going to... Whatever.  Let's just fight.",
+  "it": "\\rFiammetta: Sono pronta... cioè, sto per... Lasciamo perdere.  Lottiamo e basta."
+ },
+ {
+  "id": "\\rFlannery: I just need some more practice.",
+  "en": "\\rFlannery: I just need some more practice.",
+  "it": "\\rFiammetta: Mi serve solo un po' più di pratica."
+ },
+ {
+  "id": "\\rBea: Trainer of Pikachu. I've trained hard for this rematch.",
+  "en": "\\rBea: Trainer of Pikachu. I've trained hard for this rematch.",
+  "it": "\\rFabia: Allenatore di Pikachu. Mi sono allenata duramente per questa rivincita."
+ },
+ {
+  "id": "\\rBea: I will continue to train.",
+  "en": "\\rBea: I will continue to train.",
+  "it": "\\rFabia: Continuerò ad allenarmi."
+ },
+ {
+  "id": "\\rClair: Welcome. Think you are still strong enough to beat me?",
+  "en": "\\rClair: Welcome. Think you are still strong enough to beat me?",
+  "it": "\\rSandra: Benvenuto. Pensi di essere ancora abbastanza forte da battermi?"
+ },
+ {
+  "id": "\\rClair: It's amazing how you keep getting stronger and stronger.",
+  "en": "\\rClair: It's amazing how you keep getting stronger and stronger.",
+  "it": "\\rSandra: È incredibile come tu diventi sempre più forte."
+ },
+ {
+  "id": "\\bBugsy: I've done some research. I think I've got this one.",
+  "en": "\\bBugsy: I've done some research. I think I've got this one.",
+  "it": "\\bRaffaello: Ho fatto qualche ricerca. Stavolta credo di avercela in pugno."
+ },
+ {
+  "id": "\\bBugsy: It's okay. I'll just study harder.",
+  "en": "\\bBugsy: It's okay. I'll just study harder.",
+  "it": "\\bRaffaello: Non fa niente. Studierò di più."
+ },
+ {
+  "id": "\\bFlint: I'm ready for a good time.",
+  "en": "\\bFlint: I'm ready for a good time.",
+  "it": "\\bVulcano: Sono pronto a divertirmi."
+ },
+ {
+  "id": "\\bFlint: I wish we could battle with more options. You give me a real challenge.",
+  "en": "\\bFlint: I wish we could battle with more options. You give me a real challenge.",
+  "it": "\\bVulcano: Vorrei che potessimo lottare con più opzioni. Sei davvero una bella sfida."
+ },
+ {
+  "id": "\\rLuana: Have you improved?",
+  "en": "\\rLuana: Have you improved?",
+  "it": "\\rLuana: Sei migliorato?"
+ },
+ {
+  "id": "\\rLuana: There are still some surprises after all.",
+  "en": "\\rLuana: There are still some surprises after all.",
+  "it": "\\rLuana: Dopotutto, qualche sorpresa c'è ancora."
+ },
+ {
+  "id": "\\bClemont: I'm ready, \\PN.",
+  "en": "\\bClemont: I'm ready, \\PN.",
+  "it": "\\bLem: Sono pronto, \\PN."
+ },
+ {
+  "id": "\\bClemont: You did great, \\PN. I'll do even better next time.",
+  "en": "\\bClemont: You did great, \\PN. I'll do even better next time.",
+  "it": "\\bLem: Sei stato bravissimo, \\PN. La prossima volta farò ancora meglio."
+ },
+ {
+  "id": "\\bCheren: Now that I'm ready let me show you my true power.",
+  "en": "\\bCheren: Now that I'm ready let me show you my true power.",
+  "it": "\\bCheren: Ora che sono pronto, lascia che ti mostri il mio vero potere."
+ },
+ {
+  "id": "\\bCheren: There's nothing I can teach you.",
+  "en": "\\bCheren: There's nothing I can teach you.",
+  "it": "\\bCheren: Non c'è niente che io possa insegnarti."
+ },
+ {
+  "id": "\\bAllister: R-Ready.",
+  "en": "\\bAllister: R-Ready.",
+  "it": "\\bOnion: P-Pronto."
+ },
+ {
+  "id": "\\bAllister: U-Until next time.",
+  "en": "\\bAllister: U-Until next time.",
+  "it": "\\bOnion: A-Alla prossima."
+ },
+ {
+  "id": "\\rViola: I'll take a picture after I win.",
+  "en": "\\rViola: I'll take a picture after I win.",
+  "it": "\\rVioletta: Scatterò una foto dopo aver vinto."
+ },
+ {
+  "id": "\\rViola: Let me take a picture to celebrate your victory.",
+  "en": "\\rViola: Let me take a picture to celebrate your victory.",
+  "it": "\\rVioletta: Lascia che scatti una foto per festeggiare la tua vittoria."
+ },
+ {
+  "id": "\\rValerie: Victory to the elegant.",
+  "en": "\\rValerie: Victory to the elegant.",
+  "it": "\\rValérie: La vittoria va a chi ha eleganza."
+ },
+ {
+  "id": "\\rValerie: That battle was very elegant. I congratulate you.",
+  "en": "\\rValerie: That battle was very elegant. I congratulate you.",
+  "it": "\\rValérie: Quella lotta è stata molto elegante. Mi congratulo con te."
+ },
+ {
+  "id": "\\rSabrina: I knew you would come.",
+  "en": "\\rSabrina: I knew you would come.",
+  "it": "\\rSabrina: Sapevo che saresti venuto."
+ },
+ {
+  "id": "\\rSabrina: I wonder what I should do now?",
+  "en": "\\rSabrina: I wonder what I should do now?",
+  "it": "\\rSabrina: Chissà cosa dovrei fare adesso?"
+ },
+ {
+  "id": "\\bNoland: You'll never know what to expect with me.",
+  "en": "\\bNoland: You'll never know what to expect with me.",
+  "it": "\\bNoland: Con me non saprai mai cosa aspettarti."
+ },
+ {
+  "id": "\\bNoland: It's okay. I'll just study harder.",
+  "en": "\\bNoland: It's okay. I'll just study harder.",
+  "it": "\\bNoland: Non fa niente. Studierò di più."
+ },
+ {
+  "id": "\\bAaron: The power of my team will destroy you.",
+  "en": "\\bAaron: The power of my team will destroy you.",
+  "it": "\\bAaron: La potenza della mia squadra ti distruggerà."
+ },
+ {
+  "id": "\\bAaron: Rematch anytime.",
+  "en": "\\bAaron: Rematch anytime.",
+  "it": "\\bAaron: Rivincita quando vuoi."
+ },
+ {
+  "id": "\\rErika: Time for another battle.",
+  "en": "\\rErika: Time for another battle.",
+  "it": "\\rErika: È l'ora di un'altra lotta."
+ },
+ {
+  "id": "\\rErika: That was pretty good.",
+  "en": "\\rErika: That was pretty good.",
+  "it": "\\rErika: Niente male davvero."
+ },
+ {
+  "id": "\\rLorelei: I think you deserve a second chance. Prepare to be frozen in fear.",
+  "en": "\\rLorelei: I think you deserve a second chance.  Prepare to be frozen in fear.",
+  "it": "\\rLorelei: Credo che tu meriti una seconda possibilità.  Preparati a raggelare dalla paura."
+ },
+ {
+  "id": "\\rLorelei: I look forward to your next challenge.",
+  "en": "\\rLorelei: I look forward to your next challenge.",
+  "it": "\\rLorelei: Attendo con ansia la tua prossima sfida."
+ },
+ {
+  "id": "\\bMorty: Show me the power you possess.",
+  "en": "\\bMorty: Show me the power you possess.",
+  "it": "\\bAngelo: Mostrami il potere che possiedi."
+ },
+ {
+  "id": "\\bMorty: What do I need to do to win?",
+  "en": "\\bMorty: What do I need to do to win?",
+  "it": "\\bAngelo: Cosa devo fare per vincere?"
+ },
+ {
+  "id": "\\bRaihan: I'll crush you.",
+  "en": "\\bRaihan: I'll crush you.",
+  "it": "\\bRaihan: Ti stritolerò."
+ },
+ {
+  "id": "\\bRaihan: Not good enough for Leon yet.",
+  "en": "\\bRaihan: Not good enough for Leon yet.",
+  "it": "\\bRaihan: Non sono ancora abbastanza forte per Dandel."
+ },
+ {
+  "id": "\\bBurgh: Time for a magnificent show.",
+  "en": "\\bBurgh: Time for a magnificent show.",
+  "it": "\\bArtemisio: È l'ora di uno spettacolo magnifico."
+ },
+ {
+  "id": "\\bBurgh: That battle was amazing. I look forward to the next one.",
+  "en": "\\bBurgh: That battle was amazing. I look forward to the next one.",
+  "it": "\\bArtemisio: Che lotta stupenda. Non vedo l'ora della prossima."
+ },
+ {
+  "id": "\\rMisty: I'm not going easy on you.",
+  "en": "\\rMisty: I'm not going easy on you.",
+  "it": "\\rMisty: Non ci andrò leggera con te."
+ },
+ {
+  "id": "\\rMisty: How do I keep losing to you, \\PN?",
+  "en": "\\rMisty: How do I keep losing to you, \\PN?",
+  "it": "\\rMisty: Come faccio a perdere sempre contro di te, \\PN?"
+ },
+ {
+  "id": "\\rGreta: Let's give it a fighting chance!",
+  "en": "\\rGreta: Let's give it a fighting chance!",
+  "it": "\\rGreta: Diamoci dentro e giochiamoci le nostre carte!"
+ },
+ {
+  "id": "\\rGreta: We went out with a bang.",
+  "en": "\\rGreta: We went out with a bang.",
+  "it": "\\rGreta: Siamo usciti di scena col botto."
+ },
+ {
+  "id": "\\bTate: Do you think... \\rLiza: You can beat us?",
+  "en": "\\bTate: Do you think... \\rLiza: You can beat us?",
+  "it": "\\bTell: Pensi davvero... \\rPat: Di poterci battere?"
+ },
+ {
+  "id": "\\bTate: I can't believe... \\rLiza: You beat us.",
+  "en": "\\bTate: I can't believe... \\rLiza: You beat us.",
+  "it": "\\bTell: Non posso credere... \\rPat: Che tu ci abbia battuti."
+ },
+ {
+  "id": "\\bLucian: It's very nice to meet you. Shall we get started?",
+  "en": "\\bLucian: It's very nice to meet you. Shall we get started?",
+  "it": "\\bLuciano: È un vero piacere conoscerti. Vogliamo cominciare?"
+ },
+ {
+  "id": "\\bLucian: Not every Elite Four member shows up for this. At the very least we have all of the Sinnoh members here.",
+  "en": "\\bLucian: Not every Elite Four member shows up for this. At the very least we have all of the Sinnoh members here.",
+  "it": "\\bLuciano: Non tutti i membri dei Superquattro si presentano qui. Se non altro, ci sono tutti quelli di Sinnoh."
+ },
+ {
+  "id": "\\rFantina: Bonjour. Let us begin.",
+  "en": "\\rFantina: Bonjour. Let us begin.",
+  "it": "\\rFannie: Bonjour. Cominciamo pure."
+ },
+ {
+  "id": "\\rFantina: Amazing! Just amazing!",
+  "en": "\\rFantina: Amazing! Just amazing!",
+  "it": "\\rFannie: Fantastico! Semplicemente fantastico!"
+ },
+ {
+  "id": "\\rGardenia: I hope you're prepared.",
+  "en": "\\rGardenia: I hope you're prepared.",
+  "it": "\\rGardenia: Spero che tu sia preparato."
+ },
+ {
+  "id": "\\rGardenia: What did you think of the Cacnea I use? I'm training it for someone.",
+  "en": "\\rGardenia: What did you think of the Cacnea I use?  I'm training it for someone.",
+  "it": "\\rGardenia: Che ne pensi del Cacnea che uso?  Lo sto allenando per una persona."
+ },
+ {
+  "id": "\\bFalkner: Time to soar.",
+  "en": "\\bFalkner: Time to soar.",
+  "it": "\\bValerio: È ora di spiccare il volo."
+ },
+ {
+  "id": "\\bFalkner: You continue to impress me.",
+  "en": "\\bFalkner: You continue to impress me.",
+  "it": "\\bValerio: Continui a stupirmi."
+ },
+ {
+  "id": "\\rAgatha: Good to see you again child. I won't go easy on you.",
+  "en": "\\rAgatha: Good to see you again child. I won't go easy on you.",
+  "it": "\\rAgatha: Che piacere rivederti, ragazzino. Non ci andrò piano con te."
+ },
+ {
+  "id": "\\rAgatha: You did well. Challenge someone else, all of the Kanto Elite Four is here.",
+  "en": "\\rAgatha: You did well. Challenge someone else, all of the Kanto Elite Four is here.",
+  "it": "\\rAgatha: Te la sei cavata bene. Sfida qualcun altro, ci sono tutti i Superquattro di Kanto."
+ },
+ {
+  "id": "\\bPiers: A battle? I suppose.",
+  "en": "\\bPiers: A battle? I suppose.",
+  "it": "\\bGinepro: Una lotta? Se proprio dobbiamo."
+ },
+ {
+  "id": "\\bPiers: You did well.",
+  "en": "\\bPiers: You did well.",
+  "it": "\\bGinepro: Te la sei cavata bene."
+ },
+ {
+  "id": "\\rKorrina: I'm gonna wipe the floor with you.",
+  "en": "\\rKorrina: I'm gonna wipe the floor with you.",
+  "it": "\\rOrnella: Ti farò mangiare la polvere."
+ },
+ {
+  "id": "\\rKorrina: Lucario and I will win next time.",
+  "en": "\\rKorrina: Lucario and I will win next time.",
+  "it": "\\rOrnella: La prossima volta io e Lucario vinceremo."
+ },
+ {
+  "id": "\\bJuan: Prepare, for it is time to face me!",
+  "en": "\\bJuan: Prepare, for it is time to face me!",
+  "it": "\\bRodolfo: Preparati, perché è giunto il momento di affrontarmi!"
+ },
+ {
+  "id": "\\bJuan: A spectacular battle!",
+  "en": "\\bJuan: A spectacular battle!",
+  "it": "\\bRodolfo: Una lotta spettacolare!"
+ },
+ {
+  "id": "\\bTucker: We may not have a crowd but we will still put on a show.",
+  "en": "\\bTucker: We may not have a crowd but we will still put on a show.",
+  "it": "\\bTucker: Non avremo un pubblico, ma daremo comunque spettacolo."
+ },
+ {
+  "id": "\\bTucker: Until next time.",
+  "en": "\\bTucker: Until next time.",
+  "it": "\\bTucker: Alla prossima."
+ },
+ {
+  "id": "\\rCaitlin: I don't believe we have met. My name is Caitlin, a member of the Unova Elite Four. Are you ready?",
+  "en": "\\rCaitlin: I don't believe we have met. My name is Caitlin, a member of the Unova Elite Four. Are you ready?",
+  "it": "\\rCatlina: Non credo che ci siamo già conosciuti. Mi chiamo Catlina e faccio parte dei Superquattro di Unima. Sei pronto?"
+ },
+ {
+  "id": "\\rCaitlin: That looked well rehearsed.",
+  "en": "\\rCaitlin: That looked well rehearsed.",
+  "it": "\\rCatlina: Sembrava una lotta ben provata."
+ },
+ {
+  "id": "\\bHala: Time for another test.",
+  "en": "\\bHala: Time for another test.",
+  "it": "\\bHala: È ora di un'altra prova."
+ },
+ {
+  "id": "\\bHala: Come back anytime.",
+  "en": "\\bHala: Come back anytime.",
+  "it": "\\bHala: Torna quando vuoi."
+ },
+ {
+  "id": "\\bByron: Think you can beat my defense?",
+  "en": "\\bByron: Think you can beat my defense?",
+  "it": "\\bFerruccio: Pensi di poter superare la mia difesa?"
+ },
+ {
+  "id": "\\bByron: You might be good enough to beat my son.",
+  "en": "\\bByron: You might be good enough to beat my son.",
+  "it": "\\bFerruccio: Forse sei abbastanza forte da battere mio figlio."
+ },
+ {
+  "id": "\\bCilan: \\PN, allow me to serve you a variety of spices for today's course.",
+  "en": "\\bCilan: \\PN, allow me to serve you a variety of spices for today's course.",
+  "it": "\\bSpighetto: \\PN, permettimi di servirti un assortimento di spezie per la portata di oggi."
+ },
+ {
+  "id": "\\bCilan: You served up a real beating, \\PN.",
+  "en": "\\bCilan: You served up a real beating, \\PN.",
+  "it": "\\bSpighetto: Mi hai servito una bella batosta, \\PN."
+ },
+ {
+  "id": "\\rWinona: Are you ready?",
+  "en": "\\rWinona: Are you ready?",
+  "it": "\\rAlice: Sei pronto?"
+ },
+ {
+  "id": "\\rWinona: Excellent job. You show mastery of the air.",
+  "en": "\\rWinona: Excellent job. You show mastery of the air.",
+  "it": "\\rAlice: Ottimo lavoro. Dimostri una vera padronanza del cielo."
+ },
+ {
+  "id": "\\bBruno: I've been waiting for your arrival.",
+  "en": "\\bBruno: I've been waiting for your arrival.",
+  "it": "\\bBruno: Stavo aspettando il tuo arrivo."
+ },
+ {
+  "id": "\\bBruno: Come back after I've trained more.",
+  "en": "\\bBruno: Come back after I've trained more.",
+  "it": "\\bBruno: Torna quando mi sarò allenato di più."
+ }
+]

@@ -1,0 +1,227 @@
+[
+ {
+  "id": "Check results for which challenge?",
+  "en": "Check results for which challenge?",
+  "it": "Di quale sfida vuoi vedere i risultati?"
+ },
+ {
+  "id": "\\PN's Battle Tower Level 50 Single Battle results:",
+  "en": "\\PN's Battle Tower Level 50 Single Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta Singola Livello 50:"
+ },
+ {
+  "id": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "en": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "it": "Ultima serie di vittorie: \\v[1]\\nRecord di vittorie: \\v[2]"
+ },
+ {
+  "id": "\\PN's Battle Tower Open Level Single Battle results:",
+  "en": "\\PN's Battle Tower Open Level Single Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta Singola Livello Libero:"
+ },
+ {
+  "id": "\\PN's Battle Tower Level 50 Double Battle results:",
+  "en": "\\PN's Battle Tower Level 50 Double Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta in Doppio Livello 50:"
+ },
+ {
+  "id": "\\PN's Battle Tower Open Level Double Battle results:",
+  "en": "\\PN's Battle Tower Open Level Double Battle results:",
+  "it": "Risultati Torre Lotta di \\PN, Lotta in Doppio Livello Libero:"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "There is no battle recorded.",
+  "en": "There is no battle recorded.",
+  "it": "Non è stata registrata nessuna lotta."
+ },
+ {
+  "id": "\\rWelcome to the Battle Tower.",
+  "en": "\\rWelcome to the Battle Tower.",
+  "it": "\\rBenvenuto alla Torre Lotta."
+ },
+ {
+  "id": "\\rWould you like to participate in a single battle?",
+  "en": "\\rWould you like to participate in a single battle?",
+  "it": "\\rVuoi partecipare a una lotta singola?"
+ },
+ {
+  "id": "\\rDo you want to take the Level 50 challenge, or the Open Level challenge?",
+  "en": "\\rDo you want to take the Level 50 challenge, or the Open Level challenge?",
+  "it": "\\rVuoi affrontare la sfida Livello 50 o la sfida Livello Libero?"
+ },
+ {
+  "id": "\\rSorry, you can't participate. You need three different Pokémon to enter.",
+  "en": "\\rSorry, you can't participate.  You need three different Pokémon to enter.",
+  "it": "\\rMi spiace, non puoi partecipare.  Per iscriverti servono tre Pokémon diversi."
+ },
+ {
+  "id": "\\rThey must be of a different species and hold different items.",
+  "en": "\\rThey must be of a different species and hold different items.",
+  "it": "\\rDevono essere di specie diverse e tenere strumenti diversi."
+ },
+ {
+  "id": "\\rCertain exotic species, as well as eggs, are ineligible.",
+  "en": "\\rCertain exotic species, as well as eggs, are ineligible.",
+  "it": "\\rAlcune specie esotiche, così come le uova, non sono ammesse."
+ },
+ {
+  "id": "\\rPlease choose the three Pokémon that will enter.",
+  "en": "\\rPlease choose the three Pokémon that will enter.",
+  "it": "\\rScegli i tre Pokémon che parteciperanno."
+ },
+ {
+  "id": "\\rPlease come this way.",
+  "en": "\\rPlease come this way.",
+  "it": "\\rDa questa parte, prego."
+ },
+ {
+  "id": "\\rCome back another time.",
+  "en": "\\rCome back another time.",
+  "it": "\\rTorna un'altra volta."
+ },
+ {
+  "id": "\\rCongratulations for winning.",
+  "en": "\\rCongratulations for winning.",
+  "it": "\\rCongratulazioni per la vittoria."
+ },
+ {
+  "id": "\\rPlease take this prize.",
+  "en": "\\rPlease take this prize.",
+  "it": "\\rTi prego, accetta questo premio."
+ },
+ {
+  "id": "\\rYou have no room for it. At least you won, though.",
+  "en": "\\rYou have no room for it.  At least you won, though.",
+  "it": "\\rNon hai spazio per tenerlo.  Almeno hai vinto, però."
+ },
+ {
+  "id": "\\rWould you like to record your last battle?",
+  "en": "\\rWould you like to record your last battle?",
+  "it": "\\rVuoi registrare la tua ultima lotta?"
+ },
+ {
+  "id": "\\se[expfull]The battle was recorded.",
+  "en": "\\se[expfull]The battle was recorded.",
+  "it": "\\se[expfull]La lotta è stata registrata."
+ },
+ {
+  "id": "Your results will be recorded.\\wtnp[15]",
+  "en": "Your results will be recorded.\\wtnp[15]",
+  "it": "I tuoi risultati verranno registrati.\\wtnp[15]"
+ },
+ {
+  "id": "\\rThanks for playing.",
+  "en": "\\rThanks for playing.",
+  "it": "\\rGrazie per aver partecipato."
+ },
+ {
+  "id": "\\rWe've been waiting for you. Please come this way.",
+  "en": "\\rWe've been waiting for you.  Please come this way.",
+  "it": "\\rTi stavamo aspettando.  Da questa parte, prego."
+ },
+ {
+  "id": "\\rExcuse me, but you didn't save before finishing your challenge last time.",
+  "en": "\\rExcuse me, but you didn't save before finishing your challenge last time.",
+  "it": "\\rScusa, ma l'ultima volta non hai salvato prima di terminare la sfida."
+ },
+ {
+  "id": "\\rSorry, but your challenge has been canceled.",
+  "en": "\\rSorry, but your challenge has been canceled.",
+  "it": "\\rMi spiace, ma la tua sfida è stata annullata."
+ },
+ {
+  "id": "\\rWould you like to participate in a double battle?",
+  "en": "\\rWould you like to participate in a double battle?",
+  "it": "\\rVuoi partecipare a una lotta in doppio?"
+ },
+ {
+  "id": "Level 50",
+  "en": "Level 50",
+  "it": "Livello 50"
+ },
+ {
+  "id": "Open Level",
+  "en": "Open Level",
+  "it": "Livello Libero"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

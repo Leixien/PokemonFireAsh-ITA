@@ -1,0 +1,127 @@
+[
+ {
+  "id": "\\bWhere did I put that book?",
+  "en": "\\bWhere did I put that book?",
+  "it": "\\bDove ho messo quel libro?"
+ },
+ {
+  "id": "This ball holds a Piplup. Would you like to take it?",
+  "en": "This ball holds a Piplup. Would you like to take it?",
+  "it": "Questa Ball contiene un Piplup. Vuoi prenderlo?"
+ },
+ {
+  "id": "\\bRowan: Nice to meet you. So I'm guessing the Trainer that was in the way was Dawn. She's a new Trainer so she may cause some trouble.",
+  "en": "\\bRowan: Nice to meet you. So I'm guessing the Trainer that was in the way was Dawn. She's a new Trainer so she may cause some trouble.",
+  "it": "\\bRowan: Piacere di conoscerti. Immagino che l'Allenatrice che ti bloccava la strada fosse Lucinda. È alle prime armi, quindi potrebbe combinare qualche guaio."
+ },
+ {
+  "id": "\\bYou came from Kanto, if I recall. Professor Oak informed me that you would be coming.",
+  "en": "\\bYou came from Kanto, if I recall. Professor Oak informed me that you would be coming. ",
+  "it": "\\bVieni da Kanto, se ricordo bene. Il Professor Oak mi aveva avvisato del tuo arrivo. "
+ },
+ {
+  "id": "\\bOn the table beside me I have a Piplup for you. It's nothing special, so don't feel any pressure to take it.",
+  "en": "\\bOn the table beside me I have a Piplup for you. It's nothing special, so don't feel any pressure to take it.",
+  "it": "\\bSul tavolo accanto a me c'è un Piplup per te. Non ha niente di speciale, quindi non sentirti obbligato a prenderlo."
+ },
+ {
+  "id": "\\bRowan: I have a Piplup here for you.",
+  "en": "\\bRowan: I have a Piplup here for you.",
+  "it": "\\bRowan: Ho qui un Piplup per te."
+ },
+ {
+  "id": "\\bAlso feel free to heal your Pokémon at my machine.",
+  "en": "\\bAlso feel free to heal your Pokémon at my machine.",
+  "it": "\\bInoltre, sentiti libero di curare i tuoi Pokémon con la mia macchina."
+ },
+ {
+  "id": "\\bRowan: Pokémon are turning back into Eggs. Gates have also been opening across the region. I believe those lead to other worlds.",
+  "en": "\\bRowan: Pokémon are turning back into Eggs. Gates have also been opening across the region. I believe those lead to other worlds.",
+  "it": "\\bRowan: I Pokémon stanno tornando a essere Uova. Inoltre si stanno aprendo dei varchi in tutta la regione. Credo che conducano ad altri mondi."
+ },
+ {
+  "id": "\\bDialga and Palkia are likely behind this. The bigger question is why.",
+  "en": "\\bDialga and Palkia are likely behind this. The bigger question is why.",
+  "it": "\\bProbabilmente dietro a tutto questo ci sono Dialga e Palkia. La vera domanda è perché."
+ },
+ {
+  "id": "\\bRowan: If you wish I have a Piplup here for you. Nothing special about it though.",
+  "en": "\\bRowan: If you wish I have a Piplup here for you.  Nothing special about it though.",
+  "it": "\\bRowan: Se vuoi, ho qui un Piplup per te. Anche se non ha niente di speciale."
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unova,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unova,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unima,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unova,Kalos,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unova,Kalos,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unima,Kalos,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unova,Kalos,Alola,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unova,Kalos,Alola,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unima,Kalos,Alola,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unova,Kalos,Alola,Galar,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unova,Kalos,Alola,Galar,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Unima,Kalos,Alola,Galar,Annulla]"
+ },
+ {
+  "id": "\\bPaul: Thank you for healing my Pokémon, Professor. I'll be on my way then.",
+  "en": "\\bPaul: Thank you for healing my Pokémon, Professor. I'll be on my way then.",
+  "it": "\\bPaul: Grazie per aver curato i miei Pokémon, Professore. Allora me ne vado."
+ },
+ {
+  "id": "\\bWhat is it? A Trainer is blocking your path and you were hoping the Professor could help you?",
+  "en": "\\bWhat is it? A Trainer is blocking your path and you were hoping the Professor could help you?",
+  "it": "\\bChe c'è? Un Allenatore ti blocca la strada e speravi che il Professore potesse aiutarti?"
+ },
+ {
+  "id": "\\bPathetic. Just push them aside and move on.",
+  "en": "\\bPathetic. Just push them aside and move on.",
+  "it": "\\bPatetico. Spingilo di lato e vai avanti."
+ },
+ {
+  "id": "\\bOh do my words upset you? Why don't we have a battle then? Beating someone like you may just make my day.",
+  "en": "\\bOh do my words upset you? Why don't we have a battle then? Beating someone like you may just make my day.",
+  "it": "\\bOh, le mie parole ti offendono? Allora perché non lottiamo? Battere uno come te potrebbe anche migliorarmi la giornata."
+ },
+ {
+  "id": "\\bPaul: You weren't as good as I hoped. Step aside.",
+  "en": "\\bPaul: You weren't as good as I hoped. Step aside.",
+  "it": "\\bPaul: Non eri bravo quanto speravo. Fatti da parte."
+ },
+ {
+  "id": "Your Pokémon were fully healed.",
+  "en": "Your Pokémon were fully healed.",
+  "it": "I tuoi Pokémon sono stati curati completamente."
+ },
+ {
+  "id": "\\bProfessor Rowan does more than just give out Pokémon.",
+  "en": "\\bProfessor Rowan does more than just give out Pokémon.",
+  "it": "\\bIl Professor Rowan non si limita a distribuire Pokémon."
+ },
+ {
+  "id": "\\bHe figures out how and why Pokémon evolve.",
+  "en": "\\bHe figures out how and why Pokémon evolve.",
+  "it": "\\bStudia come e perché i Pokémon si evolvono."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

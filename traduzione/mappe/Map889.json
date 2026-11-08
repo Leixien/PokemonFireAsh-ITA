@@ -1,0 +1,412 @@
+[
+ {
+  "id": "\\bIt's a shame the bridge is broken.",
+  "en": "\\bIt's a shame the bridge is broken.",
+  "it": "\\bPeccato che il ponte sia rotto."
+ },
+ {
+  "id": "\\bLooks like they fixed the bridge.",
+  "en": "\\bLooks like they fixed the bridge.",
+  "it": "\\bSembra che abbiano riparato il ponte."
+ },
+ {
+  "id": "\\rCan't stop me now, can ya?",
+  "en": "\\rCan't stop me now, can ya?",
+  "it": "\\rOra non puoi fermarmi, eh?"
+ },
+ {
+  "id": "\\rThis won't happen again, yo.",
+  "en": "\\rThis won't happen again, yo.",
+  "it": "\\rNon succederà più, yo."
+ },
+ {
+  "id": "\\bThis is the best place to hang out. The rest of the island is too busy to relax.",
+  "en": "\\bThis is the best place to hang out. The rest of the island is too busy to relax.",
+  "it": "\\bQuesto è il posto migliore per rilassarsi. Il resto dell'isola è troppo affollato per stare tranquilli."
+ },
+ {
+  "id": "\\rRapp: Yo, what do you think you're doing?",
+  "en": "\\rRapp: Yo, what do you think you're doing?",
+  "it": "\\rRapp: Yo, che cavolo credi di fare?"
+ },
+ {
+  "id": "\\rAlola! Welcome to our school.",
+  "en": "\\rAlola! Welcome to our school.",
+  "it": "\\rAlola! Benvenuto nella nostra scuola."
+ },
+ {
+  "id": "\\bCharizard",
+  "en": "\\bCharizard",
+  "it": "\\bCharizard"
+ },
+ {
+  "id": "Litten ignored you.",
+  "en": "Litten ignored you.",
+  "it": "Litten ti ha ignorato."
+ },
+ {
+  "id": "\\bTupp: Yo, I'm going to make this punk pay for the way he made me feel back when we were kids. Get ready.",
+  "en": "\\bTupp: Yo, I'm going to make this punk pay for the way he made me feel back when we were kids. Get ready.",
+  "it": "\\bTupp: Yo, farò pagare a questo pivello come mi ha fatto sentire quando eravamo piccoli. Preparati."
+ },
+ {
+  "id": "\\bWait, you're going to butt in. Not cool.",
+  "en": "\\bWait, you're going to butt in. Not cool.",
+  "it": "\\bAspetta, vuoi metterti in mezzo? Non è figo."
+ },
+ {
+  "id": "\\bTupp: No way. Yo, this isn't cool. Let's get out of here.",
+  "en": "\\bTupp: No way. Yo, this isn't cool. Let's get out of here.",
+  "it": "\\bTupp: Non ci credo. Yo, così non è figo. Filiamo via di qui."
+ },
+ {
+  "id": "\\bIlima: Thanks for your help. I didn't really need it, but it's nice to see an act of kindness. Let me repay you.",
+  "en": "\\bIlima: Thanks for your help. I didn't really need it, but it's nice to see an act of kindness. Let me repay you.",
+  "it": "\\bIlima: Grazie per l'aiuto. Non ne avevo davvero bisogno, ma è bello vedere un gesto gentile. Lascia che ti ricompensi."
+ },
+ {
+  "id": "\\bThis is one of the best schools in the world. I'm so glad I get to go here.",
+  "en": "\\bThis is one of the best schools in the world. I'm so glad I get to go here.",
+  "it": "\\bQuesta è una delle migliori scuole del mondo. Sono felicissimo di frequentarla."
+ },
+ {
+  "id": "\\rYo, don't bother us right now.",
+  "en": "\\rYo, don't bother us right now.",
+  "it": "\\rYo, non scocciarci adesso."
+ },
+ {
+  "id": "Professor Kukui's Lab",
+  "en": "Professor Kukui's Lab",
+  "it": "Laboratorio del Professor Kukui"
+ },
+ {
+  "id": "\\rSweet!",
+  "en": "\\rSweet!",
+  "it": "\\rForte!"
+ },
+ {
+  "id": "\\bI fished this up. Feel free to take it.",
+  "en": "\\bI fished this up. Feel free to take it.",
+  "it": "\\bL'ho pescato io. Prendilo pure."
+ },
+ {
+  "id": "\\bCome back some other time. I might have something new.",
+  "en": "\\bCome back some other time. I might have something new.",
+  "it": "\\bTorna un'altra volta. Potrei avere qualcosa di nuovo."
+ },
+ {
+  "id": "\\bZipp: Yo yo yo.",
+  "en": "\\bZipp: Yo yo yo.",
+  "it": "\\bZipp: Yo yo yo."
+ },
+ {
+  "id": "The door is locked.",
+  "en": "The door is locked.",
+  "it": "La porta è chiusa a chiave."
+ },
+ {
+  "id": "\\bProfessor Kukui focuses on Pokémon attacks.",
+  "en": "\\bProfessor Kukui focuses on Pokémon attacks.",
+  "it": "\\bIl Professor Kukui studia le mosse dei Pokémon."
+ },
+ {
+  "id": "\\bYo, don't bother us right now.",
+  "en": "\\bYo, don't bother us right now.",
+  "it": "\\bYo, non scocciarci adesso."
+ },
+ {
+  "id": "\\bNot cool.",
+  "en": "\\bNot cool.",
+  "it": "\\bNon è figo."
+ },
+ {
+  "id": "Alolan Blimp Service",
+  "en": "Alolan Blimp Service",
+  "it": "Servizio Dirigibili di Alola"
+ },
+ {
+  "id": "\\rMom: This has been a great vacation. The town was just lovely. Ready to head home, dear?",
+  "en": "\\rMom: This has been a great vacation. The town was just lovely. Ready to head home, dear?",
+  "it": "\\rMamma: È stata una vacanza magnifica. La città era semplicemente deliziosa. Pronto a tornare a casa, tesoro?"
+ },
+ {
+  "id": "\\rYou want to study here? Why, that's a wonderful idea. I guess we can head home without you.",
+  "en": "\\rYou want to study here? Why, that's a wonderful idea. I guess we can head home without you.",
+  "it": "\\rVuoi studiare qui? Ma è un'idea splendida. Allora credo che torneremo a casa senza di te."
+ },
+ {
+  "id": "\\rMom: I guess we can head home without you.",
+  "en": "\\rMom: I guess we can head home without you.",
+  "it": "\\rMamma: Allora credo che torneremo a casa senza di te."
+ },
+ {
+  "id": "\\bKukui: Don't worry about him \\PN. I'll take care of it.",
+  "en": "\\bKukui: Don't worry about him \\PN. I'll take care of it.",
+  "it": "\\bKukui: Non preoccuparti per lui, \\PN. Me ne occupo io."
+ },
+ {
+  "id": "Pokémon School",
+  "en": "Pokémon School",
+  "it": "Scuola Pokémon"
+ },
+ {
+  "id": "\\bThe All-Out Brothers will win!",
+  "en": "\\bThe All-Out Brothers will win!",
+  "it": "\\bI Fratelli Senza Freni vinceranno!"
+ },
+ {
+  "id": "\\bThe Alola Champion is awesome!",
+  "en": "\\bThe Alola Champion is awesome!",
+  "it": "\\bIl Campione di Alola è fantastico!"
+ },
+ {
+  "id": "\\bThe forest is scary. Only students are allowed in here.",
+  "en": "\\bThe forest is scary. Only students are allowed in here.",
+  "it": "\\bLa foresta fa paura. Qui possono entrare solo gli studenti."
+ },
+ {
+  "id": "\\bIlima: Thanks for your help. I didn't really need it, but it's nice to see an act of kindness. I'm a graduate of this school. I came back to speak with Kukui.",
+  "en": "\\bIlima: Thanks for your help. I didn't really need it, but it's nice to see an act of kindness. I'm a graduate of this school. I came back to speak with Kukui.",
+  "it": "\\bIlima: Grazie per l'aiuto. Non ne avevo davvero bisogno, ma è bello vedere un gesto gentile. Mi sono diplomato in questa scuola. Sono tornato per parlare con Kukui."
+ },
+ {
+  "id": "\\bHe informs me an Alola League is being set up. Having tried the Kalos League, I'm looking forward to it.",
+  "en": "\\bHe informs me an Alola League is being set up.  Having tried the Kalos League, I'm looking forward to it.",
+  "it": "\\bMi ha detto che stanno organizzando una Lega di Alola.  Avendo già provato la Lega di Kalos, non vedo l'ora."
+ },
+ {
+  "id": "Rotom Dex: That didn't take too long. Time to go home.",
+  "en": "Rotom Dex: That didn't take too long. Time to go home.",
+  "it": "Rotom Dex: Non ci è voluto molto. Ora di tornare a casa."
+ },
+ {
+  "id": "\\rMom: Oh \\PN, doesn't this place look amazing? I'm going to go explore. Don't forget to drop off that egg.",
+  "en": "\\rMom: Oh \\PN, doesn't this place look amazing? I'm going to go explore. Don't forget to drop off that egg.",
+  "it": "\\rMamma: Oh \\PN, questo posto non è stupendo? Vado a esplorare. Non dimenticare di consegnare quell'uovo."
+ },
+ {
+  "id": "\\bKukui: So, you've come to battle me because I decided to start the Alola Pokémon League.",
+  "en": "\\bKukui: So, you've come to battle me because I decided to start the Alola Pokémon League.",
+  "it": "\\bKukui: Quindi sei venuto a sfidarmi perché ho deciso di fondare la Lega Pokémon di Alola."
+ },
+ {
+  "id": "\\bGuzma: You think too small. I've come to destroy you. You think replacing old customs will be a good idea?",
+  "en": "\\bGuzma: You think too small. I've come to destroy you. You think replacing old customs will be a good idea?",
+  "it": "\\bGuzman: Pensi troppo in piccolo. Sono venuto a distruggerti. Credi davvero che sostituire le vecchie usanze sia una buona idea?"
+ },
+ {
+  "id": "\\bBut a League? That's a waste of time. Everybody already knows who the strongest Trainer is.",
+  "en": "\\bBut a League? That's a waste of time. Everybody already knows who the strongest Trainer is.",
+  "it": "\\bMa una Lega? È una perdita di tempo. Tutti sanno già chi è l'Allenatore più forte."
+ },
+ {
+  "id": "\\bKukui: If you think that join the league and prove it in battle.",
+  "en": "\\bKukui: If you think that join the league and prove it in battle.",
+  "it": "\\bKukui: Se ne sei convinto, iscriviti alla Lega e dimostralo in battaglia."
+ },
+ {
+  "id": "\\bGuzma: Like I'd fall for that trick. I'll beat you right here, and if you still make the league, I'll destroy that too.",
+  "en": "\\bGuzma: Like I'd fall for that trick. I'll beat you right here, and if you still make the league, I'll destroy that too.",
+  "it": "\\bGuzman: Come se ci cascassi. Ti batterò qui e subito, e se riuscirai comunque a creare la Lega, distruggerò anche quella."
+ },
+ {
+  "id": "\\bWhat's the matter kid? Think I'm being too hard on him? Fine, I'll take you down first. I could use a warm up.",
+  "en": "\\bWhat's the matter kid? Think I'm being too hard on him? Fine, I'll take you down first. I could use a warm up.",
+  "it": "\\bChe c'è, ragazzino? Pensi che ci vada giù troppo pesante con lui? E va bene, comincerò da te. Un riscaldamento mi farà comodo."
+ },
+ {
+  "id": "\\bGuzma: You call that a challenge? If this is the best one of your students can do then the whole league is going to be a joke. I'll just crush you there.",
+  "en": "\\bGuzma: You call that a challenge? If this is the best one of your students can do then the whole league is going to be a joke. I'll just crush you there.",
+  "it": "\\bGuzman: E questa la chiami una sfida? Se questo è il meglio che sa fare uno dei tuoi studenti, la Lega sarà una barzelletta. Vi stritolerò tutti lì."
+ },
+ {
+  "id": "\\rLana: I'm going to fish up the biggest Pokémon. Just wait and see.",
+  "en": "\\rLana: I'm going to fish up the biggest Pokémon. Just wait and see.",
+  "it": "\\rSuiren: Pescherò il Pokémon più grosso di tutti. Aspetta e vedrai."
+ },
+ {
+  "id": "\\rLana: Hi \\PN. You just missed my new friend, Dewpider. I didn't catch it though.",
+  "en": "\\rLana: Hi \\PN. You just missed my new friend, Dewpider. I didn't catch it though.",
+  "it": "\\rSuiren: Ciao \\PN. Hai appena perso il mio nuovo amico, Dewpider. Però non l'ho catturato."
+ },
+ {
+  "id": "Rotom Dex: Mallow will be in her dad's shop in Hau'oli City.",
+  "en": "Rotom Dex: Mallow will be in her dad's shop in Hau'oli City.",
+  "it": "Rotom Dex: Ibis sarà nel negozio di suo padre a Hau'oli."
+ },
+ {
+  "id": "\\rLana: Let's battle again soon. I know you like it.",
+  "en": "\\rLana: Let's battle again soon. I know you like it.",
+  "it": "\\rSuiren: Lottiamo di nuovo presto. So che ti piace."
+ },
+ {
+  "id": "\\bSophocles: Don't bother me right now. I'm working on something important.",
+  "en": "\\bSophocles: Don't bother me right now. I'm working on something important.",
+  "it": "\\bChrys: Non disturbarmi adesso. Sto lavorando a una cosa importante."
+ },
+ {
+  "id": "\\rYou're the new student? The school isn't this way.",
+  "en": "\\rYou're the new student? The school isn't this way.",
+  "it": "\\rSei il nuovo studente? La scuola non è da questa parte."
+ },
+ {
+  "id": "\\bKukui: You didn't have to step in there; I could have handled him. Keep your eyes open. I doubt that's the last we'll see of Guzma.",
+  "en": "\\bKukui: You didn't have to step in there; I could have handled him. Keep your eyes open. I doubt that's the last we'll see of Guzma.",
+  "it": "\\bKukui: Non c'era bisogno che intervenissi, me la sarei cavata da solo. Tieni gli occhi aperti. Dubito che abbiamo visto Guzman per l'ultima volta."
+ },
+ {
+  "id": "\\bFor now, why don't you head home?",
+  "en": "\\bFor now, why don't you head home?",
+  "it": "\\bPer ora, perché non torni a casa?"
+ },
+ {
+  "id": "\\rPopplio",
+  "en": "\\rPopplio",
+  "it": "\\rPopplio"
+ },
+ {
+  "id": "\\rPikipek",
+  "en": "\\rPikipek",
+  "it": "\\rPikipek"
+ },
+ {
+  "id": "\\rTrumbeak",
+  "en": "\\rTrumbeak",
+  "it": "\\rTrumbeak"
+ },
+ {
+  "id": "\\rToucannon",
+  "en": "\\rToucannon",
+  "it": "\\rToucannon"
+ },
+ {
+  "id": "Zeraora seems to want to come with you. Will you take it?",
+  "en": "Zeraora seems to want to come with you. Will you take it?",
+  "it": "Sembra che Zeraora voglia venire con te. Lo porti con te?"
+ },
+ {
+  "id": "\\bMr. Mime",
+  "en": "\\bMr. Mime",
+  "it": "\\bMr. Mime"
+ },
+ {
+  "id": "\\rTogedemaru",
+  "en": "\\rTogedemaru",
+  "it": "\\rTogedemaru"
+ },
+ {
+  "id": "\\bTurtonator",
+  "en": "\\bTurtonator",
+  "it": "\\bTurtonator"
+ },
+ {
+  "id": "Rotom Dex: Let's head home.",
+  "en": "Rotom Dex: Let's head home.",
+  "it": "Rotom Dex: Torniamo a casa."
+ },
+ {
+  "id": "Rotom Dex: ...I just received a message from the professor. He said to head to the school for a surprise.",
+  "en": "Rotom Dex: ...I just received a message from the professor. He said to head to the school for a surprise.",
+  "it": "Rotom Dex: ...Ho appena ricevuto un messaggio dal professore. Dice di andare a scuola per una sorpresa."
+ },
+ {
+  "id": "Rotom Dex: ...Wait, did you here that in the school? Head back inside.",
+  "en": "Rotom Dex: ...Wait, did you here that in the school?  Head back inside.",
+  "it": "Rotom Dex: ...Aspetta, hai sentito quel rumore nella scuola?  Torna dentro."
+ },
+ {
+  "id": "Rotom Dex: I just received word of another Ultra Beast being spotted. Let's head to Route 3.",
+  "en": "Rotom Dex: I just received word of another Ultra Beast being spotted. Let's head to Route 3.",
+  "it": "Rotom Dex: Mi è appena arrivata la notizia di un'altra Ultracreatura avvistata. Andiamo al Percorso 3."
+ },
+ {
+  "id": "\\bI love living so close to the beach. Nice to come home and unwind.",
+  "en": "\\bI love living so close to the beach. Nice to come home and unwind.",
+  "it": "\\bAdoro vivere così vicino alla spiaggia. È bello tornare a casa e rilassarsi."
+ },
+ {
+  "id": "\\bTupp: Yo, what's this? You think you're better than us? I say instead you give us your Pokémon.",
+  "en": "\\bTupp: Yo, what's this? You think you're better than us? I say instead you give us your Pokémon.",
+  "it": "\\bTupp: Yo, che roba è questa? Ti credi meglio di noi? Io dico che invece ci dai i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYo yo.",
+  "en": "\\rYo yo.",
+  "it": "\\rYo yo."
+ },
+ {
+  "id": "\\rThat isn't fair.",
+  "en": "\\rThat isn't fair.",
+  "it": "\\rNon è giusto."
+ },
+ {
+  "id": "\\bKiawe: Let's try that again Turtonator.",
+  "en": "\\bKiawe: Let's try that again Turtonator.",
+  "it": "\\bKiawe: Riproviamoci, Turtonator."
+ },
+ {
+  "id": "\\bKiawe: Lillie wanted to talk with you. I'll be ready afterwards.",
+  "en": "\\bKiawe: Lillie wanted to talk with you. I'll be ready afterwards.",
+  "it": "\\bKiawe: Lylia voleva parlarti. Io sarò pronto dopo."
+ },
+ {
+  "id": "\\bKiawe: I'm going to take you to my home on Akala Island. I know you've wanted to explore the other islands.",
+  "en": "\\bKiawe: I'm going to take you to my home on Akala Island. I know you've wanted to explore the other islands.",
+  "it": "\\bKiawe: Ti porterò a casa mia sull'Isola di Akala. So che volevi esplorare le altre isole."
+ },
+ {
+  "id": "\\bTalk to Charizard when you're ready to go.",
+  "en": "\\bTalk to Charizard when you're ready to go.",
+  "it": "\\bParla con Charizard quando sei pronto a partire."
+ },
+ {
+  "id": "\\rI wish they would get rid of that grass already. Makes it so hard to get home.",
+  "en": "\\rI wish they would get rid of that grass already.  Makes it so hard to get home.",
+  "it": "\\rVorrei che tagliassero quell'erba una buona volta.  Rende così difficile tornare a casa."
+ },
+ {
+  "id": "Akala Island",
+  "en": "Akala Island",
+  "it": "Isola di Akala"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Paniola Ranch",
+  "en": "Paniola Ranch",
+  "it": "Ranch Paniola"
+ },
+ {
+  "id": "Paniola",
+  "en": "Paniola",
+  "it": "Paniola"
+ },
+ {
+  "id": "Wela Volcano",
+  "en": "Wela Volcano",
+  "it": "Vulcano Wela"
+ },
+ {
+  "id": "Ten Carat",
+  "en": "Ten Carat",
+  "it": "Diecicarati"
+ },
+ {
+  "id": "Hau'oli City",
+  "en": "Hau'oli City",
+  "it": "Hau'oli"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

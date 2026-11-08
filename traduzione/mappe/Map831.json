@@ -1,0 +1,77 @@
+[
+ {
+  "id": "\\bIt's my turn.",
+  "en": "\\bIt's my turn.",
+  "it": "\\bTocca a me."
+ },
+ {
+  "id": "\\bRamos is waiting for you.",
+  "en": "\\bRamos is waiting for you.",
+  "it": "\\bRamos ti sta aspettando."
+ },
+ {
+  "id": "\\rI've got you now.",
+  "en": "\\rI've got you now.",
+  "it": "\\rAdesso ti ho preso."
+ },
+ {
+  "id": "\\rI can never stop a trainer from getting to Ramos.",
+  "en": "\\rI can never stop a trainer from getting to Ramos.",
+  "it": "\\rNon riesco mai a impedire a un Allenatore di arrivare da Ramos."
+ },
+ {
+  "id": "\\bRamos: Welcome to my gym. I hope you enjoyed the nature as you came here. There won't be any time to look now that you've come to me.",
+  "en": "\\bRamos: Welcome to my gym. I hope you enjoyed the nature as you came here. There won't be any time to look now that you've come to me.",
+  "it": "\\bRamos: Benvenuto nella mia Palestra. Spero che tu abbia apprezzato la natura venendo qui. Ora che sei arrivato da me, non ci sarà più tempo per guardarsi intorno."
+ },
+ {
+  "id": "\\bRamos: You've earned the Plant Badge.",
+  "en": "\\bRamos: You've earned the Plant Badge.",
+  "it": "\\bRamos: Hai ottenuto la Medaglia Pianta."
+ },
+ {
+  "id": "\\bHere, have this TM too.",
+  "en": "\\bHere, have this TM too.",
+  "it": "\\bEcco, prendi anche questa MT."
+ },
+ {
+  "id": "\\bTM116 contains Petal Dance. It attacks for multiple turns and leaves you confused.",
+  "en": "\\bTM116 contains Petal Dance. It attacks for multiple turns and leaves you confused.",
+  "it": "\\bLa MT116 contiene Petalodanza. Attacca per più turni e poi lascia confuso chi la usa."
+ },
+ {
+  "id": "\\bRamos: You have the quickness of youth but the skill of a master. Be sure to remember to take it slow sometimes.",
+  "en": "\\bRamos: You have the quickness of youth but the skill of a master. Be sure to remember to take it slow sometimes.",
+  "it": "\\bRamos: Hai la rapidità della gioventù, ma l'abilità di un maestro. Ricordati però di prendertela con calma, ogni tanto."
+ },
+ {
+  "id": "\\rAnd out of nowhere comes a champion.",
+  "en": "\\rAnd out of nowhere comes a champion.",
+  "it": "\\rE dal nulla spunta un campione."
+ },
+ {
+  "id": "\\rI was supposed to be the champion. I was going to challenge Ramos after this...",
+  "en": "\\rI was supposed to be the champion. I was going to challenge Ramos after this...",
+  "it": "\\rIl campione dovevo essere io. Dopo questa avrei sfidato Ramos..."
+ },
+ {
+  "id": "\\bRamos uses Grass type Pokémon. They are weak aganst the Bug, Fire, Poison, Flying, and Ice types.",
+  "en": "\\bRamos uses Grass type Pokémon. They are weak aganst the Bug, Fire, Poison, Flying, and Ice types.",
+  "it": "\\bRamos usa Pokémon di tipo Erba. Sono deboli contro i tipi Coleottero, Fuoco, Veleno, Volante e Ghiaccio."
+ },
+ {
+  "id": "\\bThey are strong against Water, Ground, and Rock. Electirc, Grass, Ground, and Water moves also don't do much damage.",
+  "en": "\\bThey are strong against Water, Ground, and Rock.  Electirc, Grass, Ground, and Water moves also don't do much damage.",
+  "it": "\\bSono forti contro Acqua, Terra e Roccia. Anche le mosse di tipo Elettro, Erba, Terra e Acqua non fanno loro molti danni."
+ },
+ {
+  "id": "\\bDidn't think you would challenge me.",
+  "en": "\\bDidn't think you would challenge me.",
+  "it": "\\bNon pensavo che mi avresti sfidato."
+ },
+ {
+  "id": "\\bDon't rush. You may miss the path you want to take.",
+  "en": "\\bDon't rush. You may miss the path you want to take.",
+  "it": "\\bNon avere fretta. Potresti perdere la strada che vuoi seguire."
+ }
+]

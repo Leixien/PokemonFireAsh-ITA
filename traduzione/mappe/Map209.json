@@ -1,0 +1,42 @@
+[
+ {
+  "id": "Professor Ivy's Lab",
+  "en": "Professor Ivy's Lab",
+  "it": "Laboratorio della Prof. Ivy"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Vermillion,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Vermillion,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Tangelo,Mikan,Aranciopoli,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Vermillion,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Vermillion,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Tangelo,Mikan,Navel,Aranciopoli,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Vermillion,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Vermillion,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Tangelo,Mikan,Navel,Sette Grapefruit,Aranciopoli,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Trovita,Vermillion,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Trovita,Vermillion,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Tangelo,Mikan,Navel,Sette Grapefruit,Trovita,Aranciopoli,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Vermillion,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Vermillion,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Tangelo,Mikan,Navel,Sette Grapefruit,Trovita,Ascorbia,Aranciopoli,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Vermillion,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Vermillion,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Tangelo,Mikan,Navel,Sette Grapefruit,Trovita,Ascorbia,Kumquat,Aranciopoli,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo, Vermillion,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Tangelo,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo, Vermillion,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Tangelo,Mikan,Navel,Sette Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo, Aranciopoli,Esci]"
+ }
+]

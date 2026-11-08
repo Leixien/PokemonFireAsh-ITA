@@ -1,0 +1,312 @@
+[
+ {
+  "id": "\\rMil!",
+  "en": "\\rMil!",
+  "it": "\\rMil!"
+ },
+ {
+  "id": "\\rThis will be fun, won't it?",
+  "en": "\\rThis will be fun, won't it?",
+  "it": "\\rSarà divertente, vero?"
+ },
+ {
+  "id": "\\rYou have talent. You should try out the island challenge.",
+  "en": "\\rYou have talent. You should try out the island challenge.",
+  "it": "\\rHai talento. Dovresti provare il Giro delle Isole."
+ },
+ {
+  "id": "\\bTaur!",
+  "en": "\\bTaur!",
+  "it": "\\bTaur!"
+ },
+ {
+  "id": "\\bHmph. You don't stand a chance.",
+  "en": "\\bHmph. You don't stand a chance.",
+  "it": "\\bPfui. Non hai speranze."
+ },
+ {
+  "id": "\\bMy gear was the best. How did it fail?",
+  "en": "\\bMy gear was the best. How did it fail?",
+  "it": "\\bLa mia attrezzatura era la migliore. Come ha fatto a fallire?"
+ },
+ {
+  "id": "\\rI'm Kiawe's sister. Nice to meet you!",
+  "en": "\\rI'm Kiawe's sister. Nice to meet you!",
+  "it": "\\rSono la sorella di Kiawe. Piacere di conoscerti!"
+ },
+ {
+  "id": "\\bKiawe: You finally made it. Let's have a battle.",
+  "en": "\\bKiawe: You finally made it. Let's have a battle.",
+  "it": "\\bKiawe: Finalmente sei arrivato. Facciamo una lotta."
+ },
+ {
+  "id": "\\bKiawe: That was fun. Charizard can take you back when you're ready.",
+  "en": "\\bKiawe: That was fun. Charizard can take you back when you're ready.",
+  "it": "\\bKiawe: È stato divertente. Charizard può riportarti indietro quando sei pronto."
+ },
+ {
+  "id": "\\bKiawe: I just had to battle for the rights to my family's farm. I barely won. Help me get stronger.",
+  "en": "\\bKiawe: I just had to battle for the rights to my family's farm. I barely won. Help me get stronger.",
+  "it": "\\bKiawe: Ho appena dovuto lottare per i diritti sulla fattoria della mia famiglia. Ho vinto per un pelo. Aiutami a diventare più forte."
+ },
+ {
+  "id": "Rotom Dex: Lana should be near Kukui's house.",
+  "en": "Rotom Dex: Lana should be near Kukui's house.",
+  "it": "Rotom Dex: Suiren dovrebbe essere vicino a casa di Kukui."
+ },
+ {
+  "id": "\\rDon't go easy on me.",
+  "en": "\\rDon't go easy on me.",
+  "it": "\\rNon andarci piano con me."
+ },
+ {
+  "id": "\\rGirls can be tough.",
+  "en": "\\rGirls can be tough.",
+  "it": "\\rAnche le ragazze sanno essere toste."
+ },
+ {
+  "id": "Kiawe's house",
+  "en": "Kiawe's house",
+  "it": "Casa di Kiawe"
+ },
+ {
+  "id": "\\bRango: Ah, it's you!",
+  "en": "\\bRango: Ah, it's you!",
+  "it": "\\bRango: Ah, sei tu!"
+ },
+ {
+  "id": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "en": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "it": "\\bStavamo allevando il tuo Pokémon e, santo cielo, che sorpresa!"
+ },
+ {
+  "id": "\\bYour Pokémon was holding an Egg!",
+  "en": "\\bYour Pokémon was holding an Egg!",
+  "it": "\\bIl tuo Pokémon aveva con sé un Uovo!"
+ },
+ {
+  "id": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "en": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "it": "\\bNon sappiamo come ci sia finito, ma ce l'aveva il tuo Pokémon."
+ },
+ {
+  "id": "\\bYou do want it, don't you?",
+  "en": "\\bYou do want it, don't you?",
+  "it": "\\bLo vuoi, vero?"
+ },
+ {
+  "id": "\\bYou have no room for it right now... Come back when you've made room.",
+  "en": "\\bYou have no room for it right now... Come back when you've made room.",
+  "it": "\\bAl momento non hai spazio... Torna quando ne avrai fatto."
+ },
+ {
+  "id": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "en": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "it": "\\me[Egg get]\\PN ha ricevuto l'Uovo dal signore della Pensione."
+ },
+ {
+  "id": "\\bYou take good care of it.",
+  "en": "\\bYou take good care of it.",
+  "it": "\\bAbbine cura, mi raccomando."
+ },
+ {
+  "id": "\\bI really will keep it. You do want this Egg, yes?",
+  "en": "\\bI really will keep it. You do want this Egg, yes?",
+  "it": "\\bAllora lo tengo davvero. Lo vuoi questo Uovo, sì?"
+ },
+ {
+  "id": "\\bWell all right then, I'll take it. Thank you.",
+  "en": "\\bWell all right then, I'll take it. Thank you.",
+  "it": "\\bVa bene, allora lo prendo io. Grazie."
+ },
+ {
+  "id": "\\bThat is, I don't think we'll ever find another...",
+  "en": "\\bThat is, I don't think we'll ever find another...",
+  "it": "\\bCioè, non credo che ne troveremo mai un altro..."
+ },
+ {
+  "id": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "en": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "it": "\\bNo, no, sono sicuro che ne troveremo un altro. Ne sono assolutamente certo!"
+ },
+ {
+  "id": "\\bI'm the Day-Care Man.",
+  "en": "\\bI'm the Day-Care Man.",
+  "it": "\\bSono il Signore della Pensione."
+ },
+ {
+  "id": "\\bI help take care of the precious Pokémon of Trainers.",
+  "en": "\\bI help take care of the precious Pokémon of Trainers.",
+  "it": "\\bAiuto a prendermi cura dei preziosi Pokémon degli Allenatori."
+ },
+ {
+  "id": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "en": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "it": "\\bSe vuoi far allevare un Pokémon, puoi lasciarlo alle cure di mia moglie."
+ },
+ {
+  "id": "\\bAh, it's you!\\nGood to see you!",
+  "en": "\\bAh, it's you!\\nGood to see you!",
+  "it": "\\bAh, sei tu!\\nChe piacere vederti!"
+ },
+ {
+  "id": "\\bYour \\v[3] is doing just fine.",
+  "en": "\\bYour \\v[3] is doing just fine.",
+  "it": "\\bIl tuo \\v[3] sta benissimo."
+ },
+ {
+  "id": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "en": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "it": "\\bI tuoi \\v[3] e \\v[4] stanno benissimo."
+ },
+ {
+  "id": "\\bThe two play with other Pokémon rather than with each other...",
+  "en": "\\bThe two play with other Pokémon rather than with each other...",
+  "it": "\\bQuei due preferiscono giocare con altri Pokémon piuttosto che tra loro..."
+ },
+ {
+  "id": "\\bThe two don't seem to like each other much.",
+  "en": "\\bThe two don't seem to like each other much.",
+  "it": "\\bQuei due non sembrano piacersi molto."
+ },
+ {
+  "id": "\\bThe two seem to get along.",
+  "en": "\\bThe two seem to get along.",
+  "it": "\\bQuei due sembrano andare d'accordo."
+ },
+ {
+  "id": "\\bThe two seem to get along very well.",
+  "en": "\\bThe two seem to get along very well.",
+  "it": "\\bQuei due sembrano andare molto d'accordo."
+ },
+ {
+  "id": "\\bCharizard",
+  "en": "\\bCharizard",
+  "it": "\\bCharizard"
+ },
+ {
+  "id": "\\rI'll beat you with the power of music.",
+  "en": "\\rI'll beat you with the power of music.",
+  "it": "\\rTi batterò con il potere della musica."
+ },
+ {
+  "id": "\\rYou're even stronger than Lana.",
+  "en": "\\rYou're even stronger than Lana.",
+  "it": "\\rSei persino più forte di Suiren."
+ },
+ {
+  "id": "\\bSophocles: I really like this place. I think I'll explore around here.",
+  "en": "\\bSophocles: I really like this place. I think I'll explore around here.",
+  "it": "\\bChrys: Questo posto mi piace un sacco. Credo che lo esplorerò un po'."
+ },
+ {
+  "id": "\\rReady for some action?",
+  "en": "\\rReady for some action?",
+  "it": "\\rPronto per un po' d'azione?"
+ },
+ {
+  "id": "\\rOne day I might host an event about you.",
+  "en": "\\rOne day I might host an event about you.",
+  "it": "\\rUn giorno potrei organizzare un evento su di te."
+ },
+ {
+  "id": "\\bThese darn Miltank are always so lazy. Now they won't move from this spot.",
+  "en": "\\bThese darn Miltank are always so lazy. Now they won't move from this spot.",
+  "it": "\\bQuesti dannati Miltank sono sempre così pigri. Ora non si schiodano da qui."
+ },
+ {
+  "id": "\\bFinally got them to move. Hopefully that's the last time.",
+  "en": "\\bFinally got them to move. Hopefully that's the last time.",
+  "it": "\\bFinalmente sono riuscito a farli muovere. Speriamo sia l'ultima volta."
+ },
+ {
+  "id": "\\bThese darn Miltank are always so lazy.",
+  "en": "\\bThese darn Miltank are always so lazy.",
+  "it": "\\bQuesti dannati Miltank sono sempre così pigri."
+ },
+ {
+  "id": "\\bWhere all the fish at?",
+  "en": "\\bWhere all the fish at?",
+  "it": "\\bMa dove stanno tutti i pesci?"
+ },
+ {
+  "id": "\\bNever gonna get any fish like this.",
+  "en": "\\bNever gonna get any fish like this.",
+  "it": "\\bCosì non prenderò mai neanche un pesce."
+ },
+ {
+  "id": "\\bYou like baseball?",
+  "en": "\\bYou like baseball?",
+  "it": "\\bTi piace il baseball?"
+ },
+ {
+  "id": "\\bVery impressive. Batter up.",
+  "en": "\\bVery impressive. Batter up.",
+  "it": "\\bDavvero notevole. Avanti il prossimo battitore."
+ },
+ {
+  "id": "\\bI used to go to the Pokémon School. Don't give up on your dreams.",
+  "en": "\\bI used to go to the Pokémon School. Don't give up on your dreams.",
+  "it": "\\bUna volta andavo alla Scuola Pokémon. Non rinunciare ai tuoi sogni."
+ },
+ {
+  "id": "\\rDo you like pancakes?",
+  "en": "\\rDo you like pancakes?",
+  "it": "\\rTi piacciono i pancake?"
+ },
+ {
+  "id": "\\rMy husband loves pancakes too.",
+  "en": "\\rMy husband loves pancakes too.",
+  "it": "\\rAnche mio marito adora i pancake."
+ },
+ {
+  "id": "\\bI'm going to win this one. Not a chance for you.",
+  "en": "\\bI'm going to win this one. Not a chance for you.",
+  "it": "\\bQuesta la vinco io. Non hai nessuna possibilità."
+ },
+ {
+  "id": "\\bThat was shameful.",
+  "en": "\\bThat was shameful.",
+  "it": "\\bChe vergogna."
+ },
+ {
+  "id": "\\bAre you going to the Ruins of Life?",
+  "en": "\\bAre you going to the Ruins of Life?",
+  "it": "\\bStai andando alle Rovine della Vita?"
+ },
+ {
+  "id": "\\bThe Ruins of Life are sacred.",
+  "en": "\\bThe Ruins of Life are sacred.",
+  "it": "\\bLe Rovine della Vita sono sacre."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Route 1",
+  "en": "Route 1",
+  "it": "Percorso 1"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Wela Volcano",
+  "en": "Wela Volcano",
+  "it": "Vulcano Wela"
+ },
+ {
+  "id": "Ten Carat",
+  "en": "Ten Carat",
+  "it": "Diecicarati"
+ }
+]

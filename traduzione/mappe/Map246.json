@@ -1,0 +1,152 @@
+[
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
+  "id": "\\rI come here all the time to watch the battles.",
+  "en": "\\rI come here all the time to watch the battles.",
+  "it": "\\rVengo qui di continuo a guardare le lotte."
+ },
+ {
+  "id": "\\bI didn't know it was four badges. What am I gonna do?",
+  "en": "\\bI didn't know it was four badges. What am I gonna do?",
+  "it": "\\bNon sapevo che servissero quattro medaglie. Come faccio adesso?"
+ },
+ {
+  "id": "You beat Drake! Go back and tell Oak about it!",
+  "en": "You beat Drake! Go back and tell Oak about it!",
+  "it": "Hai battuto Drake! Torna da Oak a raccontarglielo!"
+ },
+ {
+  "id": "\\rHello. Here you can register for the Pummelo Stadium.",
+  "en": "\\rHello. Here you can register for the Pummelo Stadium.",
+  "it": "\\rSalve. Qui puoi iscriverti allo Stadio di Pummelo."
+ },
+ {
+  "id": "\\rWould you like to register?",
+  "en": "\\rWould you like to register?",
+  "it": "\\rVuoi iscriverti?"
+ },
+ {
+  "id": "\\rGreat! Let's check and see if you have all the badges.",
+  "en": "\\rGreat! Let's check and see if you have all the badges.",
+  "it": "\\rBene! Controlliamo se hai tutte le medaglie."
+ },
+ {
+  "id": "\\rLooks like you qualify. Whenever you're ready, head to your battle.",
+  "en": "\\rLooks like you qualify. Whenever you're ready, head to your battle.",
+  "it": "\\rA quanto pare sei idoneo. Quando sei pronto, vai pure alla tua lotta."
+ },
+ {
+  "id": "\\rNo problem. Have a good day.",
+  "en": "\\rNo problem. Have a good day.",
+  "it": "\\rNessun problema. Buona giornata."
+ },
+ {
+  "id": "\\rYou have already registered.",
+  "en": "\\rYou have already registered.",
+  "it": "\\rTi sei già iscritto."
+ },
+ {
+  "id": "\\bThis is where challengers may face Drake after obtaining the four badges.",
+  "en": "\\bThis is where challengers may face Drake after obtaining the four badges.",
+  "it": "\\bQui gli sfidanti possono affrontare Drake dopo aver ottenuto le quattro medaglie."
+ },
+ {
+  "id": "\\bYou are not registered to fight Drake.",
+  "en": "\\bYou are not registered to fight Drake.",
+  "it": "\\bNon sei iscritto per sfidare Drake."
+ },
+ {
+  "id": "\\bRight this way.",
+  "en": "\\bRight this way.",
+  "it": "\\bDa questa parte, prego."
+ },
+ {
+  "id": "\\bYou're already the Champion. You don't need to fight him again.",
+  "en": "\\bYou're already the Champion. You don't need to fight him again.",
+  "it": "\\bSei già il Campione. Non hai bisogno di sfidarlo di nuovo."
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\bDrake is a very powerful Trainer. He rarely loses even half his team.",
+  "en": "\\bDrake is a very powerful Trainer. He rarely loses even half his team.",
+  "it": "\\bDrake è un Allenatore molto potente. Raramente perde anche solo metà della sua squadra."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

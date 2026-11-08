@@ -1,0 +1,62 @@
+[
+ {
+  "id": "\\bYou picked wrong. Prepare to fight.",
+  "en": "\\bYou picked wrong. Prepare to fight.",
+  "it": "\\bHai scelto male. Preparati a lottare."
+ },
+ {
+  "id": "\\bI guess I should have expected this.",
+  "en": "\\bI guess I should have expected this.",
+  "it": "\\bAvrei dovuto aspettarmelo."
+ },
+ {
+  "id": "\\bViola uses Bug type Pokémon. They are weak aganst Fire, Flying, and Rock types.",
+  "en": "\\bViola uses Bug type Pokémon. They are weak aganst Fire, Flying, and Rock types.",
+  "it": "\\bVioletta usa Pokémon di tipo Coleottero. Sono deboli contro i tipi Fuoco, Volante e Roccia."
+ },
+ {
+  "id": "\\bThey are strong against Psychic, Grass, and Dark. Fighting, Grass, and Ground also don't do much damage.",
+  "en": "\\bThey are strong against Psychic, Grass, and Dark.  Fighting, Grass, and Ground also don't do much damage.",
+  "it": "\\bSono forti contro Psico, Erba e Buio. Anche Lotta, Erba e Terra non fanno molti danni."
+ },
+ {
+  "id": "\\rViola: You look like an interesting Trainer. May I take your picture?",
+  "en": "\\rViola: You look like an interesting Trainer. May I take your picture?",
+  "it": "\\rVioletta: Sembri un Allenatore interessante. Posso farti una foto?"
+ },
+ {
+  "id": "\\rA picture of your defeat would go great for my collection. Will you be strong enough to deny me?",
+  "en": "\\rA picture of your defeat would go great for my collection. Will you be strong enough to deny me?",
+  "it": "\\rUna foto della tua sconfitta starebbe benissimo nella mia collezione. Sarai abbastanza forte da impedirmelo?"
+ },
+ {
+  "id": "\\rYou've earned the Bug Badge.",
+  "en": "\\rYou've earned the Bug Badge.",
+  "it": "\\rHai ottenuto la Medaglia Coleottero."
+ },
+ {
+  "id": "\\rHere, have this TM too.",
+  "en": "\\rHere, have this TM too.",
+  "it": "\\rEcco, prendi anche questa MT."
+ },
+ {
+  "id": "\\rTM113 contains Megahorn. A powerful bug type attack.",
+  "en": "\\rTM113 contains Megahorn. A powerful bug type attack.",
+  "it": "\\rL'MT113 contiene Megacorno. Un potente attacco di tipo Coleottero."
+ },
+ {
+  "id": "\\rViola: I'm always here to take a picture if you want.",
+  "en": "\\rViola: I'm always here to take a picture if you want.",
+  "it": "\\rVioletta: Sono sempre qui per farti una foto, se vuoi."
+ },
+ {
+  "id": "\\bPrepare for a beating.",
+  "en": "\\bPrepare for a beating.",
+  "it": "\\bPreparati a prenderle."
+ },
+ {
+  "id": "\\bYou never saw me coming.",
+  "en": "\\bYou never saw me coming.",
+  "it": "\\bNon mi hai proprio visto arrivare."
+ }
+]

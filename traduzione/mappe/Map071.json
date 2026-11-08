@@ -1,0 +1,82 @@
+[
+ {
+  "id": "\\bAhoy, there!\\nWhere do you want to sail?",
+  "en": "\\bAhoy, there!\\nWhere do you want to sail?",
+  "it": "\\bAhoy!\\nDove vuoi salpare?"
+ },
+ {
+  "id": "\\bThe Tiall Region it is. All aboard!",
+  "en": "\\bThe Tiall Region it is.  All aboard!",
+  "it": "\\bRegione di Tiall, allora.  Tutti a bordo!"
+ },
+ {
+  "id": "\\bDaroxy Island it is. All aboard!",
+  "en": "\\bDaroxy Island it is.  All aboard!",
+  "it": "\\bIsola Daroxy, allora.  Tutti a bordo!"
+ },
+ {
+  "id": "\\bFaraday Island it is. All aboard!",
+  "en": "\\bFaraday Island it is.  All aboard!",
+  "it": "\\bIsola Faraday, allora.  Tutti a bordo!"
+ },
+ {
+  "id": "\\bLet me know if you want to set sail.",
+  "en": "\\bLet me know if you want to set sail.",
+  "it": "\\bFammi sapere quando vuoi salpare."
+ },
+ {
+  "id": "\\bHere, have this Aurora Ticket.",
+  "en": "\\bHere, have this Aurora Ticket.",
+  "it": "\\bEcco, prendi questo Biglietto Aurora."
+ },
+ {
+  "id": "\\bYou can use that to sail to Daroxy Island.",
+  "en": "\\bYou can use that to sail to Daroxy Island.",
+  "it": "\\bPuoi usarlo per salpare verso l'Isola Daroxy."
+ },
+ {
+  "id": "\\bOh, you don't have any space in your Bag for it.",
+  "en": "\\bOh, you don't have any space in your Bag for it.",
+  "it": "\\bOh, non hai spazio nella Borsa per prenderlo."
+ },
+ {
+  "id": "\\bI've already given you an Aurora Ticket. Have you gone to Daroxy Island yet?",
+  "en": "\\bI've already given you an Aurora Ticket.  Have you gone to Daroxy Island yet?",
+  "it": "\\bTi ho già dato un Biglietto Aurora.  Sei già stato all'Isola Daroxy?"
+ },
+ {
+  "id": "\\bHere, have this Old Sea Map.",
+  "en": "\\bHere, have this Old Sea Map.",
+  "it": "\\bEcco, prendi questa Mappa Antica."
+ },
+ {
+  "id": "\\bYou can use that to sail to Faraday Island.",
+  "en": "\\bYou can use that to sail to Faraday Island.",
+  "it": "\\bPuoi usarla per salpare verso l'Isola Faraday."
+ },
+ {
+  "id": "\\bI've already given you an Old Sea Map. Have you gone to Faraday Island yet?",
+  "en": "\\bI've already given you an Old Sea Map.  Have you gone to Faraday Island yet?",
+  "it": "\\bTi ho già dato una Mappa Antica.  Sei già stato all'Isola Faraday?"
+ },
+ {
+  "id": "Tiall Region",
+  "en": "Tiall Region",
+  "it": "Regione di Tiall"
+ },
+ {
+  "id": "Daroxy Island",
+  "en": "Daroxy Island",
+  "it": "Isola Daroxy"
+ },
+ {
+  "id": "Faraday Island",
+  "en": "Faraday Island",
+  "it": "Isola Faraday"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ }
+]

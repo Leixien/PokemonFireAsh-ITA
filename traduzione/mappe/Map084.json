@@ -1,0 +1,162 @@
+[
+ {
+  "id": "\\bI really want a Vulpix, so I'm trading my Growlithe for one.",
+  "en": "\\bI really want a Vulpix, so I'm trading my Growlithe for one.",
+  "it": "\\bVoglio tanto un Vulpix, quindi sto scambiando il mio Growlithe con uno."
+ },
+ {
+  "id": "\\bWait a minute. Since when was Vulpix white? I thought they were orange.",
+  "en": "\\bWait a minute. Since when was Vulpix white? I thought they were orange.",
+  "it": "\\bAspetta un attimo. Da quando i Vulpix sono bianchi? Pensavo fossero arancioni."
+ },
+ {
+  "id": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian,Cancel]",
+  "en": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian,Cancel]",
+  "it": "\\rIl mio Zee può teletrasportarti.\\ch[1,-1,Smeraldopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean, Cancel]",
+  "en": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean, Cancel]",
+  "it": "\\rIl mio Zee può teletrasportarti.\\ch[1,-1,Smeraldopoli, Celestopoli, Annulla]"
+ },
+ {
+  "id": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion, Cancel]",
+  "en": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion, Cancel]",
+  "it": "\\rIl mio Zee può teletrasportarti.\\ch[1,-1,Smeraldopoli, Celestopoli,Aranciopoli, Annulla]"
+ },
+ {
+  "id": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion,Saffron,Lavender, Cancel]",
+  "en": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion,Saffron,Lavender, Cancel]",
+  "it": "\\rIl mio Zee può teletrasportarti.\\ch[1,-1,Smeraldopoli, Celestopoli,Aranciopoli,Zafferanopoli,Lavandonia, Annulla]"
+ },
+ {
+  "id": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion,Saffron,Lavender,Celadon, Cancel]",
+  "en": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion,Saffron,Lavender,Celadon, Cancel]",
+  "it": "\\rIl mio Zee può teletrasportarti.\\ch[1,-1,Smeraldopoli, Celestopoli,Aranciopoli,Zafferanopoli,Lavandonia,Azzurropoli, Annulla]"
+ },
+ {
+  "id": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion,Saffron,Lavender,Celadon, Fuchsia,Cancel]",
+  "en": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion,Saffron,Lavender,Celadon, Fuchsia,Cancel]",
+  "it": "\\rIl mio Zee può teletrasportarti.\\ch[1,-1,Smeraldopoli, Celestopoli,Aranciopoli,Zafferanopoli,Lavandonia,Azzurropoli, Fucsiapoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion,Saffron,Lavender,Celadon, Fuchsia,Cinnabar,Cancel]",
+  "en": "\\rMy Zee can Teleport you.\\ch[1,-1,Viridian, Cerulean,Vermilion,Saffron,Lavender,Celadon, Fuchsia,Cinnabar,Cancel]",
+  "it": "\\rIl mio Zee può teletrasportarti.\\ch[1,-1,Smeraldopoli, Celestopoli,Aranciopoli,Zafferanopoli,Lavandonia,Azzurropoli, Fucsiapoli,Isola Cannella,Annulla]"
+ },
+ {
+  "id": "\\bI'm trading Pokémon with that kid there.",
+  "en": "\\bI'm trading Pokémon with that kid there.",
+  "it": "\\bSto scambiando Pokémon con quel ragazzino là."
+ },
+ {
+  "id": "\\bI had two Vulpix, so I figured I might as well.",
+  "en": "\\bI had two Vulpix, so I figured I might as well.",
+  "it": "\\bAvevo due Vulpix, quindi ho pensato: perché no?"
+ },
+ {
+  "id": "\\bDrowzee",
+  "en": "\\bDrowzee",
+  "it": "\\bDrowzee"
+ },
+ {
+  "id": "\\bYawn!",
+  "en": "\\bYawn!",
+  "it": "\\bUaaah!"
+ },
+ {
+  "id": "\\bWhen Jigglypuff sings, a Pokémon gets drowzy...",
+  "en": "\\bWhen Jigglypuff sings, a Pokémon gets drowzy...",
+  "it": "\\bQuando Jigglypuff canta, i Pokémon diventano assonnati..."
+ },
+ {
+  "id": "\\bSnore...",
+  "en": "\\bSnore...",
+  "it": "\\bRonf..."
+ },
+ {
+  "id": "\\bJigglypuff:Jig jiggly puff!",
+  "en": "\\bJigglypuff:Jig jiggly puff!",
+  "it": "\\bJigglypuff:Jig jiggly puff!"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

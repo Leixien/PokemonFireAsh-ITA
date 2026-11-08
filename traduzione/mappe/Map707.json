@@ -1,0 +1,147 @@
+[
+ {
+  "id": "\\rPalp",
+  "en": "\\rPalp",
+  "it": "\\rPalp"
+ },
+ {
+  "id": "\\rGet off the runway if a plane ever goes by.",
+  "en": "\\rGet off the runway if a plane ever goes by.",
+  "it": "\\rToglietevi dalla pista se passa un aereo."
+ },
+ {
+  "id": "\\bI can't get Palpitoad out of the water. What do I do?",
+  "en": "\\bI can't get Palpitoad out of the water. What do I do?",
+  "it": "\\bNon riesco a far uscire Palpitoad dall'acqua. Cosa faccio?"
+ },
+ {
+  "id": "\\rSkyla: Are you here for an air battle? Alright let's do it. ... You lost. Sorry about that.",
+  "en": "\\rSkyla: Are you here for an air battle? Alright let's do it. ... You lost. Sorry about that.",
+  "it": "\\rAnemone: Sei qui per una lotta aerea? Va bene, facciamola. ... Hai perso. Mi dispiace."
+ },
+ {
+  "id": "\\bI've been through Chargestone Cave before. It's no more dangerous than any other cave, even with the extra electricity in it.",
+  "en": "\\bI've been through Chargestone Cave before. It's no more dangerous than any other cave, even with the extra electricity in it.",
+  "it": "\\bSono già passato per la Grotta Pietrelettrica. Non è più pericolosa di qualsiasi altra grotta, anche con tutta l'elettricità in più."
+ },
+ {
+  "id": "Mistralton City\\nStrewn with Windblown Leaves",
+  "en": "Mistralton City\\nStrewn with Windblown Leaves",
+  "it": "Ponentopoli\\nCosparsa di foglie portate dal vento"
+ },
+ {
+  "id": "\\bThis is the runway. We fly cargo out of the town that goes to all of Unova.",
+  "en": "\\bThis is the runway. We fly cargo out of the town that goes to all of Unova.",
+  "it": "\\bQuesta è la pista di decollo. Da questa città trasportiamo merci in aereo verso tutta Unima."
+ },
+ {
+  "id": "\\bCilan: Good timing \\PN. I've just found out about Skyla's 'Air Battles'. As a Gym Leader, I cannot stand the tactics she takes with challengers.",
+  "en": "\\bCilan: Good timing \\PN. I've just found out about Skyla's 'Air Battles'. As a Gym Leader, I cannot stand the tactics she takes with challengers.",
+  "it": "\\bSpighetto: Arrivi al momento giusto, \\PN. Ho appena scoperto le \"lotte aeree\" di Anemone. Da Capopalestra, non sopporto le tattiche che usa con gli sfidanti."
+ },
+ {
+  "id": "\\bI challenged her myself over this but lost. Perhaps if you battle me you can show her the same spirit you showed me? It may get her to take you on for real.",
+  "en": "\\bI challenged her myself over this but lost. Perhaps if you battle me you can show her the same spirit you showed me? It may get her to take you on for real.",
+  "it": "\\bL'ho sfidata io stesso per questo, ma ho perso. Forse se lotti contro di me potrai mostrarle lo stesso spirito che hai mostrato a me? Potrebbe convincerla ad affrontarti sul serio."
+ },
+ {
+  "id": "\\bAre you ready to battle?",
+  "en": "\\bAre you ready to battle?",
+  "it": "\\bSei pronto a lottare?"
+ },
+ {
+  "id": "\\bNow that we're ready, prepare for a delectable battle.",
+  "en": "\\bNow that we're ready, prepare for a delectable battle.",
+  "it": "\\bOra che siamo pronti, preparati a una lotta deliziosa."
+ },
+ {
+  "id": "\\bWhenever you're ready I am.",
+  "en": "\\bWhenever you're ready I am.",
+  "it": "\\bQuando sei pronto tu, lo sono anch'io."
+ },
+ {
+  "id": "\\bCilan: Now that you have seen \\PN's battle style, don't you think he deserves a chance to battle you for real.",
+  "en": "\\bCilan: Now that you have seen \\PN's battle style, don't you think he deserves a chance to battle you for real.",
+  "it": "\\bSpighetto: Ora che hai visto lo stile di lotta di \\PN, non pensi che meriti l'occasione di sfidarti sul serio?"
+ },
+ {
+  "id": "\\rSkyla: I admit, \\PN has talent. I suppose I'll do a real battle with you, but I still expect to win based on my Air Battle prediction.",
+  "en": "\\rSkyla: I admit, \\PN has talent. I suppose I'll do a real battle with you, but I still expect to win based on my Air Battle prediction.",
+  "it": "\\rAnemone: Lo ammetto, \\PN ha talento. D'accordo, farò una vera lotta con te, ma mi aspetto comunque di vincere, come prevede la mia Lotta Aerea."
+ },
+ {
+  "id": "\\rSkyla: Meet me inside whenever you're ready.",
+  "en": "\\rSkyla: Meet me inside whenever you're ready.",
+  "it": "\\rAnemone: Raggiungimi dentro quando sei pronto."
+ },
+ {
+  "id": "\\bCilan: You'll be able to beat Skyla. I believe in you.",
+  "en": "\\bCilan: You'll be able to beat Skyla. I believe in you.",
+  "it": "\\bSpighetto: Riuscirai a battere Anemone. Io credo in te."
+ },
+ {
+  "id": "Mistralton City Pokémon Gym Leader:\\nSkyla",
+  "en": "Mistralton City Pokémon Gym Leader:\\nSkyla",
+  "it": "Capopalestra di Ponentopoli:\\nAnemone"
+ },
+ {
+  "id": "The High-Flying Girl",
+  "en": "The High-Flying Girl",
+  "it": "La Ragazza dei Cieli"
+ },
+ {
+  "id": "\\bYAHH!",
+  "en": "\\bYAHH!",
+  "it": "\\bYAHH!"
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 685.",
+  "en": "Rotom Phone: Based on performance, your rank is now 685.",
+  "it": "Rotom Phone: In base alla tua prestazione, ora sei al posto 685."
+ },
+ {
+  "id": "Incoming call from Goh:",
+  "en": "Incoming call from Goh:",
+  "it": "Chiamata in arrivo da Goh:"
+ },
+ {
+  "id": "\\bGoh: \\PN! I think I've found where Mew is. I need you to meet me back at the lab.",
+  "en": "\\bGoh: \\PN! I think I've found where Mew is. I need you to meet me back at the lab.",
+  "it": "\\bGoh: \\PN! Credo di aver scoperto dove si trova Mew. Ci vediamo al laboratorio."
+ },
+ {
+  "id": "\\bMy confidence is broken.",
+  "en": "\\bMy confidence is broken.",
+  "it": "\\bLa mia sicurezza è a pezzi."
+ },
+ {
+  "id": "\\bSkyla is my granddaughter. I used to be the gym leader before her.",
+  "en": "\\bSkyla is my granddaughter. I used to be the gym leader before her.",
+  "it": "\\bAnemone è mia nipote. Prima di lei, il Capopalestra ero io."
+ },
+ {
+  "id": "\\rSometimes the cargo ships drop an item. I've been searching for some of them.",
+  "en": "\\rSometimes the cargo ships drop an item. I've been searching for some of them.",
+  "it": "\\rA volte le navi da carico perdono qualche strumento. Ne sto cercando un po'."
+ },
+ {
+  "id": "\\rHerdier",
+  "en": "\\rHerdier",
+  "it": "\\rHerdier"
+ },
+ {
+  "id": "\\rI won my badge! I didn't even have to fight for it. Just had to do an 'Air Battle'.",
+  "en": "\\rI won my badge! I didn't even have to fight for it.  Just had to do an 'Air Battle'.",
+  "it": "\\rHo vinto la medaglia! Non ho nemmeno dovuto lottare.  Mi è bastata una 'Lotta Aerea'."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

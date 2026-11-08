@@ -1,0 +1,402 @@
+[
+ {
+  "id": "\\rMina: Ah... sorry, got distracted. What do you need?",
+  "en": "\\rMina: Ah... sorry, got distracted. What do you need?",
+  "it": "\\rMina: Ah... scusa, mi sono distratta. Di cosa hai bisogno?"
+ },
+ {
+  "id": "\\bSamson: Surprised to see me? Your principal isn't going to sit back and miss this.",
+  "en": "\\bSamson: Surprised to see me? Your principal isn't going to sit back and miss this.",
+  "it": "\\bSamson: Sorpreso di vedermi? Il tuo preside non se ne starà certo con le mani in mano a perdersi tutto questo."
+ },
+ {
+  "id": "\\bStay out of my way.",
+  "en": "\\bStay out of my way.",
+  "it": "\\bTogliti di mezzo."
+ },
+ {
+  "id": "\\bNot going to happen again.",
+  "en": "\\bNot going to happen again.",
+  "it": "\\bNon succederà di nuovo."
+ },
+ {
+  "id": "\\rI'm going to move on.",
+  "en": "\\rI'm going to move on.",
+  "it": "\\rAndrò avanti."
+ },
+ {
+  "id": "\\rThink you can keep winning?",
+  "en": "\\rThink you can keep winning?",
+  "it": "\\rCredi di poter continuare a vincere?"
+ },
+ {
+  "id": "\\rOlivia: I'm a referree. I hope to see you advance.",
+  "en": "\\rOlivia: I'm a referree. I hope to see you advance.",
+  "it": "\\rOlivia: Sono un'arbitra. Spero di vederti passare il turno."
+ },
+ {
+  "id": "\\rLana: I bet the first round will be tough.",
+  "en": "\\rLana: I bet the first round will be tough.",
+  "it": "\\rSuiren: Scommetto che il primo turno sarà difficile."
+ },
+ {
+  "id": "\\rGet out of my way.",
+  "en": "\\rGet out of my way.",
+  "it": "\\rLevati di mezzo."
+ },
+ {
+  "id": "\\rHow dare you end me.",
+  "en": "\\rHow dare you end me.",
+  "it": "\\rCome osi farmi fuori."
+ },
+ {
+  "id": "\\bBatter up.",
+  "en": "\\bBatter up.",
+  "it": "\\bPronto a battere!"
+ },
+ {
+  "id": "\\bI'm not up to the pitch.",
+  "en": "\\bI'm not up to the pitch.",
+  "it": "\\bNon sono all'altezza del lancio."
+ },
+ {
+  "id": "\\rFair fight, okay?",
+  "en": "\\rFair fight, okay?",
+  "it": "\\rLotta leale, d'accordo?"
+ },
+ {
+  "id": "\\rIt's not over yet.",
+  "en": "\\rIt's not over yet.",
+  "it": "\\rNon è ancora finita."
+ },
+ {
+  "id": "\\bJames: What should our plan be?",
+  "en": "\\bJames: What should our plan be?",
+  "it": "\\bJames: Quale dovrebbe essere il nostro piano?"
+ },
+ {
+  "id": "\\bFaba: Hmm, a Battle Royal. I'll need a good strategy to move on.",
+  "en": "\\bFaba: Hmm, a Battle Royal. I'll need a good strategy to move on.",
+  "it": "\\bVicio: Mmh, un Battle Royal. Mi servirà una buona strategia per andare avanti."
+ },
+ {
+  "id": "\\bFaba: No hard feelings, but I'm going to have to crush you. The prize is too good to pass up.",
+  "en": "\\bFaba: No hard feelings, but I'm going to have to crush you. The prize is too good to pass up.",
+  "it": "\\bVicio: Senza rancore, ma dovrò stracciarti. Il premio è troppo allettante per lasciarselo sfuggire."
+ },
+ {
+  "id": "\\b...",
+  "en": "\\b...",
+  "it": "\\b..."
+ },
+ {
+  "id": "\\bI knew this would happen.",
+  "en": "\\bI knew this would happen.",
+  "it": "\\bLo sapevo che sarebbe successo."
+ },
+ {
+  "id": "\\bI guess I wanted to see you win.",
+  "en": "\\bI guess I wanted to see you win.",
+  "it": "\\bForse volevo vederti vincere."
+ },
+ {
+  "id": "\\bNanu: I got dragged into this. Still, maybe it will be worth a watch.",
+  "en": "\\bNanu: I got dragged into this. Still, maybe it will be worth a watch.",
+  "it": "\\bNanu: Mi ci hanno trascinato. Comunque, forse varrà la pena guardare."
+ },
+ {
+  "id": "\\bHau: Haha, you're here. Time for that rematch, isn't it?",
+  "en": "\\bHau: Haha, you're here. Time for that rematch, isn't it?",
+  "it": "\\bHau: Ahah, sei qui. È ora di quella rivincita, no?"
+ },
+ {
+  "id": "\\rAcerola: Ah, you're here too. Should have guessed.",
+  "en": "\\rAcerola: Ah, you're here too. Should have guessed.",
+  "it": "\\rAcerola: Ah, ci sei anche tu. Avrei dovuto immaginarlo."
+ },
+ {
+  "id": "\\rYou're my last obstacle.",
+  "en": "\\rYou're my last obstacle.",
+  "it": "\\rSei il mio ultimo ostacolo."
+ },
+ {
+  "id": "\\rThis won't happen again.",
+  "en": "\\rThis won't happen again.",
+  "it": "\\rNon succederà più."
+ },
+ {
+  "id": "\\rYAH!",
+  "en": "\\rYAH!",
+  "it": "\\rYAH!"
+ },
+ {
+  "id": "\\rYou're strong.",
+  "en": "\\rYou're strong.",
+  "it": "\\rSei forte."
+ },
+ {
+  "id": "\\rHaha.",
+  "en": "\\rHaha.",
+  "it": "\\rAhah."
+ },
+ {
+  "id": "\\rThe battle continues.",
+  "en": "\\rThe battle continues.",
+  "it": "\\rLa lotta continua."
+ },
+ {
+  "id": "\\rJessie: We'll figure something out.",
+  "en": "\\rJessie: We'll figure something out.",
+  "it": "\\rJessie: Ci inventeremo qualcosa."
+ },
+ {
+  "id": "\\bKukui: Welcome, everyone, to the very first Alola League. The winner of this will become Alola's very own champion.",
+  "en": "\\bKukui: Welcome, everyone, to the very first Alola League. The winner of this will become Alola's very own champion.",
+  "it": "\\bKukui: Benvenuti a tutti alla primissima Lega di Alola. Il vincitore diventerà il Campione di Alola."
+ },
+ {
+  "id": "\\bBut to do that you have to get through the first round. Defeat everyone you see and be one of the last 16 remaining to move on to the next round.",
+  "en": "\\bBut to do that you have to get through the first round. Defeat everyone you see and be one of the last 16 remaining to move on to the next round.",
+  "it": "\\bMa per farlo dovete superare il primo turno. Sconfiggete chiunque incontriate e restate tra gli ultimi 16 per passare al turno successivo."
+ },
+ {
+  "id": "\\bKukui: That's it! We have our top 16. Everyone, please exit the stage.",
+  "en": "\\bKukui: That's it! We have our top 16. Everyone, please exit the stage.",
+  "it": "\\bKukui: Ecco fatto! Abbiamo i nostri 16 finalisti. Tutti gli altri, per favore, lascino il palco."
+ },
+ {
+  "id": "\\bCongratulations on advancing to the Top 16.\\nYour next battle will be on to the right.",
+  "en": "\\bCongratulations on advancing to the Top 16.\\nYour next battle will be on to the right.",
+  "it": "\\bCongratulazioni per essere entrato tra i migliori 16.\\nLa tua prossima lotta si terrà sulla destra."
+ },
+ {
+  "id": "\\bNothing's going to stop me.",
+  "en": "\\bNothing's going to stop me.",
+  "it": "\\bNiente mi fermerà."
+ },
+ {
+  "id": "\\bFirst to go out...",
+  "en": "\\bFirst to go out...",
+  "it": "\\bIl primo a uscire..."
+ },
+ {
+  "id": "\\rI'll destroy you.",
+  "en": "\\rI'll destroy you.",
+  "it": "\\rTi distruggerò."
+ },
+ {
+  "id": "\\rDon't bother me. Please.",
+  "en": "\\rDon't bother me. Please.",
+  "it": "\\rNon disturbarmi. Per favore."
+ },
+ {
+  "id": "\\rHapu: It's a good thing I'm not competing. You'd be in trouble.",
+  "en": "\\rHapu: It's a good thing I'm not competing. You'd be in trouble.",
+  "it": "\\rHapu: Meno male che io non partecipo. Saresti nei guai."
+ },
+ {
+  "id": "\\bGladion: So, you made it, /PN? Good. I was afraid this was going to be too easy.",
+  "en": "\\bGladion: So, you made it, /PN? Good. I was afraid this was going to be too easy.",
+  "it": "\\bIridio: Allora ce l'hai fatta, /PN? Bene. Temevo che sarebbe stato troppo facile."
+ },
+ {
+  "id": "\\bYou're not getting past me.",
+  "en": "\\bYou're not getting past me.",
+  "it": "\\bNon mi supererai."
+ },
+ {
+  "id": "\\bHow did you do that?",
+  "en": "\\bHow did you do that?",
+  "it": "\\bCome hai fatto?"
+ },
+ {
+  "id": "\\rNot holding back.",
+  "en": "\\rNot holding back.",
+  "it": "\\rNiente esclusione di colpi."
+ },
+ {
+  "id": "\\rGood luck.",
+  "en": "\\rGood luck.",
+  "it": "\\rBuona fortuna."
+ },
+ {
+  "id": "\\bMy family honor is on the line.",
+  "en": "\\bMy family honor is on the line.",
+  "it": "\\bÈ in gioco l'onore della mia famiglia."
+ },
+ {
+  "id": "\\bUgh.",
+  "en": "\\bUgh.",
+  "it": "\\bUff."
+ },
+ {
+  "id": "\\b:Ilima: This isn't the Kalos League, but it looks promising.",
+  "en": "\\b:Ilima: This isn't the Kalos League, but it looks promising.",
+  "it": "\\b:Ilima: Non è la Lega di Kalos, ma promette bene."
+ },
+ {
+  "id": "\\bGood luck, eh?",
+  "en": "\\bGood luck, eh?",
+  "it": "\\bBuona fortuna, eh?"
+ },
+ {
+  "id": "\\bNot bad at all.",
+  "en": "\\bNot bad at all.",
+  "it": "\\bNiente male davvero."
+ },
+ {
+  "id": "\\bIs it hot in here?",
+  "en": "\\bIs it hot in here?",
+  "it": "\\bFa caldo qui dentro?"
+ },
+ {
+  "id": "\\bI need to cool down.",
+  "en": "\\bI need to cool down.",
+  "it": "\\bDevo rinfrescarmi."
+ },
+ {
+  "id": "\\bIt ends now.",
+  "en": "\\bIt ends now.",
+  "it": "\\bÈ finita adesso."
+ },
+ {
+  "id": "\\bI did not see this coming.",
+  "en": "\\bI did not see this coming.",
+  "it": "\\bQuesta non me l'aspettavo."
+ },
+ {
+  "id": "\\rMallow: Are you ready, /PN?",
+  "en": "\\rMallow: Are you ready, /PN?",
+  "it": "\\rIbis: Sei pronto, /PN?"
+ },
+ {
+  "id": "\\bSophocles: There's so much to consider. What should I do?",
+  "en": "\\bSophocles: There's so much to consider. What should I do?",
+  "it": "\\bChrys: Ci sono così tante cose da considerare. Cosa dovrei fare?"
+ },
+ {
+  "id": "\\bI'm here to win.",
+  "en": "\\bI'm here to win.",
+  "it": "\\bSono qui per vincere."
+ },
+ {
+  "id": "\\bGreat battle.",
+  "en": "\\bGreat battle.",
+  "it": "\\bBella lotta."
+ },
+ {
+  "id": "\\rYou know, you could have avoided me.",
+  "en": "\\rYou know, you could have avoided me.",
+  "it": "\\rSai, avresti potuto evitarmi."
+ },
+ {
+  "id": "\\rI guess I'll just watch.",
+  "en": "\\rI guess I'll just watch.",
+  "it": "\\rMi sa che mi limiterò a guardare."
+ },
+ {
+  "id": "\\bMine.",
+  "en": "\\bMine.",
+  "it": "\\bÈ mia."
+ },
+ {
+  "id": "\\bKiawe: I need to get in some extra training.",
+  "en": "\\bKiawe: I need to get in some extra training.",
+  "it": "\\bKiawe: Devo fare un po' di allenamento extra."
+ },
+ {
+  "id": "\\bI'm gonna crush you.",
+  "en": "\\bI'm gonna crush you.",
+  "it": "\\bTi straccio."
+ },
+ {
+  "id": "\\rPikachu attack!",
+  "en": "\\rPikachu attack!",
+  "it": "\\rPikachu, attacca!"
+ },
+ {
+  "id": "\\rPikachu lost.",
+  "en": "\\rPikachu lost.",
+  "it": "\\rPikachu ha perso."
+ },
+ {
+  "id": "\\bDive in.",
+  "en": "\\bDive in.",
+  "it": "\\bTuffati."
+ },
+ {
+  "id": "\\bI didn't swim to victory.",
+  "en": "\\bI didn't swim to victory.",
+  "it": "\\bNon ho nuotato verso la vittoria."
+ },
+ {
+  "id": "\\rLillie: I hope I make it through the first round. I hope you do too!",
+  "en": "\\rLillie: I hope I make it through the first round. I hope you do too!",
+  "it": "\\rLylia: Spero di superare il primo turno. E spero che ce la faccia anche tu!"
+ },
+ {
+  "id": "\\rSorry, but I have to stop you.",
+  "en": "\\rSorry, but I have to stop you.",
+  "it": "\\rMi dispiace, ma devo fermarti."
+ },
+ {
+  "id": "\\rI should have prepared more.",
+  "en": "\\rI should have prepared more.",
+  "it": "\\rAvrei dovuto prepararmi meglio."
+ },
+ {
+  "id": "\\bI've got this.",
+  "en": "\\bI've got this.",
+  "it": "\\bCi penso io."
+ },
+ {
+  "id": "\\bI thought I had it.",
+  "en": "\\bI thought I had it.",
+  "it": "\\bPensavo di avercela fatta."
+ },
+ {
+  "id": "\\bI'm... ready.",
+  "en": "\\bI'm... ready.",
+  "it": "\\bSono... pronto."
+ },
+ {
+  "id": "\\bHow am I supposed to win?",
+  "en": "\\bHow am I supposed to win?",
+  "it": "\\bCome dovrei fare a vincere?"
+ },
+ {
+  "id": "\\bHala: I'm one of the referees. Good luck to you.",
+  "en": "\\bHala: I'm one of the referees. Good luck to you.",
+  "it": "\\bHala: Sono uno degli arbitri. Buona fortuna."
+ },
+ {
+  "id": "\\bGuzma: What do you want punk?",
+  "en": "\\bGuzma: What do you want punk?",
+  "it": "\\bGuzman: Che vuoi, moccioso?"
+ },
+ {
+  "id": "\\bYou think you stand a chance?",
+  "en": "\\bYou think you stand a chance?",
+  "it": "\\bPensi di avere qualche possibilità?"
+ },
+ {
+  "id": "\\bYou were lucky.",
+  "en": "\\bYou were lucky.",
+  "it": "\\bSei stato fortunato."
+ },
+ {
+  "id": "\\bPerhaps next time.",
+  "en": "\\bPerhaps next time.",
+  "it": "\\bForse la prossima volta."
+ },
+ {
+  "id": "\\bCheck my skills out.",
+  "en": "\\bCheck my skills out.",
+  "it": "\\bAmmira la mia abilità."
+ },
+ {
+  "id": "\\bOpps.",
+  "en": "\\bOpps.",
+  "it": "\\bOps."
+ }
+]

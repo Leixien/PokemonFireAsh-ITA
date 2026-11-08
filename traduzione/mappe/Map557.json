@@ -1,0 +1,157 @@
+[
+ {
+  "id": "\\bPaul: What do you want?",
+  "en": "\\bPaul: What do you want?",
+  "it": "\\bPaul: Che vuoi?"
+ },
+ {
+  "id": "\\bPaul: So you're my tag partner. You still want to do this?",
+  "en": "\\bPaul: So you're my tag partner. You still want to do this?",
+  "it": "\\bPaul: Quindi sei tu il mio compagno di squadra. Vuoi ancora farlo?"
+ },
+ {
+  "id": "\\bHmph. Just don't get in my way.",
+  "en": "\\bHmph. Just don't get in my way.",
+  "it": "\\bPfui. Basta che non mi intralci."
+ },
+ {
+  "id": "\\PN teamed up with Paul!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Paul!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN ha fatto squadra con Paul!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\bOK then.",
+  "en": "\\bOK then.",
+  "it": "\\bOK, allora."
+ },
+ {
+  "id": "\\bPaul: Are you ready to keep going?",
+  "en": "\\bPaul: Are you ready to keep going?",
+  "it": "\\bPaul: Sei pronto a continuare?"
+ },
+ {
+  "id": "\\bHmph. Let's just hurry this up.",
+  "en": "\\bHmph. Let's just hurry this up.",
+  "it": "\\bPfui. Sbrighiamoci e basta."
+ },
+ {
+  "id": "\\PN teamed up with Paul!\\se[itemlevel]\\wtnp[20]",
+  "en": "\\PN teamed up with Paul!\\se[itemlevel]\\wtnp[20]",
+  "it": "\\PN ha fatto squadra con Paul!\\se[itemlevel]\\wtnp[20]"
+ },
+ {
+  "id": "\\bHurry up.",
+  "en": "\\bHurry up.",
+  "it": "\\bMuoviti."
+ },
+ {
+  "id": "\\bIt will be hard to calculate the battles with an unworthy partner.",
+  "en": "\\bIt will be hard to calculate the battles with an unworthy partner.",
+  "it": "\\bSarà difficile calcolare le lotte con un compagno indegno."
+ },
+ {
+  "id": "\\bI'm pumped. I can't wait to win.",
+  "en": "\\bI'm pumped. I can't wait to win.",
+  "it": "\\bSono carichissimo. Non vedo l'ora di vincere."
+ },
+ {
+  "id": "\\bI need to plan ahead. It's hard without knowing much about my partner though.",
+  "en": "\\bI need to plan ahead. It's hard without knowing much about my partner though.",
+  "it": "\\bDevo pianificare in anticipo. Però è difficile senza sapere molto del mio compagno."
+ },
+ {
+  "id": "\\rHello. Here you can register for the tournament.",
+  "en": "\\rHello. Here you can register for the tournament.",
+  "it": "\\rCiao. Qui puoi iscriverti al torneo."
+ },
+ {
+  "id": "\\rIf you register you will be assigned to a Trainer for Tag Battles. Would you like to regester?",
+  "en": "\\rIf you register you will be assigned to a Trainer for Tag Battles. Would you like to regester?",
+  "it": "\\rSe ti iscrivi, ti verrà assegnato un Allenatore per le Lotte in Coppia. Vuoi iscriverti?"
+ },
+ {
+  "id": "\\rGreat! Let's set you up for a battle.",
+  "en": "\\rGreat! Let's set you up for a battle.",
+  "it": "\\rOttimo! Ti preparo per una lotta."
+ },
+ {
+  "id": "\\rAlright your first battle will be ready when you find your partner. His name is Paul.",
+  "en": "\\rAlright your first battle will be ready when you find your partner. His name is Paul.",
+  "it": "\\rBene, la tua prima lotta sarà pronta quando avrai trovato il tuo compagno. Si chiama Paul."
+ },
+ {
+  "id": "\\rNo problem. Have a good day.",
+  "en": "\\rNo problem. Have a good day.",
+  "it": "\\rNessun problema. Buona giornata."
+ },
+ {
+  "id": "\\rYou have already registered.",
+  "en": "\\rYou have already registered.",
+  "it": "\\rTi sei già iscritto."
+ },
+ {
+  "id": "\\rThe Tag Battle event is over.",
+  "en": "\\rThe Tag Battle event is over.",
+  "it": "\\rL'evento delle Lotte in Coppia è terminato."
+ },
+ {
+  "id": "\\rDawn: \\PN, you made it. Good luck.",
+  "en": "\\rDawn: \\PN, you made it. Good luck.",
+  "it": "\\rLucinda: \\PN, ce l'hai fatta. Buona fortuna."
+ },
+ {
+  "id": "\\bThis is the battle field. You are not registered though.",
+  "en": "\\bThis is the battle field. You are not registered though.",
+  "it": "\\bQuesto è il campo di lotta. Però non sei iscritto."
+ },
+ {
+  "id": "\\bThis is the battle field. Please find your partner.",
+  "en": "\\bThis is the battle field. Please find your partner.",
+  "it": "\\bQuesto è il campo di lotta. Trova il tuo compagno, per favore."
+ },
+ {
+  "id": "\\bRight this way.",
+  "en": "\\bRight this way.",
+  "it": "\\bDa questa parte, prego."
+ },
+ {
+  "id": "\\bYou need your partner to battle.",
+  "en": "\\bYou need your partner to battle.",
+  "it": "\\bTi serve il tuo compagno per lottare."
+ },
+ {
+  "id": "\\bThe Tag Battle event is over.",
+  "en": "\\bThe Tag Battle event is over.",
+  "it": "\\bL'evento delle Lotte in Coppia è terminato."
+ },
+ {
+  "id": "\\bBrock: I hope I get matched with a cute girl.",
+  "en": "\\bBrock: I hope I get matched with a cute girl.",
+  "it": "\\bBrock: Spero di finire in coppia con una ragazza carina."
+ },
+ {
+  "id": "\\rNurse Joy: Please take a rest.",
+  "en": "\\rNurse Joy: Please take a rest.",
+  "it": "\\rInfermiera Joy: Riposati, per favore."
+ },
+ {
+  "id": "\\rOh, good! You and your Pokémon are looking great. Take care now!",
+  "en": "\\rOh, good! You and your Pokémon are looking great.  Take care now!",
+  "it": "\\rOh, bene! Tu e i tuoi Pokémon avete un ottimo aspetto. Abbi cura di te!"
+ },
+ {
+  "id": "\\rMy partner better take this seriously. I aim to win.",
+  "en": "\\rMy partner better take this seriously. I aim to win.",
+  "it": "\\rSarà meglio che il mio compagno faccia sul serio. Io punto a vincere."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

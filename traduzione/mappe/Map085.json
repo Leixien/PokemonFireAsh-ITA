@@ -1,0 +1,67 @@
+[
+ {
+  "id": "\\bDrayden: I'd like to thank you for your help in developing Iris's abilities. She's become an excellent Trainer.",
+  "en": "\\bDrayden: I'd like to thank you for your help in developing Iris's abilities. She's become an excellent Trainer.",
+  "it": "\\bAristide: Vorrei ringraziarti per aver aiutato Iris a sviluppare le sue capacità. È diventata un'Allenatrice eccellente."
+ },
+ {
+  "id": "\\rIris: \\PN! It's great to see you again. Can you believe we're both competing in the same competition?",
+  "en": "\\rIris: \\PN! It's great to see you again. Can you believe we're both competing in the same competition?",
+  "it": "\\rIris: \\PN! Che bello rivederti. Ci credi che partecipiamo tutti e due allo stesso torneo?"
+ },
+ {
+  "id": "\\rDon't think I'm going to be easy though. Since we last saw each other I've met and battled many Dragon-type Trainers and Pokémon.",
+  "en": "\\rDon't think I'm going to be easy though. Since we last saw each other I've met and battled many Dragon-type Trainers and Pokémon.",
+  "it": "\\rMa non pensare che sarò facile da battere. Dall'ultima volta che ci siamo visti ho incontrato e affrontato tanti Allenatori e Pokémon di tipo Drago."
+ },
+ {
+  "id": "\\rPlus, I'm now the Champion of Unova. That's not enough to be a Dragon Mater yet. Winning this battle against you will get me one step closer to that.",
+  "en": "\\rPlus, I'm now the Champion of Unova. That's not enough to be a Dragon Mater yet. Winning this battle against you will get me one step closer to that.",
+  "it": "\\rIn più, ora sono la Campionessa di Unima. Ma non basta ancora per essere una Maestra dei Draghi. Vincere questa lotta contro di te mi avvicinerà di un passo a quel traguardo."
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 99. You have entered the Ultra Class.",
+  "en": "Rotom Phone: Based on performance, your rank is now 99. You have entered the Ultra Class.",
+  "it": "Rotom Phone: In base ai risultati, ora sei al posto 99 della classifica. Sei entrato nella Classe Ultra."
+ },
+ {
+  "id": "\\rIris: Ugh, I can't believe I lost. Don't worry, I'll keep getting stronger. Let's battle again once I reach the Ultra Class!",
+  "en": "\\rIris: Ugh, I can't believe I lost. Don't worry, I'll keep getting stronger. Let's battle again once I reach the Ultra Class!",
+  "it": "\\rIris: Uff, non ci credo che ho perso. Non preoccuparti, continuerò a diventare più forte. Rifacciamo una lotta quando avrò raggiunto la Classe Ultra!"
+ },
+ {
+  "id": "\\rIris: You're so good, but don't be surprised if I win next time.",
+  "en": "\\rIris: You're so good, but don't be surprised if I win next time.",
+  "it": "\\rIris: Sei proprio bravo, ma non stupirti se la prossima volta vinco io."
+ },
+ {
+  "id": "\\rIris: Wha! ...Hi \\PN! Back to battle a Champion? Good, because I need all the experience I can get if I'm going to become a Dragon Master.",
+  "en": "\\rIris: Wha! ...Hi \\PN! Back to battle a Champion? Good, because I need all the experience I can get if I'm going to become a Dragon Master.",
+  "it": "\\rIris: Wah! ...Ciao \\PN! Sei tornato a sfidare una Campionessa? Bene, perché mi serve tutta l'esperienza possibile se voglio diventare una Maestra dei Draghi."
+ },
+ {
+  "id": "\\bWelcome to the Opelucid Gym.",
+  "en": "\\bWelcome to the Opelucid Gym.",
+  "it": "\\bBenvenuto nella Palestra di Boreduopoli."
+ },
+ {
+  "id": "\\rDon't expect an easy victory around here.",
+  "en": "\\rDon't expect an easy victory around here.",
+  "it": "\\rQui non aspettarti una vittoria facile."
+ },
+ {
+  "id": "\\rDrayden is far stronger than your average Trainer.",
+  "en": "\\rDrayden is far stronger than your average Trainer.",
+  "it": "\\rAristide è molto più forte dell'Allenatore medio."
+ },
+ {
+  "id": "\\bDrayden uses Dragon type Pokémon. They are weak aganst the Dragon, Ice, and Fairy types.",
+  "en": "\\bDrayden uses Dragon type Pokémon. They are weak aganst the Dragon, Ice, and Fairy types.",
+  "it": "\\bAristide usa Pokémon di tipo Drago. Sono deboli contro i tipi Drago, Ghiaccio e Folletto."
+ },
+ {
+  "id": "\\bThey are strong against Dragon. They are resistant to Electric, Fire, Grass, and Water.",
+  "en": "\\bThey are strong against Dragon. They are resistant to Electric, Fire, Grass, and Water.",
+  "it": "\\bSono forti contro il tipo Drago e resistono ai tipi Elettro, Fuoco, Erba e Acqua."
+ }
+]

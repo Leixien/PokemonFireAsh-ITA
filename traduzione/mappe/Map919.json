@@ -1,0 +1,312 @@
+[
+ {
+  "id": "\\rHeading for my office?",
+  "en": "\\rHeading for my office?",
+  "it": "\\rStai andando nel mio ufficio?"
+ },
+ {
+  "id": "\\rThere's nothing of value in there.",
+  "en": "\\rThere's nothing of value in there.",
+  "it": "\\rLì dentro non c'è niente di valore."
+ },
+ {
+  "id": "\\bYou look tired. Take a break.",
+  "en": "\\bYou look tired. Take a break.",
+  "it": "\\bSembri stanco. Fai una pausa."
+ },
+ {
+  "id": "\\bOh, good! You and your Pokémon are looking great.",
+  "en": "\\bOh, good! You and your Pokémon are looking great.",
+  "it": "\\bOh, bene! Tu e i tuoi Pokémon avete un ottimo aspetto."
+ },
+ {
+  "id": "\\bWorking here is a blast!",
+  "en": "\\bWorking here is a blast!",
+  "it": "\\bLavorare qui è uno spasso!"
+ },
+ {
+  "id": "\\bWe need to find the Pokémon that can use this.",
+  "en": "\\bWe need to find the Pokémon that can use this.",
+  "it": "\\bDobbiamo trovare il Pokémon che può usare questo."
+ },
+ {
+  "id": "\\bI hope you figure it out.",
+  "en": "\\bI hope you figure it out.",
+  "it": "\\bSpero che tu riesca a capirlo."
+ },
+ {
+  "id": "...",
+  "en": "...",
+  "it": "..."
+ },
+ {
+  "id": "\\bHere to disrupt me?",
+  "en": "\\bHere to disrupt me?",
+  "it": "\\bSei qui per disturbarmi?"
+ },
+ {
+  "id": "\\bHurry along.",
+  "en": "\\bHurry along.",
+  "it": "\\bSbrigati."
+ },
+ {
+  "id": "\\rLillie: This place is always hard to visit.",
+  "en": "\\rLillie: This place is always hard to visit.",
+  "it": "\\rLylia: Venire qui è sempre difficile."
+ },
+ {
+  "id": "\\bI'm been studying how Alolan forms work on certain Pokémon. Would you happen to have a Pichu?",
+  "en": "\\bI'm been studying how Alolan forms work on certain Pokémon. Would you happen to have a Pichu?",
+  "it": "\\bSto studiando come funzionano le forme di Alola su certi Pokémon. Per caso hai un Pichu?"
+ },
+ {
+  "id": "\\bWant to trade it for my Togedemaru?",
+  "en": "\\bWant to trade it for my Togedemaru?",
+  "it": "\\bVuoi scambiarlo con il mio Togedemaru?"
+ },
+ {
+  "id": "\\bYou don't want to trade? Shame.",
+  "en": "\\bYou don't want to trade?  Shame.",
+  "it": "\\bNon vuoi fare lo scambio?  Peccato."
+ },
+ {
+  "id": "\\bOK, let's do this.",
+  "en": "\\bOK, let's do this.",
+  "it": "\\bOK, facciamolo."
+ },
+ {
+  "id": "Togedemaru",
+  "en": "Togedemaru",
+  "it": "Togedemaru"
+ },
+ {
+  "id": "Exial",
+  "en": "Exial",
+  "it": "Exial"
+ },
+ {
+  "id": "\\PN traded Pichu for Togedemaru!",
+  "en": "\\PN traded Pichu for Togedemaru!",
+  "it": "\\PN ha scambiato Pichu con Togedemaru!"
+ },
+ {
+  "id": "\\bThanks!",
+  "en": "\\bThanks!",
+  "it": "\\bGrazie!"
+ },
+ {
+  "id": "\\bMy research thanks you.",
+  "en": "\\bMy research thanks you.",
+  "it": "\\bLa mia ricerca ti ringrazia."
+ },
+ {
+  "id": "\\bAre you lost?",
+  "en": "\\bAre you lost?",
+  "it": "\\bTi sei perso?"
+ },
+ {
+  "id": "\\bFind your class soon.",
+  "en": "\\bFind your class soon.",
+  "it": "\\bRaggiungi presto la tua classe."
+ },
+ {
+  "id": "\\bFaba: Welcome to Aether Paradise. The rest of the class arrived earlier and are touring the building right now.",
+  "en": "\\bFaba: Welcome to Aether Paradise. The rest of the class arrived earlier and are touring the building right now.",
+  "it": "\\bVicio: Benvenuto al Paradiso Aether. Il resto della classe è arrivato prima e ora sta visitando l'edificio."
+ },
+ {
+  "id": "\\bMy name is Faba. I was told to check out this rare Pokémon you own.",
+  "en": "\\bMy name is Faba. I was told to check out this rare Pokémon you own.",
+  "it": "\\bMi chiamo Vicio. Mi è stato detto di esaminare questo raro Pokémon che possiedi."
+ },
+ {
+  "id": "\\bI'll run some tests on it. See if you can't find your class.",
+  "en": "\\bI'll run some tests on it. See if you can't find your class.",
+  "it": "\\bFarò qualche test su di lui. Tu vedi se riesci a trovare la tua classe."
+ },
+ {
+  "id": "\\bFaba: I did it! I managed to use that Cosmog to summon an Ultra Beast! No one before me has been this amazing!",
+  "en": "\\bFaba: I did it! I managed to use that Cosmog to summon an Ultra Beast! No one before me has been this amazing!",
+  "it": "\\bVicio: Ce l'ho fatta! Sono riuscito a usare quel Cosmog per evocare un'Ultracreatura! Nessuno prima di me è stato così straordinario!"
+ },
+ {
+  "id": "\\bGladion: It's attacking Mother. We have to slow it down!",
+  "en": "\\bGladion: It's attacking Mother. We have to slow it down!",
+  "it": "\\bIridio: Sta attaccando la mamma. Dobbiamo rallentarlo!"
+ },
+ {
+  "id": "\\rLillie: It's escaping! Hurry!",
+  "en": "\\rLillie: It's escaping! Hurry!",
+  "it": "\\rLylia: Sta scappando! Presto!"
+ },
+ {
+  "id": "\\rLusamine: Kids, stay back! I'll be fine. Seek help!",
+  "en": "\\rLusamine: Kids, stay back! I'll be fine. Seek help!",
+  "it": "\\rSamina: Ragazzi, state indietro! Starò bene. Cercate aiuto!"
+ },
+ {
+  "id": "\\bGladion: Lillie I think I know where we can go to find mother. We need to head to Poni Island. Take Nebby with you, it can help.",
+  "en": "\\bGladion: Lillie I think I know where we can go to find mother. We need to head to Poni Island. Take Nebby with you, it can help.",
+  "it": "\\bIridio: Lylia, credo di sapere dove possiamo andare a cercare la mamma. Dobbiamo andare sull'Isola di Poni. Porta Nebby con te, può aiutarci."
+ },
+ {
+  "id": "\\bFaba: You ruined it! I was going to research it!",
+  "en": "\\bFaba: You ruined it! I was going to research it!",
+  "it": "\\bVicio: Hai rovinato tutto! Volevo studiarlo!"
+ },
+ {
+  "id": "\\bWhere do you think you're going?",
+  "en": "\\bWhere do you think you're going?",
+  "it": "\\bDove credi di andare?"
+ },
+ {
+  "id": "\\bSorry about that.",
+  "en": "\\bSorry about that.",
+  "it": "\\bScusa per prima."
+ },
+ {
+  "id": "\\bKiawe: I found this more enjoyable than I thought I would.",
+  "en": "\\bKiawe: I found this more enjoyable than I thought I would.",
+  "it": "\\bKiawe: Mi è piaciuto più di quanto pensassi."
+ },
+ {
+  "id": "This ball contain a Type: Null. Would you like to take it?",
+  "en": "This ball contain a Type: Null. Would you like to take it?",
+  "it": "Questa Ball contiene un Tipo Zero. Vuoi prenderlo?"
+ },
+ {
+  "id": "\\bPlease avoid Miss Lusamine's room.",
+  "en": "\\bPlease avoid Miss Lusamine's room.",
+  "it": "\\bPer favore, evita la stanza della signora Samina."
+ },
+ {
+  "id": "Rotom: Hello there \\PN. Good to see you.",
+  "en": "Rotom: Hello there \\PN. Good to see you.",
+  "it": "Rotom: Salve, \\PN. È bello vederti."
+ },
+ {
+  "id": "\\bHelp me test this out.",
+  "en": "\\bHelp me test this out.",
+  "it": "\\bAiutami a testare questo."
+ },
+ {
+  "id": "\\bThis will help me research.",
+  "en": "\\bThis will help me research.",
+  "it": "\\bQuesto mi aiuterà nella ricerca."
+ },
+ {
+  "id": "\\rMallow: I hope Lillie is doing okay.",
+  "en": "\\rMallow: I hope Lillie is doing okay.",
+  "it": "\\rIbis: Spero che Lylia stia bene."
+ },
+ {
+  "id": "\\rLillie: We have to go after her.",
+  "en": "\\rLillie: We have to go after her.",
+  "it": "\\rLylia: Dobbiamo andare a cercarla."
+ },
+ {
+  "id": "\\rLusamine: Oh, I'm sorry I couldn't join your tour. I'm just too busy.",
+  "en": "\\rLusamine: Oh, I'm sorry I couldn't join your tour. I'm just too busy.",
+  "it": "\\rSamina: Oh, mi dispiace non essermi potuta unire alla vostra visita. Sono troppo impegnata."
+ },
+ {
+  "id": "\\rLusamine: Oh, hello there. Please take full advantage of the facilities.",
+  "en": "\\rLusamine: Oh, hello there. Please take full advantage of the facilities.",
+  "it": "\\rSamina: Oh, salve. Approfitta pure di tutte le strutture."
+ },
+ {
+  "id": "\\rBurnet: Hello \\PN. You're living with Kukui, aren't you?",
+  "en": "\\rBurnet: Hello \\PN. You're living with Kukui, aren't you?",
+  "it": "\\rBurnet: Ciao, \\PN. Vivi con Kukui, vero?"
+ },
+ {
+  "id": "\\rMy name is Burnet. I focus on the relationship between Pokémon and other dimensions.",
+  "en": "\\rMy name is Burnet. I focus on the relationship between Pokémon and other dimensions.",
+  "it": "\\rMi chiamo Burnet. Studio il rapporto tra i Pokémon e le altre dimensioni."
+ },
+ {
+  "id": "\\bHold up.",
+  "en": "\\bHold up.",
+  "it": "\\bAspetta."
+ },
+ {
+  "id": "\\bHow did I do?",
+  "en": "\\bHow did I do?",
+  "it": "\\bCom'è andata?"
+ },
+ {
+  "id": "\\rLana: What a long day.",
+  "en": "\\rLana: What a long day.",
+  "it": "\\rSuiren: Che giornata lunga."
+ },
+ {
+  "id": "\\bGladion: We will save her.",
+  "en": "\\bGladion: We will save her.",
+  "it": "\\bIridio: La salveremo."
+ },
+ {
+  "id": "\\bFaba: Good, there you are. My research shows it's powerful and has the ability to use Teleport. I'll inform you if there's anything else I can find about it.",
+  "en": "\\bFaba: Good, there you are. My research shows it's powerful and has the ability to use Teleport. I'll inform you if there's anything else I can find about it.",
+  "it": "\\bVicio: Bene, eccoti. Dalle mie ricerche risulta che è potente e sa usare Teletrasporto. Ti informerò se scopro qualcos'altro su di lui."
+ },
+ {
+  "id": "\\bYour class is just over there.",
+  "en": "\\bYour class is just over there.",
+  "it": "\\bLa tua classe è proprio lì."
+ },
+ {
+  "id": "\\rLillie: So I guess that's the whole tour. I'm sorry my mother was too busy to give it but I hope I did okay.",
+  "en": "\\rLillie: So I guess that's the whole tour. I'm sorry my mother was too busy to give it but I hope I did okay.",
+  "it": "\\rLylia: Ecco, direi che la visita è finita. Mi dispiace che mia madre fosse troppo impegnata per guidarla, ma spero di essermela cavata."
+ },
+ {
+  "id": "\\bKukui: You did great Lillie! Ah and there's \\PN. Bit late, aren't you cousin? I'm sure you were busy studying your new friend.",
+  "en": "\\bKukui: You did great Lillie! Ah and there's \\PN. Bit late, aren't you cousin? I'm sure you were busy studying your new friend.",
+  "it": "\\bKukui: Sei stata bravissima, Lylia! Ah, ecco \\PN. Un po' in ritardo, eh, cugino? Scommetto che eri impegnato a studiare il tuo nuovo amico."
+ },
+ {
+  "id": "\\bWell I hope everyone had fun. Let's head home.",
+  "en": "\\bWell I hope everyone had fun. Let's head home.",
+  "it": "\\bBene, spero che vi siate divertiti tutti. Torniamo a casa."
+ },
+ {
+  "id": "\\rWelcome to Aether Paradise. Let me know if I can help with anything.",
+  "en": "\\rWelcome to Aether Paradise. Let me know if I can help with anything.",
+  "it": "\\rBenvenuto al Paradiso Aether. Fammi sapere se posso aiutarti in qualcosa."
+ },
+ {
+  "id": "\\bHold on.",
+  "en": "\\bHold on.",
+  "it": "\\bUn momento."
+ },
+ {
+  "id": "\\bHow did you do?",
+  "en": "\\bHow did you do?",
+  "it": "\\bCom'è andata?"
+ },
+ {
+  "id": "\\bKukui: There you are cousin. You missed the whole thing.",
+  "en": "\\bKukui: There you are cousin. You missed the whole thing.",
+  "it": "\\bKukui: Eccoti, cugino. Ti sei perso tutto."
+ },
+ {
+  "id": "\\bBetter be careful here.",
+  "en": "\\bBetter be careful here.",
+  "it": "\\bMeglio stare attenti qui."
+ },
+ {
+  "id": "\\bSophocles: This place is amazing!",
+  "en": "\\bSophocles: This place is amazing!",
+  "it": "\\bChrys: Questo posto è incredibile!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

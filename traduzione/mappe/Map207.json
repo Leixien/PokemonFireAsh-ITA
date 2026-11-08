@@ -1,0 +1,82 @@
+[
+ {
+  "id": "\\rIvy: Hello \\PN. I've been expecting you. On that table there is the ball that I want Professor Oak to look at. Please take care of it.",
+  "en": "\\rIvy: Hello \\PN. I've been expecting you. On that table there is the ball that I want Professor Oak to look at.  Please take care of it.",
+  "it": "\\rIvy: Ciao \\PN. Ti stavo aspettando. Su quel tavolo c'è la Ball che voglio far esaminare al Professor Oak.  Abbine cura, mi raccomando."
+ },
+ {
+  "id": "\\rI heard you were also interested in the league our islands have. The closest Gym would be on Mikan Island.",
+  "en": "\\rI heard you were also interested in the league our islands have. The closest Gym would be on Mikan Island.",
+  "it": "\\rHo sentito che ti interessa anche la lega delle nostre isole. La Palestra più vicina è sull'Isola Mikan."
+ },
+ {
+  "id": "\\rIvy: I heard you were also interested in the league our islands have. The closest Gym would be on Mikan Island.",
+  "en": "\\rIvy: I heard you were also interested in the league our islands have. The closest Gym would be on Mikan Island.",
+  "it": "\\rIvy: Ho sentito che ti interessa anche la lega delle nostre isole. La Palestra più vicina è sull'Isola Mikan."
+ },
+ {
+  "id": "\\rIvy: You won the Orange League? Impressive.",
+  "en": "\\rIvy: You won the Orange League? Impressive.",
+  "it": "\\rIvy: Hai vinto la Lega Orange? Notevole."
+ },
+ {
+  "id": "\\rWe work on this island with Professor Ivy.",
+  "en": "\\rWe work on this island with Professor Ivy.",
+  "it": "\\rLavoriamo su quest'isola con la Professoressa Ivy."
+ },
+ {
+  "id": "\\rIvy: That is the GS Ball. Please take good care of it.",
+  "en": "\\rIvy: That is the GS Ball. Please take good care of it.",
+  "it": "\\rIvy: Quella è la GS Ball. Abbine molta cura, mi raccomando."
+ },
+ {
+  "id": "\\rI'm so glad you came to get it. It's been exhausting taking care of it.",
+  "en": "\\rI'm so glad you came to get it. It's been exhausting taking care of it.",
+  "it": "\\rSono così felice che tu sia venuto a prenderla. Prendersene cura è stato sfiancante."
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto, Johto,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto, Johto,Hoenn,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unova,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unova,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unima,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unova,Kalos,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unova,Kalos,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unima,Kalos,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unima,Kalos,Alola,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Galar,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Galar,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto, Johto,Hoenn,Sinnoh,Unima,Kalos,Alola,Galar,Annulla]"
+ },
+ {
+  "id": "\\rWe have tried everything to transport this ball, but it won't budge.",
+  "en": "\\rWe have tried everything to transport this ball, but it won't budge.",
+  "it": "\\rAbbiamo provato di tutto per spostare questa Ball, ma non si smuove di un millimetro."
+ }
+]

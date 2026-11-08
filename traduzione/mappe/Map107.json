@@ -1,0 +1,42 @@
+[
+ {
+  "id": "\\bBill: Hi there. No I'm not a Pokémon, I just got stuck in this costume.",
+  "en": "\\bBill: Hi there. No I'm not a Pokémon, I just got stuck in this costume.",
+  "it": "\\bBill: Ciao. No, non sono un Pokémon, sono solo rimasto incastrato in questo costume."
+ },
+ {
+  "id": "\\bBill: Would you mind helping me out?",
+  "en": "\\bBill: Would you mind helping me out?",
+  "it": "\\bBill: Ti dispiacerebbe aiutarmi?"
+ },
+ {
+  "id": "\\bBill: Thanks so much! Here, take this item as thanks.",
+  "en": "\\bBill: Thanks so much! Here, take this item as thanks.",
+  "it": "\\bBill: Grazie mille! Ecco, prendi questo strumento come ringraziamento."
+ },
+ {
+  "id": "\\bBill: That there is an Old Rod. Use it to catch Pokémon at sea.",
+  "en": "\\bBill: That there is an Old Rod. Use it to catch Pokémon at sea.",
+  "it": "\\bBill: Quello è un Amo Vecchio. Usalo per pescare Pokémon in mare."
+ },
+ {
+  "id": "\\bBill: Aw, why not?",
+  "en": "\\bBill: Aw, why not?",
+  "it": "\\bBill: Oh, perché no?"
+ },
+ {
+  "id": "\\bBill: I've been studying here for a long time now, trying to see a rare Pokémon.",
+  "en": "\\bBill: I've been studying here for a long time now, trying to see a rare Pokémon.",
+  "it": "\\bBill: Studio qui da tanto tempo, nella speranza di vedere un Pokémon raro."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

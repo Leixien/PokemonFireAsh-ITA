@@ -1,0 +1,87 @@
+[
+ {
+  "id": "Oldale Town\\nWhere things start off scarce.",
+  "en": "Oldale Town\\nWhere things start off scarce.",
+  "it": "Solarosa\\nDove tutto comincia con poco."
+ },
+ {
+  "id": "\\bSadly there are no Gyms in this town.",
+  "en": "\\bSadly there are no Gyms in this town.",
+  "it": "\\bPurtroppo in questa città non ci sono Palestre."
+ },
+ {
+  "id": "\\bGo to Petalburg City if you want to battle.",
+  "en": "\\bGo to Petalburg City if you want to battle.",
+  "it": "\\bVai a Petalipoli se vuoi lottare."
+ },
+ {
+  "id": "\\bSo you want to know about Pokémon that used to evolve by trade? Let me break it down for you. Which do you want to know about?",
+  "en": "\\bSo you want to know about Pokémon that used to evolve by trade? Let me break it down for you.  Which do you want to know about?",
+  "it": "\\bQuindi vuoi sapere dei Pokémon che un tempo si evolvevano tramite scambio? Te lo spiego io. Di quale vuoi sapere?"
+ },
+ {
+  "id": "\\bKadabra, Machoke, Graveler, and Haunter evolve at level 35.",
+  "en": "\\bKadabra, Machoke, Graveler, and Haunter evolve at level 35.",
+  "it": "\\bKadabra, Machoke, Graveler e Haunter si evolvono al livello 35."
+ },
+ {
+  "id": "\\bPoliwhirl and Slowpoke evolve in the day when holding a King's Rock. Onix at day with a Metal Coat. Porygon at day with an Upgrade.",
+  "en": "\\bPoliwhirl and Slowpoke evolve in the day when holding a King's Rock. Onix at day with a Metal Coat.  Porygon at day with an Upgrade.",
+  "it": "\\bPoliwhirl e Slowpoke si evolvono di giorno se tengono una Roccia di Re. Onix di giorno con una Metalcoperta. Porygon di giorno con un Upgrade."
+ },
+ {
+  "id": "\\bClamperl at day with a Deep Sea Scale. Feebas at day with a Prism Scale.",
+  "en": "\\bClamperl at day with a Deep Sea Scale. Feebas at day with a Prism Scale.",
+  "it": "\\bClamperl di giorno con una Squama Abissi. Feebas di giorno con una Squama Bella."
+ },
+ {
+  "id": "\\bScyther evolves when holding a Metal Coat at night. Seadra at night with a Dragon Scale. Porygon2 at night with a Dubious Disk.",
+  "en": "\\bScyther evolves when holding a Metal Coat at night. Seadra at night with a Dragon Scale. Porygon2 at night with a Dubious Disk.",
+  "it": "\\bScyther si evolve di notte se tiene una Metalcoperta. Seadra di notte con una Squama Drago. Porygon2 di notte con un Dubbiodisco."
+ },
+ {
+  "id": "\\bClamperl at night with a Deep Sea Tooth.",
+  "en": "\\bClamperl at night with a Deep Sea Tooth.",
+  "it": "\\bClamperl di notte con un Dente Abissi."
+ },
+ {
+  "id": "\\bCome back again if you want to know more.",
+  "en": "\\bCome back again if you want to know more.",
+  "it": "\\bTorna pure se vuoi saperne di più."
+ },
+ {
+  "id": "\\bProfessor Birch is so nice!",
+  "en": "\\bProfessor Birch is so nice!",
+  "it": "\\bIl Professor Birch è così gentile!"
+ },
+ {
+  "id": "\\bHe helped me catch my very first Wingull.",
+  "en": "\\bHe helped me catch my very first Wingull.",
+  "it": "\\bMi ha aiutato a catturare il mio primo Wingull."
+ },
+ {
+  "id": "\\bDrowzee",
+  "en": "\\bDrowzee",
+  "it": "\\bDrowzee"
+ },
+ {
+  "id": "Normal",
+  "en": "Normal",
+  "it": "Normale"
+ },
+ {
+  "id": "Item-Day",
+  "en": "Item-Day",
+  "it": "Strumento-Giorno"
+ },
+ {
+  "id": "Item-Night",
+  "en": "Item-Night",
+  "it": "Strumento-Notte"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ }
+]

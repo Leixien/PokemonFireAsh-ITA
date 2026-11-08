@@ -1,0 +1,552 @@
+[
+ {
+  "id": "Choose a topic.",
+  "en": "Choose a topic.",
+  "it": "Scegli un argomento."
+ },
+ {
+  "id": "Do you want to record your voice for the Trainer Card?",
+  "en": "Do you want to record your voice for the Trainer Card?",
+  "it": "Vuoi registrare la tua voce per la Scheda Allenatore?"
+ },
+ {
+  "id": "Thank you. Check your Trainer Card.",
+  "en": "Thank you.  Check your Trainer Card.",
+  "it": "Grazie.  Controlla la tua Scheda Allenatore."
+ },
+ {
+  "id": "You can record your voice later if you change your mind.",
+  "en": "You can record your voice later if you change your mind.",
+  "it": "Puoi registrare la tua voce più tardi, se cambi idea."
+ },
+ {
+  "id": "The download failed.",
+  "en": "The download failed.",
+  "it": "Il download non è riuscito."
+ },
+ {
+  "id": "\\v[1]",
+  "en": "\\v[1]",
+  "it": "\\v[1]"
+ },
+ {
+  "id": "You came from \\v[1], \\v[2].",
+  "en": "You came from \\v[1], \\v[2].",
+  "it": "Vieni da \\v[1], \\v[2]."
+ },
+ {
+  "id": "Couldn't retrieve the location information.",
+  "en": "Couldn't retrieve the location information.",
+  "it": "Impossibile recuperare le informazioni sulla posizione."
+ },
+ {
+  "id": "Choose a destination.\\ch[1,-1,Game Corner,Trainer area,Shadow Pokémon area,Bridges map,Water map, Harbour,Cycle Road,Cancel]",
+  "en": "Choose a destination.\\ch[1,-1,Game Corner,Trainer area,Shadow Pokémon area,Bridges map,Water map, Harbour,Cycle Road,Cancel]",
+  "it": "Scegli una destinazione.\\ch[1,-1,Casinò,Area Allenatori,Area Pokémon Ombra,Mappa ponti,Mappa acqua, Porto,Pista Ciclabile,Annulla]"
+ },
+ {
+  "id": "The $Trainer global variable contains valuable information on the player, including their trainer type, ID, name, party Pokémon, money, and so on.",
+  "en": "The $Trainer global variable contains valuable information on the player, including their trainer type, ID, name, party Pokémon, money, and so on.",
+  "it": "La variabile globale $Trainer contiene informazioni preziose sul giocatore, tra cui tipo di allenatore, ID, nome, Pokémon in squadra, denaro e così via."
+ },
+ {
+  "id": "Refer to PokeBattle_Trainer for details on Trainer objects.",
+  "en": "Refer to PokeBattle_Trainer for details on Trainer objects.",
+  "it": "Consulta PokeBattle_Trainer per i dettagli sugli oggetti Trainer."
+ },
+ {
+  "id": "The Map Connector (also known as the Visual Editor) allows you to connect maps together.",
+  "en": "The Map Connector (also known as the Visual Editor) allows you to connect maps together.",
+  "it": "Il Map Connector (noto anche come Visual Editor) ti permette di collegare le mappe tra loro."
+ },
+ {
+  "id": "In the Debug menu (F9 or in the pause menu), choose the \"Map Connections\" option.",
+  "en": "In the Debug menu (F9 or in the pause menu), choose the \"Map Connections\" option.",
+  "it": "Nel menu Debug (F9 o dal menu di pausa), scegli l'opzione \"Map Connections\"."
+ },
+ {
+  "id": "Once there, choose a map to display by pressing the S key. Select it and press the E key to edit its encounters, or double-click it to edit its metadata.",
+  "en": "Once there, choose a map to display by pressing the S key.  Select it and press the E key to edit its encounters, or double-click it to edit its metadata.",
+  "it": "Una volta lì, scegli una mappa da visualizzare premendo il tasto S.  Selezionala e premi il tasto E per modificarne gli incontri, oppure fai doppio clic per modificarne i metadati."
+ },
+ {
+  "id": "Add additional maps to the canvas by pressing the A key, and drag them around to connect them. Maps only connect if just their edges touch.",
+  "en": "Add additional maps to the canvas by pressing the A key, and drag them around to connect them.  Maps only connect if just their edges touch.",
+  "it": "Aggiungi altre mappe all'area di lavoro premendo il tasto A, e trascinale per collegarle.  Le mappe si collegano solo se si toccano esattamente ai bordi."
+ },
+ {
+  "id": "Every tile in a tileset has a terrain tag, which is a number. This number is used to give certain tiles special effects.",
+  "en": "Every tile in a tileset has a terrain tag, which is a number.  This number is used to give certain tiles special effects.",
+  "it": "Ogni tile di un tileset ha un terrain tag, che è un numero.  Questo numero serve a dare effetti speciali a certi tile."
+ },
+ {
+  "id": "For example, ledge tiles have terrain tag 1, which means the player jumps over them. Ledge tiles also have a single passable direction (set separately).",
+  "en": "For example, ledge tiles have terrain tag 1, which means the player jumps over them.  Ledge tiles also have a single passable direction (set separately).",
+  "it": "Ad esempio, i tile delle sporgenze hanno terrain tag 1, il che significa che il giocatore ci salta sopra.  Hanno anche una sola direzione percorribile (impostata a parte)."
+ },
+ {
+  "id": "Grass tiles (in which you can have wild encounters) have terrain tag 2. Water tiles have terrain tag 6 or 7.",
+  "en": "Grass tiles (in which you can have wild encounters) have terrain tag 2.  Water tiles have terrain tag 6 or 7.",
+  "it": "I tile dell'erba (in cui si possono incontrare Pokémon selvatici) hanno terrain tag 2.  I tile dell'acqua hanno terrain tag 6 o 7."
+ },
+ {
+  "id": "Terrain tag 0 means the tile has no special effect. See the wiki for more information and a complete list of all terrain tags and their effects.",
+  "en": "Terrain tag 0 means the tile has no special effect.  See the wiki for more information and a complete list of all terrain tags and their effects.",
+  "it": "Il terrain tag 0 indica che il tile non ha effetti speciali.  Consulta la wiki per maggiori informazioni e un elenco completo dei terrain tag e dei loro effetti."
+ },
+ {
+  "id": "To set a tileset's terrain tags, open the Debug menu (F9 or from the pause menu) and choose \"Edit Terrain Tags\".",
+  "en": "To set a tileset's terrain tags, open the Debug menu (F9 or from the pause menu) and choose \"Edit Terrain Tags\".",
+  "it": "Per impostare i terrain tag di un tileset, apri il menu Debug (F9 o dal menu di pausa) e scegli \"Edit Terrain Tags\"."
+ },
+ {
+  "id": "\\rThe \"Choices\" event command cannot allow more than 4 choices. This is what you should do instead.",
+  "en": "\\rThe \"Choices\" event command cannot allow more than 4 choices.  This is what you should do instead.",
+  "it": "\\rIl comando evento \"Choices\" non permette più di 4 scelte.  Ecco cosa dovresti fare invece."
+ },
+ {
+  "id": "Please choose one.\\ch[1,-1, Choice 1,Choice 2,Choice 3, Choice 4,Choice 5,Choice 6]",
+  "en": "Please choose one.\\ch[1,-1, Choice 1,Choice 2,Choice 3, Choice 4,Choice 5,Choice 6]",
+  "it": "Scegline una.\\ch[1,-1, Scelta 1,Scelta 2,Scelta 3, Scelta 4,Scelta 5,Scelta 6]"
+ },
+ {
+  "id": "The choice was cancelled.",
+  "en": "The choice was cancelled.",
+  "it": "La scelta è stata annullata."
+ },
+ {
+  "id": "Choice 1 was chosen.",
+  "en": "Choice 1 was chosen.",
+  "it": "È stata scelta la Scelta 1."
+ },
+ {
+  "id": "Choice 2 was chosen.",
+  "en": "Choice 2 was chosen.",
+  "it": "È stata scelta la Scelta 2."
+ },
+ {
+  "id": "Choice 3 was chosen.",
+  "en": "Choice 3 was chosen.",
+  "it": "È stata scelta la Scelta 3."
+ },
+ {
+  "id": "Choice 4 was chosen.",
+  "en": "Choice 4 was chosen.",
+  "it": "È stata scelta la Scelta 4."
+ },
+ {
+  "id": "Choice 5 was chosen.",
+  "en": "Choice 5 was chosen.",
+  "it": "È stata scelta la Scelta 5."
+ },
+ {
+  "id": "Choice 6 was chosen.",
+  "en": "Choice 6 was chosen.",
+  "it": "È stata scelta la Scelta 6."
+ },
+ {
+  "id": "Please choose one. This choice can't be canceled.\\ch[1,0,Choice 1,Choice 2]",
+  "en": "Please choose one.  This choice can't be canceled.\\ch[1,0,Choice 1,Choice 2]",
+  "it": "Scegline una.  Questa scelta non può essere annullata.\\ch[1,0,Scelta 1,Scelta 2]"
+ },
+ {
+  "id": "Multiple choice commands like these are enabled using the \\\\ch message command.",
+  "en": "Multiple choice commands like these are enabled using the \\\\ch message command.",
+  "it": "I comandi a scelta multipla come questi si attivano con il comando messaggio \\\\ch."
+ },
+ {
+  "id": "The bracketed area after \\\\ch consists of the Variable to store the choice, a default choice in case the player cancels, and then a number of choices.",
+  "en": "The bracketed area after \\\\ch consists of the Variable to store the choice, a default choice in case the player cancels, and then a number of choices.",
+  "it": "La parte tra parentesi dopo \\\\ch è composta dalla variabile in cui salvare la scelta, una scelta predefinita nel caso il giocatore annulli, e poi le varie scelte."
+ },
+ {
+  "id": "If the default choice is set to 0, the player can't cancel.",
+  "en": "If the default choice is set to 0, the player can't cancel.",
+  "it": "Se la scelta predefinita è impostata su 0, il giocatore non può annullare."
+ },
+ {
+  "id": "The $DEBUG flag was set. This flag is set automatically during playtesting within RMXP.",
+  "en": "The $DEBUG flag was set.  This flag is set automatically during playtesting within RMXP.",
+  "it": "Il flag $DEBUG è attivo.  Questo flag viene impostato automaticamente durante i test di gioco in RMXP."
+ },
+ {
+  "id": "Debug mode allows you to access the Debug menu (F9 or in the pause menu), and to modify Pokémon in your party/the PC.",
+  "en": "Debug mode allows you to access the Debug menu (F9 or in the pause menu), and to modify Pokémon in your party/the PC.",
+  "it": "La modalità Debug ti permette di accedere al menu Debug (F9 o dal menu di pausa) e di modificare i Pokémon nella squadra o nel PC."
+ },
+ {
+  "id": "You can also use hidden moves anytime, and hold CTRL to skip any battles and decide the outcome of Trainer battles.",
+  "en": "You can also use hidden moves anytime, and hold CTRL to skip any battles and decide the outcome of Trainer battles.",
+  "it": "Puoi anche usare le MN in qualsiasi momento, e tenere premuto CTRL per saltare le lotte e decidere l'esito delle lotte contro Allenatori."
+ },
+ {
+  "id": "Obtained all badges for the first and second regions.",
+  "en": "Obtained all badges for the first and second regions.",
+  "it": "Ottenute tutte le medaglie della prima e della seconda regione."
+ },
+ {
+  "id": "To add a badge, use $Trainer.badges[X]=true where X is a number from 0 through 7.",
+  "en": "To add a badge, use $Trainer.badges[X]=true where X is a number from 0 through 7.",
+  "it": "Per aggiungere una medaglia, usa $Trainer.badges[X]=true dove X è un numero da 0 a 7."
+ },
+ {
+  "id": "In Debug mode, you can set your badges in the Debug menu.",
+  "en": "In Debug mode, you can set your badges in the Debug menu.",
+  "it": "In modalità Debug, puoi impostare le medaglie dal menu Debug."
+ },
+ {
+  "id": "Press F8 to take a screenshot of the game.",
+  "en": "Press F8 to take a screenshot of the game.",
+  "it": "Premi F8 per fare uno screenshot del gioco."
+ },
+ {
+  "id": "The screenshot will be put in the folder where the save file is kept.",
+  "en": "The screenshot will be put in the folder where the save file is kept.",
+  "it": "Lo screenshot verrà salvato nella cartella in cui si trova il file di salvataggio."
+ },
+ {
+  "id": "Choose a text option.",
+  "en": "Choose a text option.",
+  "it": "Scegli un'opzione di testo."
+ },
+ {
+  "id": "\\bThis is the text of a male character. \\rThis is the text of a female character.",
+  "en": "\\bThis is the text of a male character. \\rThis is the text of a female character.",
+  "it": "\\bQuesto è il testo di un personaggio maschile. \\rQuesto è il testo di un personaggio femminile."
+ },
+ {
+  "id": "\\pgThis text is the colour of the player's gender. \\pogThis text is the colour of the opposite gender to the player.",
+  "en": "\\pgThis text is the colour of the player's gender.  \\pogThis text is the colour of the opposite gender to the player.",
+  "it": "\\pgQuesto testo ha il colore del sesso del giocatore.  \\pogQuesto testo ha il colore del sesso opposto a quello del giocatore."
+ },
+ {
+  "id": "\\c[0]Default text, \\c[1]blue text, \\c[2]red text, \\c[3] green text, \\c[4]cyan text, \\c[5]magenta text, \\c[6] yellow text, \\c[7]grey text, \\c[8]white text.",
+  "en": "\\c[0]Default text, \\c[1]blue text, \\c[2]red text, \\c[3] green text, \\c[4]cyan text, \\c[5]magenta text, \\c[6] yellow text, \\c[7]grey text, \\c[8]white text.",
+  "it": "\\c[0]Testo predefinito, \\c[1]testo blu, \\c[2]testo rosso, \\c[3] testo verde, \\c[4]testo ciano, \\c[5]testo magenta, \\c[6] testo giallo, \\c[7]testo grigio, \\c[8]testo bianco."
+ },
+ {
+  "id": "<b>Bold text,</b> <i>italic text,</i> <u>underlined text,</u> <s>strikethrough text,</s> <outln>outline text,</outln> <outln2>thicker outline text.</outln2>",
+  "en": "<b>Bold text,</b> <i>italic text,</i> <u>underlined text,</u> <s>strikethrough text,</s> <outln>outline text,</outln> <outln2>thicker outline text.</outln2>",
+  "it": "<b>Testo grassetto,</b> <i>testo corsivo,</i> <u>testo sottolineato,</u> <s>testo barrato,</s> <outln>testo con contorno,</outln> <outln2>testo con contorno più spesso.</outln2>"
+ },
+ {
+  "id": "<fn=Arial>Arial text,</fn> <fs=25>size 25 text,</fs> <fs=40>size 40 text,</fs> <o=128>half-transparent text.</o>",
+  "en": "<fn=Arial>Arial text,</fn> <fs=25>size 25 text,</fs> <fs=40>size 40 text,</fs> <o=128>half-transparent text.</o>",
+  "it": "<fn=Arial>Testo in Arial,</fn> <fs=25>testo dimensione 25,</fs> <fs=40>testo dimensione 40,</fs> <o=128>testo semitrasparente.</o>"
+ },
+ {
+  "id": "This is a line\\n break. Text is \\n<r>right-aligned until next line\\n break. Text is <ac>centred</ac> here. Text is <ar>right-aligned</ar> here.",
+  "en": "This is a line\\n break.  Text is \\n<r>right-aligned until next line\\n break.  Text is <ac>centred</ac> here.  Text is <ar>right-aligned</ar> here.",
+  "it": "Questo è un a\\n capo.  Il testo è \\n<r>allineato a destra fino al prossimo\\n a capo.  Qui il testo è <ac>centrato</ac>.  Qui il testo è <ar>allineato a destra</ar>."
+ },
+ {
+  "id": "\\PN is the player's name, \\PM is the player's money, \\v[12] is the content of Variable 12.",
+  "en": "\\PN is the player's name, \\PM is the player's money, \\v[12] is the content of Variable 12.",
+  "it": "\\PN è il nome del giocatore, \\PM è il denaro del giocatore, \\v[12] è il contenuto della variabile 12."
+ },
+ {
+  "id": "\\GThe money window is shown.",
+  "en": "\\GThe money window is shown.",
+  "it": "\\GViene mostrata la finestra del denaro."
+ },
+ {
+  "id": "\\CNThe coins window is shown.",
+  "en": "\\CNThe coins window is shown.",
+  "it": "\\CNViene mostrata la finestra dei gettoni."
+ },
+ {
+  "id": "\\G\\CNThe money and coins windows are both shown. The coins window must be shown second.",
+  "en": "\\G\\CNThe money and coins windows are both shown.  The coins window must be shown second.",
+  "it": "\\G\\CNVengono mostrate sia la finestra del denaro sia quella dei gettoni.  La finestra dei gettoni va mostrata per seconda."
+ },
+ {
+  "id": "\\f[introBoy]The introBoy picture from the Graphics/Pictures folder is shown.",
+  "en": "\\f[introBoy]The introBoy picture from the Graphics/Pictures folder is shown.",
+  "it": "\\f[introBoy]Viene mostrata l'immagine introBoy dalla cartella Graphics/Pictures."
+ },
+ {
+  "id": "\\ff[introBoy]The introBoy picture is shown again, but cropped to the top-left 96x96 pixels of it.",
+  "en": "\\ff[introBoy]The introBoy picture is shown again, but cropped to the top-left 96x96 pixels of it.",
+  "it": "\\ff[introBoy]Viene mostrata di nuovo l'immagine introBoy, ma ritagliata ai 96x96 pixel in alto a sinistra."
+ },
+ {
+  "id": "This is <icon=bagPocket3> bagPocket3 from the folder Graphics/Icons. Icons shown this way are not padded.",
+  "en": "This is <icon=bagPocket3> bagPocket3 from the folder Graphics/Icons.  Icons shown this way are not padded.",
+  "it": "Questa è <icon=bagPocket3> bagPocket3 dalla cartella Graphics/Icons.  Le icone mostrate così non hanno margini."
+ },
+ {
+  "id": "\\w[signskin]The windowskin has changed to \"signskin\" here.",
+  "en": "\\w[signskin]The windowskin has changed to \"signskin\" here.",
+  "it": "\\w[signskin]Qui la windowskin è cambiata in \"signskin\"."
+ },
+ {
+  "id": "\\l[3]This message box has 3 lines to it rather than 2, so more text can be shown at once. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+  "en": "\\l[3]This message box has 3 lines to it rather than 2, so more text can be shown at once.  Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+  "it": "\\l[3]Questo riquadro di testo ha 3 righe anziché 2, quindi si può mostrare più testo alla volta.  Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+ },
+ {
+  "id": "\\wuThis message box is at the top.",
+  "en": "\\wuThis message box is at the top.",
+  "it": "\\wuQuesto riquadro di testo è in alto."
+ },
+ {
+  "id": "\\wmThis message box is in the middle.",
+  "en": "\\wmThis message box is in the middle.",
+  "it": "\\wmQuesto riquadro di testo è al centro."
+ },
+ {
+  "id": "\\wuThis message box is\\wm jumping around the screen\\wd in a rather off-putting way.",
+  "en": "\\wuThis message box is\\wm jumping around the screen\\wd in a rather off-putting way.",
+  "it": "\\wuQuesto riquadro di testo\\wm salta per lo schermo\\wd in modo piuttosto fastidioso."
+ },
+ {
+  "id": "\\opThis message box slides on-screen at the start.",
+  "en": "\\opThis message box slides on-screen at the start.",
+  "it": "\\opQuesto riquadro di testo entra scorrendo all'inizio."
+ },
+ {
+  "id": "\\clThis message box slides off-screen at the end.",
+  "en": "\\clThis message box slides off-screen at the end.",
+  "it": "\\clQuesto riquadro di testo esce scorrendo alla fine."
+ },
+ {
+  "id": "\\ts[]This text appeared instantly!",
+  "en": "\\ts[]This text appeared instantly!",
+  "it": "\\ts[]Questo testo è apparso all'istante!"
+ },
+ {
+  "id": "\\ts[5]This text is slow.",
+  "en": "\\ts[5]This text is slow.",
+  "it": "\\ts[5]Questo testo è lento."
+ },
+ {
+  "id": "\\se[itemlevel]Sound effect itemlevel was played.",
+  "en": "\\se[itemlevel]Sound effect itemlevel was played.",
+  "it": "\\se[itemlevel]È stato riprodotto l'effetto sonoro itemlevel."
+ },
+ {
+  "id": "Music effect Jingle - HMTM will be played. \\me[Jingle - HMTM]",
+  "en": "Music effect Jingle - HMTM will be played. \\me[Jingle - HMTM]",
+  "it": "Verrà riprodotto l'effetto musicale Jingle - HMTM. \\me[Jingle - HMTM]"
+ },
+ {
+  "id": "A complete list of all message options is available on the wiki.",
+  "en": "A complete list of all message options is available on the wiki.",
+  "it": "Un elenco completo di tutte le opzioni dei messaggi è disponibile sulla wiki."
+ },
+ {
+  "id": "\\PN received a Pokédex!",
+  "en": "\\PN received a Pokédex!",
+  "it": "\\PN ha ricevuto un Pokédex!"
+ },
+ {
+  "id": "You already have a Pokédex.",
+  "en": "You already have a Pokédex.",
+  "it": "Hai già un Pokédex."
+ },
+ {
+  "id": "You don't have any Pokémon with you.",
+  "en": "You don't have any Pokémon with you.",
+  "it": "Non hai Pokémon con te."
+ },
+ {
+  "id": "\\v[2] is the first Pokémon in your party.",
+  "en": "\\v[2] is the first Pokémon in your party.",
+  "it": "\\v[2] è il primo Pokémon della tua squadra."
+ },
+ {
+  "id": "You have a Celebi in your party.",
+  "en": "You have a Celebi in your party.",
+  "it": "Hai un Celebi in squadra."
+ },
+ {
+  "id": "You don't have a Celebi in your party.",
+  "en": "You don't have a Celebi in your party.",
+  "it": "Non hai un Celebi in squadra."
+ },
+ {
+  "id": "\\rRemember to read the wiki for further information. An Internet shortcut to the wiki can be found in the main folder.",
+  "en": "\\rRemember to read the wiki for further information.  An Internet shortcut to the wiki can be found in the main folder.",
+  "it": "\\rRicorda di leggere la wiki per ulteriori informazioni.  Nella cartella principale trovi un collegamento Internet alla wiki."
+ },
+ {
+  "id": "\\PN obtained six different Pokémon.",
+  "en": "\\PN obtained six different Pokémon.",
+  "it": "\\PN ha ottenuto sei Pokémon diversi."
+ },
+ {
+  "id": "Also received a Pokégear and Running Shoes.",
+  "en": "Also received a Pokégear and Running Shoes.",
+  "it": "Ricevuti anche un Pokégear e le Scarpe da corsa."
+ },
+ {
+  "id": "\\rOh... Are you all right? Well, you'll have better luck this time.",
+  "en": "\\rOh...  Are you all right?  Well, you'll have better luck this time.",
+  "it": "\\rOh...  Stai bene?  Beh, stavolta avrai più fortuna."
+ },
+ {
+  "id": "[This message was triggered by the \"Starting Over\" switch, which is currently set to true. Now turning that switch off.]",
+  "en": "[This message was triggered by the \"Starting Over\" switch, which is currently set to true.  Now turning that switch off.]",
+  "it": "[Questo messaggio è stato attivato dall'interruttore \"Starting Over\", che al momento è attivo.  Ora lo disattivo.]"
+ },
+ {
+  "id": "Choose a roaming Pokémon.",
+  "en": "Choose a roaming Pokémon.",
+  "it": "Scegli un Pokémon vagante."
+ },
+ {
+  "id": "Switch 53 is on. Latias and Latios are roaming.",
+  "en": "Switch 53 is on.  Latias and Latios are roaming.",
+  "it": "L'interruttore 53 è attivo.  Latias e Latios stanno vagando."
+ },
+ {
+  "id": "Switch 53 is off. Latias and Latios are not roaming. Do you want to make Latias and Latios roam?",
+  "en": "Switch 53 is off.  Latias and Latios are not roaming.  Do you want to make Latias and Latios roam?",
+  "it": "L'interruttore 53 è disattivo.  Latias e Latios non stanno vagando.  Vuoi farli vagare?"
+ },
+ {
+  "id": "Latias and Latios are now roaming.",
+  "en": "Latias and Latios are now roaming.",
+  "it": "Ora Latias e Latios stanno vagando."
+ },
+ {
+  "id": "Switch 54 is on. Kyogre is roaming.",
+  "en": "Switch 54 is on.  Kyogre is roaming.",
+  "it": "L'interruttore 54 è attivo.  Kyogre sta vagando."
+ },
+ {
+  "id": "Switch 54 is off. Kyogre is not roaming. Do you want to make Kyogre roam?",
+  "en": "Switch 54 is off.  Kyogre is not roaming.  Do you want to make Kyogre roam?",
+  "it": "L'interruttore 54 è disattivo.  Kyogre non sta vagando.  Vuoi farlo vagare?"
+ },
+ {
+  "id": "Kyogre is now roaming.",
+  "en": "Kyogre is now roaming.",
+  "it": "Ora Kyogre sta vagando."
+ },
+ {
+  "id": "Switch 55 is on. Entei is roaming.",
+  "en": "Switch 55 is on.  Entei is roaming.",
+  "it": "L'interruttore 55 è attivo.  Entei sta vagando."
+ },
+ {
+  "id": "Switch 55 is off. Entei is not roaming. Do you want to make Entei roam?",
+  "en": "Switch 55 is off.  Entei is not roaming.  Do you want to make Entei roam?",
+  "it": "L'interruttore 55 è disattivo.  Entei non sta vagando.  Vuoi farlo vagare?"
+ },
+ {
+  "id": "Entei is now roaming.",
+  "en": "Entei is now roaming.",
+  "it": "Ora Entei sta vagando."
+ },
+ {
+  "id": "Choose a destination.\\ch[1,-1,Poké Center,Mart, Pokémon Gym,Day Care,Cave,Safari Zone, Bug Catching Contest,Battle Frontier,Cancel]",
+  "en": "Choose a destination.\\ch[1,-1,Poké Center,Mart, Pokémon Gym,Day Care,Cave,Safari Zone, Bug Catching Contest,Battle Frontier,Cancel]",
+  "it": "Scegli una destinazione.\\ch[1,-1,Centro Pokémon,Market, Palestra Pokémon,Pensione,Grotta,Zona Safari, Gara Pigliamosche,Parco Lotta,Annulla]"
+ },
+ {
+  "id": "Voice Recorder",
+  "en": "Voice Recorder",
+  "it": "Registratore vocale"
+ },
+ {
+  "id": "Download a file",
+  "en": "Download a file",
+  "it": "Scarica un file"
+ },
+ {
+  "id": "Your real world location",
+  "en": "Your real world location",
+  "it": "La tua posizione reale"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "About the trainer",
+  "en": "About the trainer",
+  "it": "Sull'allenatore"
+ },
+ {
+  "id": "Map Connector",
+  "en": "Map Connector",
+  "it": "Map Connector"
+ },
+ {
+  "id": "Terrain Tags",
+  "en": "Terrain Tags",
+  "it": "Terrain Tag"
+ },
+ {
+  "id": "Debug mode",
+  "en": "Debug mode",
+  "it": "Modalità Debug"
+ },
+ {
+  "id": "Give all badges",
+  "en": "Give all badges",
+  "it": "Dai tutte le medaglie"
+ },
+ {
+  "id": "Taking screenshots",
+  "en": "Taking screenshots",
+  "it": "Fare screenshot"
+ },
+ {
+  "id": "Colour and formatting",
+  "en": "Colour and formatting",
+  "it": "Colori e formattazione"
+ },
+ {
+  "id": "Showing extra things",
+  "en": "Showing extra things",
+  "it": "Mostrare altri elementi"
+ },
+ {
+  "id": "Other",
+  "en": "Other",
+  "it": "Altro"
+ },
+ {
+  "id": "What is your first Pokémon?",
+  "en": "What is your first Pokémon?",
+  "it": "Qual è il tuo primo Pokémon?"
+ },
+ {
+  "id": "Is a Celebi in your party?",
+  "en": "Is a Celebi in your party?",
+  "it": "C'è un Celebi in squadra?"
+ },
+ {
+  "id": "Give a Celebi",
+  "en": "Give a Celebi",
+  "it": "Dai un Celebi"
+ },
+ {
+  "id": "Latias/Latios",
+  "en": "Latias/Latios",
+  "it": "Latias/Latios"
+ },
+ {
+  "id": "Kyogre",
+  "en": "Kyogre",
+  "it": "Kyogre"
+ },
+ {
+  "id": "Entei",
+  "en": "Entei",
+  "it": "Entei"
+ }
+]

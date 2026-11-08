@@ -1,0 +1,232 @@
+[
+ {
+  "id": "\\rI came all the way from Alola for this vacation. I can't wait to get back home though.",
+  "en": "\\rI came all the way from Alola for this vacation. I can't wait to get back home though.",
+  "it": "\\rSono venuta fin da Alola per questa vacanza. Però non vedo l'ora di tornare a casa."
+ },
+ {
+  "id": "\\bI always believed in the classics. Here, take one.",
+  "en": "\\bI always believed in the classics. Here, take one.",
+  "it": "\\bHo sempre creduto nei classici. Tieni, prendine uno."
+ },
+ {
+  "id": "\\bThose were our only options when I was a Trainer. That or hard work.",
+  "en": "\\bThose were our only options when I was a Trainer.  That or hard work.",
+  "it": "\\bQuando ero un Allenatore avevamo solo queste opzioni. O quello, o il duro lavoro."
+ },
+ {
+  "id": "\\rOr...",
+  "en": "\\rOr...",
+  "it": "\\rOppure..."
+ },
+ {
+  "id": "\\rOh, are you new? Please enjoy one on the house.",
+  "en": "\\rOh, are you new? Please enjoy one on the house.",
+  "it": "\\rOh, sei nuovo? Prendine uno, offre la casa."
+ },
+ {
+  "id": "\\rPlease continue to support us.",
+  "en": "\\rPlease continue to support us.",
+  "it": "\\rContinua a sostenerci, per favore."
+ },
+ {
+  "id": "\\bI'm waiting for dark to explore the city.",
+  "en": "\\bI'm waiting for dark to explore the city.",
+  "it": "\\bAspetto che faccia buio per esplorare la città."
+ },
+ {
+  "id": "\\rOleana: Are you leaving?",
+  "en": "\\rOleana: Are you leaving?",
+  "it": "\\rOleana: Te ne vai?"
+ },
+ {
+  "id": "\\bWelcome to Rose Tower.",
+  "en": "\\bWelcome to Rose Tower.",
+  "it": "\\bBenvenuto alla Torre Rose."
+ },
+ {
+  "id": "\\bI want to go battle someone.",
+  "en": "\\bI want to go battle someone.",
+  "it": "\\bHo voglia di andare a lottare con qualcuno."
+ },
+ {
+  "id": "\\rLiving here isn't easy. There's so much going on it can be hard to keep up with it all.",
+  "en": "\\rLiving here isn't easy. There's so much going on it can be hard to keep up with it all.",
+  "it": "\\rVivere qui non è facile. Succedono così tante cose che è difficile stare al passo con tutto."
+ },
+ {
+  "id": "\\bGalar is home to Dynamax. Rumor has it that the power came from an ancient Pokémon.",
+  "en": "\\bGalar is home to Dynamax. Rumor has it that the power came from an ancient Pokémon.",
+  "it": "\\bGalar è la patria del Dynamax. Si dice che questo potere provenga da un antico Pokémon."
+ },
+ {
+  "id": "\\bThis hotel is the height of luxury.",
+  "en": "\\bThis hotel is the height of luxury.",
+  "it": "\\bQuesto hotel è il massimo del lusso."
+ },
+ {
+  "id": "\\bWhere would you like to go?",
+  "en": "\\bWhere would you like to go?",
+  "it": "\\bDove vorresti andare?"
+ },
+ {
+  "id": "\\bWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wedgehurst,Exit]",
+  "en": "\\bWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wedgehurst,Exit]",
+  "it": "\\bDove vorresti andare?\\ch[1,-1,Zafferanopoli, Fiordoropoli,Freezington,Wedgehurst,Esci]"
+ },
+ {
+  "id": "\\bDo you have your key?",
+  "en": "\\bDo you have your key?",
+  "it": "\\bHai la tua chiave?"
+ },
+ {
+  "id": "\\rMime Mime",
+  "en": "\\rMime Mime",
+  "it": "\\rMime Mime"
+ },
+ {
+  "id": "\\bI've referred multiple matches for the Champion. He never loses. It's like he's in a league of his own.",
+  "en": "\\bI've referred multiple matches for the Champion. He never loses. It's like he's in a league of his own.",
+  "it": "\\bHo arbitrato diversi incontri del Campione. Non perde mai. È come se giocasse in un altro campionato."
+ },
+ {
+  "id": "\\rWelcome to The Rose of the Rondelands hotel.",
+  "en": "\\rWelcome to The Rose of the Rondelands hotel.",
+  "it": "\\rBenvenuto all'hotel Rose of the Rondelands."
+ },
+ {
+  "id": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium. Please take this as an apology.",
+  "en": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium. Please take this as an apology.",
+  "it": "\\rMi dispiace, l'hotel è al completo per via della lotta imminente allo Stadio di Wyndon. Accetta questo come scusa."
+ },
+ {
+  "id": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium.",
+  "en": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium.",
+  "it": "\\rMi dispiace, l'hotel è al completo per via della lotta imminente allo Stadio di Wyndon."
+ },
+ {
+  "id": "\\bI collect rare items. I bet I have something you don't have. That's right. It's a Rising Badge.",
+  "en": "\\bI collect rare items. I bet I have something you don't have. That's right. It's a Rising Badge.",
+  "it": "\\bColleziono oggetti rari. Scommetto che ho qualcosa che tu non hai. Proprio così. È una Medaglia Levante."
+ },
+ {
+  "id": "\\b...Oh, you went to Johto and got one too? Well, I guess my collection isn't that impressive. You might as well get rid of some of it for me.",
+  "en": "\\b...Oh, you went to Johto and got one too? Well, I guess my collection isn't that impressive. You might as well get rid of some of it for me.",
+  "it": "\\b...Oh, sei andato a Johto e ne hai presa una anche tu? Beh, allora la mia collezione non è poi così impressionante. Tanto vale che tu me ne tolga un po' di torno."
+ },
+ {
+  "id": "\\bMaybe I should try collecting friends instead.",
+  "en": "\\bMaybe I should try collecting friends instead.",
+  "it": "\\bForse dovrei provare a collezionare amici, invece."
+ },
+ {
+  "id": "\\rOleana: The upper limits of Rose Tower are off- limits.",
+  "en": "\\rOleana: The upper limits of Rose Tower are off- limits.",
+  "it": "\\rOleana: I piani superiori della Torre Rose sono off- limits."
+ },
+ {
+  "id": "\\rOleana: Are you ready to meet with Chariman Rose?",
+  "en": "\\rOleana: Are you ready to meet with Chariman Rose?",
+  "it": "\\rOleana: Sei pronto a incontrare il Presidente Rose?"
+ },
+ {
+  "id": "\\rThe upper limits of Rose Tower are off-limits.",
+  "en": "\\rThe upper limits of Rose Tower are off-limits.",
+  "it": "\\rI piani superiori della Torre Rose sono off-limits."
+ },
+ {
+  "id": "\\bI'm taking a break before heading back out and exploring.",
+  "en": "\\bI'm taking a break before heading back out and exploring.",
+  "it": "\\bMi prendo una pausa prima di tornare fuori a esplorare."
+ },
+ {
+  "id": "\\rA Champion, are you? I guess you might need something like this.",
+  "en": "\\rA Champion, are you? I guess you might need something like this.",
+  "it": "\\rUn Campione, eh? Allora forse ti servirà qualcosa del genere."
+ },
+ {
+  "id": "\\rThose candies work based on experience over levels. Try using that one on a weak Pokémon.",
+  "en": "\\rThose candies work based on experience over levels. Try using that one on a weak Pokémon. ",
+  "it": "\\rQuelle caramelle funzionano in base all'esperienza, non ai livelli. Prova a usare quella su un Pokémon debole. "
+ },
+ {
+  "id": "\\bRose: Thank you for meeting with me, \\PN. I can sense you have a lot of potential. It reminds me of when I discovered Leon.",
+  "en": "\\bRose: Thank you for meeting with me, \\PN. I can sense you have a lot of potential. It reminds me of when I discovered Leon.",
+  "it": "\\bRose: Grazie per avermi incontrato, \\PN. Sento che hai un grande potenziale. Mi ricorda di quando ho scoperto Dandel."
+ },
+ {
+  "id": "\\bWe've both worked hard to get where we are today. I plan to use that success to preserve the very best that Galar has to offer.",
+  "en": "\\bWe've both worked hard to get where we are today. I plan to use that success to preserve the very best that Galar has to offer.",
+  "it": "\\bAbbiamo entrambi lavorato sodo per arrivare dove siamo oggi. Intendo usare questo successo per preservare il meglio che Galar ha da offrire."
+ },
+ {
+  "id": "\\bMy point is that you have promise as a Trainer and I'd like to offer my resources to support your battling ambitions. What do you think?",
+  "en": "\\bMy point is that you have promise as a Trainer and I'd like to offer my resources to support your battling ambitions. What do you think?",
+  "it": "\\bIn sostanza, sei un Allenatore promettente e vorrei offrirti le mie risorse per sostenere le tue ambizioni nelle lotte. Che ne pensi?"
+ },
+ {
+  "id": "\\b... You don't want it?",
+  "en": "\\b... You don't want it?",
+  "it": "\\b... Non lo vuoi?"
+ },
+ {
+  "id": "\\rOleana: How dare you. Do you have any idea what kind of honor this is?",
+  "en": "\\rOleana: How dare you. Do you have any idea what kind of honor this is?",
+  "it": "\\rOleana: Come osi? Hai idea di che onore sia questo?"
+ },
+ {
+  "id": "\\bRose: Now, now, \\PN is following his own path. I can admire that.",
+  "en": "\\bRose: Now, now, \\PN is following his own path. I can admire that.",
+  "it": "\\bRose: Su, su, \\PN sta seguendo la sua strada. È una cosa che posso ammirare."
+ },
+ {
+  "id": "\\bThank you for your time.",
+  "en": "\\bThank you for your time. ",
+  "it": "\\bGrazie per il tuo tempo. "
+ },
+ {
+  "id": "\\bI've worked here for over a year. The stuff we're doing is going to change the world.",
+  "en": "\\bI've worked here for over a year. The stuff we're doing is going to change the world.",
+  "it": "\\bLavoro qui da più di un anno. Quello che stiamo facendo cambierà il mondo."
+ },
+ {
+  "id": "\\rMost people don't take the train these days. The Flying Taxi is how most people travel.",
+  "en": "\\rMost people don't take the train these days. The Flying Taxi is how most people travel.",
+  "it": "\\rDi questi tempi pochi prendono il treno. Quasi tutti viaggiano con il Volotaxi."
+ },
+ {
+  "id": "\\bI like to come here after a long day of battling.",
+  "en": "\\bI like to come here after a long day of battling.",
+  "it": "\\bMi piace venire qui dopo una lunga giornata di lotte."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Saffron",
+  "en": "Saffron",
+  "it": "Zafferanopoli"
+ },
+ {
+  "id": "Goldenrod",
+  "en": "Goldenrod",
+  "it": "Fiordoropoli"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Freezington",
+  "en": "Freezington",
+  "it": "Freezington"
+ }
+]

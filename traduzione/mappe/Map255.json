@@ -1,0 +1,47 @@
+[
+ {
+  "id": "\\rThink you can navigate this forest?",
+  "en": "\\rThink you can navigate this forest?",
+  "it": "\\rPensi di riuscire a orientarti in questa foresta?"
+ },
+ {
+  "id": "\\rBe careful. The forest is dangerous.",
+  "en": "\\rBe careful. The forest is dangerous.",
+  "it": "\\rStai attento. La foresta è pericolosa."
+ },
+ {
+  "id": "\\rDon't get lost.",
+  "en": "\\rDon't get lost.",
+  "it": "\\rNon perderti."
+ },
+ {
+  "id": "\\rMany have disappeared in here.",
+  "en": "\\rMany have disappeared in here.",
+  "it": "\\rIn molti sono scomparsi qui dentro."
+ },
+ {
+  "id": "\\bIt's really cold here.",
+  "en": "\\bIt's really cold here.",
+  "it": "\\bFa davvero freddo qui."
+ },
+ {
+  "id": "\\rChika",
+  "en": "\\rChika",
+  "it": "\\rChika"
+ },
+ {
+  "id": "You warmed Chikorita up. Would you like to take it with you?",
+  "en": "You warmed Chikorita up. Would you like to take it with you?",
+  "it": "Hai riscaldato Chikorita. Vuoi portarlo con te?"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

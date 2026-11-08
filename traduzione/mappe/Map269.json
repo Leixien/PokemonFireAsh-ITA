@@ -1,0 +1,162 @@
+[
+ {
+  "id": "\\bCharizard!",
+  "en": "\\bCharizard!",
+  "it": "\\bCharizard!"
+ },
+ {
+  "id": "\\rLiza: You think you're good enough to enter this place? Just try it.",
+  "en": "\\rLiza: You think you're good enough to enter this place? Just try it.",
+  "it": "\\rLiza: Pensi di essere abbastanza bravo da entrare qui? Provaci pure."
+ },
+ {
+  "id": "\\rLiza: You have a strong Charizard. How would you like me to train one of your Pokémon?",
+  "en": "\\rLiza: You have a strong Charizard. How would you like me to train one of your Pokémon?",
+  "it": "\\rLiza: Hai un Charizard forte. Che ne dici se allenassi uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\rLiza: Go away. No one is allowed in this sacred land.",
+  "en": "\\rLiza: Go away. No one is allowed in this sacred land.",
+  "it": "\\rLiza: Vattene. Nessuno può entrare in questa terra sacra."
+ },
+ {
+  "id": "\\rOh? But you only have one with you.",
+  "en": "\\rOh?  But you only have one with you.",
+  "it": "\\rOh? Ma ne hai solo uno con te."
+ },
+ {
+  "id": "\\rWhich Pokémon would you like me to raise?",
+  "en": "\\rWhich Pokémon would you like me to raise?",
+  "it": "\\rQuale Pokémon vuoi che alleni?"
+ },
+ {
+  "id": "\\rFine.",
+  "en": "\\rFine.",
+  "it": "\\rCome vuoi."
+ },
+ {
+  "id": "\\rIf you leave me that Pokémon, what are you gonna battle with?",
+  "en": "\\rIf you leave me that Pokémon, what are you gonna battle with?",
+  "it": "\\rSe mi lasci quel Pokémon, con cosa lotterai?"
+ },
+ {
+  "id": "\\rCome back with some common sense.",
+  "en": "\\rCome back with some common sense.",
+  "it": "\\rTorna quando avrai un po' di buon senso."
+ },
+ {
+  "id": "\\rI'll raise your \\v[3] for a while.",
+  "en": "\\rI'll raise your \\v[3] for a while.",
+  "it": "\\rAllenerò il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\rI can raise two of your Pokémon. Would you like me to raise another?",
+  "en": "\\rI can raise two of your Pokémon. Would you like me to raise another?",
+  "it": "\\rPosso allenare due dei tuoi Pokémon. Vuoi che ne alleni un altro?"
+ },
+ {
+  "id": "\\rOh? But you only have one Pokémon with you.",
+  "en": "\\rOh? But you only have one Pokémon with you.",
+  "it": "\\rOh? Ma hai un solo Pokémon con te."
+ },
+ {
+  "id": "\\rYou can't go off without a Pokémon. Come back another time.",
+  "en": "\\rYou can't go off without a Pokémon. Come back another time.",
+  "it": "\\rNon puoi andartene senza un Pokémon. Torna un'altra volta."
+ },
+ {
+  "id": "\\rVery good. Come again.",
+  "en": "\\rVery good. Come again.",
+  "it": "\\rMolto bene. Torna a trovarmi."
+ },
+ {
+  "id": "\\rCome back another time.",
+  "en": "\\rCome back another time.",
+  "it": "\\rTorna un'altra volta."
+ },
+ {
+  "id": "\\rFine, I'll raise your \\v[3] for a while.",
+  "en": "\\rFine, I'll raise your \\v[3] for a while.",
+  "it": "\\rVa bene, allenerò il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\rCome back for it later.",
+  "en": "\\rCome back for it later.",
+  "it": "\\rTorna a prenderlo più tardi."
+ },
+ {
+  "id": "\\rOh, fine, then.\\nCome again.",
+  "en": "\\rOh, fine, then.\\nCome again.",
+  "it": "\\rOh, va bene, allora.\\nTorna presto."
+ },
+ {
+  "id": "\\rHey \\PN. How's it going? Your Pokémon got stronger.",
+  "en": "\\rHey \\PN. How's it going? Your Pokémon got stronger.",
+  "it": "\\rEhi, \\PN. Come va? Il tuo Pokémon è diventato più forte."
+ },
+ {
+  "id": "\\rBy level, your \\v[3] has grown by about \\v[4].",
+  "en": "\\rBy level, your \\v[3] has grown by about \\v[4].",
+  "it": "\\rIl tuo \\v[3] è salito di circa \\v[4] livelli."
+ },
+ {
+  "id": "\\rDo you want your Pokémon back?",
+  "en": "\\rDo you want your Pokémon back?",
+  "it": "\\rVuoi riprenderti il tuo Pokémon?"
+ },
+ {
+  "id": "\\rYour Pokémon team is full. Make room, then come see me.",
+  "en": "\\rYour Pokémon team is full. Make room, then come see me.",
+  "it": "\\rLa tua squadra è al completo. Fai spazio e poi torna da me."
+ },
+ {
+  "id": "Which one do you want back?",
+  "en": "Which one do you want back?",
+  "it": "Quale vuoi riprenderti?"
+ },
+ {
+  "id": "\\G\\rIf you want your \\v[3] back, it will cost $\\v[4].",
+  "en": "\\G\\rIf you want your \\v[3] back, it will cost $\\v[4].",
+  "it": "\\G\\rSe rivuoi il tuo \\v[3], ti costerà $\\v[4]."
+ },
+ {
+  "id": "\\G\\rYou don't have enough money...",
+  "en": "\\G\\rYou don't have enough money...",
+  "it": "\\G\\rNon hai abbastanza soldi..."
+ },
+ {
+  "id": "\\G\\rAwesome\\nHere's your Pokémon.",
+  "en": "\\G\\rAwesome\\nHere's your Pokémon.",
+  "it": "\\G\\rFantastico\\nEcco il tuo Pokémon."
+ },
+ {
+  "id": "\\PN took \\v[3] back from Liza.",
+  "en": "\\PN took \\v[3] back from Liza.",
+  "it": "\\PN si è ripreso \\v[3] da Liza."
+ },
+ {
+  "id": "\\rDo you want to take back the other one, too?",
+  "en": "\\rDo you want to take back the other one, too?",
+  "it": "\\rVuoi riprenderti anche l'altro?"
+ },
+ {
+  "id": "\\bChar! Char!",
+  "en": "\\bChar! Char!",
+  "it": "\\bChar! Char!"
+ },
+ {
+  "id": "\\rCharizard!",
+  "en": "\\rCharizard!",
+  "it": "\\rCharizard!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

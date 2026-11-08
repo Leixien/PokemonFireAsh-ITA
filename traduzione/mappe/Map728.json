@@ -1,0 +1,122 @@
+[
+ {
+  "id": "\\rDo you want to win? Because I have the thing for you!",
+  "en": "\\rDo you want to win? Because I have the thing for you!",
+  "it": "\\rVuoi vincere? Allora ho proprio quello che fa per te!"
+ },
+ {
+  "id": "\\rHahahahaha. You will never lose again with that item!",
+  "en": "\\rHahahahaha. You will never lose again with that item!",
+  "it": "\\rAhahahahah. Con quello strumento non perderai mai più!"
+ },
+ {
+  "id": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Cancel]",
+  "en": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Cancel]",
+  "it": "\\rIl mio Beheeyem può teletrasportarti.\\ch[1,-1,Quattroventi, Levantopoli,Zefiropoli,Austropoli,Sciroccopoli,Libecciopoli,Ponentopoli, Annulla]"
+ },
+ {
+  "id": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Virbank,Cancel]",
+  "en": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Virbank,Cancel]",
+  "it": "\\rIl mio Beheeyem può teletrasportarti.\\ch[1,-1,Quattroventi, Levantopoli,Zefiropoli,Austropoli,Sciroccopoli,Libecciopoli,Ponentopoli, Virbopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Virbank,Undella,Cancel]",
+  "en": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Virbank,Undella,Cancel]",
+  "it": "\\rIl mio Beheeyem può teletrasportarti.\\ch[1,-1,Quattroventi, Levantopoli,Zefiropoli,Austropoli,Sciroccopoli,Libecciopoli,Ponentopoli, Virbopoli,Spiraria,Annulla]"
+ },
+ {
+  "id": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Virbank,Undella,Opelucid,Cancel]",
+  "en": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Virbank,Undella,Opelucid,Cancel]",
+  "it": "\\rIl mio Beheeyem può teletrasportarti.\\ch[1,-1,Quattroventi, Levantopoli,Zefiropoli,Austropoli,Sciroccopoli,Libecciopoli,Ponentopoli, Virbopoli,Spiraria,Boreduopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Virbank,Undella,Opelucid,Aspertia,Cancel]",
+  "en": "\\rMy Beheeyem can Teleport you.\\ch[1,-1,Accumula, Striaton,Nacrene,Castelia,Nimbasa,Driftveil,Mistralton, Virbank,Undella,Opelucid,Aspertia,Cancel]",
+  "it": "\\rIl mio Beheeyem può teletrasportarti.\\ch[1,-1,Quattroventi, Levantopoli,Zefiropoli,Austropoli,Sciroccopoli,Libecciopoli,Ponentopoli, Virbopoli,Spiraria,Boreduopoli,Alisopoli,Annulla]"
+ },
+ {
+  "id": "\\rBeheeyem",
+  "en": "\\rBeheeyem",
+  "it": "\\rBeheeyem"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\rAudino",
+  "en": "\\rAudino",
+  "it": "\\rAudino"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

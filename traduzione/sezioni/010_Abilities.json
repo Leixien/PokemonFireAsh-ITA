@@ -1,0 +1,1337 @@
+[
+ {
+  "id": 1,
+  "en": "Stench",
+  "it": "Tanfo"
+ },
+ {
+  "id": 2,
+  "en": "Drizzle",
+  "it": "Piovischio"
+ },
+ {
+  "id": 3,
+  "en": "Speed Boost",
+  "it": "Acceleratore"
+ },
+ {
+  "id": 4,
+  "en": "Battle Armor",
+  "it": "Lottascudo"
+ },
+ {
+  "id": 5,
+  "en": "Sturdy",
+  "it": "Vigore"
+ },
+ {
+  "id": 6,
+  "en": "Damp",
+  "it": "Umidità"
+ },
+ {
+  "id": 7,
+  "en": "Limber",
+  "it": "Scioltezza"
+ },
+ {
+  "id": 8,
+  "en": "Sand Veil",
+  "it": "Sabbiavelo"
+ },
+ {
+  "id": 9,
+  "en": "Static",
+  "it": "Statico"
+ },
+ {
+  "id": 10,
+  "en": "Volt Absorb",
+  "it": "Assorbivolt"
+ },
+ {
+  "id": 11,
+  "en": "Water Absorb",
+  "it": "Assorbacqua"
+ },
+ {
+  "id": 12,
+  "en": "Oblivious",
+  "it": "Indifferenza"
+ },
+ {
+  "id": 13,
+  "en": "Cloud Nine",
+  "it": "Antimeteo"
+ },
+ {
+  "id": 14,
+  "en": "Compound Eyes",
+  "it": "Insettocchi"
+ },
+ {
+  "id": 15,
+  "en": "Insomnia",
+  "it": "Insonnia"
+ },
+ {
+  "id": 16,
+  "en": "Color Change",
+  "it": "Cambiacolore"
+ },
+ {
+  "id": 17,
+  "en": "Immunity",
+  "it": "Immunità"
+ },
+ {
+  "id": 18,
+  "en": "Flash Fire",
+  "it": "Fuocardore"
+ },
+ {
+  "id": 19,
+  "en": "Shield Dust",
+  "it": "Polvscudo"
+ },
+ {
+  "id": 20,
+  "en": "Own Tempo",
+  "it": "Mente Locale"
+ },
+ {
+  "id": 21,
+  "en": "Suction Cups",
+  "it": "Ventose"
+ },
+ {
+  "id": 22,
+  "en": "Intimidate",
+  "it": "Prepotenza"
+ },
+ {
+  "id": 23,
+  "en": "Shadow Tag",
+  "it": "Pedinombra"
+ },
+ {
+  "id": 24,
+  "en": "Rough Skin",
+  "it": "Cartavetro"
+ },
+ {
+  "id": 25,
+  "en": "Wonder Guard",
+  "it": "Magidifesa"
+ },
+ {
+  "id": 26,
+  "en": "Levitate",
+  "it": "Levitazione"
+ },
+ {
+  "id": 27,
+  "en": "Effect Spore",
+  "it": "Spargispore"
+ },
+ {
+  "id": 28,
+  "en": "Synchronize",
+  "it": "Sincronismo"
+ },
+ {
+  "id": 29,
+  "en": "Clear Body",
+  "it": "Corpochiaro"
+ },
+ {
+  "id": 30,
+  "en": "Natural Cure",
+  "it": "Alternacura"
+ },
+ {
+  "id": 31,
+  "en": "Lightning Rod",
+  "it": "Parafulmine"
+ },
+ {
+  "id": 32,
+  "en": "Serene Grace",
+  "it": "Leggiadro"
+ },
+ {
+  "id": 33,
+  "en": "Swift Swim",
+  "it": "Nuotovelox"
+ },
+ {
+  "id": 34,
+  "en": "Chlorophyll",
+  "it": "Clorofilla"
+ },
+ {
+  "id": 35,
+  "en": "Illuminate",
+  "it": "Risplendi"
+ },
+ {
+  "id": 36,
+  "en": "Trace",
+  "it": "Traccia"
+ },
+ {
+  "id": 37,
+  "en": "Huge Power",
+  "it": "Macroforza"
+ },
+ {
+  "id": 38,
+  "en": "Poison Point",
+  "it": "Velenopunto"
+ },
+ {
+  "id": 39,
+  "en": "Inner Focus",
+  "it": "Forza Interiore"
+ },
+ {
+  "id": 40,
+  "en": "Magma Armor",
+  "it": "Magmascudo"
+ },
+ {
+  "id": 41,
+  "en": "Water Veil",
+  "it": "Idrovelo"
+ },
+ {
+  "id": 42,
+  "en": "Magnet Pull",
+  "it": "Magnetismo"
+ },
+ {
+  "id": 43,
+  "en": "Soundproof",
+  "it": "Antisuono"
+ },
+ {
+  "id": 44,
+  "en": "Rain Dish",
+  "it": "Copripioggia"
+ },
+ {
+  "id": 45,
+  "en": "Sand Stream",
+  "it": "Sabbiafiume"
+ },
+ {
+  "id": 46,
+  "en": "Pressure",
+  "it": "Pressione"
+ },
+ {
+  "id": 47,
+  "en": "Thick Fat",
+  "it": "Grassospesso"
+ },
+ {
+  "id": 48,
+  "en": "Early Bird",
+  "it": "Sveglialampo"
+ },
+ {
+  "id": 49,
+  "en": "Flame Body",
+  "it": "Corpodifuoco"
+ },
+ {
+  "id": 50,
+  "en": "Run Away",
+  "it": "Fugafacile"
+ },
+ {
+  "id": 51,
+  "en": "Keen Eye",
+  "it": "Sguardofermo"
+ },
+ {
+  "id": 52,
+  "en": "Hyper Cutter",
+  "it": "Ipertaglio"
+ },
+ {
+  "id": 53,
+  "en": "Pickup",
+  "it": "Raccolta"
+ },
+ {
+  "id": 54,
+  "en": "Truant",
+  "it": "Pigrone"
+ },
+ {
+  "id": 55,
+  "en": "Hustle",
+  "it": "Tuttafretta"
+ },
+ {
+  "id": 56,
+  "en": "Cute Charm",
+  "it": "Incantevole"
+ },
+ {
+  "id": 57,
+  "en": "Plus",
+  "it": "Più"
+ },
+ {
+  "id": 58,
+  "en": "Minus",
+  "it": "Meno"
+ },
+ {
+  "id": 59,
+  "en": "Forecast",
+  "it": "Previsioni"
+ },
+ {
+  "id": 60,
+  "en": "Sticky Hold",
+  "it": "Antifurto"
+ },
+ {
+  "id": 61,
+  "en": "Shed Skin",
+  "it": "Muta"
+ },
+ {
+  "id": 62,
+  "en": "Guts",
+  "it": "Dentistretti"
+ },
+ {
+  "id": 63,
+  "en": "Marvel Scale",
+  "it": "Pelledura"
+ },
+ {
+  "id": 64,
+  "en": "Liquid Ooze",
+  "it": "Melma"
+ },
+ {
+  "id": 65,
+  "en": "Overgrow",
+  "it": "Erbaiuto"
+ },
+ {
+  "id": 66,
+  "en": "Blaze",
+  "it": "Aiutofuoco"
+ },
+ {
+  "id": 67,
+  "en": "Torrent",
+  "it": "Acquaiuto"
+ },
+ {
+  "id": 68,
+  "en": "Swarm",
+  "it": "Aiutinsetto"
+ },
+ {
+  "id": 69,
+  "en": "Rock Head",
+  "it": "Testadura"
+ },
+ {
+  "id": 70,
+  "en": "Drought",
+  "it": "Siccità"
+ },
+ {
+  "id": 71,
+  "en": "Arena Trap",
+  "it": "Trappoarena"
+ },
+ {
+  "id": 72,
+  "en": "Vital Spirit",
+  "it": "Spiritovivo"
+ },
+ {
+  "id": 73,
+  "en": "White Smoke",
+  "it": "Fumochiaro"
+ },
+ {
+  "id": 74,
+  "en": "Pure Power",
+  "it": "Forzapura"
+ },
+ {
+  "id": 75,
+  "en": "Shell Armor",
+  "it": "Guscioscudo"
+ },
+ {
+  "id": 76,
+  "en": "Air Lock",
+  "it": "Riparo"
+ },
+ {
+  "id": 77,
+  "en": "Tangled Feet",
+  "it": "Intricopiedi"
+ },
+ {
+  "id": 78,
+  "en": "Motor Drive",
+  "it": "Elettrorapid"
+ },
+ {
+  "id": 79,
+  "en": "Rivalry",
+  "it": "Antagonismo"
+ },
+ {
+  "id": 80,
+  "en": "Steadfast",
+  "it": "Cuordeciso"
+ },
+ {
+  "id": 81,
+  "en": "Snow Cloak",
+  "it": "Mantelneve"
+ },
+ {
+  "id": 82,
+  "en": "Gluttony",
+  "it": "Voracità"
+ },
+ {
+  "id": 83,
+  "en": "Anger Point",
+  "it": "Grancollera"
+ },
+ {
+  "id": 84,
+  "en": "Unburden",
+  "it": "Agiltecnica"
+ },
+ {
+  "id": 85,
+  "en": "Heatproof",
+  "it": "Antifuoco"
+ },
+ {
+  "id": 86,
+  "en": "Simple",
+  "it": "Disinvoltura"
+ },
+ {
+  "id": 87,
+  "en": "Dry Skin",
+  "it": "Pellearsa"
+ },
+ {
+  "id": 88,
+  "en": "Download",
+  "it": "Download"
+ },
+ {
+  "id": 89,
+  "en": "Iron Fist",
+  "it": "Ferropugno"
+ },
+ {
+  "id": 90,
+  "en": "Poison Heal",
+  "it": "Velencura"
+ },
+ {
+  "id": 91,
+  "en": "Adaptability",
+  "it": "Adattabilità"
+ },
+ {
+  "id": 92,
+  "en": "Skill Link",
+  "it": "Abillegame"
+ },
+ {
+  "id": 93,
+  "en": "Hydration",
+  "it": "Idratazione"
+ },
+ {
+  "id": 94,
+  "en": "Solar Power",
+  "it": "Solarpotere"
+ },
+ {
+  "id": 95,
+  "en": "Quick Feet",
+  "it": "Piedisvelti"
+ },
+ {
+  "id": 96,
+  "en": "Normalize",
+  "it": "Normalità"
+ },
+ {
+  "id": 97,
+  "en": "Sniper",
+  "it": "Cecchino"
+ },
+ {
+  "id": 98,
+  "en": "Magic Guard",
+  "it": "Magicscudo"
+ },
+ {
+  "id": 99,
+  "en": "No Guard",
+  "it": "Nullodifesa"
+ },
+ {
+  "id": 100,
+  "en": "Stall",
+  "it": "Rallentatore"
+ },
+ {
+  "id": 101,
+  "en": "Technician",
+  "it": "Tecnico"
+ },
+ {
+  "id": 102,
+  "en": "Leaf Guard",
+  "it": "Fogliamanto"
+ },
+ {
+  "id": 103,
+  "en": "Klutz",
+  "it": "Impaccio"
+ },
+ {
+  "id": 104,
+  "en": "Mold Breaker",
+  "it": "Rompiforma"
+ },
+ {
+  "id": 105,
+  "en": "Super Luck",
+  "it": "Supersorte"
+ },
+ {
+  "id": 106,
+  "en": "Aftermath",
+  "it": "Scoppio"
+ },
+ {
+  "id": 107,
+  "en": "Anticipation",
+  "it": "Presagio"
+ },
+ {
+  "id": 108,
+  "en": "Forewarn",
+  "it": "Premonizione"
+ },
+ {
+  "id": 109,
+  "en": "Unaware",
+  "it": "Imprudenza"
+ },
+ {
+  "id": 110,
+  "en": "Tinted Lens",
+  "it": "Lentifumé"
+ },
+ {
+  "id": 111,
+  "en": "Filter",
+  "it": "Filtro"
+ },
+ {
+  "id": 112,
+  "en": "Slow Start",
+  "it": "Lentoinizio"
+ },
+ {
+  "id": 113,
+  "en": "Scrappy",
+  "it": "Nervisaldi"
+ },
+ {
+  "id": 114,
+  "en": "Storm Drain",
+  "it": "Acquascolo"
+ },
+ {
+  "id": 115,
+  "en": "Ice Body",
+  "it": "Corpogelo"
+ },
+ {
+  "id": 116,
+  "en": "Solid Rock",
+  "it": "Solidroccia"
+ },
+ {
+  "id": 117,
+  "en": "Snow Warning",
+  "it": "Scendineve"
+ },
+ {
+  "id": 118,
+  "en": "Honey Gather",
+  "it": "Mielincetta"
+ },
+ {
+  "id": 119,
+  "en": "Frisk",
+  "it": "Indagine"
+ },
+ {
+  "id": 120,
+  "en": "Reckless",
+  "it": "Temerarietà"
+ },
+ {
+  "id": 121,
+  "en": "Multitype",
+  "it": "Multitipo"
+ },
+ {
+  "id": 122,
+  "en": "Flower Gift",
+  "it": "Regalfiore"
+ },
+ {
+  "id": 123,
+  "en": "Bad Dreams",
+  "it": "Sogniamari"
+ },
+ {
+  "id": 124,
+  "en": "Pickpocket",
+  "it": "Arraffalesto"
+ },
+ {
+  "id": 125,
+  "en": "Sheer Force",
+  "it": "Forzabruta"
+ },
+ {
+  "id": 126,
+  "en": "Contrary",
+  "it": "Inversione"
+ },
+ {
+  "id": 127,
+  "en": "Unnerve",
+  "it": "Agitazione"
+ },
+ {
+  "id": 128,
+  "en": "Defiant",
+  "it": "Agonismo"
+ },
+ {
+  "id": 129,
+  "en": "Defeatist",
+  "it": "Sconforto"
+ },
+ {
+  "id": 130,
+  "en": "Cursed Body",
+  "it": "Corpofunesto"
+ },
+ {
+  "id": 131,
+  "en": "Healer",
+  "it": "Curacuore"
+ },
+ {
+  "id": 132,
+  "en": "Friend Guard",
+  "it": "Amicoscudo"
+ },
+ {
+  "id": 133,
+  "en": "Weak Armor",
+  "it": "Sottilguscio"
+ },
+ {
+  "id": 134,
+  "en": "Heavy Metal",
+  "it": "Metalpesante"
+ },
+ {
+  "id": 135,
+  "en": "Light Metal",
+  "it": "Metalleggero"
+ },
+ {
+  "id": 136,
+  "en": "Multiscale",
+  "it": "Multisquame"
+ },
+ {
+  "id": 137,
+  "en": "Toxic Boost",
+  "it": "Velenimpeto"
+ },
+ {
+  "id": 138,
+  "en": "Flare Boost",
+  "it": "Bruciaimpeto"
+ },
+ {
+  "id": 139,
+  "en": "Harvest",
+  "it": "Coglibacche"
+ },
+ {
+  "id": 140,
+  "en": "Telepathy",
+  "it": "Telepatia"
+ },
+ {
+  "id": 141,
+  "en": "Moody",
+  "it": "Lunatico"
+ },
+ {
+  "id": 142,
+  "en": "Overcoat",
+  "it": "Copricapo"
+ },
+ {
+  "id": 143,
+  "en": "Poison Touch",
+  "it": "Velentocco"
+ },
+ {
+  "id": 144,
+  "en": "Regenerator",
+  "it": "Rigenergia"
+ },
+ {
+  "id": 145,
+  "en": "Big Pecks",
+  "it": "Pettinfuori"
+ },
+ {
+  "id": 146,
+  "en": "Sand Rush",
+  "it": "Remasabbia"
+ },
+ {
+  "id": 147,
+  "en": "Wonder Skin",
+  "it": "Splendicute"
+ },
+ {
+  "id": 148,
+  "en": "Analytic",
+  "it": "Ponderazione"
+ },
+ {
+  "id": 149,
+  "en": "Illusion",
+  "it": "Illusione"
+ },
+ {
+  "id": 150,
+  "en": "Imposter",
+  "it": "Sosia"
+ },
+ {
+  "id": 151,
+  "en": "Infiltrator",
+  "it": "Intrapasso"
+ },
+ {
+  "id": 152,
+  "en": "Mummy",
+  "it": "Mummia"
+ },
+ {
+  "id": 153,
+  "en": "Moxie",
+  "it": "Arroganza"
+ },
+ {
+  "id": 154,
+  "en": "Justified",
+  "it": "Giustizia"
+ },
+ {
+  "id": 155,
+  "en": "Rattled",
+  "it": "Coniglietto"
+ },
+ {
+  "id": 156,
+  "en": "Magic Bounce",
+  "it": "Magispecchio"
+ },
+ {
+  "id": 157,
+  "en": "Sap Sipper",
+  "it": "Mangiaerba"
+ },
+ {
+  "id": 158,
+  "en": "Prankster",
+  "it": "Burla"
+ },
+ {
+  "id": 159,
+  "en": "Sand Force",
+  "it": "Silicoforza"
+ },
+ {
+  "id": 160,
+  "en": "Iron Barbs",
+  "it": "Spineferrate"
+ },
+ {
+  "id": 161,
+  "en": "Zen Mode",
+  "it": "Stato Zen"
+ },
+ {
+  "id": 162,
+  "en": "Victory Star",
+  "it": "Vittorstella"
+ },
+ {
+  "id": 163,
+  "en": "Turboblaze",
+  "it": "Piroturbina"
+ },
+ {
+  "id": 164,
+  "en": "Teravolt",
+  "it": "Teravolt"
+ },
+ {
+  "id": 165,
+  "en": "Aroma Veil",
+  "it": "Aromavelo"
+ },
+ {
+  "id": 166,
+  "en": "Flower Veil",
+  "it": "Fiorvelo"
+ },
+ {
+  "id": 167,
+  "en": "Cheek Pouch",
+  "it": "Guanciale"
+ },
+ {
+  "id": 168,
+  "en": "Protean",
+  "it": "Mutatipo"
+ },
+ {
+  "id": 169,
+  "en": "Fur Coat",
+  "it": "Foltopelo"
+ },
+ {
+  "id": 170,
+  "en": "Magician",
+  "it": "Prestigiatore"
+ },
+ {
+  "id": 171,
+  "en": "Bulletproof",
+  "it": "Antiproiettile"
+ },
+ {
+  "id": 172,
+  "en": "Competitive",
+  "it": "Tenacia"
+ },
+ {
+  "id": 173,
+  "en": "Strong Jaw",
+  "it": "Mascelleforti"
+ },
+ {
+  "id": 174,
+  "en": "Refrigerate",
+  "it": "Pellegelo"
+ },
+ {
+  "id": 175,
+  "en": "Sweet Veil",
+  "it": "Dolcevelo"
+ },
+ {
+  "id": 176,
+  "en": "Stance Change",
+  "it": "Cambiatattica"
+ },
+ {
+  "id": 177,
+  "en": "Gale Wings",
+  "it": "Aliraffica"
+ },
+ {
+  "id": 178,
+  "en": "Mega Launcher",
+  "it": "Megalancio"
+ },
+ {
+  "id": 179,
+  "en": "Grass Pelt",
+  "it": "Peloderba"
+ },
+ {
+  "id": 180,
+  "en": "Symbiosis",
+  "it": "Simbiosi"
+ },
+ {
+  "id": 181,
+  "en": "Tough Claws",
+  "it": "Unghiedure"
+ },
+ {
+  "id": 182,
+  "en": "Pixilate",
+  "it": "Pellefolletto"
+ },
+ {
+  "id": 183,
+  "en": "Gooey",
+  "it": "Viscosità"
+ },
+ {
+  "id": 184,
+  "en": "Aerilate",
+  "it": "Pellecielo"
+ },
+ {
+  "id": 185,
+  "en": "Parental Bond",
+  "it": "Amore Filiale"
+ },
+ {
+  "id": 186,
+  "en": "Dark Aura",
+  "it": "Auratetra"
+ },
+ {
+  "id": 187,
+  "en": "Fairy Aura",
+  "it": "Aurafolletto"
+ },
+ {
+  "id": 188,
+  "en": "Aura Break",
+  "it": "Frangiaura"
+ },
+ {
+  "id": 189,
+  "en": "Primordial Sea",
+  "it": "Mare Primordiale"
+ },
+ {
+  "id": 190,
+  "en": "Desolate Land",
+  "it": "Terra Estrema"
+ },
+ {
+  "id": 191,
+  "en": "Delta Stream",
+  "it": "Flusso Delta"
+ },
+ {
+  "id": 192,
+  "en": "Stamina",
+  "it": "Resistenza"
+ },
+ {
+  "id": 193,
+  "en": "Wimp Out",
+  "it": "Fuggifuggi"
+ },
+ {
+  "id": 194,
+  "en": "Emergency Exit",
+  "it": "Esodo"
+ },
+ {
+  "id": 195,
+  "en": "Water Compaction",
+  "it": "Idrorinforzo"
+ },
+ {
+  "id": 196,
+  "en": "Merciless",
+  "it": "Spietatezza"
+ },
+ {
+  "id": 197,
+  "en": "Shields Down",
+  "it": "Scudo Limite"
+ },
+ {
+  "id": 198,
+  "en": "Stakeout",
+  "it": "Pedinamento"
+ },
+ {
+  "id": 199,
+  "en": "Water Bubble",
+  "it": "Bolladacqua"
+ },
+ {
+  "id": 200,
+  "en": "Steelworker",
+  "it": "Metallurgia"
+ },
+ {
+  "id": 201,
+  "en": "Berserk",
+  "it": "Furore"
+ },
+ {
+  "id": 202,
+  "en": "Slush Rush",
+  "it": "Spalaneve"
+ },
+ {
+  "id": 203,
+  "en": "Long Reach",
+  "it": "Distanza"
+ },
+ {
+  "id": 204,
+  "en": "Liquid Voice",
+  "it": "Idrovoce"
+ },
+ {
+  "id": 205,
+  "en": "Triage",
+  "it": "Primocura"
+ },
+ {
+  "id": 206,
+  "en": "Galvanize",
+  "it": "Pellelettro"
+ },
+ {
+  "id": 207,
+  "en": "Surge Surfer",
+  "it": "Surfaonda"
+ },
+ {
+  "id": 208,
+  "en": "Schooling",
+  "it": "Banco"
+ },
+ {
+  "id": 209,
+  "en": "Disguise",
+  "it": "Fantoccio"
+ },
+ {
+  "id": 210,
+  "en": "Battle Bond",
+  "it": "Morfosintonia"
+ },
+ {
+  "id": 211,
+  "en": "Power Construct",
+  "it": "Sciamefficienza"
+ },
+ {
+  "id": 212,
+  "en": "Corrosion",
+  "it": "Corrosione"
+ },
+ {
+  "id": 213,
+  "en": "Comatose",
+  "it": "Dormiveglia"
+ },
+ {
+  "id": 214,
+  "en": "Queenly Majesty",
+  "it": "Regalità"
+ },
+ {
+  "id": 215,
+  "en": "Innards Out",
+  "it": "Sputaviscere"
+ },
+ {
+  "id": 216,
+  "en": "Dancer",
+  "it": "Ballerino"
+ },
+ {
+  "id": 217,
+  "en": "Battery",
+  "it": "Batteria"
+ },
+ {
+  "id": 218,
+  "en": "Fluffy",
+  "it": "Morbidone"
+ },
+ {
+  "id": 219,
+  "en": "Dazzling",
+  "it": "Abbagliante"
+ },
+ {
+  "id": 220,
+  "en": "Soul-Heart",
+  "it": "Animacuore"
+ },
+ {
+  "id": 221,
+  "en": "Tangling Hair",
+  "it": "Riccioli"
+ },
+ {
+  "id": 222,
+  "en": "Receiver",
+  "it": "Ricevitore"
+ },
+ {
+  "id": 223,
+  "en": "Power of Alchemy",
+  "it": "Alchimia"
+ },
+ {
+  "id": 224,
+  "en": "Beast Boost",
+  "it": "Ultraimpulso"
+ },
+ {
+  "id": 225,
+  "en": "RKS System",
+  "it": "Sistema RKS"
+ },
+ {
+  "id": 226,
+  "en": "Electric Surge",
+  "it": "Elettrogenesi"
+ },
+ {
+  "id": 227,
+  "en": "Psychic Surge",
+  "it": "Psicogenesi"
+ },
+ {
+  "id": 228,
+  "en": "Misty Surge",
+  "it": "Nebbiogenesi"
+ },
+ {
+  "id": 229,
+  "en": "Grassy Surge",
+  "it": "Erbogenesi"
+ },
+ {
+  "id": 230,
+  "en": "Full Metal Body",
+  "it": "Metalcorpo"
+ },
+ {
+  "id": 231,
+  "en": "Shadow Shield",
+  "it": "Spettroscudo"
+ },
+ {
+  "id": 232,
+  "en": "Prism Armor",
+  "it": "Prismguscio"
+ },
+ {
+  "id": 233,
+  "en": "Neuroforce",
+  "it": "Neuroforza"
+ },
+ {
+  "id": 234,
+  "en": "Ball Fetch",
+  "it": "Raccattapalle"
+ },
+ {
+  "id": 235,
+  "en": "Cotton Down",
+  "it": "Lanugine"
+ },
+ {
+  "id": 236,
+  "en": "Dauntless Shield",
+  "it": "Scudo Saldo"
+ },
+ {
+  "id": 237,
+  "en": "Gorilla Tactics",
+  "it": "Tattica Gorilla"
+ },
+ {
+  "id": 238,
+  "en": "Gulp Missile",
+  "it": "Inghiottimissile"
+ },
+ {
+  "id": 239,
+  "en": "Hunger Switch",
+  "it": "Pancia Vuota"
+ },
+ {
+  "id": 240,
+  "en": "Ice Face",
+  "it": "Gelofaccia"
+ },
+ {
+  "id": 241,
+  "en": "Ice Scales",
+  "it": "Squamagelo"
+ },
+ {
+  "id": 242,
+  "en": "Intrepid Sword",
+  "it": "Spada Indomita"
+ },
+ {
+  "id": 243,
+  "en": "Libero",
+  "it": "Libero"
+ },
+ {
+  "id": 244,
+  "en": "Mimicry",
+  "it": "Mimetismo"
+ },
+ {
+  "id": 245,
+  "en": "Mirror Armor",
+  "it": "Specchiarmatura"
+ },
+ {
+  "id": 246,
+  "en": "Neutralizing Gas",
+  "it": "Gas Reagente"
+ },
+ {
+  "id": 247,
+  "en": "Pastel Veil",
+  "it": "Velopastello"
+ },
+ {
+  "id": 248,
+  "en": "Perish Body",
+  "it": "Ultimotocco"
+ },
+ {
+  "id": 249,
+  "en": "Power Spot",
+  "it": "Fulcro"
+ },
+ {
+  "id": 250,
+  "en": "Propeller Tail",
+  "it": "Elicaudale"
+ },
+ {
+  "id": 251,
+  "en": "Punk Rock",
+  "it": "Punk Rock"
+ },
+ {
+  "id": 252,
+  "en": "Ripen",
+  "it": "Maturazione"
+ },
+ {
+  "id": 253,
+  "en": "Sand Spit",
+  "it": "Sputasabbia"
+ },
+ {
+  "id": 254,
+  "en": "Screen Cleaner",
+  "it": "Antibarriere"
+ },
+ {
+  "id": 255,
+  "en": "Stalwart",
+  "it": "Fermezza"
+ },
+ {
+  "id": 256,
+  "en": "Steam Engine",
+  "it": "Vapormotore"
+ },
+ {
+  "id": 257,
+  "en": "Steely Spirit",
+  "it": "Spiritoferreo"
+ },
+ {
+  "id": 258,
+  "en": "Wandering Spirit",
+  "it": "Anima Errante"
+ },
+ {
+  "id": 259,
+  "en": "Unseen Fist",
+  "it": "Pugnoinvisibile"
+ },
+ {
+  "id": 260,
+  "en": "Quick Draw",
+  "it": "Colpolesto"
+ },
+ {
+  "id": 261,
+  "en": "Curious Medicine",
+  "it": "Medicina Bizzarra"
+ },
+ {
+  "id": 262,
+  "en": "Transistor",
+  "it": "Transistor"
+ },
+ {
+  "id": 263,
+  "en": "Dragon's Maw",
+  "it": "Fauci di Drago"
+ },
+ {
+  "id": 264,
+  "en": "Chilling Neigh",
+  "it": "Nitrito Gelido"
+ },
+ {
+  "id": 265,
+  "en": "Grim Neigh",
+  "it": "Nitrito Funesto"
+ },
+ {
+  "id": 266,
+  "en": "As One",
+  "it": "Unione Equina"
+ },
+ {
+  "id": 267,
+  "en": "As One",
+  "it": "Unione Equina"
+ }
+]

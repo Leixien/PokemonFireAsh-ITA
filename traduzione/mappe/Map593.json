@@ -1,0 +1,82 @@
+[
+ {
+  "id": "\\bDr. Footstep: Hi! I rate the footprints of Pokémon!",
+  "en": "\\bDr. Footstep: Hi!  I rate the footprints of Pokémon!",
+  "it": "\\bDott. Impronta: Ciao!  Io valuto le impronte dei Pokémon!"
+ },
+ {
+  "id": "\\bDr. Footstep: Can I rate your Pokémon for you?",
+  "en": "\\bDr. Footstep: Can I rate your Pokémon for you?",
+  "it": "\\bDott. Impronta: Posso valutare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\bDr. Footstep: Which Pokémon do you want me to rate?",
+  "en": "\\bDr. Footstep: Which Pokémon do you want me to rate?",
+  "it": "\\bDott. Impronta: Quale Pokémon vuoi che valuti?"
+ },
+ {
+  "id": "\\bDr. Footstep: Maybe next time, then.",
+  "en": "\\bDr. Footstep: Maybe next time, then.",
+  "it": "\\bDott. Impronta: Sarà per la prossima volta, allora."
+ },
+ {
+  "id": "\\bDr. Footstep: By any chance, you... Are you a very strict person? I feel that your \\v[2] really doesn't like you...",
+  "en": "\\bDr. Footstep: By any chance, you... Are you a very strict person? I feel that your \\v[2] really doesn't like you...",
+  "it": "\\bDott. Impronta: Per caso tu... sei una persona molto severa? Ho la sensazione che il tuo \\v[2] proprio non ti sopporti..."
+ },
+ {
+  "id": "\\bDr. Footstep: Hmmm... Your \\v[2] may not like you very much.",
+  "en": "\\bDr. Footstep: Hmmm... Your \\v[2] may not like you very much.",
+  "it": "\\bDott. Impronta: Mmmh... Forse il tuo \\v[2] non ti vuole molto bene."
+ },
+ {
+  "id": "\\bDr. Footstep: The relationship is neither good nor bad... Your \\v[2] looks neutral.",
+  "en": "\\bDr. Footstep: The relationship is neither good nor bad... Your \\v[2] looks neutral.",
+  "it": "\\bDott. Impronta: Il vostro rapporto non è né buono né cattivo... Il tuo \\v[2] sembra neutrale."
+ },
+ {
+  "id": "\\bDr. Footstep: Your \\v[2] is a little friendly to you... That's what I'm getting.",
+  "en": "\\bDr. Footstep: Your \\v[2] is a little friendly to you...  That's what I'm getting.",
+  "it": "\\bDott. Impronta: Il tuo \\v[2] è un po' affezionato a te...  Questo è ciò che percepisco."
+ },
+ {
+  "id": "\\bDr. Footstep: Your \\v[2] is friendly to you. It must be happy with you.",
+  "en": "\\bDr. Footstep: Your \\v[2] is friendly to you. It must be happy with you.",
+  "it": "\\bDott. Impronta: Il tuo \\v[2] ti è affezionato. Deve stare bene con te."
+ },
+ {
+  "id": "\\bDr. Footstep: Your \\v[2] is quite friendly to you! You must be a kind person!",
+  "en": "\\bDr. Footstep: Your \\v[2] is quite friendly to you! You must be a kind person!",
+  "it": "\\bDott. Impronta: Il tuo \\v[2] ti è molto affezionato! Devi essere una persona gentile!"
+ },
+ {
+  "id": "\\bDr. Footstep: Your \\v[2] is super friendly to you! I'm a bit jealous!",
+  "en": "\\bDr. Footstep: Your \\v[2] is super friendly to you! I'm a bit jealous!",
+  "it": "\\bDott. Impronta: Il tuo \\v[2] ti adora! Sono un po' geloso!"
+ },
+ {
+  "id": "\\bDr. Footstep: I shall reward your \\v[2] with a ribbon!",
+  "en": "\\bDr. Footstep: I shall reward your \\v[2] with a ribbon!",
+  "it": "\\bDott. Impronta: Premierò il tuo \\v[2] con un fiocco!"
+ },
+ {
+  "id": "\\PN received the Footprint Ribbon. \\se[itemlevel]\\wtnp[20]",
+  "en": "\\PN received the Footprint Ribbon. \\se[itemlevel]\\wtnp[20]",
+  "it": "\\PN ha ricevuto il Fiocco Impronta. \\se[itemlevel]\\wtnp[20]"
+ },
+ {
+  "id": "\\PN put the Footprint Ribbon on \\v[2].",
+  "en": "\\PN put the Footprint Ribbon on \\v[2].",
+  "it": "\\PN ha assegnato il Fiocco Impronta a \\v[2]."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

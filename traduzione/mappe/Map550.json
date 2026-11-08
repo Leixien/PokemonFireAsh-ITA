@@ -1,0 +1,162 @@
+[
+ {
+  "id": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. If you want me to help you you have to prove you're strong enough.",
+  "en": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. If you want me to help you you have to prove you're strong enough.",
+  "it": "\\rCiao. La grotta è pericolosa, quindi uso il mio Abra per teletrasportare la gente oltre. Se vuoi che ti aiuti, devi dimostrarmi di essere abbastanza forte."
+ },
+ {
+  "id": "\\rWhat a strong Trainer. You deserve this.",
+  "en": "\\rWhat a strong Trainer. You deserve this.",
+  "it": "\\rChe Allenatore forte. Te lo meriti."
+ },
+ {
+  "id": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. Want to be teleported to Hearthome City?",
+  "en": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. Want to be teleported to Hearthome City?",
+  "it": "\\rCiao. La grotta è pericolosa, quindi uso il mio Abra per teletrasportare la gente oltre. Vuoi essere teletrasportato a Cuoripoli?"
+ },
+ {
+  "id": "\\rOkay, but I'm still not letting you in.",
+  "en": "\\rOkay, but I'm still not letting you in.",
+  "it": "\\rVa bene, ma comunque non ti faccio entrare."
+ },
+ {
+  "id": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. You seem really strong though. I can take you to the bottom if you want.",
+  "en": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. You seem really strong though. I can take you to the bottom if you want.",
+  "it": "\\rCiao. La grotta è pericolosa, quindi uso il mio Abra per teletrasportare la gente oltre. Però sembri davvero forte. Se vuoi posso portarti alla base."
+ },
+ {
+  "id": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. You seem really strong though.",
+  "en": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. You seem really strong though.",
+  "it": "\\rCiao. La grotta è pericolosa, quindi uso il mio Abra per teletrasportare la gente oltre. Però sembri davvero forte."
+ },
+ {
+  "id": "\\bWAIT!",
+  "en": "\\bWAIT!",
+  "it": "\\bASPETTA!"
+ },
+ {
+  "id": "\\bI thought you were going to run into the cave wall.",
+  "en": "\\bI thought you were going to run into the cave wall.",
+  "it": "\\bPensavo che stessi per andare a sbattere contro la parete della grotta."
+ },
+ {
+  "id": "\\bAbra",
+  "en": "\\bAbra",
+  "it": "\\bAbra"
+ },
+ {
+  "id": "\\rI wish you luck.",
+  "en": "\\rI wish you luck.",
+  "it": "\\rTi auguro buona fortuna."
+ },
+ {
+  "id": "\\rYou should have lost. I don't accept this.",
+  "en": "\\rYou should have lost. I don't accept this.",
+  "it": "\\rAvresti dovuto perdere. Non lo accetto."
+ },
+ {
+  "id": "\\bFlying types are cool. I want to work with them.",
+  "en": "\\bFlying types are cool. I want to work with them.",
+  "it": "\\bI tipi Volante sono fighi. Voglio lavorare con loro."
+ },
+ {
+  "id": "\\bExpectations are meant to be broken. Never give up early.",
+  "en": "\\bExpectations are meant to be broken. Never give up early.",
+  "it": "\\bLe aspettative sono fatte per essere superate. Non mollare mai troppo presto."
+ },
+ {
+  "id": "\\bHiya.",
+  "en": "\\bHiya.",
+  "it": "\\bCiao!"
+ },
+ {
+  "id": "\\bI should have beat you.",
+  "en": "\\bI should have beat you.",
+  "it": "\\bAvrei dovuto batterti."
+ },
+ {
+  "id": "\\rCynthia: Hello there. My name is Cynthia. I'm the Sinnoh League Champion. What's your name?",
+  "en": "\\rCynthia: Hello there. My name is Cynthia. I'm the Sinnoh League Champion. What's your name?",
+  "it": "\\rCamilla: Salve. Mi chiamo Camilla. Sono la Campionessa della Lega di Sinnoh. Tu come ti chiami?"
+ },
+ {
+  "id": "\\rNice to meet you, \\PN. I'm sorry, but I'm afraid I can't give you a battle right now. I was just about to leave for Celestic Town.",
+  "en": "\\rNice to meet you, \\PN. I'm sorry, but I'm afraid I can't give you a battle right now. I was just about to leave for Celestic Town.",
+  "it": "\\rPiacere di conoscerti, \\PN. Mi dispiace, ma temo di non poter lottare con te adesso. Stavo proprio per partire per Memoride."
+ },
+ {
+  "id": "\\rI'll leave you with a quote that means very much to me. \"When every life meets another life, something will be born.\"",
+  "en": "\\rI'll leave you with a quote that means very much to me. \"When every life meets another life, something will be born.\"",
+  "it": "\\rTi lascio con una citazione che significa molto per me. \"Quando una vita incontra un'altra vita, qualcosa nasce.\""
+ },
+ {
+  "id": "\\rUntil next time. I'm looking forward to seeing how you do in the league.",
+  "en": "\\rUntil next time. I'm looking forward to seeing how you do in the league.",
+  "it": "\\rAlla prossima. Non vedo l'ora di vedere come te la caverai nella Lega."
+ },
+ {
+  "id": "\\bA Trainer?",
+  "en": "\\bA Trainer?",
+  "it": "\\bUn Allenatore?"
+ },
+ {
+  "id": "\\bDon't forget to rest up.",
+  "en": "\\bDon't forget to rest up.",
+  "it": "\\bNon dimenticare di riposarti."
+ },
+ {
+  "id": "\\bA gate opened up here after a battle from Dialga and Palkia. It has strange Pokémon inside it.",
+  "en": "\\bA gate opened up here after a battle from Dialga and Palkia. It has strange Pokémon inside it.",
+  "it": "\\bQui si è aperto un varco dopo una lotta tra Dialga e Palkia. Dentro ci sono strani Pokémon."
+ },
+ {
+  "id": "\\rDo you enjoy mountain climbing too?",
+  "en": "\\rDo you enjoy mountain climbing too?",
+  "it": "\\rAnche a te piace scalare le montagne?"
+ },
+ {
+  "id": "\\rYou need to grow stronger and stronger. That's the way of a warrior.",
+  "en": "\\rYou need to grow stronger and stronger. That's the way of a warrior.",
+  "it": "\\rDevi diventare sempre più forte. Questa è la via del guerriero."
+ },
+ {
+  "id": "\\bThere was a small rockslide and now the path is blocked.",
+  "en": "\\bThere was a small rockslide and now the path is blocked.",
+  "it": "\\bC'è stata una piccola frana e ora il sentiero è bloccato."
+ },
+ {
+  "id": "\\bThere was a small rockslide and the path was blocked. It's all good thanks to Roark.",
+  "en": "\\bThere was a small rockslide and the path was blocked. It's all good thanks to Roark.",
+  "it": "\\bC'è stata una piccola frana e il sentiero era bloccato. Ora è tutto a posto grazie a Pedro."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Hearthome",
+  "en": "Hearthome",
+  "it": "Cuoripoli"
+ },
+ {
+  "id": "Mt. Coronet Bottom",
+  "en": "Mt. Coronet Bottom",
+  "it": "Base del Monte Corona"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Mt. Coronet Top",
+  "en": "Mt. Coronet Top",
+  "it": "Cima del Monte Corona"
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "\\bMy Pokémon has a Hasty Nature. It has a higher Speed stat than my other Pokémon.",
+  "en": "\\bMy Pokémon has a Hasty Nature. It has a higher Speed stat than my other Pokémon.",
+  "it": "\\bIl mio Pokémon ha natura Lesta. Ha la Velocità più alta degli altri miei Pokémon."
+ },
+ {
+  "id": "\\bMaybe Nature has something to do with how stats grow?",
+  "en": "\\bMaybe Nature has something to do with how stats grow?",
+  "it": "\\bForse la natura c'entra qualcosa con la crescita delle statistiche?"
+ },
+ {
+  "id": "\\bHello, hello!\\nI am the official Name Rater!",
+  "en": "\\bHello, hello!\\nI am the official Name Rater!",
+  "it": "\\bSalve, salve!\\nSono il Giudice dei Nomi ufficiale!"
+ },
+ {
+  "id": "\\bWant me to rate the nicknames of your Pokémon?",
+  "en": "\\bWant me to rate the nicknames of your Pokémon?",
+  "it": "\\bVuoi che valuti i soprannomi dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bWhich Pokémon's nickname should I critique?",
+  "en": "\\bWhich Pokémon's nickname should I critique?",
+  "it": "\\bDi quale Pokémon devo giudicare il soprannome?"
+ },
+ {
+  "id": "\\bI see.\\nDo come visit again.",
+  "en": "\\bI see.\\nDo come visit again.",
+  "it": "\\bCapisco.\\nTorna pure a trovarmi."
+ },
+ {
+  "id": "\\bNow, now... That is merely an Egg!",
+  "en": "\\bNow, now... That is merely an Egg!",
+  "it": "\\bSu, su... Quello è soltanto un Uovo!"
+ },
+ {
+  "id": "\\bI wouldn't dare critique a Shadow Pokémon's name!",
+  "en": "\\bI wouldn't dare critique a Shadow Pokémon's name!",
+  "it": "\\bNon oserei mai giudicare il nome di un Pokémon Ombra!"
+ },
+ {
+  "id": "\\bHmmm... \\v[3] it is!",
+  "en": "\\bHmmm... \\v[3] it is!",
+  "it": "\\bHmmm... \\v[3] sia!"
+ },
+ {
+  "id": "\\bThis is a magnificent nickname! It is impeccably beyond reproach!",
+  "en": "\\bThis is a magnificent nickname! It is impeccably beyond reproach!",
+  "it": "\\bChe soprannome magnifico! È impeccabile e irreprensibile!"
+ },
+ {
+  "id": "\\bYou'll do well to cherish your \\v[3] now and beyond.",
+  "en": "\\bYou'll do well to cherish your \\v[3] now and beyond.",
+  "it": "\\bFaresti bene ad avere cura del tuo \\v[3], ora e per sempre."
+ },
+ {
+  "id": "\\b\\v[3], is it?\\nThat is a decent nickname!",
+  "en": "\\b\\v[3], is it?\\nThat is a decent nickname!",
+  "it": "\\b\\v[3], eh?\\nÈ un soprannome discreto!"
+ },
+ {
+  "id": "\\bBut, would you like me to give it a nicer name?",
+  "en": "\\bBut, would you like me to give it a nicer name?",
+  "it": "\\bMa vorresti che gli dessi un nome più bello?"
+ },
+ {
+  "id": "\\bHow about it?",
+  "en": "\\bHow about it?",
+  "it": "\\bChe ne dici?"
+ },
+ {
+  "id": "\\bAh, good. Then, what shall the new nickname be?",
+  "en": "\\bAh, good. Then, what shall the new nickname be?",
+  "it": "\\bAh, bene. Allora, quale sarà il nuovo soprannome?"
+ },
+ {
+  "id": "\\bI see. You're right, there's no need to change this Pokémon's nickname.",
+  "en": "\\bI see. You're right, there's no need to change this Pokémon's nickname.",
+  "it": "\\bCapisco. Hai ragione, non c'è bisogno di cambiare il soprannome di questo Pokémon."
+ },
+ {
+  "id": "\\bIt already had a superb name!",
+  "en": "\\bIt already had a superb name!",
+  "it": "\\bAveva già un nome superbo!"
+ },
+ {
+  "id": "\\bDone! From now on, this Pokémon shall be known as \\v[3]!",
+  "en": "\\bDone! From now on, this Pokémon shall be known as \\v[3]!",
+  "it": "\\bFatto! D'ora in poi, questo Pokémon si chiamerà \\v[3]!"
+ },
+ {
+  "id": "\\bIt looks no different from before, and yet, this is vastly superior!",
+  "en": "\\bIt looks no different from before, and yet, this is vastly superior!",
+  "it": "\\bSembra uguale a prima, eppure è di gran lunga superiore!"
+ },
+ {
+  "id": "\\bHow fortunate for you!",
+  "en": "\\bHow fortunate for you!",
+  "it": "\\bChe fortuna per te!"
+ },
+ {
+  "id": "\\bDone! From now on, this Pokémon shall be known as \\v[5]!",
+  "en": "\\bDone! From now on, this Pokémon shall be known as \\v[5]!",
+  "it": "\\bFatto! D'ora in poi, questo Pokémon si chiamerà \\v[5]!"
+ },
+ {
+  "id": "\\bIt is a better name than before!\\nHow fortunate for you!",
+  "en": "\\bIt is a better name than before!\\nHow fortunate for you!",
+  "it": "\\bÈ un nome migliore di prima!\\nChe fortuna per te!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

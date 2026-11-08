@@ -1,0 +1,152 @@
+[
+ {
+  "id": "\\bHow did anyone find us here?",
+  "en": "\\bHow did anyone find us here?",
+  "it": "\\bCome ha fatto qualcuno a trovarci qui?"
+ },
+ {
+  "id": "\\bYou won't make it.",
+  "en": "\\bYou won't make it.",
+  "it": "\\bNon ce la farai."
+ },
+ {
+  "id": "\\bRiley: Welcome to Iron Island. You must be a powerful Trainer to be here right now. Let me see what you've got.",
+  "en": "\\bRiley: Welcome to Iron Island. You must be a powerful Trainer to be here right now. Let me see what you've got.",
+  "it": "\\bMarisio: Benvenuto sull'Isola Ferrosa. Devi essere un Allenatore molto forte per trovarti qui proprio adesso. Fammi vedere cosa sai fare."
+ },
+ {
+  "id": "\\bWhat a strong Trainer. You deserve this.",
+  "en": "\\bWhat a strong Trainer. You deserve this.",
+  "it": "\\bChe Allenatore forte. Te lo meriti."
+ },
+ {
+  "id": "\\bYou might be strong enough to help me, actually. The aura in the area is messed up. I think someone is behind it.",
+  "en": "\\bYou might be strong enough to help me, actually.  The aura in the area is messed up. I think someone is behind it.",
+  "it": "\\bA dire il vero, potresti essere abbastanza forte da aiutarmi. L'aura in questa zona è sconvolta. Credo che qualcuno ci sia dietro."
+ },
+ {
+  "id": "\\bLucario and I have to focus on keeping the aura at bay. Talk to me when you're ready and I'll let you into the cave to find the source of the problem.",
+  "en": "\\bLucario and I have to focus on keeping the aura at bay. Talk to me when you're ready and I'll let you into the cave to find the source of the problem.",
+  "it": "\\bIo e Lucario dobbiamo concentrarci per tenere a bada l'aura. Parlami quando sei pronto e ti farò entrare nella grotta per trovare l'origine del problema."
+ },
+ {
+  "id": "\\bRiley: I'll let you through the cave.",
+  "en": "\\bRiley: I'll let you through the cave.",
+  "it": "\\bMarzio: Ti lascerò passare nella grotta."
+ },
+ {
+  "id": "\\bRiley: For beating me I would like to offer you this egg.",
+  "en": "\\bRiley: For beating me I would like to offer you this egg.",
+  "it": "\\bMarzio: Per avermi battuto, vorrei offrirti quest'Uovo."
+ },
+ {
+  "id": "\\bWould you like this Pokémon egg?",
+  "en": "\\bWould you like this Pokémon egg?",
+  "it": "\\bVuoi questo Uovo Pokémon?"
+ },
+ {
+  "id": "Riley",
+  "en": "Riley",
+  "it": "Marzio"
+ },
+ {
+  "id": "\\bTake good care of it!",
+  "en": "\\bTake good care of it!",
+  "it": "\\bAbbine cura!"
+ },
+ {
+  "id": "\\bOh, you can't carry it with you.",
+  "en": "\\bOh, you can't carry it with you.",
+  "it": "\\bOh, non puoi portarlo con te."
+ },
+ {
+  "id": "\\bMake some space in your party and come back.",
+  "en": "\\bMake some space in your party and come back.",
+  "it": "\\bFai un po' di posto nella tua squadra e torna."
+ },
+ {
+  "id": "\\bOh. I guess I'll hold onto it for now.",
+  "en": "\\bOh. I guess I'll hold onto it for now.",
+  "it": "\\bOh. Allora credo che lo terrò io per ora."
+ },
+ {
+  "id": "\\bRiley: How is the egg doing?",
+  "en": "\\bRiley: How is the egg doing?",
+  "it": "\\bMarzio: Come sta l'Uovo?"
+ },
+ {
+  "id": "\\bGet out of here.",
+  "en": "\\bGet out of here.",
+  "it": "\\bVattene da qui."
+ },
+ {
+  "id": "\\bWe will find the Spear Pillar.",
+  "en": "\\bWe will find the Spear Pillar.",
+  "it": "\\bTroveremo la Vetta Lancia."
+ },
+ {
+  "id": "\\bWelcome. Where would you like to go?",
+  "en": "\\bWelcome. Where would you like to go?",
+  "it": "\\bBenvenuto. Dove vorresti andare?"
+ },
+ {
+  "id": "\\bWe aren't done yet.",
+  "en": "\\bWe aren't done yet.",
+  "it": "\\bNon abbiamo ancora finito."
+ },
+ {
+  "id": "\\bI wasn't enough this time.",
+  "en": "\\bI wasn't enough this time.",
+  "it": "\\bStavolta non è bastato."
+ },
+ {
+  "id": "\\bLucario!",
+  "en": "\\bLucario!",
+  "it": "\\bLucario!"
+ },
+ {
+  "id": "\\bNot now. Not here.",
+  "en": "\\bNot now. Not here.",
+  "it": "\\bNon ora. Non qui."
+ },
+ {
+  "id": "\\b...",
+  "en": "\\b...",
+  "it": "\\b..."
+ },
+ {
+  "id": "\\rMars: Haha. You're too late.",
+  "en": "\\rMars: Haha. You're too late.",
+  "it": "\\rMartes: Ahah. Sei arrivato tardi."
+ },
+ {
+  "id": "\\rMars: No, we only scanned 60%. I can't pull out yet. But I don't stand a chance right now.",
+  "en": "\\rMars: No, we only scanned 60%. I can't pull out yet.  But I don't stand a chance right now.",
+  "it": "\\rMartes: No, abbiamo scansionato solo il 60%. Non posso ritirarmi ora.  Ma adesso non ho nessuna possibilità."
+ },
+ {
+  "id": "\\rIt will be fine. We can find the Spear Pillar with just that. Grunts, retreat!",
+  "en": "\\rIt will be fine. We can find the Spear Pillar with just that. Grunts, retreat!",
+  "it": "\\rAndrà bene. Possiamo trovare la Vetta Lancia anche solo con questo. Reclute, ritirata!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Canalave",
+  "en": "Canalave",
+  "it": "Canalipoli"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ }
+]

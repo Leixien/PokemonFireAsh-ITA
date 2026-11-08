@@ -1,0 +1,207 @@
+[
+ {
+  "id": "\\rLiza: Hello again \\PN. Nice to see you.",
+  "en": "\\rLiza: Hello again \\PN. Nice to see you.",
+  "it": "\\rPat: Ciao di nuovo, \\PN. Che piacere vederti."
+ },
+ {
+  "id": "\\rWould you like me to train one of your Pokémon?",
+  "en": "\\rWould you like me to train one of your Pokémon?",
+  "it": "\\rVuoi che alleni uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOh? But you only have one with you.",
+  "en": "\\rOh?  But you only have one with you.",
+  "it": "\\rOh? Ma ne hai solo uno con te."
+ },
+ {
+  "id": "\\rWhich Pokémon would you like me to raise?",
+  "en": "\\rWhich Pokémon would you like me to raise?",
+  "it": "\\rQuale Pokémon vuoi che alleni?"
+ },
+ {
+  "id": "\\rFine.",
+  "en": "\\rFine.",
+  "it": "\\rCome vuoi."
+ },
+ {
+  "id": "\\rIf you leave me that Pokémon, what are you gonna battle with?",
+  "en": "\\rIf you leave me that Pokémon, what are you gonna battle with?",
+  "it": "\\rSe mi lasci quel Pokémon, con cosa lotterai?"
+ },
+ {
+  "id": "\\rCome back with some common sense.",
+  "en": "\\rCome back with some common sense.",
+  "it": "\\rTorna quando avrai un po' di buon senso."
+ },
+ {
+  "id": "\\rI'll raise your \\v[3] for a while.",
+  "en": "\\rI'll raise your \\v[3] for a while.",
+  "it": "\\rAllenerò il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\rI can raise two of your Pokémon. Would you like me to raise another?",
+  "en": "\\rI can raise two of your Pokémon. Would you like me to raise another?",
+  "it": "\\rPosso allenare due dei tuoi Pokémon. Vuoi che ne alleni un altro?"
+ },
+ {
+  "id": "\\rOh? But you only have one Pokémon with you.",
+  "en": "\\rOh? But you only have one Pokémon with you.",
+  "it": "\\rOh? Ma hai un solo Pokémon con te."
+ },
+ {
+  "id": "\\rYou can't go off without a Pokémon. Come back another time.",
+  "en": "\\rYou can't go off without a Pokémon. Come back another time.",
+  "it": "\\rNon puoi andartene senza un Pokémon. Torna un'altra volta."
+ },
+ {
+  "id": "\\rVery good. Come again.",
+  "en": "\\rVery good. Come again.",
+  "it": "\\rMolto bene. Torna a trovarmi."
+ },
+ {
+  "id": "\\rCome back another time.",
+  "en": "\\rCome back another time.",
+  "it": "\\rTorna un'altra volta."
+ },
+ {
+  "id": "\\rFine, I'll raise your \\v[3] for a while.",
+  "en": "\\rFine, I'll raise your \\v[3] for a while.",
+  "it": "\\rVa bene, allenerò il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\rCome back for it later.",
+  "en": "\\rCome back for it later.",
+  "it": "\\rTorna a prenderlo più tardi."
+ },
+ {
+  "id": "\\rOh, fine, then.\\nCome again.",
+  "en": "\\rOh, fine, then.\\nCome again.",
+  "it": "\\rOh, va bene, allora.\\nTorna presto."
+ },
+ {
+  "id": "\\rHey \\PN. How's it going? Your Pokémon got stronger.",
+  "en": "\\rHey \\PN. How's it going? Your Pokémon got stronger.",
+  "it": "\\rEhi, \\PN. Come va? Il tuo Pokémon è diventato più forte."
+ },
+ {
+  "id": "\\rBy level, your \\v[3] has grown by about \\v[4].",
+  "en": "\\rBy level, your \\v[3] has grown by about \\v[4].",
+  "it": "\\rIl tuo \\v[3] è salito di circa \\v[4] livelli."
+ },
+ {
+  "id": "\\rDo you want your Pokémon back?",
+  "en": "\\rDo you want your Pokémon back?",
+  "it": "\\rVuoi riprenderti il tuo Pokémon?"
+ },
+ {
+  "id": "\\rYour Pokémon team is full. Make room, then come see me.",
+  "en": "\\rYour Pokémon team is full. Make room, then come see me.",
+  "it": "\\rLa tua squadra è al completo. Fai spazio e poi torna da me."
+ },
+ {
+  "id": "Which one do you want back?",
+  "en": "Which one do you want back?",
+  "it": "Quale vuoi riprenderti?"
+ },
+ {
+  "id": "\\G\\rIf you want your \\v[3] back, it will cost $\\v[4].",
+  "en": "\\G\\rIf you want your \\v[3] back, it will cost $\\v[4].",
+  "it": "\\G\\rSe rivuoi il tuo \\v[3], ti costerà $\\v[4]."
+ },
+ {
+  "id": "\\G\\rYou don't have enough money...",
+  "en": "\\G\\rYou don't have enough money...",
+  "it": "\\G\\rNon hai abbastanza soldi..."
+ },
+ {
+  "id": "\\G\\rAwesome\\nHere's your Pokémon.",
+  "en": "\\G\\rAwesome\\nHere's your Pokémon.",
+  "it": "\\G\\rFantastico\\nEcco il tuo Pokémon."
+ },
+ {
+  "id": "\\PN took \\v[3] back from Liza.",
+  "en": "\\PN took \\v[3] back from Liza.",
+  "it": "\\PN si è ripreso \\v[3] da Liza."
+ },
+ {
+  "id": "\\rDo you want to take back the other one, too?",
+  "en": "\\rDo you want to take back the other one, too?",
+  "it": "\\rVuoi riprenderti anche l'altro?"
+ },
+ {
+  "id": "\\rNurse Joy: You should take a break.",
+  "en": "\\rNurse Joy: You should take a break.",
+  "it": "\\rInfermiera Joy: Dovresti prenderti una pausa."
+ },
+ {
+  "id": "\\rOh, good! You and your Pokémon are looking great. Take care now!",
+  "en": "\\rOh, good! You and your Pokémon are looking great.  Take care now!",
+  "it": "\\rOh, bene! Tu e i tuoi Pokémon avete un ottimo aspetto. Abbi cura di te!"
+ },
+ {
+  "id": "\\bBrandon is currently out training right now. Try coming back later.",
+  "en": "\\bBrandon is currently out training right now. Try coming back later.",
+  "it": "\\bBrandon al momento è fuori ad allenarsi. Riprova più tardi."
+ },
+ {
+  "id": "\\bThrough here you battle Brandon. Are you ready?",
+  "en": "\\bThrough here you battle Brandon. Are you ready?",
+  "it": "\\bDa qui si va a lottare contro Brandon. Sei pronto?"
+ },
+ {
+  "id": "\\bBrandon will be ready shortly. Come back in a few minutes.",
+  "en": "\\bBrandon will be ready shortly. Come back in a few minutes.",
+  "it": "\\bBrandon sarà pronto a breve. Torna fra qualche minuto."
+ },
+ {
+  "id": "\\bYou need a Frontier Pass to battle Brandon.",
+  "en": "\\bYou need a Frontier Pass to battle Brandon.",
+  "it": "\\bTi serve un Pass Lotta per sfidare Brandon."
+ },
+ {
+  "id": "\\bAn Aipom stole yours? That's happened a few times actually. It usually goes to the Indigo Plateau after taking something.",
+  "en": "\\bAn Aipom stole yours? That's happened a few times actually. It usually goes to the Indigo Plateau after taking something.",
+  "it": "\\bUn Aipom ti ha rubato il tuo? In effetti è già successo qualche volta. Di solito va all'Altopiano Blu dopo aver preso qualcosa."
+ },
+ {
+  "id": "\\bYou have already beat Brandon.",
+  "en": "\\bYou have already beat Brandon.",
+  "it": "\\bHai già battuto Brandon."
+ },
+ {
+  "id": "\\bMost people don't get to come to this place. It ocassionaly moves to keep it secret.",
+  "en": "\\bMost people don't get to come to this place. It ocassionaly moves to keep it secret.",
+  "it": "\\bLa maggior parte della gente non riesce a venire in questo posto. Ogni tanto si sposta per restare segreto."
+ },
+ {
+  "id": "This ball contain a Regirock. Would you like to take it?",
+  "en": "This ball contain a Regirock. Would you like to take it?",
+  "it": "Questa Ball contiene un Regirock. Vuoi prenderlo?"
+ },
+ {
+  "id": "This ball contain a Regice. Would you like to take it?",
+  "en": "This ball contain a Regice. Would you like to take it?",
+  "it": "Questa Ball contiene un Regice. Vuoi prenderlo?"
+ },
+ {
+  "id": "\\rChar!",
+  "en": "\\rChar!",
+  "it": "\\rChar!"
+ },
+ {
+  "id": "This ball contain a Registeel. Would you like to take it?",
+  "en": "This ball contain a Registeel. Would you like to take it?",
+  "it": "Questa Ball contiene un Registeel. Vuoi prenderlo?"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]
