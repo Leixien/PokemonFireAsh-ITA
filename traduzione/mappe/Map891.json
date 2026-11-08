@@ -97,7 +97,7 @@
  {
   "id": "\\bKukui: It should be found in Melemele Meadow.",
   "en": "\\bKukui: It should be found in Melemele Meadow.",
-  "it": "\\bKukui: Dovrebbe trovarsi al Prato di Mele Mele."
+  "it": "\\bKukui: Dovrebbe trovarsi al Prato Mele Mele."
  },
  {
   "id": "\\bKukui: Wasn't it nice of Lana to organize this?",
@@ -522,7 +522,7 @@
  {
   "id": "\\bKukui: With that said, the first one has already been spotted. It should be found in Melemele Meadow.",
   "en": "\\bKukui: With that said, the first one has already been spotted. It should be found in Melemele Meadow.",
-  "it": "\\bKukui: Detto questo, la prima è già stata avvistata. Dovrebbe trovarsi al Prato di Mele Mele."
+  "it": "\\bKukui: Detto questo, la prima è già stata avvistata. Dovrebbe trovarsi al Prato Mele Mele."
  },
  {
   "id": "\\bBeast Balls might help getting them easier. Lusamine sent someone over who will sell you some.",
@@ -552,7 +552,7 @@
  {
   "id": "\\rLillie: My mother called earlier today and told me what needs done. We need to go on an Ultra Guardians mission to the Altar of the Sunne.",
   "en": "\\rLillie: My mother called earlier today and told me what needs done. We need to go on an Ultra Guardians mission to the Altar of the Sunne.",
-  "it": "\\rLylia: Mia madre mi ha chiamato oggi e mi ha detto cosa bisogna fare. Dobbiamo partire per una missione degli Ultraguardiani all'Altare del Sole."
+  "it": "\\rLylia: Mia madre mi ha chiamato oggi e mi ha detto cosa bisogna fare. Dobbiamo partire per una missione degli Ultraguardiani all'Altare Solare."
  },
  {
   "id": "Rotom Dex: Let's all head to the boat!",
@@ -797,7 +797,7 @@
  {
   "id": "\\rLillie: My mom just called the school. She said we need to head to the Altar of the Sunne.",
   "en": "\\rLillie: My mom just called the school. She said we need to head to the Altar of the Sunne.",
-  "it": "\\rLylia: Mia madre ha appena chiamato la scuola. Ha detto che dobbiamo andare all'Altare del Sole."
+  "it": "\\rLylia: Mia madre ha appena chiamato la scuola. Ha detto che dobbiamo andare all'Altare Solare."
  },
  {
   "id": "Rotom Dex: Let's take the boat.",
@@ -1092,12 +1092,12 @@
  {
   "id": "Rotom Dex: Let's go to Melemele Meadow.",
   "en": "Rotom Dex: Let's go to Melemele Meadow.",
-  "it": "Rotom Dex: Andiamo al Prato di Mele Mele."
+  "it": "Rotom Dex: Andiamo al Prato Mele Mele."
  },
  {
   "id": "Rotom Dex: Let's go to the Royal Avenue.",
   "en": "Rotom Dex: Let's go to the Royal Avenue.",
-  "it": "Rotom Dex: Andiamo al Viale Reale."
+  "it": "Rotom Dex: Andiamo al Viale Royale."
  },
  {
   "id": "Rotom Dex: Let's deal with Team Skull.",
@@ -1142,7 +1142,7 @@
  {
   "id": "Rotom Dex: Let's go to the trial at the Thrifty Megamart.",
   "en": "Rotom Dex: Let's go to the trial at the Thrifty Megamart.",
-  "it": "Rotom Dex: Andiamo alla prova al Megamarket Parsimonia."
+  "it": "Rotom Dex: Andiamo alla prova al Supermarket Affaroni."
  },
  {
   "id": "Rotom Dex: Let's battle Nanu again.",
@@ -1157,7 +1157,7 @@
  {
   "id": "Rotom Dex: Let's go to the Altar of the Sunne.",
   "en": "Rotom Dex: Let's go to the Altar of the Sunne.",
-  "it": "Rotom Dex: Andiamo all'Altare del Sole."
+  "it": "Rotom Dex: Andiamo all'Altare Solare."
  },
  {
   "id": "Rotom Dex: Let's go to the forest next to the school.",
@@ -1192,7 +1192,7 @@
  {
   "id": "Rotom Dex: Let's go to Seafolk Village.",
   "en": "Rotom Dex: Let's go to Seafolk Village.",
-  "it": "Rotom Dex: Andiamo al Villaggio Marino."
+  "it": "Rotom Dex: Andiamo al Villaggio del Mare."
  },
  {
   "id": "Rotom Dex: Let's go to Ancient Poni Path.",
@@ -1202,12 +1202,12 @@
  {
   "id": "Rotom Dex: Let's go to Poni Wilds.",
   "en": "Rotom Dex: Let's go to Poni Wilds.",
-  "it": "Rotom Dex: Andiamo alle Lande di Poni."
+  "it": "Rotom Dex: Andiamo alle Piana di Poni."
  },
  {
   "id": "Rotom Dex: Let's go to Poni Breaker Coast.",
   "en": "Rotom Dex: Let's go to Poni Breaker Coast.",
-  "it": "Rotom Dex: Andiamo alla Costa Frangiflutti di Poni."
+  "it": "Rotom Dex: Andiamo alla Scogliera di Poni."
  },
  {
   "id": "Rotom Dex: A Pokémon is running around in here.",

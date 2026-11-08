@@ -3982,7 +3982,7 @@
  {
   "id": 797,
   "en": "Lumiose Gate",
-  "it": "Varco di Luminopoli"
+  "it": "Varco Luminopoli"
  },
  {
   "id": 798,
@@ -4037,12 +4037,12 @@
  {
   "id": 808,
   "en": "Parfum Palace",
-  "it": "Palazzo Parfum"
+  "it": "Reggia Aurea"
  },
  {
   "id": 809,
   "en": "Parfum Palace",
-  "it": "Palazzo Parfum"
+  "it": "Reggia Aurea"
  },
  {
   "id": 810,
@@ -4062,22 +4062,22 @@
  {
   "id": 813,
   "en": "Cyllage City",
-  "it": "Petroglifari"
+  "it": "Altoripoli"
  },
  {
   "id": 814,
   "en": "Cyllage House",
-  "it": "Casa di Petroglifari"
+  "it": "Casa di Altoripoli"
  },
  {
   "id": 815,
   "en": "Cyllage Pokémon Center",
-  "it": "Centro Pokémon di Petroglifari"
+  "it": "Centro Pokémon di Altoripoli"
  },
  {
   "id": 816,
   "en": "Cyllage Gym",
-  "it": "Palestra di Petroglifari"
+  "it": "Palestra di Altoripoli"
  },
  {
   "id": 817,
@@ -4107,7 +4107,7 @@
  {
   "id": 822,
   "en": "Reflection Cave",
-  "it": "Grotta Riflessi"
+  "it": "Grotta dei Riflessi"
  },
  {
   "id": 823,
@@ -4137,22 +4137,22 @@
  {
   "id": 828,
   "en": "Coumarine City",
-  "it": "Batikopoli"
+  "it": "Temperopoli"
  },
  {
   "id": 829,
   "en": "Coumarine House",
-  "it": "Casa di Batikopoli"
+  "it": "Casa di Temperopoli"
  },
  {
   "id": 830,
   "en": "Coumarine Pokémon Center",
-  "it": "Centro Pokémon di Batikopoli"
+  "it": "Centro Pokémon di Temperopoli"
  },
  {
   "id": 831,
   "en": "Coumarine Gym",
-  "it": "Palestra di Batikopoli"
+  "it": "Palestra di Temperopoli"
  },
  {
   "id": 832,
@@ -4187,7 +4187,7 @@
  {
   "id": 838,
   "en": "Poké Ball Factory",
-  "it": "Fabbrica di Poké Ball"
+  "it": "Fabbrica Poké Ball"
  },
  {
   "id": 839,
@@ -4227,17 +4227,17 @@
  {
   "id": 846,
   "en": "Frost Cavern 1F",
-  "it": "Grotta Gelata 1P"
+  "it": "Caverna Gelata 1P"
  },
  {
   "id": 847,
   "en": "Frost Cavern 2F",
-  "it": "Grotta Gelata 2P"
+  "it": "Caverna Gelata 2P"
  },
  {
   "id": 848,
   "en": "Frost Cavern 3F",
-  "it": "Grotta Gelata 3P"
+  "it": "Caverna Gelata 3P"
  },
  {
   "id": 849,
@@ -4302,12 +4302,12 @@
  {
   "id": 861,
   "en": "Terminus Cave",
-  "it": "Grotta Capolinea"
+  "it": "Grotta Climax"
  },
  {
   "id": 862,
   "en": "Terminus Cave",
-  "it": "Grotta Capolinea"
+  "it": "Grotta Climax"
  },
  {
   "id": 863,
@@ -4507,7 +4507,7 @@
  {
   "id": 902,
   "en": "Iki Town",
-  "it": "Iki"
+  "it": "Lili"
  },
  {
   "id": 903,
@@ -4527,27 +4527,27 @@
  {
   "id": 906,
   "en": "Paniola Town",
-  "it": "Paniola"
+  "it": "Ohana"
  },
  {
   "id": 907,
   "en": "Paniola Ranch",
-  "it": "Ranch Paniola"
+  "it": "Fattoria Ohana"
  },
  {
   "id": 908,
   "en": "Paniola House",
-  "it": "Casa di Paniola"
+  "it": "Casa di Ohana"
  },
  {
   "id": 909,
   "en": "Paniola Pokémon Center",
-  "it": "Centro Pokémon di Paniola"
+  "it": "Centro Pokémon di Ohana"
  },
  {
   "id": 910,
   "en": "Melemele Meadow",
-  "it": "Prato di Mele Mele"
+  "it": "Prato Mele Mele"
  },
  {
   "id": 911,
@@ -4557,7 +4557,7 @@
  {
   "id": 912,
   "en": "Brooklet Hill",
-  "it": "Collina Ruscello"
+  "it": "Collina Scrosciante"
  },
  {
   "id": 913,
@@ -4577,12 +4577,12 @@
  {
   "id": 916,
   "en": "Lush Jungle",
-  "it": "Foresta Ombrosa"
+  "it": "Giungla Ombrosa"
  },
  {
   "id": 917,
   "en": "Ruins of Life",
-  "it": "Rovine della Vita"
+  "it": "Tempio della Vita"
  },
  {
   "id": 918,
@@ -4602,12 +4602,12 @@
  {
   "id": 921,
   "en": "Vast Poni Canyon",
-  "it": "Gran Canyon di Poni"
+  "it": "Canyon di Poni"
  },
  {
   "id": 922,
   "en": "Altar of the Sunne",
-  "it": "Altare del Sole"
+  "it": "Altare Solare"
  },
  {
   "id": 923,
@@ -4622,7 +4622,7 @@
  {
   "id": 925,
   "en": "Iki Town-Sun",
-  "it": "Iki-Sole"
+  "it": "Lili-Sole"
  },
  {
   "id": 926,
@@ -4632,7 +4632,7 @@
  {
   "id": 927,
   "en": "Royal Avenue",
-  "it": "Viale Reale"
+  "it": "Viale Royale"
  },
  {
   "id": 928,
@@ -4647,12 +4647,12 @@
  {
   "id": 930,
   "en": "Battle Royal Dome",
-  "it": "Arena Battle Royal"
+  "it": "Stadio Royale"
  },
  {
   "id": 931,
   "en": "Battle Royal Dome",
-  "it": "Arena Battle Royal"
+  "it": "Stadio Royale"
  },
  {
   "id": 932,
@@ -4677,17 +4677,17 @@
  {
   "id": 936,
   "en": "Thrifty Megamart",
-  "it": "Megamarket Parsimonia"
+  "it": "Supermarket Affaroni"
  },
  {
   "id": 937,
   "en": "Haina Desert",
-  "it": "Deserto di Haina"
+  "it": "Deserto Haina"
  },
  {
   "id": 938,
   "en": "Ruins of Abundance",
-  "it": "Rovine dell'Abbondanza"
+  "it": "Tempio del Raccolto"
  },
  {
   "id": 939,
@@ -4697,12 +4697,12 @@
  {
   "id": 940,
   "en": "Mount Hokulani",
-  "it": "Monte Hokulani"
+  "it": "Picco Hokulani"
  },
  {
   "id": 941,
   "en": "Battle Royal Dome",
-  "it": "Arena Battle Royal"
+  "it": "Stadio Royale"
  },
  {
   "id": 942,
@@ -4717,12 +4717,12 @@
  {
   "id": 944,
   "en": "Seafolk Village",
-  "it": "Villaggio Marino"
+  "it": "Villaggio del Mare"
  },
  {
   "id": 945,
   "en": "Poni Wilds",
-  "it": "Lande di Poni"
+  "it": "Piana di Poni"
  },
  {
   "id": 946,
@@ -4737,17 +4737,17 @@
  {
   "id": 948,
   "en": "Ancient Poni Path",
-  "it": "Antico Sentiero di Poni"
+  "it": "Via Antica di Poni"
  },
  {
   "id": 949,
   "en": "Poni Breaker Coast",
-  "it": "Costa Frangiflutti di Poni"
+  "it": "Scogliera di Poni"
  },
  {
   "id": 950,
   "en": "Ruins of Hope",
-  "it": "Rovine della Speranza"
+  "it": "Tempio del Passaggio"
  },
  {
   "id": 951,

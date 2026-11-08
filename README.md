@@ -53,14 +53,31 @@ Per vedere l'avanzamento aggiornato esegui `py tools/lotti.py stato`.
 Restano in inglese solo gli 81 messaggi di errore del compilatore di Essentials, visibili esclusivamente
 in modalità debug.
 
-> ⚠️ La traduzione è stata verificata con controlli automatici, ma non è
-> ancora stata giocata dall'inizio alla fine. Segnalate errori, testi che escono dai riquadri e nomi non
+**Nomi ufficiali:** mosse, abilità, strumenti, tipi, nature, categorie dei Pokémon e luoghi dei giochi
+ufficiali usano i nomi della versione italiana (confrontati con i dati di [PokeAPI](https://pokeapi.co/)),
+anche quando sono citati nei dialoghi e nelle descrizioni.
+
+> ⚠️ La traduzione è stata verificata con controlli automatici e provata in gioco, ma non ancora
+> giocata dall'inizio alla fine. Segnalate errori, testi che escono dai riquadri e nomi non
 > ufficiali nelle Issues.
 
 I nomi dei Pokémon restano invariati, come nei giochi ufficiali in italiano.
 In [`traduzione/DA_RIVEDERE.md`](traduzione/DA_RIVEDERE.md) trovi i termini da verificare.
 
 _Ultimo aggiornamento: 2026-11-08_
+
+## 🎮 Giocare con il controller
+
+Il gioco gira su mkxp-z, che supporta i controller nativamente: collega il controller **prima** di avviare
+`Game.exe` e dovrebbe funzionare subito.
+
+Se un pulsante non fa quello che ti aspetti, premi **F1** sulla tastiera durante il gioco: si apre la
+finestra delle assegnazioni, dove puoi associare a ogni azione (Use = conferma, Back = indietro,
+Action = menu...) il pulsante del controller che preferisci. La configurazione viene salvata.
+
+Se il controller non viene rilevato (capita con alcuni controller PlayStation o generici), avvia il
+gioco da Steam come "gioco non Steam" con Steam Input attivo, oppure usa
+[DS4Windows](https://ds4-windows.com/).
 
 ## 🛠️ Come funziona
 

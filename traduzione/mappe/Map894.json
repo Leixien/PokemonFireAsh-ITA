@@ -247,7 +247,7 @@
  {
   "id": "\\bWelcome. Where would you like to go?\\ch[1,-1, Paniola,Aether,Vast Poni Canyon,Mount Lanakila,Exit]",
   "en": "\\bWelcome. Where would you like to go?\\ch[1,-1, Paniola,Aether,Vast Poni Canyon,Mount Lanakila,Exit]",
-  "it": "\\bBenvenuto. Dove vuoi andare?\\ch[1,-1, Paniola,Aether,Gran Canyon di Poni,Monte Lanakila,Esci]"
+  "it": "\\bBenvenuto. Dove vuoi andare?\\ch[1,-1, Ohana,Aether,Canyon di Poni,Monte Lanakila,Esci]"
  },
  {
   "id": "\\bEevee",
@@ -272,7 +272,7 @@
  {
   "id": "Seafolk Village",
   "en": "Seafolk Village",
-  "it": "Villaggio Marino"
+  "it": "Villaggio del Mare"
  },
  {
   "id": "Manalo Stadium",
@@ -302,7 +302,7 @@
  {
   "id": "Paniola",
   "en": "Paniola",
-  "it": "Paniola"
+  "it": "Ohana"
  },
  {
   "id": "Aether",
@@ -312,6 +312,6 @@
  {
   "id": "Vast Poni Canyon",
   "en": "Vast Poni Canyon",
-  "it": "Gran Canyon di Poni"
+  "it": "Canyon di Poni"
  }
 ]

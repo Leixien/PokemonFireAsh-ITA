@@ -92,7 +92,7 @@
  {
   "id": 19,
   "en": "Shield Dust",
-  "it": "Polvscudo"
+  "it": "Polvoscudo"
  },
  {
   "id": 20,
@@ -132,7 +132,7 @@
  {
   "id": 27,
   "en": "Effect Spore",
-  "it": "Spargispore"
+  "it": "Spargispora"
  },
  {
   "id": 28,
@@ -702,7 +702,7 @@
  {
   "id": 141,
   "en": "Moody",
-  "it": "Lunatico"
+  "it": "Altalena"
  },
  {
   "id": 142,
@@ -772,7 +772,7 @@
  {
   "id": 155,
   "en": "Rattled",
-  "it": "Coniglietto"
+  "it": "Paura"
  },
  {
   "id": 156,
@@ -832,7 +832,7 @@
  {
   "id": 167,
   "en": "Cheek Pouch",
-  "it": "Guanciale"
+  "it": "Guancegonfie"
  },
  {
   "id": 168,
@@ -862,7 +862,7 @@
  {
   "id": 173,
   "en": "Strong Jaw",
-  "it": "Mascelleforti"
+  "it": "Ferromascella"
  },
  {
   "id": 174,
@@ -877,7 +877,7 @@
  {
   "id": 176,
   "en": "Stance Change",
-  "it": "Cambiatattica"
+  "it": "Accendilotta"
  },
  {
   "id": 177,
@@ -922,7 +922,7 @@
  {
   "id": 185,
   "en": "Parental Bond",
-  "it": "Amore Filiale"
+  "it": "Amorefiliale"
  },
  {
   "id": 186,
@@ -957,7 +957,7 @@
  {
   "id": 192,
   "en": "Stamina",
-  "it": "Resistenza"
+  "it": "Sopportazione"
  },
  {
   "id": 193,
@@ -967,7 +967,7 @@
  {
   "id": 194,
   "en": "Emergency Exit",
-  "it": "Esodo"
+  "it": "Passoindietro"
  },
  {
   "id": 195,
@@ -982,12 +982,12 @@
  {
   "id": 197,
   "en": "Shields Down",
-  "it": "Scudo Limite"
+  "it": "Scudosoglia"
  },
  {
   "id": 198,
   "en": "Stakeout",
-  "it": "Pedinamento"
+  "it": "Sorveglianza"
  },
  {
   "id": 199,
@@ -997,7 +997,7 @@
  {
   "id": 200,
   "en": "Steelworker",
-  "it": "Metallurgia"
+  "it": "Tempracciaio"
  },
  {
   "id": 201,
@@ -1012,7 +1012,7 @@
  {
   "id": 203,
   "en": "Long Reach",
-  "it": "Distanza"
+  "it": "Distacco"
  },
  {
   "id": 204,
@@ -1022,7 +1022,7 @@
  {
   "id": 205,
   "en": "Triage",
-  "it": "Primocura"
+  "it": "Primacura"
  },
  {
   "id": 206,
@@ -1032,7 +1032,7 @@
  {
   "id": 207,
   "en": "Surge Surfer",
-  "it": "Surfaonda"
+  "it": "Codasurf"
  },
  {
   "id": 208,
@@ -1042,7 +1042,7 @@
  {
   "id": 209,
   "en": "Disguise",
-  "it": "Fantoccio"
+  "it": "Fantasmanto"
  },
  {
   "id": 210,
@@ -1052,7 +1052,7 @@
  {
   "id": 211,
   "en": "Power Construct",
-  "it": "Sciamefficienza"
+  "it": "Sciamefusione"
  },
  {
   "id": 212,
@@ -1062,7 +1062,7 @@
  {
   "id": 213,
   "en": "Comatose",
-  "it": "Dormiveglia"
+  "it": "Sonno Assoluto"
  },
  {
   "id": 214,
@@ -1072,12 +1072,12 @@
  {
   "id": 215,
   "en": "Innards Out",
-  "it": "Sputaviscere"
+  "it": "Espellinterno"
  },
  {
   "id": 216,
   "en": "Dancer",
-  "it": "Ballerino"
+  "it": "Sincrodanza"
  },
  {
   "id": 217,
@@ -1092,37 +1092,37 @@
  {
   "id": 219,
   "en": "Dazzling",
-  "it": "Abbagliante"
+  "it": "Corposgargiante"
  },
  {
   "id": 220,
   "en": "Soul-Heart",
-  "it": "Animacuore"
+  "it": "Cuoreanima"
  },
  {
   "id": 221,
   "en": "Tangling Hair",
-  "it": "Riccioli"
+  "it": "Boccolidoro"
  },
  {
   "id": 222,
   "en": "Receiver",
-  "it": "Ricevitore"
+  "it": "Ricezione"
  },
  {
   "id": 223,
   "en": "Power of Alchemy",
-  "it": "Alchimia"
+  "it": "Forza Chimica"
  },
  {
   "id": 224,
   "en": "Beast Boost",
-  "it": "Ultraimpulso"
+  "it": "Ultraboost"
  },
  {
   "id": 225,
   "en": "RKS System",
-  "it": "Sistema RKS"
+  "it": "Sistema Primevo"
  },
  {
   "id": 226,
@@ -1147,22 +1147,22 @@
  {
   "id": 230,
   "en": "Full Metal Body",
-  "it": "Metalcorpo"
+  "it": "Metalprotezione"
  },
  {
   "id": 231,
   "en": "Shadow Shield",
-  "it": "Spettroscudo"
+  "it": "Spettroguardia"
  },
  {
   "id": 232,
   "en": "Prism Armor",
-  "it": "Prismguscio"
+  "it": "Scudoprisma"
  },
  {
   "id": 233,
   "en": "Neuroforce",
-  "it": "Neuroforza"
+  "it": "Cerebroforza"
  },
  {
   "id": 234,
@@ -1182,7 +1182,7 @@
  {
   "id": 237,
   "en": "Gorilla Tactics",
-  "it": "Tattica Gorilla"
+  "it": "Vigorilla"
  },
  {
   "id": 238,
@@ -1192,7 +1192,7 @@
  {
   "id": 239,
   "en": "Hunger Switch",
-  "it": "Pancia Vuota"
+  "it": "Pancialterna"
  },
  {
   "id": 240,
@@ -1202,7 +1202,7 @@
  {
   "id": 241,
   "en": "Ice Scales",
-  "it": "Squamagelo"
+  "it": "Geloscaglie"
  },
  {
   "id": 242,
@@ -1222,7 +1222,7 @@
  {
   "id": 245,
   "en": "Mirror Armor",
-  "it": "Specchiarmatura"
+  "it": "Blindospecchio"
  },
  {
   "id": 246,
@@ -1232,7 +1232,7 @@
  {
   "id": 247,
   "en": "Pastel Veil",
-  "it": "Velopastello"
+  "it": "Pastelvelo"
  },
  {
   "id": 248,
@@ -1242,12 +1242,12 @@
  {
   "id": 249,
   "en": "Power Spot",
-  "it": "Fulcro"
+  "it": "Fonte Energetica"
  },
  {
   "id": 250,
   "en": "Propeller Tail",
-  "it": "Elicaudale"
+  "it": "Elicopinna"
  },
  {
   "id": 251,
@@ -1267,17 +1267,17 @@
  {
   "id": 254,
   "en": "Screen Cleaner",
-  "it": "Antibarriere"
+  "it": "Annullabarriere"
  },
  {
   "id": 255,
   "en": "Stalwart",
-  "it": "Fermezza"
+  "it": "Volontà di Ferro"
  },
  {
   "id": 256,
   "en": "Steam Engine",
-  "it": "Vapormotore"
+  "it": "Vapormacchina"
  },
  {
   "id": 257,
@@ -1292,7 +1292,7 @@
  {
   "id": 259,
   "en": "Unseen Fist",
-  "it": "Pugnoinvisibile"
+  "it": "Pugni Invisibili"
  },
  {
   "id": 260,
@@ -1302,7 +1302,7 @@
  {
   "id": 261,
   "en": "Curious Medicine",
-  "it": "Medicina Bizzarra"
+  "it": "Stranofarmaco"
  },
  {
   "id": 262,
@@ -1312,26 +1312,26 @@
  {
   "id": 263,
   "en": "Dragon's Maw",
-  "it": "Fauci di Drago"
+  "it": "Dragomascelle"
  },
  {
   "id": 264,
   "en": "Chilling Neigh",
-  "it": "Nitrito Gelido"
+  "it": "Nitrito Bianco"
  },
  {
   "id": 265,
   "en": "Grim Neigh",
-  "it": "Nitrito Funesto"
+  "it": "Nitrito Nero"
  },
  {
   "id": 266,
   "en": "As One",
-  "it": "Unione Equina"
+  "it": "Sintonia Equina"
  },
  {
   "id": 267,
   "en": "As One",
-  "it": "Unione Equina"
+  "it": "Sintonia Equina"
  }
 ]

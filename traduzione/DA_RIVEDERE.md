@@ -1,5 +1,10 @@
 # Punti da rivedere (dubbi dei traduttori)
 
+> **Aggiornamento:** nomi di mosse, abilità, strumenti, tipi, nature, categorie dei Pokémon e luoghi
+> ufficiali sono stati confrontati con i nomi italiani ufficiali (dati PokeAPI) e corretti, compresi i
+> testi che li citano. I dubbi su questi nomi elencati sotto sono quindi **risolti**. Restano da
+> verificare: nomi dei personaggi, termini dell'anime, luoghi originali del fan game e testi dei dialoghi.
+
 Termini scelti senza certezza che siano quelli ufficiali italiani. Da verificare in gioco o sulle wiki.
 
 ## Nomi e luoghi (db-nomi)
