@@ -5,7 +5,7 @@ Modifica Settings::LANGUAGES dentro Data/Scripts.rxdata:
     commentata `#["Italian", "italian.dat"]`, che viene riattivata come
     ["Italiano", "italian.dat"] (in fondo, cosi' le lingue gia' scelte nei
     salvataggi non cambiano);
-  - versione 3.4: la lista e' vuota e diventa
+  - giochi senza lista delle lingue (es. versioni vecchie come la 3.4): diventa
     [["Italiano", "italiano.dat"], ["English", "english.dat"]], creando
     Data/english.dat come copia di messages.dat.
 Prima della modifica salva Data/Scripts.rxdata.bak (solo la prima volta).

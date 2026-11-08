@@ -1,36 +1,29 @@
 # Pokemon Fire Ash - Traduzione Italiana 🇮🇹
 
-Traduzione italiana non ufficiale di **Pokémon Fire Ash** (fan game realizzato con Pokémon Essentials).
+Traduzione italiana non ufficiale di **Pokémon Fire Ash 3.7.1** (fan game realizzato con Pokémon Essentials).
 
-| Versione del gioco | Supporto |
-|---|---|
-| **3.7.1** (quella distribuita ora) | ✅ Completa, consigliata |
-| 3.4 | ✅ Completa (non più aggiornata) |
-| Altre versioni | ❌ Il patcher si ferma: molti testi resterebbero in inglese |
+> ⚠️ La traduzione è fatta per la versione **3.7.1**. Su altre versioni il patcher si ferma, perché molti
+> testi resterebbero in inglese.
 
 ## 📥 Come ottenere il gioco
 
-Scarica **Pokémon Fire Ash 3.7.1** ed estrai l'archivio in una cartella, ad esempio dalla
-[pagina di download](https://pokemerald.com/pokemon-fire-ash-download-v3-4-completed/) (nonostante
-l'indirizzo, la pagina distribuisce la 3.7.1).
+**Il modo più semplice:** questo repository contiene già **Pokémon Fire Ash 3.7.1 con la traduzione
+applicata**, nella cartella `Pokemon Fire Ash 3.7.1/Game`. Scarica il repository
+(pulsante **Code → Download ZIP** su GitHub, oppure `git clone`), estrai l'archivio e avvia
+`Pokemon Fire Ash 3.7.1/Game/Game.exe`.
 
-Se preferisci la **3.4**, questo repository la contiene già con la traduzione applicata, nella cartella
-`Pokemon Fire Ash 3.4/Game`: scarica il repository (**Code → Download ZIP** su GitHub), estrailo e avvia
-`Pokemon Fire Ash 3.4/Game/Game.exe`.
+Se hai già una tua copia della 3.7.1 (ad esempio dalla
+[pagina di download](https://pokemerald.com/pokemon-fire-ash-download-v3-4-completed/), che nonostante
+l'indirizzo distribuisce la 3.7.1), puoi applicarle la traduzione con uno dei metodi qui sotto.
 
-## 🚀 Come installare la traduzione
+## 🚀 Come installare la traduzione su una tua copia
 
 > 💡 Prima di procedere fai un backup della cartella del gioco.
 
 ### Metodo semplice (copia di 2 file, senza programmi)
 
-Scarica questo repository (**Code → Download ZIP**) e copia nella cartella `Data` del gioco
-(sovrascrivendo `Scripts.rxdata`):
-
-| Versione | File da copiare |
-|---|---|
-| 3.7.1 | `translated_files/3.7.1/italian.dat` e `translated_files/3.7.1/Scripts.rxdata` |
-| 3.4 | `translated_files/3.4/italiano.dat`, `english.dat` e `Scripts.rxdata` |
+Copia `translated_files/3.7.1/italian.dat` e `translated_files/3.7.1/Scripts.rxdata` nella cartella
+`Data` del gioco, sovrascrivendo `Scripts.rxdata`.
 
 ### Metodo automatico (con Python)
 
@@ -43,24 +36,21 @@ py -m pip install -r requirements.txt
 py patcher/apply_translation.py "C:\percorso\della\cartella\del\gioco"
 ```
 
-La cartella del gioco è quella che contiene `Game.exe`. Il patcher riconosce da solo la versione
-(3.7.1 o 3.4), copia il file di lingua giusto e aggiunge **Italiano** alla scelta della lingua in
-`Data/Scripts.rxdata`, salvando un backup in `Scripts.rxdata.bak`.
+La cartella del gioco è quella che contiene `Game.exe`. Il patcher controlla la versione, copia
+`italian.dat` e aggiunge **Italiano** alla scelta della lingua in `Data/Scripts.rxdata`, salvando un
+backup in `Scripts.rxdata.bak`.
 
 ### Scegliere l'italiano
 
-- **3.7.1:** il gioco ha già il menu delle lingue (English, French, Spanish, German): ora c'è anche
-  **Italiano**. Scegli la lingua al primo avvio oppure dalla voce **Language** del menu iniziale.
-- **3.4:** al primo avvio il gioco chiede la lingua: scegli **Italiano**.
-
-I salvataggi esistenti restano compatibili.
+Il gioco ha un menu delle lingue (English, French, Spanish, German, **Italiano**): scegli la lingua al
+primo avvio oppure dalla voce **Language** del menu iniziale. I salvataggi esistenti restano compatibili.
 
 ## 📊 Stato della traduzione
 
 Per vedere l'avanzamento aggiornato esegui `py tools/lotti.py stato`.
 
-**Versione 3.7.1: 42.534 testi su 42.534 (100%)**, più 35 testi dei menu che mancavano nel
-`messages.dat` originale (es. "Continua", "Nuova partita", "Carica partita").
+**42.534 testi su 42.534 (100%)**, più 35 testi dei menu che mancavano nel `messages.dat` originale
+(es. "Continua", "Nuova partita", "Carica partita").
 
 | Sezione | Voci |
 |---|---|
@@ -102,8 +92,8 @@ gioco da Steam come "gioco non Steam" con Steam Input attivo, oppure usa
 ## 🛠️ Come funziona
 
 Fire Ash usa Pokémon Essentials: tutti i testi stanno in `Data/messages.dat`. La traduzione è un file
-di lingua di Essentials (`Data/italian.dat` nella 3.7.1, `Data/italiano.dat` nella 3.4) con la stessa struttura,
-che il gioco carica al posto dei testi originali. I JSON in `traduzione/` sono allineati alla 3.7.1.
+di lingua di Essentials (`Data/italian.dat`) con la stessa struttura, che il gioco carica al posto dei
+testi originali.
 
 ```
 PokemonFireAsh-ITA/
@@ -125,7 +115,8 @@ PokemonFireAsh-ITA/
 │   └── glossario.py           # genera glossario.tsv
 ├── patcher/apply_translation.py
 ├── originali/3.7.1/Data/      # messages.dat e Scripts.rxdata originali della 3.7.1
-└── translated_files/          # file pronti: 3.7.1/italian.dat, 3.4/italiano.dat, Scripts.rxdata
+├── translated_files/3.7.1/    # file pronti da copiare: italian.dat e Scripts.rxdata
+└── Pokemon Fire Ash 3.7.1/Game # il gioco con la traduzione già applicata
 ```
 
 ## 🤝 Come contribuire
