@@ -11,6 +11,7 @@ Cosa fa:
      (backup in Data/Scripts.rxdata.bak)
 Al primo avvio il gioco chiede la lingua; si può cambiare dal menu iniziale.
 """
+import hashlib
 import os
 import shutil
 import sys
@@ -20,14 +21,32 @@ sys.path.insert(0, os.path.join(ROOT, "tools"))
 
 import patch_lingua  # noqa: E402
 
+# Impronta SHA-256 di Data/messages.dat di Pokemon Fire Ash 3.4 (versione tradotta).
+MESSAGES_34 = "581ac5d20c3ab2f59acb4fae8d8c6e562d8b0299cb5e8b73e150a89587d63c6a"
+
+
+def sha256(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1 << 20), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
 
 def main():
-    if len(sys.argv) < 2:
+    args = [a for a in sys.argv[1:] if a != "--forza"]
+    if not args:
         sys.exit(__doc__)
-    game = os.path.abspath(sys.argv[1])
+    game = os.path.abspath(args[0])
     data = os.path.join(game, "Data")
-    if not os.path.exists(os.path.join(data, "messages.dat")):
-        sys.exit(f"Non trovo {data}\\messages.dat: indica la cartella 'Game' di Fire Ash.")
+    messages = os.path.join(data, "messages.dat")
+    if not os.path.exists(messages):
+        sys.exit(f"Non trovo {messages}: indica la cartella 'Game' di Fire Ash.")
+    if sha256(messages) != MESSAGES_34 and "--forza" not in sys.argv:
+        sys.exit("Questa copia del gioco non sembra Pokemon Fire Ash 3.4: la traduzione e' stata fatta\n"
+                 "per la 3.4 e su altre versioni (es. 3.7.1) molti testi resterebbero in inglese o\n"
+                 "potrebbero esserci problemi. Usa la copia 3.4 inclusa nel repository oppure, se sai\n"
+                 "cosa stai facendo, aggiungi --forza.")
     src = os.path.join(ROOT, "translated_files", "italiano.dat")
     if not os.path.exists(src):
         sys.exit("translated_files/italiano.dat mancante: esegui prima tools/compila.py")
