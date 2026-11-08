@@ -1,0 +1,82 @@
+[
+ {
+  "id": "\\bHello there young one.",
+  "en": "\\bHello there young one.",
+  "it": "\\bSalve, giovanotto."
+ },
+ {
+  "id": "\\bWhat a skilled trainer you are. This gym is as good as yours.",
+  "en": "\\bWhat a skilled trainer you are. This gym is as good as yours.",
+  "it": "\\bChe Allenatore abile sei. Questa Palestra è praticamente tua."
+ },
+ {
+  "id": "\\bGrant: Good job kid. You've climbed all the way up here without any help. I can't ignore that kind of will. Let's go all out!",
+  "en": "\\bGrant: Good job kid. You've climbed all the way up here without any help. I can't ignore that kind of will.  Let's go all out!",
+  "it": "\\bLino: Ottimo lavoro, ragazzo. Sei salito fin quassù senza alcun aiuto. Non posso ignorare una tale forza di volontà. Diamoci dentro!"
+ },
+ {
+  "id": "\\bAnd don't worry. In this gym you can use as many Pokémon as you want. Don't hold back.",
+  "en": "\\bAnd don't worry. In this gym you can use as many Pokémon as you want. Don't hold back.",
+  "it": "\\bE non preoccuparti. In questa Palestra puoi usare tutti i Pokémon che vuoi. Non trattenerti."
+ },
+ {
+  "id": "\\bGrant: You've earned the Cliff Badge.",
+  "en": "\\bGrant: You've earned the Cliff Badge.",
+  "it": "\\bLino: Hai ottenuto la Medaglia Parete."
+ },
+ {
+  "id": "\\bHere, have this TM too.",
+  "en": "\\bHere, have this TM too.",
+  "it": "\\bEcco, prendi anche questa MT."
+ },
+ {
+  "id": "\\bTM118 contains Rollout. It gets stronger with each hit.",
+  "en": "\\bTM118 contains Rollout. It gets stronger with each hit.",
+  "it": "\\bL'MT118 contiene Rotolamento. Diventa più forte a ogni colpo."
+ },
+ {
+  "id": "\\bGrant: Head north of here. A gym should be there for you to challenge.",
+  "en": "\\bGrant: Head north of here. A gym should be there for you to challenge.",
+  "it": "\\bLino: Dirigiti a nord da qui. Lì dovrebbe esserci una Palestra da sfidare."
+ },
+ {
+  "id": "\\rGet lost.",
+  "en": "\\rGet lost.",
+  "it": "\\rSparisci."
+ },
+ {
+  "id": "\\rI'm so ashamed.",
+  "en": "\\rI'm so ashamed.",
+  "it": "\\rChe vergogna."
+ },
+ {
+  "id": "\\rWhy'd you go this way?",
+  "en": "\\rWhy'd you go this way?",
+  "it": "\\rPerché sei venuto da questa parte?"
+ },
+ {
+  "id": "\\rGrant will wipe you out.",
+  "en": "\\rGrant will wipe you out.",
+  "it": "\\rLino ti spazzerà via."
+ },
+ {
+  "id": "\\bGrant uses Rock type Pokémon. They are weak aganst Water, Grass, Fighting, Ground, and Steel types.",
+  "en": "\\bGrant uses Rock type Pokémon. They are weak aganst Water, Grass, Fighting, Ground, and Steel types.",
+  "it": "\\bLino usa Pokémon di tipo Roccia. Sono deboli contro i tipi Acqua, Erba, Lotta, Terra e Acciaio."
+ },
+ {
+  "id": "\\bDespite all the weaknesses, they are strong against Fire, Bug, Flying, and Ice. Normal and Poison moves also don't do much damage.",
+  "en": "\\bDespite all the weaknesses, they are strong against Fire, Bug, Flying, and Ice. Normal and Poison moves also don't do much damage.",
+  "it": "\\bNonostante tutte queste debolezze, sono forti contro Fuoco, Coleottero, Volante e Ghiaccio. Anche le mosse di tipo Normale e Veleno non fanno molti danni."
+ },
+ {
+  "id": "\\bHow did you climb up here already?",
+  "en": "\\bHow did you climb up here already?",
+  "it": "\\bCome hai fatto ad arrampicarti fin quassù così in fretta?"
+ },
+ {
+  "id": "\\bGrant may seem tough, but he has a soft spot for those that work non stop.",
+  "en": "\\bGrant may seem tough, but he has a soft spot for those that work non stop.",
+  "it": "\\bLino può sembrare duro, ma ha un debole per chi si impegna senza sosta."
+ }
+]

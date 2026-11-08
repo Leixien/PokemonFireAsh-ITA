@@ -1,0 +1,6427 @@
+[
+ {
+  "id": 1,
+  "en": "Seed",
+  "it": "Seme"
+ },
+ {
+  "id": 2,
+  "en": "Seed",
+  "it": "Seme"
+ },
+ {
+  "id": 3,
+  "en": "Seed",
+  "it": "Seme"
+ },
+ {
+  "id": 4,
+  "en": "Lizard",
+  "it": "Lucertola"
+ },
+ {
+  "id": 5,
+  "en": "Flame",
+  "it": "Fiamma"
+ },
+ {
+  "id": 6,
+  "en": "Flame",
+  "it": "Fiamma"
+ },
+ {
+  "id": 7,
+  "en": "Tiny Turtle",
+  "it": "Tartaghina"
+ },
+ {
+  "id": 8,
+  "en": "Turtle",
+  "it": "Tartaruga"
+ },
+ {
+  "id": 9,
+  "en": "Shellfish",
+  "it": "Molluscoide"
+ },
+ {
+  "id": 10,
+  "en": "Worm",
+  "it": "Baco"
+ },
+ {
+  "id": 11,
+  "en": "Cocoon",
+  "it": "Bozzolo"
+ },
+ {
+  "id": 12,
+  "en": "Butterfly",
+  "it": "Farfalla"
+ },
+ {
+  "id": 13,
+  "en": "Hairy Bug",
+  "it": "Millepiedi"
+ },
+ {
+  "id": 14,
+  "en": "Cocoon",
+  "it": "Bozzolo"
+ },
+ {
+  "id": 15,
+  "en": "Poison Bee",
+  "it": "Velenape"
+ },
+ {
+  "id": 16,
+  "en": "Tiny Bird",
+  "it": "Uccellino"
+ },
+ {
+  "id": 17,
+  "en": "Bird",
+  "it": "Uccello"
+ },
+ {
+  "id": 18,
+  "en": "Bird",
+  "it": "Uccello"
+ },
+ {
+  "id": 19,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 20,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 21,
+  "en": "Tiny Bird",
+  "it": "Uccellino"
+ },
+ {
+  "id": 22,
+  "en": "Beak",
+  "it": "Becco"
+ },
+ {
+  "id": 23,
+  "en": "Snake",
+  "it": "Serpente"
+ },
+ {
+  "id": 24,
+  "en": "Cobra",
+  "it": "Cobra"
+ },
+ {
+  "id": 25,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 26,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 27,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 28,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 29,
+  "en": "Poison Pin",
+  "it": "Velenspina"
+ },
+ {
+  "id": 30,
+  "en": "Poison Pin",
+  "it": "Velenspina"
+ },
+ {
+  "id": 31,
+  "en": "Drill",
+  "it": "Trapano"
+ },
+ {
+  "id": 32,
+  "en": "Poison Pin",
+  "it": "Velenspina"
+ },
+ {
+  "id": 33,
+  "en": "Poison Pin",
+  "it": "Velenspina"
+ },
+ {
+  "id": 34,
+  "en": "Drill",
+  "it": "Trapano"
+ },
+ {
+  "id": 35,
+  "en": "Fairy",
+  "it": "Fata"
+ },
+ {
+  "id": 36,
+  "en": "Fairy",
+  "it": "Fata"
+ },
+ {
+  "id": 37,
+  "en": "Fox",
+  "it": "Volpe"
+ },
+ {
+  "id": 38,
+  "en": "Fox",
+  "it": "Volpe"
+ },
+ {
+  "id": 39,
+  "en": "Balloon",
+  "it": "Pallone"
+ },
+ {
+  "id": 40,
+  "en": "Balloon",
+  "it": "Pallone"
+ },
+ {
+  "id": 41,
+  "en": "Bat",
+  "it": "Pipistrello"
+ },
+ {
+  "id": 42,
+  "en": "Bat",
+  "it": "Pipistrello"
+ },
+ {
+  "id": 43,
+  "en": "Weed",
+  "it": "Malerba"
+ },
+ {
+  "id": 44,
+  "en": "Weed",
+  "it": "Malerba"
+ },
+ {
+  "id": 45,
+  "en": "Flower",
+  "it": "Fiore"
+ },
+ {
+  "id": 46,
+  "en": "Mushroom",
+  "it": "Fungo"
+ },
+ {
+  "id": 47,
+  "en": "Mushroom",
+  "it": "Fungo"
+ },
+ {
+  "id": 48,
+  "en": "Insect",
+  "it": "Insetto"
+ },
+ {
+  "id": 49,
+  "en": "Poison Moth",
+  "it": "Falena Veleno"
+ },
+ {
+  "id": 50,
+  "en": "Mole",
+  "it": "Talpa"
+ },
+ {
+  "id": 51,
+  "en": "Mole",
+  "it": "Talpa"
+ },
+ {
+  "id": 52,
+  "en": "Scratch Cat",
+  "it": "Graffimiao"
+ },
+ {
+  "id": 53,
+  "en": "Classy Cat",
+  "it": "Gatto Fine"
+ },
+ {
+  "id": 54,
+  "en": "Duck",
+  "it": "Papera"
+ },
+ {
+  "id": 55,
+  "en": "Duck",
+  "it": "Papera"
+ },
+ {
+  "id": 56,
+  "en": "Pig Monkey",
+  "it": "Suinoscimmia"
+ },
+ {
+  "id": 57,
+  "en": "Pig Monkey",
+  "it": "Suinoscimmia"
+ },
+ {
+  "id": 58,
+  "en": "Puppy",
+  "it": "Cagnolino"
+ },
+ {
+  "id": 59,
+  "en": "Legendary",
+  "it": "Leggenda"
+ },
+ {
+  "id": 60,
+  "en": "Tadpole",
+  "it": "Girino"
+ },
+ {
+  "id": 61,
+  "en": "Tadpole",
+  "it": "Girino"
+ },
+ {
+  "id": 62,
+  "en": "Tadpole",
+  "it": "Girino"
+ },
+ {
+  "id": 63,
+  "en": "Psi",
+  "it": "Psico"
+ },
+ {
+  "id": 64,
+  "en": "Psi",
+  "it": "Psico"
+ },
+ {
+  "id": 65,
+  "en": "Psi",
+  "it": "Psico"
+ },
+ {
+  "id": 66,
+  "en": "Superpower",
+  "it": "Superforza"
+ },
+ {
+  "id": 67,
+  "en": "Superpower",
+  "it": "Superforza"
+ },
+ {
+  "id": 68,
+  "en": "Superpower",
+  "it": "Superforza"
+ },
+ {
+  "id": 69,
+  "en": "Flower",
+  "it": "Fiore"
+ },
+ {
+  "id": 70,
+  "en": "Flycatcher",
+  "it": "Pigliamosche"
+ },
+ {
+  "id": 71,
+  "en": "Flycatcher",
+  "it": "Pigliamosche"
+ },
+ {
+  "id": 72,
+  "en": "Jellyfish",
+  "it": "Medusa"
+ },
+ {
+  "id": 73,
+  "en": "Jellyfish",
+  "it": "Medusa"
+ },
+ {
+  "id": 74,
+  "en": "Rock",
+  "it": "Roccia"
+ },
+ {
+  "id": 75,
+  "en": "Rock",
+  "it": "Roccia"
+ },
+ {
+  "id": 76,
+  "en": "Megaton",
+  "it": "Megaton"
+ },
+ {
+  "id": 77,
+  "en": "Fire Horse",
+  "it": "Cavalfuoco"
+ },
+ {
+  "id": 78,
+  "en": "Fire Horse",
+  "it": "Cavalfuoco"
+ },
+ {
+  "id": 79,
+  "en": "Dopey",
+  "it": "Ronfone"
+ },
+ {
+  "id": 80,
+  "en": "Hermit Crab",
+  "it": "Paguro"
+ },
+ {
+  "id": 81,
+  "en": "Magnet",
+  "it": "Calamita"
+ },
+ {
+  "id": 82,
+  "en": "Magnet",
+  "it": "Calamita"
+ },
+ {
+  "id": 83,
+  "en": "Wild Duck",
+  "it": "Anatra"
+ },
+ {
+  "id": 84,
+  "en": "Twin Bird",
+  "it": "Uccellodue"
+ },
+ {
+  "id": 85,
+  "en": "Triple Bird",
+  "it": "Uccellotre"
+ },
+ {
+  "id": 86,
+  "en": "Sea Lion",
+  "it": "Otaria"
+ },
+ {
+  "id": 87,
+  "en": "Sea Lion",
+  "it": "Otaria"
+ },
+ {
+  "id": 88,
+  "en": "Sludge",
+  "it": "Fango"
+ },
+ {
+  "id": 89,
+  "en": "Sludge",
+  "it": "Fango"
+ },
+ {
+  "id": 90,
+  "en": "Bivalve",
+  "it": "Bivalve"
+ },
+ {
+  "id": 91,
+  "en": "Bivalve",
+  "it": "Bivalve"
+ },
+ {
+  "id": 92,
+  "en": "Gas",
+  "it": "Gas"
+ },
+ {
+  "id": 93,
+  "en": "Gas",
+  "it": "Gas"
+ },
+ {
+  "id": 94,
+  "en": "Shadow",
+  "it": "Ombra"
+ },
+ {
+  "id": 95,
+  "en": "Rock Snake",
+  "it": "Serpesasso"
+ },
+ {
+  "id": 96,
+  "en": "Hypnosis",
+  "it": "Ipnosi"
+ },
+ {
+  "id": 97,
+  "en": "Hypnosis",
+  "it": "Ipnosi"
+ },
+ {
+  "id": 98,
+  "en": "River Crab",
+  "it": "Granchio"
+ },
+ {
+  "id": 99,
+  "en": "Pincer",
+  "it": "Chela"
+ },
+ {
+  "id": 100,
+  "en": "Ball",
+  "it": "Palla"
+ },
+ {
+  "id": 101,
+  "en": "Ball",
+  "it": "Palla"
+ },
+ {
+  "id": 102,
+  "en": "Egg",
+  "it": "Uovo"
+ },
+ {
+  "id": 103,
+  "en": "Coconut",
+  "it": "Cocco"
+ },
+ {
+  "id": 104,
+  "en": "Lonely",
+  "it": "Solitario"
+ },
+ {
+  "id": 105,
+  "en": "Bone Keeper",
+  "it": "Custodossa"
+ },
+ {
+  "id": 106,
+  "en": "Kicking",
+  "it": "Calciatore"
+ },
+ {
+  "id": 107,
+  "en": "Punching",
+  "it": "Tiratore"
+ },
+ {
+  "id": 108,
+  "en": "Licking",
+  "it": "Leccalecca"
+ },
+ {
+  "id": 109,
+  "en": "Poison Gas",
+  "it": "Velenogas"
+ },
+ {
+  "id": 110,
+  "en": "Poison Gas",
+  "it": "Velenogas"
+ },
+ {
+  "id": 111,
+  "en": "Spikes",
+  "it": "Punte"
+ },
+ {
+  "id": 112,
+  "en": "Drill",
+  "it": "Trapano"
+ },
+ {
+  "id": 113,
+  "en": "Egg",
+  "it": "Uovo"
+ },
+ {
+  "id": 114,
+  "en": "Vine",
+  "it": "Vite"
+ },
+ {
+  "id": 115,
+  "en": "Parent",
+  "it": "Genitore"
+ },
+ {
+  "id": 116,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 117,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 118,
+  "en": "Goldfish",
+  "it": "Pesce Rosso"
+ },
+ {
+  "id": 119,
+  "en": "Goldfish",
+  "it": "Pesce Rosso"
+ },
+ {
+  "id": 120,
+  "en": "Star Shape",
+  "it": "Stellaforme"
+ },
+ {
+  "id": 121,
+  "en": "Mysterious",
+  "it": "Misterioso"
+ },
+ {
+  "id": 122,
+  "en": "Barrier",
+  "it": "Barriera"
+ },
+ {
+  "id": 123,
+  "en": "Mantis",
+  "it": "Mantide"
+ },
+ {
+  "id": 124,
+  "en": "Human Shape",
+  "it": "Umanoide"
+ },
+ {
+  "id": 125,
+  "en": "Electric",
+  "it": "Elettrico"
+ },
+ {
+  "id": 126,
+  "en": "Spitfire",
+  "it": "Sputafuoco"
+ },
+ {
+  "id": 127,
+  "en": "Stag Beetle",
+  "it": "Cervovolante"
+ },
+ {
+  "id": 128,
+  "en": "Wild Bull",
+  "it": "Torobrado"
+ },
+ {
+  "id": 129,
+  "en": "Fish",
+  "it": "Pesce"
+ },
+ {
+  "id": 130,
+  "en": "Atrocious",
+  "it": "Atroce"
+ },
+ {
+  "id": 131,
+  "en": "Transport",
+  "it": "Trasporto"
+ },
+ {
+  "id": 132,
+  "en": "Transform",
+  "it": "Mutante"
+ },
+ {
+  "id": 133,
+  "en": "Evolution",
+  "it": "Evoluzione"
+ },
+ {
+  "id": 134,
+  "en": "Bubble Jet",
+  "it": "Bollajet"
+ },
+ {
+  "id": 135,
+  "en": "Lightning",
+  "it": "Fulmine"
+ },
+ {
+  "id": 136,
+  "en": "Flame",
+  "it": "Fiamma"
+ },
+ {
+  "id": 137,
+  "en": "Virtual",
+  "it": "Virtuale"
+ },
+ {
+  "id": 138,
+  "en": "Spiral",
+  "it": "Spirale"
+ },
+ {
+  "id": 139,
+  "en": "Spiral",
+  "it": "Spirale"
+ },
+ {
+  "id": 140,
+  "en": "Shellfish",
+  "it": "Molluscoide"
+ },
+ {
+  "id": 141,
+  "en": "Shellfish",
+  "it": "Molluscoide"
+ },
+ {
+  "id": 142,
+  "en": "Fossil",
+  "it": "Fossile"
+ },
+ {
+  "id": 143,
+  "en": "Sleeping",
+  "it": "Dormiglione"
+ },
+ {
+  "id": 144,
+  "en": "Freeze",
+  "it": "Gelo"
+ },
+ {
+  "id": 145,
+  "en": "Electric",
+  "it": "Elettrico"
+ },
+ {
+  "id": 146,
+  "en": "Flame",
+  "it": "Fiamma"
+ },
+ {
+  "id": 147,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 148,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 149,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 150,
+  "en": "Genetic",
+  "it": "Genetico"
+ },
+ {
+  "id": 151,
+  "en": "New Species",
+  "it": "Nuova Specie"
+ },
+ {
+  "id": 152,
+  "en": "Leaf",
+  "it": "Foglia"
+ },
+ {
+  "id": 153,
+  "en": "Leaf",
+  "it": "Foglia"
+ },
+ {
+  "id": 154,
+  "en": "Herb",
+  "it": "Erba"
+ },
+ {
+  "id": 155,
+  "en": "Fire Mouse",
+  "it": "Topofuoco"
+ },
+ {
+  "id": 156,
+  "en": "Volcano",
+  "it": "Vulcano"
+ },
+ {
+  "id": 157,
+  "en": "Volcano",
+  "it": "Vulcano"
+ },
+ {
+  "id": 158,
+  "en": "Big Jaw",
+  "it": "Granmascella"
+ },
+ {
+  "id": 159,
+  "en": "Big Jaw",
+  "it": "Granmascella"
+ },
+ {
+  "id": 160,
+  "en": "Big Jaw",
+  "it": "Granmascella"
+ },
+ {
+  "id": 161,
+  "en": "Scout",
+  "it": "Esploratore"
+ },
+ {
+  "id": 162,
+  "en": "Long Body",
+  "it": "Corpolungo"
+ },
+ {
+  "id": 163,
+  "en": "Owl",
+  "it": "Gufo"
+ },
+ {
+  "id": 164,
+  "en": "Owl",
+  "it": "Gufo"
+ },
+ {
+  "id": 165,
+  "en": "Five Star",
+  "it": "Cinquestelle"
+ },
+ {
+  "id": 166,
+  "en": "Five Star",
+  "it": "Cinquestelle"
+ },
+ {
+  "id": 167,
+  "en": "String Spit",
+  "it": "Sputafilo"
+ },
+ {
+  "id": 168,
+  "en": "Long Leg",
+  "it": "Gambelunghe"
+ },
+ {
+  "id": 169,
+  "en": "Bat",
+  "it": "Pipistrello"
+ },
+ {
+  "id": 170,
+  "en": "Angler",
+  "it": "Pescatore"
+ },
+ {
+  "id": 171,
+  "en": "Light",
+  "it": "Luce"
+ },
+ {
+  "id": 172,
+  "en": "Tiny Mouse",
+  "it": "Topolino"
+ },
+ {
+  "id": 173,
+  "en": "Star Shape",
+  "it": "Stellaforme"
+ },
+ {
+  "id": 174,
+  "en": "Balloon",
+  "it": "Pallone"
+ },
+ {
+  "id": 175,
+  "en": "Spike Ball",
+  "it": "Pallaspina"
+ },
+ {
+  "id": 176,
+  "en": "Happiness",
+  "it": "Felicità"
+ },
+ {
+  "id": 177,
+  "en": "Tiny Bird",
+  "it": "Uccellino"
+ },
+ {
+  "id": 178,
+  "en": "Mystic",
+  "it": "Mistico"
+ },
+ {
+  "id": 179,
+  "en": "Wool",
+  "it": "Lana"
+ },
+ {
+  "id": 180,
+  "en": "Wool",
+  "it": "Lana"
+ },
+ {
+  "id": 181,
+  "en": "Light",
+  "it": "Luce"
+ },
+ {
+  "id": 182,
+  "en": "Flower",
+  "it": "Fiore"
+ },
+ {
+  "id": 183,
+  "en": "Aqua Mouse",
+  "it": "Acquatopo"
+ },
+ {
+  "id": 184,
+  "en": "Aqua Rabbit",
+  "it": "Acquaconiglio"
+ },
+ {
+  "id": 185,
+  "en": "Imitation",
+  "it": "Imitazione"
+ },
+ {
+  "id": 186,
+  "en": "Frog",
+  "it": "Rana"
+ },
+ {
+  "id": 187,
+  "en": "Cottonweed",
+  "it": "Batuffolo"
+ },
+ {
+  "id": 188,
+  "en": "Cottonweed",
+  "it": "Batuffolo"
+ },
+ {
+  "id": 189,
+  "en": "Cottonweed",
+  "it": "Batuffolo"
+ },
+ {
+  "id": 190,
+  "en": "Long Tail",
+  "it": "Codalunga"
+ },
+ {
+  "id": 191,
+  "en": "Seed",
+  "it": "Seme"
+ },
+ {
+  "id": 192,
+  "en": "Sun",
+  "it": "Sole"
+ },
+ {
+  "id": 193,
+  "en": "Clear Wing",
+  "it": "Alitrasparenti"
+ },
+ {
+  "id": 194,
+  "en": "Water Fish",
+  "it": "Pesceacqua"
+ },
+ {
+  "id": 195,
+  "en": "Water Fish",
+  "it": "Pesceacqua"
+ },
+ {
+  "id": 196,
+  "en": "Sun",
+  "it": "Sole"
+ },
+ {
+  "id": 197,
+  "en": "Moonlight",
+  "it": "Lucelunare"
+ },
+ {
+  "id": 198,
+  "en": "Darkness",
+  "it": "Oscurità"
+ },
+ {
+  "id": 199,
+  "en": "Royal",
+  "it": "Regale"
+ },
+ {
+  "id": 200,
+  "en": "Screech",
+  "it": "Strillo"
+ },
+ {
+  "id": 201,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 202,
+  "en": "Patient",
+  "it": "Paziente"
+ },
+ {
+  "id": 203,
+  "en": "Long Neck",
+  "it": "Collolungo"
+ },
+ {
+  "id": 204,
+  "en": "Bagworm",
+  "it": "Larva"
+ },
+ {
+  "id": 205,
+  "en": "Bagworm",
+  "it": "Larva"
+ },
+ {
+  "id": 206,
+  "en": "Land Snake",
+  "it": "Serpeterra"
+ },
+ {
+  "id": 207,
+  "en": "FlyScorpion",
+  "it": "Scorpiovolo"
+ },
+ {
+  "id": 208,
+  "en": "Iron Snake",
+  "it": "Serpeferro"
+ },
+ {
+  "id": 209,
+  "en": "Fairy",
+  "it": "Fata"
+ },
+ {
+  "id": 210,
+  "en": "Fairy",
+  "it": "Fata"
+ },
+ {
+  "id": 211,
+  "en": "Balloon",
+  "it": "Pallone"
+ },
+ {
+  "id": 212,
+  "en": "Pincer",
+  "it": "Chela"
+ },
+ {
+  "id": 213,
+  "en": "Mold",
+  "it": "Muffa"
+ },
+ {
+  "id": 214,
+  "en": "Single Horn",
+  "it": "Monocorno"
+ },
+ {
+  "id": 215,
+  "en": "Sharp Claw",
+  "it": "Artiglio"
+ },
+ {
+  "id": 216,
+  "en": "Little Bear",
+  "it": "Orsetto"
+ },
+ {
+  "id": 217,
+  "en": "Hibernator",
+  "it": "Letargo"
+ },
+ {
+  "id": 218,
+  "en": "Lava",
+  "it": "Lava"
+ },
+ {
+  "id": 219,
+  "en": "Lava",
+  "it": "Lava"
+ },
+ {
+  "id": 220,
+  "en": "Pig",
+  "it": "Maiale"
+ },
+ {
+  "id": 221,
+  "en": "Swine",
+  "it": "Suino"
+ },
+ {
+  "id": 222,
+  "en": "Coral",
+  "it": "Corallo"
+ },
+ {
+  "id": 223,
+  "en": "Jet",
+  "it": "Getto"
+ },
+ {
+  "id": 224,
+  "en": "Jet",
+  "it": "Getto"
+ },
+ {
+  "id": 225,
+  "en": "Delivery",
+  "it": "Consegna"
+ },
+ {
+  "id": 226,
+  "en": "Kite",
+  "it": "Aquilone"
+ },
+ {
+  "id": 227,
+  "en": "Armor Bird",
+  "it": "Uccelcorazza"
+ },
+ {
+  "id": 228,
+  "en": "Dark",
+  "it": "Buio"
+ },
+ {
+  "id": 229,
+  "en": "Dark",
+  "it": "Buio"
+ },
+ {
+  "id": 230,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 231,
+  "en": "Long Nose",
+  "it": "Nasolungo"
+ },
+ {
+  "id": 232,
+  "en": "Armor",
+  "it": "Corazza"
+ },
+ {
+  "id": 233,
+  "en": "Virtual",
+  "it": "Virtuale"
+ },
+ {
+  "id": 234,
+  "en": "Big Horn",
+  "it": "Corna"
+ },
+ {
+  "id": 235,
+  "en": "Painter",
+  "it": "Pittore"
+ },
+ {
+  "id": 236,
+  "en": "Scuffle",
+  "it": "Zuffa"
+ },
+ {
+  "id": 237,
+  "en": "Handstand",
+  "it": "Verticale"
+ },
+ {
+  "id": 238,
+  "en": "Kiss",
+  "it": "Bacio"
+ },
+ {
+  "id": 239,
+  "en": "Electric",
+  "it": "Elettrico"
+ },
+ {
+  "id": 240,
+  "en": "Live Coal",
+  "it": "Bracia"
+ },
+ {
+  "id": 241,
+  "en": "Milk Cow",
+  "it": "Muccalatte"
+ },
+ {
+  "id": 242,
+  "en": "Happiness",
+  "it": "Felicità"
+ },
+ {
+  "id": 243,
+  "en": "Thunder",
+  "it": "Tuono"
+ },
+ {
+  "id": 244,
+  "en": "Volcano",
+  "it": "Vulcano"
+ },
+ {
+  "id": 245,
+  "en": "Aurora",
+  "it": "Aurora"
+ },
+ {
+  "id": 246,
+  "en": "Rock Skin",
+  "it": "Pelleroccia"
+ },
+ {
+  "id": 247,
+  "en": "Hard Shell",
+  "it": "Corazzadura"
+ },
+ {
+  "id": 248,
+  "en": "Armor",
+  "it": "Corazza"
+ },
+ {
+  "id": 249,
+  "en": "Diving",
+  "it": "Immersione"
+ },
+ {
+  "id": 250,
+  "en": "Rainbow",
+  "it": "Arcobaleno"
+ },
+ {
+  "id": 251,
+  "en": "Time Travel",
+  "it": "Viaggiatempo"
+ },
+ {
+  "id": 252,
+  "en": "Wood Gecko",
+  "it": "Legnogeco"
+ },
+ {
+  "id": 253,
+  "en": "Wood Gecko",
+  "it": "Legnogeco"
+ },
+ {
+  "id": 254,
+  "en": "Forest",
+  "it": "Foresta"
+ },
+ {
+  "id": 255,
+  "en": "Chick",
+  "it": "Pulcino"
+ },
+ {
+  "id": 256,
+  "en": "Young Fowl",
+  "it": "Pollastro"
+ },
+ {
+  "id": 257,
+  "en": "Blaze",
+  "it": "Vampe"
+ },
+ {
+  "id": 258,
+  "en": "Mud Fish",
+  "it": "Pescefango"
+ },
+ {
+  "id": 259,
+  "en": "Mud Fish",
+  "it": "Pescefango"
+ },
+ {
+  "id": 260,
+  "en": "Mud Fish",
+  "it": "Pescefango"
+ },
+ {
+  "id": 261,
+  "en": "Bite",
+  "it": "Morso"
+ },
+ {
+  "id": 262,
+  "en": "Bite",
+  "it": "Morso"
+ },
+ {
+  "id": 263,
+  "en": "TinyRaccoon",
+  "it": "Procioncino"
+ },
+ {
+  "id": 264,
+  "en": "Rushing",
+  "it": "Scattante"
+ },
+ {
+  "id": 265,
+  "en": "Worm",
+  "it": "Baco"
+ },
+ {
+  "id": 266,
+  "en": "Cocoon",
+  "it": "Bozzolo"
+ },
+ {
+  "id": 267,
+  "en": "Butterfly",
+  "it": "Farfalla"
+ },
+ {
+  "id": 268,
+  "en": "Cocoon",
+  "it": "Bozzolo"
+ },
+ {
+  "id": 269,
+  "en": "Poison Moth",
+  "it": "Falena Veleno"
+ },
+ {
+  "id": 270,
+  "en": "Water Weed",
+  "it": "Alga"
+ },
+ {
+  "id": 271,
+  "en": "Jolly",
+  "it": "Allegro"
+ },
+ {
+  "id": 272,
+  "en": "Carefree",
+  "it": "Spensierato"
+ },
+ {
+  "id": 273,
+  "en": "Acorn",
+  "it": "Ghianda"
+ },
+ {
+  "id": 274,
+  "en": "Wily",
+  "it": "Furbo"
+ },
+ {
+  "id": 275,
+  "en": "Wicked",
+  "it": "Malvagio"
+ },
+ {
+  "id": 276,
+  "en": "TinySwallow",
+  "it": "Rondinella"
+ },
+ {
+  "id": 277,
+  "en": "Swallow",
+  "it": "Rondine"
+ },
+ {
+  "id": 278,
+  "en": "Seagull",
+  "it": "Gabbiano"
+ },
+ {
+  "id": 279,
+  "en": "Water Bird",
+  "it": "Uccelacqua"
+ },
+ {
+  "id": 280,
+  "en": "Feeling",
+  "it": "Sentimento"
+ },
+ {
+  "id": 281,
+  "en": "Emotion",
+  "it": "Emozione"
+ },
+ {
+  "id": 282,
+  "en": "Embrace",
+  "it": "Abbraccio"
+ },
+ {
+  "id": 283,
+  "en": "Pond Skater",
+  "it": "Pattinatore"
+ },
+ {
+  "id": 284,
+  "en": "Eyeball",
+  "it": "Bulbo"
+ },
+ {
+  "id": 285,
+  "en": "Mushroom",
+  "it": "Fungo"
+ },
+ {
+  "id": 286,
+  "en": "Mushroom",
+  "it": "Fungo"
+ },
+ {
+  "id": 287,
+  "en": "Slacker",
+  "it": "Pigrone"
+ },
+ {
+  "id": 288,
+  "en": "Wild Monkey",
+  "it": "Scimmia"
+ },
+ {
+  "id": 289,
+  "en": "Lazy",
+  "it": "Fannullone"
+ },
+ {
+  "id": 290,
+  "en": "Trainee",
+  "it": "Apprendista"
+ },
+ {
+  "id": 291,
+  "en": "Ninja",
+  "it": "Ninja"
+ },
+ {
+  "id": 292,
+  "en": "Shed",
+  "it": "Muta"
+ },
+ {
+  "id": 293,
+  "en": "Whisper",
+  "it": "Sussurro"
+ },
+ {
+  "id": 294,
+  "en": "Big Voice",
+  "it": "Granvoce"
+ },
+ {
+  "id": 295,
+  "en": "Loud Noise",
+  "it": "Rumore"
+ },
+ {
+  "id": 296,
+  "en": "Guts",
+  "it": "Fegato"
+ },
+ {
+  "id": 297,
+  "en": "Arm Thrust",
+  "it": "Spintone"
+ },
+ {
+  "id": 298,
+  "en": "Polka Dot",
+  "it": "Pois"
+ },
+ {
+  "id": 299,
+  "en": "Compass",
+  "it": "Bussola"
+ },
+ {
+  "id": 300,
+  "en": "Kitten",
+  "it": "Gattino"
+ },
+ {
+  "id": 301,
+  "en": "Prim",
+  "it": "Raffinato"
+ },
+ {
+  "id": 302,
+  "en": "Darkness",
+  "it": "Oscurità"
+ },
+ {
+  "id": 303,
+  "en": "Deceiver",
+  "it": "Ingannatore"
+ },
+ {
+  "id": 304,
+  "en": "Iron Armor",
+  "it": "Ferrocorazza"
+ },
+ {
+  "id": 305,
+  "en": "Iron Armor",
+  "it": "Ferrocorazza"
+ },
+ {
+  "id": 306,
+  "en": "Iron Armor",
+  "it": "Ferrocorazza"
+ },
+ {
+  "id": 307,
+  "en": "Meditate",
+  "it": "Meditazione"
+ },
+ {
+  "id": 308,
+  "en": "Meditate",
+  "it": "Meditazione"
+ },
+ {
+  "id": 309,
+  "en": "Lightning",
+  "it": "Fulmine"
+ },
+ {
+  "id": 310,
+  "en": "Discharge",
+  "it": "Scarica"
+ },
+ {
+  "id": 311,
+  "en": "Cheering",
+  "it": "Tifo"
+ },
+ {
+  "id": 312,
+  "en": "Cheering",
+  "it": "Tifo"
+ },
+ {
+  "id": 313,
+  "en": "Firefly",
+  "it": "Lucciola"
+ },
+ {
+  "id": 314,
+  "en": "Firefly",
+  "it": "Lucciola"
+ },
+ {
+  "id": 315,
+  "en": "Thorn",
+  "it": "Spina"
+ },
+ {
+  "id": 316,
+  "en": "Stomach",
+  "it": "Stomaco"
+ },
+ {
+  "id": 317,
+  "en": "Poison Bag",
+  "it": "Sacco Veleno"
+ },
+ {
+  "id": 318,
+  "en": "Savage",
+  "it": "Selvaggio"
+ },
+ {
+  "id": 319,
+  "en": "Brutal",
+  "it": "Brutale"
+ },
+ {
+  "id": 320,
+  "en": "Ball Whale",
+  "it": "Balenapalla"
+ },
+ {
+  "id": 321,
+  "en": "Float Whale",
+  "it": "Balenafluttua"
+ },
+ {
+  "id": 322,
+  "en": "Numb",
+  "it": "Torpore"
+ },
+ {
+  "id": 323,
+  "en": "Eruption",
+  "it": "Eruzione"
+ },
+ {
+  "id": 324,
+  "en": "Coal",
+  "it": "Carbone"
+ },
+ {
+  "id": 325,
+  "en": "Bounce",
+  "it": "Rimbalzo"
+ },
+ {
+  "id": 326,
+  "en": "Manipulate",
+  "it": "Manipolatore"
+ },
+ {
+  "id": 327,
+  "en": "Spot Panda",
+  "it": "Panda Macchie"
+ },
+ {
+  "id": 328,
+  "en": "Ant Pit",
+  "it": "Trappola"
+ },
+ {
+  "id": 329,
+  "en": "Vibration",
+  "it": "Vibrazione"
+ },
+ {
+  "id": 330,
+  "en": "Mystic",
+  "it": "Mistico"
+ },
+ {
+  "id": 331,
+  "en": "Cactus",
+  "it": "Cactus"
+ },
+ {
+  "id": 332,
+  "en": "Scarecrow",
+  "it": "Spaventapasseri"
+ },
+ {
+  "id": 333,
+  "en": "Cotton Bird",
+  "it": "Uccelcotone"
+ },
+ {
+  "id": 334,
+  "en": "Humming",
+  "it": "Canterino"
+ },
+ {
+  "id": 335,
+  "en": "Cat Ferret",
+  "it": "Gattofuretto"
+ },
+ {
+  "id": 336,
+  "en": "Fang Snake",
+  "it": "Serpezanne"
+ },
+ {
+  "id": 337,
+  "en": "Meteorite",
+  "it": "Meteorite"
+ },
+ {
+  "id": 338,
+  "en": "Meteorite",
+  "it": "Meteorite"
+ },
+ {
+  "id": 339,
+  "en": "Whiskers",
+  "it": "Baffi"
+ },
+ {
+  "id": 340,
+  "en": "Whiskers",
+  "it": "Baffi"
+ },
+ {
+  "id": 341,
+  "en": "Ruffian",
+  "it": "Furfante"
+ },
+ {
+  "id": 342,
+  "en": "Rogue",
+  "it": "Canaglia"
+ },
+ {
+  "id": 343,
+  "en": "Clay Doll",
+  "it": "Bambolotto"
+ },
+ {
+  "id": 344,
+  "en": "Clay Doll",
+  "it": "Bambolotto"
+ },
+ {
+  "id": 345,
+  "en": "Sea Lily",
+  "it": "Giglio Marino"
+ },
+ {
+  "id": 346,
+  "en": "Barnacle",
+  "it": "Cirripede"
+ },
+ {
+  "id": 347,
+  "en": "Old Shrimp",
+  "it": "Gamberetto"
+ },
+ {
+  "id": 348,
+  "en": "Plate",
+  "it": "Piastra"
+ },
+ {
+  "id": 349,
+  "en": "Fish",
+  "it": "Pesce"
+ },
+ {
+  "id": 350,
+  "en": "Tender",
+  "it": "Tenerezza"
+ },
+ {
+  "id": 351,
+  "en": "Weather",
+  "it": "Meteo"
+ },
+ {
+  "id": 352,
+  "en": "Color Swap",
+  "it": "Mutacolore"
+ },
+ {
+  "id": 353,
+  "en": "Puppet",
+  "it": "Burattino"
+ },
+ {
+  "id": 354,
+  "en": "Marionette",
+  "it": "Marionetta"
+ },
+ {
+  "id": 355,
+  "en": "Requiem",
+  "it": "Requiem"
+ },
+ {
+  "id": 356,
+  "en": "Beckon",
+  "it": "Richiamo"
+ },
+ {
+  "id": 357,
+  "en": "Fruit",
+  "it": "Frutto"
+ },
+ {
+  "id": 358,
+  "en": "Wind Chime",
+  "it": "Campanello"
+ },
+ {
+  "id": 359,
+  "en": "Disaster",
+  "it": "Disastro"
+ },
+ {
+  "id": 360,
+  "en": "Bright",
+  "it": "Splendore"
+ },
+ {
+  "id": 361,
+  "en": "Snow Hat",
+  "it": "Cappuccio"
+ },
+ {
+  "id": 362,
+  "en": "Face",
+  "it": "Faccia"
+ },
+ {
+  "id": 363,
+  "en": "Clap",
+  "it": "Battimani"
+ },
+ {
+  "id": 364,
+  "en": "Ball Roll",
+  "it": "Rotolapalla"
+ },
+ {
+  "id": 365,
+  "en": "Ice Break",
+  "it": "Rompighiaccio"
+ },
+ {
+  "id": 366,
+  "en": "Bivalve",
+  "it": "Bivalve"
+ },
+ {
+  "id": 367,
+  "en": "Deep Sea",
+  "it": "Abissi"
+ },
+ {
+  "id": 368,
+  "en": "South Sea",
+  "it": "Mare del Sud"
+ },
+ {
+  "id": 369,
+  "en": "Longevity",
+  "it": "Longevità"
+ },
+ {
+  "id": 370,
+  "en": "Rendezvous",
+  "it": "Appuntamento"
+ },
+ {
+  "id": 371,
+  "en": "Rock Head",
+  "it": "Testaroccia"
+ },
+ {
+  "id": 372,
+  "en": "Endurance",
+  "it": "Resistenza"
+ },
+ {
+  "id": 373,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 374,
+  "en": "Iron Ball",
+  "it": "Palla di Ferro"
+ },
+ {
+  "id": 375,
+  "en": "Iron Claw",
+  "it": "Artiglio Ferro"
+ },
+ {
+  "id": 376,
+  "en": "Iron Leg",
+  "it": "Gamba Ferro"
+ },
+ {
+  "id": 377,
+  "en": "Rock Peak",
+  "it": "Picco Roccia"
+ },
+ {
+  "id": 378,
+  "en": "Iceberg",
+  "it": "Iceberg"
+ },
+ {
+  "id": 379,
+  "en": "Iron",
+  "it": "Ferro"
+ },
+ {
+  "id": 380,
+  "en": "Eon",
+  "it": "Eone"
+ },
+ {
+  "id": 381,
+  "en": "Eon",
+  "it": "Eone"
+ },
+ {
+  "id": 382,
+  "en": "Sea Basin",
+  "it": "Bacino Marino"
+ },
+ {
+  "id": 383,
+  "en": "Continent",
+  "it": "Continente"
+ },
+ {
+  "id": 384,
+  "en": "Sky High",
+  "it": "Cielo Alto"
+ },
+ {
+  "id": 385,
+  "en": "Wish",
+  "it": "Desiderio"
+ },
+ {
+  "id": 386,
+  "en": "DNA",
+  "it": "DNA"
+ },
+ {
+  "id": 387,
+  "en": "Tiny Leaf",
+  "it": "Fogliolina"
+ },
+ {
+  "id": 388,
+  "en": "Grove",
+  "it": "Boschetto"
+ },
+ {
+  "id": 389,
+  "en": "Continent",
+  "it": "Continente"
+ },
+ {
+  "id": 390,
+  "en": "Chimp",
+  "it": "Scimpanzé"
+ },
+ {
+  "id": 391,
+  "en": "Playful",
+  "it": "Giocoso"
+ },
+ {
+  "id": 392,
+  "en": "Flame",
+  "it": "Fiamma"
+ },
+ {
+  "id": 393,
+  "en": "Penguin",
+  "it": "Pinguino"
+ },
+ {
+  "id": 394,
+  "en": "Penguin",
+  "it": "Pinguino"
+ },
+ {
+  "id": 395,
+  "en": "Emperor",
+  "it": "Imperatore"
+ },
+ {
+  "id": 396,
+  "en": "Starling",
+  "it": "Storno"
+ },
+ {
+  "id": 397,
+  "en": "Starling",
+  "it": "Storno"
+ },
+ {
+  "id": 398,
+  "en": "Predator",
+  "it": "Predatore"
+ },
+ {
+  "id": 399,
+  "en": "Plump Mouse",
+  "it": "Topopaffuto"
+ },
+ {
+  "id": 400,
+  "en": "Beaver",
+  "it": "Castoro"
+ },
+ {
+  "id": 401,
+  "en": "Cricket",
+  "it": "Grillo"
+ },
+ {
+  "id": 402,
+  "en": "Cricket",
+  "it": "Grillo"
+ },
+ {
+  "id": 403,
+  "en": "Flash",
+  "it": "Lampo"
+ },
+ {
+  "id": 404,
+  "en": "Spark",
+  "it": "Scintilla"
+ },
+ {
+  "id": 405,
+  "en": "Gleam Eyes",
+  "it": "Occhi Luce"
+ },
+ {
+  "id": 406,
+  "en": "Bud",
+  "it": "Germoglio"
+ },
+ {
+  "id": 407,
+  "en": "Bouquet",
+  "it": "Bouquet"
+ },
+ {
+  "id": 408,
+  "en": "Head Butt",
+  "it": "Testata"
+ },
+ {
+  "id": 409,
+  "en": "Head Butt",
+  "it": "Testata"
+ },
+ {
+  "id": 410,
+  "en": "Shield",
+  "it": "Scudo"
+ },
+ {
+  "id": 411,
+  "en": "Shield",
+  "it": "Scudo"
+ },
+ {
+  "id": 412,
+  "en": "Bagworm",
+  "it": "Larva"
+ },
+ {
+  "id": 413,
+  "en": "Bagworm",
+  "it": "Larva"
+ },
+ {
+  "id": 414,
+  "en": "Moth",
+  "it": "Falena"
+ },
+ {
+  "id": 415,
+  "en": "Tiny Bee",
+  "it": "Apetta"
+ },
+ {
+  "id": 416,
+  "en": "Beehive",
+  "it": "Alveare"
+ },
+ {
+  "id": 417,
+  "en": "EleSquirrel",
+  "it": "Elescoiattolo"
+ },
+ {
+  "id": 418,
+  "en": "Sea Weasel",
+  "it": "Donnola Marina"
+ },
+ {
+  "id": 419,
+  "en": "Sea Weasel",
+  "it": "Donnola Marina"
+ },
+ {
+  "id": 420,
+  "en": "Cherry",
+  "it": "Ciliegia"
+ },
+ {
+  "id": 421,
+  "en": "Blossom",
+  "it": "Fioritura"
+ },
+ {
+  "id": 422,
+  "en": "Sea Slug",
+  "it": "Lumacamare"
+ },
+ {
+  "id": 423,
+  "en": "Sea Slug",
+  "it": "Lumacamare"
+ },
+ {
+  "id": 424,
+  "en": "Long Tail",
+  "it": "Codalunga"
+ },
+ {
+  "id": 425,
+  "en": "Balloon",
+  "it": "Pallone"
+ },
+ {
+  "id": 426,
+  "en": "Blimp",
+  "it": "Dirigibile"
+ },
+ {
+  "id": 427,
+  "en": "Rabbit",
+  "it": "Coniglio"
+ },
+ {
+  "id": 428,
+  "en": "Rabbit",
+  "it": "Coniglio"
+ },
+ {
+  "id": 429,
+  "en": "Magical",
+  "it": "Magico"
+ },
+ {
+  "id": 430,
+  "en": "Big Boss",
+  "it": "Gran Capo"
+ },
+ {
+  "id": 431,
+  "en": "Catty",
+  "it": "Gattesco"
+ },
+ {
+  "id": 432,
+  "en": "Tiger Cat",
+  "it": "Gattigre"
+ },
+ {
+  "id": 433,
+  "en": "Bell",
+  "it": "Campana"
+ },
+ {
+  "id": 434,
+  "en": "Skunk",
+  "it": "Puzzola"
+ },
+ {
+  "id": 435,
+  "en": "Skunk",
+  "it": "Puzzola"
+ },
+ {
+  "id": 436,
+  "en": "Bronze",
+  "it": "Bronzo"
+ },
+ {
+  "id": 437,
+  "en": "Bronze Bell",
+  "it": "Campana Bronzo"
+ },
+ {
+  "id": 438,
+  "en": "Bonsai",
+  "it": "Bonsai"
+ },
+ {
+  "id": 439,
+  "en": "Mime",
+  "it": "Mimo"
+ },
+ {
+  "id": 440,
+  "en": "Playhouse",
+  "it": "Casetta"
+ },
+ {
+  "id": 441,
+  "en": "Music Note",
+  "it": "Nota"
+ },
+ {
+  "id": 442,
+  "en": "Forbidden",
+  "it": "Proibito"
+ },
+ {
+  "id": 443,
+  "en": "Land Shark",
+  "it": "Squaloterra"
+ },
+ {
+  "id": 444,
+  "en": "Cave",
+  "it": "Caverna"
+ },
+ {
+  "id": 445,
+  "en": "Mach",
+  "it": "Mach"
+ },
+ {
+  "id": 446,
+  "en": "Big Eater",
+  "it": "Mangione"
+ },
+ {
+  "id": 447,
+  "en": "Emanation",
+  "it": "Emanazione"
+ },
+ {
+  "id": 448,
+  "en": "Aura",
+  "it": "Aura"
+ },
+ {
+  "id": 449,
+  "en": "Hippo",
+  "it": "Ippopotamo"
+ },
+ {
+  "id": 450,
+  "en": "Heavyweight",
+  "it": "Peso Massimo"
+ },
+ {
+  "id": 451,
+  "en": "Scorpion",
+  "it": "Scorpione"
+ },
+ {
+  "id": 452,
+  "en": "Ogre Scorp",
+  "it": "Scorpiorco"
+ },
+ {
+  "id": 453,
+  "en": "Toxic Mouth",
+  "it": "Boccatossica"
+ },
+ {
+  "id": 454,
+  "en": "Toxic Mouth",
+  "it": "Boccatossica"
+ },
+ {
+  "id": 455,
+  "en": "Bug Catcher",
+  "it": "Pigliainsetti"
+ },
+ {
+  "id": 456,
+  "en": "Wing Fish",
+  "it": "Pescealato"
+ },
+ {
+  "id": 457,
+  "en": "Neon",
+  "it": "Neon"
+ },
+ {
+  "id": 458,
+  "en": "Kite",
+  "it": "Aquilone"
+ },
+ {
+  "id": 459,
+  "en": "Frost Tree",
+  "it": "Albero Gelo"
+ },
+ {
+  "id": 460,
+  "en": "Frost Tree",
+  "it": "Albero Gelo"
+ },
+ {
+  "id": 461,
+  "en": "Sharp Claw",
+  "it": "Artiglio"
+ },
+ {
+  "id": 462,
+  "en": "Magnet Area",
+  "it": "Area Magnete"
+ },
+ {
+  "id": 463,
+  "en": "Licking",
+  "it": "Leccalecca"
+ },
+ {
+  "id": 464,
+  "en": "Drill",
+  "it": "Trapano"
+ },
+ {
+  "id": 465,
+  "en": "Vine",
+  "it": "Vite"
+ },
+ {
+  "id": 466,
+  "en": "Thunderbolt",
+  "it": "Fulmine Puro"
+ },
+ {
+  "id": 467,
+  "en": "Blast",
+  "it": "Esplosione"
+ },
+ {
+  "id": 468,
+  "en": "Jubilee",
+  "it": "Giubilo"
+ },
+ {
+  "id": 469,
+  "en": "Ogre Darner",
+  "it": "Orcolibellula"
+ },
+ {
+  "id": 470,
+  "en": "Verdant",
+  "it": "Verdeggiante"
+ },
+ {
+  "id": 471,
+  "en": "Fresh Snow",
+  "it": "Neve Fresca"
+ },
+ {
+  "id": 472,
+  "en": "Fang Scorp",
+  "it": "Scorpizanne"
+ },
+ {
+  "id": 473,
+  "en": "Twin Tusk",
+  "it": "Doppia Zanna"
+ },
+ {
+  "id": 474,
+  "en": "Virtual",
+  "it": "Virtuale"
+ },
+ {
+  "id": 475,
+  "en": "Blade",
+  "it": "Lama"
+ },
+ {
+  "id": 476,
+  "en": "Compass",
+  "it": "Bussola"
+ },
+ {
+  "id": 477,
+  "en": "Gripper",
+  "it": "Prensile"
+ },
+ {
+  "id": 478,
+  "en": "Snow Land",
+  "it": "Terra Nevosa"
+ },
+ {
+  "id": 479,
+  "en": "Plasma",
+  "it": "Plasma"
+ },
+ {
+  "id": 480,
+  "en": "Knowledge",
+  "it": "Saggezza"
+ },
+ {
+  "id": 481,
+  "en": "Emotion",
+  "it": "Emozione"
+ },
+ {
+  "id": 482,
+  "en": "Willpower",
+  "it": "Volontà"
+ },
+ {
+  "id": 483,
+  "en": "Temporal",
+  "it": "Temporale"
+ },
+ {
+  "id": 484,
+  "en": "Spatial",
+  "it": "Spaziale"
+ },
+ {
+  "id": 485,
+  "en": "Lava Dome",
+  "it": "Cupola Lava"
+ },
+ {
+  "id": 486,
+  "en": "Colossal",
+  "it": "Colossale"
+ },
+ {
+  "id": 487,
+  "en": "Renegade",
+  "it": "Rinnegato"
+ },
+ {
+  "id": 488,
+  "en": "Lunar",
+  "it": "Lunare"
+ },
+ {
+  "id": 489,
+  "en": "Sea Drifter",
+  "it": "Vagamare"
+ },
+ {
+  "id": 490,
+  "en": "Seafaring",
+  "it": "Marinaro"
+ },
+ {
+  "id": 491,
+  "en": "Pitch-Black",
+  "it": "Nero Pece"
+ },
+ {
+  "id": 492,
+  "en": "Gratitude",
+  "it": "Gratitudine"
+ },
+ {
+  "id": 493,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 494,
+  "en": "Victory",
+  "it": "Vittoria"
+ },
+ {
+  "id": 495,
+  "en": "Grass Snake",
+  "it": "Serpe Erba"
+ },
+ {
+  "id": 496,
+  "en": "Grass Snake",
+  "it": "Serpe Erba"
+ },
+ {
+  "id": 497,
+  "en": "Regal",
+  "it": "Regale"
+ },
+ {
+  "id": 498,
+  "en": "Fire Pig",
+  "it": "Suinfuoco"
+ },
+ {
+  "id": 499,
+  "en": "Fire Pig",
+  "it": "Suinfuoco"
+ },
+ {
+  "id": 500,
+  "en": "Mega Fire Pig",
+  "it": "Megasuinfuoco"
+ },
+ {
+  "id": 501,
+  "en": "Sea Otter",
+  "it": "Lontra"
+ },
+ {
+  "id": 502,
+  "en": "Discipline",
+  "it": "Disciplina"
+ },
+ {
+  "id": 503,
+  "en": "Formidable",
+  "it": "Formidabile"
+ },
+ {
+  "id": 504,
+  "en": "Scout",
+  "it": "Esploratore"
+ },
+ {
+  "id": 505,
+  "en": "Lookout",
+  "it": "Vedetta"
+ },
+ {
+  "id": 506,
+  "en": "Puppy",
+  "it": "Cagnolino"
+ },
+ {
+  "id": 507,
+  "en": "Loyal Dog",
+  "it": "Cane Fedele"
+ },
+ {
+  "id": 508,
+  "en": "Big-Hearted",
+  "it": "Generoso"
+ },
+ {
+  "id": 509,
+  "en": "Devious",
+  "it": "Subdolo"
+ },
+ {
+  "id": 510,
+  "en": "Cruel",
+  "it": "Crudele"
+ },
+ {
+  "id": 511,
+  "en": "Grass Monkey",
+  "it": "Scimmierba"
+ },
+ {
+  "id": 512,
+  "en": "Thorn Monkey",
+  "it": "Scimmispina"
+ },
+ {
+  "id": 513,
+  "en": "High Temp",
+  "it": "Altatemp"
+ },
+ {
+  "id": 514,
+  "en": "Ember",
+  "it": "Tizzone"
+ },
+ {
+  "id": 515,
+  "en": "Spray",
+  "it": "Spruzzo"
+ },
+ {
+  "id": 516,
+  "en": "Geyser",
+  "it": "Geyser"
+ },
+ {
+  "id": 517,
+  "en": "Dream Eater",
+  "it": "Mangiasogni"
+ },
+ {
+  "id": 518,
+  "en": "Drowsing",
+  "it": "Sonnolento"
+ },
+ {
+  "id": 519,
+  "en": "Tiny Pigeon",
+  "it": "Piccioncino"
+ },
+ {
+  "id": 520,
+  "en": "Wild Pigeon",
+  "it": "Piccione"
+ },
+ {
+  "id": 521,
+  "en": "Proud",
+  "it": "Orgoglioso"
+ },
+ {
+  "id": 522,
+  "en": "Electrified",
+  "it": "Elettrizzato"
+ },
+ {
+  "id": 523,
+  "en": "Thunderbolt",
+  "it": "Fulmine Puro"
+ },
+ {
+  "id": 524,
+  "en": "Mantle",
+  "it": "Mantello"
+ },
+ {
+  "id": 525,
+  "en": "Ore",
+  "it": "Minerale"
+ },
+ {
+  "id": 526,
+  "en": "Compressed",
+  "it": "Compresso"
+ },
+ {
+  "id": 527,
+  "en": "Bat",
+  "it": "Pipistrello"
+ },
+ {
+  "id": 528,
+  "en": "Courting",
+  "it": "Corteggiatore"
+ },
+ {
+  "id": 529,
+  "en": "Mole",
+  "it": "Talpa"
+ },
+ {
+  "id": 530,
+  "en": "Subterrene",
+  "it": "Sotterraneo"
+ },
+ {
+  "id": 531,
+  "en": "Hearing",
+  "it": "Udito"
+ },
+ {
+  "id": 532,
+  "en": "Muscular",
+  "it": "Muscoloso"
+ },
+ {
+  "id": 533,
+  "en": "Muscular",
+  "it": "Muscoloso"
+ },
+ {
+  "id": 534,
+  "en": "Muscular",
+  "it": "Muscoloso"
+ },
+ {
+  "id": 535,
+  "en": "Tadpole",
+  "it": "Girino"
+ },
+ {
+  "id": 536,
+  "en": "Vibration",
+  "it": "Vibrazione"
+ },
+ {
+  "id": 537,
+  "en": "Vibration",
+  "it": "Vibrazione"
+ },
+ {
+  "id": 538,
+  "en": "Judo",
+  "it": "Judo"
+ },
+ {
+  "id": 539,
+  "en": "Karate",
+  "it": "Karate"
+ },
+ {
+  "id": 540,
+  "en": "Sewing",
+  "it": "Sartoria"
+ },
+ {
+  "id": 541,
+  "en": "Leaf-Wrapped",
+  "it": "Fogliavvolto"
+ },
+ {
+  "id": 542,
+  "en": "Nurturing",
+  "it": "Premuroso"
+ },
+ {
+  "id": 543,
+  "en": "Centipede",
+  "it": "Centopiedi"
+ },
+ {
+  "id": 544,
+  "en": "Curlipede",
+  "it": "Arrotolato"
+ },
+ {
+  "id": 545,
+  "en": "Megapede",
+  "it": "Megapiede"
+ },
+ {
+  "id": 546,
+  "en": "Cotton Puff",
+  "it": "Batuffolo Cotone"
+ },
+ {
+  "id": 547,
+  "en": "Windveiled",
+  "it": "Ventovelato"
+ },
+ {
+  "id": 548,
+  "en": "Bulb",
+  "it": "Bulbo"
+ },
+ {
+  "id": 549,
+  "en": "Flowering",
+  "it": "Fiorito"
+ },
+ {
+  "id": 550,
+  "en": "Hostile",
+  "it": "Ostile"
+ },
+ {
+  "id": 551,
+  "en": "Desert Croc",
+  "it": "Cocco Deserto"
+ },
+ {
+  "id": 552,
+  "en": "Desert Croc",
+  "it": "Cocco Deserto"
+ },
+ {
+  "id": 553,
+  "en": "Intimidation",
+  "it": "Intimidazione"
+ },
+ {
+  "id": 554,
+  "en": "Zen Charm",
+  "it": "Zen"
+ },
+ {
+  "id": 555,
+  "en": "Blazing",
+  "it": "Ardente"
+ },
+ {
+  "id": 556,
+  "en": "Cactus",
+  "it": "Cactus"
+ },
+ {
+  "id": 557,
+  "en": "Rock Inn",
+  "it": "Rocciatana"
+ },
+ {
+  "id": 558,
+  "en": "Stone Home",
+  "it": "Casa Pietra"
+ },
+ {
+  "id": 559,
+  "en": "Shedding",
+  "it": "Muta"
+ },
+ {
+  "id": 560,
+  "en": "Hoodlum",
+  "it": "Teppista"
+ },
+ {
+  "id": 561,
+  "en": "Avianoid",
+  "it": "Aviforme"
+ },
+ {
+  "id": 562,
+  "en": "Spirit",
+  "it": "Spirito"
+ },
+ {
+  "id": 563,
+  "en": "Coffin",
+  "it": "Sarcofago"
+ },
+ {
+  "id": 564,
+  "en": "Prototurtle",
+  "it": "Prototarta"
+ },
+ {
+  "id": 565,
+  "en": "Prototurtle",
+  "it": "Prototarta"
+ },
+ {
+  "id": 566,
+  "en": "First Bird",
+  "it": "Primo Uccello"
+ },
+ {
+  "id": 567,
+  "en": "First Bird",
+  "it": "Primo Uccello"
+ },
+ {
+  "id": 568,
+  "en": "Trash Bag",
+  "it": "Sacchetto"
+ },
+ {
+  "id": 569,
+  "en": "Trash Heap",
+  "it": "Cumulo Rifiuti"
+ },
+ {
+  "id": 570,
+  "en": "Tricky Fox",
+  "it": "Volpe Furba"
+ },
+ {
+  "id": 571,
+  "en": "Illusion Fox",
+  "it": "Volpillusione"
+ },
+ {
+  "id": 572,
+  "en": "Chinchilla",
+  "it": "Cincillà"
+ },
+ {
+  "id": 573,
+  "en": "Scarf",
+  "it": "Sciarpa"
+ },
+ {
+  "id": 574,
+  "en": "Fixation",
+  "it": "Fissazione"
+ },
+ {
+  "id": 575,
+  "en": "Manipulate",
+  "it": "Manipolatore"
+ },
+ {
+  "id": 576,
+  "en": "Astral Body",
+  "it": "Corpo Astrale"
+ },
+ {
+  "id": 577,
+  "en": "Cell",
+  "it": "Cellula"
+ },
+ {
+  "id": 578,
+  "en": "Mitosis",
+  "it": "Mitosi"
+ },
+ {
+  "id": 579,
+  "en": "Multiplying",
+  "it": "Moltiplicazione"
+ },
+ {
+  "id": 580,
+  "en": "Water Bird",
+  "it": "Uccelacqua"
+ },
+ {
+  "id": 581,
+  "en": "White Bird",
+  "it": "Uccello Bianco"
+ },
+ {
+  "id": 582,
+  "en": "Fresh Snow",
+  "it": "Neve Fresca"
+ },
+ {
+  "id": 583,
+  "en": "Icy Snow",
+  "it": "Neve Gelata"
+ },
+ {
+  "id": 584,
+  "en": "Snowstorm",
+  "it": "Tormenta"
+ },
+ {
+  "id": 585,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 586,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 587,
+  "en": "Sky Squirrel",
+  "it": "Scoiattolo Volante"
+ },
+ {
+  "id": 588,
+  "en": "Clamping",
+  "it": "Morsa"
+ },
+ {
+  "id": 589,
+  "en": "Cavalry",
+  "it": "Cavalleria"
+ },
+ {
+  "id": 590,
+  "en": "Mushroom",
+  "it": "Fungo"
+ },
+ {
+  "id": 591,
+  "en": "Mushroom",
+  "it": "Fungo"
+ },
+ {
+  "id": 592,
+  "en": "Floating",
+  "it": "Fluttuante"
+ },
+ {
+  "id": 593,
+  "en": "Floating",
+  "it": "Fluttuante"
+ },
+ {
+  "id": 594,
+  "en": "Caring",
+  "it": "Premura"
+ },
+ {
+  "id": 595,
+  "en": "Attaching",
+  "it": "Aggancio"
+ },
+ {
+  "id": 596,
+  "en": "EleSpider",
+  "it": "Eleragno"
+ },
+ {
+  "id": 597,
+  "en": "Thorn Seed",
+  "it": "Semespina"
+ },
+ {
+  "id": 598,
+  "en": "Thorn Pod",
+  "it": "Baccello Spina"
+ },
+ {
+  "id": 599,
+  "en": "Gear",
+  "it": "Ingranaggio"
+ },
+ {
+  "id": 600,
+  "en": "Gear",
+  "it": "Ingranaggio"
+ },
+ {
+  "id": 601,
+  "en": "Gear",
+  "it": "Ingranaggio"
+ },
+ {
+  "id": 602,
+  "en": "EleFish",
+  "it": "Elepesce"
+ },
+ {
+  "id": 603,
+  "en": "EleFish",
+  "it": "Elepesce"
+ },
+ {
+  "id": 604,
+  "en": "EleFish",
+  "it": "Elepesce"
+ },
+ {
+  "id": 605,
+  "en": "Cerebral",
+  "it": "Cerebrale"
+ },
+ {
+  "id": 606,
+  "en": "Cerebral",
+  "it": "Cerebrale"
+ },
+ {
+  "id": 607,
+  "en": "Candle",
+  "it": "Candela"
+ },
+ {
+  "id": 608,
+  "en": "Lamp",
+  "it": "Lampada"
+ },
+ {
+  "id": 609,
+  "en": "Luring",
+  "it": "Adescamento"
+ },
+ {
+  "id": 610,
+  "en": "Tusk",
+  "it": "Zanna"
+ },
+ {
+  "id": 611,
+  "en": "Axe Jaw",
+  "it": "Mascellascia"
+ },
+ {
+  "id": 612,
+  "en": "Axe Jaw",
+  "it": "Mascellascia"
+ },
+ {
+  "id": 613,
+  "en": "Chill",
+  "it": "Freddo"
+ },
+ {
+  "id": 614,
+  "en": "Freezing",
+  "it": "Congelamento"
+ },
+ {
+  "id": 615,
+  "en": "Crystallizing",
+  "it": "Cristallizzazione"
+ },
+ {
+  "id": 616,
+  "en": "Snail",
+  "it": "Lumaca"
+ },
+ {
+  "id": 617,
+  "en": "Shell Out",
+  "it": "Senzaguscio"
+ },
+ {
+  "id": 618,
+  "en": "Trap",
+  "it": "Trappola"
+ },
+ {
+  "id": 619,
+  "en": "Martial Arts",
+  "it": "Arti Marziali"
+ },
+ {
+  "id": 620,
+  "en": "Martial Arts",
+  "it": "Arti Marziali"
+ },
+ {
+  "id": 621,
+  "en": "Cave",
+  "it": "Caverna"
+ },
+ {
+  "id": 622,
+  "en": "Automaton",
+  "it": "Automa"
+ },
+ {
+  "id": 623,
+  "en": "Automaton",
+  "it": "Automa"
+ },
+ {
+  "id": 624,
+  "en": "Sharp Blade",
+  "it": "Lama Affilata"
+ },
+ {
+  "id": 625,
+  "en": "Sword Blade",
+  "it": "Spadalama"
+ },
+ {
+  "id": 626,
+  "en": "Bash Buffalo",
+  "it": "Bufalo"
+ },
+ {
+  "id": 627,
+  "en": "Eaglet",
+  "it": "Aquilotto"
+ },
+ {
+  "id": 628,
+  "en": "Valiant",
+  "it": "Valoroso"
+ },
+ {
+  "id": 629,
+  "en": "Diapered",
+  "it": "Pannolino"
+ },
+ {
+  "id": 630,
+  "en": "Bone Vulture",
+  "it": "Avvoltoio"
+ },
+ {
+  "id": 631,
+  "en": "Anteater",
+  "it": "Formichiere"
+ },
+ {
+  "id": 632,
+  "en": "Iron Ant",
+  "it": "Formica Ferro"
+ },
+ {
+  "id": 633,
+  "en": "Irate",
+  "it": "Furioso"
+ },
+ {
+  "id": 634,
+  "en": "Hostile",
+  "it": "Ostile"
+ },
+ {
+  "id": 635,
+  "en": "Brutal",
+  "it": "Brutale"
+ },
+ {
+  "id": 636,
+  "en": "Torch",
+  "it": "Torcia"
+ },
+ {
+  "id": 637,
+  "en": "Sun",
+  "it": "Sole"
+ },
+ {
+  "id": 638,
+  "en": "Iron Will",
+  "it": "Volontà Ferrea"
+ },
+ {
+  "id": 639,
+  "en": "Cavern",
+  "it": "Grotta"
+ },
+ {
+  "id": 640,
+  "en": "Grassland",
+  "it": "Prateria"
+ },
+ {
+  "id": 641,
+  "en": "Cyclone",
+  "it": "Ciclone"
+ },
+ {
+  "id": 642,
+  "en": "Bolt Strike",
+  "it": "Saetta"
+ },
+ {
+  "id": 643,
+  "en": "Vast White",
+  "it": "Bianco Immenso"
+ },
+ {
+  "id": 644,
+  "en": "Deep Black",
+  "it": "Nero Profondo"
+ },
+ {
+  "id": 645,
+  "en": "Abundance",
+  "it": "Abbondanza"
+ },
+ {
+  "id": 646,
+  "en": "Boundary",
+  "it": "Confine"
+ },
+ {
+  "id": 647,
+  "en": "Colt",
+  "it": "Puledro"
+ },
+ {
+  "id": 648,
+  "en": "Melody",
+  "it": "Melodia"
+ },
+ {
+  "id": 649,
+  "en": "Paleozoic",
+  "it": "Paleozoico"
+ },
+ {
+  "id": 650,
+  "en": "Spiky Nut",
+  "it": "Riccio"
+ },
+ {
+  "id": 651,
+  "en": "Spiky Armor",
+  "it": "Corazzaspina"
+ },
+ {
+  "id": 652,
+  "en": "Spiky Armor",
+  "it": "Corazzaspina"
+ },
+ {
+  "id": 653,
+  "en": "Fox",
+  "it": "Volpe"
+ },
+ {
+  "id": 654,
+  "en": "Fox",
+  "it": "Volpe"
+ },
+ {
+  "id": 655,
+  "en": "Fox",
+  "it": "Volpe"
+ },
+ {
+  "id": 656,
+  "en": "Bubble Frog",
+  "it": "Rana Bolla"
+ },
+ {
+  "id": 657,
+  "en": "Bubble Frog",
+  "it": "Rana Bolla"
+ },
+ {
+  "id": 658,
+  "en": "Ninja",
+  "it": "Ninja"
+ },
+ {
+  "id": 659,
+  "en": "Digging",
+  "it": "Scavatore"
+ },
+ {
+  "id": 660,
+  "en": "Digging",
+  "it": "Scavatore"
+ },
+ {
+  "id": 661,
+  "en": "Tiny Robin",
+  "it": "Pettirosso"
+ },
+ {
+  "id": 662,
+  "en": "Ember",
+  "it": "Tizzone"
+ },
+ {
+  "id": 663,
+  "en": "Scorching",
+  "it": "Rovente"
+ },
+ {
+  "id": 664,
+  "en": "Scatterdust",
+  "it": "Spargipolvere"
+ },
+ {
+  "id": 665,
+  "en": "Scatterdust",
+  "it": "Spargipolvere"
+ },
+ {
+  "id": 666,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 667,
+  "en": "Lion Cub",
+  "it": "Leoncino"
+ },
+ {
+  "id": 668,
+  "en": "Royal",
+  "it": "Regale"
+ },
+ {
+  "id": 669,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 670,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 671,
+  "en": "Garden",
+  "it": "Giardino"
+ },
+ {
+  "id": 672,
+  "en": "Mount",
+  "it": "Cavalcatura"
+ },
+ {
+  "id": 673,
+  "en": "Mount",
+  "it": "Cavalcatura"
+ },
+ {
+  "id": 674,
+  "en": "Playful",
+  "it": "Giocoso"
+ },
+ {
+  "id": 675,
+  "en": "Daunting",
+  "it": "Temibile"
+ },
+ {
+  "id": 676,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 677,
+  "en": "Restraint",
+  "it": "Restrizione"
+ },
+ {
+  "id": 678,
+  "en": "Constraint",
+  "it": "Costrizione"
+ },
+ {
+  "id": 679,
+  "en": "Sword",
+  "it": "Spada"
+ },
+ {
+  "id": 680,
+  "en": "Sword",
+  "it": "Spada"
+ },
+ {
+  "id": 681,
+  "en": "Royal Sword",
+  "it": "Spada Regale"
+ },
+ {
+  "id": 682,
+  "en": "Perfume",
+  "it": "Profumo"
+ },
+ {
+  "id": 683,
+  "en": "Fragrance",
+  "it": "Fragranza"
+ },
+ {
+  "id": 684,
+  "en": "Cotton Candy",
+  "it": "Zucchero Filato"
+ },
+ {
+  "id": 685,
+  "en": "Meringue",
+  "it": "Meringa"
+ },
+ {
+  "id": 686,
+  "en": "Revolving",
+  "it": "Rotante"
+ },
+ {
+  "id": 687,
+  "en": "Overturning",
+  "it": "Ribaltamento"
+ },
+ {
+  "id": 688,
+  "en": "Two-Handed",
+  "it": "Due Mani"
+ },
+ {
+  "id": 689,
+  "en": "Collective",
+  "it": "Collettivo"
+ },
+ {
+  "id": 690,
+  "en": "Mock Kelp",
+  "it": "Finta Alga"
+ },
+ {
+  "id": 691,
+  "en": "Mock Kelp",
+  "it": "Finta Alga"
+ },
+ {
+  "id": 692,
+  "en": "Water Gun",
+  "it": "Pistolacqua"
+ },
+ {
+  "id": 693,
+  "en": "Howitzer",
+  "it": "Obice"
+ },
+ {
+  "id": 694,
+  "en": "Generator",
+  "it": "Generatore"
+ },
+ {
+  "id": 695,
+  "en": "Generator",
+  "it": "Generatore"
+ },
+ {
+  "id": 696,
+  "en": "Royal Heir",
+  "it": "Erede Reale"
+ },
+ {
+  "id": 697,
+  "en": "Despot",
+  "it": "Despota"
+ },
+ {
+  "id": 698,
+  "en": "Tundra",
+  "it": "Tundra"
+ },
+ {
+  "id": 699,
+  "en": "Tundra",
+  "it": "Tundra"
+ },
+ {
+  "id": 700,
+  "en": "Intertwining",
+  "it": "Intreccio"
+ },
+ {
+  "id": 701,
+  "en": "Wrestling",
+  "it": "Lottatore"
+ },
+ {
+  "id": 702,
+  "en": "Antenna",
+  "it": "Antenna"
+ },
+ {
+  "id": 703,
+  "en": "Jewel",
+  "it": "Gioiello"
+ },
+ {
+  "id": 704,
+  "en": "Soft Tissue",
+  "it": "Mollusco"
+ },
+ {
+  "id": 705,
+  "en": "Soft Tissue",
+  "it": "Mollusco"
+ },
+ {
+  "id": 706,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 707,
+  "en": "Key Ring",
+  "it": "Portachiavi"
+ },
+ {
+  "id": 708,
+  "en": "Stump",
+  "it": "Ceppo"
+ },
+ {
+  "id": 709,
+  "en": "Elder Tree",
+  "it": "Albero Antico"
+ },
+ {
+  "id": 710,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 711,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 712,
+  "en": "Ice Chunk",
+  "it": "Gelocubo"
+ },
+ {
+  "id": 713,
+  "en": "Iceberg",
+  "it": "Iceberg"
+ },
+ {
+  "id": 714,
+  "en": "Sound Wave",
+  "it": "Onda Sonora"
+ },
+ {
+  "id": 715,
+  "en": "Sound Wave",
+  "it": "Onda Sonora"
+ },
+ {
+  "id": 716,
+  "en": "Life",
+  "it": "Vita"
+ },
+ {
+  "id": 717,
+  "en": "Destruction",
+  "it": "Distruzione"
+ },
+ {
+  "id": 718,
+  "en": "Order",
+  "it": "Ordine"
+ },
+ {
+  "id": 719,
+  "en": "Jewel",
+  "it": "Gioiello"
+ },
+ {
+  "id": 720,
+  "en": "Mischief",
+  "it": "Dispetto"
+ },
+ {
+  "id": 721,
+  "en": "Steam",
+  "it": "Vapore"
+ },
+ {
+  "id": 722,
+  "en": "Grass Quill",
+  "it": "Penna Erba"
+ },
+ {
+  "id": 723,
+  "en": "Blade Quill",
+  "it": "Penna Lama"
+ },
+ {
+  "id": 724,
+  "en": "Arrow Quill",
+  "it": "Penna Freccia"
+ },
+ {
+  "id": 725,
+  "en": "Fire Cat",
+  "it": "Gatto Fuoco"
+ },
+ {
+  "id": 726,
+  "en": "Fire Cat",
+  "it": "Gatto Fuoco"
+ },
+ {
+  "id": 727,
+  "en": "Heel",
+  "it": "Scorretto"
+ },
+ {
+  "id": 728,
+  "en": "Sea Lion",
+  "it": "Otaria"
+ },
+ {
+  "id": 729,
+  "en": "Pop Star",
+  "it": "Popstar"
+ },
+ {
+  "id": 730,
+  "en": "Soloist",
+  "it": "Solista"
+ },
+ {
+  "id": 731,
+  "en": "Woodpecker",
+  "it": "Picchio"
+ },
+ {
+  "id": 732,
+  "en": "Bugle Beak",
+  "it": "Becco Tromba"
+ },
+ {
+  "id": 733,
+  "en": "Cannon",
+  "it": "Cannone"
+ },
+ {
+  "id": 734,
+  "en": "Loitering",
+  "it": "Bighellone"
+ },
+ {
+  "id": 735,
+  "en": "Stakeout",
+  "it": "Appostamento"
+ },
+ {
+  "id": 736,
+  "en": "Larva",
+  "it": "Larva"
+ },
+ {
+  "id": 737,
+  "en": "Battery",
+  "it": "Batteria"
+ },
+ {
+  "id": 738,
+  "en": "Stag Beetle",
+  "it": "Cervovolante"
+ },
+ {
+  "id": 739,
+  "en": "Boxing",
+  "it": "Pugilato"
+ },
+ {
+  "id": 740,
+  "en": "Woolly Crab",
+  "it": "Granchio Lana"
+ },
+ {
+  "id": 741,
+  "en": "Dancing",
+  "it": "Danza"
+ },
+ {
+  "id": 742,
+  "en": "Bee Fly",
+  "it": "Bombilide"
+ },
+ {
+  "id": 743,
+  "en": "Bee Fly",
+  "it": "Bombilide"
+ },
+ {
+  "id": 744,
+  "en": "Puppy",
+  "it": "Cagnolino"
+ },
+ {
+  "id": 745,
+  "en": "Wolf",
+  "it": "Lupo"
+ },
+ {
+  "id": 746,
+  "en": "Small Fry",
+  "it": "Pesciolino"
+ },
+ {
+  "id": 747,
+  "en": "Brutal Star",
+  "it": "Stella Brutale"
+ },
+ {
+  "id": 748,
+  "en": "Brutal Star",
+  "it": "Stella Brutale"
+ },
+ {
+  "id": 749,
+  "en": "Donkey",
+  "it": "Asino"
+ },
+ {
+  "id": 750,
+  "en": "Draft Horse",
+  "it": "Cavallo da Tiro"
+ },
+ {
+  "id": 751,
+  "en": "Water Bubble",
+  "it": "Bolla d'Acqua"
+ },
+ {
+  "id": 752,
+  "en": "Water Bubble",
+  "it": "Bolla d'Acqua"
+ },
+ {
+  "id": 753,
+  "en": "Sickle Grass",
+  "it": "Falciaerba"
+ },
+ {
+  "id": 754,
+  "en": "Bloom Sickle",
+  "it": "Falciafiore"
+ },
+ {
+  "id": 755,
+  "en": "Illuminating",
+  "it": "Luminoso"
+ },
+ {
+  "id": 756,
+  "en": "Illuminating",
+  "it": "Luminoso"
+ },
+ {
+  "id": 757,
+  "en": "Toxic Lizard",
+  "it": "Lucertossica"
+ },
+ {
+  "id": 758,
+  "en": "Toxic Lizard",
+  "it": "Lucertossica"
+ },
+ {
+  "id": 759,
+  "en": "Flailing",
+  "it": "Dimenante"
+ },
+ {
+  "id": 760,
+  "en": "Strong Arm",
+  "it": "Braccioforte"
+ },
+ {
+  "id": 761,
+  "en": "Fruit",
+  "it": "Frutto"
+ },
+ {
+  "id": 762,
+  "en": "Fruit",
+  "it": "Frutto"
+ },
+ {
+  "id": 763,
+  "en": "Fruit",
+  "it": "Frutto"
+ },
+ {
+  "id": 764,
+  "en": "Posy Picker",
+  "it": "Coglifiori"
+ },
+ {
+  "id": 765,
+  "en": "Sage",
+  "it": "Saggio"
+ },
+ {
+  "id": 766,
+  "en": "Teamwork",
+  "it": "Lavoro di Squadra"
+ },
+ {
+  "id": 767,
+  "en": "Turn Tail",
+  "it": "Fuggifuggi"
+ },
+ {
+  "id": 768,
+  "en": "Hard Scale",
+  "it": "Scaglia Dura"
+ },
+ {
+  "id": 769,
+  "en": "Sand Heap",
+  "it": "Mucchiosabbia"
+ },
+ {
+  "id": 770,
+  "en": "Sand Castle",
+  "it": "Castellosabbia"
+ },
+ {
+  "id": 771,
+  "en": "Sea Cucumber",
+  "it": "Oloturia"
+ },
+ {
+  "id": 772,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 773,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 774,
+  "en": "Meteor",
+  "it": "Meteora"
+ },
+ {
+  "id": 775,
+  "en": "Drowsing",
+  "it": "Sonnolento"
+ },
+ {
+  "id": 776,
+  "en": "Blast Turtle",
+  "it": "Tartabomba"
+ },
+ {
+  "id": 777,
+  "en": "Roly-Poly",
+  "it": "Rotolone"
+ },
+ {
+  "id": 778,
+  "en": "Disguise",
+  "it": "Travestimento"
+ },
+ {
+  "id": 779,
+  "en": "Gnash Teeth",
+  "it": "Digrignante"
+ },
+ {
+  "id": 780,
+  "en": "Placid",
+  "it": "Placido"
+ },
+ {
+  "id": 781,
+  "en": "Sea Creeper",
+  "it": "Alga Marina"
+ },
+ {
+  "id": 782,
+  "en": "Scaly",
+  "it": "Squamoso"
+ },
+ {
+  "id": 783,
+  "en": "Scaly",
+  "it": "Squamoso"
+ },
+ {
+  "id": 784,
+  "en": "Scaly",
+  "it": "Squamoso"
+ },
+ {
+  "id": 785,
+  "en": "Land Spirit",
+  "it": "Spirito Terra"
+ },
+ {
+  "id": 786,
+  "en": "Land Spirit",
+  "it": "Spirito Terra"
+ },
+ {
+  "id": 787,
+  "en": "Land Spirit",
+  "it": "Spirito Terra"
+ },
+ {
+  "id": 788,
+  "en": "Land Spirit",
+  "it": "Spirito Terra"
+ },
+ {
+  "id": 789,
+  "en": "Nebula",
+  "it": "Nebulosa"
+ },
+ {
+  "id": 790,
+  "en": "Protostar",
+  "it": "Protostella"
+ },
+ {
+  "id": 791,
+  "en": "Sunne",
+  "it": "Sole"
+ },
+ {
+  "id": 792,
+  "en": "Moone",
+  "it": "Luna"
+ },
+ {
+  "id": 793,
+  "en": "Parasite",
+  "it": "Parassita"
+ },
+ {
+  "id": 794,
+  "en": "Swollen",
+  "it": "Gonfio"
+ },
+ {
+  "id": 795,
+  "en": "Lissome",
+  "it": "Flessuoso"
+ },
+ {
+  "id": 796,
+  "en": "Glowing",
+  "it": "Luminescente"
+ },
+ {
+  "id": 797,
+  "en": "Launch",
+  "it": "Lancio"
+ },
+ {
+  "id": 798,
+  "en": "Drawn Sword",
+  "it": "Spadasguainata"
+ },
+ {
+  "id": 799,
+  "en": "Junkivore",
+  "it": "Mangiarifiuti"
+ },
+ {
+  "id": 800,
+  "en": "Prism",
+  "it": "Prisma"
+ },
+ {
+  "id": 801,
+  "en": "Artificial",
+  "it": "Artificiale"
+ },
+ {
+  "id": 802,
+  "en": "Gloomdweller",
+  "it": "Abitaombra"
+ },
+ {
+  "id": 803,
+  "en": "Poison Pin",
+  "it": "Velenspina"
+ },
+ {
+  "id": 804,
+  "en": "Poison Pin",
+  "it": "Velenspina"
+ },
+ {
+  "id": 805,
+  "en": "Rampart",
+  "it": "Bastione"
+ },
+ {
+  "id": 806,
+  "en": "Fireworks",
+  "it": "Fuochi d'Artificio"
+ },
+ {
+  "id": 807,
+  "en": "Thunderclap",
+  "it": "Tuonoforte"
+ },
+ {
+  "id": 808,
+  "en": "Hex Nut",
+  "it": "Bullone"
+ },
+ {
+  "id": 809,
+  "en": "Hex Nut",
+  "it": "Bullone"
+ },
+ {
+  "id": 810,
+  "en": "Chimp",
+  "it": "Scimpanzé"
+ },
+ {
+  "id": 811,
+  "en": "Beat",
+  "it": "Ritmo"
+ },
+ {
+  "id": 812,
+  "en": "Drummer",
+  "it": "Batterista"
+ },
+ {
+  "id": 813,
+  "en": "Rabbit",
+  "it": "Coniglio"
+ },
+ {
+  "id": 814,
+  "en": "Rabbit",
+  "it": "Coniglio"
+ },
+ {
+  "id": 815,
+  "en": "Striker",
+  "it": "Attaccante"
+ },
+ {
+  "id": 816,
+  "en": "Water Lizard",
+  "it": "Lucertola Acqua"
+ },
+ {
+  "id": 817,
+  "en": "Water Lizard",
+  "it": "Lucertola Acqua"
+ },
+ {
+  "id": 818,
+  "en": "Secret Agent",
+  "it": "Agente Segreto"
+ },
+ {
+  "id": 819,
+  "en": "Cheeky",
+  "it": "Sfacciato"
+ },
+ {
+  "id": 820,
+  "en": "Greedy",
+  "it": "Avido"
+ },
+ {
+  "id": 821,
+  "en": "Tiny Bird",
+  "it": "Uccellino"
+ },
+ {
+  "id": 822,
+  "en": "Raven",
+  "it": "Corvo"
+ },
+ {
+  "id": 823,
+  "en": "Raven",
+  "it": "Corvo"
+ },
+ {
+  "id": 824,
+  "en": "Larva",
+  "it": "Larva"
+ },
+ {
+  "id": 825,
+  "en": "Radome",
+  "it": "Radome"
+ },
+ {
+  "id": 826,
+  "en": "Seven Spot",
+  "it": "Settepunti"
+ },
+ {
+  "id": 827,
+  "en": "Fox",
+  "it": "Volpe"
+ },
+ {
+  "id": 828,
+  "en": "Fox",
+  "it": "Volpe"
+ },
+ {
+  "id": 829,
+  "en": "Flowering",
+  "it": "Fiorito"
+ },
+ {
+  "id": 830,
+  "en": "Cotton Bloom",
+  "it": "Fiorcotone"
+ },
+ {
+  "id": 831,
+  "en": "Sheep",
+  "it": "Pecora"
+ },
+ {
+  "id": 832,
+  "en": "Sheep",
+  "it": "Pecora"
+ },
+ {
+  "id": 833,
+  "en": "Snapping",
+  "it": "Mordace"
+ },
+ {
+  "id": 834,
+  "en": "Bite",
+  "it": "Morso"
+ },
+ {
+  "id": 835,
+  "en": "Puppy",
+  "it": "Cagnolino"
+ },
+ {
+  "id": 836,
+  "en": "Dog",
+  "it": "Cane"
+ },
+ {
+  "id": 837,
+  "en": "Coal",
+  "it": "Carbone"
+ },
+ {
+  "id": 838,
+  "en": "Coal",
+  "it": "Carbone"
+ },
+ {
+  "id": 839,
+  "en": "Coal",
+  "it": "Carbone"
+ },
+ {
+  "id": 840,
+  "en": "Apple Core",
+  "it": "Torsolo"
+ },
+ {
+  "id": 841,
+  "en": "Apple Wing",
+  "it": "Alimela"
+ },
+ {
+  "id": 842,
+  "en": "Apple Nectar",
+  "it": "Nettaremela"
+ },
+ {
+  "id": 843,
+  "en": "Sand Snake",
+  "it": "Serpe Sabbia"
+ },
+ {
+  "id": 844,
+  "en": "Sand Snake",
+  "it": "Serpe Sabbia"
+ },
+ {
+  "id": 845,
+  "en": "Gulp",
+  "it": "Inghiotti"
+ },
+ {
+  "id": 846,
+  "en": "Rush",
+  "it": "Carica"
+ },
+ {
+  "id": 847,
+  "en": "Skewer",
+  "it": "Spiedo"
+ },
+ {
+  "id": 848,
+  "en": "Baby",
+  "it": "Neonato"
+ },
+ {
+  "id": 849,
+  "en": "Punk",
+  "it": "Punk"
+ },
+ {
+  "id": 850,
+  "en": "Radiator",
+  "it": "Radiatore"
+ },
+ {
+  "id": 851,
+  "en": "Radiator",
+  "it": "Radiatore"
+ },
+ {
+  "id": 852,
+  "en": "Tantrum",
+  "it": "Capriccio"
+ },
+ {
+  "id": 853,
+  "en": "Jujitsu",
+  "it": "Jujitsu"
+ },
+ {
+  "id": 854,
+  "en": "Black Tea",
+  "it": "Tè Nero"
+ },
+ {
+  "id": 855,
+  "en": "Black Tea",
+  "it": "Tè Nero"
+ },
+ {
+  "id": 856,
+  "en": "Calm",
+  "it": "Calmo"
+ },
+ {
+  "id": 857,
+  "en": "Serene",
+  "it": "Sereno"
+ },
+ {
+  "id": 858,
+  "en": "Silent",
+  "it": "Silenzioso"
+ },
+ {
+  "id": 859,
+  "en": "Wily",
+  "it": "Furbo"
+ },
+ {
+  "id": 860,
+  "en": "Devious",
+  "it": "Subdolo"
+ },
+ {
+  "id": 861,
+  "en": "Bulk Up",
+  "it": "Granfisico"
+ },
+ {
+  "id": 862,
+  "en": "Blocking",
+  "it": "Blocco"
+ },
+ {
+  "id": 863,
+  "en": "Viking",
+  "it": "Vichingo"
+ },
+ {
+  "id": 864,
+  "en": "Coral",
+  "it": "Corallo"
+ },
+ {
+  "id": 865,
+  "en": "Wild Duck",
+  "it": "Anatra"
+ },
+ {
+  "id": 866,
+  "en": "Comedian",
+  "it": "Comico"
+ },
+ {
+  "id": 867,
+  "en": "Grudge",
+  "it": "Rancore"
+ },
+ {
+  "id": 868,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 869,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 870,
+  "en": "Formation",
+  "it": "Formazione"
+ },
+ {
+  "id": 871,
+  "en": "Sea Urchin",
+  "it": "Riccio di Mare"
+ },
+ {
+  "id": 872,
+  "en": "Worm",
+  "it": "Baco"
+ },
+ {
+  "id": 873,
+  "en": "Frost Moth",
+  "it": "Falena Gelo"
+ },
+ {
+  "id": 874,
+  "en": "Big Rock",
+  "it": "Granmasso"
+ },
+ {
+  "id": 875,
+  "en": "Penguin",
+  "it": "Pinguino"
+ },
+ {
+  "id": 876,
+  "en": "Emotion",
+  "it": "Emozione"
+ },
+ {
+  "id": 877,
+  "en": "Two-Sided",
+  "it": "Doppia Faccia"
+ },
+ {
+  "id": 878,
+  "en": "Copperderm",
+  "it": "Pelle Rame"
+ },
+ {
+  "id": 879,
+  "en": "Copperderm",
+  "it": "Pelle Rame"
+ },
+ {
+  "id": 880,
+  "en": "Fossil",
+  "it": "Fossile"
+ },
+ {
+  "id": 881,
+  "en": "Fossil",
+  "it": "Fossile"
+ },
+ {
+  "id": 882,
+  "en": "Fossil",
+  "it": "Fossile"
+ },
+ {
+  "id": 883,
+  "en": "Fossil",
+  "it": "Fossile"
+ },
+ {
+  "id": 884,
+  "en": "Alloy",
+  "it": "Lega"
+ },
+ {
+  "id": 885,
+  "en": "Lingering",
+  "it": "Persistente"
+ },
+ {
+  "id": 886,
+  "en": "Caretaker",
+  "it": "Custode"
+ },
+ {
+  "id": 887,
+  "en": "Stealth",
+  "it": "Furtivo"
+ },
+ {
+  "id": 888,
+  "en": "Warrior",
+  "it": "Guerriero"
+ },
+ {
+  "id": 889,
+  "en": "Warrior",
+  "it": "Guerriero"
+ },
+ {
+  "id": 890,
+  "en": "Gigantic",
+  "it": "Gigantesco"
+ },
+ {
+  "id": 891,
+  "en": "Wushu",
+  "it": "Wushu"
+ },
+ {
+  "id": 892,
+  "en": "Wushu",
+  "it": "Wushu"
+ },
+ {
+  "id": 893,
+  "en": "Rogue Monkey",
+  "it": "Scimmia Ladra"
+ },
+ {
+  "id": 894,
+  "en": "Electron",
+  "it": "Elettrone"
+ },
+ {
+  "id": 895,
+  "en": "Dragon Orb",
+  "it": "Sfera Drago"
+ },
+ {
+  "id": 896,
+  "en": "Wild Horse",
+  "it": "Cavallo Brado"
+ },
+ {
+  "id": 897,
+  "en": "Swift Horse",
+  "it": "Cavallo Rapido"
+ },
+ {
+  "id": 898,
+  "en": "King",
+  "it": "Re"
+ },
+ {
+  "id": 899,
+  "en": "Big Horn",
+  "it": "Corna"
+ },
+ {
+  "id": 900,
+  "en": "Axe",
+  "it": "Ascia"
+ },
+ {
+  "id": 901,
+  "en": "Peat",
+  "it": "Torba"
+ },
+ {
+  "id": 902,
+  "en": "Big Fish",
+  "it": "Pesce Grosso"
+ },
+ {
+  "id": 903,
+  "en": "Free Climb",
+  "it": "Arrampicata"
+ },
+ {
+  "id": 904,
+  "en": "Pin Cluster",
+  "it": "Grappolaspine"
+ },
+ {
+  "id": 905,
+  "en": "Love-Hate",
+  "it": "Amoreodio"
+ },
+ {
+  "id": 906,
+  "en": "Seed",
+  "it": "Seme"
+ },
+ {
+  "id": 907,
+  "en": "Flame",
+  "it": "Fiamma"
+ },
+ {
+  "id": 908,
+  "en": "Flame",
+  "it": "Fiamma"
+ },
+ {
+  "id": 909,
+  "en": "Shellfish",
+  "it": "Molluscoide"
+ },
+ {
+  "id": 910,
+  "en": "Poison Bee",
+  "it": "Velenape"
+ },
+ {
+  "id": 911,
+  "en": "Bird",
+  "it": "Uccello"
+ },
+ {
+  "id": 912,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 913,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 914,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 915,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 916,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 917,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 918,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 919,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 920,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 921,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 922,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 923,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 924,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 925,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 926,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 927,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 928,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 929,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 930,
+  "en": "Mouse",
+  "it": "Topo"
+ },
+ {
+  "id": 931,
+  "en": "Fox",
+  "it": "Volpe"
+ },
+ {
+  "id": 932,
+  "en": "Fox",
+  "it": "Volpe"
+ },
+ {
+  "id": 933,
+  "en": "Mole",
+  "it": "Talpa"
+ },
+ {
+  "id": 934,
+  "en": "Mole",
+  "it": "Talpa"
+ },
+ {
+  "id": 935,
+  "en": "Scratch Cat",
+  "it": "Graffimiao"
+ },
+ {
+  "id": 936,
+  "en": "Scratch Cat",
+  "it": "Graffimiao"
+ },
+ {
+  "id": 937,
+  "en": "Classy Cat",
+  "it": "Gatto Fine"
+ },
+ {
+  "id": 938,
+  "en": "Scout",
+  "it": "Esploratore"
+ },
+ {
+  "id": 939,
+  "en": "Legendary",
+  "it": "Leggenda"
+ },
+ {
+  "id": 940,
+  "en": "Psi",
+  "it": "Psico"
+ },
+ {
+  "id": 941,
+  "en": "Rock",
+  "it": "Roccia"
+ },
+ {
+  "id": 942,
+  "en": "Rock",
+  "it": "Roccia"
+ },
+ {
+  "id": 943,
+  "en": "Megaton",
+  "it": "Megaton"
+ },
+ {
+  "id": 944,
+  "en": "Unique Horn",
+  "it": "Corno Unico"
+ },
+ {
+  "id": 945,
+  "en": "Unique Horn",
+  "it": "Corno Unico"
+ },
+ {
+  "id": 946,
+  "en": "Dopey",
+  "it": "Ronfone"
+ },
+ {
+  "id": 947,
+  "en": "Hermit Crab",
+  "it": "Paguro"
+ },
+ {
+  "id": 948,
+  "en": "Hermit Crab",
+  "it": "Paguro"
+ },
+ {
+  "id": 949,
+  "en": "Wild Duck",
+  "it": "Anatra"
+ },
+ {
+  "id": 950,
+  "en": "Sludge",
+  "it": "Fango"
+ },
+ {
+  "id": 951,
+  "en": "Sludge",
+  "it": "Fango"
+ },
+ {
+  "id": 952,
+  "en": "Shadow",
+  "it": "Ombra"
+ },
+ {
+  "id": 953,
+  "en": "Sphere",
+  "it": "Sfera"
+ },
+ {
+  "id": 954,
+  "en": "Sphere",
+  "it": "Sfera"
+ },
+ {
+  "id": 955,
+  "en": "Coconut",
+  "it": "Cocco"
+ },
+ {
+  "id": 956,
+  "en": "Lonely",
+  "it": "Solitario"
+ },
+ {
+  "id": 957,
+  "en": "Bone Keeper",
+  "it": "Custodossa"
+ },
+ {
+  "id": 958,
+  "en": "Poison Gas",
+  "it": "Velenogas"
+ },
+ {
+  "id": 959,
+  "en": "Parent",
+  "it": "Genitore"
+ },
+ {
+  "id": 960,
+  "en": "Dancing",
+  "it": "Danza"
+ },
+ {
+  "id": 961,
+  "en": "Stag Beetle",
+  "it": "Cervovolante"
+ },
+ {
+  "id": 962,
+  "en": "Atrocious",
+  "it": "Atroce"
+ },
+ {
+  "id": 963,
+  "en": "Fossil",
+  "it": "Fossile"
+ },
+ {
+  "id": 964,
+  "en": "Cruel",
+  "it": "Crudele"
+ },
+ {
+  "id": 965,
+  "en": "Strong Legs",
+  "it": "Gambe Forti"
+ },
+ {
+  "id": 966,
+  "en": "Malevolent",
+  "it": "Malevolo"
+ },
+ {
+  "id": 967,
+  "en": "Genetic",
+  "it": "Genetico"
+ },
+ {
+  "id": 968,
+  "en": "Genetic",
+  "it": "Genetico"
+ },
+ {
+  "id": 969,
+  "en": "Ghost Flame",
+  "it": "Fiamma Spettro"
+ },
+ {
+  "id": 970,
+  "en": "Tiny Mouse",
+  "it": "Topolino"
+ },
+ {
+  "id": 971,
+  "en": "Light",
+  "it": "Luce"
+ },
+ {
+  "id": 972,
+  "en": "Hexpert",
+  "it": "Esperto Maledizioni"
+ },
+ {
+  "id": 973,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 974,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 975,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 976,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 977,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 978,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 979,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 980,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 981,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 982,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 983,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 984,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 985,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 986,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 987,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 988,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 989,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 990,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 991,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 992,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 993,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 994,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 995,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 996,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 997,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 998,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 999,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 1000,
+  "en": "Iron Snake",
+  "it": "Serpeferro"
+ },
+ {
+  "id": 1001,
+  "en": "Balloon",
+  "it": "Pallone"
+ },
+ {
+  "id": 1002,
+  "en": "Pincer",
+  "it": "Chela"
+ },
+ {
+  "id": 1003,
+  "en": "Single Horn",
+  "it": "Monocorno"
+ },
+ {
+  "id": 1004,
+  "en": "Sharp Claw",
+  "it": "Artiglio"
+ },
+ {
+  "id": 1005,
+  "en": "Coral",
+  "it": "Corallo"
+ },
+ {
+  "id": 1006,
+  "en": "Dark",
+  "it": "Buio"
+ },
+ {
+  "id": 1007,
+  "en": "Armor",
+  "it": "Corazza"
+ },
+ {
+  "id": 1008,
+  "en": "Forest",
+  "it": "Foresta"
+ },
+ {
+  "id": 1009,
+  "en": "Blaze",
+  "it": "Vampe"
+ },
+ {
+  "id": 1010,
+  "en": "Mud Fish",
+  "it": "Pescefango"
+ },
+ {
+  "id": 1011,
+  "en": "TinyRaccoon",
+  "it": "Procioncino"
+ },
+ {
+  "id": 1012,
+  "en": "Rushing",
+  "it": "Scattante"
+ },
+ {
+  "id": 1013,
+  "en": "Embrace",
+  "it": "Abbraccio"
+ },
+ {
+  "id": 1014,
+  "en": "Darkness",
+  "it": "Oscurità"
+ },
+ {
+  "id": 1015,
+  "en": "Deceiver",
+  "it": "Ingannatore"
+ },
+ {
+  "id": 1016,
+  "en": "Iron Armor",
+  "it": "Ferrocorazza"
+ },
+ {
+  "id": 1017,
+  "en": "Meditate",
+  "it": "Meditazione"
+ },
+ {
+  "id": 1018,
+  "en": "Discharge",
+  "it": "Scarica"
+ },
+ {
+  "id": 1019,
+  "en": "Brutal",
+  "it": "Brutale"
+ },
+ {
+  "id": 1020,
+  "en": "Eruption",
+  "it": "Eruzione"
+ },
+ {
+  "id": 1021,
+  "en": "Humming",
+  "it": "Canterino"
+ },
+ {
+  "id": 1022,
+  "en": "Weather",
+  "it": "Meteo"
+ },
+ {
+  "id": 1023,
+  "en": "Weather",
+  "it": "Meteo"
+ },
+ {
+  "id": 1024,
+  "en": "Weather",
+  "it": "Meteo"
+ },
+ {
+  "id": 1025,
+  "en": "Marionette",
+  "it": "Marionetta"
+ },
+ {
+  "id": 1026,
+  "en": "Disaster",
+  "it": "Disastro"
+ },
+ {
+  "id": 1027,
+  "en": "Face",
+  "it": "Faccia"
+ },
+ {
+  "id": 1028,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 1029,
+  "en": "Iron Leg",
+  "it": "Gamba Ferro"
+ },
+ {
+  "id": 1030,
+  "en": "Eon",
+  "it": "Eone"
+ },
+ {
+  "id": 1031,
+  "en": "Eon",
+  "it": "Eone"
+ },
+ {
+  "id": 1032,
+  "en": "Sea Basin",
+  "it": "Bacino Marino"
+ },
+ {
+  "id": 1033,
+  "en": "Continent",
+  "it": "Continente"
+ },
+ {
+  "id": 1034,
+  "en": "Sky High",
+  "it": "Cielo Alto"
+ },
+ {
+  "id": 1035,
+  "en": "DNA",
+  "it": "DNA"
+ },
+ {
+  "id": 1036,
+  "en": "DNA",
+  "it": "DNA"
+ },
+ {
+  "id": 1037,
+  "en": "DNA",
+  "it": "DNA"
+ },
+ {
+  "id": 1038,
+  "en": "Bagworm",
+  "it": "Larva"
+ },
+ {
+  "id": 1039,
+  "en": "Bagworm",
+  "it": "Larva"
+ },
+ {
+  "id": 1040,
+  "en": "Bagworm",
+  "it": "Larva"
+ },
+ {
+  "id": 1041,
+  "en": "Bagworm",
+  "it": "Larva"
+ },
+ {
+  "id": 1042,
+  "en": "Blossom",
+  "it": "Fioritura"
+ },
+ {
+  "id": 1043,
+  "en": "Sea Slug",
+  "it": "Lumacamare"
+ },
+ {
+  "id": 1044,
+  "en": "Sea Slug",
+  "it": "Lumacamare"
+ },
+ {
+  "id": 1045,
+  "en": "Rabbit",
+  "it": "Coniglio"
+ },
+ {
+  "id": 1046,
+  "en": "Mach",
+  "it": "Mach"
+ },
+ {
+  "id": 1047,
+  "en": "Aura",
+  "it": "Aura"
+ },
+ {
+  "id": 1048,
+  "en": "Frost Tree",
+  "it": "Albero Gelo"
+ },
+ {
+  "id": 1049,
+  "en": "Blade",
+  "it": "Lama"
+ },
+ {
+  "id": 1050,
+  "en": "Plasma",
+  "it": "Plasma"
+ },
+ {
+  "id": 1051,
+  "en": "Plasma",
+  "it": "Plasma"
+ },
+ {
+  "id": 1052,
+  "en": "Plasma",
+  "it": "Plasma"
+ },
+ {
+  "id": 1053,
+  "en": "Plasma",
+  "it": "Plasma"
+ },
+ {
+  "id": 1054,
+  "en": "Plasma",
+  "it": "Plasma"
+ },
+ {
+  "id": 1055,
+  "en": "Temporal",
+  "it": "Temporale"
+ },
+ {
+  "id": 1056,
+  "en": "Spatial",
+  "it": "Spaziale"
+ },
+ {
+  "id": 1057,
+  "en": "Renegade",
+  "it": "Rinnegato"
+ },
+ {
+  "id": 1058,
+  "en": "Gratitude",
+  "it": "Gratitudine"
+ },
+ {
+  "id": 1059,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1060,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1061,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1062,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1063,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1064,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1065,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1066,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1067,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1068,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1069,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1070,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1071,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1072,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1073,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1074,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1075,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1076,
+  "en": "Alpha",
+  "it": "Alfa"
+ },
+ {
+  "id": 1077,
+  "en": "Formidable",
+  "it": "Formidabile"
+ },
+ {
+  "id": 1078,
+  "en": "Hearing",
+  "it": "Udito"
+ },
+ {
+  "id": 1079,
+  "en": "Spinning",
+  "it": "Rotante"
+ },
+ {
+  "id": 1080,
+  "en": "Hostile",
+  "it": "Ostile"
+ },
+ {
+  "id": 1081,
+  "en": "Mellow",
+  "it": "Mansueto"
+ },
+ {
+  "id": 1082,
+  "en": "Zen Charm",
+  "it": "Zen"
+ },
+ {
+  "id": 1083,
+  "en": "Zen Charm",
+  "it": "Zen"
+ },
+ {
+  "id": 1084,
+  "en": "Blazing",
+  "it": "Ardente"
+ },
+ {
+  "id": 1085,
+  "en": "Zen Charm",
+  "it": "Zen"
+ },
+ {
+  "id": 1086,
+  "en": "Spirit",
+  "it": "Spirito"
+ },
+ {
+  "id": 1087,
+  "en": "Spiteful Fox",
+  "it": "Volpe Dispettosa"
+ },
+ {
+  "id": 1088,
+  "en": "Baneful Fox",
+  "it": "Volpe Maligna"
+ },
+ {
+  "id": 1089,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1090,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1091,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1092,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1093,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1094,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1095,
+  "en": "Trap",
+  "it": "Trappola"
+ },
+ {
+  "id": 1096,
+  "en": "Battle Cry",
+  "it": "Grido di Guerra"
+ },
+ {
+  "id": 1097,
+  "en": "Cyclone",
+  "it": "Ciclone"
+ },
+ {
+  "id": 1098,
+  "en": "Bolt Strike",
+  "it": "Saetta"
+ },
+ {
+  "id": 1099,
+  "en": "Abundance",
+  "it": "Abbondanza"
+ },
+ {
+  "id": 1100,
+  "en": "Boundary",
+  "it": "Confine"
+ },
+ {
+  "id": 1101,
+  "en": "Boundary",
+  "it": "Confine"
+ },
+ {
+  "id": 1102,
+  "en": "Boundary",
+  "it": "Confine"
+ },
+ {
+  "id": 1103,
+  "en": "Boundary",
+  "it": "Confine"
+ },
+ {
+  "id": 1104,
+  "en": "Colt",
+  "it": "Puledro"
+ },
+ {
+  "id": 1105,
+  "en": "Melody",
+  "it": "Melodia"
+ },
+ {
+  "id": 1106,
+  "en": "Paleozoic",
+  "it": "Paleozoico"
+ },
+ {
+  "id": 1107,
+  "en": "Paleozoic",
+  "it": "Paleozoico"
+ },
+ {
+  "id": 1108,
+  "en": "Paleozoic",
+  "it": "Paleozoico"
+ },
+ {
+  "id": 1109,
+  "en": "Paleozoic",
+  "it": "Paleozoico"
+ },
+ {
+  "id": 1110,
+  "en": "Ninja",
+  "it": "Ninja"
+ },
+ {
+  "id": 1111,
+  "en": "Ninja",
+  "it": "Ninja"
+ },
+ {
+  "id": 1112,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1113,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1114,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1115,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1116,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1117,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1118,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1119,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1120,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1121,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1122,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1123,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1124,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1125,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1126,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1127,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1128,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1129,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1130,
+  "en": "Scale",
+  "it": "Scaglia"
+ },
+ {
+  "id": 1131,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 1132,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 1133,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 1134,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 1135,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 1136,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 1137,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 1138,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 1139,
+  "en": "Single Bloom",
+  "it": "Bocciolo"
+ },
+ {
+  "id": 1140,
+  "en": "Garden",
+  "it": "Giardino"
+ },
+ {
+  "id": 1141,
+  "en": "Garden",
+  "it": "Giardino"
+ },
+ {
+  "id": 1142,
+  "en": "Garden",
+  "it": "Giardino"
+ },
+ {
+  "id": 1143,
+  "en": "Garden",
+  "it": "Giardino"
+ },
+ {
+  "id": 1144,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 1145,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 1146,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 1147,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 1148,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 1149,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 1150,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 1151,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 1152,
+  "en": "Poodle",
+  "it": "Barboncino"
+ },
+ {
+  "id": 1153,
+  "en": "Constraint",
+  "it": "Costrizione"
+ },
+ {
+  "id": 1154,
+  "en": "Royal Sword",
+  "it": "Spada Regale"
+ },
+ {
+  "id": 1155,
+  "en": "Snail",
+  "it": "Lumaca"
+ },
+ {
+  "id": 1156,
+  "en": "Shell Bunker",
+  "it": "Bunker Conchiglia"
+ },
+ {
+  "id": 1157,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1158,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1159,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1160,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1161,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1162,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1163,
+  "en": "Iceberg",
+  "it": "Iceberg"
+ },
+ {
+  "id": 1164,
+  "en": "Life",
+  "it": "Vita"
+ },
+ {
+  "id": 1165,
+  "en": "Order",
+  "it": "Ordine"
+ },
+ {
+  "id": 1166,
+  "en": "Order",
+  "it": "Ordine"
+ },
+ {
+  "id": 1167,
+  "en": "Order",
+  "it": "Ordine"
+ },
+ {
+  "id": 1168,
+  "en": "Jewel",
+  "it": "Gioiello"
+ },
+ {
+  "id": 1169,
+  "en": "Mischief",
+  "it": "Dispetto"
+ },
+ {
+  "id": 1170,
+  "en": "Arrow Quill",
+  "it": "Penna Freccia"
+ },
+ {
+  "id": 1171,
+  "en": "Dancing",
+  "it": "Danza"
+ },
+ {
+  "id": 1172,
+  "en": "Dancing",
+  "it": "Danza"
+ },
+ {
+  "id": 1173,
+  "en": "Dancing",
+  "it": "Danza"
+ },
+ {
+  "id": 1174,
+  "en": "Puppy",
+  "it": "Cagnolino"
+ },
+ {
+  "id": 1175,
+  "en": "Wolf",
+  "it": "Lupo"
+ },
+ {
+  "id": 1176,
+  "en": "Wolf",
+  "it": "Lupo"
+ },
+ {
+  "id": 1177,
+  "en": "Small Fry",
+  "it": "Pesciolino"
+ },
+ {
+  "id": 1178,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1179,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1180,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1181,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1182,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1183,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1184,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1185,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1186,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1187,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1188,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1189,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1190,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1191,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1192,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1193,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1194,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1195,
+  "en": "Synthetic",
+  "it": "Sintetico"
+ },
+ {
+  "id": 1196,
+  "en": "Meteor",
+  "it": "Meteora"
+ },
+ {
+  "id": 1197,
+  "en": "Meteor",
+  "it": "Meteora"
+ },
+ {
+  "id": 1198,
+  "en": "Meteor",
+  "it": "Meteora"
+ },
+ {
+  "id": 1199,
+  "en": "Meteor",
+  "it": "Meteora"
+ },
+ {
+  "id": 1200,
+  "en": "Meteor",
+  "it": "Meteora"
+ },
+ {
+  "id": 1201,
+  "en": "Meteor",
+  "it": "Meteora"
+ },
+ {
+  "id": 1202,
+  "en": "Meteor",
+  "it": "Meteora"
+ },
+ {
+  "id": 1203,
+  "en": "Disguise",
+  "it": "Travestimento"
+ },
+ {
+  "id": 1204,
+  "en": "Prism",
+  "it": "Prisma"
+ },
+ {
+  "id": 1205,
+  "en": "Prism",
+  "it": "Prisma"
+ },
+ {
+  "id": 1206,
+  "en": "Prism",
+  "it": "Prisma"
+ },
+ {
+  "id": 1207,
+  "en": "Prism",
+  "it": "Prisma"
+ },
+ {
+  "id": 1208,
+  "en": "Artificial",
+  "it": "Artificiale"
+ },
+ {
+  "id": 1209,
+  "en": "Gulp",
+  "it": "Inghiotti"
+ },
+ {
+  "id": 1210,
+  "en": "Gulp",
+  "it": "Inghiotti"
+ },
+ {
+  "id": 1211,
+  "en": "Punk",
+  "it": "Punk"
+ },
+ {
+  "id": 1212,
+  "en": "Black Tea",
+  "it": "Tè Nero"
+ },
+ {
+  "id": 1213,
+  "en": "Black Tea",
+  "it": "Tè Nero"
+ },
+ {
+  "id": 1214,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1215,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1216,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1217,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1218,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1219,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1220,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1221,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1222,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1223,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1224,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1225,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1226,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1227,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1228,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1229,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1230,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1231,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1232,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1233,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1234,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1235,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1236,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1237,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1238,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1239,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1240,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1241,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1242,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1243,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1244,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1245,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1246,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1247,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1248,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1249,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1250,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1251,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1252,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1253,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1254,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1255,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1256,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1257,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1258,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1259,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1260,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1261,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1262,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1263,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1264,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1265,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1266,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1267,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1268,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1269,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1270,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1271,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1272,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1273,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1274,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1275,
+  "en": "Cream",
+  "it": "Panna"
+ },
+ {
+  "id": 1276,
+  "en": "Penguin",
+  "it": "Pinguino"
+ },
+ {
+  "id": 1277,
+  "en": "Emotion",
+  "it": "Emozione"
+ },
+ {
+  "id": 1278,
+  "en": "Two-Sided",
+  "it": "Doppia Faccia"
+ },
+ {
+  "id": 1279,
+  "en": "Warrior",
+  "it": "Guerriero"
+ },
+ {
+  "id": 1280,
+  "en": "Warrior",
+  "it": "Guerriero"
+ },
+ {
+  "id": 1281,
+  "en": "Wushu",
+  "it": "Wushu"
+ },
+ {
+  "id": 1282,
+  "en": "High King",
+  "it": "Gran Re"
+ },
+ {
+  "id": 1283,
+  "en": "High King",
+  "it": "Gran Re"
+ },
+ {
+  "id": 1284,
+  "en": "Big Fish",
+  "it": "Pesce Grosso"
+ },
+ {
+  "id": 1285,
+  "en": "Love-Hate",
+  "it": "Amoreodio"
+ }
+]

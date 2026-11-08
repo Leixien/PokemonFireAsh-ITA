@@ -1,0 +1,232 @@
+[
+ {
+  "id": "It's a book. The title is <i>The Charizard of Oz</i>.",
+  "en": "It's a book. The title is <i>The Charizard of Oz</i>.",
+  "it": "È un libro. Il titolo è <i>Il Charizard di Oz</i>."
+ },
+ {
+  "id": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
+  "en": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
+  "it": "\\bEhm...\\nAh, sì, sono il Cancellamosse."
+ },
+ {
+  "id": "\\bI can make Pokémon forget their moves.",
+  "en": "\\bI can make Pokémon forget their moves.",
+  "it": "\\bPosso far dimenticare le mosse ai Pokémon."
+ },
+ {
+  "id": "\\bWould you like me to do that?",
+  "en": "\\bWould you like me to do that?",
+  "it": "\\bVuoi che lo faccia?"
+ },
+ {
+  "id": "\\bWhich Pokémon should forget a move?",
+  "en": "\\bWhich Pokémon should forget a move?",
+  "it": "\\bQuale Pokémon deve dimenticare una mossa?"
+ },
+ {
+  "id": "\\bCome again if there are moves that need to be forgotten.",
+  "en": "\\bCome again if there are moves that need to be forgotten.",
+  "it": "\\bTorna pure se ci sono mosse da far dimenticare."
+ },
+ {
+  "id": "\\bWhat? No Egg should know any moves.",
+  "en": "\\bWhat? No Egg should know any moves.",
+  "it": "\\bCosa? Un Uovo non dovrebbe conoscere nessuna mossa."
+ },
+ {
+  "id": "\\bWhat? I can't make a Shadow Pokémon forget a move.",
+  "en": "\\bWhat? I can't make a Shadow Pokémon forget a move.",
+  "it": "\\bCosa? Non posso far dimenticare una mossa a un Pokémon Ombra."
+ },
+ {
+  "id": "\\b\\v[3] seems to know only one move...",
+  "en": "\\b\\v[3] seems to know only one move...",
+  "it": "\\bSembra che \\v[3] conosca una sola mossa..."
+ },
+ {
+  "id": "\\bWhich move should be forgotten?",
+  "en": "\\bWhich move should be forgotten?",
+  "it": "\\bQuale mossa deve essere dimenticata?"
+ },
+ {
+  "id": "\\bHm! \\v[3]'s \\v[4]? That move should be forgotten?",
+  "en": "\\bHm! \\v[3]'s \\v[4]? That move should be forgotten?",
+  "it": "\\bUhm! \\v[4] di \\v[3]? Vuoi che dimentichi questa mossa?"
+ },
+ {
+  "id": "\\bIt worked to perfection!",
+  "en": "\\bIt worked to perfection!",
+  "it": "\\bHa funzionato alla perfezione!"
+ },
+ {
+  "id": "\\b\\v[3] has forgotten \\v[4] completely.",
+  "en": "\\b\\v[3] has forgotten \\v[4] completely.",
+  "it": "\\b\\v[3] ha dimenticato completamente \\v[4]."
+ },
+ {
+  "id": "\\bRoark is strong. He uses Rock types!",
+  "en": "\\bRoark is strong. He uses Rock types!",
+  "it": "\\bPedro è forte. Usa i tipi Roccia!"
+ },
+ {
+  "id": "\\bWelcome to the Canalave City Library. Fell free to look around.",
+  "en": "\\bWelcome to the Canalave City Library. Fell free to look around.",
+  "it": "\\bBenvenuto alla Biblioteca di Canalipoli. Sentiti libero di dare un'occhiata."
+ },
+ {
+  "id": "\\rByron is strong. He uses Steel types!",
+  "en": "\\rByron is strong. He uses Steel types!",
+  "it": "\\rFerruccio è forte. Usa i tipi Acciaio!"
+ },
+ {
+  "id": "\\rDawn: You made it.",
+  "en": "\\rDawn: You made it.",
+  "it": "\\rLucinda: Ce l'hai fatta."
+ },
+ {
+  "id": "It's a book. The title is <i>Detective Pikachu</i>.",
+  "en": "It's a book. The title is <i>Detective Pikachu</i>.",
+  "it": "È un libro. Il titolo è <i>Detective Pikachu</i>."
+ },
+ {
+  "id": "It's a book. The title is <i>Zubatman vs. Spinarakman: the Crossover</i>.",
+  "en": "It's a book. The title is <i>Zubatman vs. Spinarakman: the Crossover</i>.",
+  "it": "È un libro. Il titolo è <i>Zubatman contro Spinarakman: il crossover</i>."
+ },
+ {
+  "id": "\\bThe kids can't decide who the best Gym Leader is. I prefer Jasmine to be honest.",
+  "en": "\\bThe kids can't decide who the best Gym Leader is. I prefer Jasmine to be honest.",
+  "it": "\\bI ragazzi non riescono a decidere chi sia il Capopalestra migliore. A essere sincero, io preferisco Jasmine."
+ },
+ {
+  "id": "A bunch of books. Best to leave them alone.",
+  "en": "A bunch of books. Best to leave them alone.",
+  "it": "Un mucchio di libri. Meglio lasciarli stare."
+ },
+ {
+  "id": "\\rWho are you? Have you no respect for privacy. Kids these days...",
+  "en": "\\rWho are you? Have you no respect for privacy.  Kids these days...",
+  "it": "\\rChi sei? Non hai rispetto per la privacy? I ragazzi d'oggi..."
+ },
+ {
+  "id": "\\bWait, what? Why do you assume I use birds?",
+  "en": "\\bWait, what? Why do you assume I use birds?",
+  "it": "\\bAspetta, cosa? Perché dai per scontato che io usi gli uccelli?"
+ },
+ {
+  "id": "\\bGoh: The history here is incredible. I'd like to try out some of their technology.",
+  "en": "\\bGoh: The history here is incredible. I'd like to try out some of their technology.",
+  "it": "\\bGoh: La storia di questo posto è incredibile. Mi piacerebbe provare un po' della loro tecnologia."
+ },
+ {
+  "id": "\\bCan't find any books you like? Maybe this will satisfy you better.",
+  "en": "\\bCan't find any books you like? Maybe this will satisfy you better.",
+  "it": "\\bNon trovi nessun libro che ti piace? Forse questo ti soddisferà di più."
+ },
+ {
+  "id": "\\bKnowledge is power. It's best to be armed and ready.",
+  "en": "\\bKnowledge is power. It's best to be armed and ready.",
+  "it": "\\bIl sapere è potere. Meglio essere armati e pronti."
+ },
+ {
+  "id": "\\rCynthia: \\PN, I didn't know you were interested in history.",
+  "en": "\\rCynthia: \\PN, I didn't know you were interested in history. ",
+  "it": "\\rCamilla: \\PN, non sapevo che ti interessasse la storia. "
+ },
+ {
+  "id": "\\rDawn: So long as it involves Pokémon.",
+  "en": "\\rDawn: So long as it involves Pokémon.",
+  "it": "\\rLucinda: Basta che riguardi i Pokémon."
+ },
+ {
+  "id": "\\rCynthia: It does. Back in ancient times, when Sinnoh was known as Hisui, Pokémon and humans were just learning how to coexist.",
+  "en": "\\rCynthia: It does. Back in ancient times, when Sinnoh was known as Hisui, Pokémon and humans were just learning how to coexist.",
+  "it": "\\rCamilla: Li riguarda eccome. Nell'antichità, quando Sinnoh era conosciuta come Hisui, Pokémon ed esseri umani stavano appena imparando a convivere."
+ },
+ {
+  "id": "\\rRare Pokémon existed as well, such as regional forms for Growlithe and Braviary, and evolutions of Stantler and Basculin.",
+  "en": "\\rRare Pokémon existed as well, such as regional forms for Growlithe and Braviary, and evolutions of Stantler and Basculin.",
+  "it": "\\rEsistevano anche Pokémon rari, come le forme regionali di Growlithe e Braviary e le evoluzioni di Stantler e Basculin."
+ },
+ {
+  "id": "\\bGoh: How did people catch them?",
+  "en": "\\bGoh: How did people catch them?",
+  "it": "\\bGoh: Come facevano a catturarli?"
+ },
+ {
+  "id": "\\rThere are some schematics behind me. Wooden Poké Ball were the primary method.",
+  "en": "\\rThere are some schematics behind me. Wooden Poké Ball were the primary method.",
+  "it": "\\rDietro di me ci sono degli schemi. Le Poké Ball di legno erano il metodo principale."
+ },
+ {
+  "id": "\\rThere were also records of some Pokémon being brought to the region. I'm studying them to see how they affected the ecosystem.",
+  "en": "\\rThere were also records of some Pokémon being brought to the region. I'm studying them to see how they affected the ecosystem.",
+  "it": "\\rCi sono anche documenti su alcuni Pokémon portati nella regione. Li sto studiando per capire come abbiano influito sull'ecosistema."
+ },
+ {
+  "id": "\\rSpeaking of, would you like one for yourself?",
+  "en": "\\rSpeaking of, would you like one for yourself?",
+  "it": "\\rA proposito, ne vorresti uno tutto per te?"
+ },
+ {
+  "id": "There is no room for it.",
+  "en": "There is no room for it.",
+  "it": "Non c'è spazio."
+ },
+ {
+  "id": "\\rCynthia: Fair choice. It-",
+  "en": "\\rCynthia: Fair choice. It-",
+  "it": "\\rCamilla: Ottima scelta. È-"
+ },
+ {
+  "id": "\\rDawn: Did you all feel that?",
+  "en": "\\rDawn: Did you all feel that?",
+  "it": "\\rLucinda: L'avete sentito anche voi?"
+ },
+ {
+  "id": "\\rCynthia: I did. I think it came from Mount Coronet.",
+  "en": "\\rCynthia: I did. I think it came from Mount Coronet.",
+  "it": "\\rCamilla: Sì. Credo che venisse dal Monte Corona."
+ },
+ {
+  "id": "\\rMy Pokémon are fidgiting in their Poké Balls from it. Come on. There's no time to waste.",
+  "en": "\\rMy Pokémon are fidgiting in their Poké Balls from it.  Come on. There's no time to waste.",
+  "it": "\\rI miei Pokémon si agitano nelle loro Poké Ball per colpa di questo. Forza. Non c'è tempo da perdere."
+ },
+ {
+  "id": "\\rCynthia: We'll break here and leave soon. Be sure to have your Pokémon fully healed before we go.",
+  "en": "\\rCynthia: We'll break here and leave soon. Be sure to have your Pokémon fully healed before we go.",
+  "it": "\\rCamilla: Facciamo una pausa qui e poi ripartiamo. Assicurati che i tuoi Pokémon siano in piena forma prima di andare."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Rowlet",
+  "en": "Rowlet",
+  "it": "Rowlet"
+ },
+ {
+  "id": "Cyndaquil",
+  "en": "Cyndaquil",
+  "it": "Cyndaquil"
+ },
+ {
+  "id": "Oshawott",
+  "en": "Oshawott",
+  "it": "Oshawott"
+ },
+ {
+  "id": "None",
+  "en": "None",
+  "it": "Nessuno"
+ }
+]

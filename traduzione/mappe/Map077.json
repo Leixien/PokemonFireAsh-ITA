@@ -1,0 +1,212 @@
+[
+ {
+  "id": "\\rMy daddy loves Pokémon!",
+  "en": "\\rMy daddy loves Pokémon!",
+  "it": "\\rIl mio papà adora i Pokémon!"
+ },
+ {
+  "id": "\\bOak: Good, you're here. Whenever you're ready to leave speak to the guy to your right.",
+  "en": "\\bOak: Good, you're here. Whenever you're ready to leave speak to the guy to your right.",
+  "it": "\\bOak: Bene, sei arrivato. Quando sei pronto a partire, parla con il tizio alla tua destra."
+ },
+ {
+  "id": "\\rMom: This trip is going to be so exciting!",
+  "en": "\\rMom: This trip is going to be so exciting!",
+  "it": "\\rMamma: Questo viaggio sarà davvero emozionante!"
+ },
+ {
+  "id": "\\bKukui: To Pallet Town we go.",
+  "en": "\\bKukui: To Pallet Town we go.",
+  "it": "\\bKukui: Si parte per Biancavilla!"
+ },
+ {
+  "id": "\\bMr. Mime",
+  "en": "\\bMr. Mime",
+  "it": "\\bMr. Mime"
+ },
+ {
+  "id": "\\bComing up with nicknames is fun, but it's not so easy to do.",
+  "en": "\\bComing up with nicknames is fun, but it's not so easy to do.",
+  "it": "\\bInventare soprannomi è divertente, ma non è così facile."
+ },
+ {
+  "id": "\\rWhew! I'm trying to memorize all my notes.",
+  "en": "\\rWhew! I'm trying to memorize all my notes.",
+  "it": "\\rUff! Sto cercando di imparare a memoria tutti i miei appunti."
+ },
+ {
+  "id": "\\bSpearow",
+  "en": "\\bSpearow",
+  "it": "\\bSpearow"
+ },
+ {
+  "id": "\\rBe sure to read what's on the blackboard carefully!",
+  "en": "\\rBe sure to read what's on the blackboard carefully!",
+  "it": "\\rLeggi con attenzione quello che c'è scritto sulla lavagna!"
+ },
+ {
+  "id": "\\rMy son left on a journey a long time ago. The house has been very empty since then.",
+  "en": "\\rMy son left on a journey a long time ago. The house has been very empty since then.",
+  "it": "\\rMio figlio è partito per un viaggio tanto tempo fa. Da allora la casa è rimasta molto vuota."
+ },
+ {
+  "id": "Choose a status option.",
+  "en": "Choose a status option.",
+  "it": "Scegli un problema di stato."
+ },
+ {
+  "id": "A Pokémon can't attack if it is asleep.",
+  "en": "A Pokémon can't attack if it is asleep.",
+  "it": "Un Pokémon addormentato non può attaccare."
+ },
+ {
+  "id": "Pokémon will stay asleep even after battles.",
+  "en": "Pokémon will stay asleep even after battles.",
+  "it": "I Pokémon restano addormentati anche dopo la lotta."
+ },
+ {
+  "id": "Use Awkening to awaken one from sleep.",
+  "en": "Use Awkening to awaken one from sleep.",
+  "it": "Usa una Sveglia per risvegliarne uno dal sonno."
+ },
+ {
+  "id": "A burn reduces attack power. It also causes ongoing HP loss.",
+  "en": "A burn reduces attack power. It also causes ongoing HP loss.",
+  "it": "La scottatura riduce la potenza d'attacco e fa perdere PS a ogni turno."
+ },
+ {
+  "id": "A burn remains after battle. Use Bun Heal to cure a burn.",
+  "en": "A burn remains after battle. Use Bun Heal to cure a burn.",
+  "it": "La scottatura resta anche dopo la lotta. Usa un Antiscottatura per curarla."
+ },
+ {
+  "id": "When poisoned, a Pokémon's health steadily drops.",
+  "en": "When poisoned, a Pokémon's health steadily drops. ",
+  "it": "Quando è avvelenato, la salute di un Pokémon cala costantemente."
+ },
+ {
+  "id": "Poison lingers after battles. Use an Antidote to cure poison!",
+  "en": "Poison lingers after battles. Use an Antidote to cure poison!",
+  "it": "L'avvelenamento persiste dopo la lotta. Usa un Antidoto per curarlo!"
+ },
+ {
+  "id": "Paralysis reduces speed and may prevent the Pokémon from moving.",
+  "en": "Paralysis reduces speed and may prevent the Pokémon from moving.",
+  "it": "La paralisi riduce la velocità e può impedire al Pokémon di muoversi."
+ },
+ {
+  "id": "Paralysis remains after battles. Use Parlyz Heal for treatment.",
+  "en": "Paralysis remains after battles. Use Parlyz Heal for treatment.",
+  "it": "La paralisi resta anche dopo la lotta. Usa un Antiparalisi per curarla."
+ },
+ {
+  "id": "It stays frozen even after the battle ends.",
+  "en": "It stays frozen even after the battle ends.",
+  "it": "Resta congelato anche dopo la fine della lotta."
+ },
+ {
+  "id": "A frozen Pokémon becomes helplessly immobile.",
+  "en": "A frozen Pokémon becomes helplessly immobile.",
+  "it": "Un Pokémon congelato resta del tutto immobile."
+ },
+ {
+  "id": "Use Ice Heal to thaw out the suffering Pokémon.",
+  "en": "Use Ice Heal to thaw out the suffering Pokémon.",
+  "it": "Usa un Antigelo per scongelare il Pokémon sofferente."
+ },
+ {
+  "id": "When confused, a Pokémon's may attack itself.",
+  "en": "When confused, a Pokémon's may attack itself. ",
+  "it": "Quando è confuso, un Pokémon può colpire se stesso."
+ },
+ {
+  "id": "Confusion does not last if recalled though.",
+  "en": "Confusion does not last if recalled though.",
+  "it": "Però la confusione svanisce se lo si richiama."
+ },
+ {
+  "id": "\\rWelcome to the Viridian City Blimp Service.",
+  "en": "\\rWelcome to the Viridian City Blimp Service.",
+  "it": "\\rBenvenuto al Servizio Dirigibili di Smeraldopoli."
+ },
+ {
+  "id": "\\rWe are currently not taking any customers.",
+  "en": "\\rWe are currently not taking any customers.",
+  "it": "\\rAl momento non accettiamo passeggeri."
+ },
+ {
+  "id": "\\rWe are currently not in service due to a Fearow attacking our blimps whenever we take off. If you can stop it we will let you travel for free.",
+  "en": "\\rWe are currently not in service due to a Fearow attacking our blimps whenever we take off. If you can stop it we will let you travel for free.",
+  "it": "\\rAl momento il servizio è sospeso perché un Fearow attacca i nostri dirigibili ogni volta che decolliamo. Se riesci a fermarlo, ti faremo viaggiare gratis."
+ },
+ {
+  "id": "\\rLast I saw it it was somewhere near Viridian Forest.",
+  "en": "\\rLast I saw it it was somewhere near Viridian Forest.",
+  "it": "\\rL'ultima volta che l'ho visto era da qualche parte vicino al Bosco Smeraldo."
+ },
+ {
+  "id": "\\rGood job on stopping that Fearow. As promised, you can ride for free from now on.",
+  "en": "\\rGood job on stopping that Fearow. As promised, you can ride for free from now on.",
+  "it": "\\rOttimo lavoro con quel Fearow. Come promesso, d'ora in poi potrai viaggiare gratis."
+ },
+ {
+  "id": "\\rWelcome to the Viridian City Blimp Service.\\ch[1,-1, Valencia Island,Nuvema,Lumiose,Alola,Exit]",
+  "en": "\\rWelcome to the Viridian City Blimp Service.\\ch[1,-1, Valencia Island,Nuvema,Lumiose,Alola,Exit]",
+  "it": "\\rBenvenuto al Servizio Dirigibili di Smeraldopoli.\\ch[1,-1, Isola Valencia,Soffiolieve,Luminopoli,Alola,Esci]"
+ },
+ {
+  "id": "Sleep",
+  "en": "Sleep",
+  "it": "Sonno"
+ },
+ {
+  "id": "Burn",
+  "en": "Burn",
+  "it": "Scottatura"
+ },
+ {
+  "id": "Poison",
+  "en": "Poison",
+  "it": "Veleno"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Paralysis",
+  "en": "Paralysis",
+  "it": "Paralisi"
+ },
+ {
+  "id": "Freeze",
+  "en": "Freeze",
+  "it": "Congelamento"
+ },
+ {
+  "id": "Confusion",
+  "en": "Confusion",
+  "it": "Confusione"
+ },
+ {
+  "id": "Valencia Island",
+  "en": "Valencia Island",
+  "it": "Isola Valencia"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Nuvema",
+  "en": "Nuvema",
+  "it": "Soffiolieve"
+ },
+ {
+  "id": "Lumiose",
+  "en": "Lumiose",
+  "it": "Luminopoli"
+ }
+]

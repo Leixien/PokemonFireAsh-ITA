@@ -1,0 +1,167 @@
+[
+ {
+  "id": "\\bOnix",
+  "en": "\\bOnix",
+  "it": "\\bOnix"
+ },
+ {
+  "id": "\\bSteelix",
+  "en": "\\bSteelix",
+  "it": "\\bSteelix"
+ },
+ {
+  "id": "\\bSudowoodo",
+  "en": "\\bSudowoodo",
+  "it": "\\bSudowoodo"
+ },
+ {
+  "id": "\\bGeodude",
+  "en": "\\bGeodude",
+  "it": "\\bGeodude"
+ },
+ {
+  "id": "\\bCroagunk",
+  "en": "\\bCroagunk",
+  "it": "\\bCroagunk"
+ },
+ {
+  "id": "\\bBrock uses Rock type Pokémon. They are weak aganst Water, Grass, Fighting, Ground, and Steel types.",
+  "en": "\\bBrock uses Rock type Pokémon. They are weak aganst Water, Grass, Fighting, Ground, and Steel types.",
+  "it": "\\bBrock usa Pokémon di tipo Roccia. Sono deboli contro i tipi Acqua, Erba, Lotta, Terra e Acciaio."
+ },
+ {
+  "id": "\\bDespite all the weaknesses, they are strong against Fire, Bug, Flying, and Ice. Normal and Poison moves also don't do much damage.",
+  "en": "\\bDespite all the weaknesses, they are strong against Fire, Bug, Flying, and Ice. Normal and Poison moves also don't do much damage.",
+  "it": "\\bNonostante tutte queste debolezze, sono forti contro Fuoco, Coleottero, Volante e Ghiaccio. Anche le mosse di tipo Normale e Veleno non fanno molti danni."
+ },
+ {
+  "id": "\\bCrobat",
+  "en": "\\bCrobat",
+  "it": "\\bCrobat"
+ },
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
+  "id": "\\rBlissey",
+  "en": "\\rBlissey",
+  "it": "\\rBlissey"
+ },
+ {
+  "id": "\\bBattle me now!",
+  "en": "\\bBattle me now!",
+  "it": "\\bLotta con me, adesso!"
+ },
+ {
+  "id": "\\bYou're pretty hot. But not as hot as Brock!",
+  "en": "\\bYou're pretty hot. But not as hot as Brock!",
+  "it": "\\bSei proprio in gamba. Ma non quanto Brock!"
+ },
+ {
+  "id": "\\bLudicolo",
+  "en": "\\bLudicolo",
+  "it": "\\bLudicolo"
+ },
+ {
+  "id": "\\rComfey",
+  "en": "\\rComfey",
+  "it": "\\rComfey"
+ },
+ {
+  "id": "\\bMarshtomp",
+  "en": "\\bMarshtomp",
+  "it": "\\bMarshtomp"
+ },
+ {
+  "id": "\\bBrock: So, you're here. I'm Brock. I'm Pewter City's Gym Leader.",
+  "en": "\\bBrock: So, you're here. I'm Brock. I'm Pewter City's Gym Leader.",
+  "it": "\\bBrock: Allora sei qui. Sono Brock, il Capopalestra di Plumbeopoli."
+ },
+ {
+  "id": "\\bMy rock-hard willpower is shown even in my Pokémon. My Pokémon are all rock hard, and have true-grit determination.",
+  "en": "\\bMy rock-hard willpower is shown even in my Pokémon. My Pokémon are all rock hard, and have true-grit determination.",
+  "it": "\\bLa mia volontà di roccia si riflette anche nei miei Pokémon. Sono tutti duri come la roccia e hanno una determinazione d'acciaio."
+ },
+ {
+  "id": "\\bShow me your best!",
+  "en": "\\bShow me your best!",
+  "it": "\\bMostrami il meglio di te!"
+ },
+ {
+  "id": "\\bBrock: You've earned the Boulder Badge.",
+  "en": "\\bBrock: You've earned the Boulder Badge.",
+  "it": "\\bBrock: Ti sei guadagnato la Medaglia Sasso."
+ },
+ {
+  "id": "\\bHere, have this TM too.",
+  "en": "\\bHere, have this TM too.",
+  "it": "\\bEcco, prendi anche questa MT."
+ },
+ {
+  "id": "\\bA TM, Technical Machine, contains a technique for Pokémon.",
+  "en": "\\bA TM, Technical Machine, contains a technique for Pokémon.",
+  "it": "\\bUna MT, Macchina Tecnica, contiene una tecnica per i Pokémon."
+ },
+ {
+  "id": "\\bTM80 contains Rock Slide. It inflicts damage and has a chance to make the opponent flinch.",
+  "en": "\\bTM80 contains Rock Slide. It inflicts damage and has a chance to make the opponent flinch.",
+  "it": "\\bLa MT80 contiene Frana. Infligge danni e può far tentennare l'avversario."
+ },
+ {
+  "id": "\\bBrock: I actually wanted to be a Pokémon Breeder, not a Gym Leader, but I do it for my family.",
+  "en": "\\bBrock: I actually wanted to be a Pokémon Breeder, not a Gym Leader, but I do it for my family.",
+  "it": "\\bBrock: In realtà volevo diventare un Allevatore di Pokémon, non un Capopalestra, ma lo faccio per la mia famiglia."
+ },
+ {
+  "id": "\\bBrock: \\PN? What are you doing here?",
+  "en": "\\bBrock: \\PN? What are you doing here?",
+  "it": "\\bBrock: \\PN? Che ci fai qui?"
+ },
+ {
+  "id": "\\bCame to see me did you? I'm still training to be a doctor. How are your goals coming?",
+  "en": "\\bCame to see me did you? I'm still training to be a doctor. How are your goals coming?",
+  "it": "\\bSei venuto a trovarmi, eh? Mi sto ancora preparando per diventare medico. E i tuoi obiettivi come procedono?"
+ },
+ {
+  "id": "\\bNevermind. It might be easier to just show me.",
+  "en": "\\bNevermind. It might be easier to just show me.",
+  "it": "\\bLascia stare. Forse è più facile se me lo mostri."
+ },
+ {
+  "id": "\\bBrock: Good to see you \\PN! If you want I can groom one of your Pokémon. It may help it in battle.",
+  "en": "\\bBrock: Good to see you \\PN! If you want I can groom one of your Pokémon. It may help it in battle.",
+  "it": "\\bBrock: Che bello vederti, \\PN! Se vuoi, posso fare la toelettatura a uno dei tuoi Pokémon. Potrebbe aiutarlo in lotta."
+ },
+ {
+  "id": "\\bBrock: Which Pokémon do you want me to groom?",
+  "en": "\\bBrock: Which Pokémon do you want me to groom?",
+  "it": "\\bBrock: A quale Pokémon vuoi che faccia la toelettatura?"
+ },
+ {
+  "id": "\\bBrock: Oh, okay then.",
+  "en": "\\bBrock: Oh, okay then.",
+  "it": "\\bBrock: Oh, va bene allora."
+ },
+ {
+  "id": "\\bBrock: There! \\v[2] looks a lot better now!",
+  "en": "\\bBrock: There!  \\v[2] looks a lot better now!",
+  "it": "\\bBrock: Ecco fatto!  \\v[2] ha un aspetto molto migliore ora!"
+ },
+ {
+  "id": "\\rForretress",
+  "en": "\\rForretress",
+  "it": "\\rForretress"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

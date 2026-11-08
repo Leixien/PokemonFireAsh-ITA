@@ -1,0 +1,347 @@
+[
+ {
+  "id": "Aspertia City Pokémon Gym",
+  "en": "Aspertia City Pokémon Gym",
+  "it": "Palestra Pokémon di Alisopoli"
+ },
+ {
+  "id": "Under construction.",
+  "en": "Under construction.",
+  "it": "In costruzione."
+ },
+ {
+  "id": "\\rI can't wait to start my own journey one day.",
+  "en": "\\rI can't wait to start my own journey one day.",
+  "it": "\\rNon vedo l'ora di iniziare un giorno il mio viaggio."
+ },
+ {
+  "id": "\\bBoldore",
+  "en": "\\bBoldore",
+  "it": "\\bBoldore"
+ },
+ {
+  "id": "Aspertia City\\nA city that reaches for the sky.",
+  "en": "Aspertia City\\nA city that reaches for the sky.",
+  "it": "Alisopoli\\nUna città che si protende verso il cielo."
+ },
+ {
+  "id": "\\bEveryone is helping out to get the gym ready.",
+  "en": "\\bEveryone is helping out to get the gym ready.",
+  "it": "\\bTutti stanno dando una mano per preparare la Palestra."
+ },
+ {
+  "id": "\\bThis leads to the White Ruins. Only Cheren can say who goes here.",
+  "en": "\\bThis leads to the White Ruins. Only Cheren can say who goes here.",
+  "it": "\\bDi qui si va alle Rovine Bianche. Solo Komor può decidere chi entra."
+ },
+ {
+  "id": "\\bEkans",
+  "en": "\\bEkans",
+  "it": "\\bEkans"
+ },
+ {
+  "id": "\\bThe White Ruins is near here. Only powerful Trainers are allowed to enter.",
+  "en": "\\bThe White Ruins is near here. Only powerful Trainers are allowed to enter.",
+  "it": "\\bLe Rovine Bianche sono qui vicino. Solo gli Allenatori forti possono entrare."
+ },
+ {
+  "id": "\\rAlexa: Ah, hello there. Are you one of the natives?",
+  "en": "\\rAlexa: Ah, hello there. Are you one of the natives?",
+  "it": "\\rAlexa: Ah, salve. Sei di queste parti?"
+ },
+ {
+  "id": "\\rOh, you're from Kanto. I've heard of it before. I would love to visit, but I have to get back to Kalos and submit my report.",
+  "en": "\\rOh, you're from Kanto. I've heard of it before. I would love to visit, but I have to get back to Kalos and submit my report.",
+  "it": "\\rOh, vieni da Kanto. Ne ho sentito parlare. Mi piacerebbe visitarla, ma devo tornare a Kalos e consegnare il mio reportage."
+ },
+ {
+  "id": "\\rI take it you've never been to Kalos before. It's a facinating place with lots to do and see. My sister is a gym leader there.",
+  "en": "\\rI take it you've never been to Kalos before. It's a facinating place with lots to do and see. My sister is a gym leader there.",
+  "it": "\\rImmagino che tu non sia mai stato a Kalos. È un posto affascinante, con un sacco di cose da fare e da vedere. Mia sorella è Capopalestra lì."
+ },
+ {
+  "id": "\\rYou seem interested in gyms. You should come visit.",
+  "en": "\\rYou seem interested in gyms. You should come visit.",
+  "it": "\\rSembri interessato alle Palestre. Dovresti venire a trovarci."
+ },
+ {
+  "id": "\\rI'm going to head home now. I would suggest you do the same.",
+  "en": "\\rI'm going to head home now. I would suggest you do the same.",
+  "it": "\\rIo ora torno a casa. Ti consiglierei di fare lo stesso."
+ },
+ {
+  "id": "\\rAlexa: I'm going to head home now. I would suggest you do the same.",
+  "en": "\\rAlexa: I'm going to head home now. I would suggest you do the same.",
+  "it": "\\rAlexa: Io ora torno a casa. Ti consiglierei di fare lo stesso."
+ },
+ {
+  "id": "\\bYou look strong. Maybe you can go battle Cheren for me. He needs some practice.",
+  "en": "\\bYou look strong. Maybe you can go battle Cheren for me. He needs some practice.",
+  "it": "\\bSembri forte. Magari puoi andare a sfidare Komor al posto mio. Ha bisogno di fare pratica."
+ },
+ {
+  "id": "\\rKrabby",
+  "en": "\\rKrabby",
+  "it": "\\rKrabby"
+ },
+ {
+  "id": "\\rWant to learn Secret Sword?",
+  "en": "\\rWant to learn Secret Sword?",
+  "it": "\\rVuoi imparare Spadamistica?"
+ },
+ {
+  "id": "\\rCome back anytime!",
+  "en": "\\rCome back anytime!",
+  "it": "\\rTorna quando vuoi!"
+ },
+ {
+  "id": "\\bI heard Cheren said you could enter. Good luck.",
+  "en": "\\bI heard Cheren said you could enter. Good luck.",
+  "it": "\\bHo sentito che Komor ti ha dato il permesso di entrare. Buona fortuna."
+ },
+ {
+  "id": "\\bWe are finally getting a gym leader! The tourists are going to be coming any day now.",
+  "en": "\\bWe are finally getting a gym leader! The tourists are going to be coming any day now.",
+  "it": "\\bFinalmente avremo un Capopalestra! I turisti arriveranno da un giorno all'altro."
+ },
+ {
+  "id": "\\rAh, there you are! My husband was looking for you.",
+  "en": "\\rAh, there you are! My husband was looking for you.",
+  "it": "\\rAh, eccoti! Mio marito ti stava cercando."
+ },
+ {
+  "id": "\\rI'm the Day-Care Lady. We can raise Pokémon for you.",
+  "en": "\\rI'm the Day-Care Lady. We can raise Pokémon for you.",
+  "it": "\\rSono la Signora della Pensione. Possiamo allevare i tuoi Pokémon."
+ },
+ {
+  "id": "\\rWould you like us to raise your Pokémon?",
+  "en": "\\rWould you like us to raise your Pokémon?",
+  "it": "\\rVuoi che alleviamo un tuo Pokémon?"
+ },
+ {
+  "id": "\\rOh? But you only have one Pokémon with you.",
+  "en": "\\rOh? But you only have one Pokémon with you.",
+  "it": "\\rOh? Ma hai un solo Pokémon con te."
+ },
+ {
+  "id": "\\rYou can't go off without a Pokémon. Come back another time.",
+  "en": "\\rYou can't go off without a Pokémon. Come back another time.",
+  "it": "\\rNon puoi andartene senza un Pokémon. Torna un'altra volta."
+ },
+ {
+  "id": "\\rWhich Pokémon should we raise for you?",
+  "en": "\\rWhich Pokémon should we raise for you?",
+  "it": "\\rQuale Pokémon dobbiamo allevare?"
+ },
+ {
+  "id": "\\rOh, fine, then.\\nCome again.",
+  "en": "\\rOh, fine, then.\\nCome again.",
+  "it": "\\rOh, va bene, allora.\\nTorna presto."
+ },
+ {
+  "id": "\\rIf you leave me that Pokémon, what are you gonna battle with?",
+  "en": "\\rIf you leave me that Pokémon, what are you gonna battle with?",
+  "it": "\\rSe mi lasci quel Pokémon, con cosa lotterai?"
+ },
+ {
+  "id": "\\rCome back another time.",
+  "en": "\\rCome back another time.",
+  "it": "\\rTorna un'altra volta."
+ },
+ {
+  "id": "\\rFine, we'll raise your \\v[3] for a while.",
+  "en": "\\rFine, we'll raise your \\v[3] for a while.",
+  "it": "\\rBene, alleveremo il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\rCome back for it later.",
+  "en": "\\rCome back for it later.",
+  "it": "\\rTorna a prenderlo più tardi."
+ },
+ {
+  "id": "\\rWe can raise two of your Pokémon. Would you like us to raise another?",
+  "en": "\\rWe can raise two of your Pokémon. Would you like us to raise another?",
+  "it": "\\rPossiamo allevare due dei tuoi Pokémon. Vuoi che ne alleviamo un altro?"
+ },
+ {
+  "id": "\\rVery good. Come again.",
+  "en": "\\rVery good. Come again.",
+  "it": "\\rMolto bene. Torna a trovarmi."
+ },
+ {
+  "id": "\\rAh, it's you! Good to see you. Now, about your Pokémon...",
+  "en": "\\rAh, it's you! Good to see you. Now, about your Pokémon...",
+  "it": "\\rAh, sei tu! Che piacere vederti. Allora, riguardo ai tuoi Pokémon..."
+ },
+ {
+  "id": "\\rBy level, your \\v[3] has grown by about \\v[4].",
+  "en": "\\rBy level, your \\v[3] has grown by about \\v[4].",
+  "it": "\\rIl tuo \\v[3] è salito di circa \\v[4] livelli."
+ },
+ {
+  "id": "\\rDo you want your Pokémon back?",
+  "en": "\\rDo you want your Pokémon back?",
+  "it": "\\rVuoi riprenderti il tuo Pokémon?"
+ },
+ {
+  "id": "\\rYour Pokémon team is full. Make room, then come see me.",
+  "en": "\\rYour Pokémon team is full. Make room, then come see me.",
+  "it": "\\rLa tua squadra è al completo. Fai spazio e poi torna da me."
+ },
+ {
+  "id": "Which one do you want back?",
+  "en": "Which one do you want back?",
+  "it": "Quale vuoi riprenderti?"
+ },
+ {
+  "id": "\\G\\rIf you want your \\v[3] back, it will cost $\\v[4].",
+  "en": "\\G\\rIf you want your \\v[3] back, it will cost $\\v[4].",
+  "it": "\\G\\rSe rivuoi il tuo \\v[3], ti costerà $\\v[4]."
+ },
+ {
+  "id": "\\G\\rYou don't have enough money...",
+  "en": "\\G\\rYou don't have enough money...",
+  "it": "\\G\\rNon hai abbastanza soldi..."
+ },
+ {
+  "id": "\\G\\rExcellent\\nHere's your Pokémon.",
+  "en": "\\G\\rExcellent\\nHere's your Pokémon.",
+  "it": "\\G\\rPerfetto!\\nEcco il tuo Pokémon."
+ },
+ {
+  "id": "\\PN took \\v[3] back from the Day-Care Lady.",
+  "en": "\\PN took \\v[3] back from the Day-Care Lady.",
+  "it": "\\PN ha ripreso \\v[3] dalla Signora della Pensione."
+ },
+ {
+  "id": "\\rDo you want to take back the other one, too?",
+  "en": "\\rDo you want to take back the other one, too?",
+  "it": "\\rVuoi riprenderti anche l'altro?"
+ },
+ {
+  "id": "\\rYou've already entered the league? You're a special Trainer alright.",
+  "en": "\\rYou've already entered the league? You're a special Trainer alright.",
+  "it": "\\rSei già entrato nella Lega? Sei proprio un Allenatore speciale."
+ },
+ {
+  "id": "\\bAh, it's you!",
+  "en": "\\bAh, it's you!",
+  "it": "\\bAh, sei tu!"
+ },
+ {
+  "id": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "en": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "it": "\\bStavamo allevando il tuo Pokémon e, santo cielo, che sorpresa!"
+ },
+ {
+  "id": "\\bYour Pokémon was holding an Egg!",
+  "en": "\\bYour Pokémon was holding an Egg!",
+  "it": "\\bIl tuo Pokémon aveva con sé un Uovo!"
+ },
+ {
+  "id": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "en": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "it": "\\bNon sappiamo come ci sia finito, ma ce l'aveva il tuo Pokémon."
+ },
+ {
+  "id": "\\bYou do want it, don't you?",
+  "en": "\\bYou do want it, don't you?",
+  "it": "\\bLo vuoi, vero?"
+ },
+ {
+  "id": "\\bYou have no room for it right now... Come back when you've made room.",
+  "en": "\\bYou have no room for it right now... Come back when you've made room.",
+  "it": "\\bAl momento non hai spazio... Torna quando ne avrai fatto."
+ },
+ {
+  "id": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "en": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "it": "\\me[Egg get]\\PN ha ricevuto l'Uovo dal signore della Pensione."
+ },
+ {
+  "id": "\\bYou take good care of it.",
+  "en": "\\bYou take good care of it.",
+  "it": "\\bAbbine cura, mi raccomando."
+ },
+ {
+  "id": "\\bI really will keep it. You do want this Egg, yes?",
+  "en": "\\bI really will keep it. You do want this Egg, yes?",
+  "it": "\\bAllora lo tengo davvero. Lo vuoi questo Uovo, sì?"
+ },
+ {
+  "id": "\\bWell all right then, I'll take it. Thank you.",
+  "en": "\\bWell all right then, I'll take it. Thank you.",
+  "it": "\\bVa bene, allora lo prendo io. Grazie."
+ },
+ {
+  "id": "\\bThat is, I don't think we'll ever find another...",
+  "en": "\\bThat is, I don't think we'll ever find another...",
+  "it": "\\bCioè, non credo che ne troveremo mai un altro..."
+ },
+ {
+  "id": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "en": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "it": "\\bNo, no, sono sicuro che ne troveremo un altro. Ne sono assolutamente certo!"
+ },
+ {
+  "id": "\\bI'm the Day-Care Man.",
+  "en": "\\bI'm the Day-Care Man.",
+  "it": "\\bSono il Signore della Pensione."
+ },
+ {
+  "id": "\\bI help take care of the precious Pokémon of trainers.",
+  "en": "\\bI help take care of the precious Pokémon of trainers.",
+  "it": "\\bAiuto ad accudire i preziosi Pokémon degli Allenatori."
+ },
+ {
+  "id": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "en": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "it": "\\bSe vuoi far allevare un Pokémon, puoi lasciarlo alle cure di mia moglie."
+ },
+ {
+  "id": "\\bAh, it's you!\\nGood to see you!",
+  "en": "\\bAh, it's you!\\nGood to see you!",
+  "it": "\\bAh, sei tu!\\nChe piacere vederti!"
+ },
+ {
+  "id": "\\bYour \\v[3] is doing just fine.",
+  "en": "\\bYour \\v[3] is doing just fine.",
+  "it": "\\bIl tuo \\v[3] sta benissimo."
+ },
+ {
+  "id": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "en": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "it": "\\bI tuoi \\v[3] e \\v[4] stanno benissimo."
+ },
+ {
+  "id": "\\bThe two play with other Pokémon rather than with each other...",
+  "en": "\\bThe two play with other Pokémon rather than with each other...",
+  "it": "\\bQuei due preferiscono giocare con altri Pokémon piuttosto che tra loro..."
+ },
+ {
+  "id": "\\bThe two don't seem to like each other much.",
+  "en": "\\bThe two don't seem to like each other much.",
+  "it": "\\bQuei due non sembrano piacersi molto."
+ },
+ {
+  "id": "\\bThe two seem to get along.",
+  "en": "\\bThe two seem to get along.",
+  "it": "\\bQuei due sembrano andare d'accordo."
+ },
+ {
+  "id": "\\bThe two seem to get along very well.",
+  "en": "\\bThe two seem to get along very well.",
+  "it": "\\bQuei due sembrano andare molto d'accordo."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

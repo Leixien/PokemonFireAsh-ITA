@@ -1,0 +1,4262 @@
+[
+ {
+  "id": 1,
+  "en": "Megahorn",
+  "it": "Megacorno"
+ },
+ {
+  "id": 2,
+  "en": "Attack Order",
+  "it": "Comandourto"
+ },
+ {
+  "id": 3,
+  "en": "Bug Buzz",
+  "it": "Ronzio"
+ },
+ {
+  "id": 4,
+  "en": "First Impression",
+  "it": "Primimpatto"
+ },
+ {
+  "id": 5,
+  "en": "Pollen Puff",
+  "it": "Pollinebomba"
+ },
+ {
+  "id": 6,
+  "en": "Leech Life",
+  "it": "Sanguisuga"
+ },
+ {
+  "id": 7,
+  "en": "Lunge",
+  "it": "Assalto"
+ },
+ {
+  "id": 8,
+  "en": "X-Scissor",
+  "it": "Forbice X"
+ },
+ {
+  "id": 9,
+  "en": "Signal Beam",
+  "it": "Segnoraggio"
+ },
+ {
+  "id": 10,
+  "en": "U-turn",
+  "it": "Retromarcia"
+ },
+ {
+  "id": 11,
+  "en": "Steamroller",
+  "it": "Rulloduro"
+ },
+ {
+  "id": 12,
+  "en": "Bug Bite",
+  "it": "Coleomorso"
+ },
+ {
+  "id": 13,
+  "en": "Silver Wind",
+  "it": "Ventargenteo"
+ },
+ {
+  "id": 14,
+  "en": "Fell Stinger",
+  "it": "Pungiglione"
+ },
+ {
+  "id": 15,
+  "en": "Struggle Bug",
+  "it": "Entomoblocco"
+ },
+ {
+  "id": 16,
+  "en": "Fury Cutter",
+  "it": "Tagliofuria"
+ },
+ {
+  "id": 17,
+  "en": "Pin Missile",
+  "it": "Missilspillo"
+ },
+ {
+  "id": 18,
+  "en": "Twineedle",
+  "it": "Doppio Ago"
+ },
+ {
+  "id": 19,
+  "en": "Infestation",
+  "it": "Infestazione"
+ },
+ {
+  "id": 20,
+  "en": "Defend Order",
+  "it": "Comandoscudo"
+ },
+ {
+  "id": 21,
+  "en": "Heal Order",
+  "it": "Comandocura"
+ },
+ {
+  "id": 22,
+  "en": "Powder",
+  "it": "Polverone"
+ },
+ {
+  "id": 23,
+  "en": "Quiver Dance",
+  "it": "Eledanza"
+ },
+ {
+  "id": 24,
+  "en": "Rage Powder",
+  "it": "Polverabbia"
+ },
+ {
+  "id": 25,
+  "en": "Spider Web",
+  "it": "Ragnatela"
+ },
+ {
+  "id": 26,
+  "en": "Sticky Web",
+  "it": "Rete Vischiosa"
+ },
+ {
+  "id": 27,
+  "en": "String Shot",
+  "it": "Millebave"
+ },
+ {
+  "id": 28,
+  "en": "Tail Glow",
+  "it": "Codadiluce"
+ },
+ {
+  "id": 29,
+  "en": "Skitter Smack",
+  "it": "Assaltozampe"
+ },
+ {
+  "id": 30,
+  "en": "Hyperspace Fury",
+  "it": "Urtoscasso"
+ },
+ {
+  "id": 31,
+  "en": "Foul Play",
+  "it": "Ripicca"
+ },
+ {
+  "id": 32,
+  "en": "Darkest Lariat",
+  "it": "Braccioteso"
+ },
+ {
+  "id": 33,
+  "en": "Night Daze",
+  "it": "Urtonotturno"
+ },
+ {
+  "id": 34,
+  "en": "Crunch",
+  "it": "Sgranocchio"
+ },
+ {
+  "id": 35,
+  "en": "Dark Pulse",
+  "it": "Neropulsar"
+ },
+ {
+  "id": 36,
+  "en": "Throat Chop",
+  "it": "Malagola"
+ },
+ {
+  "id": 37,
+  "en": "Night Slash",
+  "it": "Nottesferza"
+ },
+ {
+  "id": 38,
+  "en": "Sucker Punch",
+  "it": "Sbigoattacco"
+ },
+ {
+  "id": 39,
+  "en": "Knock Off",
+  "it": "Privazione"
+ },
+ {
+  "id": 40,
+  "en": "Assurance",
+  "it": "Garanzia"
+ },
+ {
+  "id": 41,
+  "en": "Bite",
+  "it": "Morso"
+ },
+ {
+  "id": 42,
+  "en": "Brutal Swing",
+  "it": "Malacoda"
+ },
+ {
+  "id": 43,
+  "en": "Feint Attack",
+  "it": "Finta"
+ },
+ {
+  "id": 44,
+  "en": "Thief",
+  "it": "Furto"
+ },
+ {
+  "id": 45,
+  "en": "Snarl",
+  "it": "Urlorabbia"
+ },
+ {
+  "id": 46,
+  "en": "Payback",
+  "it": "Rivincita"
+ },
+ {
+  "id": 47,
+  "en": "Pursuit",
+  "it": "Inseguimento"
+ },
+ {
+  "id": 48,
+  "en": "Beat Up",
+  "it": "Picchiaduro"
+ },
+ {
+  "id": 49,
+  "en": "Fling",
+  "it": "Lancio"
+ },
+ {
+  "id": 50,
+  "en": "Power Trip",
+  "it": "Ondaboria"
+ },
+ {
+  "id": 51,
+  "en": "Punishment",
+  "it": "Punizione"
+ },
+ {
+  "id": 52,
+  "en": "Dark Void",
+  "it": "Vuototetro"
+ },
+ {
+  "id": 53,
+  "en": "Embargo",
+  "it": "Divieto"
+ },
+ {
+  "id": 54,
+  "en": "Fake Tears",
+  "it": "Falselacrime"
+ },
+ {
+  "id": 55,
+  "en": "Flatter",
+  "it": "Adulazione"
+ },
+ {
+  "id": 56,
+  "en": "Hone Claws",
+  "it": "Unghiaguzze"
+ },
+ {
+  "id": 57,
+  "en": "Memento",
+  "it": "Memento"
+ },
+ {
+  "id": 58,
+  "en": "Nasty Plot",
+  "it": "Congiura"
+ },
+ {
+  "id": 59,
+  "en": "Parting Shot",
+  "it": "Monito"
+ },
+ {
+  "id": 60,
+  "en": "Quash",
+  "it": "Spintone"
+ },
+ {
+  "id": 61,
+  "en": "Snatch",
+  "it": "Scippo"
+ },
+ {
+  "id": 62,
+  "en": "Switcheroo",
+  "it": "Rapidscambio"
+ },
+ {
+  "id": 63,
+  "en": "Taunt",
+  "it": "Provocazione"
+ },
+ {
+  "id": 64,
+  "en": "Topsy-Turvy",
+  "it": "Sottosopra"
+ },
+ {
+  "id": 65,
+  "en": "Torment",
+  "it": "Attaccalite"
+ },
+ {
+  "id": 66,
+  "en": "Jaw Lock",
+  "it": "Morsostretto"
+ },
+ {
+  "id": 67,
+  "en": "False Surrender",
+  "it": "Finta Resa"
+ },
+ {
+  "id": 68,
+  "en": "Obstruct",
+  "it": "Sbarramento"
+ },
+ {
+  "id": 69,
+  "en": "Wicked Blow",
+  "it": "Pugno Oscuro"
+ },
+ {
+  "id": 70,
+  "en": "Lash Out",
+  "it": "Sfogarabbia"
+ },
+ {
+  "id": 71,
+  "en": "Fiery Wrath",
+  "it": "Ira Ardente"
+ },
+ {
+  "id": 72,
+  "en": "Roar of Time",
+  "it": "Fragortempo"
+ },
+ {
+  "id": 73,
+  "en": "Draco Meteor",
+  "it": "Dragobolide"
+ },
+ {
+  "id": 74,
+  "en": "Outrage",
+  "it": "Oltraggio"
+ },
+ {
+  "id": 75,
+  "en": "Clanging Scales",
+  "it": "Clamorsquame"
+ },
+ {
+  "id": 76,
+  "en": "Core Enforcer",
+  "it": "Nucleoffesa"
+ },
+ {
+  "id": 77,
+  "en": "Dragon Rush",
+  "it": "Dragospintone"
+ },
+ {
+  "id": 78,
+  "en": "Spacial Rend",
+  "it": "Fendispazio"
+ },
+ {
+  "id": 79,
+  "en": "Dragon Hammer",
+  "it": "Martelldrago"
+ },
+ {
+  "id": 80,
+  "en": "Dragon Pulse",
+  "it": "Dragopulsar"
+ },
+ {
+  "id": 81,
+  "en": "Dragon Claw",
+  "it": "Dragartigli"
+ },
+ {
+  "id": 82,
+  "en": "Dragon Breath",
+  "it": "Dragospiro"
+ },
+ {
+  "id": 83,
+  "en": "Dragon Tail",
+  "it": "Codadrago"
+ },
+ {
+  "id": 84,
+  "en": "Dual Chop",
+  "it": "Doppiocolpo"
+ },
+ {
+  "id": 85,
+  "en": "Twister",
+  "it": "Tornado"
+ },
+ {
+  "id": 86,
+  "en": "Dragon Rage",
+  "it": "Ira di Drago"
+ },
+ {
+  "id": 87,
+  "en": "Dragon Dance",
+  "it": "Dragodanza"
+ },
+ {
+  "id": 88,
+  "en": "Breaking Swipe",
+  "it": "Vibrospinta"
+ },
+ {
+  "id": 89,
+  "en": "Dragon Darts",
+  "it": "Dragofrecce"
+ },
+ {
+  "id": 90,
+  "en": "Dynamax Cannon",
+  "it": "Cannone Dynamax"
+ },
+ {
+  "id": 91,
+  "en": "Eternabeam",
+  "it": "Raggio Infinito"
+ },
+ {
+  "id": 92,
+  "en": "Clangorous Soul",
+  "it": "Clamoranima"
+ },
+ {
+  "id": 93,
+  "en": "Scale Shot",
+  "it": "Squamaraffica"
+ },
+ {
+  "id": 94,
+  "en": "Dragon Energy",
+  "it": "Dragoenergia"
+ },
+ {
+  "id": 95,
+  "en": "Bolt Strike",
+  "it": "Incrofulmine"
+ },
+ {
+  "id": 96,
+  "en": "Volt Tackle",
+  "it": "Locomovolt"
+ },
+ {
+  "id": 97,
+  "en": "Zap Cannon",
+  "it": "Elettrocannone"
+ },
+ {
+  "id": 98,
+  "en": "Thunder",
+  "it": "Tuono"
+ },
+ {
+  "id": 99,
+  "en": "Fusion Bolt",
+  "it": "Lucesiluro"
+ },
+ {
+  "id": 100,
+  "en": "Plasma Fists",
+  "it": "Pugni Plasma"
+ },
+ {
+  "id": 101,
+  "en": "Thunderbolt",
+  "it": "Fulmine"
+ },
+ {
+  "id": 102,
+  "en": "Wild Charge",
+  "it": "Sprizzalampo"
+ },
+ {
+  "id": 103,
+  "en": "Discharge",
+  "it": "Scarica"
+ },
+ {
+  "id": 104,
+  "en": "Zing Zap",
+  "it": "Scossaspina"
+ },
+ {
+  "id": 105,
+  "en": "Thunder Punch",
+  "it": "Tuonopugno"
+ },
+ {
+  "id": 106,
+  "en": "Volt Switch",
+  "it": "Invertivolt"
+ },
+ {
+  "id": 107,
+  "en": "Parabolic Charge",
+  "it": "Caricaparabola"
+ },
+ {
+  "id": 108,
+  "en": "Spark",
+  "it": "Scintilla"
+ },
+ {
+  "id": 109,
+  "en": "Thunder Fang",
+  "it": "Fulminzanna"
+ },
+ {
+  "id": 110,
+  "en": "Shock Wave",
+  "it": "Ondashock"
+ },
+ {
+  "id": 111,
+  "en": "Electroweb",
+  "it": "Elettrotela"
+ },
+ {
+  "id": 112,
+  "en": "Charge Beam",
+  "it": "Raggioscossa"
+ },
+ {
+  "id": 113,
+  "en": "Thunder Shock",
+  "it": "Tuonoshock"
+ },
+ {
+  "id": 114,
+  "en": "Nuzzle",
+  "it": "Sfrega"
+ },
+ {
+  "id": 115,
+  "en": "Electro Ball",
+  "it": "Energisfera"
+ },
+ {
+  "id": 116,
+  "en": "Charge",
+  "it": "Caricaccumulo"
+ },
+ {
+  "id": 117,
+  "en": "Eerie Impulse",
+  "it": "Impulsostrano"
+ },
+ {
+  "id": 118,
+  "en": "Electric Terrain",
+  "it": "Campo Elettrico"
+ },
+ {
+  "id": 119,
+  "en": "Electrify",
+  "it": "Elettrificazione"
+ },
+ {
+  "id": 120,
+  "en": "Ion Deluge",
+  "it": "Pioggiaplasma"
+ },
+ {
+  "id": 121,
+  "en": "Magnet Rise",
+  "it": "Magnetascesa"
+ },
+ {
+  "id": 122,
+  "en": "Magnetic Flux",
+  "it": "Flusso Magnetico"
+ },
+ {
+  "id": 123,
+  "en": "Thunder Wave",
+  "it": "Tuononda"
+ },
+ {
+  "id": 124,
+  "en": "Overdrive",
+  "it": "Overdrive"
+ },
+ {
+  "id": 125,
+  "en": "Aura Wheel",
+  "it": "Ruota d'Aura"
+ },
+ {
+  "id": 126,
+  "en": "Bolt Beak",
+  "it": "Elettrobecco"
+ },
+ {
+  "id": 127,
+  "en": "Rising Voltage",
+  "it": "Alta Tensione"
+ },
+ {
+  "id": 128,
+  "en": "Thunder Cage",
+  "it": "Elettrogabbia"
+ },
+ {
+  "id": 129,
+  "en": "Light of Ruin",
+  "it": "Luce Rovinosa"
+ },
+ {
+  "id": 130,
+  "en": "Fleur Cannon",
+  "it": "Cannonfiore"
+ },
+ {
+  "id": 131,
+  "en": "Moonblast",
+  "it": "Forza Lunare"
+ },
+ {
+  "id": 132,
+  "en": "Play Rough",
+  "it": "Carineria"
+ },
+ {
+  "id": 133,
+  "en": "Dazzling Gleam",
+  "it": "Magibrillio"
+ },
+ {
+  "id": 134,
+  "en": "Draining Kiss",
+  "it": "Assorbibacio"
+ },
+ {
+  "id": 135,
+  "en": "Disarming Voice",
+  "it": "Incantavoce"
+ },
+ {
+  "id": 136,
+  "en": "Fairy Wind",
+  "it": "Vento di Fata"
+ },
+ {
+  "id": 137,
+  "en": "Aromatic Mist",
+  "it": "Aromanebbia"
+ },
+ {
+  "id": 138,
+  "en": "Baby-Doll Eyes",
+  "it": "Occhioni Teneri"
+ },
+ {
+  "id": 139,
+  "en": "Charm",
+  "it": "Fascino"
+ },
+ {
+  "id": 140,
+  "en": "Crafty Shield",
+  "it": "Truccodifesa"
+ },
+ {
+  "id": 141,
+  "en": "Fairy Lock",
+  "it": "Fatablocco"
+ },
+ {
+  "id": 142,
+  "en": "Floral Healing",
+  "it": "Curaflora"
+ },
+ {
+  "id": 143,
+  "en": "Flower Shield",
+  "it": "Fiordifesa"
+ },
+ {
+  "id": 144,
+  "en": "Geomancy",
+  "it": "Geocontrollo"
+ },
+ {
+  "id": 145,
+  "en": "Misty Terrain",
+  "it": "Campo Nebbioso"
+ },
+ {
+  "id": 146,
+  "en": "Moonlight",
+  "it": "Lucelunare"
+ },
+ {
+  "id": 147,
+  "en": "Nature's Madness",
+  "it": "Ira della Natura"
+ },
+ {
+  "id": 148,
+  "en": "Sweet Kiss",
+  "it": "Dolcebacio"
+ },
+ {
+  "id": 149,
+  "en": "Spirit Break",
+  "it": "Spiritoinfranto"
+ },
+ {
+  "id": 150,
+  "en": "Decorate",
+  "it": "Decorazione"
+ },
+ {
+  "id": 151,
+  "en": "Misty Explosion",
+  "it": "Esplonebbia"
+ },
+ {
+  "id": 152,
+  "en": "Strange Steam",
+  "it": "Vaporestrano"
+ },
+ {
+  "id": 153,
+  "en": "Focus Punch",
+  "it": "Centripugno"
+ },
+ {
+  "id": 154,
+  "en": "High Jump Kick",
+  "it": "Calcinvolo"
+ },
+ {
+  "id": 155,
+  "en": "Close Combat",
+  "it": "Zuffa"
+ },
+ {
+  "id": 156,
+  "en": "Focus Blast",
+  "it": "Focalcolpo"
+ },
+ {
+  "id": 157,
+  "en": "Superpower",
+  "it": "Troppoforte"
+ },
+ {
+  "id": 158,
+  "en": "Cross Chop",
+  "it": "Incrocolpo"
+ },
+ {
+  "id": 159,
+  "en": "Dynamic Punch",
+  "it": "Dinamipugno"
+ },
+ {
+  "id": 160,
+  "en": "Flying Press",
+  "it": "Schiacciatuffo"
+ },
+ {
+  "id": 161,
+  "en": "Hammer Arm",
+  "it": "Martelpugno"
+ },
+ {
+  "id": 162,
+  "en": "Jump Kick",
+  "it": "Calciosalto"
+ },
+ {
+  "id": 163,
+  "en": "Sacred Sword",
+  "it": "Spadasolenne"
+ },
+ {
+  "id": 164,
+  "en": "Secret Sword",
+  "it": "Spadamistica"
+ },
+ {
+  "id": 165,
+  "en": "Sky Uppercut",
+  "it": "Stramontante"
+ },
+ {
+  "id": 166,
+  "en": "Aura Sphere",
+  "it": "Forzasfera"
+ },
+ {
+  "id": 167,
+  "en": "Submission",
+  "it": "Sottomissione"
+ },
+ {
+  "id": 168,
+  "en": "Brick Break",
+  "it": "Breccia"
+ },
+ {
+  "id": 169,
+  "en": "Drain Punch",
+  "it": "Assorbipugno"
+ },
+ {
+  "id": 170,
+  "en": "Vital Throw",
+  "it": "Vitaltiro"
+ },
+ {
+  "id": 171,
+  "en": "Wake-Up Slap",
+  "it": "Svegliopacca"
+ },
+ {
+  "id": 172,
+  "en": "Low Sweep",
+  "it": "Calciobasso"
+ },
+ {
+  "id": 173,
+  "en": "Circle Throw",
+  "it": "Ribaltiro"
+ },
+ {
+  "id": 174,
+  "en": "Force Palm",
+  "it": "Palmoforza"
+ },
+ {
+  "id": 175,
+  "en": "Revenge",
+  "it": "Vendetta"
+ },
+ {
+  "id": 176,
+  "en": "Rolling Kick",
+  "it": "Calciorullo"
+ },
+ {
+  "id": 177,
+  "en": "Storm Throw",
+  "it": "Tempestretta"
+ },
+ {
+  "id": 178,
+  "en": "Karate Chop",
+  "it": "Colpokarate"
+ },
+ {
+  "id": 179,
+  "en": "Mach Punch",
+  "it": "Pugnorapido"
+ },
+ {
+  "id": 180,
+  "en": "Power-Up Punch",
+  "it": "Crescipugno"
+ },
+ {
+  "id": 181,
+  "en": "Rock Smash",
+  "it": "Spaccaroccia"
+ },
+ {
+  "id": 182,
+  "en": "Vacuum Wave",
+  "it": "Vuotonda"
+ },
+ {
+  "id": 183,
+  "en": "Double Kick",
+  "it": "Doppiocalcio"
+ },
+ {
+  "id": 184,
+  "en": "Arm Thrust",
+  "it": "Sberletese"
+ },
+ {
+  "id": 185,
+  "en": "Triple Kick",
+  "it": "Triplocalcio"
+ },
+ {
+  "id": 186,
+  "en": "Counter",
+  "it": "Contrattacco"
+ },
+ {
+  "id": 187,
+  "en": "Final Gambit",
+  "it": "Azzardo"
+ },
+ {
+  "id": 188,
+  "en": "Low Kick",
+  "it": "Colpo Basso"
+ },
+ {
+  "id": 189,
+  "en": "Reversal",
+  "it": "Contropiede"
+ },
+ {
+  "id": 190,
+  "en": "Seismic Toss",
+  "it": "Movimento Sismico"
+ },
+ {
+  "id": 191,
+  "en": "Bulk Up",
+  "it": "Granfisico"
+ },
+ {
+  "id": 192,
+  "en": "Detect",
+  "it": "Individua"
+ },
+ {
+  "id": 193,
+  "en": "Mat Block",
+  "it": "Tatamiparata"
+ },
+ {
+  "id": 194,
+  "en": "Quick Guard",
+  "it": "Anticipo"
+ },
+ {
+  "id": 195,
+  "en": "Octolock",
+  "it": "Octoblocco"
+ },
+ {
+  "id": 196,
+  "en": "Meteor Assault",
+  "it": "Meteorassalto"
+ },
+ {
+  "id": 197,
+  "en": "No Retreat",
+  "it": "Senza Ritorno"
+ },
+ {
+  "id": 198,
+  "en": "Coaching",
+  "it": "Incoraggiamento"
+ },
+ {
+  "id": 199,
+  "en": "Body Press",
+  "it": "Pressacorpo"
+ },
+ {
+  "id": 200,
+  "en": "Thunderous Kick",
+  "it": "Tuonocalcio"
+ },
+ {
+  "id": 201,
+  "en": "V-create",
+  "it": "Generatore V"
+ },
+ {
+  "id": 202,
+  "en": "Blast Burn",
+  "it": "Incendio"
+ },
+ {
+  "id": 203,
+  "en": "Eruption",
+  "it": "Eruzione"
+ },
+ {
+  "id": 204,
+  "en": "Mind Blown",
+  "it": "Sbalorditesta"
+ },
+ {
+  "id": 205,
+  "en": "Shell Trap",
+  "it": "Gusciotrappola"
+ },
+ {
+  "id": 206,
+  "en": "Blue Flare",
+  "it": "Fuocoblu"
+ },
+ {
+  "id": 207,
+  "en": "Burn Up",
+  "it": "Fiammafinale"
+ },
+ {
+  "id": 208,
+  "en": "Overheat",
+  "it": "Vampata"
+ },
+ {
+  "id": 209,
+  "en": "Flare Blitz",
+  "it": "Fuococarica"
+ },
+ {
+  "id": 210,
+  "en": "Fire Blast",
+  "it": "Fuocobomba"
+ },
+ {
+  "id": 211,
+  "en": "Fusion Flare",
+  "it": "Incrofiamma"
+ },
+ {
+  "id": 212,
+  "en": "Inferno",
+  "it": "Marchiatura"
+ },
+ {
+  "id": 213,
+  "en": "Magma Storm",
+  "it": "Magmaclisma"
+ },
+ {
+  "id": 214,
+  "en": "Sacred Fire",
+  "it": "Magifuoco"
+ },
+ {
+  "id": 215,
+  "en": "Searing Shot",
+  "it": "Bombafuoco"
+ },
+ {
+  "id": 216,
+  "en": "Heat Wave",
+  "it": "Ondacalda"
+ },
+ {
+  "id": 217,
+  "en": "Flamethrower",
+  "it": "Lanciafiamme"
+ },
+ {
+  "id": 218,
+  "en": "Blaze Kick",
+  "it": "Calciardente"
+ },
+ {
+  "id": 219,
+  "en": "Fiery Dance",
+  "it": "Fiammridanza"
+ },
+ {
+  "id": 220,
+  "en": "Fire Lash",
+  "it": "Frustafuoco"
+ },
+ {
+  "id": 221,
+  "en": "Fire Pledge",
+  "it": "Fiammapatto"
+ },
+ {
+  "id": 222,
+  "en": "Lava Plume",
+  "it": "Lavasbuffo"
+ },
+ {
+  "id": 223,
+  "en": "Fire Punch",
+  "it": "Fuocopugno"
+ },
+ {
+  "id": 224,
+  "en": "Mystical Fire",
+  "it": "Magifiamma"
+ },
+ {
+  "id": 225,
+  "en": "Flame Burst",
+  "it": "Pirolancio"
+ },
+ {
+  "id": 226,
+  "en": "Fire Fang",
+  "it": "Rogodenti"
+ },
+ {
+  "id": 227,
+  "en": "Flame Wheel",
+  "it": "Ruotafuoco"
+ },
+ {
+  "id": 228,
+  "en": "Incinerate",
+  "it": "Bruciatutto"
+ },
+ {
+  "id": 229,
+  "en": "Flame Charge",
+  "it": "Nitrocarica"
+ },
+ {
+  "id": 230,
+  "en": "Ember",
+  "it": "Braciere"
+ },
+ {
+  "id": 231,
+  "en": "Fire Spin",
+  "it": "Turbofuoco"
+ },
+ {
+  "id": 232,
+  "en": "Heat Crash",
+  "it": "Pesocalore"
+ },
+ {
+  "id": 233,
+  "en": "Sunny Day",
+  "it": "Giornodisole"
+ },
+ {
+  "id": 234,
+  "en": "Will-O-Wisp",
+  "it": "Fuocofatuo"
+ },
+ {
+  "id": 235,
+  "en": "Pyro Ball",
+  "it": "Palla Brace"
+ },
+ {
+  "id": 236,
+  "en": "Burning Jealousy",
+  "it": "Invidia Ardente"
+ },
+ {
+  "id": 237,
+  "en": "Sky Attack",
+  "it": "Aeroattacco"
+ },
+ {
+  "id": 238,
+  "en": "Brave Bird",
+  "it": "Baldeali"
+ },
+ {
+  "id": 239,
+  "en": "Dragon Ascent",
+  "it": "Ascesa del Drago"
+ },
+ {
+  "id": 240,
+  "en": "Hurricane",
+  "it": "Tifone"
+ },
+ {
+  "id": 241,
+  "en": "Aeroblast",
+  "it": "Aerocolpo"
+ },
+ {
+  "id": 242,
+  "en": "Beak Blast",
+  "it": "Beccocannone"
+ },
+ {
+  "id": 243,
+  "en": "Fly",
+  "it": "Volo"
+ },
+ {
+  "id": 244,
+  "en": "Bounce",
+  "it": "Rimbalzo"
+ },
+ {
+  "id": 245,
+  "en": "Drill Peck",
+  "it": "Perforbecco"
+ },
+ {
+  "id": 246,
+  "en": "Oblivion Wing",
+  "it": "Ali del Fato"
+ },
+ {
+  "id": 247,
+  "en": "Air Slash",
+  "it": "Eterelama"
+ },
+ {
+  "id": 248,
+  "en": "Chatter",
+  "it": "Schiamazzo"
+ },
+ {
+  "id": 249,
+  "en": "Aerial Ace",
+  "it": "Aeroassalto"
+ },
+ {
+  "id": 250,
+  "en": "Air Cutter",
+  "it": "Aerasoio"
+ },
+ {
+  "id": 251,
+  "en": "Pluck",
+  "it": "Spennata"
+ },
+ {
+  "id": 252,
+  "en": "Sky Drop",
+  "it": "Cadutalibera"
+ },
+ {
+  "id": 253,
+  "en": "Wing Attack",
+  "it": "Attacco d'Ala"
+ },
+ {
+  "id": 254,
+  "en": "Acrobatics",
+  "it": "Acrobazia"
+ },
+ {
+  "id": 255,
+  "en": "Gust",
+  "it": "Raffica"
+ },
+ {
+  "id": 256,
+  "en": "Peck",
+  "it": "Beccata"
+ },
+ {
+  "id": 257,
+  "en": "Defog",
+  "it": "Scacciabruma"
+ },
+ {
+  "id": 258,
+  "en": "Feather Dance",
+  "it": "Danzadipiume"
+ },
+ {
+  "id": 259,
+  "en": "Mirror Move",
+  "it": "Speculmossa"
+ },
+ {
+  "id": 260,
+  "en": "Roost",
+  "it": "Trespolo"
+ },
+ {
+  "id": 261,
+  "en": "Tailwind",
+  "it": "Ventoincoda"
+ },
+ {
+  "id": 262,
+  "en": "Dual Wingbeat",
+  "it": "Doppiala"
+ },
+ {
+  "id": 263,
+  "en": "Shadow Force",
+  "it": "Oscurotuffo"
+ },
+ {
+  "id": 264,
+  "en": "Moongeist Beam",
+  "it": "Raggio d'Ombra"
+ },
+ {
+  "id": 265,
+  "en": "Phantom Force",
+  "it": "Spettrotuffo"
+ },
+ {
+  "id": 266,
+  "en": "Spectral Thief",
+  "it": "Furtombra"
+ },
+ {
+  "id": 267,
+  "en": "Shadow Bone",
+  "it": "Ossombra"
+ },
+ {
+  "id": 268,
+  "en": "Shadow Ball",
+  "it": "Palla Ombra"
+ },
+ {
+  "id": 269,
+  "en": "Spirit Shackle",
+  "it": "Cucitombra"
+ },
+ {
+  "id": 270,
+  "en": "Shadow Claw",
+  "it": "Ombrartigli"
+ },
+ {
+  "id": 271,
+  "en": "Hex",
+  "it": "Sciagura"
+ },
+ {
+  "id": 272,
+  "en": "Ominous Wind",
+  "it": "Funestovento"
+ },
+ {
+  "id": 273,
+  "en": "Shadow Punch",
+  "it": "Pugnodombra"
+ },
+ {
+  "id": 274,
+  "en": "Shadow Sneak",
+  "it": "Furtivombra"
+ },
+ {
+  "id": 275,
+  "en": "Astonish",
+  "it": "Sgomento"
+ },
+ {
+  "id": 276,
+  "en": "Lick",
+  "it": "Leccata"
+ },
+ {
+  "id": 277,
+  "en": "Night Shade",
+  "it": "Ombra Notturna"
+ },
+ {
+  "id": 278,
+  "en": "Confuse Ray",
+  "it": "Stordiraggio"
+ },
+ {
+  "id": 279,
+  "en": "Curse",
+  "it": "Maledizione"
+ },
+ {
+  "id": 280,
+  "en": "Destiny Bond",
+  "it": "Destinobbligato"
+ },
+ {
+  "id": 281,
+  "en": "Grudge",
+  "it": "Rancore"
+ },
+ {
+  "id": 282,
+  "en": "Nightmare",
+  "it": "Incubo"
+ },
+ {
+  "id": 283,
+  "en": "Spite",
+  "it": "Dispetto"
+ },
+ {
+  "id": 284,
+  "en": "Trick-or-Treat",
+  "it": "Halloween"
+ },
+ {
+  "id": 285,
+  "en": "Poltergeist",
+  "it": "Poltergeist"
+ },
+ {
+  "id": 286,
+  "en": "Astral Barrage",
+  "it": "Schiera Astrale"
+ },
+ {
+  "id": 287,
+  "en": "Frenzy Plant",
+  "it": "Radicalbero"
+ },
+ {
+  "id": 288,
+  "en": "Leaf Storm",
+  "it": "Verdebufera"
+ },
+ {
+  "id": 289,
+  "en": "Solar Blade",
+  "it": "Solarlama"
+ },
+ {
+  "id": 290,
+  "en": "Petal Dance",
+  "it": "Petalodanza"
+ },
+ {
+  "id": 291,
+  "en": "Power Whip",
+  "it": "Vigorcolpo"
+ },
+ {
+  "id": 292,
+  "en": "Seed Flare",
+  "it": "Infuriaseme"
+ },
+ {
+  "id": 293,
+  "en": "Solar Beam",
+  "it": "Solarraggio"
+ },
+ {
+  "id": 294,
+  "en": "Wood Hammer",
+  "it": "Mazzuolegno"
+ },
+ {
+  "id": 295,
+  "en": "Energy Ball",
+  "it": "Energipalla"
+ },
+ {
+  "id": 296,
+  "en": "Leaf Blade",
+  "it": "Fendifoglia"
+ },
+ {
+  "id": 297,
+  "en": "Petal Blizzard",
+  "it": "Fiortempesta"
+ },
+ {
+  "id": 298,
+  "en": "Grass Pledge",
+  "it": "Erbapatto"
+ },
+ {
+  "id": 299,
+  "en": "Seed Bomb",
+  "it": "Semebomba"
+ },
+ {
+  "id": 300,
+  "en": "Giga Drain",
+  "it": "Gigassorbimento"
+ },
+ {
+  "id": 301,
+  "en": "Horn Leech",
+  "it": "Legnicorno"
+ },
+ {
+  "id": 302,
+  "en": "Trop Kick",
+  "it": "Calcitropicale"
+ },
+ {
+  "id": 303,
+  "en": "Leaf Tornado",
+  "it": "Fogliavortice"
+ },
+ {
+  "id": 304,
+  "en": "Magical Leaf",
+  "it": "Fogliamagica"
+ },
+ {
+  "id": 305,
+  "en": "Needle Arm",
+  "it": "Pugnospine"
+ },
+ {
+  "id": 306,
+  "en": "Razor Leaf",
+  "it": "Foglielama"
+ },
+ {
+  "id": 307,
+  "en": "Vine Whip",
+  "it": "Frustata"
+ },
+ {
+  "id": 308,
+  "en": "Leafage",
+  "it": "Fogliame"
+ },
+ {
+  "id": 309,
+  "en": "Mega Drain",
+  "it": "Megassorbimento"
+ },
+ {
+  "id": 310,
+  "en": "Bullet Seed",
+  "it": "Semitraglia"
+ },
+ {
+  "id": 311,
+  "en": "Absorb",
+  "it": "Assorbimento"
+ },
+ {
+  "id": 312,
+  "en": "Grass Knot",
+  "it": "Laccioerboso"
+ },
+ {
+  "id": 313,
+  "en": "Aromatherapy",
+  "it": "Aromaterapia"
+ },
+ {
+  "id": 314,
+  "en": "Cotton Guard",
+  "it": "Cotonscudo"
+ },
+ {
+  "id": 315,
+  "en": "Cotton Spore",
+  "it": "Cottonspora"
+ },
+ {
+  "id": 316,
+  "en": "Forest's Curse",
+  "it": "Boscomalocchio"
+ },
+ {
+  "id": 317,
+  "en": "Grass Whistle",
+  "it": "Meloderba"
+ },
+ {
+  "id": 318,
+  "en": "Grassy Terrain",
+  "it": "Campo Erboso"
+ },
+ {
+  "id": 319,
+  "en": "Ingrain",
+  "it": "Radicamento"
+ },
+ {
+  "id": 320,
+  "en": "Leech Seed",
+  "it": "Parassiseme"
+ },
+ {
+  "id": 321,
+  "en": "Sleep Powder",
+  "it": "Sonnifero"
+ },
+ {
+  "id": 322,
+  "en": "Spiky Shield",
+  "it": "Agoscudo"
+ },
+ {
+  "id": 323,
+  "en": "Spore",
+  "it": "Spora"
+ },
+ {
+  "id": 324,
+  "en": "Strength Sap",
+  "it": "Assorbilinfa"
+ },
+ {
+  "id": 325,
+  "en": "Stun Spore",
+  "it": "Paralizzante"
+ },
+ {
+  "id": 326,
+  "en": "Synthesis",
+  "it": "Sintesi"
+ },
+ {
+  "id": 327,
+  "en": "Worry Seed",
+  "it": "Affannoseme"
+ },
+ {
+  "id": 328,
+  "en": "Branch Poke",
+  "it": "Colpo di Ramo"
+ },
+ {
+  "id": 329,
+  "en": "Drum Beating",
+  "it": "Tamburattacco"
+ },
+ {
+  "id": 330,
+  "en": "Grav Apple",
+  "it": "Gravimela"
+ },
+ {
+  "id": 331,
+  "en": "Apple Acid",
+  "it": "Acidomela"
+ },
+ {
+  "id": 332,
+  "en": "Snap Trap",
+  "it": "Tagliola"
+ },
+ {
+  "id": 333,
+  "en": "Grassy Glide",
+  "it": "Erbascivolata"
+ },
+ {
+  "id": 334,
+  "en": "Jungle Healing",
+  "it": "Giunglacura"
+ },
+ {
+  "id": 335,
+  "en": "Precipice Blades",
+  "it": "Lame Telluriche"
+ },
+ {
+  "id": 336,
+  "en": "Earthquake",
+  "it": "Terremoto"
+ },
+ {
+  "id": 337,
+  "en": "High Horsepower",
+  "it": "Forza Equina"
+ },
+ {
+  "id": 338,
+  "en": "Earth Power",
+  "it": "Geoforza"
+ },
+ {
+  "id": 339,
+  "en": "Land's Wrath",
+  "it": "Ira Terrena"
+ },
+ {
+  "id": 340,
+  "en": "Thousand Arrows",
+  "it": "Mille Frecce"
+ },
+ {
+  "id": 341,
+  "en": "Thousand Waves",
+  "it": "Mille Onde"
+ },
+ {
+  "id": 342,
+  "en": "Dig",
+  "it": "Fossa"
+ },
+ {
+  "id": 343,
+  "en": "Drill Run",
+  "it": "Giravvita"
+ },
+ {
+  "id": 344,
+  "en": "Stomping Tantrum",
+  "it": "Rabbiapesta"
+ },
+ {
+  "id": 345,
+  "en": "Bone Club",
+  "it": "Ossoclava"
+ },
+ {
+  "id": 346,
+  "en": "Mud Bomb",
+  "it": "Fangobomba"
+ },
+ {
+  "id": 347,
+  "en": "Bulldoze",
+  "it": "Battiterra"
+ },
+ {
+  "id": 348,
+  "en": "Mud Shot",
+  "it": "Colpodifango"
+ },
+ {
+  "id": 349,
+  "en": "Bonemerang",
+  "it": "Ossomerang"
+ },
+ {
+  "id": 350,
+  "en": "Sand Tomb",
+  "it": "Sabbiotomba"
+ },
+ {
+  "id": 351,
+  "en": "Bone Rush",
+  "it": "Ossoraffica"
+ },
+ {
+  "id": 352,
+  "en": "Mud-Slap",
+  "it": "Fangata"
+ },
+ {
+  "id": 353,
+  "en": "Fissure",
+  "it": "Abisso"
+ },
+ {
+  "id": 354,
+  "en": "Magnitude",
+  "it": "Magnitudo"
+ },
+ {
+  "id": 355,
+  "en": "Mud Sport",
+  "it": "Fangosport"
+ },
+ {
+  "id": 356,
+  "en": "Rototiller",
+  "it": "Aratro"
+ },
+ {
+  "id": 357,
+  "en": "Sand Attack",
+  "it": "Turbosabbia"
+ },
+ {
+  "id": 358,
+  "en": "Shore Up",
+  "it": "Raccoglisabbia"
+ },
+ {
+  "id": 359,
+  "en": "Spikes",
+  "it": "Punte"
+ },
+ {
+  "id": 360,
+  "en": "Scorching Sands",
+  "it": "Sabbiardente"
+ },
+ {
+  "id": 361,
+  "en": "Freeze Shock",
+  "it": "Elettrogelo"
+ },
+ {
+  "id": 362,
+  "en": "Ice Burn",
+  "it": "Bruciagelo"
+ },
+ {
+  "id": 363,
+  "en": "Blizzard",
+  "it": "Bora"
+ },
+ {
+  "id": 364,
+  "en": "Ice Hammer",
+  "it": "Martelgelo"
+ },
+ {
+  "id": 365,
+  "en": "Ice Beam",
+  "it": "Geloraggio"
+ },
+ {
+  "id": 366,
+  "en": "Icicle Crash",
+  "it": "Cascagelo"
+ },
+ {
+  "id": 367,
+  "en": "Ice Punch",
+  "it": "Gelopugno"
+ },
+ {
+  "id": 368,
+  "en": "Freeze-Dry",
+  "it": "Liofilizzazione"
+ },
+ {
+  "id": 369,
+  "en": "Aurora Beam",
+  "it": "Raggiaurora"
+ },
+ {
+  "id": 370,
+  "en": "Glaciate",
+  "it": "Gelamondo"
+ },
+ {
+  "id": 371,
+  "en": "Ice Fang",
+  "it": "Gelodenti"
+ },
+ {
+  "id": 372,
+  "en": "Avalanche",
+  "it": "Valanga"
+ },
+ {
+  "id": 373,
+  "en": "Frost Breath",
+  "it": "Alitogelido"
+ },
+ {
+  "id": 374,
+  "en": "Icy Wind",
+  "it": "Ventogelato"
+ },
+ {
+  "id": 375,
+  "en": "Ice Shard",
+  "it": "Geloscheggia"
+ },
+ {
+  "id": 376,
+  "en": "Powder Snow",
+  "it": "Polneve"
+ },
+ {
+  "id": 377,
+  "en": "Ice Ball",
+  "it": "Palla Gelo"
+ },
+ {
+  "id": 378,
+  "en": "Icicle Spear",
+  "it": "Gelolancia"
+ },
+ {
+  "id": 379,
+  "en": "Sheer Cold",
+  "it": "Purogelo"
+ },
+ {
+  "id": 380,
+  "en": "Aurora Veil",
+  "it": "Velaurora"
+ },
+ {
+  "id": 381,
+  "en": "Hail",
+  "it": "Grandine"
+ },
+ {
+  "id": 382,
+  "en": "Haze",
+  "it": "Nube"
+ },
+ {
+  "id": 383,
+  "en": "Mist",
+  "it": "Nebbia"
+ },
+ {
+  "id": 384,
+  "en": "Triple Axel",
+  "it": "Triplo Axel"
+ },
+ {
+  "id": 385,
+  "en": "Glacial Lance",
+  "it": "Lancia Glaciale"
+ },
+ {
+  "id": 386,
+  "en": "Explosion",
+  "it": "Esplosione"
+ },
+ {
+  "id": 387,
+  "en": "Self-Destruct",
+  "it": "Autodistruzione"
+ },
+ {
+  "id": 388,
+  "en": "Giga Impact",
+  "it": "Gigaimpatto"
+ },
+ {
+  "id": 389,
+  "en": "Hyper Beam",
+  "it": "Iper Raggio"
+ },
+ {
+  "id": 390,
+  "en": "Boomburst",
+  "it": "Ondaboato"
+ },
+ {
+  "id": 391,
+  "en": "Last Resort",
+  "it": "Ultimascelta"
+ },
+ {
+  "id": 392,
+  "en": "Skull Bash",
+  "it": "Capocciata"
+ },
+ {
+  "id": 393,
+  "en": "Double-Edge",
+  "it": "Sdoppiatore"
+ },
+ {
+  "id": 394,
+  "en": "Head Charge",
+  "it": "Zuccata"
+ },
+ {
+  "id": 395,
+  "en": "Mega Kick",
+  "it": "Megacalcio"
+ },
+ {
+  "id": 396,
+  "en": "Techno Blast",
+  "it": "Tecnobotto"
+ },
+ {
+  "id": 397,
+  "en": "Thrash",
+  "it": "Colpo"
+ },
+ {
+  "id": 398,
+  "en": "Egg Bomb",
+  "it": "Uovobomba"
+ },
+ {
+  "id": 399,
+  "en": "Judgment",
+  "it": "Giudizio"
+ },
+ {
+  "id": 400,
+  "en": "Hyper Voice",
+  "it": "Granvoce"
+ },
+ {
+  "id": 401,
+  "en": "Multi-Attack",
+  "it": "Multiattacco"
+ },
+ {
+  "id": 402,
+  "en": "Revelation Dance",
+  "it": "Danza Rivelatrice"
+ },
+ {
+  "id": 403,
+  "en": "Rock Climb",
+  "it": "Scalaroccia"
+ },
+ {
+  "id": 404,
+  "en": "Take Down",
+  "it": "Riduttore"
+ },
+ {
+  "id": 405,
+  "en": "Uproar",
+  "it": "Baraonda"
+ },
+ {
+  "id": 406,
+  "en": "Body Slam",
+  "it": "Corposcontro"
+ },
+ {
+  "id": 407,
+  "en": "Extreme Speed",
+  "it": "Extrarapido"
+ },
+ {
+  "id": 408,
+  "en": "Hyper Fang",
+  "it": "Iperzanna"
+ },
+ {
+  "id": 409,
+  "en": "Mega Punch",
+  "it": "Megapugno"
+ },
+ {
+  "id": 410,
+  "en": "Razor Wind",
+  "it": "Ventagliente"
+ },
+ {
+  "id": 411,
+  "en": "Slam",
+  "it": "Schianto"
+ },
+ {
+  "id": 412,
+  "en": "Strength",
+  "it": "Forza"
+ },
+ {
+  "id": 413,
+  "en": "Tri Attack",
+  "it": "Tripletta"
+ },
+ {
+  "id": 414,
+  "en": "Crush Claw",
+  "it": "Tritartigli"
+ },
+ {
+  "id": 415,
+  "en": "Relic Song",
+  "it": "Cantoantico"
+ },
+ {
+  "id": 416,
+  "en": "Chip Away",
+  "it": "Insidia"
+ },
+ {
+  "id": 417,
+  "en": "Dizzy Punch",
+  "it": "Stordipugno"
+ },
+ {
+  "id": 418,
+  "en": "Facade",
+  "it": "Facciata"
+ },
+ {
+  "id": 419,
+  "en": "Headbutt",
+  "it": "Bottintesta"
+ },
+ {
+  "id": 420,
+  "en": "Retaliate",
+  "it": "Nemesi"
+ },
+ {
+  "id": 421,
+  "en": "Secret Power",
+  "it": "Forzasegreta"
+ },
+ {
+  "id": 422,
+  "en": "Slash",
+  "it": "Lacerazione"
+ },
+ {
+  "id": 423,
+  "en": "Smelling Salts",
+  "it": "Maniereforti"
+ },
+ {
+  "id": 424,
+  "en": "Horn Attack",
+  "it": "Incornata"
+ },
+ {
+  "id": 425,
+  "en": "Stomp",
+  "it": "Pestone"
+ },
+ {
+  "id": 426,
+  "en": "Covet",
+  "it": "Supplica"
+ },
+ {
+  "id": 427,
+  "en": "Hidden Power",
+  "it": "Introforza"
+ },
+ {
+  "id": 428,
+  "en": "Round",
+  "it": "Coro"
+ },
+ {
+  "id": 429,
+  "en": "Swift",
+  "it": "Comete"
+ },
+ {
+  "id": 430,
+  "en": "Vise Grip",
+  "it": "Presa"
+ },
+ {
+  "id": 431,
+  "en": "Cut",
+  "it": "Taglio"
+ },
+ {
+  "id": 432,
+  "en": "Snore",
+  "it": "Russare"
+ },
+ {
+  "id": 433,
+  "en": "Struggle",
+  "it": "Scontro"
+ },
+ {
+  "id": 434,
+  "en": "Weather Ball",
+  "it": "Palla Clima"
+ },
+ {
+  "id": 435,
+  "en": "Echoed Voice",
+  "it": "Echeggiavoce"
+ },
+ {
+  "id": 436,
+  "en": "Fake Out",
+  "it": "Bruciapelo"
+ },
+ {
+  "id": 437,
+  "en": "False Swipe",
+  "it": "Falsofinale"
+ },
+ {
+  "id": 438,
+  "en": "Hold Back",
+  "it": "Riguardo"
+ },
+ {
+  "id": 439,
+  "en": "Pay Day",
+  "it": "Giornopaga"
+ },
+ {
+  "id": 440,
+  "en": "Pound",
+  "it": "Botta"
+ },
+ {
+  "id": 441,
+  "en": "Quick Attack",
+  "it": "Attacco Rapido"
+ },
+ {
+  "id": 442,
+  "en": "Scratch",
+  "it": "Graffio"
+ },
+ {
+  "id": 443,
+  "en": "Tackle",
+  "it": "Azione"
+ },
+ {
+  "id": 444,
+  "en": "Double Hit",
+  "it": "Doppiosmash"
+ },
+ {
+  "id": 445,
+  "en": "Feint",
+  "it": "Fintoattacco"
+ },
+ {
+  "id": 446,
+  "en": "Tail Slap",
+  "it": "Codaschiaffo"
+ },
+ {
+  "id": 447,
+  "en": "Rage",
+  "it": "Ira"
+ },
+ {
+  "id": 448,
+  "en": "Rapid Spin",
+  "it": "Rapigiro"
+ },
+ {
+  "id": 449,
+  "en": "Spike Cannon",
+  "it": "Sparalance"
+ },
+ {
+  "id": 450,
+  "en": "Comet Punch",
+  "it": "Cometapugno"
+ },
+ {
+  "id": 451,
+  "en": "Fury Swipes",
+  "it": "Sfuriate"
+ },
+ {
+  "id": 452,
+  "en": "Barrage",
+  "it": "Attacco Pioggia"
+ },
+ {
+  "id": 453,
+  "en": "Bind",
+  "it": "Legatutto"
+ },
+ {
+  "id": 454,
+  "en": "Double Slap",
+  "it": "Doppiasberla"
+ },
+ {
+  "id": 455,
+  "en": "Fury Attack",
+  "it": "Furia"
+ },
+ {
+  "id": 456,
+  "en": "Wrap",
+  "it": "Avvolgibotta"
+ },
+ {
+  "id": 457,
+  "en": "Constrict",
+  "it": "Limitazione"
+ },
+ {
+  "id": 458,
+  "en": "Bide",
+  "it": "Pazienza"
+ },
+ {
+  "id": 459,
+  "en": "Crush Grip",
+  "it": "Sbriciolmano"
+ },
+ {
+  "id": 460,
+  "en": "Endeavor",
+  "it": "Rimonta"
+ },
+ {
+  "id": 461,
+  "en": "Flail",
+  "it": "Flagello"
+ },
+ {
+  "id": 462,
+  "en": "Frustration",
+  "it": "Frustrazione"
+ },
+ {
+  "id": 463,
+  "en": "Guillotine",
+  "it": "Ghigliottina"
+ },
+ {
+  "id": 464,
+  "en": "Horn Drill",
+  "it": "Perforcorno"
+ },
+ {
+  "id": 465,
+  "en": "Natural Gift",
+  "it": "Dononaturale"
+ },
+ {
+  "id": 466,
+  "en": "Present",
+  "it": "Regalino"
+ },
+ {
+  "id": 467,
+  "en": "Return",
+  "it": "Ritorno"
+ },
+ {
+  "id": 468,
+  "en": "Sonic Boom",
+  "it": "Sonicboom"
+ },
+ {
+  "id": 469,
+  "en": "Spit Up",
+  "it": "Sfoghenergia"
+ },
+ {
+  "id": 470,
+  "en": "Super Fang",
+  "it": "Superzanna"
+ },
+ {
+  "id": 471,
+  "en": "Trump Card",
+  "it": "Asso"
+ },
+ {
+  "id": 472,
+  "en": "Wring Out",
+  "it": "Strizzata"
+ },
+ {
+  "id": 473,
+  "en": "Acupressure",
+  "it": "Acupressione"
+ },
+ {
+  "id": 474,
+  "en": "After You",
+  "it": "Cortesia"
+ },
+ {
+  "id": 475,
+  "en": "Assist",
+  "it": "Assistente"
+ },
+ {
+  "id": 476,
+  "en": "Attract",
+  "it": "Attrazione"
+ },
+ {
+  "id": 477,
+  "en": "Baton Pass",
+  "it": "Staffetta"
+ },
+ {
+  "id": 478,
+  "en": "Belly Drum",
+  "it": "Panciamburo"
+ },
+ {
+  "id": 479,
+  "en": "Bestow",
+  "it": "Cediregalo"
+ },
+ {
+  "id": 480,
+  "en": "Block",
+  "it": "Blocco"
+ },
+ {
+  "id": 481,
+  "en": "Camouflage",
+  "it": "Camuffamento"
+ },
+ {
+  "id": 482,
+  "en": "Captivate",
+  "it": "Incanto"
+ },
+ {
+  "id": 483,
+  "en": "Celebrate",
+  "it": "Festeggiamento"
+ },
+ {
+  "id": 484,
+  "en": "Confide",
+  "it": "Confidenza"
+ },
+ {
+  "id": 485,
+  "en": "Conversion",
+  "it": "Conversione"
+ },
+ {
+  "id": 486,
+  "en": "Conversion 2",
+  "it": "Conversione2"
+ },
+ {
+  "id": 487,
+  "en": "Copycat",
+  "it": "Copione"
+ },
+ {
+  "id": 488,
+  "en": "Defense Curl",
+  "it": "Ricciolscudo"
+ },
+ {
+  "id": 489,
+  "en": "Disable",
+  "it": "Inibitore"
+ },
+ {
+  "id": 490,
+  "en": "Double Team",
+  "it": "Doppioteam"
+ },
+ {
+  "id": 491,
+  "en": "Encore",
+  "it": "Ripeti"
+ },
+ {
+  "id": 492,
+  "en": "Endure",
+  "it": "Resistenza"
+ },
+ {
+  "id": 493,
+  "en": "Entrainment",
+  "it": "Coinvolgimento"
+ },
+ {
+  "id": 494,
+  "en": "Flash",
+  "it": "Flash"
+ },
+ {
+  "id": 495,
+  "en": "Focus Energy",
+  "it": "Focalenergia"
+ },
+ {
+  "id": 496,
+  "en": "Follow Me",
+  "it": "Sonoqui"
+ },
+ {
+  "id": 497,
+  "en": "Foresight",
+  "it": "Preveggenza"
+ },
+ {
+  "id": 498,
+  "en": "Glare",
+  "it": "Bagliore"
+ },
+ {
+  "id": 499,
+  "en": "Growl",
+  "it": "Ruggito"
+ },
+ {
+  "id": 500,
+  "en": "Growth",
+  "it": "Crescita"
+ },
+ {
+  "id": 501,
+  "en": "Happy Hour",
+  "it": "Happy Hour"
+ },
+ {
+  "id": 502,
+  "en": "Harden",
+  "it": "Rafforzatore"
+ },
+ {
+  "id": 503,
+  "en": "Heal Bell",
+  "it": "Rintoccasana"
+ },
+ {
+  "id": 504,
+  "en": "Helping Hand",
+  "it": "Altruismo"
+ },
+ {
+  "id": 505,
+  "en": "Hold Hands",
+  "it": "Manoinmano"
+ },
+ {
+  "id": 506,
+  "en": "Howl",
+  "it": "Gridodilotta"
+ },
+ {
+  "id": 507,
+  "en": "Laser Focus",
+  "it": "Concentrazione"
+ },
+ {
+  "id": 508,
+  "en": "Leer",
+  "it": "Fulmisguardo"
+ },
+ {
+  "id": 509,
+  "en": "Lock-On",
+  "it": "Localizza"
+ },
+ {
+  "id": 510,
+  "en": "Lovely Kiss",
+  "it": "Demonbacio"
+ },
+ {
+  "id": 511,
+  "en": "Lucky Chant",
+  "it": "Fortuncanto"
+ },
+ {
+  "id": 512,
+  "en": "Me First",
+  "it": "Precedenza"
+ },
+ {
+  "id": 513,
+  "en": "Mean Look",
+  "it": "Malosguardo"
+ },
+ {
+  "id": 514,
+  "en": "Metronome",
+  "it": "Metronomo"
+ },
+ {
+  "id": 515,
+  "en": "Milk Drink",
+  "it": "Bevilatte"
+ },
+ {
+  "id": 516,
+  "en": "Mimic",
+  "it": "Mimica"
+ },
+ {
+  "id": 517,
+  "en": "Mind Reader",
+  "it": "Leggimente"
+ },
+ {
+  "id": 518,
+  "en": "Minimize",
+  "it": "Minimizzato"
+ },
+ {
+  "id": 519,
+  "en": "Morning Sun",
+  "it": "Mattindoro"
+ },
+ {
+  "id": 520,
+  "en": "Nature Power",
+  "it": "Naturforza"
+ },
+ {
+  "id": 521,
+  "en": "Noble Roar",
+  "it": "Urlo"
+ },
+ {
+  "id": 522,
+  "en": "Odor Sleuth",
+  "it": "Segugio"
+ },
+ {
+  "id": 523,
+  "en": "Pain Split",
+  "it": "Malcomune"
+ },
+ {
+  "id": 524,
+  "en": "Perish Song",
+  "it": "Ultimocanto"
+ },
+ {
+  "id": 525,
+  "en": "Play Nice",
+  "it": "Simpatia"
+ },
+ {
+  "id": 526,
+  "en": "Protect",
+  "it": "Protezione"
+ },
+ {
+  "id": 527,
+  "en": "Psych Up",
+  "it": "Psicamisù"
+ },
+ {
+  "id": 528,
+  "en": "Recover",
+  "it": "Ripresa"
+ },
+ {
+  "id": 529,
+  "en": "Recycle",
+  "it": "Riciclo"
+ },
+ {
+  "id": 530,
+  "en": "Reflect Type",
+  "it": "Copiatipo"
+ },
+ {
+  "id": 531,
+  "en": "Refresh",
+  "it": "Rinfrescata"
+ },
+ {
+  "id": 532,
+  "en": "Roar",
+  "it": "Boato"
+ },
+ {
+  "id": 533,
+  "en": "Safeguard",
+  "it": "Salvaguardia"
+ },
+ {
+  "id": 534,
+  "en": "Scary Face",
+  "it": "Visotruce"
+ },
+ {
+  "id": 535,
+  "en": "Screech",
+  "it": "Stridio"
+ },
+ {
+  "id": 536,
+  "en": "Sharpen",
+  "it": "Affilatore"
+ },
+ {
+  "id": 537,
+  "en": "Shell Smash",
+  "it": "Gettaguscio"
+ },
+ {
+  "id": 538,
+  "en": "Simple Beam",
+  "it": "Semplicioraggio"
+ },
+ {
+  "id": 539,
+  "en": "Sing",
+  "it": "Canto"
+ },
+ {
+  "id": 540,
+  "en": "Sketch",
+  "it": "Schizzo"
+ },
+ {
+  "id": 541,
+  "en": "Slack Off",
+  "it": "Pigro"
+ },
+ {
+  "id": 542,
+  "en": "Sleep Talk",
+  "it": "Sonnolalia"
+ },
+ {
+  "id": 543,
+  "en": "Smokescreen",
+  "it": "Muro di Fumo"
+ },
+ {
+  "id": 544,
+  "en": "Soft-Boiled",
+  "it": "Covauova"
+ },
+ {
+  "id": 545,
+  "en": "Splash",
+  "it": "Splash"
+ },
+ {
+  "id": 546,
+  "en": "Spotlight",
+  "it": "Riflettore"
+ },
+ {
+  "id": 547,
+  "en": "Stockpile",
+  "it": "Accumulo"
+ },
+ {
+  "id": 548,
+  "en": "Substitute",
+  "it": "Sostituto"
+ },
+ {
+  "id": 549,
+  "en": "Supersonic",
+  "it": "Supersuono"
+ },
+ {
+  "id": 550,
+  "en": "Swagger",
+  "it": "Bullo"
+ },
+ {
+  "id": 551,
+  "en": "Swallow",
+  "it": "Introenergia"
+ },
+ {
+  "id": 552,
+  "en": "Sweet Scent",
+  "it": "Profumino"
+ },
+ {
+  "id": 553,
+  "en": "Swords Dance",
+  "it": "Danzaspada"
+ },
+ {
+  "id": 554,
+  "en": "Tail Whip",
+  "it": "Colpocoda"
+ },
+ {
+  "id": 555,
+  "en": "Tearful Look",
+  "it": "Lacrimucce"
+ },
+ {
+  "id": 556,
+  "en": "Teeter Dance",
+  "it": "Strampadanza"
+ },
+ {
+  "id": 557,
+  "en": "Tickle",
+  "it": "Solletico"
+ },
+ {
+  "id": 558,
+  "en": "Transform",
+  "it": "Trasformazione"
+ },
+ {
+  "id": 559,
+  "en": "Whirlwind",
+  "it": "Turbine"
+ },
+ {
+  "id": 560,
+  "en": "Wish",
+  "it": "Desiderio"
+ },
+ {
+  "id": 561,
+  "en": "Work Up",
+  "it": "Cuordileone"
+ },
+ {
+  "id": 562,
+  "en": "Yawn",
+  "it": "Sbadiglio"
+ },
+ {
+  "id": 563,
+  "en": "Court Change",
+  "it": "Cambiocampo"
+ },
+ {
+  "id": 564,
+  "en": "Stuff Cheeks",
+  "it": "Rimpinzata"
+ },
+ {
+  "id": 565,
+  "en": "Teatime",
+  "it": "Ora del Tè"
+ },
+ {
+  "id": 566,
+  "en": "Terrain Pulse",
+  "it": "Campodiforza"
+ },
+ {
+  "id": 567,
+  "en": "Belch",
+  "it": "Sdegno"
+ },
+ {
+  "id": 568,
+  "en": "Gunk Shot",
+  "it": "Sporcolancio"
+ },
+ {
+  "id": 569,
+  "en": "Sludge Wave",
+  "it": "Fanghonda"
+ },
+ {
+  "id": 570,
+  "en": "Sludge Bomb",
+  "it": "Fangobomba"
+ },
+ {
+  "id": 571,
+  "en": "Poison Jab",
+  "it": "Velenpuntura"
+ },
+ {
+  "id": 572,
+  "en": "Cross Poison",
+  "it": "Velenocroce"
+ },
+ {
+  "id": 573,
+  "en": "Sludge",
+  "it": "Fango"
+ },
+ {
+  "id": 574,
+  "en": "Venoshock",
+  "it": "Velenoshock"
+ },
+ {
+  "id": 575,
+  "en": "Clear Smog",
+  "it": "Pulifumo"
+ },
+ {
+  "id": 576,
+  "en": "Poison Fang",
+  "it": "Velenodenti"
+ },
+ {
+  "id": 577,
+  "en": "Poison Tail",
+  "it": "Velenocoda"
+ },
+ {
+  "id": 578,
+  "en": "Acid",
+  "it": "Acido"
+ },
+ {
+  "id": 579,
+  "en": "Acid Spray",
+  "it": "Acidobomba"
+ },
+ {
+  "id": 580,
+  "en": "Smog",
+  "it": "Smog"
+ },
+ {
+  "id": 581,
+  "en": "Poison Sting",
+  "it": "Velenospina"
+ },
+ {
+  "id": 582,
+  "en": "Acid Armor",
+  "it": "Acidarmatura"
+ },
+ {
+  "id": 583,
+  "en": "Baneful Bunker",
+  "it": "Fortino"
+ },
+ {
+  "id": 584,
+  "en": "Coil",
+  "it": "Arrotola"
+ },
+ {
+  "id": 585,
+  "en": "Gastro Acid",
+  "it": "Gastroacido"
+ },
+ {
+  "id": 586,
+  "en": "Poison Gas",
+  "it": "Velenogas"
+ },
+ {
+  "id": 587,
+  "en": "Poison Powder",
+  "it": "Velenpolvere"
+ },
+ {
+  "id": 588,
+  "en": "Purify",
+  "it": "Purificazione"
+ },
+ {
+  "id": 589,
+  "en": "Toxic",
+  "it": "Tossina"
+ },
+ {
+  "id": 590,
+  "en": "Toxic Spikes",
+  "it": "Fielepunte"
+ },
+ {
+  "id": 591,
+  "en": "Toxic Thread",
+  "it": "Velenotela"
+ },
+ {
+  "id": 592,
+  "en": "Venom Drench",
+  "it": "Velenotrappola"
+ },
+ {
+  "id": 593,
+  "en": "Corrosive Gas",
+  "it": "Gas Corrosivo"
+ },
+ {
+  "id": 594,
+  "en": "Shell Side Arm",
+  "it": "Conchilancio"
+ },
+ {
+  "id": 595,
+  "en": "Prismatic Laser",
+  "it": "Laser Prisma"
+ },
+ {
+  "id": 596,
+  "en": "Psycho Boost",
+  "it": "Psicoslancio"
+ },
+ {
+  "id": 597,
+  "en": "Future Sight",
+  "it": "Divinazione"
+ },
+ {
+  "id": 598,
+  "en": "Synchronoise",
+  "it": "Sincrumore"
+ },
+ {
+  "id": 599,
+  "en": "Dream Eater",
+  "it": "Mangiasogni"
+ },
+ {
+  "id": 600,
+  "en": "Photon Geyser",
+  "it": "Geyser Fotonico"
+ },
+ {
+  "id": 601,
+  "en": "Psystrike",
+  "it": "Psicobotta"
+ },
+ {
+  "id": 602,
+  "en": "Psychic",
+  "it": "Psichico"
+ },
+ {
+  "id": 603,
+  "en": "Psychic Fangs",
+  "it": "Psicozanne"
+ },
+ {
+  "id": 604,
+  "en": "Extrasensory",
+  "it": "Extrasenso"
+ },
+ {
+  "id": 605,
+  "en": "Hyperspace Hole",
+  "it": "Forolargo"
+ },
+ {
+  "id": 606,
+  "en": "Psyshock",
+  "it": "Psicoshock"
+ },
+ {
+  "id": 607,
+  "en": "Zen Headbutt",
+  "it": "Cozzata Zen"
+ },
+ {
+  "id": 608,
+  "en": "Luster Purge",
+  "it": "Abbagliante"
+ },
+ {
+  "id": 609,
+  "en": "Mist Ball",
+  "it": "Foschisfera"
+ },
+ {
+  "id": 610,
+  "en": "Psycho Cut",
+  "it": "Psicotaglio"
+ },
+ {
+  "id": 611,
+  "en": "Psybeam",
+  "it": "Psicoraggio"
+ },
+ {
+  "id": 612,
+  "en": "Heart Stamp",
+  "it": "Cuorestampo"
+ },
+ {
+  "id": 613,
+  "en": "Confusion",
+  "it": "Confusione"
+ },
+ {
+  "id": 614,
+  "en": "Stored Power",
+  "it": "Veicolaforza"
+ },
+ {
+  "id": 615,
+  "en": "Mirror Coat",
+  "it": "Specchiovelo"
+ },
+ {
+  "id": 616,
+  "en": "Psywave",
+  "it": "Psicoonda"
+ },
+ {
+  "id": 617,
+  "en": "Agility",
+  "it": "Agilità"
+ },
+ {
+  "id": 618,
+  "en": "Ally Switch",
+  "it": "Cambiaposto"
+ },
+ {
+  "id": 619,
+  "en": "Amnesia",
+  "it": "Amnesia"
+ },
+ {
+  "id": 620,
+  "en": "Barrier",
+  "it": "Barriera"
+ },
+ {
+  "id": 621,
+  "en": "Calm Mind",
+  "it": "Calmamente"
+ },
+ {
+  "id": 622,
+  "en": "Cosmic Power",
+  "it": "Cosmoforza"
+ },
+ {
+  "id": 623,
+  "en": "Gravity",
+  "it": "Gravità"
+ },
+ {
+  "id": 624,
+  "en": "Guard Split",
+  "it": "Paridifesa"
+ },
+ {
+  "id": 625,
+  "en": "Guard Swap",
+  "it": "Barattoscudo"
+ },
+ {
+  "id": 626,
+  "en": "Heal Block",
+  "it": "Anticura"
+ },
+ {
+  "id": 627,
+  "en": "Heal Pulse",
+  "it": "Pulsocura"
+ },
+ {
+  "id": 628,
+  "en": "Healing Wish",
+  "it": "Curardore"
+ },
+ {
+  "id": 629,
+  "en": "Heart Swap",
+  "it": "Cuorbaratto"
+ },
+ {
+  "id": 630,
+  "en": "Hypnosis",
+  "it": "Ipnosi"
+ },
+ {
+  "id": 631,
+  "en": "Imprison",
+  "it": "Esclusiva"
+ },
+ {
+  "id": 632,
+  "en": "Instruct",
+  "it": "Comando"
+ },
+ {
+  "id": 633,
+  "en": "Kinesis",
+  "it": "Cinèsi"
+ },
+ {
+  "id": 634,
+  "en": "Light Screen",
+  "it": "Schermoluce"
+ },
+ {
+  "id": 635,
+  "en": "Lunar Dance",
+  "it": "Lunardanza"
+ },
+ {
+  "id": 636,
+  "en": "Magic Coat",
+  "it": "Magivelo"
+ },
+ {
+  "id": 637,
+  "en": "Magic Room",
+  "it": "Magicozona"
+ },
+ {
+  "id": 638,
+  "en": "Meditate",
+  "it": "Meditazione"
+ },
+ {
+  "id": 639,
+  "en": "Miracle Eye",
+  "it": "Miracolvista"
+ },
+ {
+  "id": 640,
+  "en": "Power Split",
+  "it": "Pariattacco"
+ },
+ {
+  "id": 641,
+  "en": "Power Swap",
+  "it": "Barattoforza"
+ },
+ {
+  "id": 642,
+  "en": "Power Trick",
+  "it": "Ingannoforza"
+ },
+ {
+  "id": 643,
+  "en": "Psychic Terrain",
+  "it": "Psicocampo"
+ },
+ {
+  "id": 644,
+  "en": "Psycho Shift",
+  "it": "Psicotrasfer"
+ },
+ {
+  "id": 645,
+  "en": "Reflect",
+  "it": "Riflesso"
+ },
+ {
+  "id": 646,
+  "en": "Rest",
+  "it": "Riposo"
+ },
+ {
+  "id": 647,
+  "en": "Role Play",
+  "it": "Giocodiruolo"
+ },
+ {
+  "id": 648,
+  "en": "Skill Swap",
+  "it": "Baratto"
+ },
+ {
+  "id": 649,
+  "en": "Speed Swap",
+  "it": "Scambiavelocità"
+ },
+ {
+  "id": 650,
+  "en": "Telekinesis",
+  "it": "Telecinesi"
+ },
+ {
+  "id": 651,
+  "en": "Teleport",
+  "it": "Teletrasporto"
+ },
+ {
+  "id": 652,
+  "en": "Trick",
+  "it": "Raggiro"
+ },
+ {
+  "id": 653,
+  "en": "Trick Room",
+  "it": "Distortozona"
+ },
+ {
+  "id": 654,
+  "en": "Wonder Room",
+  "it": "Mirabilzona"
+ },
+ {
+  "id": 655,
+  "en": "Magic Powder",
+  "it": "Magipolvere"
+ },
+ {
+  "id": 656,
+  "en": "Expanding Force",
+  "it": "Forzespansione"
+ },
+ {
+  "id": 657,
+  "en": "Eerie Spell",
+  "it": "Formula Arcana"
+ },
+ {
+  "id": 658,
+  "en": "Freezing Glare",
+  "it": "Sguardo Gelido"
+ },
+ {
+  "id": 659,
+  "en": "Head Smash",
+  "it": "Capocciata"
+ },
+ {
+  "id": 660,
+  "en": "Rock Wrecker",
+  "it": "Devastomasso"
+ },
+ {
+  "id": 661,
+  "en": "Diamond Storm",
+  "it": "Diamantempesta"
+ },
+ {
+  "id": 662,
+  "en": "Stone Edge",
+  "it": "Pietrataglio"
+ },
+ {
+  "id": 663,
+  "en": "Power Gem",
+  "it": "Gemmoforza"
+ },
+ {
+  "id": 664,
+  "en": "Rock Slide",
+  "it": "Frana"
+ },
+ {
+  "id": 665,
+  "en": "Ancient Power",
+  "it": "Forzantica"
+ },
+ {
+  "id": 666,
+  "en": "Rock Tomb",
+  "it": "Rocciotomba"
+ },
+ {
+  "id": 667,
+  "en": "Rock Throw",
+  "it": "Sassata"
+ },
+ {
+  "id": 668,
+  "en": "Smack Down",
+  "it": "Abbattimento"
+ },
+ {
+  "id": 669,
+  "en": "Accelerock",
+  "it": "Saltoroccia"
+ },
+ {
+  "id": 670,
+  "en": "Rollout",
+  "it": "Rotolamento"
+ },
+ {
+  "id": 671,
+  "en": "Rock Blast",
+  "it": "Cadutamassi"
+ },
+ {
+  "id": 672,
+  "en": "Rock Polish",
+  "it": "Lucidatura"
+ },
+ {
+  "id": 673,
+  "en": "Sandstorm",
+  "it": "Terrempesta"
+ },
+ {
+  "id": 674,
+  "en": "Stealth Rock",
+  "it": "Levitoroccia"
+ },
+ {
+  "id": 675,
+  "en": "Wide Guard",
+  "it": "Ampioscudo"
+ },
+ {
+  "id": 676,
+  "en": "Tar Shot",
+  "it": "Catramonata"
+ },
+ {
+  "id": 677,
+  "en": "Meteor Beam",
+  "it": "Raggiometeora"
+ },
+ {
+  "id": 678,
+  "en": "Doom Desire",
+  "it": "Desiofato"
+ },
+ {
+  "id": 679,
+  "en": "Iron Tail",
+  "it": "Codacciaio"
+ },
+ {
+  "id": 680,
+  "en": "Sunsteel Strike",
+  "it": "Meteoimpatto"
+ },
+ {
+  "id": 681,
+  "en": "Meteor Mash",
+  "it": "Meteorpugno"
+ },
+ {
+  "id": 682,
+  "en": "Anchor Shot",
+  "it": "Ancorcolpo"
+ },
+ {
+  "id": 683,
+  "en": "Flash Cannon",
+  "it": "Cannonflash"
+ },
+ {
+  "id": 684,
+  "en": "Iron Head",
+  "it": "Metaltestata"
+ },
+ {
+  "id": 685,
+  "en": "Smart Strike",
+  "it": "Perforcorno"
+ },
+ {
+  "id": 686,
+  "en": "Steel Wing",
+  "it": "Alacciaio"
+ },
+ {
+  "id": 687,
+  "en": "Double Iron Bash",
+  "it": "Pugni Rotanti"
+ },
+ {
+  "id": 688,
+  "en": "Mirror Shot",
+  "it": "Cristalcolpo"
+ },
+ {
+  "id": 689,
+  "en": "Magnet Bomb",
+  "it": "Bombagnete"
+ },
+ {
+  "id": 690,
+  "en": "Gear Grind",
+  "it": "Ingracolpo"
+ },
+ {
+  "id": 691,
+  "en": "Metal Claw",
+  "it": "Ferrartigli"
+ },
+ {
+  "id": 692,
+  "en": "Bullet Punch",
+  "it": "Pugnoscarica"
+ },
+ {
+  "id": 693,
+  "en": "Gyro Ball",
+  "it": "Vortexpalla"
+ },
+ {
+  "id": 694,
+  "en": "Heavy Slam",
+  "it": "Pesobomba"
+ },
+ {
+  "id": 695,
+  "en": "Metal Burst",
+  "it": "Metalscoppio"
+ },
+ {
+  "id": 696,
+  "en": "Autotomize",
+  "it": "Sganciapesi"
+ },
+ {
+  "id": 697,
+  "en": "Gear Up",
+  "it": "Ingranaggi"
+ },
+ {
+  "id": 698,
+  "en": "Iron Defense",
+  "it": "Ferroscudo"
+ },
+ {
+  "id": 699,
+  "en": "King's Shield",
+  "it": "Scudo Reale"
+ },
+ {
+  "id": 700,
+  "en": "Metal Sound",
+  "it": "Ferrostrido"
+ },
+ {
+  "id": 701,
+  "en": "Shift Gear",
+  "it": "Marcia"
+ },
+ {
+  "id": 702,
+  "en": "Behemoth Bash",
+  "it": "Scudosolenne"
+ },
+ {
+  "id": 703,
+  "en": "Behemoth Blade",
+  "it": "Spadasolenne"
+ },
+ {
+  "id": 704,
+  "en": "Steel Roller",
+  "it": "Rulloduro"
+ },
+ {
+  "id": 705,
+  "en": "Steel Beam",
+  "it": "Raggiacciaio"
+ },
+ {
+  "id": 706,
+  "en": "Hydro Cannon",
+  "it": "Idrocannone"
+ },
+ {
+  "id": 707,
+  "en": "Water Spout",
+  "it": "Zampillo"
+ },
+ {
+  "id": 708,
+  "en": "Hydro Pump",
+  "it": "Idropompa"
+ },
+ {
+  "id": 709,
+  "en": "Origin Pulse",
+  "it": "Primopulsar"
+ },
+ {
+  "id": 710,
+  "en": "Steam Eruption",
+  "it": "Vaporscoppio"
+ },
+ {
+  "id": 711,
+  "en": "Crabhammer",
+  "it": "Martellata"
+ },
+ {
+  "id": 712,
+  "en": "Aqua Tail",
+  "it": "Idrondata"
+ },
+ {
+  "id": 713,
+  "en": "Muddy Water",
+  "it": "Fanghiglia"
+ },
+ {
+  "id": 714,
+  "en": "Sparkling Aria",
+  "it": "Bollaria"
+ },
+ {
+  "id": 715,
+  "en": "Surf",
+  "it": "Surf"
+ },
+ {
+  "id": 716,
+  "en": "Liquidation",
+  "it": "Acquadirompente"
+ },
+ {
+  "id": 717,
+  "en": "Dive",
+  "it": "Sub"
+ },
+ {
+  "id": 718,
+  "en": "Scald",
+  "it": "Idrovampata"
+ },
+ {
+  "id": 719,
+  "en": "Water Pledge",
+  "it": "Acquapatto"
+ },
+ {
+  "id": 720,
+  "en": "Waterfall",
+  "it": "Cascata"
+ },
+ {
+  "id": 721,
+  "en": "Razor Shell",
+  "it": "Conchilama"
+ },
+ {
+  "id": 722,
+  "en": "Brine",
+  "it": "Acquadisale"
+ },
+ {
+  "id": 723,
+  "en": "Bubble Beam",
+  "it": "Bollaraggio"
+ },
+ {
+  "id": 724,
+  "en": "Octazooka",
+  "it": "Octazooka"
+ },
+ {
+  "id": 725,
+  "en": "Water Pulse",
+  "it": "Idropulsar"
+ },
+ {
+  "id": 726,
+  "en": "Aqua Jet",
+  "it": "Acquagetto"
+ },
+ {
+  "id": 727,
+  "en": "Bubble",
+  "it": "Bolla"
+ },
+ {
+  "id": 728,
+  "en": "Water Gun",
+  "it": "Pistolacqua"
+ },
+ {
+  "id": 729,
+  "en": "Clamp",
+  "it": "Tenaglia"
+ },
+ {
+  "id": 730,
+  "en": "Whirlpool",
+  "it": "Mulinello"
+ },
+ {
+  "id": 731,
+  "en": "Water Shuriken",
+  "it": "Acqualame"
+ },
+ {
+  "id": 732,
+  "en": "Aqua Ring",
+  "it": "Acquanello"
+ },
+ {
+  "id": 733,
+  "en": "Rain Dance",
+  "it": "Pioggiadanza"
+ },
+ {
+  "id": 734,
+  "en": "Soak",
+  "it": "Inzuppata"
+ },
+ {
+  "id": 735,
+  "en": "Water Sport",
+  "it": "Docciascudo"
+ },
+ {
+  "id": 736,
+  "en": "Withdraw",
+  "it": "Ritirata"
+ },
+ {
+  "id": 737,
+  "en": "Snipe Shot",
+  "it": "Tiromirato"
+ },
+ {
+  "id": 738,
+  "en": "Fishious Rend",
+  "it": "Branchiatesta"
+ },
+ {
+  "id": 739,
+  "en": "Life Dew",
+  "it": "Vitarugiada"
+ },
+ {
+  "id": 740,
+  "en": "Surging Strikes",
+  "it": "Idroraffica"
+ },
+ {
+  "id": 741,
+  "en": "Flip Turn",
+  "it": "Virata"
+ },
+ {
+  "id": 1000,
+  "en": "Breakneck Blitz",
+  "it": "Turbocarica Folle"
+ },
+ {
+  "id": 1001,
+  "en": "All-Out Pummeling",
+  "it": "Pugni Senza Freni"
+ },
+ {
+  "id": 1002,
+  "en": "Supersonic Skystrike",
+  "it": "Volo Supersonico"
+ },
+ {
+  "id": 1003,
+  "en": "Acid Downpour",
+  "it": "Pioggia Acida"
+ },
+ {
+  "id": 1004,
+  "en": "Tectonic Rage",
+  "it": "Ira Tettonica"
+ },
+ {
+  "id": 1005,
+  "en": "Continental Crush",
+  "it": "Crollo Continentale"
+ },
+ {
+  "id": 1006,
+  "en": "Savage Spin-Out",
+  "it": "Spirale Selvaggia"
+ },
+ {
+  "id": 1007,
+  "en": "Never-Ending Nightmare",
+  "it": "Incubo Senza Fine"
+ },
+ {
+  "id": 1008,
+  "en": "Corkscrew Crash",
+  "it": "Trivella Rovinosa"
+ },
+ {
+  "id": 1009,
+  "en": "Inferno Overdrive",
+  "it": "Iperinferno"
+ },
+ {
+  "id": 1010,
+  "en": "Hydro Vortex",
+  "it": "Idrovortice"
+ },
+ {
+  "id": 1011,
+  "en": "Bloom Doom",
+  "it": "Fioritura Fatale"
+ },
+ {
+  "id": 1012,
+  "en": "Gigavolt Havoc",
+  "it": "Gigavolt Devastante"
+ },
+ {
+  "id": 1013,
+  "en": "Shattered Psyche",
+  "it": "Psiche Frantumata"
+ },
+ {
+  "id": 1014,
+  "en": "Subzero Slammer",
+  "it": "Schianto Sottozero"
+ },
+ {
+  "id": 1015,
+  "en": "Devastating Drake",
+  "it": "Drago Devastante"
+ },
+ {
+  "id": 1016,
+  "en": "Black Hole Eclipse",
+  "it": "Eclissi Buco Nero"
+ },
+ {
+  "id": 1017,
+  "en": "Twinkle Tackle",
+  "it": "Carica Scintillante"
+ },
+ {
+  "id": 1018,
+  "en": "Stoked Sparksurfer",
+  "it": "Surf Elettrizzante"
+ },
+ {
+  "id": 1019,
+  "en": "Sinister Arrow Raid",
+  "it": "Pioggia di Frecce"
+ },
+ {
+  "id": 1020,
+  "en": "Malicious Moonsault",
+  "it": "Lunasalto Maligno"
+ },
+ {
+  "id": 1021,
+  "en": "Oceanic Operetta",
+  "it": "Operetta Oceanica"
+ },
+ {
+  "id": 1022,
+  "en": "Extreme Evoboost",
+  "it": "Evoboost Estremo"
+ },
+ {
+  "id": 1023,
+  "en": "Catastropika",
+  "it": "Catastropika"
+ },
+ {
+  "id": 1024,
+  "en": "Pulverizing Pancake",
+  "it": "Spianata Polverizzante"
+ },
+ {
+  "id": 1025,
+  "en": "Genesis Supernova",
+  "it": "Supernova Genesi"
+ },
+ {
+  "id": 1026,
+  "en": "Guardian of Alola",
+  "it": "Guardiano di Alola"
+ },
+ {
+  "id": 1027,
+  "en": "Soul-Stealing 7-Star Strike",
+  "it": "Colpo Rubanima 7 Stelle"
+ },
+ {
+  "id": 1028,
+  "en": "10,000,000 Volt Tunderbolt",
+  "it": "Fulmine da 10.000.000 Volt"
+ },
+ {
+  "id": 1029,
+  "en": "Clangorous Soulblaze",
+  "it": "Fiammanima Fragorosa"
+ },
+ {
+  "id": 1030,
+  "en": "Menacing Moonraze Maelstrom",
+  "it": "Vortice Lunafiamma"
+ },
+ {
+  "id": 1031,
+  "en": "Splintered Stormshards",
+  "it": "Tempesta di Schegge"
+ },
+ {
+  "id": 1032,
+  "en": "Let's Snuggle Forever",
+  "it": "Coccole Infinite"
+ },
+ {
+  "id": 1033,
+  "en": "Searing Sunraze Smash",
+  "it": "Impatto Solarfiamma"
+ },
+ {
+  "id": 1034,
+  "en": "Light That Burns the Sky",
+  "it": "Luce che Arde il Cielo"
+ },
+ {
+  "id": 1035,
+  "en": "Max Guard",
+  "it": "Barriera Max"
+ },
+ {
+  "id": 1036,
+  "en": "Max Knuckle",
+  "it": "Nocca Max"
+ },
+ {
+  "id": 1037,
+  "en": "Max Steelspike",
+  "it": "Acciaiospina Max"
+ },
+ {
+  "id": 1038,
+  "en": "Max Ooze",
+  "it": "Acido Max"
+ },
+ {
+  "id": 1039,
+  "en": "Max Quake",
+  "it": "Sisma Max"
+ },
+ {
+  "id": 1040,
+  "en": "Max Airstream",
+  "it": "Corrente Max"
+ },
+ {
+  "id": 1041,
+  "en": "Max Wyrmwind",
+  "it": "Dragovento Max"
+ },
+ {
+  "id": 1042,
+  "en": "Max Phantasm",
+  "it": "Spettro Max"
+ },
+ {
+  "id": 1043,
+  "en": "Max Flutterby",
+  "it": "Svolazzo Max"
+ },
+ {
+  "id": 1044,
+  "en": "Max Darkness",
+  "it": "Tenebre Max"
+ },
+ {
+  "id": 1045,
+  "en": "Max Strike",
+  "it": "Attacco Max"
+ },
+ {
+  "id": 1046,
+  "en": "Max Flare",
+  "it": "Fiammata Max"
+ },
+ {
+  "id": 1047,
+  "en": "Max Geyser",
+  "it": "Geyser Max"
+ },
+ {
+  "id": 1048,
+  "en": "Max Hailstorm",
+  "it": "Grandine Max"
+ },
+ {
+  "id": 1049,
+  "en": "Max Rockfall",
+  "it": "Macigno Max"
+ },
+ {
+  "id": 1050,
+  "en": "Max Overgrowth",
+  "it": "Vegetazione Max"
+ },
+ {
+  "id": 1051,
+  "en": "Max Lightning",
+  "it": "Fulmine Max"
+ },
+ {
+  "id": 1052,
+  "en": "Max Starfall",
+  "it": "Stelle Max"
+ },
+ {
+  "id": 1053,
+  "en": "Max Mindstorm",
+  "it": "Psicoattacco Max"
+ },
+ {
+  "id": 1054,
+  "en": "G-Max Vine Lash",
+  "it": "Gigafrustata"
+ },
+ {
+  "id": 1055,
+  "en": "G-Max Wildfire",
+  "it": "Gigarogo"
+ },
+ {
+  "id": 1056,
+  "en": "G-Max Cannonade",
+  "it": "Gigacannonata"
+ },
+ {
+  "id": 1057,
+  "en": "G-Max Volcalith",
+  "it": "Gigarocciafuoco"
+ },
+ {
+  "id": 1058,
+  "en": "G-Max Drum Solo",
+  "it": "Gigarullio"
+ },
+ {
+  "id": 1059,
+  "en": "G-Max Fireball",
+  "it": "Gigafiammata"
+ },
+ {
+  "id": 1060,
+  "en": "G-Max Hydrosnipe",
+  "it": "Gigatiromirato"
+ },
+ {
+  "id": 1061,
+  "en": "G-Max Volt Crash",
+  "it": "Gigascarica"
+ },
+ {
+  "id": 1062,
+  "en": "G-Max Malodor",
+  "it": "Gigafetore"
+ },
+ {
+  "id": 1063,
+  "en": "G-Max Stun Shock",
+  "it": "Gigatossiscossa"
+ },
+ {
+  "id": 1064,
+  "en": "G-Max Befuddle",
+  "it": "Gigastordimento"
+ },
+ {
+  "id": 1065,
+  "en": "G-Max Smite",
+  "it": "Gigacastigo"
+ },
+ {
+  "id": 1066,
+  "en": "G-Max Gold Rush",
+  "it": "Gigamonete"
+ },
+ {
+  "id": 1067,
+  "en": "G-Max Stonesurge",
+  "it": "Gigagettopietre"
+ },
+ {
+  "id": 1068,
+  "en": "G-Max Steelsurge",
+  "it": "Gigacciaiopunte"
+ },
+ {
+  "id": 1069,
+  "en": "G-Max Centiferno",
+  "it": "Gigacentinferno"
+ },
+ {
+  "id": 1070,
+  "en": "G-Max Sandblast",
+  "it": "Gigasabbiatura"
+ },
+ {
+  "id": 1071,
+  "en": "G-Max Foam Burst",
+  "it": "Gigaschiuma"
+ },
+ {
+  "id": 1072,
+  "en": "G-Max Wind Rage",
+  "it": "Gigaciclone"
+ },
+ {
+  "id": 1073,
+  "en": "G-Max Gravitas",
+  "it": "Gigagravità"
+ },
+ {
+  "id": 1074,
+  "en": "G-Max Finale",
+  "it": "Gigafinale"
+ },
+ {
+  "id": 1075,
+  "en": "G-Max Sweetness",
+  "it": "Gigadolcezza"
+ },
+ {
+  "id": 1076,
+  "en": "G-Max Tartness",
+  "it": "Gigasprizzacido"
+ },
+ {
+  "id": 1077,
+  "en": "G-Max Replenish",
+  "it": "Gigaricarica"
+ },
+ {
+  "id": 1078,
+  "en": "G-Max Depletion",
+  "it": "Gigaprosciugo"
+ },
+ {
+  "id": 1079,
+  "en": "G-Max Resonance",
+  "it": "Gigarisonanza"
+ },
+ {
+  "id": 1080,
+  "en": "G-Max Chi Strike",
+  "it": "Gigapugno"
+ },
+ {
+  "id": 1081,
+  "en": "G-Max Terror",
+  "it": "Gigaombra"
+ },
+ {
+  "id": 1082,
+  "en": "G-Max Snooze",
+  "it": "Gigasbadiglio"
+ },
+ {
+  "id": 1083,
+  "en": "G-Max Cuddle",
+  "it": "Gigabbraccio"
+ },
+ {
+  "id": 1084,
+  "en": "G-Max Meltdown",
+  "it": "Gigafusione"
+ },
+ {
+  "id": 1085,
+  "en": "G-Max One Blow",
+  "it": "Gigacolpo Unico"
+ },
+ {
+  "id": 1086,
+  "en": "G-Max Rapid Flow",
+  "it": "Gigacolpo Fluido"
+ },
+ {
+  "id": 1087,
+  "en": "Dire Claw",
+  "it": "Funestartigli"
+ },
+ {
+  "id": 1088,
+  "en": "Psyshield Bash",
+  "it": "Psicoscudo"
+ },
+ {
+  "id": 1089,
+  "en": "Power Shift",
+  "it": "Invertiforza"
+ },
+ {
+  "id": 1090,
+  "en": "Stone Axe",
+  "it": "Asciapietra"
+ },
+ {
+  "id": 1091,
+  "en": "Springtide Storm",
+  "it": "Bufera Primaverile"
+ },
+ {
+  "id": 1092,
+  "en": "Mystical Power",
+  "it": "Forza Mistica"
+ },
+ {
+  "id": 1093,
+  "en": "Raging Fury",
+  "it": "Furibondo"
+ },
+ {
+  "id": 1094,
+  "en": "Wave Crash",
+  "it": "Ondaschianto"
+ },
+ {
+  "id": 1095,
+  "en": "Chloroblast",
+  "it": "Clorobomba"
+ },
+ {
+  "id": 1096,
+  "en": "Mountain Gale",
+  "it": "Ventomontano"
+ },
+ {
+  "id": 1097,
+  "en": "Victory Dance",
+  "it": "Danzavittoria"
+ },
+ {
+  "id": 1098,
+  "en": "Headlong Rush",
+  "it": "Sfondamento"
+ },
+ {
+  "id": 1099,
+  "en": "Barb Barrage",
+  "it": "Spinaraffica"
+ },
+ {
+  "id": 1100,
+  "en": "Esper Wing",
+  "it": "Psicoala"
+ },
+ {
+  "id": 1101,
+  "en": "Bitter Malice",
+  "it": "Rancore Amaro"
+ },
+ {
+  "id": 1102,
+  "en": "Shelter",
+  "it": "Rifugio"
+ },
+ {
+  "id": 1103,
+  "en": "Triple Arrows",
+  "it": "Triplofreccia"
+ },
+ {
+  "id": 1104,
+  "en": "Infernal Parade",
+  "it": "Parata Infernale"
+ },
+ {
+  "id": 1105,
+  "en": "Ceaseless Edge",
+  "it": "Lamincessante"
+ },
+ {
+  "id": 1106,
+  "en": "Bleakwind Storm",
+  "it": "Ventotetro"
+ },
+ {
+  "id": 1107,
+  "en": "Wildbolt Storm",
+  "it": "Fulminbufera"
+ },
+ {
+  "id": 1108,
+  "en": "Sandsear Storm",
+  "it": "Sabbiardente"
+ },
+ {
+  "id": 1109,
+  "en": "Lunar Blessing",
+  "it": "Lunabenedizione"
+ },
+ {
+  "id": 1110,
+  "en": "Take Heart",
+  "it": "Animoforza"
+ }
+]

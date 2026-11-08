@@ -1,0 +1,62 @@
+[
+ {
+  "id": "\\bWhich path should I pick? I don't want to pick wrong.",
+  "en": "\\bWhich path should I pick? I don't want to pick wrong.",
+  "it": "\\bQuale sentiero dovrei scegliere? Non voglio sbagliare."
+ },
+ {
+  "id": "\\bLucy is within one of these five paths. Do you wish to try this one?",
+  "en": "\\bLucy is within one of these five paths. Do you wish to try this one?",
+  "it": "\\bLucy si trova lungo uno di questi cinque sentieri. Vuoi provare questo?"
+ },
+ {
+  "id": "\\bYou have already tried this way.",
+  "en": "\\bYou have already tried this way.",
+  "it": "\\bHai già provato questa strada."
+ },
+ {
+  "id": "\\bYou have already beat Lucy.",
+  "en": "\\bYou have already beat Lucy.",
+  "it": "\\bHai già battuto Lucy."
+ },
+ {
+  "id": "\\rI have all the luck in the world. This battle is going to be easy.",
+  "en": "\\rI have all the luck in the world. This battle is going to be easy.",
+  "it": "\\rHo tutta la fortuna del mondo. Questa lotta sarà facile."
+ },
+ {
+  "id": "\\rNurse Joy: You should take a break.",
+  "en": "\\rNurse Joy: You should take a break.",
+  "it": "\\rInfermiera Joy: Dovresti prenderti una pausa."
+ },
+ {
+  "id": "\\rOh, good! You and your Pokémon are looking great. Take care now!",
+  "en": "\\rOh, good! You and your Pokémon are looking great.  Take care now!",
+  "it": "\\rOh, bene! Tu e i tuoi Pokémon avete un ottimo aspetto. Abbi cura di te!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\bNot so lucky, huh?",
+  "en": "\\bNot so lucky, huh?",
+  "it": "\\bNon così fortunata, eh?"
+ },
+ {
+  "id": "\\bNot your lucky day.",
+  "en": "\\bNot your lucky day.",
+  "it": "\\bNon è il tuo giorno fortunato."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

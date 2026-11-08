@@ -1,0 +1,122 @@
+[
+ {
+  "id": "\\bA kid?",
+  "en": "\\bA kid?",
+  "it": "\\bUn ragazzino?"
+ },
+ {
+  "id": "\\bThis isn't fair.",
+  "en": "\\bThis isn't fair.",
+  "it": "\\bNon è giusto."
+ },
+ {
+  "id": "\\bStay out of our way.",
+  "en": "\\bStay out of our way.",
+  "it": "\\bTogliti di mezzo."
+ },
+ {
+  "id": "\\bGolbat, go!",
+  "en": "\\bGolbat, go!",
+  "it": "\\bVai, Golbat!"
+ },
+ {
+  "id": "\\bGolbat... crap, I don't know.",
+  "en": "\\bGolbat... crap, I don't know.",
+  "it": "\\bGolbat... accidenti, non lo so."
+ },
+ {
+  "id": "\\bStop.",
+  "en": "\\bStop.",
+  "it": "\\bFermo."
+ },
+ {
+  "id": "\\bYou won't make it.",
+  "en": "\\bYou won't make it.",
+  "it": "\\bNon ce la farai."
+ },
+ {
+  "id": "\\rCynthia: Thank you taking care of those thieves. Unfortunately, we have a different problem to deal with.",
+  "en": "\\rCynthia: Thank you taking care of those thieves.  Unfortunately, we have a different problem to deal with.",
+  "it": "\\rCamilla: Grazie per aver sistemato quei ladri. Purtroppo abbiamo un altro problema da affrontare."
+ },
+ {
+  "id": "\\rWe need to head for the research center. The Orb was moved there to be studied. I think they're trying to take it. Don't worry, I'll help you out.",
+  "en": "\\rWe need to head for the research center. The Orb was moved there to be studied. I think they're trying to take it. Don't worry, I'll help you out.",
+  "it": "\\rDobbiamo andare al centro di ricerca. La Sfera è stata portata lì per essere studiata. Credo che vogliano rubarla. Non preoccuparti, ti darò una mano."
+ },
+ {
+  "id": "\\PN teamed up with Cynthia!\\se[itemlevel]\\wtnp[20]",
+  "en": "\\PN teamed up with Cynthia!\\se[itemlevel]\\wtnp[20]",
+  "it": "\\PN fa squadra con Camilla!\\se[itemlevel]\\wtnp[20]"
+ },
+ {
+  "id": "\\rCynthia: I'll need to take care of the ruins, but you deserve something for helping me out.",
+  "en": "\\rCynthia: I'll need to take care of the ruins, but you deserve something for helping me out.",
+  "it": "\\rCamilla: Devo occuparmi delle rovine, ma ti meriti qualcosa per avermi aiutata."
+ },
+ {
+  "id": "\\rOh I know. There's an old woman who lives on Route 210. I'll tell her you're coming. She can teach you a special dragon move.",
+  "en": "\\rOh I know. There's an old woman who lives on Route 210. I'll tell her you're coming. She can teach you a special dragon move.",
+  "it": "\\rOh, lo so io. C'è un'anziana signora che vive sul Percorso 210. Le dirò che stai arrivando. Può insegnarti una speciale mossa di tipo Drago."
+ },
+ {
+  "id": "\\rThe ruins are quite damaged from your battle. We need time to repair them.",
+  "en": "\\rThe ruins are quite damaged from your battle. We need time to repair them.",
+  "it": "\\rLe rovine sono piuttosto danneggiate dalla vostra lotta. Ci serve tempo per ripararle."
+ },
+ {
+  "id": "Celestic Town\\nThe Past Lives",
+  "en": "Celestic Town\\nThe Past Lives",
+  "it": "Memoride\\nDove il passato vive"
+ },
+ {
+  "id": "\\rNosepass",
+  "en": "\\rNosepass",
+  "it": "\\rNosepass"
+ },
+ {
+  "id": "\\bDo you see this?",
+  "en": "\\bDo you see this?",
+  "it": "\\bLo vedi questo?"
+ },
+ {
+  "id": "\\bThis is not good.",
+  "en": "\\bThis is not good.",
+  "it": "\\bQuesto non va bene."
+ },
+ {
+  "id": "\\bGeodude",
+  "en": "\\bGeodude",
+  "it": "\\bGeodude"
+ },
+ {
+  "id": "\\bThe Champion?",
+  "en": "\\bThe Champion?",
+  "it": "\\bLa Campionessa?"
+ },
+ {
+  "id": "\\bYou ever stop to think that you're in the wrong.",
+  "en": "\\bYou ever stop to think that you're in the wrong.",
+  "it": "\\bTi sei mai fermato a pensare che forse sei tu dalla parte del torto?"
+ },
+ {
+  "id": "Celestic Town Pokémon Contest Hall",
+  "en": "Celestic Town Pokémon Contest Hall",
+  "it": "Sala delle Gare Pokémon di Memoride"
+ },
+ {
+  "id": "\\rWelcome to Celestic Town! May your stay here be informative.",
+  "en": "\\rWelcome to Celestic Town! May your stay here be informative.",
+  "it": "\\rBenvenuto a Memoride! Spero che il tuo soggiorno qui sia istruttivo."
+ },
+ {
+  "id": "\\bHow about you don't?",
+  "en": "\\bHow about you don't?",
+  "it": "\\bChe ne dici di lasciar perdere?"
+ },
+ {
+  "id": "\\bMove along.",
+  "en": "\\bMove along.",
+  "it": "\\bCircolare."
+ }
+]

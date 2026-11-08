@@ -1,0 +1,142 @@
+[
+ {
+  "id": "\\bThe Bug Catching Contest only takes place on Tuesday, Thursday, or Saturday.",
+  "en": "\\bThe Bug Catching Contest only takes place on Tuesday, Thursday, or Saturday.",
+  "it": "\\bLa Gara di Cattura Insetti si tiene solo di martedì, giovedì o sabato."
+ },
+ {
+  "id": "\\bThe Pokémon you find in the National Park change depending on if you're competing. Please talk to the man next to me if you want to play.",
+  "en": "\\bThe Pokémon you find in the National Park change depending on if you're competing. Please talk to the man next to me if you want to play.",
+  "it": "\\bI Pokémon che trovi nel Parco Nazionale cambiano a seconda che tu stia gareggiando o no. Parla con l'uomo accanto a me se vuoi partecipare."
+ },
+ {
+  "id": "\\bWe hope you'll take part in a Bug-Catching Contest in the future!",
+  "en": "\\bWe hope you'll take part in a Bug-Catching Contest in the future!",
+  "it": "\\bSperiamo che parteciperai a una Gara di Cattura Insetti in futuro!"
+ },
+ {
+  "id": "\\bToday's \\v[1].",
+  "en": "\\bToday's \\v[1].",
+  "it": "\\bOggi è \\v[1]."
+ },
+ {
+  "id": "\\bThat means the Bug-Catching Contest is on today.",
+  "en": "\\bThat means the Bug-Catching Contest is on today.",
+  "it": "\\bQuindi oggi si tiene la Gara di Cattura Insetti."
+ },
+ {
+  "id": "\\bThe rules are simple.",
+  "en": "\\bThe rules are simple.",
+  "it": "\\bLe regole sono semplici."
+ },
+ {
+  "id": "\\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.",
+  "en": "\\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.",
+  "it": "\\bUsando uno dei tuoi Pokémon, cattura un Pokémon di tipo Coleottero che verrà giudicato."
+ },
+ {
+  "id": "\\bWould you like to give it a try?",
+  "en": "\\bWould you like to give it a try?",
+  "it": "\\bVuoi provare?"
+ },
+ {
+  "id": "\\bSorry, your PC boxes are full.",
+  "en": "\\bSorry, your PC boxes are full.",
+  "it": "\\bMi dispiace, i tuoi Box del PC sono pieni."
+ },
+ {
+  "id": "\\bYou are only allowed to take 1 Pokémon into the Contest.",
+  "en": "\\bYou are only allowed to take 1 Pokémon into the Contest.",
+  "it": "\\bPuoi portare solo 1 Pokémon alla Gara."
+ },
+ {
+  "id": "\\bPlease choose which Pokémon you want to enter with.",
+  "en": "\\bPlease choose which Pokémon you want to enter with.",
+  "it": "\\bScegli con quale Pokémon vuoi partecipare."
+ },
+ {
+  "id": "\\bOK. We hope you'll take part in the future.",
+  "en": "\\bOK. We hope you'll take part in the future.",
+  "it": "\\bOK. Speriamo che parteciperai in futuro."
+ },
+ {
+  "id": "\\bYou will be entering with \\v[2], then.",
+  "en": "\\bYou will be entering with \\v[2], then.",
+  "it": "\\bParteciperai con \\v[2], allora."
+ },
+ {
+  "id": "\\bWe'll hold your other Pokémon while you compete.",
+  "en": "\\bWe'll hold your other Pokémon while you compete.",
+  "it": "\\bTerremo noi gli altri tuoi Pokémon mentre gareggi."
+ },
+ {
+  "id": "\\PN's Pokémon were left with the Contest Helper.\\se[Pkmn exp full]\\wtnp[20]",
+  "en": "\\PN's Pokémon were left with the Contest Helper.\\se[Pkmn exp full]\\wtnp[20]",
+  "it": "\\PN ha lasciato i suoi Pokémon all'assistente della Gara.\\se[Pkmn exp full]\\wtnp[20]"
+ },
+ {
+  "id": "\\bHere are the Sport Balls for the Contest.",
+  "en": "\\bHere are the Sport Balls for the Contest.",
+  "it": "\\bEcco le Gara Ball per la Gara."
+ },
+ {
+  "id": "\\PN received 20 Sport Balls.\\me[Item get]\\wtnp[40]",
+  "en": "\\PN received 20 Sport Balls.\\me[Item get]\\wtnp[40]",
+  "it": "\\PN ha ricevuto 20 Gara Ball.\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\bThe person who gets the strongest bug Pokémon is the winner.",
+  "en": "\\bThe person who gets the strongest bug Pokémon is the winner.",
+  "it": "\\bVince chi cattura il Pokémon Coleottero più forte."
+ },
+ {
+  "id": "\\bYou have 20 minutes.",
+  "en": "\\bYou have 20 minutes.",
+  "it": "\\bHai 20 minuti."
+ },
+ {
+  "id": "\\bIf you run out of Sport Balls, you're done.",
+  "en": "\\bIf you run out of Sport Balls, you're done.",
+  "it": "\\bSe finisci le Gara Ball, hai finito."
+ },
+ {
+  "id": "\\bYou can keep the last Pokémon you catch as your own.",
+  "en": "\\bYou can keep the last Pokémon you catch as your own.",
+  "it": "\\bPuoi tenere l'ultimo Pokémon che catturi."
+ },
+ {
+  "id": "\\bGo out and catch the strongest Bug-type Pokémon you can find!",
+  "en": "\\bGo out and catch the strongest Bug-type Pokémon you can find!",
+  "it": "\\bVai e cattura il Pokémon di tipo Coleottero più forte che riesci a trovare!"
+ },
+ {
+  "id": "\\bWe hold contests regularly in the Park. You should give it a shot.",
+  "en": "\\bWe hold contests regularly in the Park. You should give it a shot.",
+  "it": "\\bOrganizziamo regolarmente delle gare nel Parco. Dovresti provare."
+ },
+ {
+  "id": "\\bYou still have some time left. Do you want to finish now?",
+  "en": "\\bYou still have some time left. Do you want to finish now?",
+  "it": "\\bTi resta ancora un po' di tempo. Vuoi finire adesso?"
+ },
+ {
+  "id": "\\bOK. Please wait in the pavillion for the announcement of the winners.",
+  "en": "\\bOK. Please wait in the pavillion for the announcement of the winners.",
+  "it": "\\bOK. Attendi nel padiglione l'annuncio dei vincitori."
+ },
+ {
+  "id": "\\bOK. Please go back outside and finish up.",
+  "en": "\\bOK. Please go back outside and finish up.",
+  "it": "\\bOK. Torna fuori e finisci."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

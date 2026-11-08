@@ -1,0 +1,187 @@
+[
+ {
+  "id": "\\rYour Pokémon seem powerful. Show me.",
+  "en": "\\rYour Pokémon seem powerful. Show me.",
+  "it": "\\rI tuoi Pokémon sembrano potenti. Fammi vedere."
+ },
+ {
+  "id": "\\rKeep training them.",
+  "en": "\\rKeep training them.",
+  "it": "\\rContinua ad allenarli."
+ },
+ {
+  "id": "\\bI wanna fly away.",
+  "en": "\\bI wanna fly away.",
+  "it": "\\bVoglio volare via."
+ },
+ {
+  "id": "\\bAm I flying yet?",
+  "en": "\\bAm I flying yet?",
+  "it": "\\bSto già volando?"
+ },
+ {
+  "id": "Pokémon Breeding Center",
+  "en": "Pokémon Breeding Center",
+  "it": "Centro Allevamento Pokémon"
+ },
+ {
+  "id": "\\bWoah kid. Stay off my turf.",
+  "en": "\\bWoah kid. Stay off my turf.",
+  "it": "\\bEhi, ragazzino. Sta' lontano dal mio territorio."
+ },
+ {
+  "id": "\\bSorry. I wanted to sound tough.",
+  "en": "\\bSorry. I wanted to sound tough.",
+  "it": "\\bScusa. Volevo sembrare un duro."
+ },
+ {
+  "id": "\\bSomeone is trying to steal our Eggs. Please help us out.",
+  "en": "\\bSomeone is trying to steal our Eggs. Please help us out.",
+  "it": "\\bQualcuno sta cercando di rubare le nostre Uova. Ti prego, aiutaci."
+ },
+ {
+  "id": "\\bFind anything?",
+  "en": "\\bFind anything?",
+  "it": "\\bTrovato qualcosa?"
+ },
+ {
+  "id": "\\bWell keep at it.",
+  "en": "\\bWell keep at it.",
+  "it": "\\bBeh, continua così."
+ },
+ {
+  "id": "\\bThank you so much for saving our Eggs. How would you like to take one as a gift?",
+  "en": "\\bThank you so much for saving our Eggs. How would you like to take one as a gift?",
+  "it": "\\bGrazie mille per aver salvato le nostre Uova. Che ne dici di prenderne una in regalo?"
+ },
+ {
+  "id": "Christopher",
+  "en": "Christopher",
+  "it": "Christopher"
+ },
+ {
+  "id": "\\bTake good care of it!",
+  "en": "\\bTake good care of it!",
+  "it": "\\bAbbine cura!"
+ },
+ {
+  "id": "\\bOh, you can't carry it with you.",
+  "en": "\\bOh, you can't carry it with you.",
+  "it": "\\bOh, non puoi portarlo con te."
+ },
+ {
+  "id": "\\bMake some space in your party and come back.",
+  "en": "\\bMake some space in your party and come back.",
+  "it": "\\bFai un po' di posto nella tua squadra e torna."
+ },
+ {
+  "id": "\\bNo problem. The offer always stands.",
+  "en": "\\bNo problem. The offer always stands.",
+  "it": "\\bNessun problema. L'offerta resta sempre valida."
+ },
+ {
+  "id": "\\bThe Egg will hatch into a Fire type. Though which one it is is a surprise.",
+  "en": "\\bThe Egg will hatch into a Fire type. Though which one it is is a surprise.",
+  "it": "\\bDall'Uovo nascerà un Pokémon di tipo Fuoco. Quale sarà, però, è una sorpresa."
+ },
+ {
+  "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\rTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\rAh, looks like a challenging Trainer. Ready, Jes?",
+  "en": "\\rAh, looks like a challenging Trainer.  Ready, Jes?",
+  "it": "\\rAh, sembra un Allenatore impegnativo.  Ci sei, Jes?"
+ },
+ {
+  "id": "\\rAt least I still have Jes.",
+  "en": "\\rAt least I still have Jes.",
+  "it": "\\rAlmeno ho ancora Jes."
+ },
+ {
+  "id": "\\rStay away from our Eggs.",
+  "en": "\\rStay away from our Eggs.",
+  "it": "\\rStai lontano dalle nostre Uova."
+ },
+ {
+  "id": "\\rSorry. I thought you were going to steal them.",
+  "en": "\\rSorry. I thought you were going to steal them.",
+  "it": "\\rScusa. Pensavo che volessi rubarle."
+ },
+ {
+  "id": "\\rLet's soar.",
+  "en": "\\rLet's soar.",
+  "it": "\\rSpicchiamo il volo."
+ },
+ {
+  "id": "\\rMaybe I'm not cut out for this.",
+  "en": "\\rMaybe I'm not cut out for this.",
+  "it": "\\rForse non sono tagliata per questo."
+ },
+ {
+  "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\bTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\bAh, looks like a challenging Trainer. Ready, Gia?",
+  "en": "\\bAh, looks like a challenging Trainer.  Ready, Gia?",
+  "it": "\\bAh, sembra un Allenatore impegnativo.  Ci sei, Gia?"
+ },
+ {
+  "id": "\\bStay with me Gia.",
+  "en": "\\bStay with me Gia.",
+  "it": "\\bResta con me, Gia."
+ },
+ {
+  "id": "\\bI never catch anything. I don't need this.",
+  "en": "\\bI never catch anything. I don't need this.",
+  "it": "\\bNon catturo mai niente. Non ne ho bisogno."
+ },
+ {
+  "id": "\\bI never catch anything.",
+  "en": "\\bI never catch anything.",
+  "it": "\\bNon catturo mai niente."
+ },
+ {
+  "id": "\\bFear my power.",
+  "en": "\\bFear my power.",
+  "it": "\\bTemi il mio potere."
+ },
+ {
+  "id": "\\bYou are very strong.",
+  "en": "\\bYou are very strong.",
+  "it": "\\bSei davvero forte."
+ },
+ {
+  "id": "\\bImagine an amusement park sitting here.",
+  "en": "\\bImagine an amusement park sitting here.",
+  "it": "\\bImmagina un parco divertimenti proprio qui."
+ },
+ {
+  "id": "\\bI think I'll step back.",
+  "en": "\\bI think I'll step back.",
+  "it": "\\bCredo che mi farò da parte."
+ },
+ {
+  "id": "\\bLet's rock. Time to prove to my family I can do this.",
+  "en": "\\bLet's rock. Time to prove to my family I can do this.",
+  "it": "\\bSi parte. È ora di dimostrare alla mia famiglia che ce la posso fare."
+ },
+ {
+  "id": "\\bI should get home to my wife and son.",
+  "en": "\\bI should get home to my wife and son.",
+  "it": "\\bDovrei tornare a casa da mia moglie e mio figlio."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

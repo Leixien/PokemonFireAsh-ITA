@@ -1,0 +1,172 @@
+[
+ {
+  "id": "\\bHello! Sorry to keep you waiting!",
+  "en": "\\bHello! Sorry to keep you waiting!",
+  "it": "\\bCiao! Scusa se ti ho fatto aspettare!"
+ },
+ {
+  "id": "\\bWelcome to the world of Pokémon.",
+  "en": "\\bWelcome to the world of Pokémon.",
+  "it": "\\bBenvenuto nel mondo dei Pokémon."
+ },
+ {
+  "id": "\\bMy name is Professor Oak.",
+  "en": "\\bMy name is Professor Oak.",
+  "it": "\\bMi chiamo Professor Oak."
+ },
+ {
+  "id": "\\bPeople call me the Pokémon Professor.",
+  "en": "\\bPeople call me the Pokémon Professor.",
+  "it": "\\bLa gente mi chiama il Professore dei Pokémon."
+ },
+ {
+  "id": "\\bIf you need help, I am certainly capable of giving it.",
+  "en": "\\bIf you need help, I am certainly capable of giving it.",
+  "it": "\\bSe hai bisogno di aiuto, sono senz'altro in grado di dartelo."
+ },
+ {
+  "id": "\\bWell then, without further ado...",
+  "en": "\\bWell then, without further ado...",
+  "it": "\\bBene, allora, senza ulteriori indugi..."
+ },
+ {
+  "id": "<ac>\\c[0]\\l[3]You are about to enter a world\\nwhere you will embark on a grand\\nadventure of your very own.",
+  "en": "<ac>\\c[0]\\l[3]You are about to enter a world\\nwhere you will embark on a grand\\nadventure of your very own.",
+  "it": "<ac>\\c[0]\\l[3]Stai per entrare in un mondo\\nin cui intraprenderai una grande\\navventura tutta tua."
+ },
+ {
+  "id": "<ac>\\c[0]\\l[5]Speak to people and check things\\n wherever you go, be it in towns,\\nroads or caves.\\n Gather information and hints from\\n every possible source.",
+  "en": "<ac>\\c[0]\\l[5]Speak to people and check things\\n wherever you go, be it in towns,\\nroads or caves.\\n Gather information and hints from\\n every possible source.",
+  "it": "<ac>\\c[0]\\l[5]Parla con le persone ed esamina ogni cosa\\n ovunque tu vada, che sia in città,\\nlungo le strade o nelle grotte.\\n Raccogli informazioni e indizi da\\n ogni fonte possibile."
+ },
+ {
+  "id": "<ac>\\c[0]\\l[3]New paths will open to you when\\n you help people in need, overcome\\n challenges, and solve mysteries.",
+  "en": "<ac>\\c[0]\\l[3]New paths will open to you when\\n you help people in need, overcome\\n challenges, and solve mysteries.",
+  "it": "<ac>\\c[0]\\l[3]Nuove strade ti si apriranno quando\\n aiuterai chi è in difficoltà, supererai\\n sfide e risolverai misteri."
+ },
+ {
+  "id": "<ac>\\c[0]\\l[7]At times, you will be challenged\\n by others to a battle.\\n At other times, wild creatures\\nmay stand in your way.\\n\\n By overcoming such hurdles,\\nyou will gain great power.",
+  "en": "<ac>\\c[0]\\l[7]At times, you will be challenged\\n by others to a battle.\\n At other times, wild creatures\\nmay stand in your way.\\n\\n By overcoming such hurdles,\\nyou will gain great power.",
+  "it": "<ac>\\c[0]\\l[7]A volte, altri ti sfideranno\\n a una lotta.\\n Altre volte, creature selvatiche\\npotrebbero sbarrarti la strada.\\n\\n Superando questi ostacoli,\\nacquisirai un grande potere."
+ },
+ {
+  "id": "<ac>\\c[0]\\l[2]However, your adventure is not\\n solely about becoming powerful.",
+  "en": "<ac>\\c[0]\\l[2]However, your adventure is not\\n solely about becoming powerful.",
+  "it": "<ac>\\c[0]\\l[2]Tuttavia, la tua avventura non consiste\\n soltanto nel diventare forte."
+ },
+ {
+  "id": "<ac>\\c[0]\\l[7]On your travels, we hope that\\n you will meet countless people\\n and, through them, achieve\\npersonal growth.\\n\\n This is the most important\\nobjective of this adventure.",
+  "en": "<ac>\\c[0]\\l[7]On your travels, we hope that\\n you will meet countless people\\n and, through them, achieve\\npersonal growth.\\n\\n This is the most important\\nobjective of this adventure.",
+  "it": "<ac>\\c[0]\\l[7]Durante i tuoi viaggi, speriamo che\\n incontrerai innumerevoli persone\\n e che, grazie a loro, potrai\\ncrescere come persona.\\n\\n Questo è l'obiettivo più importante\\ndi questa avventura."
+ },
+ {
+  "id": "\\bThis world is inhabited by creatures we call Pokémon.",
+  "en": "\\bThis world is inhabited by creatures we call Pokémon.",
+  "it": "\\bQuesto mondo è abitato da creature chiamate Pokémon."
+ },
+ {
+  "id": "\\bPeople and Pokémon live together by supporting each other.",
+  "en": "\\bPeople and Pokémon live together by supporting each other.",
+  "it": "\\bPersone e Pokémon vivono insieme, sostenendosi a vicenda."
+ },
+ {
+  "id": "\\bSome people play with Pokémon, some battle with them.",
+  "en": "\\bSome people play with Pokémon, some battle with them.",
+  "it": "\\bAlcuni giocano con i Pokémon, altri ci lottano insieme."
+ },
+ {
+  "id": "\\bBut we don't know everything about Pokémon yet.",
+  "en": "\\bBut we don't know everything about Pokémon yet.",
+  "it": "\\bMa non sappiamo ancora tutto sui Pokémon."
+ },
+ {
+  "id": "\\bThere are still many mysteries to solve.",
+  "en": "\\bThere are still many mysteries to solve.",
+  "it": "\\bCi sono ancora tanti misteri da risolvere."
+ },
+ {
+  "id": "\\bThat's why I study Pokémon every day.",
+  "en": "\\bThat's why I study Pokémon every day.",
+  "it": "\\bEcco perché studio i Pokémon ogni giorno."
+ },
+ {
+  "id": "\\bAre you a boy or a girl?",
+  "en": "\\bAre you a boy or a girl?",
+  "it": "\\bSei un ragazzo o una ragazza?"
+ },
+ {
+  "id": "\\bNow what did you say your name was?",
+  "en": "\\bNow what did you say your name was?",
+  "it": "\\bCome hai detto che ti chiami?"
+ },
+ {
+  "id": "\\bSo you're \\PN?",
+  "en": "\\bSo you're \\PN?",
+  "it": "\\bQuindi sei \\PN?"
+ },
+ {
+  "id": "\\bWhat is your name?",
+  "en": "\\bWhat is your name?",
+  "it": "\\bCome ti chiami?"
+ },
+ {
+  "id": "\\b\\PN, are you ready?",
+  "en": "\\b\\PN, are you ready?",
+  "it": "\\b\\PN, sei pronto?"
+ },
+ {
+  "id": "\\bYour very own Pokémon story is about to unfold.",
+  "en": "\\bYour very own Pokémon story is about to unfold.",
+  "it": "\\bLa tua storia Pokémon sta per avere inizio."
+ },
+ {
+  "id": "\\bYou'll face fun times and tough challenges.",
+  "en": "\\bYou'll face fun times and tough challenges.",
+  "it": "\\bTi aspettano momenti divertenti e sfide difficili."
+ },
+ {
+  "id": "\\bA world of dreams and adventures with Pokémon awaits! Let's go!",
+  "en": "\\bA world of dreams and adventures with Pokémon awaits!  Let's go!",
+  "it": "\\bUn mondo di sogni e avventure con i Pokémon ti attende!  Andiamo!"
+ },
+ {
+  "id": "You can find a lot of useful information about the game in the Helpful Notes folder.",
+  "en": "You can find a lot of useful information about the game in the Helpful Notes folder.",
+  "it": "Puoi trovare molte informazioni utili sul gioco nella cartella Helpful Notes."
+ },
+ {
+  "id": "Controls",
+  "en": "Controls",
+  "it": "Comandi"
+ },
+ {
+  "id": "Adventure",
+  "en": "Adventure",
+  "it": "Avventura"
+ },
+ {
+  "id": "No info needed",
+  "en": "No info needed",
+  "it": "Nessuna info"
+ },
+ {
+  "id": "Boy",
+  "en": "Boy",
+  "it": "Ragazzo"
+ },
+ {
+  "id": "Girl",
+  "en": "Girl",
+  "it": "Ragazza"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

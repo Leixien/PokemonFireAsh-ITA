@@ -1,0 +1,177 @@
+[
+ {
+  "id": "\\bMy Spheal won't listen.",
+  "en": "\\bMy Spheal won't listen.",
+  "it": "\\bIl mio Spheal non mi ascolta."
+ },
+ {
+  "id": "\\bWe need to work together.",
+  "en": "\\bWe need to work together.",
+  "it": "\\bDobbiamo collaborare."
+ },
+ {
+  "id": "\\rThis place is so beautiful. It's nice to take a break from the city.",
+  "en": "\\rThis place is so beautiful. It's nice to take a break from the city.",
+  "it": "\\rQuesto posto è bellissimo. È bello staccare un po' dalla città."
+ },
+ {
+  "id": "\\rDon't forget to slow down and relax every now and then.",
+  "en": "\\rDon't forget to slow down and relax every now and then.",
+  "it": "\\rNon dimenticare di rallentare e rilassarti ogni tanto."
+ },
+ {
+  "id": "\\bThe grass is too random here.",
+  "en": "\\bThe grass is too random here.",
+  "it": "\\bL'erba qui è troppo casuale."
+ },
+ {
+  "id": "\\bUgh this grass is rough.",
+  "en": "\\bUgh this grass is rough.",
+  "it": "\\bUff, quest'erba è ruvida."
+ },
+ {
+  "id": "\\bI wanna get a Voltorb. Are there any here?",
+  "en": "\\bI wanna get a Voltorb. Are there any here?",
+  "it": "\\bVoglio prendere un Voltorb. Ce ne sono da queste parti?"
+ },
+ {
+  "id": "\\rThe flowers here are lovely. I could stay here forever.",
+  "en": "\\rThe flowers here are lovely. I could stay here forever.",
+  "it": "\\rI fiori qui sono deliziosi. Potrei restare qui per sempre."
+ },
+ {
+  "id": "\\bHi there. I'm the Trick Master.",
+  "en": "\\bHi there. I'm the Trick Master. ",
+  "it": "\\bCiao! Sono il Mago dei Trucchi."
+ },
+ {
+  "id": "\\bI usually hold a contest in my house every year for a special prize, but a Jigglypuff came by and ruined it.",
+  "en": "\\bI usually hold a contest in my house every year for a special prize, but a Jigglypuff came by and ruined it.",
+  "it": "\\bDi solito ogni anno organizzo una gara a casa mia con un premio speciale, ma è passato un Jigglypuff e ha rovinato tutto."
+ },
+ {
+  "id": "\\bSo instead I'll give you the chance to win the prize. All you have to do is guess three questions right.",
+  "en": "\\bSo instead I'll give you the chance to win the prize.  All you have to do is guess three questions right.",
+  "it": "\\bQuindi ti darò la possibilità di vincere il premio. Devi solo rispondere bene a tre domande."
+ },
+ {
+  "id": "\\bQuestion 1: What is the evolved form of Grimer?",
+  "en": "\\bQuestion 1: What is the evolved form of Grimer?",
+  "it": "\\bDomanda 1: Qual è la forma evoluta di Grimer?"
+ },
+ {
+  "id": "\\bI'm sorry that's incorrect.",
+  "en": "\\bI'm sorry that's incorrect.",
+  "it": "\\bMi dispiace, risposta sbagliata."
+ },
+ {
+  "id": "\\bCorrect.",
+  "en": "\\bCorrect.",
+  "it": "\\bEsatto."
+ },
+ {
+  "id": "\\bQuestion 2: What color are Raichu's cheeks?",
+  "en": "\\bQuestion 2: What color are Raichu's cheeks?",
+  "it": "\\bDomanda 2: Di che colore sono le guance di Raichu?"
+ },
+ {
+  "id": "\\bQuestion 3: Which Pokémon is associated with Volbeat?",
+  "en": "\\bQuestion 3: Which Pokémon is associated with Volbeat?",
+  "it": "\\bDomanda 3: Quale Pokémon è associato a Volbeat?"
+ },
+ {
+  "id": "\\bCongratulations! You answered every question right. Here is your prize, a Good Rod.",
+  "en": "\\bCongratulations! You answered every question right. Here is your prize, a Good Rod.",
+  "it": "\\bCongratulazioni! Hai risposto correttamente a tutte le domande. Ecco il tuo premio, un Amo Buono."
+ },
+ {
+  "id": "\\bA Good Rod allows you to fish for better Pokémon.",
+  "en": "\\bA Good Rod allows you to fish for better Pokémon.",
+  "it": "\\bCon l'Amo Buono puoi pescare Pokémon migliori."
+ },
+ {
+  "id": "\\rHave you seen a Jigglypuff?",
+  "en": "\\rHave you seen a Jigglypuff?",
+  "it": "\\rHai visto un Jigglypuff?"
+ },
+ {
+  "id": "\\rMy Whismur is hard of hearing.",
+  "en": "\\rMy Whismur is hard of hearing.",
+  "it": "\\rIl mio Whismur ci sente poco."
+ },
+ {
+  "id": "\\bWhat are you looking at?",
+  "en": "\\bWhat are you looking at?",
+  "it": "\\bChe hai da guardare?"
+ },
+ {
+  "id": "\\bIsn't the water beautiful?",
+  "en": "\\bIsn't the water beautiful?",
+  "it": "\\bNon è bellissima l'acqua?"
+ },
+ {
+  "id": "\\bI can cheer you on.",
+  "en": "\\bI can cheer you on.",
+  "it": "\\bPosso fare il tifo per te."
+ },
+ {
+  "id": "\\bI'm cheering you on!",
+  "en": "\\bI'm cheering you on!",
+  "it": "\\bFaccio il tifo per te!"
+ },
+ {
+  "id": "\\bI already know who wins.",
+  "en": "\\bI already know who wins.",
+  "it": "\\bSo già chi vince."
+ },
+ {
+  "id": "\\bI wonder why I challenged you?",
+  "en": "\\bI wonder why I challenged you?",
+  "it": "\\bChissà perché ti ho sfidato?"
+ },
+ {
+  "id": "Trubbish",
+  "en": "Trubbish",
+  "it": "Trubbish"
+ },
+ {
+  "id": "Muk",
+  "en": "Muk",
+  "it": "Muk"
+ },
+ {
+  "id": "Swalot",
+  "en": "Swalot",
+  "it": "Swalot"
+ },
+ {
+  "id": "Yellow",
+  "en": "Yellow",
+  "it": "Gialle"
+ },
+ {
+  "id": "Orange",
+  "en": "Orange",
+  "it": "Arancioni"
+ },
+ {
+  "id": "Blue",
+  "en": "Blue",
+  "it": "Blu"
+ },
+ {
+  "id": "Illumise",
+  "en": "Illumise",
+  "it": "Illumise"
+ },
+ {
+  "id": "Pinsir",
+  "en": "Pinsir",
+  "it": "Pinsir"
+ },
+ {
+  "id": "Ariados",
+  "en": "Ariados",
+  "it": "Ariados"
+ }
+]

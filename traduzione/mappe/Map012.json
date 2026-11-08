@@ -1,0 +1,277 @@
+[
+ {
+  "id": "\\rHello! I'm a Move Tutor!",
+  "en": "\\rHello!  I'm a Move Tutor!",
+  "it": "\\rCiao!  Sono un'Insegnamosse!"
+ },
+ {
+  "id": "\\rI can teach a special and powerful move to your Pokémon.",
+  "en": "\\rI can teach a special and powerful move to your Pokémon.",
+  "it": "\\rPosso insegnare una mossa speciale e potente ai tuoi Pokémon."
+ },
+ {
+  "id": "\\rWhich special move would you like me to teach?",
+  "en": "\\rWhich special move would you like me to teach?",
+  "it": "\\rQuale mossa speciale vuoi che insegni?"
+ },
+ {
+  "id": "\\rWould you like me to teach another Pokémon a special move?",
+  "en": "\\rWould you like me to teach another Pokémon a special move?",
+  "it": "\\rVuoi che insegni una mossa speciale a un altro Pokémon?"
+ },
+ {
+  "id": "\\rCome back any time!",
+  "en": "\\rCome back any time!",
+  "it": "\\rTorna quando vuoi!"
+ },
+ {
+  "id": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
+  "en": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
+  "it": "\\bEhm...\\nAh, sì, sono il Cancellamosse."
+ },
+ {
+  "id": "\\bI can make Pokémon forget their moves.",
+  "en": "\\bI can make Pokémon forget their moves.",
+  "it": "\\bPosso far dimenticare le mosse ai Pokémon."
+ },
+ {
+  "id": "\\bWould you like me to do that?",
+  "en": "\\bWould you like me to do that?",
+  "it": "\\bVuoi che lo faccia?"
+ },
+ {
+  "id": "\\bWhich Pokémon should forget a move?",
+  "en": "\\bWhich Pokémon should forget a move?",
+  "it": "\\bQuale Pokémon deve dimenticare una mossa?"
+ },
+ {
+  "id": "\\bCome again if there are moves that need to be forgotten.",
+  "en": "\\bCome again if there are moves that need to be forgotten.",
+  "it": "\\bTorna pure se ci sono mosse da far dimenticare."
+ },
+ {
+  "id": "\\bWhat? No Egg should know any moves.",
+  "en": "\\bWhat?  No Egg should know any moves.",
+  "it": "\\bCosa?  Un Uovo non dovrebbe conoscere nessuna mossa."
+ },
+ {
+  "id": "\\bWhat? I can't make Shadow Pokémon forget a move.",
+  "en": "\\bWhat?  I can't make Shadow Pokémon forget a move.",
+  "it": "\\bCosa?  Non posso far dimenticare una mossa a un Pokémon Ombra."
+ },
+ {
+  "id": "\\b\\v[3] seems to know only one move...",
+  "en": "\\b\\v[3] seems to know only one move...",
+  "it": "\\bSembra che \\v[3] conosca una sola mossa..."
+ },
+ {
+  "id": "\\bWhich move should be forgotten?",
+  "en": "\\bWhich move should be forgotten?",
+  "it": "\\bQuale mossa deve essere dimenticata?"
+ },
+ {
+  "id": "\\bHm! \\v[3]'s \\v[4]? That move should be forgotten?",
+  "en": "\\bHm!  \\v[3]'s \\v[4]?  That move should be forgotten?",
+  "it": "\\bMh!  \\v[4] di \\v[3]?  Vuoi che dimentichi quella mossa?"
+ },
+ {
+  "id": "\\bIt worked to perfection!",
+  "en": "\\bIt worked to perfection!",
+  "it": "\\bHa funzionato alla perfezione!"
+ },
+ {
+  "id": "\\b\\v[3] has forgotten \\v[4] completely.",
+  "en": "\\b\\v[3] has forgotten \\v[4] completely.",
+  "it": "\\b\\v[3] ha dimenticato completamente \\v[4]."
+ },
+ {
+  "id": "\\bI'm the Pokémon Move Maniac.",
+  "en": "\\bI'm the Pokémon Move Maniac.",
+  "it": "\\bSono il Maniaco delle Mosse Pokémon."
+ },
+ {
+  "id": "\\bI know every single move that Pokemon learn growing up.",
+  "en": "\\bI know every single move that Pokemon learn growing up.",
+  "it": "\\bConosco ogni singola mossa che i Pokémon imparano crescendo."
+ },
+ {
+  "id": "\\bI'm also a collector of Heart Scales.",
+  "en": "\\bI'm also a collector of Heart Scales.",
+  "it": "\\bColleziono anche Squame Cuore."
+ },
+ {
+  "id": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "en": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "it": "\\bSe me ne porti una, insegnerò una mossa a uno dei tuoi Pokémon."
+ },
+ {
+  "id": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "en": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "it": "\\bOh! Eccola! È una Squama Cuore autentica al cento per cento!"
+ },
+ {
+  "id": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "en": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "it": "\\bFammi indovinare, vuoi che insegni una mossa a uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bWhich Pokémon needs tutoring?",
+  "en": "\\bWhich Pokémon needs tutoring?",
+  "it": "\\bQuale Pokémon ha bisogno di lezioni?"
+ },
+ {
+  "id": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "en": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "it": "\\bSe i tuoi Pokémon devono imparare una mossa, torna con una Squama Cuore."
+ },
+ {
+  "id": "\\bHunh? There isn't a single move that I can teach an egg.",
+  "en": "\\bHunh? There isn't a single move that I can teach an egg.",
+  "it": "\\bEh? Non c'è nemmeno una mossa che possa insegnare a un uovo."
+ },
+ {
+  "id": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "en": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "it": "\\bNeanche per sogno, non voglio avvicinarmi a un Pokémon Ombra..."
+ },
+ {
+  "id": "\\bSorry...",
+  "en": "\\bSorry...",
+  "it": "\\bMi dispiace..."
+ },
+ {
+  "id": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "en": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "it": "\\bA quanto pare non ho nessuna mossa da insegnare al tuo \\v[3]."
+ },
+ {
+  "id": "\\bWhich move should I teach to your \\v[3]?",
+  "en": "\\bWhich move should I teach to your \\v[3]?",
+  "it": "\\bQuale mossa devo insegnare al tuo \\v[3]?"
+ },
+ {
+  "id": "\\PN handed over one Heart Scale in exchange.",
+  "en": "\\PN handed over one Heart Scale in exchange.",
+  "it": "\\PN ha consegnato una Squama Cuore in cambio."
+ },
+ {
+  "id": "\\bHello, hello!\\nI am the official Name Rater!",
+  "en": "\\bHello, hello!\\nI am the official Name Rater!",
+  "it": "\\bSalve, salve!\\nSono il Giudice dei Nomi ufficiale!"
+ },
+ {
+  "id": "\\bWant me to rate the nicknames of your Pokémon?",
+  "en": "\\bWant me to rate the nicknames of your Pokémon?",
+  "it": "\\bVuoi che valuti i soprannomi dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bWhich Pokémon's nickname should I critique?",
+  "en": "\\bWhich Pokémon's nickname should I critique?",
+  "it": "\\bDi quale Pokémon devo giudicare il soprannome?"
+ },
+ {
+  "id": "\\bI see.\\nDo come visit again.",
+  "en": "\\bI see.\\nDo come visit again.",
+  "it": "\\bCapisco.\\nTorna pure a trovarmi."
+ },
+ {
+  "id": "\\bNow, now... That is merely an Egg!",
+  "en": "\\bNow, now... That is merely an Egg!",
+  "it": "\\bSu, su... Quello è soltanto un Uovo!"
+ },
+ {
+  "id": "\\bI wouldn't dare critique a Shadow Pokémon's name!",
+  "en": "\\bI wouldn't dare critique a Shadow Pokémon's name!",
+  "it": "\\bNon oserei mai giudicare il nome di un Pokémon Ombra!"
+ },
+ {
+  "id": "\\bHmmm... \\v[3] it is!",
+  "en": "\\bHmmm...  \\v[3] it is!",
+  "it": "\\bMmmh...  \\v[3], dunque!"
+ },
+ {
+  "id": "\\bThis is a magnificent nickname! It is impeccably beyond reproach!",
+  "en": "\\bThis is a magnificent nickname!  It is impeccably beyond reproach!",
+  "it": "\\bÈ un soprannome magnifico!  È assolutamente impeccabile!"
+ },
+ {
+  "id": "\\bYou'll do well to cherish your \\v[3] now and beyond.",
+  "en": "\\bYou'll do well to cherish your \\v[3] now and beyond.",
+  "it": "\\bFaresti bene ad avere cura del tuo \\v[3], ora e per sempre."
+ },
+ {
+  "id": "\\b\\v[3], is it?\\nThat is a decent nickname!",
+  "en": "\\b\\v[3], is it?\\nThat is a decent nickname!",
+  "it": "\\b\\v[3], eh?\\nÈ un soprannome discreto!"
+ },
+ {
+  "id": "\\bBut, would you like me to give it a nicer name?",
+  "en": "\\bBut, would you like me to give it a nicer name?",
+  "it": "\\bMa vorresti che gli dessi un nome più bello?"
+ },
+ {
+  "id": "\\bHow about it?",
+  "en": "\\bHow about it?",
+  "it": "\\bChe ne dici?"
+ },
+ {
+  "id": "\\bAh, good. Then, what shall the new nickname be?",
+  "en": "\\bAh, good.  Then, what shall the new nickname be?",
+  "it": "\\bAh, bene.  Allora, quale sarà il nuovo soprannome?"
+ },
+ {
+  "id": "\\bDone! From now on, this Pokémon shall be known as \\v[3]!",
+  "en": "\\bDone!  From now on, this Pokémon shall be known as \\v[3]!",
+  "it": "\\bFatto!  D'ora in poi, questo Pokémon si chiamerà \\v[3]!"
+ },
+ {
+  "id": "\\bIt looks no different from before, and yet, this is vastly superior!",
+  "en": "\\bIt looks no different from before, and yet, this is vastly superior!",
+  "it": "\\bSembra uguale a prima, eppure è di gran lunga superiore!"
+ },
+ {
+  "id": "\\bHow fortunate for you!",
+  "en": "\\bHow fortunate for you!",
+  "it": "\\bChe fortuna per te!"
+ },
+ {
+  "id": "\\bDone! From now on, this Pokémon shall be known as \\v[5]!",
+  "en": "\\bDone!  From now on, this Pokémon shall be known as \\v[5]!",
+  "it": "\\bFatto!  D'ora in poi, questo Pokémon si chiamerà \\v[5]!"
+ },
+ {
+  "id": "\\bIt is a better name than before!\\nHow fortunate for you!",
+  "en": "\\bIt is a better name than before!\\nHow fortunate for you!",
+  "it": "\\bÈ un nome migliore di prima!\\nChe fortuna per te!"
+ },
+ {
+  "id": "Frenzy Plant",
+  "en": "Frenzy Plant",
+  "it": "Radicalbero"
+ },
+ {
+  "id": "Blast Burn",
+  "en": "Blast Burn",
+  "it": "Incendio"
+ },
+ {
+  "id": "Hydro Cannon",
+  "en": "Hydro Cannon",
+  "it": "Idrocannone"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

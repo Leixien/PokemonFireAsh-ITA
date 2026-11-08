@@ -1,0 +1,4962 @@
+[
+ {
+  "id": 1,
+  "en": "Intro",
+  "it": "Intro"
+ },
+ {
+  "id": 2,
+  "en": "Lappet Town",
+  "it": "Lappet Town"
+ },
+ {
+  "id": 3,
+  "en": "\\PN's house",
+  "it": "Casa di \\PN"
+ },
+ {
+  "id": 4,
+  "en": "Pokémon Lab",
+  "it": "Laboratorio Pokémon"
+ },
+ {
+  "id": 5,
+  "en": "Route 1",
+  "it": "Percorso 1"
+ },
+ {
+  "id": 6,
+  "en": "Kurt's house",
+  "it": "Casa di Kurt"
+ },
+ {
+  "id": 7,
+  "en": "Cedolan City",
+  "it": "Cedolan City"
+ },
+ {
+  "id": 8,
+  "en": "Daisy's house",
+  "it": "Casa di Daisy"
+ },
+ {
+  "id": 9,
+  "en": "Cedolan City Poké Center",
+  "it": "Centro Pokémon di Cedolan City"
+ },
+ {
+  "id": 10,
+  "en": "Cedolan Gym",
+  "it": "Palestra di Cedolan"
+ },
+ {
+  "id": 11,
+  "en": "Pokémon Institute",
+  "it": "Istituto Pokémon"
+ },
+ {
+  "id": 12,
+  "en": "Cedolan City Condo",
+  "it": "Condominio di Cedolan City"
+ },
+ {
+  "id": 13,
+  "en": "Game Corner",
+  "it": "Casinò"
+ },
+ {
+  "id": 14,
+  "en": "Cedolan Dept. 1F",
+  "it": "Centro Comm. Cedolan 1P"
+ },
+ {
+  "id": 15,
+  "en": "Cedolan Dept. 2F",
+  "it": "Centro Comm. Cedolan 2P"
+ },
+ {
+  "id": 16,
+  "en": "Cedolan Dept. 3F",
+  "it": "Centro Comm. Cedolan 3P"
+ },
+ {
+  "id": 17,
+  "en": "Cedolan Dept. 4F",
+  "it": "Centro Comm. Cedolan 4P"
+ },
+ {
+  "id": 18,
+  "en": "Cedolan Dept. 5F",
+  "it": "Centro Comm. Cedolan 5P"
+ },
+ {
+  "id": 19,
+  "en": "Cedolan Dept. Rooftop",
+  "it": "Centro Comm. Cedolan Tetto"
+ },
+ {
+  "id": 20,
+  "en": "Cedolan Dept. Elevator",
+  "it": "Centro Comm. Cedolan Ascensore"
+ },
+ {
+  "id": 21,
+  "en": "Route 2",
+  "it": "Percorso 2"
+ },
+ {
+  "id": 22,
+  "en": "Towns",
+  "it": "Città"
+ },
+ {
+  "id": 23,
+  "en": "Lerucean Town",
+  "it": "Lerucean Town"
+ },
+ {
+  "id": 24,
+  "en": "Lerucean Town Poké Center",
+  "it": "Centro Pokémon di Lerucean Town"
+ },
+ {
+  "id": 25,
+  "en": "Lerucean Town Mart",
+  "it": "Market di Lerucean Town"
+ },
+ {
+  "id": 26,
+  "en": "Pokémon Fan Club",
+  "it": "Pokémon Fan Club"
+ },
+ {
+  "id": 27,
+  "en": "Pokémon Day Care",
+  "it": "Pensione Pokémon"
+ },
+ {
+  "id": 28,
+  "en": "National Park",
+  "it": "Parco Nazionale"
+ },
+ {
+  "id": 29,
+  "en": "National Park Entrance",
+  "it": "Ingresso Parco Nazionale"
+ },
+ {
+  "id": 30,
+  "en": "National Park Pavillion",
+  "it": "Padiglione Parco Nazionale"
+ },
+ {
+  "id": 31,
+  "en": "Route 3",
+  "it": "Percorso 3"
+ },
+ {
+  "id": 32,
+  "en": "Routes",
+  "it": "Percorsi"
+ },
+ {
+  "id": 33,
+  "en": "Pallet Town",
+  "it": "Biancavilla"
+ },
+ {
+  "id": 34,
+  "en": "Ice Cave",
+  "it": "Grotta Ghiacciata"
+ },
+ {
+  "id": 35,
+  "en": "Ingido Plateau",
+  "it": "Altopiano Blu"
+ },
+ {
+  "id": 36,
+  "en": "Pokémon League",
+  "it": "Lega Pokémon"
+ },
+ {
+  "id": 37,
+  "en": "Pokémon League",
+  "it": "Lega Pokémon"
+ },
+ {
+  "id": 38,
+  "en": "Hall of Fame",
+  "it": "Sala d'Onore"
+ },
+ {
+  "id": 39,
+  "en": "Route 4",
+  "it": "Percorso 4"
+ },
+ {
+  "id": 40,
+  "en": "Route 4",
+  "it": "Percorso 4"
+ },
+ {
+  "id": 41,
+  "en": "Route 5",
+  "it": "Percorso 5"
+ },
+ {
+  "id": 42,
+  "en": "Pallet House",
+  "it": "Casa di Biancavilla"
+ },
+ {
+  "id": 43,
+  "en": "Viridian City",
+  "it": "Smeraldopoli"
+ },
+ {
+  "id": 44,
+  "en": "Route 6",
+  "it": "Percorso 6"
+ },
+ {
+  "id": 45,
+  "en": "Route 6",
+  "it": "Percorso 6"
+ },
+ {
+  "id": 46,
+  "en": "Cycling Road gate",
+  "it": "Ingresso Pista Ciclabile"
+ },
+ {
+  "id": 47,
+  "en": "Route 7",
+  "it": "Percorso 7"
+ },
+ {
+  "id": 48,
+  "en": "Professor Oak's Lab",
+  "it": "Laboratorio del Prof. Oak"
+ },
+ {
+  "id": 49,
+  "en": "Rock Cave",
+  "it": "Grotta Rocciosa"
+ },
+ {
+  "id": 50,
+  "en": "Rock Cave",
+  "it": "Grotta Rocciosa"
+ },
+ {
+  "id": 51,
+  "en": "Dungeon",
+  "it": "Dungeon"
+ },
+ {
+  "id": 52,
+  "en": "Battle Frontier",
+  "it": "Parco Lotta"
+ },
+ {
+  "id": 53,
+  "en": "Battle Frontier Poké Center",
+  "it": "Centro Pokémon del Parco Lotta"
+ },
+ {
+  "id": 54,
+  "en": "Battle Frontier Mart",
+  "it": "Market del Parco Lotta"
+ },
+ {
+  "id": 55,
+  "en": "Battle Tower",
+  "it": "Torre Lotta"
+ },
+ {
+  "id": 56,
+  "en": "Battle Tower arena",
+  "it": "Arena Torre Lotta"
+ },
+ {
+  "id": 57,
+  "en": "Stadium Cup lobby",
+  "it": "Atrio Coppa Stadio"
+ },
+ {
+  "id": 58,
+  "en": "Battle Palace",
+  "it": "Palazzo Lotta"
+ },
+ {
+  "id": 59,
+  "en": "Battle Palace arena",
+  "it": "Arena Palazzo Lotta"
+ },
+ {
+  "id": 60,
+  "en": "Battle Arena",
+  "it": "Dojo Lotta"
+ },
+ {
+  "id": 61,
+  "en": "Battle Arena arena",
+  "it": "Arena Dojo Lotta"
+ },
+ {
+  "id": 62,
+  "en": "Battle Factory",
+  "it": "Fabbrica Lotta"
+ },
+ {
+  "id": 63,
+  "en": "Battle Factory intro corridor",
+  "it": "Corridoio d'ingresso Fabbrica Lotta"
+ },
+ {
+  "id": 64,
+  "en": "Battle Factory arena",
+  "it": "Arena Fabbrica Lotta"
+ },
+ {
+  "id": 65,
+  "en": "Battle Factory corridor",
+  "it": "Corridoio Fabbrica Lotta"
+ },
+ {
+  "id": 66,
+  "en": "Safari Zone",
+  "it": "Zona Safari"
+ },
+ {
+  "id": 67,
+  "en": "Safari Zone gate",
+  "it": "Ingresso Zona Safari"
+ },
+ {
+  "id": 68,
+  "en": "Safari Zone",
+  "it": "Zona Safari"
+ },
+ {
+  "id": 69,
+  "en": "Route 8",
+  "it": "Percorso 8"
+ },
+ {
+  "id": 70,
+  "en": "Underwater",
+  "it": "Sott'acqua"
+ },
+ {
+  "id": 71,
+  "en": "Harbour",
+  "it": "Porto"
+ },
+ {
+  "id": 72,
+  "en": "Daroxy Island",
+  "it": "Isola Daroxy"
+ },
+ {
+  "id": 73,
+  "en": "Faraday Island",
+  "it": "Isola Faraday"
+ },
+ {
+  "id": 74,
+  "en": "Cycling Road gate",
+  "it": "Ingresso Pista Ciclabile"
+ },
+ {
+  "id": 75,
+  "en": "Tiall Region",
+  "it": "Regione di Tiall"
+ },
+ {
+  "id": 76,
+  "en": "Route 1",
+  "it": "Percorso 1"
+ },
+ {
+  "id": 77,
+  "en": "Viridian House",
+  "it": "Casa di Smeraldopoli"
+ },
+ {
+  "id": 78,
+  "en": "Viridian Pokémon Center",
+  "it": "Centro Pokémon di Smeraldopoli"
+ },
+ {
+  "id": 79,
+  "en": "Gate",
+  "it": "Varco"
+ },
+ {
+  "id": 80,
+  "en": "Route 2",
+  "it": "Percorso 2"
+ },
+ {
+  "id": 81,
+  "en": "Viridian Forest",
+  "it": "Bosco Smeraldo"
+ },
+ {
+  "id": 82,
+  "en": "Pewter City",
+  "it": "Plumbeopoli"
+ },
+ {
+  "id": 83,
+  "en": "Pewter House",
+  "it": "Casa di Plumbeopoli"
+ },
+ {
+  "id": 84,
+  "en": "Pewter Pokémon Center",
+  "it": "Centro Pokémon di Plumbeopoli"
+ },
+ {
+  "id": 85,
+  "en": "Opelucid Gym",
+  "it": "Palestra di Boreduopoli"
+ },
+ {
+  "id": 86,
+  "en": "Pewter Gym",
+  "it": "Palestra di Plumbeopoli"
+ },
+ {
+  "id": 87,
+  "en": "Route 3",
+  "it": "Percorso 3"
+ },
+ {
+  "id": 88,
+  "en": "Route 4",
+  "it": "Percorso 4"
+ },
+ {
+  "id": 89,
+  "en": "Cerulean City",
+  "it": "Celestopoli"
+ },
+ {
+  "id": 90,
+  "en": "Mt Moon B1F",
+  "it": "Monte Luna S1"
+ },
+ {
+  "id": 91,
+  "en": "Cerulean House",
+  "it": "Casa di Celestopoli"
+ },
+ {
+  "id": 92,
+  "en": "Mt Moon 1F",
+  "it": "Monte Luna 1P"
+ },
+ {
+  "id": 93,
+  "en": "Cerulean Pokémon Center",
+  "it": "Centro Pokémon di Celestopoli"
+ },
+ {
+  "id": 94,
+  "en": "Professor Cerise's Lab",
+  "it": "Laboratorio del Prof. Cerise"
+ },
+ {
+  "id": 95,
+  "en": "Cerulean Gym",
+  "it": "Palestra di Celestopoli"
+ },
+ {
+  "id": 96,
+  "en": "Bike Shop",
+  "it": "Negozio di Bici"
+ },
+ {
+  "id": 97,
+  "en": "Route 5",
+  "it": "Percorso 5"
+ },
+ {
+  "id": 98,
+  "en": "Route 5 Daycare",
+  "it": "Pensione del Percorso 5"
+ },
+ {
+  "id": 99,
+  "en": "Route 9 Gem Shop",
+  "it": "Negozio di Gemme del Percorso 9"
+ },
+ {
+  "id": 100,
+  "en": "Hidden Village",
+  "it": "Villaggio Nascosto"
+ },
+ {
+  "id": 101,
+  "en": "Route 24",
+  "it": "Percorso 24"
+ },
+ {
+  "id": 102,
+  "en": "Cinnabar Power Shop",
+  "it": "Negozio Potenza di Cannella"
+ },
+ {
+  "id": 103,
+  "en": "Route 24 Pokémon Center",
+  "it": "Centro Pokémon del Percorso 24"
+ },
+ {
+  "id": 104,
+  "en": "Route 25",
+  "it": "Percorso 25"
+ },
+ {
+  "id": 105,
+  "en": "Route 25 House",
+  "it": "Casa del Percorso 25"
+ },
+ {
+  "id": 106,
+  "en": "Route 25",
+  "it": "Percorso 25"
+ },
+ {
+  "id": 107,
+  "en": "Bill's Lighthouse",
+  "it": "Faro di Bill"
+ },
+ {
+  "id": 108,
+  "en": "Vermilion City",
+  "it": "Aranciopoli"
+ },
+ {
+  "id": 109,
+  "en": "Vermilion House",
+  "it": "Casa di Aranciopoli"
+ },
+ {
+  "id": 110,
+  "en": "Vermilion Pokémon Center",
+  "it": "Centro Pokémon di Aranciopoli"
+ },
+ {
+  "id": 111,
+  "en": "Malie Item Shop",
+  "it": "Negozio di Strumenti di Malie"
+ },
+ {
+  "id": 112,
+  "en": "Vermilion Gym",
+  "it": "Palestra di Aranciopoli"
+ },
+ {
+  "id": 113,
+  "en": "Vermilion Pokémon Fan Club",
+  "it": "Pokémon Fan Club di Aranciopoli"
+ },
+ {
+  "id": 114,
+  "en": "S.S. Anne",
+  "it": "M/N Anna"
+ },
+ {
+  "id": 115,
+  "en": "S.S. Anne 1F",
+  "it": "M/N Anna 1P"
+ },
+ {
+  "id": 116,
+  "en": "S.S. Anne Rooms",
+  "it": "M/N Anna Cabine"
+ },
+ {
+  "id": 117,
+  "en": "S.S. Anne B1F",
+  "it": "M/N Anna S1"
+ },
+ {
+  "id": 118,
+  "en": "S.S. Anne Rooms",
+  "it": "M/N Anna Cabine"
+ },
+ {
+  "id": 119,
+  "en": "S.S. Anne 2F",
+  "it": "M/N Anna 2P"
+ },
+ {
+  "id": 120,
+  "en": "S.S. Anne Rooms",
+  "it": "M/N Anna Cabine"
+ },
+ {
+  "id": 121,
+  "en": "S.S. Anne Room",
+  "it": "M/N Anna Cabina"
+ },
+ {
+  "id": 122,
+  "en": "S.S. Anne",
+  "it": "M/N Anna"
+ },
+ {
+  "id": 123,
+  "en": "S.S. Anne 3F",
+  "it": "M/N Anna 3P"
+ },
+ {
+  "id": 124,
+  "en": "Route 11",
+  "it": "Percorso 11"
+ },
+ {
+  "id": 125,
+  "en": "Underground Path",
+  "it": "Sotterraneo"
+ },
+ {
+  "id": 126,
+  "en": "Underground Path",
+  "it": "Sotterraneo"
+ },
+ {
+  "id": 127,
+  "en": "Underground Path",
+  "it": "Sotterraneo"
+ },
+ {
+  "id": 128,
+  "en": "Route 8",
+  "it": "Percorso 8"
+ },
+ {
+  "id": 129,
+  "en": "Laverre Scarf Shop",
+  "it": "Negozio di Sciarpe di Romantopoli"
+ },
+ {
+  "id": 130,
+  "en": "Saffron City",
+  "it": "Zafferanopoli"
+ },
+ {
+  "id": 131,
+  "en": "Saffron House",
+  "it": "Casa di Zafferanopoli"
+ },
+ {
+  "id": 132,
+  "en": "Saffron Pokémon Center",
+  "it": "Centro Pokémon di Zafferanopoli"
+ },
+ {
+  "id": 133,
+  "en": "Cable Club",
+  "it": "Cable Club"
+ },
+ {
+  "id": 134,
+  "en": "Silph Co.",
+  "it": "Silph S.p.A."
+ },
+ {
+  "id": 135,
+  "en": "Magnet Train",
+  "it": "Treno Magnetico"
+ },
+ {
+  "id": 136,
+  "en": "Saffron Gym",
+  "it": "Palestra di Zafferanopoli"
+ },
+ {
+  "id": 137,
+  "en": "Lavender Town",
+  "it": "Lavandonia"
+ },
+ {
+  "id": 138,
+  "en": "Zarude's Den",
+  "it": "Tana di Zarude"
+ },
+ {
+  "id": 139,
+  "en": "Lavender House",
+  "it": "Casa di Lavandonia"
+ },
+ {
+  "id": 140,
+  "en": "Lavender Pokémon Center",
+  "it": "Centro Pokémon di Lavandonia"
+ },
+ {
+  "id": 141,
+  "en": "EXAMPLE MAP",
+  "it": "MAPPA DI ESEMPIO"
+ },
+ {
+  "id": 142,
+  "en": "Route 38",
+  "it": "Percorso 38"
+ },
+ {
+  "id": 143,
+  "en": "Pokémon Tower 1F",
+  "it": "Torre Pokémon 1P"
+ },
+ {
+  "id": 144,
+  "en": "Pokémon Tower 2F",
+  "it": "Torre Pokémon 2P"
+ },
+ {
+  "id": 145,
+  "en": "Pokémon Tower 3F",
+  "it": "Torre Pokémon 3P"
+ },
+ {
+  "id": 146,
+  "en": "Pokémon Tower 4F",
+  "it": "Torre Pokémon 4P"
+ },
+ {
+  "id": 147,
+  "en": "Pokémon Tower 5F",
+  "it": "Torre Pokémon 5P"
+ },
+ {
+  "id": 148,
+  "en": "Pokémon Tower 6F",
+  "it": "Torre Pokémon 6P"
+ },
+ {
+  "id": 149,
+  "en": "Pokémon Tower 7F",
+  "it": "Torre Pokémon 7P"
+ },
+ {
+  "id": 150,
+  "en": "Route 7",
+  "it": "Percorso 7"
+ },
+ {
+  "id": 151,
+  "en": "EXAMPLE MAP",
+  "it": "MAPPA DI ESEMPIO"
+ },
+ {
+  "id": 152,
+  "en": "Celadon City",
+  "it": "Azzurropoli"
+ },
+ {
+  "id": 153,
+  "en": "Celadon House",
+  "it": "Casa di Azzurropoli"
+ },
+ {
+  "id": 154,
+  "en": "Celadon Pokémon Center",
+  "it": "Centro Pokémon di Azzurropoli"
+ },
+ {
+  "id": 155,
+  "en": "Celadon Dept. 1F",
+  "it": "Centro Comm. Azzurropoli 1P"
+ },
+ {
+  "id": 156,
+  "en": "Celadon Dept. 2F",
+  "it": "Centro Comm. Azzurropoli 2P"
+ },
+ {
+  "id": 157,
+  "en": "Celadon Dept. 3F",
+  "it": "Centro Comm. Azzurropoli 3P"
+ },
+ {
+  "id": 158,
+  "en": "Celadon Dept. 4F",
+  "it": "Centro Comm. Azzurropoli 4P"
+ },
+ {
+  "id": 159,
+  "en": "Celadon Dept. 5F",
+  "it": "Centro Comm. Azzurropoli 5P"
+ },
+ {
+  "id": 160,
+  "en": "Celadon Dept. Rooftop",
+  "it": "Centro Comm. Azzurropoli Tetto"
+ },
+ {
+  "id": 161,
+  "en": "Celadon Dept. Elevator",
+  "it": "Centro Comm. Azzurropoli Ascensore"
+ },
+ {
+  "id": 162,
+  "en": "Game Corner",
+  "it": "Casinò"
+ },
+ {
+  "id": 163,
+  "en": "Celadon Gym",
+  "it": "Palestra di Azzurropoli"
+ },
+ {
+  "id": 164,
+  "en": "Fighting Dojo",
+  "it": "Dojo Karate"
+ },
+ {
+  "id": 165,
+  "en": "P1 Grand Prix",
+  "it": "Gran Premio P1"
+ },
+ {
+  "id": 166,
+  "en": "Route 16",
+  "it": "Percorso 16"
+ },
+ {
+  "id": 167,
+  "en": "Hoenn Battle Frontier",
+  "it": "Parco Lotta di Hoenn"
+ },
+ {
+  "id": 168,
+  "en": "Gringey City Power Plant",
+  "it": "Centrale Elettrica di Gringey City"
+ },
+ {
+  "id": 169,
+  "en": "Route 17",
+  "it": "Percorso 17"
+ },
+ {
+  "id": 170,
+  "en": "Route 18",
+  "it": "Percorso 18"
+ },
+ {
+  "id": 171,
+  "en": "Wyndon",
+  "it": "Wyndon"
+ },
+ {
+  "id": 172,
+  "en": "Wyndon House",
+  "it": "Casa di Wyndon"
+ },
+ {
+  "id": 173,
+  "en": "Wyndon Pokémon Center",
+  "it": "Centro Pokémon di Wyndon"
+ },
+ {
+  "id": 174,
+  "en": "Fuchsia City",
+  "it": "Fucsiapoli"
+ },
+ {
+  "id": 175,
+  "en": "Fuchsia House",
+  "it": "Casa di Fucsiapoli"
+ },
+ {
+  "id": 176,
+  "en": "Fuchsia Pokémon Center",
+  "it": "Centro Pokémon di Fucsiapoli"
+ },
+ {
+  "id": 177,
+  "en": "Wyndon Stadium",
+  "it": "Stadio di Wyndon"
+ },
+ {
+  "id": 178,
+  "en": "Fuchsia Gym",
+  "it": "Palestra di Fucsiapoli"
+ },
+ {
+  "id": 179,
+  "en": "Safari Zone",
+  "it": "Zona Safari"
+ },
+ {
+  "id": 180,
+  "en": "Safari Zone Kanto",
+  "it": "Zona Safari di Kanto"
+ },
+ {
+  "id": 181,
+  "en": "Route 19",
+  "it": "Percorso 19"
+ },
+ {
+  "id": 182,
+  "en": "Route 19 House",
+  "it": "Casa del Percorso 19"
+ },
+ {
+  "id": 183,
+  "en": "Wild Area",
+  "it": "Terre Selvagge"
+ },
+ {
+  "id": 184,
+  "en": "Cinnabar Island",
+  "it": "Isola Cannella"
+ },
+ {
+  "id": 185,
+  "en": "Cinnabar House",
+  "it": "Casa di Cannella"
+ },
+ {
+  "id": 186,
+  "en": "Cinnabar Pokémon Center",
+  "it": "Centro Pokémon di Cannella"
+ },
+ {
+  "id": 187,
+  "en": "Wild Area",
+  "it": "Terre Selvagge"
+ },
+ {
+  "id": 188,
+  "en": "Pewter Museum of Science",
+  "it": "Museo della Scienza di Plumbeopoli"
+ },
+ {
+  "id": 189,
+  "en": "Pokémon Mansion 1F",
+  "it": "Villa Pokémon 1P"
+ },
+ {
+  "id": 190,
+  "en": "Pokémon Mansion 2F",
+  "it": "Villa Pokémon 2P"
+ },
+ {
+  "id": 191,
+  "en": "Pokémon Mansion 3F",
+  "it": "Villa Pokémon 3P"
+ },
+ {
+  "id": 192,
+  "en": "Pokémon Mansion B1F",
+  "it": "Villa Pokémon S1"
+ },
+ {
+  "id": 193,
+  "en": "Cinnabar Gym",
+  "it": "Palestra di Cannella"
+ },
+ {
+  "id": 194,
+  "en": "Viridian Gym",
+  "it": "Palestra di Smeraldopoli"
+ },
+ {
+  "id": 195,
+  "en": "Route 22",
+  "it": "Percorso 22"
+ },
+ {
+  "id": 196,
+  "en": "Indigo Plateau",
+  "it": "Altopiano Blu"
+ },
+ {
+  "id": 197,
+  "en": "Indigo Plateau",
+  "it": "Altopiano Blu"
+ },
+ {
+  "id": 198,
+  "en": "Kanto Pokemon League",
+  "it": "Lega Pokémon di Kanto"
+ },
+ {
+  "id": 199,
+  "en": "Indigo Rock",
+  "it": "Campo Roccia Indigo"
+ },
+ {
+  "id": 200,
+  "en": "Indigo Water",
+  "it": "Campo Acqua Indigo"
+ },
+ {
+  "id": 201,
+  "en": "Indigo Ice",
+  "it": "Campo Ghiaccio Indigo"
+ },
+ {
+  "id": 202,
+  "en": "Indigo Grass",
+  "it": "Campo Erba Indigo"
+ },
+ {
+  "id": 203,
+  "en": "Indigo Stadium",
+  "it": "Stadio Indigo"
+ },
+ {
+  "id": 204,
+  "en": "Kanto",
+  "it": "Kanto"
+ },
+ {
+  "id": 205,
+  "en": "Kanto",
+  "it": "Kanto"
+ },
+ {
+  "id": 206,
+  "en": "Orange Archipelago",
+  "it": "Arcipelago Orange"
+ },
+ {
+  "id": 207,
+  "en": "Valencia House",
+  "it": "Casa di Valencia"
+ },
+ {
+  "id": 208,
+  "en": "Valencia Island Blimp",
+  "it": "Dirigibile di Isola Valencia"
+ },
+ {
+  "id": 209,
+  "en": "Valencia Island",
+  "it": "Isola Valencia"
+ },
+ {
+  "id": 210,
+  "en": "Valencia Pokémon Center",
+  "it": "Centro Pokémon di Valencia"
+ },
+ {
+  "id": 211,
+  "en": "Tangelo Island",
+  "it": "Isola Tangelo"
+ },
+ {
+  "id": 212,
+  "en": "Tangelo House",
+  "it": "Casa di Tangelo"
+ },
+ {
+  "id": 213,
+  "en": "Tangelo Pokémon Center",
+  "it": "Centro Pokémon di Tangelo"
+ },
+ {
+  "id": 214,
+  "en": "EXAMPLE MAP",
+  "it": "MAPPA DI ESEMPIO"
+ },
+ {
+  "id": 215,
+  "en": "Mikan Island",
+  "it": "Isola Mikan"
+ },
+ {
+  "id": 216,
+  "en": "Mikan House",
+  "it": "Casa di Mikan"
+ },
+ {
+  "id": 217,
+  "en": "Mikan Pokémon Center",
+  "it": "Centro Pokémon di Mikan"
+ },
+ {
+  "id": 218,
+  "en": "Mikan Gym",
+  "it": "Palestra di Mikan"
+ },
+ {
+  "id": 219,
+  "en": "Navel House",
+  "it": "Casa di Navel"
+ },
+ {
+  "id": 220,
+  "en": "Navel Island",
+  "it": "Isola Navel"
+ },
+ {
+  "id": 221,
+  "en": "Navel Pokémon Center",
+  "it": "Centro Pokémon di Navel"
+ },
+ {
+  "id": 222,
+  "en": "Wild Area",
+  "it": "Terre Selvagge"
+ },
+ {
+  "id": 223,
+  "en": "Navel Rock 1F",
+  "it": "Roccia Navel 1P"
+ },
+ {
+  "id": 224,
+  "en": "Navel Rock B1F",
+  "it": "Roccia Navel S1"
+ },
+ {
+  "id": 225,
+  "en": "Navel Rock 2F",
+  "it": "Roccia Navel 2P"
+ },
+ {
+  "id": 226,
+  "en": "Navel Rock 3F",
+  "it": "Roccia Navel 3P"
+ },
+ {
+  "id": 227,
+  "en": "Navel Gym",
+  "it": "Palestra di Navel"
+ },
+ {
+  "id": 228,
+  "en": "Seven Grapefruit Islands",
+  "it": "Sette Isole Grapefruit"
+ },
+ {
+  "id": 229,
+  "en": "Grapefruit Pokémon Center",
+  "it": "Centro Pokémon di Grapefruit"
+ },
+ {
+  "id": 230,
+  "en": "Grapefruit House",
+  "it": "Casa di Grapefruit"
+ },
+ {
+  "id": 231,
+  "en": "Trovita Island",
+  "it": "Isola Trovita"
+ },
+ {
+  "id": 232,
+  "en": "Wild Area",
+  "it": "Terre Selvagge"
+ },
+ {
+  "id": 233,
+  "en": "Trovita House",
+  "it": "Casa di Trovita"
+ },
+ {
+  "id": 234,
+  "en": "Trovita Pokémon Center",
+  "it": "Centro Pokémon di Trovita"
+ },
+ {
+  "id": 235,
+  "en": "Trovita Gym",
+  "it": "Palestra di Trovita"
+ },
+ {
+  "id": 236,
+  "en": "Ascorbia Island",
+  "it": "Isola Ascorbia"
+ },
+ {
+  "id": 237,
+  "en": "Ascorbia House",
+  "it": "Casa di Ascorbia"
+ },
+ {
+  "id": 238,
+  "en": "Ascrobia Pokémon Center",
+  "it": "Centro Pokémon di Ascorbia"
+ },
+ {
+  "id": 239,
+  "en": "Ascorbia House",
+  "it": "Casa di Ascorbia"
+ },
+ {
+  "id": 240,
+  "en": "Kumquat Island",
+  "it": "Isola Kumquat"
+ },
+ {
+  "id": 241,
+  "en": "Kumquat Pokémon Center",
+  "it": "Centro Pokémon di Kumquat"
+ },
+ {
+  "id": 242,
+  "en": "Kumquat House",
+  "it": "Casa di Kumquat"
+ },
+ {
+  "id": 243,
+  "en": "Galar",
+  "it": "Galar"
+ },
+ {
+  "id": 244,
+  "en": "Kumquat Gym",
+  "it": "Palestra di Kumquat"
+ },
+ {
+  "id": 245,
+  "en": "Pummelo Island",
+  "it": "Isola Pummelo"
+ },
+ {
+  "id": 246,
+  "en": "Pummelo Pokémon Center",
+  "it": "Centro Pokémon di Pummelo"
+ },
+ {
+  "id": 247,
+  "en": "Pummelo Stadium",
+  "it": "Stadio di Pummelo"
+ },
+ {
+  "id": 248,
+  "en": "Johto",
+  "it": "Johto"
+ },
+ {
+  "id": 249,
+  "en": "Johto",
+  "it": "Johto"
+ },
+ {
+  "id": 250,
+  "en": "Route 45",
+  "it": "Percorso 45"
+ },
+ {
+  "id": 251,
+  "en": "New Bark Town",
+  "it": "Borgo Foglianova"
+ },
+ {
+  "id": 252,
+  "en": "New Bark House",
+  "it": "Casa di Borgo Foglianova"
+ },
+ {
+  "id": 253,
+  "en": "Professor Elm's Lab",
+  "it": "Laboratorio del Prof. Elm"
+ },
+ {
+  "id": 254,
+  "en": "Route 29",
+  "it": "Percorso 29"
+ },
+ {
+  "id": 255,
+  "en": "Route 29",
+  "it": "Percorso 29"
+ },
+ {
+  "id": 256,
+  "en": "Cherrygrove City",
+  "it": "Fiorpescopoli"
+ },
+ {
+  "id": 257,
+  "en": "Cherrygrove House",
+  "it": "Casa di Fiorpescopoli"
+ },
+ {
+  "id": 258,
+  "en": "Cherrygrove Pokémon Center",
+  "it": "Centro Pokémon di Fiorpescopoli"
+ },
+ {
+  "id": 259,
+  "en": "Wild Area",
+  "it": "Terre Selvagge"
+ },
+ {
+  "id": 260,
+  "en": "Route 30",
+  "it": "Percorso 30"
+ },
+ {
+  "id": 261,
+  "en": "Hoenn Battle Frontier",
+  "it": "Parco Lotta di Hoenn"
+ },
+ {
+  "id": 262,
+  "en": "Violet City",
+  "it": "Violapoli"
+ },
+ {
+  "id": 263,
+  "en": "Violet House",
+  "it": "Casa di Violapoli"
+ },
+ {
+  "id": 264,
+  "en": "Violet Pokémon Center",
+  "it": "Centro Pokémon di Violapoli"
+ },
+ {
+  "id": 265,
+  "en": "Dragonite Island",
+  "it": "Isola Dragonite"
+ },
+ {
+  "id": 266,
+  "en": "Sprout Tower",
+  "it": "Torre Sprout"
+ },
+ {
+  "id": 267,
+  "en": "Violet Gym",
+  "it": "Palestra di Violapoli"
+ },
+ {
+  "id": 268,
+  "en": "Route 32",
+  "it": "Percorso 32"
+ },
+ {
+  "id": 269,
+  "en": "Charicific Valley",
+  "it": "Valle Charicifica"
+ },
+ {
+  "id": 270,
+  "en": "Route 33",
+  "it": "Percorso 33"
+ },
+ {
+  "id": 271,
+  "en": "Azalea Town",
+  "it": "Azalina"
+ },
+ {
+  "id": 272,
+  "en": "Azalea House",
+  "it": "Casa di Azalina"
+ },
+ {
+  "id": 273,
+  "en": "Azalea Pokémon Center",
+  "it": "Centro Pokémon di Azalina"
+ },
+ {
+  "id": 274,
+  "en": "Wyndon Stadium",
+  "it": "Stadio di Wyndon"
+ },
+ {
+  "id": 275,
+  "en": "Slowpoke Well",
+  "it": "Pozzo Slowpoke"
+ },
+ {
+  "id": 276,
+  "en": "Azalea Gym",
+  "it": "Palestra di Azalina"
+ },
+ {
+  "id": 277,
+  "en": "Ilex Forest",
+  "it": "Bosco di Lecci"
+ },
+ {
+  "id": 278,
+  "en": "Pokémon Swap Meet",
+  "it": "Mercatino Pokémon"
+ },
+ {
+  "id": 279,
+  "en": "Swap Meet Pokémon Center",
+  "it": "Centro Pokémon del Mercatino"
+ },
+ {
+  "id": 280,
+  "en": "Route 34",
+  "it": "Percorso 34"
+ },
+ {
+  "id": 281,
+  "en": "Element Islands",
+  "it": "Isole Elemento"
+ },
+ {
+  "id": 282,
+  "en": "Goldenrod City",
+  "it": "Fiordoropoli"
+ },
+ {
+  "id": 283,
+  "en": "Goldenrod House",
+  "it": "Casa di Fiordoropoli"
+ },
+ {
+  "id": 284,
+  "en": "Goldenrod Pokémon Center",
+  "it": "Centro Pokémon di Fiordoropoli"
+ },
+ {
+  "id": 285,
+  "en": "Goldenrod Dept. 1F",
+  "it": "Centro Comm. Fiordoropoli 1P"
+ },
+ {
+  "id": 286,
+  "en": "Goldenrod Dept. 2F",
+  "it": "Centro Comm. Fiordoropoli 2P"
+ },
+ {
+  "id": 287,
+  "en": "Goldenrod Dept. 4F",
+  "it": "Centro Comm. Fiordoropoli 4P"
+ },
+ {
+  "id": 288,
+  "en": "Goldenrod Dept. 5F",
+  "it": "Centro Comm. Fiordoropoli 5P"
+ },
+ {
+  "id": 289,
+  "en": "Goldenrod Dept. Elevator",
+  "it": "Centro Comm. Fiordoropoli Ascensore"
+ },
+ {
+  "id": 290,
+  "en": "Goldenrod Dept. 3F",
+  "it": "Centro Comm. Fiordoropoli 3P"
+ },
+ {
+  "id": 291,
+  "en": "Goldenrod Tunnel",
+  "it": "Tunnel di Fiordoropoli"
+ },
+ {
+  "id": 292,
+  "en": "Goldenrod Gym",
+  "it": "Palestra di Fiordoropoli"
+ },
+ {
+  "id": 293,
+  "en": "Route 35",
+  "it": "Percorso 35"
+ },
+ {
+  "id": 294,
+  "en": "Route 36",
+  "it": "Percorso 36"
+ },
+ {
+  "id": 295,
+  "en": "Ruins of Alph",
+  "it": "Rovine d'Alfa"
+ },
+ {
+  "id": 296,
+  "en": "Ruins of Alph",
+  "it": "Rovine d'Alfa"
+ },
+ {
+  "id": 297,
+  "en": "Ruins of Alph House",
+  "it": "Casa delle Rovine d'Alfa"
+ },
+ {
+  "id": 298,
+  "en": "Route 37",
+  "it": "Percorso 37"
+ },
+ {
+  "id": 299,
+  "en": "Ecruteak City",
+  "it": "Amarantopoli"
+ },
+ {
+  "id": 300,
+  "en": "Ecruteak House",
+  "it": "Casa di Amarantopoli"
+ },
+ {
+  "id": 301,
+  "en": "Ecruteak Pokémon Center",
+  "it": "Centro Pokémon di Amarantopoli"
+ },
+ {
+  "id": 302,
+  "en": "Desert Resort",
+  "it": "Deserto della Quiete"
+ },
+ {
+  "id": 303,
+  "en": "Burned Tower",
+  "it": "Torre Bruciata"
+ },
+ {
+  "id": 304,
+  "en": "Kimono Dance Theater",
+  "it": "Teatro di Danza"
+ },
+ {
+  "id": 305,
+  "en": "Ecruteak Gym",
+  "it": "Palestra di Amarantopoli"
+ },
+ {
+  "id": 306,
+  "en": "Route 39",
+  "it": "Percorso 39"
+ },
+ {
+  "id": 307,
+  "en": "Route 39 House",
+  "it": "Casa del Percorso 39"
+ },
+ {
+  "id": 308,
+  "en": "Olivine City",
+  "it": "Olivinopoli"
+ },
+ {
+  "id": 309,
+  "en": "Olivine House",
+  "it": "Casa di Olivinopoli"
+ },
+ {
+  "id": 310,
+  "en": "Olivine Pokémon Center",
+  "it": "Centro Pokémon di Olivinopoli"
+ },
+ {
+  "id": 311,
+  "en": "Colossus Ruins",
+  "it": "Rovine del Colosso"
+ },
+ {
+  "id": 312,
+  "en": "Glitter Lighthouse 1F",
+  "it": "Faro Lucente 1P"
+ },
+ {
+  "id": 313,
+  "en": "Glitter Lighthouse 2F",
+  "it": "Faro Lucente 2P"
+ },
+ {
+  "id": 314,
+  "en": "Glitter Lighthouse 3F",
+  "it": "Faro Lucente 3P"
+ },
+ {
+  "id": 315,
+  "en": "Glitter Lighthouse 4F",
+  "it": "Faro Lucente 4P"
+ },
+ {
+  "id": 316,
+  "en": "Glitter Lighthouse 5F",
+  "it": "Faro Lucente 5P"
+ },
+ {
+  "id": 317,
+  "en": "Cianwood City",
+  "it": "Fiorlisopoli"
+ },
+ {
+  "id": 318,
+  "en": "Cianwood House",
+  "it": "Casa di Fiorlisopoli"
+ },
+ {
+  "id": 319,
+  "en": "Cianwood Pokémon Center",
+  "it": "Centro Pokémon di Fiorlisopoli"
+ },
+ {
+  "id": 320,
+  "en": "Safari Zone Johto",
+  "it": "Zona Safari Johto"
+ },
+ {
+  "id": 321,
+  "en": "Cianwood Gym",
+  "it": "Palestra di Fiorlisopoli"
+ },
+ {
+  "id": 322,
+  "en": "Ogi Isle",
+  "it": "Isola Ogi"
+ },
+ {
+  "id": 323,
+  "en": "Red Rock Isle",
+  "it": "Isola Roccia Rossa"
+ },
+ {
+  "id": 324,
+  "en": "Red Rock House",
+  "it": "Casa di Roccia Rossa"
+ },
+ {
+  "id": 325,
+  "en": "Red Rock Pokémon Center",
+  "it": "Centro Pokémon di Roccia Rossa"
+ },
+ {
+  "id": 326,
+  "en": "Red Rock Pokémon Mart",
+  "it": "Pokémon Market di Roccia Rossa"
+ },
+ {
+  "id": 327,
+  "en": "Whirl Cup",
+  "it": "Coppa Vortice"
+ },
+ {
+  "id": 328,
+  "en": "Yellow Rock Isle",
+  "it": "Isola Roccia Gialla"
+ },
+ {
+  "id": 329,
+  "en": "Blue Rock Isle",
+  "it": "Isola Roccia Blu"
+ },
+ {
+  "id": 330,
+  "en": "Olivine Gym",
+  "it": "Palestra di Olivinopoli"
+ },
+ {
+  "id": 331,
+  "en": "Route 42",
+  "it": "Percorso 42"
+ },
+ {
+  "id": 332,
+  "en": "Route 42 Day Care",
+  "it": "Pensione del Percorso 42"
+ },
+ {
+  "id": 333,
+  "en": "Route 43",
+  "it": "Percorso 43"
+ },
+ {
+  "id": 334,
+  "en": "Lake of Rage",
+  "it": "Lago d'Ira"
+ },
+ {
+  "id": 335,
+  "en": "Mahogany Town",
+  "it": "Mogania"
+ },
+ {
+  "id": 336,
+  "en": "Mahogany House",
+  "it": "Casa di Mogania"
+ },
+ {
+  "id": 337,
+  "en": "Mahogany Pokémon Center",
+  "it": "Centro Pokémon di Mogania"
+ },
+ {
+  "id": 338,
+  "en": "Route 229",
+  "it": "Percorso 229"
+ },
+ {
+  "id": 339,
+  "en": "Mahogany Gym",
+  "it": "Palestra di Mogania"
+ },
+ {
+  "id": 340,
+  "en": "Route 44",
+  "it": "Percorso 44"
+ },
+ {
+  "id": 341,
+  "en": "Ice Cave",
+  "it": "Grotta Ghiacciata"
+ },
+ {
+  "id": 342,
+  "en": "Blackthorn City",
+  "it": "Ebanopoli"
+ },
+ {
+  "id": 343,
+  "en": "Blackthorn House",
+  "it": "Casa di Ebanopoli"
+ },
+ {
+  "id": 344,
+  "en": "Blackthorn Pokémon Center",
+  "it": "Centro Pokémon di Ebanopoli"
+ },
+ {
+  "id": 345,
+  "en": "Resort Area",
+  "it": "Area Svago"
+ },
+ {
+  "id": 346,
+  "en": "Blackthorn Gym",
+  "it": "Palestra di Ebanopoli"
+ },
+ {
+  "id": 347,
+  "en": "Dragon's Den",
+  "it": "Tana del Drago"
+ },
+ {
+  "id": 348,
+  "en": "Dragon Holy Land",
+  "it": "Terra Sacra dei Draghi"
+ },
+ {
+  "id": 349,
+  "en": "Silver Conference",
+  "it": "Conferenza Argento"
+ },
+ {
+  "id": 350,
+  "en": "Johto Pokemon League",
+  "it": "Lega Pokémon di Johto"
+ },
+ {
+  "id": 351,
+  "en": "Silver Elimination",
+  "it": "Eliminatorie Argento"
+ },
+ {
+  "id": 352,
+  "en": "Round Robin 1",
+  "it": "Girone 1"
+ },
+ {
+  "id": 353,
+  "en": "Round Robin 2",
+  "it": "Girone 2"
+ },
+ {
+  "id": 354,
+  "en": "Silver Stadium",
+  "it": "Stadio Argento"
+ },
+ {
+  "id": 355,
+  "en": "Hoenn",
+  "it": "Hoenn"
+ },
+ {
+  "id": 356,
+  "en": "Hoenn",
+  "it": "Hoenn"
+ },
+ {
+  "id": 357,
+  "en": "Littleroot Town",
+  "it": "Albanova"
+ },
+ {
+  "id": 358,
+  "en": "Littleroot House",
+  "it": "Casa di Albanova"
+ },
+ {
+  "id": 359,
+  "en": "Professor Birch's Lab",
+  "it": "Laboratorio del Prof. Birch"
+ },
+ {
+  "id": 360,
+  "en": "Route 101",
+  "it": "Percorso 101"
+ },
+ {
+  "id": 361,
+  "en": "Oldale Town",
+  "it": "Solarosa"
+ },
+ {
+  "id": 362,
+  "en": "Oldale House",
+  "it": "Casa di Solarosa"
+ },
+ {
+  "id": 363,
+  "en": "Oldale Pokémon Center",
+  "it": "Centro Pokémon di Solarosa"
+ },
+ {
+  "id": 364,
+  "en": "Resort Area House",
+  "it": "Casa dell'Area Svago"
+ },
+ {
+  "id": 365,
+  "en": "Route 102",
+  "it": "Percorso 102"
+ },
+ {
+  "id": 366,
+  "en": "Petalburg City",
+  "it": "Petalipoli"
+ },
+ {
+  "id": 367,
+  "en": "Petalburg House",
+  "it": "Casa di Petalipoli"
+ },
+ {
+  "id": 368,
+  "en": "Petalburg Pokémon Center",
+  "it": "Centro Pokémon di Petalipoli"
+ },
+ {
+  "id": 369,
+  "en": "Mauville City",
+  "it": "Ciclamipoli"
+ },
+ {
+  "id": 370,
+  "en": "Route 104",
+  "it": "Percorso 104"
+ },
+ {
+  "id": 371,
+  "en": "Petalburg Woods",
+  "it": "Bosco Petalo"
+ },
+ {
+  "id": 372,
+  "en": "Route 104 House",
+  "it": "Casa del Percorso 104"
+ },
+ {
+  "id": 373,
+  "en": "Rustboro City",
+  "it": "Ferrugipoli"
+ },
+ {
+  "id": 374,
+  "en": "Rustboro House",
+  "it": "Casa di Ferrugipoli"
+ },
+ {
+  "id": 375,
+  "en": "Rustboro School",
+  "it": "Scuola di Ferrugipoli"
+ },
+ {
+  "id": 376,
+  "en": "Rustboro Pokémon Center",
+  "it": "Centro Pokémon di Ferrugipoli"
+ },
+ {
+  "id": 377,
+  "en": "Galar",
+  "it": "Galar"
+ },
+ {
+  "id": 378,
+  "en": "Rustboro Gym",
+  "it": "Palestra di Ferrugipoli"
+ },
+ {
+  "id": 379,
+  "en": "Dewford Town",
+  "it": "Bluruvia"
+ },
+ {
+  "id": 380,
+  "en": "Dewford House",
+  "it": "Casa di Bluruvia"
+ },
+ {
+  "id": 381,
+  "en": "Dewford Pokémon Center",
+  "it": "Centro Pokémon di Bluruvia"
+ },
+ {
+  "id": 382,
+  "en": "Granite Cave",
+  "it": "Grotta Pietrosa"
+ },
+ {
+  "id": 383,
+  "en": "Route 106",
+  "it": "Percorso 106"
+ },
+ {
+  "id": 384,
+  "en": "Dewford Gym",
+  "it": "Palestra di Bluruvia"
+ },
+ {
+  "id": 385,
+  "en": "Route 106",
+  "it": "Percorso 106"
+ },
+ {
+  "id": 386,
+  "en": "Route 109",
+  "it": "Percorso 109"
+ },
+ {
+  "id": 387,
+  "en": "Slateport City",
+  "it": "Porto Selcepoli"
+ },
+ {
+  "id": 388,
+  "en": "Slateport House",
+  "it": "Casa di Porto Selcepoli"
+ },
+ {
+  "id": 389,
+  "en": "Slateport Pokémon Center",
+  "it": "Centro Pokémon di Porto Selcepoli"
+ },
+ {
+  "id": 390,
+  "en": "Cerise Park",
+  "it": "Parco Cerise"
+ },
+ {
+  "id": 391,
+  "en": "Oceanic Museum",
+  "it": "Museo Oceanografico"
+ },
+ {
+  "id": 392,
+  "en": "Slateport Contest",
+  "it": "Gara di Porto Selcepoli"
+ },
+ {
+  "id": 393,
+  "en": "Route 110",
+  "it": "Percorso 110"
+ },
+ {
+  "id": 394,
+  "en": "Mauville City",
+  "it": "Ciclamipoli"
+ },
+ {
+  "id": 395,
+  "en": "Mauville House",
+  "it": "Casa di Ciclamipoli"
+ },
+ {
+  "id": 396,
+  "en": "Mauville Pokémon Center",
+  "it": "Centro Pokémon di Ciclamipoli"
+ },
+ {
+  "id": 397,
+  "en": "Wild Area",
+  "it": "Terre Selvagge"
+ },
+ {
+  "id": 398,
+  "en": "Mauville Gym",
+  "it": "Palestra di Ciclamipoli"
+ },
+ {
+  "id": 399,
+  "en": "Route 111",
+  "it": "Percorso 111"
+ },
+ {
+  "id": 400,
+  "en": "Mirage Kingdom",
+  "it": "Regno Miraggio"
+ },
+ {
+  "id": 401,
+  "en": "Route 111 House",
+  "it": "Casa del Percorso 111"
+ },
+ {
+  "id": 402,
+  "en": "Route 113",
+  "it": "Percorso 113"
+ },
+ {
+  "id": 403,
+  "en": "Fallabor Town",
+  "it": "Mentania"
+ },
+ {
+  "id": 404,
+  "en": "Fallarbor House",
+  "it": "Casa di Brunifoglia"
+ },
+ {
+  "id": 405,
+  "en": "Fallarbor Pokémon Center",
+  "it": "Centro Pokémon di Brunifoglia"
+ },
+ {
+  "id": 406,
+  "en": "Route 10",
+  "it": "Percorso 10"
+ },
+ {
+  "id": 407,
+  "en": "Fallarbor Contest",
+  "it": "Gara di Brunifoglia"
+ },
+ {
+  "id": 408,
+  "en": "Lavaridge Town",
+  "it": "Cuordilava"
+ },
+ {
+  "id": 409,
+  "en": "Fiery Path",
+  "it": "Cammino Ardente"
+ },
+ {
+  "id": 410,
+  "en": "Lavaridge House",
+  "it": "Casa di Cuordilava"
+ },
+ {
+  "id": 411,
+  "en": "Lavaridge Pokémon Center",
+  "it": "Centro Pokémon di Cuordilava"
+ },
+ {
+  "id": 412,
+  "en": "Kanto Power Plant",
+  "it": "Centrale Elettrica di Kanto"
+ },
+ {
+  "id": 413,
+  "en": "Lavaridge Gym",
+  "it": "Palestra di Cuordilava"
+ },
+ {
+  "id": 414,
+  "en": "Route 112",
+  "it": "Percorso 112"
+ },
+ {
+  "id": 415,
+  "en": "Valley of Steel",
+  "it": "Valle d'Acciaio"
+ },
+ {
+  "id": 416,
+  "en": "Petalburg Gym",
+  "it": "Palestra di Petalipoli"
+ },
+ {
+  "id": 417,
+  "en": "Route 118",
+  "it": "Percorso 118"
+ },
+ {
+  "id": 418,
+  "en": "Route 119",
+  "it": "Percorso 119"
+ },
+ {
+  "id": 419,
+  "en": "Fortree City",
+  "it": "Forestopoli"
+ },
+ {
+  "id": 420,
+  "en": "Fortree House",
+  "it": "Casa di Forestopoli"
+ },
+ {
+  "id": 421,
+  "en": "Fortree Pokémon Center",
+  "it": "Centro Pokémon di Forestopoli"
+ },
+ {
+  "id": 422,
+  "en": "Slumbering Weald",
+  "it": "Bosco Assopito"
+ },
+ {
+  "id": 423,
+  "en": "Fortree Gym",
+  "it": "Palestra di Forestopoli"
+ },
+ {
+  "id": 424,
+  "en": "Route 120",
+  "it": "Percorso 120"
+ },
+ {
+  "id": 425,
+  "en": "Route 121",
+  "it": "Percorso 121"
+ },
+ {
+  "id": 426,
+  "en": "Lilycove City",
+  "it": "Porto Alghepoli"
+ },
+ {
+  "id": 427,
+  "en": "Lilycove House",
+  "it": "Casa di Porto Alghepoli"
+ },
+ {
+  "id": 428,
+  "en": "Lilycove Pokémon Center",
+  "it": "Centro Pokémon di Porto Alghepoli"
+ },
+ {
+  "id": 429,
+  "en": "Lilycove Contest",
+  "it": "Gara di Porto Alghepoli"
+ },
+ {
+  "id": 430,
+  "en": "Weather Instiitute",
+  "it": "Istituto Meteo"
+ },
+ {
+  "id": 431,
+  "en": "Lilycove Dept. 1F",
+  "it": "Centro Comm. Porto Alghepoli 1P"
+ },
+ {
+  "id": 432,
+  "en": "Lilycove Dept. 2F",
+  "it": "Centro Comm. Porto Alghepoli 2P"
+ },
+ {
+  "id": 433,
+  "en": "Lilycove Dept. 3F",
+  "it": "Centro Comm. Porto Alghepoli 3P"
+ },
+ {
+  "id": 434,
+  "en": "Lilycove Dept. 4F",
+  "it": "Centro Comm. Porto Alghepoli 4P"
+ },
+ {
+  "id": 435,
+  "en": "Lilycove Dept. 5F",
+  "it": "Centro Comm. Porto Alghepoli 5P"
+ },
+ {
+  "id": 436,
+  "en": "Lilycove Dept. Elevator",
+  "it": "Ascensore Centro Comm. Porto Alghepoli"
+ },
+ {
+  "id": 437,
+  "en": "Mossdeep City",
+  "it": "Verdeazzupoli"
+ },
+ {
+  "id": 438,
+  "en": "Mossdeep House",
+  "it": "Casa di Verdeazzupoli"
+ },
+ {
+  "id": 439,
+  "en": "Mossdeep Pokémon Center",
+  "it": "Centro Pokémon di Verdeazzupoli"
+ },
+ {
+  "id": 440,
+  "en": "Hammerlocke",
+  "it": "Hammerlocke"
+ },
+ {
+  "id": 441,
+  "en": "Mossdeep Space Center",
+  "it": "Centro Spaziale di Verdeazzupoli"
+ },
+ {
+  "id": 442,
+  "en": "Mossdeep Gym",
+  "it": "Palestra di Verdeazzupoli"
+ },
+ {
+  "id": 443,
+  "en": "Izabe Island",
+  "it": "Isola Izabe"
+ },
+ {
+  "id": 444,
+  "en": "Izabe House",
+  "it": "Casa di Izabe"
+ },
+ {
+  "id": 445,
+  "en": "Purika Pokémon Center",
+  "it": "Centro Pokémon di Purika"
+ },
+ {
+  "id": 446,
+  "en": "Riyado Pokémon Center",
+  "it": "Centro Pokémon di Riyado"
+ },
+ {
+  "id": 447,
+  "en": "Cerosi Pokémon Center",
+  "it": "Centro Pokémon di Cerosi"
+ },
+ {
+  "id": 448,
+  "en": "Hammerlocke House",
+  "it": "Casa di Hammerlocke"
+ },
+ {
+  "id": 449,
+  "en": "Purika Contest",
+  "it": "Gara di Purika"
+ },
+ {
+  "id": 450,
+  "en": "Izabe Desert",
+  "it": "Deserto di Izabe"
+ },
+ {
+  "id": 451,
+  "en": "Izabe Forest",
+  "it": "Bosco di Izabe"
+ },
+ {
+  "id": 452,
+  "en": "Hammerlocke Pokémon Center",
+  "it": "Centro Pokémon di Hammerlocke"
+ },
+ {
+  "id": 453,
+  "en": "Izabe Cave",
+  "it": "Grotta di Izabe"
+ },
+ {
+  "id": 454,
+  "en": "Sootopolis City",
+  "it": "Ceneride"
+ },
+ {
+  "id": 455,
+  "en": "Sootopolis House",
+  "it": "Casa di Ceneride"
+ },
+ {
+  "id": 456,
+  "en": "Sootopolis Pokémon Center",
+  "it": "Centro Pokémon di Ceneride"
+ },
+ {
+  "id": 457,
+  "en": "Hammerlocke Stadium",
+  "it": "Stadio di Hammerlocke"
+ },
+ {
+  "id": 458,
+  "en": "Sootopolis Gym",
+  "it": "Palestra di Ceneride"
+ },
+ {
+  "id": 459,
+  "en": "Pacifidlog Town",
+  "it": "Orocea"
+ },
+ {
+  "id": 460,
+  "en": "Pacifidlog House",
+  "it": "Casa di Orocea"
+ },
+ {
+  "id": 461,
+  "en": "Pacifidlog Pokémon Center",
+  "it": "Centro Pokémon di Orocea"
+ },
+ {
+  "id": 462,
+  "en": "Pacifidlog Contest",
+  "it": "Gara di Orocea"
+ },
+ {
+  "id": 463,
+  "en": "Ever Grande Conference",
+  "it": "Conferenza Iridopoli"
+ },
+ {
+  "id": 464,
+  "en": "Hoenn Pokemon League",
+  "it": "Lega Pokémon di Hoenn"
+ },
+ {
+  "id": 465,
+  "en": "Ever Grande Elimination",
+  "it": "Eliminatorie Iridopoli"
+ },
+ {
+  "id": 466,
+  "en": "Ever Grande Doubles",
+  "it": "Doppie Iridopoli"
+ },
+ {
+  "id": 467,
+  "en": "Grande Top 32",
+  "it": "Iridopoli Top 32"
+ },
+ {
+  "id": 468,
+  "en": "Grande Top 16",
+  "it": "Iridopoli Top 16"
+ },
+ {
+  "id": 469,
+  "en": "Grande Top 8",
+  "it": "Iridopoli Top 8"
+ },
+ {
+  "id": 470,
+  "en": "Ever Grande Doubles 2",
+  "it": "Doppie Iridopoli 2"
+ },
+ {
+  "id": 471,
+  "en": "Ever Grande Doubles 1",
+  "it": "Doppie Iridopoli 1"
+ },
+ {
+  "id": 472,
+  "en": "Lavaridge Day Care",
+  "it": "Pensione di Cuordilava"
+ },
+ {
+  "id": 473,
+  "en": "Battle Factory",
+  "it": "Fabbrica Lotta"
+ },
+ {
+  "id": 474,
+  "en": "Battle Factory",
+  "it": "Fabbrica Lotta"
+ },
+ {
+  "id": 475,
+  "en": "Battle Factory Stage",
+  "it": "Palco Fabbrica Lotta"
+ },
+ {
+  "id": 476,
+  "en": "Battle Arena",
+  "it": "Dojo Lotta"
+ },
+ {
+  "id": 477,
+  "en": "Saffron Contest",
+  "it": "Gara di Zafferanopoli"
+ },
+ {
+  "id": 478,
+  "en": "Battle Arena",
+  "it": "Dojo Lotta"
+ },
+ {
+  "id": 479,
+  "en": "Battle Arena Stage",
+  "it": "Palco Dojo Lotta"
+ },
+ {
+  "id": 480,
+  "en": "Route 12",
+  "it": "Percorso 12"
+ },
+ {
+  "id": 481,
+  "en": "Route 12 Breeding Center",
+  "it": "Centro Allevamento Percorso 12"
+ },
+ {
+  "id": 482,
+  "en": "Route 13",
+  "it": "Percorso 13"
+ },
+ {
+  "id": 483,
+  "en": "Battle Dome Stage",
+  "it": "Palco Cupola Lotta"
+ },
+ {
+  "id": 484,
+  "en": "Battle Dome",
+  "it": "Cupola Lotta"
+ },
+ {
+  "id": 485,
+  "en": "Route 14",
+  "it": "Percorso 14"
+ },
+ {
+  "id": 486,
+  "en": "Route 15",
+  "it": "Percorso 15"
+ },
+ {
+  "id": 487,
+  "en": "Safari Zone Hoenn",
+  "it": "Zona Safari Hoenn"
+ },
+ {
+  "id": 488,
+  "en": "Battle Pike",
+  "it": "Serpe Lotta"
+ },
+ {
+  "id": 489,
+  "en": "Battle Pike",
+  "it": "Serpe Lotta"
+ },
+ {
+  "id": 490,
+  "en": "Battle Pike Stage",
+  "it": "Palco Serpe Lotta"
+ },
+ {
+  "id": 491,
+  "en": "Metallica Island",
+  "it": "Isola Metallica"
+ },
+ {
+  "id": 492,
+  "en": "Battle Palace",
+  "it": "Palazzo Lotta"
+ },
+ {
+  "id": 493,
+  "en": "Battle Palace Stage",
+  "it": "Palco Palazzo Lotta"
+ },
+ {
+  "id": 494,
+  "en": "Route 26",
+  "it": "Percorso 26"
+ },
+ {
+  "id": 495,
+  "en": "Route 26 House",
+  "it": "Casa del Percorso 26"
+ },
+ {
+  "id": 496,
+  "en": "Battle Tower",
+  "it": "Torre Lotta"
+ },
+ {
+  "id": 497,
+  "en": "Battle Tower Challenge",
+  "it": "Sfida Torre Lotta"
+ },
+ {
+  "id": 498,
+  "en": "Battle Tower Stage",
+  "it": "Palco Torre Lotta"
+ },
+ {
+  "id": 499,
+  "en": "Battle Pyramid",
+  "it": "Piramide Lotta"
+ },
+ {
+  "id": 500,
+  "en": "Battle Pyramid",
+  "it": "Piramide Lotta"
+ },
+ {
+  "id": 501,
+  "en": "Sinnoh",
+  "it": "Sinnoh"
+ },
+ {
+  "id": 502,
+  "en": "Battle Pyramid Stage",
+  "it": "Palco Piramide Lotta"
+ },
+ {
+  "id": 503,
+  "en": "Sinnoh",
+  "it": "Sinnoh"
+ },
+ {
+  "id": 504,
+  "en": "Sandgem House",
+  "it": "Casa di Sabbiafine"
+ },
+ {
+  "id": 505,
+  "en": "Sandgem Pokémon Center",
+  "it": "Centro Pokémon di Sabbiafine"
+ },
+ {
+  "id": 506,
+  "en": "Route 202",
+  "it": "Percorso 202"
+ },
+ {
+  "id": 507,
+  "en": "Sandgem Town",
+  "it": "Sabbiafine"
+ },
+ {
+  "id": 508,
+  "en": "Tower Summit",
+  "it": "Cima della Torre"
+ },
+ {
+  "id": 509,
+  "en": "Professor Rowan's Lab",
+  "it": "Laboratorio del Prof. Rowan"
+ },
+ {
+  "id": 510,
+  "en": "Route 201",
+  "it": "Percorso 201"
+ },
+ {
+  "id": 511,
+  "en": "Route 202",
+  "it": "Percorso 202"
+ },
+ {
+  "id": 512,
+  "en": "Lake Verity",
+  "it": "Lago Verità"
+ },
+ {
+  "id": 513,
+  "en": "Twinleaf Town",
+  "it": "Duefoglie"
+ },
+ {
+  "id": 514,
+  "en": "Twinleaf House",
+  "it": "Casa di Duefoglie"
+ },
+ {
+  "id": 515,
+  "en": "Jubilife City",
+  "it": "Giubilopoli"
+ },
+ {
+  "id": 516,
+  "en": "Jubilife House",
+  "it": "Casa di Giubilopoli"
+ },
+ {
+  "id": 517,
+  "en": "Cero Island",
+  "it": "Isola Cero"
+ },
+ {
+  "id": 518,
+  "en": "Route 10",
+  "it": "Percorso 10"
+ },
+ {
+  "id": 519,
+  "en": "Jubilife Pokémon Center",
+  "it": "Centro Pokémon di Giubilopoli"
+ },
+ {
+  "id": 520,
+  "en": "Route 6",
+  "it": "Percorso 6"
+ },
+ {
+  "id": 521,
+  "en": "Route 203",
+  "it": "Percorso 203"
+ },
+ {
+  "id": 522,
+  "en": "Oreburgh Gate",
+  "it": "Varco Mineropoli"
+ },
+ {
+  "id": 523,
+  "en": "Oreburgh City",
+  "it": "Mineropoli"
+ },
+ {
+  "id": 524,
+  "en": "Oreburgh House",
+  "it": "Casa di Mineropoli"
+ },
+ {
+  "id": 525,
+  "en": "Oreburgh Pokémon Center",
+  "it": "Centro Pokémon di Mineropoli"
+ },
+ {
+  "id": 526,
+  "en": "Stow-on-Side",
+  "it": "Stow-on-Side"
+ },
+ {
+  "id": 527,
+  "en": "Oreburgh Mining Museum",
+  "it": "Museo Minerario di Mineropoli"
+ },
+ {
+  "id": 528,
+  "en": "Oreburgh Mine",
+  "it": "Miniera di Mineropoli"
+ },
+ {
+  "id": 529,
+  "en": "Route 204",
+  "it": "Percorso 204"
+ },
+ {
+  "id": 530,
+  "en": "Oreburgh Gym",
+  "it": "Palestra di Mineropoli"
+ },
+ {
+  "id": 531,
+  "en": "Ravaged Path",
+  "it": "Via Dissestata"
+ },
+ {
+  "id": 532,
+  "en": "Floaroma Town",
+  "it": "Floraria"
+ },
+ {
+  "id": 533,
+  "en": "Floaroma House",
+  "it": "Casa di Floraria"
+ },
+ {
+  "id": 534,
+  "en": "Floaroma Pokémon Center",
+  "it": "Centro Pokémon di Floraria"
+ },
+ {
+  "id": 535,
+  "en": "Stow-on-Side House",
+  "it": "Casa di Stow-on-Side"
+ },
+ {
+  "id": 536,
+  "en": "Floaroma Contest",
+  "it": "Gara di Floraria"
+ },
+ {
+  "id": 537,
+  "en": "Floaroma Meadow",
+  "it": "Prato Floraria"
+ },
+ {
+  "id": 538,
+  "en": "Route 205",
+  "it": "Percorso 205"
+ },
+ {
+  "id": 539,
+  "en": "Route 205 House",
+  "it": "Casa del Percorso 205"
+ },
+ {
+  "id": 540,
+  "en": "Eterna Forest",
+  "it": "Bosco Evopoli"
+ },
+ {
+  "id": 541,
+  "en": "Eterna City",
+  "it": "Evopoli"
+ },
+ {
+  "id": 542,
+  "en": "Eterna House",
+  "it": "Casa di Evopoli"
+ },
+ {
+  "id": 543,
+  "en": "Eterna Pokémon Center",
+  "it": "Centro Pokémon di Evopoli"
+ },
+ {
+  "id": 544,
+  "en": "Stow-on-Side Stadium",
+  "it": "Stadio di Stow-on-Side"
+ },
+ {
+  "id": 545,
+  "en": "Eterna Gym",
+  "it": "Palestra di Evopoli"
+ },
+ {
+  "id": 546,
+  "en": "Route 206",
+  "it": "Percorso 206"
+ },
+ {
+  "id": 547,
+  "en": "Route 206 Gate",
+  "it": "Varco del Percorso 206"
+ },
+ {
+  "id": 548,
+  "en": "Route 206",
+  "it": "Percorso 206"
+ },
+ {
+  "id": 549,
+  "en": "Route 206 Gate",
+  "it": "Varco del Percorso 206"
+ },
+ {
+  "id": 550,
+  "en": "Route 207",
+  "it": "Percorso 207"
+ },
+ {
+  "id": 551,
+  "en": "Hearthome City",
+  "it": "Cuoripoli"
+ },
+ {
+  "id": 552,
+  "en": "Hearthome House",
+  "it": "Casa di Cuoripoli"
+ },
+ {
+  "id": 553,
+  "en": "Hearthome Pokémon Fan Club",
+  "it": "Fan Club Pokémon di Cuoripoli"
+ },
+ {
+  "id": 554,
+  "en": "Hearthome Pokémon Center",
+  "it": "Centro Pokémon di Cuoripoli"
+ },
+ {
+  "id": 555,
+  "en": "Stow-on-Side Pokémon Center",
+  "it": "Centro Pokémon di Stow-on-Side"
+ },
+ {
+  "id": 556,
+  "en": "Hearthome Contest",
+  "it": "Gara di Cuoripoli"
+ },
+ {
+  "id": 557,
+  "en": "Battle Hall",
+  "it": "Sala Lotta"
+ },
+ {
+  "id": 558,
+  "en": "Battle Hall Stadium",
+  "it": "Stadio Sala Lotta"
+ },
+ {
+  "id": 559,
+  "en": "Battle Hall Stadium",
+  "it": "Stadio Sala Lotta"
+ },
+ {
+  "id": 560,
+  "en": "Battle Hall Stadium",
+  "it": "Stadio Sala Lotta"
+ },
+ {
+  "id": 561,
+  "en": "Battle Hall Stadium",
+  "it": "Stadio Sala Lotta"
+ },
+ {
+  "id": 562,
+  "en": "Route 209",
+  "it": "Percorso 209"
+ },
+ {
+  "id": 563,
+  "en": "Solaceon Town",
+  "it": "Flemminia"
+ },
+ {
+  "id": 564,
+  "en": "Solaceon House",
+  "it": "Casa di Flemminia"
+ },
+ {
+  "id": 565,
+  "en": "Solaceon Day Care",
+  "it": "Pensione di Flemminia"
+ },
+ {
+  "id": 566,
+  "en": "Solaceon Pokémon Center",
+  "it": "Centro Pokémon di Flemminia"
+ },
+ {
+  "id": 567,
+  "en": "Glimwood Tangle",
+  "it": "Bosco Lucente"
+ },
+ {
+  "id": 568,
+  "en": "Solaceon Contest",
+  "it": "Gara di Flemminia"
+ },
+ {
+  "id": 569,
+  "en": "Solaceon Ruins",
+  "it": "Rovine di Flemminia"
+ },
+ {
+  "id": 570,
+  "en": "Route 210",
+  "it": "Percorso 210"
+ },
+ {
+  "id": 571,
+  "en": "Route 210 House",
+  "it": "Casa del Percorso 210"
+ },
+ {
+  "id": 572,
+  "en": "Route 215",
+  "it": "Percorso 215"
+ },
+ {
+  "id": 573,
+  "en": "Route 215 gate",
+  "it": "Varco del Percorso 215"
+ },
+ {
+  "id": 574,
+  "en": "Veilstone City",
+  "it": "Rupepoli"
+ },
+ {
+  "id": 575,
+  "en": "Veilstone House",
+  "it": "Casa di Rupepoli"
+ },
+ {
+  "id": 576,
+  "en": "Veilstone Pokémon Center",
+  "it": "Centro Pokémon di Rupepoli"
+ },
+ {
+  "id": 577,
+  "en": "Veilstone Dept. 1F",
+  "it": "Centro Comm. Rupepoli 1P"
+ },
+ {
+  "id": 578,
+  "en": "Veilstone Dept. 2F",
+  "it": "Centro Comm. Rupepoli 2P"
+ },
+ {
+  "id": 579,
+  "en": "Veilstone Dept. 3F",
+  "it": "Centro Comm. Rupepoli 3P"
+ },
+ {
+  "id": 580,
+  "en": "Veilstone Dept. 4F",
+  "it": "Centro Comm. Rupepoli 4P"
+ },
+ {
+  "id": 581,
+  "en": "Veilstone Dept. 5F",
+  "it": "Centro Comm. Rupepoli 5P"
+ },
+ {
+  "id": 582,
+  "en": "Veilstone Dept. Rooftop",
+  "it": "Tetto Centro Comm. Rupepoli"
+ },
+ {
+  "id": 583,
+  "en": "Veilstone Dept. Elevator",
+  "it": "Ascensore Centro Comm. Rupepoli"
+ },
+ {
+  "id": 584,
+  "en": "Veilstone Gym",
+  "it": "Palestra di Rupepoli"
+ },
+ {
+  "id": 585,
+  "en": "Route 214",
+  "it": "Percorso 214"
+ },
+ {
+  "id": 586,
+  "en": "Ballonlea",
+  "it": "Ballonlea"
+ },
+ {
+  "id": 587,
+  "en": "Valor Lakefront",
+  "it": "Riva Lago Valore"
+ },
+ {
+  "id": 588,
+  "en": "Valor Lakefront House",
+  "it": "Casa di Riva Lago Valore"
+ },
+ {
+  "id": 589,
+  "en": "Seven Stars Restaurant",
+  "it": "Ristorante Sette Stelle"
+ },
+ {
+  "id": 590,
+  "en": "Lake Valor",
+  "it": "Lago Valore"
+ },
+ {
+  "id": 591,
+  "en": "Lake Valor Contest",
+  "it": "Gara del Lago Valore"
+ },
+ {
+  "id": 592,
+  "en": "Route 213",
+  "it": "Percorso 213"
+ },
+ {
+  "id": 593,
+  "en": "Route 213 House",
+  "it": "Casa del Percorso 213"
+ },
+ {
+  "id": 594,
+  "en": "Pastoria City",
+  "it": "Pratopoli"
+ },
+ {
+  "id": 595,
+  "en": "Safari Zone Sinnoh",
+  "it": "Zona Safari Sinnoh"
+ },
+ {
+  "id": 596,
+  "en": "Ballonlea House",
+  "it": "Casa di Ballonlea"
+ },
+ {
+  "id": 597,
+  "en": "Pastoria House",
+  "it": "Casa di Pratopoli"
+ },
+ {
+  "id": 598,
+  "en": "Pastoria Pokémon Center",
+  "it": "Centro Pokémon di Pratopoli"
+ },
+ {
+  "id": 599,
+  "en": "Ballonlea Pokémon Center",
+  "it": "Centro Pokémon di Ballonlea"
+ },
+ {
+  "id": 600,
+  "en": "Pastoria Gym",
+  "it": "Palestra di Pratopoli"
+ },
+ {
+  "id": 601,
+  "en": "Route 212",
+  "it": "Percorso 212"
+ },
+ {
+  "id": 602,
+  "en": "Ballonlea Stadium",
+  "it": "Stadio di Ballonlea"
+ },
+ {
+  "id": 603,
+  "en": "Pokémon Mansion",
+  "it": "Villa Pokémon"
+ },
+ {
+  "id": 604,
+  "en": "Trophy Garden",
+  "it": "Giardino Trofeo"
+ },
+ {
+  "id": 605,
+  "en": "Route 212 House",
+  "it": "Casa del Percorso 212"
+ },
+ {
+  "id": 606,
+  "en": "Route 210",
+  "it": "Percorso 210"
+ },
+ {
+  "id": 607,
+  "en": "Celestic Town",
+  "it": "Memoride"
+ },
+ {
+  "id": 608,
+  "en": "Celestic House",
+  "it": "Casa di Memoride"
+ },
+ {
+  "id": 609,
+  "en": "Celestic Contest",
+  "it": "Gara di Memoride"
+ },
+ {
+  "id": 610,
+  "en": "Celestic Ruins",
+  "it": "Rovine di Memoride"
+ },
+ {
+  "id": 611,
+  "en": "Hearthome Gym",
+  "it": "Palestra di Cuoripoli"
+ },
+ {
+  "id": 612,
+  "en": "Route 218",
+  "it": "Percorso 218"
+ },
+ {
+  "id": 613,
+  "en": "Canalave City",
+  "it": "Canalipoli"
+ },
+ {
+  "id": 614,
+  "en": "Canalave House",
+  "it": "Casa di Canalipoli"
+ },
+ {
+  "id": 615,
+  "en": "Canalave Pokémon Center",
+  "it": "Centro Pokémon di Canalipoli"
+ },
+ {
+  "id": 616,
+  "en": "Castle of Chivalry",
+  "it": "Castello della Cavalleria"
+ },
+ {
+  "id": 617,
+  "en": "Canalave Gym",
+  "it": "Palestra di Canalipoli"
+ },
+ {
+  "id": 618,
+  "en": "Iron Island",
+  "it": "Isola Ferrosa"
+ },
+ {
+  "id": 619,
+  "en": "Route 211",
+  "it": "Percorso 211"
+ },
+ {
+  "id": 620,
+  "en": "Route 216",
+  "it": "Percorso 216"
+ },
+ {
+  "id": 621,
+  "en": "Route 216 House",
+  "it": "Casa del Percorso 216"
+ },
+ {
+  "id": 622,
+  "en": "Route 217",
+  "it": "Percorso 217"
+ },
+ {
+  "id": 623,
+  "en": "Route 217 House",
+  "it": "Casa del Percorso 217"
+ },
+ {
+  "id": 624,
+  "en": "Lake Acuity",
+  "it": "Lago Arguzia"
+ },
+ {
+  "id": 625,
+  "en": "Snowpoint City",
+  "it": "Nevepoli"
+ },
+ {
+  "id": 626,
+  "en": "Snowpoint House",
+  "it": "Casa di Nevepoli"
+ },
+ {
+  "id": 627,
+  "en": "Snowpoint Pokémon Center",
+  "it": "Centro Pokémon di Nevepoli"
+ },
+ {
+  "id": 628,
+  "en": "Mt. Coronet",
+  "it": "Monte Corona"
+ },
+ {
+  "id": 629,
+  "en": "Snowpoint Gym",
+  "it": "Palestra di Nevepoli"
+ },
+ {
+  "id": 630,
+  "en": "Route 222",
+  "it": "Percorso 222"
+ },
+ {
+  "id": 631,
+  "en": "Route 222 House",
+  "it": "Casa del Percorso 222"
+ },
+ {
+  "id": 632,
+  "en": "Sunnyshore City",
+  "it": "Arenipoli"
+ },
+ {
+  "id": 633,
+  "en": "Sunnyshore House",
+  "it": "Casa di Arenipoli"
+ },
+ {
+  "id": 634,
+  "en": "Sunnyshore Stone Shop",
+  "it": "Negozio di Pietre di Arenipoli"
+ },
+ {
+  "id": 635,
+  "en": "Sunnyshore Pokémon Center",
+  "it": "Centro Pokémon di Arenipoli"
+ },
+ {
+  "id": 636,
+  "en": "Ballonlea Stadium",
+  "it": "Stadio di Ballonlea"
+ },
+ {
+  "id": 637,
+  "en": "Sunnyshore Tower",
+  "it": "Torre di Arenipoli"
+ },
+ {
+  "id": 638,
+  "en": "Lake Verity Cave",
+  "it": "Grotta del Lago Verità"
+ },
+ {
+  "id": 639,
+  "en": "Lake Valor Cave",
+  "it": "Grotta del Lago Valore"
+ },
+ {
+  "id": 640,
+  "en": "Lake Acuity Cave",
+  "it": "Grotta del Lago Arguzia"
+ },
+ {
+  "id": 641,
+  "en": "Sunnyshore Gym",
+  "it": "Palestra di Arenipoli"
+ },
+ {
+  "id": 642,
+  "en": "Lily of the Valley Island",
+  "it": "Isola Mughetto"
+ },
+ {
+  "id": 643,
+  "en": "Sinnoh Pokemon League",
+  "it": "Lega Pokémon di Sinnoh"
+ },
+ {
+  "id": 644,
+  "en": "Lily Basic",
+  "it": "Mughetto Base"
+ },
+ {
+  "id": 645,
+  "en": "Lily Top 16",
+  "it": "Mughetto Top 16"
+ },
+ {
+  "id": 646,
+  "en": "Lily Top 8",
+  "it": "Mughetto Top 8"
+ },
+ {
+  "id": 647,
+  "en": "Lily Top 4",
+  "it": "Mughetto Top 4"
+ },
+ {
+  "id": 648,
+  "en": "Old Chateau",
+  "it": "Antico Chateau"
+ },
+ {
+  "id": 649,
+  "en": "Unova",
+  "it": "Unima"
+ },
+ {
+  "id": 650,
+  "en": "Unova",
+  "it": "Unima"
+ },
+ {
+  "id": 651,
+  "en": "Nuvema Town",
+  "it": "Soffiolieve"
+ },
+ {
+  "id": 652,
+  "en": "Nuvema House",
+  "it": "Casa di Soffiolieve"
+ },
+ {
+  "id": 653,
+  "en": "Professor Juniper's Lab",
+  "it": "Laboratorio della Prof. Aralia"
+ },
+ {
+  "id": 654,
+  "en": "Route 1",
+  "it": "Percorso 1"
+ },
+ {
+  "id": 655,
+  "en": "Accumula Town",
+  "it": "Quattroventi"
+ },
+ {
+  "id": 656,
+  "en": "Accumula House",
+  "it": "Casa di Quattroventi"
+ },
+ {
+  "id": 657,
+  "en": "Accumula Pokémon Center",
+  "it": "Centro Pokémon di Quattroventi"
+ },
+ {
+  "id": 658,
+  "en": "Accumula House",
+  "it": "Casa di Quattroventi"
+ },
+ {
+  "id": 659,
+  "en": "Route 2",
+  "it": "Percorso 2"
+ },
+ {
+  "id": 660,
+  "en": "Striaton City",
+  "it": "Levantopoli"
+ },
+ {
+  "id": 661,
+  "en": "Striaton House",
+  "it": "Casa di Levantopoli"
+ },
+ {
+  "id": 662,
+  "en": "Striaton Pokémon Center",
+  "it": "Centro Pokémon di Levantopoli"
+ },
+ {
+  "id": 663,
+  "en": "Striaton Gym",
+  "it": "Palestra di Levantopoli"
+ },
+ {
+  "id": 664,
+  "en": "Dreamyard",
+  "it": "Cantiere dei Sogni"
+ },
+ {
+  "id": 665,
+  "en": "Route 3",
+  "it": "Percorso 3"
+ },
+ {
+  "id": 666,
+  "en": "Route 3 Day Care",
+  "it": "Pensione del Percorso 3"
+ },
+ {
+  "id": 667,
+  "en": "Route 3 House",
+  "it": "Casa del Percorso 3"
+ },
+ {
+  "id": 668,
+  "en": "Wellspring Cave",
+  "it": "Grotta Sgorgo"
+ },
+ {
+  "id": 669,
+  "en": "Nacrene City",
+  "it": "Zefiropoli"
+ },
+ {
+  "id": 670,
+  "en": "Pinwheel Forest",
+  "it": "Bosco Girandola"
+ },
+ {
+  "id": 671,
+  "en": "Nacrene House",
+  "it": "Casa di Zefiropoli"
+ },
+ {
+  "id": 672,
+  "en": "Nacrene Pokémon Center",
+  "it": "Centro Pokémon di Zefiropoli"
+ },
+ {
+  "id": 673,
+  "en": "Nacrene Museum",
+  "it": "Museo di Zefiropoli"
+ },
+ {
+  "id": 674,
+  "en": "Nacrene Gym",
+  "it": "Palestra di Zefiropoli"
+ },
+ {
+  "id": 675,
+  "en": "Pinwheel Forest",
+  "it": "Bosco Girandola"
+ },
+ {
+  "id": 676,
+  "en": "Skyarrow Bridge",
+  "it": "Ponte Freccialuce"
+ },
+ {
+  "id": 677,
+  "en": "Castelia City",
+  "it": "Austropoli"
+ },
+ {
+  "id": 678,
+  "en": "Castelia House",
+  "it": "Casa di Austropoli"
+ },
+ {
+  "id": 679,
+  "en": "Castelia Pokémon Center",
+  "it": "Centro Pokémon di Austropoli"
+ },
+ {
+  "id": 680,
+  "en": "Castelia House",
+  "it": "Casa di Austropoli"
+ },
+ {
+  "id": 681,
+  "en": "Castelia Gym",
+  "it": "Palestra di Austropoli"
+ },
+ {
+  "id": 682,
+  "en": "Route 4",
+  "it": "Percorso 4"
+ },
+ {
+  "id": 683,
+  "en": "Route 4",
+  "it": "Percorso 4"
+ },
+ {
+  "id": 684,
+  "en": "Club Battle",
+  "it": "Club Lotta"
+ },
+ {
+  "id": 685,
+  "en": "Club Battle Room",
+  "it": "Sala del Club Lotta"
+ },
+ {
+  "id": 686,
+  "en": "Nimbasa City",
+  "it": "Sciroccopoli"
+ },
+ {
+  "id": 687,
+  "en": "Nimbasa House",
+  "it": "Casa di Sciroccopoli"
+ },
+ {
+  "id": 688,
+  "en": "Musical Theater",
+  "it": "Teatro Musical"
+ },
+ {
+  "id": 689,
+  "en": "Battle Subway",
+  "it": "Metrò Lotta"
+ },
+ {
+  "id": 690,
+  "en": "Stadium",
+  "it": "Stadio"
+ },
+ {
+  "id": 691,
+  "en": "Nimbasa Pokémon Center",
+  "it": "Centro Pokémon di Sciroccopoli"
+ },
+ {
+  "id": 692,
+  "en": "Nimbasa Gym",
+  "it": "Palestra di Sciroccopoli"
+ },
+ {
+  "id": 693,
+  "en": "Route 5",
+  "it": "Percorso 5"
+ },
+ {
+  "id": 694,
+  "en": "Driftveil City",
+  "it": "Libecciopoli"
+ },
+ {
+  "id": 695,
+  "en": "Driftveil Drawbridge",
+  "it": "Ponte Levatoio Libecciopoli"
+ },
+ {
+  "id": 696,
+  "en": "Driftveil House",
+  "it": "Casa di Libecciopoli"
+ },
+ {
+  "id": 697,
+  "en": "Driftveil Pokémon Center",
+  "it": "Centro Pokémon di Libecciopoli"
+ },
+ {
+  "id": 698,
+  "en": "Milos Island",
+  "it": "Isola Milos"
+ },
+ {
+  "id": 699,
+  "en": "Driftveil Market",
+  "it": "Mercato di Libecciopoli"
+ },
+ {
+  "id": 700,
+  "en": "Milos Island",
+  "it": "Isola Milos"
+ },
+ {
+  "id": 701,
+  "en": "Driftveil Gym",
+  "it": "Palestra di Libecciopoli"
+ },
+ {
+  "id": 702,
+  "en": "Route 6",
+  "it": "Percorso 6"
+ },
+ {
+  "id": 703,
+  "en": "Route 6 House",
+  "it": "Casa del Percorso 6"
+ },
+ {
+  "id": 704,
+  "en": "Chargestone Cave 1F",
+  "it": "Grotta Pietrelettrica 1P"
+ },
+ {
+  "id": 705,
+  "en": "Chargestone Cave B1F",
+  "it": "Grotta Pietrelettrica P1S"
+ },
+ {
+  "id": 706,
+  "en": "Chargestone Cave B2F",
+  "it": "Grotta Pietrelettrica P2S"
+ },
+ {
+  "id": 707,
+  "en": "Mistralton City",
+  "it": "Ponentopoli"
+ },
+ {
+  "id": 708,
+  "en": "Mistralton House",
+  "it": "Casa di Ponentopoli"
+ },
+ {
+  "id": 709,
+  "en": "Mistralton Pokémon Center",
+  "it": "Centro Pokémon di Ponentopoli"
+ },
+ {
+  "id": 710,
+  "en": "Mistralton Gym",
+  "it": "Palestra di Ponentopoli"
+ },
+ {
+  "id": 711,
+  "en": "Route 7",
+  "it": "Percorso 7"
+ },
+ {
+  "id": 712,
+  "en": "Route 7 House",
+  "it": "Casa del Percorso 7"
+ },
+ {
+  "id": 713,
+  "en": "Route 7",
+  "it": "Percorso 7"
+ },
+ {
+  "id": 714,
+  "en": "Clubsplosion",
+  "it": "Clubsplosion"
+ },
+ {
+  "id": 715,
+  "en": "Clubsplosion  Room",
+  "it": "Sala Clubsplosion"
+ },
+ {
+  "id": 716,
+  "en": "Mistralton Tower 1F",
+  "it": "Torre di Ponentopoli 1P"
+ },
+ {
+  "id": 717,
+  "en": "Mistralton Tower 2F",
+  "it": "Torre di Ponentopoli 2P"
+ },
+ {
+  "id": 718,
+  "en": "Mistralton Tower 3F",
+  "it": "Torre di Ponentopoli 3P"
+ },
+ {
+  "id": 719,
+  "en": "Mistralton Tower 4F",
+  "it": "Torre di Ponentopoli 4P"
+ },
+ {
+  "id": 720,
+  "en": "Mistralton Tower Roof",
+  "it": "Tetto Torre di Ponentopoli"
+ },
+ {
+  "id": 721,
+  "en": "Twist Mountain",
+  "it": "Monte Vite"
+ },
+ {
+  "id": 722,
+  "en": "Twist Mountain 1F",
+  "it": "Monte Vite 1P"
+ },
+ {
+  "id": 723,
+  "en": "Twist Mountain 2F",
+  "it": "Monte Vite 2P"
+ },
+ {
+  "id": 724,
+  "en": "Twist Mountain 3F",
+  "it": "Monte Vite 3P"
+ },
+ {
+  "id": 725,
+  "en": "Icirrus City",
+  "it": "Mistralopoli"
+ },
+ {
+  "id": 726,
+  "en": "Icirrus House",
+  "it": "Casa di Mistralopoli"
+ },
+ {
+  "id": 727,
+  "en": "Icirrus Pokémon Fan Club",
+  "it": "Fan Club Pokémon di Mistralopoli"
+ },
+ {
+  "id": 728,
+  "en": "Icirrus Pokémon Center",
+  "it": "Centro Pokémon di Mistralopoli"
+ },
+ {
+  "id": 729,
+  "en": "Icirrus Gym",
+  "it": "Palestra di Mistralopoli"
+ },
+ {
+  "id": 730,
+  "en": "Route 8",
+  "it": "Percorso 8"
+ },
+ {
+  "id": 731,
+  "en": "Route 9",
+  "it": "Percorso 9"
+ },
+ {
+  "id": 732,
+  "en": "Shopping Mall Nine 1F",
+  "it": "Centro Comm. Nove 1P"
+ },
+ {
+  "id": 733,
+  "en": "Shopping Mall Nine 2F",
+  "it": "Centro Comm. Nove 2P"
+ },
+ {
+  "id": 734,
+  "en": "Shopping Mall Nine 3F",
+  "it": "Centro Comm. Nove 3P"
+ },
+ {
+  "id": 735,
+  "en": "Shopping Mall Nine 4F",
+  "it": "Centro Comm. Nove 4P"
+ },
+ {
+  "id": 736,
+  "en": "Shopping Mall Nine 5F",
+  "it": "Centro Comm. Nove 5P"
+ },
+ {
+  "id": 737,
+  "en": "Shopping Mall Nine Elevator",
+  "it": "Ascensore Centro Comm. Nove"
+ },
+ {
+  "id": 738,
+  "en": "Virbank City",
+  "it": "Virbopoli"
+ },
+ {
+  "id": 739,
+  "en": "Virbank House",
+  "it": "Casa di Virbopoli"
+ },
+ {
+  "id": 740,
+  "en": "Virbank Pokémon Center",
+  "it": "Centro Pokémon di Virbopoli"
+ },
+ {
+  "id": 741,
+  "en": "Virbank Gym",
+  "it": "Palestra di Virbopoli"
+ },
+ {
+  "id": 742,
+  "en": "Route 16",
+  "it": "Percorso 16"
+ },
+ {
+  "id": 743,
+  "en": "Undella Town",
+  "it": "Spiraria"
+ },
+ {
+  "id": 744,
+  "en": "Undella House",
+  "it": "Casa di Spiraria"
+ },
+ {
+  "id": 745,
+  "en": "Undella Pokémon Center",
+  "it": "Centro Pokémon di Spiraria"
+ },
+ {
+  "id": 746,
+  "en": "Cynthia's Villa",
+  "it": "Villa di Camilla"
+ },
+ {
+  "id": 747,
+  "en": "Junior Cup",
+  "it": "Coppa Junior"
+ },
+ {
+  "id": 748,
+  "en": "Junior Cup Room",
+  "it": "Sala della Coppa Junior"
+ },
+ {
+  "id": 749,
+  "en": "Undella Bay",
+  "it": "Baia Spiraria"
+ },
+ {
+  "id": 750,
+  "en": "Mistralton Cave",
+  "it": "Grotta di Ponentopoli"
+ },
+ {
+  "id": 751,
+  "en": "Twist Mountain 4F",
+  "it": "Monte Vite 4P"
+ },
+ {
+  "id": 752,
+  "en": "Pinwheel Forest",
+  "it": "Bosco Girandola"
+ },
+ {
+  "id": 753,
+  "en": "Route 12",
+  "it": "Percorso 12"
+ },
+ {
+  "id": 754,
+  "en": "Opelucid City",
+  "it": "Boreduopoli"
+ },
+ {
+  "id": 755,
+  "en": "Opelucid House",
+  "it": "Casa di Boreduopoli"
+ },
+ {
+  "id": 756,
+  "en": "Opelucid Pokémon Center",
+  "it": "Centro Pokémon di Boreduopoli"
+ },
+ {
+  "id": 757,
+  "en": "Vetress City",
+  "it": "Vetress City"
+ },
+ {
+  "id": 758,
+  "en": "Unova Pokemon League",
+  "it": "Lega Pokémon di Unima"
+ },
+ {
+  "id": 759,
+  "en": "Vetress 128",
+  "it": "Vetress 128"
+ },
+ {
+  "id": 760,
+  "en": "Vetress 64",
+  "it": "Vetress 64"
+ },
+ {
+  "id": 761,
+  "en": "Vetress 32",
+  "it": "Vetress 32"
+ },
+ {
+  "id": 762,
+  "en": "Vetress 16",
+  "it": "Vetress 16"
+ },
+ {
+  "id": 763,
+  "en": "Vetress 8",
+  "it": "Vetress 8"
+ },
+ {
+  "id": 764,
+  "en": "Oak's Corral",
+  "it": "Recinto di Oak"
+ },
+ {
+  "id": 765,
+  "en": "Route 20",
+  "it": "Percorso 20"
+ },
+ {
+  "id": 766,
+  "en": "Route 19",
+  "it": "Percorso 19"
+ },
+ {
+  "id": 767,
+  "en": "Aspertia City",
+  "it": "Alisopoli"
+ },
+ {
+  "id": 768,
+  "en": "Aspertia House",
+  "it": "Casa di Alisopoli"
+ },
+ {
+  "id": 769,
+  "en": "Aspertia Pokémon Center",
+  "it": "Centro Pokémon di Alisopoli"
+ },
+ {
+  "id": 770,
+  "en": "Aspertia Gym",
+  "it": "Palestra di Alisopoli"
+ },
+ {
+  "id": 771,
+  "en": "White Ruins",
+  "it": "Rovine Bianche"
+ },
+ {
+  "id": 772,
+  "en": "Pallet Town-Red",
+  "it": "Biancavilla-Rosso"
+ },
+ {
+  "id": 773,
+  "en": "Viridian Gym-Blue",
+  "it": "Palestra di Smeraldopoli-Blu"
+ },
+ {
+  "id": 774,
+  "en": "Mt. Coronet",
+  "it": "Monte Corona"
+ },
+ {
+  "id": 775,
+  "en": "Indigo Plateau-Green",
+  "it": "Altopiano Blu-Verde"
+ },
+ {
+  "id": 776,
+  "en": "Viridian Forest-Yellow",
+  "it": "Bosco Smeraldo-Giallo"
+ },
+ {
+  "id": 777,
+  "en": "New Bark Town-Gold",
+  "it": "Borgo Foglianova-Oro"
+ },
+ {
+  "id": 778,
+  "en": "Viridian City-Silver",
+  "it": "Smeraldopoli-Argento"
+ },
+ {
+  "id": 779,
+  "en": "Ecruteak City-Crystal",
+  "it": "Amarantopoli-Cristallo"
+ },
+ {
+  "id": 780,
+  "en": "Slateport City-Ruby",
+  "it": "Porto Selcepoli-Rubino"
+ },
+ {
+  "id": 781,
+  "en": "Littleroot Town-Sapphire",
+  "it": "Albanova-Zaffiro"
+ },
+ {
+  "id": 782,
+  "en": "Battle Tower-Emerald",
+  "it": "Torre Lotta-Smeraldo"
+ },
+ {
+  "id": 783,
+  "en": "Iron Island-Diamond",
+  "it": "Isola Ferrosa-Diamante"
+ },
+ {
+  "id": 784,
+  "en": "Pastoria City-Pearl",
+  "it": "Pratopoli-Perla"
+ },
+ {
+  "id": 785,
+  "en": "Mt. Coronet-Platinum",
+  "it": "Monte Corona-Platino"
+ },
+ {
+  "id": 786,
+  "en": "Unova Pokemon League-Black",
+  "it": "Lega Pokémon di Unima-Nero"
+ },
+ {
+  "id": 787,
+  "en": "Nimbasa City-White",
+  "it": "Sciroccopoli-Bianco"
+ },
+ {
+  "id": 788,
+  "en": "Route 19 House",
+  "it": "Casa del Percorso 19"
+ },
+ {
+  "id": 789,
+  "en": "Kalos",
+  "it": "Kalos"
+ },
+ {
+  "id": 790,
+  "en": "Kalos",
+  "it": "Kalos"
+ },
+ {
+  "id": 791,
+  "en": "Aspertia City-Whitley",
+  "it": "Alisopoli-Whitley"
+ },
+ {
+  "id": 792,
+  "en": "Virbank City-Blake",
+  "it": "Virbopoli-Blake"
+ },
+ {
+  "id": 793,
+  "en": "Lumiose City",
+  "it": "Luminopoli"
+ },
+ {
+  "id": 794,
+  "en": "Lumiose House",
+  "it": "Casa di Luminopoli"
+ },
+ {
+  "id": 795,
+  "en": "Lumiose Pokémon Center",
+  "it": "Centro Pokémon di Luminopoli"
+ },
+ {
+  "id": 796,
+  "en": "Professor Sycamore's Lab",
+  "it": "Laboratorio del Prof. Platan"
+ },
+ {
+  "id": 797,
+  "en": "Lumiose Gate",
+  "it": "Varco di Luminopoli"
+ },
+ {
+  "id": 798,
+  "en": "Route 4",
+  "it": "Percorso 4"
+ },
+ {
+  "id": 799,
+  "en": "Santalune City",
+  "it": "Novartopoli"
+ },
+ {
+  "id": 800,
+  "en": "Santalune House",
+  "it": "Casa di Novartopoli"
+ },
+ {
+  "id": 801,
+  "en": "Santalune Pokémon Center",
+  "it": "Centro Pokémon di Novartopoli"
+ },
+ {
+  "id": 802,
+  "en": "Santalune Gym",
+  "it": "Palestra di Novartopoli"
+ },
+ {
+  "id": 803,
+  "en": "Route 5",
+  "it": "Percorso 5"
+ },
+ {
+  "id": 804,
+  "en": "Camphrier Town",
+  "it": "Castel Vanità"
+ },
+ {
+  "id": 805,
+  "en": "Camphrier House",
+  "it": "Casa di Castel Vanità"
+ },
+ {
+  "id": 806,
+  "en": "Camphrier Pokémon Center",
+  "it": "Centro Pokémon di Castel Vanità"
+ },
+ {
+  "id": 807,
+  "en": "Route 6",
+  "it": "Percorso 6"
+ },
+ {
+  "id": 808,
+  "en": "Parfum Palace",
+  "it": "Palazzo Parfum"
+ },
+ {
+  "id": 809,
+  "en": "Parfum Palace",
+  "it": "Palazzo Parfum"
+ },
+ {
+  "id": 810,
+  "en": "Route 7",
+  "it": "Percorso 7"
+ },
+ {
+  "id": 811,
+  "en": "Route 7 Day Care",
+  "it": "Pensione del Percorso 7"
+ },
+ {
+  "id": 812,
+  "en": "Route 8",
+  "it": "Percorso 8"
+ },
+ {
+  "id": 813,
+  "en": "Cyllage City",
+  "it": "Petroglifari"
+ },
+ {
+  "id": 814,
+  "en": "Cyllage House",
+  "it": "Casa di Petroglifari"
+ },
+ {
+  "id": 815,
+  "en": "Cyllage Pokémon Center",
+  "it": "Centro Pokémon di Petroglifari"
+ },
+ {
+  "id": 816,
+  "en": "Cyllage Gym",
+  "it": "Palestra di Petroglifari"
+ },
+ {
+  "id": 817,
+  "en": "Route 10",
+  "it": "Percorso 10"
+ },
+ {
+  "id": 818,
+  "en": "Geosenge Town",
+  "it": "Cromleburgo"
+ },
+ {
+  "id": 819,
+  "en": "Geosenge House",
+  "it": "Casa di Cromleburgo"
+ },
+ {
+  "id": 820,
+  "en": "Geosenge Pokémon Center",
+  "it": "Centro Pokémon di Cromleburgo"
+ },
+ {
+  "id": 821,
+  "en": "Route 11",
+  "it": "Percorso 11"
+ },
+ {
+  "id": 822,
+  "en": "Reflection Cave",
+  "it": "Grotta Riflessi"
+ },
+ {
+  "id": 823,
+  "en": "Shalour City",
+  "it": "Yantaropoli"
+ },
+ {
+  "id": 824,
+  "en": "Shalour House",
+  "it": "Casa di Yantaropoli"
+ },
+ {
+  "id": 825,
+  "en": "Shalour Pokémon Center",
+  "it": "Centro Pokémon di Yantaropoli"
+ },
+ {
+  "id": 826,
+  "en": "Shalour Gym",
+  "it": "Palestra di Yantaropoli"
+ },
+ {
+  "id": 827,
+  "en": "Route 12",
+  "it": "Percorso 12"
+ },
+ {
+  "id": 828,
+  "en": "Coumarine City",
+  "it": "Batikopoli"
+ },
+ {
+  "id": 829,
+  "en": "Coumarine House",
+  "it": "Casa di Batikopoli"
+ },
+ {
+  "id": 830,
+  "en": "Coumarine Pokémon Center",
+  "it": "Centro Pokémon di Batikopoli"
+ },
+ {
+  "id": 831,
+  "en": "Coumarine Gym",
+  "it": "Palestra di Batikopoli"
+ },
+ {
+  "id": 832,
+  "en": "Route 13",
+  "it": "Percorso 13"
+ },
+ {
+  "id": 833,
+  "en": "Lumiose Gym",
+  "it": "Palestra di Luminopoli"
+ },
+ {
+  "id": 834,
+  "en": "Route 14",
+  "it": "Percorso 14"
+ },
+ {
+  "id": 835,
+  "en": "Laverre City",
+  "it": "Romantopoli"
+ },
+ {
+  "id": 836,
+  "en": "Laverre House",
+  "it": "Casa di Romantopoli"
+ },
+ {
+  "id": 837,
+  "en": "Laverre Pokémon Fan Club",
+  "it": "Fan Club Pokémon di Romantopoli"
+ },
+ {
+  "id": 838,
+  "en": "Poké Ball Factory",
+  "it": "Fabbrica di Poké Ball"
+ },
+ {
+  "id": 839,
+  "en": "Laverre Pokémon Center",
+  "it": "Centro Pokémon di Romantopoli"
+ },
+ {
+  "id": 840,
+  "en": "Laverre Gym",
+  "it": "Palestra di Romantopoli"
+ },
+ {
+  "id": 841,
+  "en": "Route 15",
+  "it": "Percorso 15"
+ },
+ {
+  "id": 842,
+  "en": "Dendemille Town",
+  "it": "Frescovilla"
+ },
+ {
+  "id": 843,
+  "en": "Dendemille House",
+  "it": "Casa di Frescovilla"
+ },
+ {
+  "id": 844,
+  "en": "Dendemille Pokémon Center",
+  "it": "Centro Pokémon di Frescovilla"
+ },
+ {
+  "id": 845,
+  "en": "Route 17",
+  "it": "Percorso 17"
+ },
+ {
+  "id": 846,
+  "en": "Frost Cavern 1F",
+  "it": "Grotta Gelata 1P"
+ },
+ {
+  "id": 847,
+  "en": "Frost Cavern 2F",
+  "it": "Grotta Gelata 2P"
+ },
+ {
+  "id": 848,
+  "en": "Frost Cavern 3F",
+  "it": "Grotta Gelata 3P"
+ },
+ {
+  "id": 849,
+  "en": "Anistar City",
+  "it": "Fluxopoli"
+ },
+ {
+  "id": 850,
+  "en": "Anistar House",
+  "it": "Casa di Fluxopoli"
+ },
+ {
+  "id": 851,
+  "en": "Anistar Pokémon Center",
+  "it": "Centro Pokémon di Fluxopoli"
+ },
+ {
+  "id": 852,
+  "en": "Anistar Sundial",
+  "it": "Meridiana di Fluxopoli"
+ },
+ {
+  "id": 853,
+  "en": "Anistar Gym",
+  "it": "Palestra di Fluxopoli"
+ },
+ {
+  "id": 854,
+  "en": "Route 18",
+  "it": "Percorso 18"
+ },
+ {
+  "id": 855,
+  "en": "Route 18 House",
+  "it": "Casa del Percorso 18"
+ },
+ {
+  "id": 856,
+  "en": "Couriway Town",
+  "it": "Ponte Mosaico"
+ },
+ {
+  "id": 857,
+  "en": "Couriway House",
+  "it": "Casa di Ponte Mosaico"
+ },
+ {
+  "id": 858,
+  "en": "Couriway Pokémon Center",
+  "it": "Centro Pokémon di Ponte Mosaico"
+ },
+ {
+  "id": 859,
+  "en": "Route 19",
+  "it": "Percorso 19"
+ },
+ {
+  "id": 860,
+  "en": "Route 21",
+  "it": "Percorso 21"
+ },
+ {
+  "id": 861,
+  "en": "Terminus Cave",
+  "it": "Grotta Capolinea"
+ },
+ {
+  "id": 862,
+  "en": "Terminus Cave",
+  "it": "Grotta Capolinea"
+ },
+ {
+  "id": 863,
+  "en": "Snowbelle City",
+  "it": "Fractalopoli"
+ },
+ {
+  "id": 864,
+  "en": "Snowbelle House",
+  "it": "Casa di Fractalopoli"
+ },
+ {
+  "id": 865,
+  "en": "Route 20",
+  "it": "Percorso 20"
+ },
+ {
+  "id": 866,
+  "en": "Snowbelle Gym",
+  "it": "Palestra di Fractalopoli"
+ },
+ {
+  "id": 867,
+  "en": "Snowbelle Pokémon Center",
+  "it": "Centro Pokémon di Fractalopoli"
+ },
+ {
+  "id": 868,
+  "en": "Route 22",
+  "it": "Percorso 22"
+ },
+ {
+  "id": 869,
+  "en": "Kalos Pokemon League",
+  "it": "Lega Pokémon di Kalos"
+ },
+ {
+  "id": 870,
+  "en": "Lumiose 64",
+  "it": "Luminopoli 64"
+ },
+ {
+  "id": 871,
+  "en": "Lumiose 32",
+  "it": "Luminopoli 32"
+ },
+ {
+  "id": 872,
+  "en": "Lumiose 16",
+  "it": "Luminopoli 16"
+ },
+ {
+  "id": 873,
+  "en": "Lumiose 8",
+  "it": "Luminopoli 8"
+ },
+ {
+  "id": 874,
+  "en": "Lumiose 4",
+  "it": "Luminopoli 4"
+ },
+ {
+  "id": 875,
+  "en": "Lumiose Final",
+  "it": "Finale Luminopoli"
+ },
+ {
+  "id": 876,
+  "en": "Lumiose City",
+  "it": "Luminopoli"
+ },
+ {
+  "id": 877,
+  "en": "Lumiose Gym",
+  "it": "Palestra di Luminopoli"
+ },
+ {
+  "id": 878,
+  "en": "Prism Tower",
+  "it": "Torre Prisma"
+ },
+ {
+  "id": 879,
+  "en": "Geosenge Town-X",
+  "it": "Cromleburgo-X"
+ },
+ {
+  "id": 880,
+  "en": "Shalour City-Y",
+  "it": "Yantaropoli-Y"
+ },
+ {
+  "id": 881,
+  "en": "Driftveil Battle House",
+  "it": "Casa Lotta di Libecciopoli"
+ },
+ {
+  "id": 882,
+  "en": "Safari Zone Unova",
+  "it": "Zona Safari di Unima"
+ },
+ {
+  "id": 883,
+  "en": "Safari Zone Kalos",
+  "it": "Zona Safari di Kalos"
+ },
+ {
+  "id": 884,
+  "en": "Route 124",
+  "it": "Percorso 124"
+ },
+ {
+  "id": 885,
+  "en": "Pledge Grove",
+  "it": "Bosco Promessa"
+ },
+ {
+  "id": 886,
+  "en": "Icirrus Cave",
+  "it": "Grotta di Mistralopoli"
+ },
+ {
+  "id": 887,
+  "en": "Alola",
+  "it": "Alola"
+ },
+ {
+  "id": 888,
+  "en": "Alola",
+  "it": "Alola"
+ },
+ {
+  "id": 889,
+  "en": "Route 1",
+  "it": "Percorso 1"
+ },
+ {
+  "id": 890,
+  "en": "Route 1 House",
+  "it": "Casa del Percorso 1"
+ },
+ {
+  "id": 891,
+  "en": "Pokémon School",
+  "it": "Scuola Pokémon"
+ },
+ {
+  "id": 892,
+  "en": "Kukui's House",
+  "it": "Casa di Kukui"
+ },
+ {
+  "id": 893,
+  "en": "Melemele Forest",
+  "it": "Bosco di Mele Mele"
+ },
+ {
+  "id": 894,
+  "en": "Hau'oli City",
+  "it": "Hau'oli"
+ },
+ {
+  "id": 895,
+  "en": "Hau'oli House",
+  "it": "Casa di Hau'oli"
+ },
+ {
+  "id": 896,
+  "en": "Hau'oli Pokémon Center",
+  "it": "Centro Pokémon di Hau'oli"
+ },
+ {
+  "id": 897,
+  "en": "Hau'oli Outskirts",
+  "it": "Periferia di Hau'oli"
+ },
+ {
+  "id": 898,
+  "en": "Hau'oli Shopping Mall",
+  "it": "Centro Commerciale Hau'oli"
+ },
+ {
+  "id": 899,
+  "en": "Hau'oli Tunnel",
+  "it": "Tunnel di Hau'oli"
+ },
+ {
+  "id": 900,
+  "en": "Route 2",
+  "it": "Percorso 2"
+ },
+ {
+  "id": 901,
+  "en": "Route 3",
+  "it": "Percorso 3"
+ },
+ {
+  "id": 902,
+  "en": "Iki Town",
+  "it": "Iki"
+ },
+ {
+  "id": 903,
+  "en": "Iki House",
+  "it": "Casa di Iki"
+ },
+ {
+  "id": 904,
+  "en": "Iki Pokémon Center",
+  "it": "Centro Pokémon di Iki"
+ },
+ {
+  "id": 905,
+  "en": "Verdant Cavern",
+  "it": "Grotta Sottobosco"
+ },
+ {
+  "id": 906,
+  "en": "Paniola Town",
+  "it": "Paniola"
+ },
+ {
+  "id": 907,
+  "en": "Paniola Ranch",
+  "it": "Ranch Paniola"
+ },
+ {
+  "id": 908,
+  "en": "Paniola House",
+  "it": "Casa di Paniola"
+ },
+ {
+  "id": 909,
+  "en": "Paniola Pokémon Center",
+  "it": "Centro Pokémon di Paniola"
+ },
+ {
+  "id": 910,
+  "en": "Melemele Meadow",
+  "it": "Prato di Mele Mele"
+ },
+ {
+  "id": 911,
+  "en": "Route 5",
+  "it": "Percorso 5"
+ },
+ {
+  "id": 912,
+  "en": "Brooklet Hill",
+  "it": "Collina Ruscello"
+ },
+ {
+  "id": 913,
+  "en": "Route 8",
+  "it": "Percorso 8"
+ },
+ {
+  "id": 914,
+  "en": "Route 7",
+  "it": "Percorso 7"
+ },
+ {
+  "id": 915,
+  "en": "Wela Volcano Park",
+  "it": "Parco Vulcano Wela"
+ },
+ {
+  "id": 916,
+  "en": "Lush Jungle",
+  "it": "Foresta Ombrosa"
+ },
+ {
+  "id": 917,
+  "en": "Ruins of Life",
+  "it": "Rovine della Vita"
+ },
+ {
+  "id": 918,
+  "en": "Aether Paradise",
+  "it": "Paradiso Aether"
+ },
+ {
+  "id": 919,
+  "en": "Aether Paradise",
+  "it": "Paradiso Aether"
+ },
+ {
+  "id": 920,
+  "en": "Ten Carat Hill",
+  "it": "Collina Diecicarati"
+ },
+ {
+  "id": 921,
+  "en": "Vast Poni Canyon",
+  "it": "Gran Canyon di Poni"
+ },
+ {
+  "id": 922,
+  "en": "Altar of the Sunne",
+  "it": "Altare del Sole"
+ },
+ {
+  "id": 923,
+  "en": "Ultra Deep Space",
+  "it": "Ultraspazio Profondo"
+ },
+ {
+  "id": 924,
+  "en": "Mount Lanakila",
+  "it": "Monte Lanakila"
+ },
+ {
+  "id": 925,
+  "en": "Iki Town-Sun",
+  "it": "Iki-Sole"
+ },
+ {
+  "id": 926,
+  "en": "Aether Paradise-Moon",
+  "it": "Paradiso Aether-Luna"
+ },
+ {
+  "id": 927,
+  "en": "Royal Avenue",
+  "it": "Viale Reale"
+ },
+ {
+  "id": 928,
+  "en": "Royal House",
+  "it": "Casa del Viale Reale"
+ },
+ {
+  "id": 929,
+  "en": "Royal Pokémon Center",
+  "it": "Centro Pokémon del Viale Reale"
+ },
+ {
+  "id": 930,
+  "en": "Battle Royal Dome",
+  "it": "Arena Battle Royal"
+ },
+ {
+  "id": 931,
+  "en": "Battle Royal Dome",
+  "it": "Arena Battle Royal"
+ },
+ {
+  "id": 932,
+  "en": "Tapu Village",
+  "it": "Villaggio Tapu"
+ },
+ {
+  "id": 933,
+  "en": "Route 14",
+  "it": "Percorso 14"
+ },
+ {
+  "id": 934,
+  "en": "Tapu House",
+  "it": "Casa del Villaggio Tapu"
+ },
+ {
+  "id": 935,
+  "en": "Tapu Pokémon Center",
+  "it": "Centro Pokémon del Villaggio Tapu"
+ },
+ {
+  "id": 936,
+  "en": "Thrifty Megamart",
+  "it": "Megamarket Parsimonia"
+ },
+ {
+  "id": 937,
+  "en": "Haina Desert",
+  "it": "Deserto di Haina"
+ },
+ {
+  "id": 938,
+  "en": "Ruins of Abundance",
+  "it": "Rovine dell'Abbondanza"
+ },
+ {
+  "id": 939,
+  "en": "Mount Lanakila Cave",
+  "it": "Grotta del Monte Lanakila"
+ },
+ {
+  "id": 940,
+  "en": "Mount Hokulani",
+  "it": "Monte Hokulani"
+ },
+ {
+  "id": 941,
+  "en": "Battle Royal Dome",
+  "it": "Arena Battle Royal"
+ },
+ {
+  "id": 942,
+  "en": "Ultra Ruin",
+  "it": "Ultrarovine"
+ },
+ {
+  "id": 943,
+  "en": "Safari Zone Alola",
+  "it": "Zona Safari di Alola"
+ },
+ {
+  "id": 944,
+  "en": "Seafolk Village",
+  "it": "Villaggio Marino"
+ },
+ {
+  "id": 945,
+  "en": "Poni Wilds",
+  "it": "Lande di Poni"
+ },
+ {
+  "id": 946,
+  "en": "Seafolk House",
+  "it": "Casa del Villaggio Marino"
+ },
+ {
+  "id": 947,
+  "en": "Seafolk Pokémon Center",
+  "it": "Centro Pokémon del Villaggio Marino"
+ },
+ {
+  "id": 948,
+  "en": "Ancient Poni Path",
+  "it": "Antico Sentiero di Poni"
+ },
+ {
+  "id": 949,
+  "en": "Poni Breaker Coast",
+  "it": "Costa Frangiflutti di Poni"
+ },
+ {
+  "id": 950,
+  "en": "Ruins of Hope",
+  "it": "Rovine della Speranza"
+ },
+ {
+  "id": 951,
+  "en": "Route 12",
+  "it": "Percorso 12"
+ },
+ {
+  "id": 952,
+  "en": "Route 11",
+  "it": "Percorso 11"
+ },
+ {
+  "id": 953,
+  "en": "Malie City",
+  "it": "Malie"
+ },
+ {
+  "id": 954,
+  "en": "Malie House",
+  "it": "Casa di Malie"
+ },
+ {
+  "id": 955,
+  "en": "Malie Pokémon Center",
+  "it": "Centro Pokémon di Malie"
+ },
+ {
+  "id": 956,
+  "en": "Kantonian Gym",
+  "it": "Palestra di Kanto"
+ },
+ {
+  "id": 957,
+  "en": "Manalo Stadium",
+  "it": "Stadio Manalo"
+ },
+ {
+  "id": 958,
+  "en": "Alola Pokemon League",
+  "it": "Lega Pokémon di Alola"
+ },
+ {
+  "id": 959,
+  "en": "Manalo Royal",
+  "it": "Manalo Royal"
+ },
+ {
+  "id": 960,
+  "en": "Manalo 16",
+  "it": "Manalo 16"
+ },
+ {
+  "id": 961,
+  "en": "Manalo 8",
+  "it": "Manalo 8"
+ },
+ {
+  "id": 962,
+  "en": "Manalo 4",
+  "it": "Manalo 4"
+ },
+ {
+  "id": 963,
+  "en": "Manalo Finals",
+  "it": "Finale Manalo"
+ },
+ {
+  "id": 964,
+  "en": "Verdanturf Town",
+  "it": "Mentania"
+ },
+ {
+  "id": 965,
+  "en": "Route 117",
+  "it": "Percorso 117"
+ },
+ {
+  "id": 966,
+  "en": "Verdanturf House",
+  "it": "Casa di Mentania"
+ },
+ {
+  "id": 967,
+  "en": "Verdanturf Contest",
+  "it": "Gare di Mentania"
+ },
+ {
+  "id": 968,
+  "en": "Kanto Grand Festival",
+  "it": "Grand Festival di Kanto"
+ },
+ {
+  "id": 969,
+  "en": "Jubilife Contest",
+  "it": "Gare di Giubilopoli"
+ },
+ {
+  "id": 970,
+  "en": "Spear Pillar",
+  "it": "Vetta Lancia"
+ },
+ {
+  "id": 971,
+  "en": "Pokémon Mart",
+  "it": "Pokémon Market"
+ },
+ {
+  "id": 972,
+  "en": "Stow-on-Side Stadium",
+  "it": "Stadio di Stow-on-Side"
+ },
+ {
+  "id": 973,
+  "en": "Tower Summit-Henry",
+  "it": "Cima della Torre-Henry"
+ },
+ {
+  "id": 974,
+  "en": "Slumbering Weald-Casey",
+  "it": "Bosco Assopito-Casey"
+ },
+ {
+  "id": 975,
+  "en": "Route 7",
+  "it": "Percorso 7"
+ },
+ {
+  "id": 976,
+  "en": "Route 9",
+  "it": "Percorso 9"
+ },
+ {
+  "id": 977,
+  "en": "Spikemuth",
+  "it": "Spikemuth"
+ },
+ {
+  "id": 978,
+  "en": "Spikemuth Pokémon Center",
+  "it": "Centro Pokémon di Spikemuth"
+ },
+ {
+  "id": 979,
+  "en": "Seafoam Islands",
+  "it": "Isole Spumarine"
+ },
+ {
+  "id": 980,
+  "en": "Hammerlocke Stadium",
+  "it": "Stadio di Hammerlocke"
+ },
+ {
+  "id": 981,
+  "en": "Freezington",
+  "it": "Freezington"
+ },
+ {
+  "id": 982,
+  "en": "Freezington House",
+  "it": "Casa di Freezington"
+ },
+ {
+  "id": 983,
+  "en": "Crown Tundra",
+  "it": "Landa Corona"
+ },
+ {
+  "id": 984,
+  "en": "Safari Zone Galar",
+  "it": "Zona Safari di Galar"
+ },
+ {
+  "id": 985,
+  "en": "Wedgehurst",
+  "it": "Wedgehurst"
+ },
+ {
+  "id": 986,
+  "en": "Wedgehurst House",
+  "it": "Casa di Wedgehurst"
+ },
+ {
+  "id": 987,
+  "en": "Wedgehurst Pokémon Center",
+  "it": "Centro Pokémon di Wedgehurst"
+ },
+ {
+  "id": 988,
+  "en": "Professor Magnolia's Lab",
+  "it": "Laboratorio della Prof. Magnolia"
+ },
+ {
+  "id": 989,
+  "en": "Split-Decision Ruins",
+  "it": "Rovine del Bivio"
+ },
+ {
+  "id": 990,
+  "en": "Mt. Coronet - Past",
+  "it": "Monte Corona - Passato"
+ },
+ {
+  "id": 991,
+  "en": "Route 20",
+  "it": "Percorso 20"
+ },
+ {
+  "id": 992,
+  "en": "Route 20 Cave",
+  "it": "Grotta del Percorso 20"
+ }
+]

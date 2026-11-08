@@ -1,0 +1,272 @@
+[
+ {
+  "id": "\\rWant to compare?",
+  "en": "\\rWant to compare?",
+  "it": "\\rVuoi fare un confronto?"
+ },
+ {
+  "id": "\\rIt's good to raise your team equally.",
+  "en": "\\rIt's good to raise your team equally.",
+  "it": "\\rÈ bene allenare la squadra in modo equilibrato."
+ },
+ {
+  "id": "\\bI love learning.",
+  "en": "\\bI love learning.",
+  "it": "\\bAdoro imparare."
+ },
+ {
+  "id": "\\bYou ever think of going to school? Haha like you would ever give up what works for something so slow paced and boring.",
+  "en": "\\bYou ever think of going to school? Haha like you would ever give up what works for something so slow paced and boring.",
+  "it": "\\bHai mai pensato di andare a scuola? Ahah, come se tu potessi mai rinunciare a qualcosa che funziona per una cosa così lenta e noiosa."
+ },
+ {
+  "id": "\\bWhat do you want?",
+  "en": "\\bWhat do you want?",
+  "it": "\\bChe cosa vuoi?"
+ },
+ {
+  "id": "\\bThis area is mine. Hurry along.",
+  "en": "\\bThis area is mine. Hurry along.",
+  "it": "\\bQuesta zona è mia. Circolare."
+ },
+ {
+  "id": "\\bAh, it's you!",
+  "en": "\\bAh, it's you!",
+  "it": "\\bAh, sei tu!"
+ },
+ {
+  "id": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "en": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "it": "\\bStavamo allevando il tuo Pokémon e, santo cielo, che sorpresa!"
+ },
+ {
+  "id": "\\bYour Pokémon was holding an Egg!",
+  "en": "\\bYour Pokémon was holding an Egg!",
+  "it": "\\bIl tuo Pokémon aveva con sé un Uovo!"
+ },
+ {
+  "id": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "en": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "it": "\\bNon sappiamo come ci sia finito, ma ce l'aveva il tuo Pokémon."
+ },
+ {
+  "id": "\\bYou do want it, don't you?",
+  "en": "\\bYou do want it, don't you?",
+  "it": "\\bLo vuoi, vero?"
+ },
+ {
+  "id": "\\bYou have no room for it right now... Come back when you've made room.",
+  "en": "\\bYou have no room for it right now... Come back when you've made room.",
+  "it": "\\bAl momento non hai spazio... Torna quando ne avrai fatto."
+ },
+ {
+  "id": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "en": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "it": "\\me[Egg get]\\PN ha ricevuto l'Uovo dal signore della Pensione."
+ },
+ {
+  "id": "\\bYou take good care of it.",
+  "en": "\\bYou take good care of it.",
+  "it": "\\bAbbine cura, mi raccomando."
+ },
+ {
+  "id": "\\bI really will keep it. You do want this Egg, yes?",
+  "en": "\\bI really will keep it. You do want this Egg, yes?",
+  "it": "\\bAllora lo tengo davvero. Lo vuoi questo Uovo, sì?"
+ },
+ {
+  "id": "\\bWell all right then, I'll take it. Thank you.",
+  "en": "\\bWell all right then, I'll take it. Thank you.",
+  "it": "\\bVa bene, allora lo prendo io. Grazie."
+ },
+ {
+  "id": "\\bThat is, I don't think we'll ever find another...",
+  "en": "\\bThat is, I don't think we'll ever find another...",
+  "it": "\\bCioè, non credo che ne troveremo mai un altro..."
+ },
+ {
+  "id": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "en": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "it": "\\bNo, no, sono sicuro che ne troveremo un altro. Ne sono assolutamente certo!"
+ },
+ {
+  "id": "\\bI'm the Day-Care Man.",
+  "en": "\\bI'm the Day-Care Man.",
+  "it": "\\bSono il Signore della Pensione."
+ },
+ {
+  "id": "\\bI help take care of the precious Pokémon of trainers.",
+  "en": "\\bI help take care of the precious Pokémon of trainers.",
+  "it": "\\bAiuto ad accudire i preziosi Pokémon degli Allenatori."
+ },
+ {
+  "id": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "en": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "it": "\\bSe vuoi far allevare un Pokémon, puoi lasciarlo alle cure di mia moglie."
+ },
+ {
+  "id": "\\bAh, it's you!\\nGood to see you!",
+  "en": "\\bAh, it's you!\\nGood to see you!",
+  "it": "\\bAh, sei tu!\\nChe piacere vederti!"
+ },
+ {
+  "id": "\\bYour \\v[3] is doing just fine.",
+  "en": "\\bYour \\v[3] is doing just fine.",
+  "it": "\\bIl tuo \\v[3] sta benissimo."
+ },
+ {
+  "id": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "en": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "it": "\\bI tuoi \\v[3] e \\v[4] stanno benissimo."
+ },
+ {
+  "id": "\\bThe two play with other Pokémon rather than with each other...",
+  "en": "\\bThe two play with other Pokémon rather than with each other...",
+  "it": "\\bQuei due preferiscono giocare con altri Pokémon piuttosto che tra loro..."
+ },
+ {
+  "id": "\\bThe two don't seem to like each other much.",
+  "en": "\\bThe two don't seem to like each other much.",
+  "it": "\\bQuei due non sembrano piacersi molto."
+ },
+ {
+  "id": "\\bThe two seem to get along.",
+  "en": "\\bThe two seem to get along.",
+  "it": "\\bQuei due sembrano andare d'accordo."
+ },
+ {
+  "id": "\\bThe two seem to get along very well.",
+  "en": "\\bThe two seem to get along very well.",
+  "it": "\\bQuei due sembrano andare molto d'accordo."
+ },
+ {
+  "id": "\\bI'm skipping school. Don't tell anyone.",
+  "en": "\\bI'm skipping school. Don't tell anyone.",
+  "it": "\\bSto marinando la scuola. Non dirlo a nessuno."
+ },
+ {
+  "id": "\\bDon't make me go back to school.",
+  "en": "\\bDon't make me go back to school.",
+  "it": "\\bNon farmi tornare a scuola."
+ },
+ {
+  "id": "\\bWhat to go swimming?",
+  "en": "\\bWhat to go swimming?",
+  "it": "\\bVuoi andare a nuotare?"
+ },
+ {
+  "id": "\\bI'll go by myself then.",
+  "en": "\\bI'll go by myself then.",
+  "it": "\\bAllora ci vado da solo."
+ },
+ {
+  "id": "\\rHead south of here and you will see a day care.",
+  "en": "\\rHead south of here and you will see a day care.",
+  "it": "\\rVai a sud di qui e vedrai una Pensione."
+ },
+ {
+  "id": "\\rMy boyfriend will beat you.",
+  "en": "\\rMy boyfriend will beat you.",
+  "it": "\\rIl mio ragazzo ti batterà."
+ },
+ {
+  "id": "\\rHe's not actually my boyfriend yet. Don't tell him.",
+  "en": "\\rHe's not actually my boyfriend yet. Don't tell him.",
+  "it": "\\rIn realtà non è ancora il mio ragazzo. Non dirglielo."
+ },
+ {
+  "id": "\\rI help out at the day care.",
+  "en": "\\rI help out at the day care.",
+  "it": "\\rDo una mano alla Pensione."
+ },
+ {
+  "id": "\\rBe sure to stop at the day care.",
+  "en": "\\rBe sure to stop at the day care.",
+  "it": "\\rNon dimenticare di fermarti alla Pensione."
+ },
+ {
+  "id": "\\bI'm having so much fun.",
+  "en": "\\bI'm having so much fun.",
+  "it": "\\bMi sto divertendo un sacco."
+ },
+ {
+  "id": "\\rBianca: Let's battle. Wait, let me find my Poké Ball.",
+  "en": "\\rBianca: Let's battle. Wait, let me find my Poké Ball.",
+  "it": "\\rBelle: Lottiamo. Aspetta, devo trovare la mia Poké Ball."
+ },
+ {
+  "id": "\\rBianca: That was fun. Let's do it again real soon.",
+  "en": "\\rBianca: That was fun. Let's do it again real soon.",
+  "it": "\\rBelle: È stato divertente. Rifacciamolo presto."
+ },
+ {
+  "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\rTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\rAh, a Trainer! Let's go Amy!",
+  "en": "\\rAh, a Trainer! Let's go Amy!",
+  "it": "\\rAh, un Allenatore! Andiamo, Amy!"
+ },
+ {
+  "id": "\\rI'm raising Pokémon with Amy.",
+  "en": "\\rI'm raising Pokémon with Amy.",
+  "it": "\\rAllevo Pokémon con Amy."
+ },
+ {
+  "id": "Preschool",
+  "en": "Preschool",
+  "it": "Asilo"
+ },
+ {
+  "id": "\\rSchool is so boring.",
+  "en": "\\rSchool is so boring.",
+  "it": "\\rLa scuola è così noiosa."
+ },
+ {
+  "id": "\\rThat will keep me entertained. Thanks.",
+  "en": "\\rThat will keep me entertained. Thanks.",
+  "it": "\\rQuesto mi terrà occupata. Grazie."
+ },
+ {
+  "id": "\\bTrip: You again? Do you really think you can beat me? You're a worthless bumpkin from Kanto.",
+  "en": "\\bTrip: You again? Do you really think you can beat me? You're a worthless bumpkin from Kanto.",
+  "it": "\\bTrip: Ancora tu? Credi davvero di potermi battere? Sei un buzzurro di Kanto buono a nulla."
+ },
+ {
+  "id": "\\bTrip: As I expected, there wasn't much to learn from you. I'd hurry back home while you still can.",
+  "en": "\\bTrip: As I expected, there wasn't much to learn from you. I'd hurry back home while you still can.",
+  "it": "\\bTrip: Come immaginavo, non c'era molto da imparare da te. Fossi in te tornerei a casa finché sei in tempo."
+ },
+ {
+  "id": "\\bTrip: I got a few pictures, but it still only shows how little you know.",
+  "en": "\\bTrip: I got a few pictures, but it still only shows how little you know.",
+  "it": "\\bTrip: Ho fatto qualche foto, ma dimostrano solo quanto poco sai."
+ },
+ {
+  "id": "\\rAh, a Trainer! Let's go Kumi!",
+  "en": "\\rAh, a Trainer! Let's go Kumi!",
+  "it": "\\rAh, un Allenatore! Andiamo, Kumi!"
+ },
+ {
+  "id": "\\rI caught my Pokémon with Kumi.",
+  "en": "\\rI caught my Pokémon with Kumi.",
+  "it": "\\rHo catturato i miei Pokémon con Kumi."
+ },
+ {
+  "id": "\\rSnivy",
+  "en": "\\rSnivy",
+  "it": "\\rSnivy"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "id": "\\rKrabby.",
+  "en": "\\rKrabby.",
+  "it": "\\rKrabby."
+ },
+ {
+  "id": "\\rHave you been to the park?",
+  "en": "\\rHave you been to the park?",
+  "it": "\\rSei già stato al parco?"
+ },
+ {
+  "id": "\\bTracey: Leave that poor Lapras alone!",
+  "en": "\\bTracey: Leave that poor Lapras alone!",
+  "it": "\\bTracey: Lascia stare quel povero Lapras!"
+ },
+ {
+  "id": "\\bTracey: Sorry, I thought you were going to harm Lapras.",
+  "en": "\\bTracey: Sorry, I thought you were going to harm Lapras.",
+  "it": "\\bTracey: Scusa, pensavo che volessi fare del male a Lapras."
+ },
+ {
+  "id": "\\bI won't get in your way. Take care.",
+  "en": "\\bI won't get in your way. Take care.",
+  "it": "\\bNon ti intralcerò. Abbi cura di te."
+ },
+ {
+  "id": "\\rSnorr...",
+  "en": "\\rSnorr...",
+  "it": "\\rRonf..."
+ },
+ {
+  "id": "\\bThere are many rare Pokémon on these islands.",
+  "en": "\\bThere are many rare Pokémon on these islands.",
+  "it": "\\bSu queste isole ci sono tanti Pokémon rari."
+ },
+ {
+  "id": "\\rWelcome to the Pokémon Park! Here you can walk around and interact with some Pokémon.",
+  "en": "\\rWelcome to the Pokémon Park! Here you can walk around and interact with some Pokémon.",
+  "it": "\\rBenvenuto al Parco Pokémon! Qui puoi passeggiare e interagire con alcuni Pokémon."
+ },
+ {
+  "id": "\\rPid",
+  "en": "\\rPid",
+  "it": "\\rPid"
+ },
+ {
+  "id": "\\bDespite how peaceful it looks, we sometimes get severe storms here.",
+  "en": "\\bDespite how peaceful it looks, we sometimes get severe storms here. ",
+  "it": "\\bAnche se sembra un posto tranquillo, a volte qui arrivano tempeste violente."
+ },
+ {
+  "id": "\\bArcan!",
+  "en": "\\bArcan!",
+  "it": "\\bArcan!"
+ },
+ {
+  "id": "\\bButterfree.",
+  "en": "\\bButterfree.",
+  "it": "\\bButterfree."
+ },
+ {
+  "id": "Lapras seems to trust you a bit.",
+  "en": "Lapras seems to trust you a bit.",
+  "it": "Lapras sembra fidarsi un po' di te."
+ },
+ {
+  "id": "Would you like to take Lapras with you?",
+  "en": "Would you like to take Lapras with you?",
+  "it": "Vuoi portare Lapras con te?"
+ },
+ {
+  "id": "\\bSlow...",
+  "en": "\\bSlow...",
+  "it": "\\bSlow..."
+ },
+ {
+  "id": "\\bWeepinbell",
+  "en": "\\bWeepinbell",
+  "it": "\\bWeepinbell"
+ },
+ {
+  "id": "\\bTaur!",
+  "en": "\\bTaur!",
+  "it": "\\bTaur!"
+ },
+ {
+  "id": "\\bHey leave us alone.",
+  "en": "\\bHey leave us alone.",
+  "it": "\\bEhi, lasciaci in pace."
+ },
+ {
+  "id": "Lay off.",
+  "en": "Lay off.",
+  "it": "Piantala."
+ },
+ {
+  "id": "\\bWe just want to use that Pokémon.",
+  "en": "\\bWe just want to use that Pokémon.",
+  "it": "\\bVogliamo solo usare quel Pokémon."
+ },
+ {
+  "id": "Pokémon Park",
+  "en": "Pokémon Park",
+  "it": "Parco Pokémon"
+ },
+ {
+  "id": "\\bDoduo!",
+  "en": "\\bDoduo!",
+  "it": "\\bDoduo!"
+ },
+ {
+  "id": "\\rI'm taking a break.",
+  "en": "\\rI'm taking a break.",
+  "it": "\\rSto facendo una pausa."
+ },
+ {
+  "id": "\\bArbok",
+  "en": "\\bArbok",
+  "it": "\\bArbok"
+ },
+ {
+  "id": "\\rI love coming here.",
+  "en": "\\rI love coming here.",
+  "it": "\\rAdoro venire qui."
+ },
+ {
+  "id": "\\bThis is our prey.",
+  "en": "\\bThis is our prey.",
+  "it": "\\bQuesta è la nostra preda."
+ },
+ {
+  "id": "Whatever.",
+  "en": "Whatever.",
+  "it": "Come ti pare."
+ },
+ {
+  "id": "\\bWe don't have any other way to travel the islands.",
+  "en": "\\bWe don't have any other way to travel the islands.",
+  "it": "\\bNon abbiamo altri modi per spostarci tra le isole."
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Mikan,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Mikan,Navel,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Mikan,Navel,Sette Grapefruit,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Trovita,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Trovita,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Mikan,Navel,Sette Grapefruit,Trovita,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Mikan,Navel,Sette Grapefruit,Trovita,Ascorbia,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Mikan,Navel,Sette Grapefruit,Trovita,Ascorbia,Kumquat,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Navel,Seven Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Mikan,Navel,Sette Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Esci]"
+ },
+ {
+  "id": "\\bPika!",
+  "en": "\\bPika!",
+  "it": "\\bPika!"
+ },
+ {
+  "id": "\\bWow! You're from Kanto?",
+  "en": "\\bWow! You're from Kanto?",
+  "it": "\\bWow! Vieni da Kanto?"
+ },
+ {
+  "id": "\\bI've always wanted to go there!",
+  "en": "\\bI've always wanted to go there!",
+  "it": "\\bHo sempre desiderato andarci!"
+ },
+ {
+  "id": "\\bEvery time I come I see something new.",
+  "en": "\\bEvery time I come I see something new.",
+  "it": "\\bOgni volta che vengo qui scopro qualcosa di nuovo."
+ },
+ {
+  "id": "\\bThis is our Lapras!",
+  "en": "\\bThis is our Lapras!",
+  "it": "\\bQuesto è il nostro Lapras!"
+ },
+ {
+  "id": "Stop messing with us.",
+  "en": "Stop messing with us.",
+  "it": "Smettila di darci fastidio."
+ },
+ {
+  "id": "\\bFine it's yours.",
+  "en": "\\bFine it's yours.",
+  "it": "\\bE va bene, è tuo."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

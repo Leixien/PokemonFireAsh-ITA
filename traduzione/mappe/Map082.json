@@ -1,0 +1,142 @@
+[
+ {
+  "id": "\\rI can teach your Pokémon a move.",
+  "en": "\\rI can teach your Pokémon a move.",
+  "it": "\\rPosso insegnare una mossa ai tuoi Pokémon."
+ },
+ {
+  "id": "\\rWant to learn Iron Defense?",
+  "en": "\\rWant to learn Iron Defense?",
+  "it": "\\rVuoi imparare Ferroscudo?"
+ },
+ {
+  "id": "\\rCome back anytime!",
+  "en": "\\rCome back anytime!",
+  "it": "\\rTorna quando vuoi!"
+ },
+ {
+  "id": "\\bWait a minute! You haven't even beat Brock yet.",
+  "en": "\\bWait a minute! You haven't even beat Brock yet.",
+  "it": "\\bAspetta un attimo! Non hai ancora nemmeno battuto Brock."
+ },
+ {
+  "id": "\\rBesides being a Gym Leader, Brock also takes care of his nine younger siblings.",
+  "en": "\\rBesides being a Gym Leader, Brock also takes care of his nine younger siblings.",
+  "it": "\\rOltre a essere un Capopalestra, Brock si occupa anche dei suoi nove fratelli più piccoli."
+ },
+ {
+  "id": "\\bThis path is currently under construction.",
+  "en": "\\bThis path is currently under construction.",
+  "it": "\\bQuesto sentiero è attualmente in costruzione."
+ },
+ {
+  "id": "\\bThis path leads to the Battle Pyramid. Only Trainers who have beat the six other Frontiers may go here.",
+  "en": "\\bThis path leads to the Battle Pyramid. Only Trainers who have beat the six other Frontiers may go here.",
+  "it": "\\bQuesto sentiero porta alla Piramide Lotta. Solo gli Allenatori che hanno superato le altre sei strutture del Parco Lotta possono entrare."
+ },
+ {
+  "id": "Brock's house",
+  "en": "Brock's house",
+  "it": "Casa di Brock"
+ },
+ {
+  "id": "Pewter Museum of Science",
+  "en": "Pewter Museum of Science",
+  "it": "Museo della Scienza di Plumbeopoli"
+ },
+ {
+  "id": "\\bOmna",
+  "en": "\\bOmna",
+  "it": "\\bOmna"
+ },
+ {
+  "id": "\\bA new match. Bring it on.",
+  "en": "\\bA new match. Bring it on.",
+  "it": "\\bUn nuovo incontro. Fatti sotto."
+ },
+ {
+  "id": "Rotom Phone: Based on performance, your rank is now 978. You have entered the Great Class.",
+  "en": "Rotom Phone: Based on performance, your rank is now 978. You have entered the Great Class.",
+  "it": "Rotom Phone: In base ai risultati, ora sei al posto 978 della classifica. Sei entrato nella Classe Super."
+ },
+ {
+  "id": "Announcment. New opponent found for the World Coronation Series. Bea, located in Cianwood City, is ready for battle.",
+  "en": "Announcment. New opponent found for the World Coronation Series. Bea, located in Cianwood City, is ready for battle.",
+  "it": "Annuncio. Trovato un nuovo avversario per il World Coronation Series. Fabia, che si trova a Fiorlisopoli, è pronta a lottare."
+ },
+ {
+  "id": "\\bPity. I'm happy someone advanced to the next rank though.",
+  "en": "\\bPity. I'm happy someone advanced to the next rank though.",
+  "it": "\\bPeccato. Però sono contento che qualcuno sia salito di grado."
+ },
+ {
+  "id": "Pewter City Pokémon Gym Leader: \\nBrock",
+  "en": "Pewter City Pokémon Gym Leader: \\nBrock",
+  "it": "Capopalestra della Palestra Pokémon di Plumbeopoli: \\nBrock"
+ },
+ {
+  "id": "The Rock-Solid Pokémon Trainer!",
+  "en": "The Rock-Solid Pokémon Trainer!",
+  "it": "L'Allenatore dalla volontà di roccia!"
+ },
+ {
+  "id": "Pewter City\\nA Stone Gray City",
+  "en": "Pewter City\\nA Stone Gray City",
+  "it": "Plumbeopoli\\nLa città grigio pietra"
+ },
+ {
+  "id": "\\bStant!",
+  "en": "\\bStant!",
+  "it": "\\bStant!"
+ },
+ {
+  "id": "\\bBrock uses Rock type Pokémon. It's good to have a Fighting Pokémon against him.",
+  "en": "\\bBrock uses Rock type Pokémon. It's good to have a Fighting Pokémon against him.",
+  "it": "\\bBrock usa Pokémon di tipo Roccia. Contro di lui conviene avere un Pokémon di tipo Lotta."
+ },
+ {
+  "id": "\\bPssssst!\\nDo you know what I'm doing?",
+  "en": "\\bPssssst!\\nDo you know what I'm doing?",
+  "it": "\\bPssssst!\\nSai cosa sto facendo?"
+ },
+ {
+  "id": "\\bThat's right!\\nIt's hard work!",
+  "en": "\\bThat's right!\\nIt's hard work!",
+  "it": "\\bEsatto!\\nÈ un lavoro duro!"
+ },
+ {
+  "id": "\\bI'm spraying Repel to keep wild Pokémon out of my garden!",
+  "en": "\\bI'm spraying Repel to keep wild Pokémon out of my garden!",
+  "it": "\\bSpruzzo Repellente per tenere i Pokémon selvatici fuori dal mio giardino!"
+ },
+ {
+  "id": "\\bDown this path is the Battle Pyramid.",
+  "en": "\\bDown this path is the Battle Pyramid.",
+  "it": "\\bPercorrendo questo sentiero si arriva alla Piramide Lotta."
+ },
+ {
+  "id": "\\bThere aren't many serious Pokémon Trainers here.",
+  "en": "\\bThere aren't many serious Pokémon Trainers here.",
+  "it": "\\bQui non ci sono molti Allenatori di Pokémon seri."
+ },
+ {
+  "id": "\\bThey're all bug catchers.",
+  "en": "\\bThey're all bug catchers.",
+  "it": "\\bSono tutti Pigliamosche."
+ },
+ {
+  "id": "\\rWeedle",
+  "en": "\\rWeedle",
+  "it": "\\rWeedle"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

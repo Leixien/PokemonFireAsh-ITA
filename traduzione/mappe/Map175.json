@@ -1,0 +1,87 @@
+[
+ {
+  "id": "\\bBe careful of the Safari Zone Warden. He can get scary at times.",
+  "en": "\\bBe careful of the Safari Zone Warden. He can get scary at times.",
+  "it": "\\bAttento al Guardiano della Zona Safari. A volte sa essere spaventoso."
+ },
+ {
+  "id": "\\bHave you met Bill?",
+  "en": "\\bHave you met Bill?",
+  "it": "\\bHai conosciuto Bill?"
+ },
+ {
+  "id": "\\bBill files his own Pokémon data on his PC.",
+  "en": "\\bBill files his own Pokémon data on his PC.",
+  "it": "\\bBill archivia i dati dei suoi Pokémon sul suo PC."
+ },
+ {
+  "id": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
+  "en": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
+  "it": "\\bEhm...\\nAh, sì, sono il Cancellamosse."
+ },
+ {
+  "id": "\\bI can make Pokémon forget their moves.",
+  "en": "\\bI can make Pokémon forget their moves.",
+  "it": "\\bPosso far dimenticare le mosse ai Pokémon."
+ },
+ {
+  "id": "\\bWould you like me to do that?",
+  "en": "\\bWould you like me to do that?",
+  "it": "\\bVuoi che lo faccia?"
+ },
+ {
+  "id": "\\bWhich Pokémon should forget a move?",
+  "en": "\\bWhich Pokémon should forget a move?",
+  "it": "\\bQuale Pokémon deve dimenticare una mossa?"
+ },
+ {
+  "id": "\\bCome again if there are moves that need to be forgotten.",
+  "en": "\\bCome again if there are moves that need to be forgotten.",
+  "it": "\\bTorna pure se ci sono mosse da far dimenticare."
+ },
+ {
+  "id": "\\bWhat? No Egg should know any moves.",
+  "en": "\\bWhat? No Egg should know any moves.",
+  "it": "\\bCosa? Un Uovo non dovrebbe conoscere nessuna mossa."
+ },
+ {
+  "id": "\\bWhat? I can't make a Shadow Pokémon forget a move.",
+  "en": "\\bWhat? I can't make a Shadow Pokémon forget a move.",
+  "it": "\\bCosa? Non posso far dimenticare una mossa a un Pokémon Ombra."
+ },
+ {
+  "id": "\\b\\v[3] seems to know only one move...",
+  "en": "\\b\\v[3] seems to know only one move...",
+  "it": "\\bSembra che \\v[3] conosca una sola mossa..."
+ },
+ {
+  "id": "\\bWhich move should be forgotten?",
+  "en": "\\bWhich move should be forgotten?",
+  "it": "\\bQuale mossa deve essere dimenticata?"
+ },
+ {
+  "id": "\\bHm! \\v[3]'s \\v[4]? That move should be forgotten?",
+  "en": "\\bHm! \\v[3]'s \\v[4]? That move should be forgotten?",
+  "it": "\\bUhm! \\v[4] di \\v[3]? Vuoi che dimentichi questa mossa?"
+ },
+ {
+  "id": "\\bIt worked to perfection!",
+  "en": "\\bIt worked to perfection!",
+  "it": "\\bHa funzionato alla perfezione!"
+ },
+ {
+  "id": "\\b\\v[3] has forgotten \\v[4] completely.",
+  "en": "\\b\\v[3] has forgotten \\v[4] completely.",
+  "it": "\\b\\v[3] ha dimenticato completamente \\v[4]."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "id": "\\bHello! I'm Kurt!",
+  "en": "\\bHello! I'm Kurt!",
+  "it": "\\bCiao! Sono Kurt!"
+ },
+ {
+  "id": "\\bI specialise in turning Apricorns into Poké Balls.",
+  "en": "\\bI specialise in turning Apricorns into Poké Balls.",
+  "it": "\\bSono specializzato nel trasformare le Ghicocche in Poké Ball."
+ },
+ {
+  "id": "\\bIf you like, I can convert one of yours into a Poké Ball.",
+  "en": "\\bIf you like, I can convert one of yours into a Poké Ball.",
+  "it": "\\bSe vuoi, posso trasformare una delle tue in una Poké Ball."
+ },
+ {
+  "id": "\\bHello again. Do you have an Apricorn for me?",
+  "en": "\\bHello again. Do you have an Apricorn for me?",
+  "it": "\\bCiao di nuovo. Hai una Ghicocca per me?"
+ },
+ {
+  "id": "<c2=6546675A>Which Apricorn would you like me to convert?",
+  "en": "<c2=6546675A>Which Apricorn would you like me to convert?",
+  "it": "<c2=6546675A>Quale Ghicocca vuoi che trasformi?"
+ },
+ {
+  "id": "\\bLet me know when you want me to convert an Apricorn for you.",
+  "en": "\\bLet me know when you want me to convert an Apricorn for you.",
+  "it": "\\bFammi sapere quando vuoi che ti trasformi una Ghicocca."
+ },
+ {
+  "id": "\\bCome back when you have an Apricorn for me.",
+  "en": "\\bCome back when you have an Apricorn for me.",
+  "it": "\\bTorna quando avrai una Ghicocca per me."
+ },
+ {
+  "id": "\\bOkay. I'll turn your \\v[3] into a Poké Ball for you.",
+  "en": "\\bOkay. I'll turn your \\v[3] into a Poké Ball for you.",
+  "it": "\\bD'accordo. Trasformerò la tua \\v[3] in una Poké Ball."
+ },
+ {
+  "id": "\\bI should be finished by tomorrow.",
+  "en": "\\bI should be finished by tomorrow.",
+  "it": "\\bDovrei finire entro domani."
+ },
+ {
+  "id": "\\bI've been waiting for you. I've completed the Poké Ball you asked me to make.",
+  "en": "\\bI've been waiting for you. I've completed the Poké Ball you asked me to make.",
+  "it": "\\bTi stavo aspettando. Ho finito la Poké Ball che mi hai chiesto."
+ },
+ {
+  "id": "\\bYou have no room left. Make room, then come see me.",
+  "en": "\\bYou have no room left. Make room, then come see me.",
+  "it": "\\bNon hai più spazio. Fai spazio, poi torna da me."
+ },
+ {
+  "id": "\\bI tried making a Poké Ball out of what you gave me, but it didn't work.",
+  "en": "\\bI tried making a Poké Ball out of what you gave me, but it didn't work.",
+  "it": "\\bHo provato a fare una Poké Ball con quello che mi hai dato, ma non ha funzionato."
+ },
+ {
+  "id": "\\bSorry.",
+  "en": "\\bSorry.",
+  "it": "\\bMi dispiace."
+ },
+ {
+  "id": "\\bI'm still working on your Apricorn. Come back later.",
+  "en": "\\bI'm still working on your Apricorn. Come back later.",
+  "it": "\\bSto ancora lavorando alla tua Ghicocca. Torna più tardi."
+ }
+]

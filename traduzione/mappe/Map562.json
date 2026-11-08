@@ -1,0 +1,182 @@
+[
+ {
+  "id": "\\bThis is a good spot to fish.",
+  "en": "\\bThis is a good spot to fish.",
+  "it": "\\bQuesto è un buon posto per pescare."
+ },
+ {
+  "id": "\\bYes, I know what I'm talking about!",
+  "en": "\\bYes, I know what I'm talking about!",
+  "it": "\\bSì, so di cosa parlo!"
+ },
+ {
+  "id": "\\rI think you need my help.",
+  "en": "\\rI think you need my help.",
+  "it": "\\rCredo che tu abbia bisogno del mio aiuto."
+ },
+ {
+  "id": "\\rMy what a wonderful team you have.",
+  "en": "\\rMy what a wonderful team you have.",
+  "it": "\\rPerbacco, che squadra meravigliosa hai."
+ },
+ {
+  "id": "\\bYou messed up my flow.",
+  "en": "\\bYou messed up my flow.",
+  "it": "\\bMi hai rovinato il ritmo."
+ },
+ {
+  "id": "\\bYou should join me.",
+  "en": "\\bYou should join me.",
+  "it": "\\bDovresti unirti a me."
+ },
+ {
+  "id": "\\bWe are near Mt. Coronet.",
+  "en": "\\bWe are near Mt. Coronet.",
+  "it": "\\bSiamo vicini al Monte Corona."
+ },
+ {
+  "id": "\\bSome Pokémon evolve in special locations. My Probopass was one of them.",
+  "en": "\\bSome Pokémon evolve in special locations. My Probopass was one of them.",
+  "it": "\\bAlcuni Pokémon si evolvono in luoghi speciali. Il mio Probopass era uno di quelli."
+ },
+ {
+  "id": "\\rDawn: Hi \\PN. Since you're here, I'm wondering if you can help me.",
+  "en": "\\rDawn: Hi \\PN. Since you're here, I'm wondering if you can help me.",
+  "it": "\\rLucinda: Ciao, \\PN. Visto che sei qui, mi chiedevo se potessi aiutarmi."
+ },
+ {
+  "id": "\\rI'm looking for an Aipom. I hear they are wonderful in Contests.",
+  "en": "\\rI'm looking for an Aipom. I hear they are wonderful in Contests.",
+  "it": "\\rSto cercando un Aipom. Ho sentito che è fantastico nelle Gare."
+ },
+ {
+  "id": "\\rWant to trade it for my Buizel?",
+  "en": "\\rWant to trade it for my Buizel?",
+  "it": "\\rVuoi scambiarlo con il mio Buizel?"
+ },
+ {
+  "id": "\\rYou don't want to trade? No need to worry.",
+  "en": "\\rYou don't want to trade?  No need to worry.",
+  "it": "\\rNon vuoi fare lo scambio? Niente paura."
+ },
+ {
+  "id": "\\rLet's get started.",
+  "en": "\\rLet's get started.",
+  "it": "\\rIniziamo."
+ },
+ {
+  "id": "Buizel",
+  "en": "Buizel",
+  "it": "Buizel"
+ },
+ {
+  "id": "Dawn",
+  "en": "Dawn",
+  "it": "Lucinda"
+ },
+ {
+  "id": "\\PN traded Aipom for Buizel!",
+  "en": "\\PN traded Aipom for Buizel!",
+  "it": "\\PN ha scambiato Aipom con Buizel!"
+ },
+ {
+  "id": "\\rThanks!",
+  "en": "\\rThanks!",
+  "it": "\\rGrazie!"
+ },
+ {
+  "id": "\\rDawn: I really appreciate it. I promise to raise Aipom right.",
+  "en": "\\rDawn: I really appreciate it. I promise to raise Aipom right.",
+  "it": "\\rLucinda: Te ne sono davvero grata. Prometto di crescere Aipom come si deve."
+ },
+ {
+  "id": "\\rYou're not a criminal, are you?",
+  "en": "\\rYou're not a criminal, are you?",
+  "it": "\\rNon sei mica un criminale, vero?"
+ },
+ {
+  "id": "\\rSome criminals tried to steal something from a friend of mine.",
+  "en": "\\rSome criminals tried to steal something from a friend of mine.",
+  "it": "\\rDei criminali hanno cercato di rubare qualcosa a un mio amico."
+ },
+ {
+  "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\rTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\rAh, a Trainer! Lets go Emma!",
+  "en": "\\rAh, a Trainer! Lets go Emma!",
+  "it": "\\rAh, un Allenatore! Andiamo, Emma!"
+ },
+ {
+  "id": "\\rI'm raising Pokémon with Emma.",
+  "en": "\\rI'm raising Pokémon with Emma.",
+  "it": "\\rSto crescendo Pokémon insieme a Emma."
+ },
+ {
+  "id": "\\rGood. I could use a break.",
+  "en": "\\rGood. I could use a break.",
+  "it": "\\rBene. Una pausa mi farebbe comodo."
+ },
+ {
+  "id": "\\rPlease don't let me bother you.",
+  "en": "\\rPlease don't let me bother you.",
+  "it": "\\rNon lasciare che ti disturbi, per favore."
+ },
+ {
+  "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\bTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\rAh, a Trainer! Lets go Lil!",
+  "en": "\\rAh, a Trainer! Lets go Lil!",
+  "it": "\\rAh, un Allenatore! Andiamo, Lil!"
+ },
+ {
+  "id": "\\rI caught my Pokémon with Lil.",
+  "en": "\\rI caught my Pokémon with Lil.",
+  "it": "\\rHo catturato i miei Pokémon insieme a Lil."
+ },
+ {
+  "id": "\\rAh, looks like a challenging Trainer. Ready, Ty?",
+  "en": "\\rAh, looks like a challenging Trainer.  Ready, Ty?",
+  "it": "\\rAh, sembra un Allenatore tosto. Pronto, Ty?"
+ },
+ {
+  "id": "\\rAt least I still have Ty.",
+  "en": "\\rAt least I still have Ty.",
+  "it": "\\rAlmeno ho ancora Ty."
+ },
+ {
+  "id": "\\bAh, looks like a challenging Trainer. Ready, Sue?",
+  "en": "\\bAh, looks like a challenging Trainer.  Ready, Sue?",
+  "it": "\\bAh, sembra un Allenatore tosto. Pronta, Sue?"
+ },
+ {
+  "id": "\\bStay with me Sue.",
+  "en": "\\bStay with me Sue.",
+  "it": "\\bResta con me, Sue."
+ },
+ {
+  "id": "\\bBe careful. I'm still inspecting the area.",
+  "en": "\\bBe careful. I'm still inspecting the area.",
+  "it": "\\bAttento. Sto ancora ispezionando la zona."
+ },
+ {
+  "id": "\\bThis area is stable. Don't worry about falling.",
+  "en": "\\bThis area is stable. Don't worry about falling.",
+  "it": "\\bQuesta zona è stabile. Non preoccuparti di cadere."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

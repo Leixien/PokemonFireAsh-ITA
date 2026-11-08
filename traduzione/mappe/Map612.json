@@ -1,0 +1,22 @@
+[
+ {
+  "id": "\\bWelcome. Where would you like to go?",
+  "en": "\\bWelcome. Where would you like to go?",
+  "it": "\\bBenvenuto. Dove vorresti andare?"
+ },
+ {
+  "id": "Canalave",
+  "en": "Canalave",
+  "it": "Canalipoli"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Iron Island",
+  "en": "Iron Island",
+  "it": "Isola Ferrosa"
+ }
+]

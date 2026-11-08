@@ -1,0 +1,177 @@
+[
+ {
+  "id": "\\bHave you ever entered into a contest?",
+  "en": "\\bHave you ever entered into a contest? ",
+  "it": "\\bHai mai partecipato a una Gara? "
+ },
+ {
+  "id": "\\bIt's hard to get into them. They only open every so often.",
+  "en": "\\bIt's hard to get into them. They only open every so often.",
+  "it": "\\bÈ difficile riuscire a entrarci. Aprono solo di tanto in tanto."
+ },
+ {
+  "id": "\\rYou've been traveling for a while, have you not? This might speed you up.",
+  "en": "\\rYou've been traveling for a while, have you not?  This might speed you up.",
+  "it": "\\rViaggi da un bel po', vero? Questo potrebbe velocizzarti."
+ },
+ {
+  "id": "\\rNever slow down. You're still too young.",
+  "en": "\\rNever slow down. You're still too young.",
+  "it": "\\rNon rallentare mai. Sei ancora troppo giovane."
+ },
+ {
+  "id": "\\rThis class is so much fun!",
+  "en": "\\rThis class is so much fun!",
+  "it": "\\rQuesta lezione è troppo divertente!"
+ },
+ {
+  "id": "\\bI swear he goes and puts an item there every day. There is no way that people keep dropping stuff there.",
+  "en": "\\bI swear he goes and puts an item there every day.  There is no way that people keep dropping stuff there.",
+  "it": "\\bGiuro che va a mettere uno strumento lì ogni giorno. Non è possibile che la gente continui a perdere roba proprio lì."
+ },
+ {
+  "id": "\\bI wanna go outside and play.",
+  "en": "\\bI wanna go outside and play.",
+  "it": "\\bVoglio andare fuori a giocare."
+ },
+ {
+  "id": "\\rBe sure to read what's on the blackboard carefully!",
+  "en": "\\rBe sure to read what's on the blackboard carefully!",
+  "it": "\\rLeggi con attenzione quello che c'è scritto sulla lavagna!"
+ },
+ {
+  "id": "\\bI've learned so much in here.",
+  "en": "\\bI've learned so much in here.",
+  "it": "\\bHo imparato tantissimo qui dentro."
+ },
+ {
+  "id": "\\rMaybe I should stop messing around.",
+  "en": "\\rMaybe I should stop messing around.",
+  "it": "\\rForse dovrei smetterla di fare la stupida."
+ },
+ {
+  "id": "Choose a status option.",
+  "en": "Choose a status option.",
+  "it": "Scegli un problema di stato."
+ },
+ {
+  "id": "A Pokémon can't attack if it is asleep.",
+  "en": "A Pokémon can't attack if it is asleep.",
+  "it": "Un Pokémon addormentato non può attaccare."
+ },
+ {
+  "id": "Pokémon will stay asleep even after battles.",
+  "en": "Pokémon will stay asleep even after battles.",
+  "it": "I Pokémon restano addormentati anche dopo la lotta."
+ },
+ {
+  "id": "Use Awkening to awaken one from sleep.",
+  "en": "Use Awkening to awaken one from sleep.",
+  "it": "Usa una Sveglia per risvegliarne uno dal sonno."
+ },
+ {
+  "id": "A burn reduces attack power. It also causes ongoing HP loss.",
+  "en": "A burn reduces attack power. It also causes ongoing HP loss.",
+  "it": "La scottatura riduce la potenza d'attacco e fa perdere PS a ogni turno."
+ },
+ {
+  "id": "A burn remains after battle. Use Bun Heal to cure a burn.",
+  "en": "A burn remains after battle. Use Bun Heal to cure a burn.",
+  "it": "La scottatura resta anche dopo la lotta. Usa un Antiscottatura per curarla."
+ },
+ {
+  "id": "When poisoned, a Pokémon's health steadily drops.",
+  "en": "When poisoned, a Pokémon's health steadily drops. ",
+  "it": "Quando è avvelenato, la salute di un Pokémon cala costantemente."
+ },
+ {
+  "id": "Poison lingers after battles. Use an Antidote to cure poison!",
+  "en": "Poison lingers after battles. Use an Antidote to cure poison!",
+  "it": "L'avvelenamento persiste dopo la lotta. Usa un Antidoto per curarlo!"
+ },
+ {
+  "id": "\\bI know a lot about Pokémon.",
+  "en": "\\bI know a lot about Pokémon.",
+  "it": "\\bSo un sacco di cose sui Pokémon."
+ },
+ {
+  "id": "\\bMy dad made the Pokétch.",
+  "en": "\\bMy dad made the Pokétch.",
+  "it": "\\bIl mio papà ha creato il Pokétch."
+ },
+ {
+  "id": "Paralysis reduces speed and may prevent the Pokémon from moving.",
+  "en": "Paralysis reduces speed and may prevent the Pokémon from moving.",
+  "it": "La paralisi riduce la velocità e può impedire al Pokémon di muoversi."
+ },
+ {
+  "id": "Paralysis remains after battles. Use Parlyz Heal for treatment.",
+  "en": "Paralysis remains after battles. Use Parlyz Heal for treatment.",
+  "it": "La paralisi resta anche dopo la lotta. Usa un Antiparalisi per curarla."
+ },
+ {
+  "id": "It stays frozen even after the battle ends.",
+  "en": "It stays frozen even after the battle ends.",
+  "it": "Resta congelato anche dopo la fine della lotta."
+ },
+ {
+  "id": "A frozen Pokémon becomes helplessly immobile.",
+  "en": "A frozen Pokémon becomes helplessly immobile.",
+  "it": "Un Pokémon congelato resta del tutto immobile."
+ },
+ {
+  "id": "Use Ice Heal to thaw out the suffering Pokémon.",
+  "en": "Use Ice Heal to thaw out the suffering Pokémon.",
+  "it": "Usa un Antigelo per scongelare il Pokémon sofferente."
+ },
+ {
+  "id": "When confused, a Pokémon's may attack itself.",
+  "en": "When confused, a Pokémon's may attack itself. ",
+  "it": "Quando è confuso, un Pokémon può colpire se stesso."
+ },
+ {
+  "id": "Confusion does not last if recalled though.",
+  "en": "Confusion does not last if recalled though.",
+  "it": "Però la confusione svanisce se lo si richiama."
+ },
+ {
+  "id": "\\bIf you look near the tree in town you should find an item.",
+  "en": "\\bIf you look near the tree in town you should find an item.",
+  "it": "\\bSe guardi vicino all'albero in città dovresti trovare uno strumento."
+ },
+ {
+  "id": "Sleep",
+  "en": "Sleep",
+  "it": "Sonno"
+ },
+ {
+  "id": "Burn",
+  "en": "Burn",
+  "it": "Scottatura"
+ },
+ {
+  "id": "Poison",
+  "en": "Poison",
+  "it": "Veleno"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Paralysis",
+  "en": "Paralysis",
+  "it": "Paralisi"
+ },
+ {
+  "id": "Freeze",
+  "en": "Freeze",
+  "it": "Congelamento"
+ },
+ {
+  "id": "Confusion",
+  "en": "Confusion",
+  "it": "Confusione"
+ }
+]

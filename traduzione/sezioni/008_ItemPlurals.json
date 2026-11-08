@@ -1,0 +1,4572 @@
+[
+ {
+  "id": 1,
+  "en": "Repels",
+  "it": "Repellenti"
+ },
+ {
+  "id": 2,
+  "en": "Super Repels",
+  "it": "Superrepellenti"
+ },
+ {
+  "id": 3,
+  "en": "Max Repels",
+  "it": "Repellenti Max"
+ },
+ {
+  "id": 4,
+  "en": "Black Flutes",
+  "it": "Flauti Neri"
+ },
+ {
+  "id": 5,
+  "en": "White Flutes",
+  "it": "Flauti Bianchi"
+ },
+ {
+  "id": 6,
+  "en": "Honey",
+  "it": "Miele"
+ },
+ {
+  "id": 7,
+  "en": "Escape Ropes",
+  "it": "Funi di Fuga"
+ },
+ {
+  "id": 8,
+  "en": "Red Shards",
+  "it": "Cocci Rossi"
+ },
+ {
+  "id": 9,
+  "en": "Yellow Shards",
+  "it": "Cocci Gialli"
+ },
+ {
+  "id": 10,
+  "en": "Blue Shards",
+  "it": "Cocci Blu"
+ },
+ {
+  "id": 11,
+  "en": "Green Shards",
+  "it": "Cocci Verdi"
+ },
+ {
+  "id": 12,
+  "en": "Fire Stones",
+  "it": "Pietre Focaie"
+ },
+ {
+  "id": 13,
+  "en": "Thunder Stones",
+  "it": "Pietretuono"
+ },
+ {
+  "id": 14,
+  "en": "Water Stones",
+  "it": "Pietre Idriche"
+ },
+ {
+  "id": 15,
+  "en": "Leaf Stones",
+  "it": "Pietrefoglia"
+ },
+ {
+  "id": 16,
+  "en": "Moon Stones",
+  "it": "Pietre Lunari"
+ },
+ {
+  "id": 17,
+  "en": "Sun Stones",
+  "it": "Pietre Solari"
+ },
+ {
+  "id": 18,
+  "en": "Dusk Stones",
+  "it": "Neropietre"
+ },
+ {
+  "id": 19,
+  "en": "Dawn Stones",
+  "it": "Pietrealbe"
+ },
+ {
+  "id": 20,
+  "en": "Shiny Stones",
+  "it": "Pietrebrillo"
+ },
+ {
+  "id": 21,
+  "en": "Red Apricorns",
+  "it": "Ghicocche Rosse"
+ },
+ {
+  "id": 22,
+  "en": "Yellow Apricorns",
+  "it": "Ghicocche Gialle"
+ },
+ {
+  "id": 23,
+  "en": "Blue Apricorns",
+  "it": "Ghicocche Blu"
+ },
+ {
+  "id": 24,
+  "en": "Green Apricorns",
+  "it": "Ghicocche Verdi"
+ },
+ {
+  "id": 25,
+  "en": "Pink Apricorns",
+  "it": "Ghicocche Rosa"
+ },
+ {
+  "id": 26,
+  "en": "White Apricorns",
+  "it": "Ghicocche Bianche"
+ },
+ {
+  "id": 27,
+  "en": "Black Apricorns",
+  "it": "Ghicocche Nere"
+ },
+ {
+  "id": 28,
+  "en": "Helix Fossils",
+  "it": "Helixfossili"
+ },
+ {
+  "id": 29,
+  "en": "Dome Fossils",
+  "it": "Domofossili"
+ },
+ {
+  "id": 30,
+  "en": "Old Ambers",
+  "it": "Ambre Antiche"
+ },
+ {
+  "id": 31,
+  "en": "Root Fossils",
+  "it": "Radifossili"
+ },
+ {
+  "id": 32,
+  "en": "Claw Fossils",
+  "it": "Fossilunghie"
+ },
+ {
+  "id": 33,
+  "en": "Skull Fossils",
+  "it": "Fossilcrani"
+ },
+ {
+  "id": 34,
+  "en": "Armor Fossils",
+  "it": "Fossilscudi"
+ },
+ {
+  "id": 35,
+  "en": "Cover Fossils",
+  "it": "Fossiltappi"
+ },
+ {
+  "id": 36,
+  "en": "Plume Fossils",
+  "it": "Fossilpiume"
+ },
+ {
+  "id": 37,
+  "en": "Pretty Feathers",
+  "it": "Piumebelle"
+ },
+ {
+  "id": 38,
+  "en": "Tiny Mushrooms",
+  "it": "Minifunghi"
+ },
+ {
+  "id": 39,
+  "en": "Big Mushrooms",
+  "it": "Grandi Funghi"
+ },
+ {
+  "id": 40,
+  "en": "Balm Mushrooms",
+  "it": "Funghi Balsamici"
+ },
+ {
+  "id": 41,
+  "en": "Pearls",
+  "it": "Perle"
+ },
+ {
+  "id": 42,
+  "en": "Big Pearls",
+  "it": "Grandi Perle"
+ },
+ {
+  "id": 43,
+  "en": "Pearl Strings",
+  "it": "Fili di Perle"
+ },
+ {
+  "id": 44,
+  "en": "Stardusts",
+  "it": "Polveri di Stelle"
+ },
+ {
+  "id": 45,
+  "en": "Star Pieces",
+  "it": "Pezzi Stella"
+ },
+ {
+  "id": 46,
+  "en": "Comet Shards",
+  "it": "Pezzi Cometa"
+ },
+ {
+  "id": 47,
+  "en": "Nuggets",
+  "it": "Pepite"
+ },
+ {
+  "id": 48,
+  "en": "Big Nuggets",
+  "it": "Pepitoni"
+ },
+ {
+  "id": 49,
+  "en": "Heart Scales",
+  "it": "Squamecuore"
+ },
+ {
+  "id": 50,
+  "en": "Slowpoke Tails",
+  "it": "Codaslowpoke"
+ },
+ {
+  "id": 51,
+  "en": "Rare Bones",
+  "it": "Ossi Rari"
+ },
+ {
+  "id": 52,
+  "en": "Relic Coppers",
+  "it": "Rami Antichi"
+ },
+ {
+  "id": 53,
+  "en": "Relic Silvers",
+  "it": "Argenti Antichi"
+ },
+ {
+  "id": 54,
+  "en": "Relic Golds",
+  "it": "Ori Antichi"
+ },
+ {
+  "id": 55,
+  "en": "Relic Vases",
+  "it": "Vasi Antichi"
+ },
+ {
+  "id": 56,
+  "en": "Relic Bands",
+  "it": "Bracciali Antichi"
+ },
+ {
+  "id": 57,
+  "en": "Relic Statues",
+  "it": "Statuette Antiche"
+ },
+ {
+  "id": 58,
+  "en": "Relic Crowns",
+  "it": "Corone Antiche"
+ },
+ {
+  "id": 59,
+  "en": "Growth Mulch",
+  "it": "Fertilrapido"
+ },
+ {
+  "id": 60,
+  "en": "Damp Mulch",
+  "it": "Fertilidro"
+ },
+ {
+  "id": 61,
+  "en": "Stable Mulch",
+  "it": "Fertilsaldo"
+ },
+ {
+  "id": 62,
+  "en": "Gooey Mulch",
+  "it": "Fertilcolla"
+ },
+ {
+  "id": 63,
+  "en": "Shoal Salts",
+  "it": "Sali Ondosi"
+ },
+ {
+  "id": 64,
+  "en": "Shoal Shells",
+  "it": "Conchiglie Ondose"
+ },
+ {
+  "id": 65,
+  "en": "Odd Keystones",
+  "it": "Rocce Speciali"
+ },
+ {
+  "id": 66,
+  "en": "Air Balloons",
+  "it": "Palloncini"
+ },
+ {
+  "id": 67,
+  "en": "Bright Powders",
+  "it": "Luminpolveri"
+ },
+ {
+  "id": 68,
+  "en": "Eviolites",
+  "it": "Evolcondense"
+ },
+ {
+  "id": 69,
+  "en": "Float Stones",
+  "it": "Pietralievi"
+ },
+ {
+  "id": 70,
+  "en": "Destiny Knots",
+  "it": "Nastrodestino"
+ },
+ {
+  "id": 71,
+  "en": "Rocky Helmets",
+  "it": "Bitorzolelmi"
+ },
+ {
+  "id": 72,
+  "en": "Eject Buttons",
+  "it": "Pulsantifuga"
+ },
+ {
+  "id": 73,
+  "en": "Red Cards",
+  "it": "Cartelrossi"
+ },
+ {
+  "id": 74,
+  "en": "Shed Shells",
+  "it": "Disfogusci"
+ },
+ {
+  "id": 75,
+  "en": "Smoke Balls",
+  "it": "Palle Fumo"
+ },
+ {
+  "id": 76,
+  "en": "Lucky Eggs",
+  "it": "Fortunuova"
+ },
+ {
+  "id": 77,
+  "en": "Exp. Shares",
+  "it": "Condividi Esp."
+ },
+ {
+  "id": 78,
+  "en": "Amulet Coins",
+  "it": "Monete Amuleto"
+ },
+ {
+  "id": 79,
+  "en": "Soothe Bells",
+  "it": "Calmanelle"
+ },
+ {
+  "id": 80,
+  "en": "Cleanse Tags",
+  "it": "Velopuri"
+ },
+ {
+  "id": 81,
+  "en": "Choice Bands",
+  "it": "Bende Scelta"
+ },
+ {
+  "id": 82,
+  "en": "Choice Specs",
+  "it": "Lenti Scelta"
+ },
+ {
+  "id": 83,
+  "en": "Choice Scarves",
+  "it": "Stole Scelta"
+ },
+ {
+  "id": 84,
+  "en": "Heat Rocks",
+  "it": "Roccecalde"
+ },
+ {
+  "id": 85,
+  "en": "Damp Rocks",
+  "it": "Roccebagnate"
+ },
+ {
+  "id": 86,
+  "en": "Smooth Rocks",
+  "it": "Roccelisce"
+ },
+ {
+  "id": 87,
+  "en": "Icy Rocks",
+  "it": "Roccegelate"
+ },
+ {
+  "id": 88,
+  "en": "Light Clays",
+  "it": "Crete Luce"
+ },
+ {
+  "id": 89,
+  "en": "Grip Claws",
+  "it": "Presartigli"
+ },
+ {
+  "id": 90,
+  "en": "Binding Bands",
+  "it": "Fasce Leganti"
+ },
+ {
+  "id": 91,
+  "en": "Big Roots",
+  "it": "Granradici"
+ },
+ {
+  "id": 92,
+  "en": "Black Sludges",
+  "it": "Fanghipece"
+ },
+ {
+  "id": 93,
+  "en": "Leftovers",
+  "it": "Avanzi"
+ },
+ {
+  "id": 94,
+  "en": "Shell Bells",
+  "it": "Conchinelle"
+ },
+ {
+  "id": 95,
+  "en": "Mental Herbs",
+  "it": "Mentalerbe"
+ },
+ {
+  "id": 96,
+  "en": "White Herbs",
+  "it": "Erbachiara"
+ },
+ {
+  "id": 97,
+  "en": "Power Herbs",
+  "it": "Erbaforza"
+ },
+ {
+  "id": 98,
+  "en": "Absorb Bulbs",
+  "it": "Bulbi"
+ },
+ {
+  "id": 99,
+  "en": "Cell Batteries",
+  "it": "Ricaripile"
+ },
+ {
+  "id": 100,
+  "en": "Life Orbs",
+  "it": "Assorbisfere"
+ },
+ {
+  "id": 101,
+  "en": "Expert Belts",
+  "it": "Abilcinture"
+ },
+ {
+  "id": 102,
+  "en": "Metronomes",
+  "it": "Metronomi"
+ },
+ {
+  "id": 103,
+  "en": "Muscle Bands",
+  "it": "Muscolbande"
+ },
+ {
+  "id": 104,
+  "en": "Wise Glasses",
+  "it": "Saggiolenti"
+ },
+ {
+  "id": 105,
+  "en": "Razor Claws",
+  "it": "Affilartigli"
+ },
+ {
+  "id": 106,
+  "en": "Scope Lenses",
+  "it": "Mirini"
+ },
+ {
+  "id": 107,
+  "en": "Wide Lenses",
+  "it": "Grandelenti"
+ },
+ {
+  "id": 108,
+  "en": "Zoom Lenses",
+  "it": "Zoomlenti"
+ },
+ {
+  "id": 109,
+  "en": "King's Rocks",
+  "it": "Rocce di Re"
+ },
+ {
+  "id": 110,
+  "en": "Razor Fangs",
+  "it": "Affilodenti"
+ },
+ {
+  "id": 111,
+  "en": "Lagging Tails",
+  "it": "Rallentocode"
+ },
+ {
+  "id": 112,
+  "en": "Quick Claws",
+  "it": "Rapidartigli"
+ },
+ {
+  "id": 113,
+  "en": "Focus Bands",
+  "it": "Bandane"
+ },
+ {
+  "id": 114,
+  "en": "Focus Sashes",
+  "it": "Focalnastri"
+ },
+ {
+  "id": 115,
+  "en": "Flame Orbs",
+  "it": "Fiammosfere"
+ },
+ {
+  "id": 116,
+  "en": "Toxic Orbs",
+  "it": "Tossicsfere"
+ },
+ {
+  "id": 117,
+  "en": "Sticky Barbs",
+  "it": "Vischiopunte"
+ },
+ {
+  "id": 118,
+  "en": "Iron Balls",
+  "it": "Ferropalle"
+ },
+ {
+  "id": 119,
+  "en": "Ring Targets",
+  "it": "Facilsagli"
+ },
+ {
+  "id": 120,
+  "en": "Macho Braces",
+  "it": "Crescicappe"
+ },
+ {
+  "id": 121,
+  "en": "Power Weights",
+  "it": "Vigorpesi"
+ },
+ {
+  "id": 122,
+  "en": "Power Bracers",
+  "it": "Vigorcerchi"
+ },
+ {
+  "id": 123,
+  "en": "Power Belts",
+  "it": "Vigorfasce"
+ },
+ {
+  "id": 124,
+  "en": "Power Lenses",
+  "it": "Vigorlenti"
+ },
+ {
+  "id": 125,
+  "en": "Power Bands",
+  "it": "Vigorbande"
+ },
+ {
+  "id": 126,
+  "en": "Power Anklets",
+  "it": "Vigorgliere"
+ },
+ {
+  "id": 127,
+  "en": "Lax Incenses",
+  "it": "Distraromi"
+ },
+ {
+  "id": 128,
+  "en": "Full Incenses",
+  "it": "Gonfiaromi"
+ },
+ {
+  "id": 129,
+  "en": "Luck Incenses",
+  "it": "Fortunaromi"
+ },
+ {
+  "id": 130,
+  "en": "Pure Incenses",
+  "it": "Puroaroma"
+ },
+ {
+  "id": 131,
+  "en": "Sea Incenses",
+  "it": "Marearomi"
+ },
+ {
+  "id": 132,
+  "en": "Wave Incenses",
+  "it": "Ondaromi"
+ },
+ {
+  "id": 133,
+  "en": "Rose Incenses",
+  "it": "Rosaromi"
+ },
+ {
+  "id": 134,
+  "en": "Odd Incenses",
+  "it": "Bizzoaromi"
+ },
+ {
+  "id": 135,
+  "en": "Rock Incenses",
+  "it": "Roccioaromi"
+ },
+ {
+  "id": 136,
+  "en": "Charcoals",
+  "it": "Carbonelle"
+ },
+ {
+  "id": 137,
+  "en": "Mystic Waters",
+  "it": "Acque Magiche"
+ },
+ {
+  "id": 138,
+  "en": "Magnets",
+  "it": "Calamite"
+ },
+ {
+  "id": 139,
+  "en": "Miracle Seeds",
+  "it": "Miracolsemi"
+ },
+ {
+  "id": 140,
+  "en": "Never-Melt Ices",
+  "it": "Gelomai"
+ },
+ {
+  "id": 141,
+  "en": "Black Belts",
+  "it": "Cinture Nere"
+ },
+ {
+  "id": 142,
+  "en": "Poison Barbs",
+  "it": "Velenaculei"
+ },
+ {
+  "id": 143,
+  "en": "Soft Sand",
+  "it": "Sabbia Soffice"
+ },
+ {
+  "id": 144,
+  "en": "Sharp Beaks",
+  "it": "Beccaffilati"
+ },
+ {
+  "id": 145,
+  "en": "Twisted Spoons",
+  "it": "Cucchiai Torti"
+ },
+ {
+  "id": 146,
+  "en": "Silver Powders",
+  "it": "Argenpolveri"
+ },
+ {
+  "id": 147,
+  "en": "Hard Stones",
+  "it": "Pietredure"
+ },
+ {
+  "id": 148,
+  "en": "Spell Tags",
+  "it": "Spettrotarghe"
+ },
+ {
+  "id": 149,
+  "en": "Dragon Fangs",
+  "it": "Dentidrago"
+ },
+ {
+  "id": 150,
+  "en": "Black Glasses",
+  "it": "Occhialineri"
+ },
+ {
+  "id": 151,
+  "en": "Metal Coats",
+  "it": "Metalcoperte"
+ },
+ {
+  "id": 152,
+  "en": "Silk Scarves",
+  "it": "Sciarpe Seta"
+ },
+ {
+  "id": 153,
+  "en": "Flame Plates",
+  "it": "Lastrerogo"
+ },
+ {
+  "id": 154,
+  "en": "Splash Plates",
+  "it": "Lastraidro"
+ },
+ {
+  "id": 155,
+  "en": "Zap Plates",
+  "it": "Lastrasaetta"
+ },
+ {
+  "id": 156,
+  "en": "Meadow Plates",
+  "it": "Lastraprato"
+ },
+ {
+  "id": 157,
+  "en": "Icicle Plates",
+  "it": "Lastragelo"
+ },
+ {
+  "id": 158,
+  "en": "Fist Plates",
+  "it": "Lastrapugno"
+ },
+ {
+  "id": 159,
+  "en": "Toxic Plates",
+  "it": "Lastrafiele"
+ },
+ {
+  "id": 160,
+  "en": "Earth Plates",
+  "it": "Lastrageo"
+ },
+ {
+  "id": 161,
+  "en": "Sky Plates",
+  "it": "Lastracielo"
+ },
+ {
+  "id": 162,
+  "en": "Mind Plates",
+  "it": "Lastramente"
+ },
+ {
+  "id": 163,
+  "en": "Insect Plates",
+  "it": "Lastrabaco"
+ },
+ {
+  "id": 164,
+  "en": "Stone Plates",
+  "it": "Lastrapietra"
+ },
+ {
+  "id": 165,
+  "en": "Spooky Plates",
+  "it": "Lastratetra"
+ },
+ {
+  "id": 166,
+  "en": "Draco Plates",
+  "it": "Lastradrakon"
+ },
+ {
+  "id": 167,
+  "en": "Dread Plates",
+  "it": "Lastratimore"
+ },
+ {
+  "id": 168,
+  "en": "Iron Plates",
+  "it": "Lastraferro"
+ },
+ {
+  "id": 169,
+  "en": "Fire Gems",
+  "it": "Bijoufuoco"
+ },
+ {
+  "id": 170,
+  "en": "Water Gems",
+  "it": "Bijouacqua"
+ },
+ {
+  "id": 171,
+  "en": "Electric Gems",
+  "it": "Bijouelettro"
+ },
+ {
+  "id": 172,
+  "en": "Grass Gems",
+  "it": "Bijouerba"
+ },
+ {
+  "id": 173,
+  "en": "Ice Gems",
+  "it": "Bijoughiaccio"
+ },
+ {
+  "id": 174,
+  "en": "Fighting Gems",
+  "it": "Bijoulotta"
+ },
+ {
+  "id": 175,
+  "en": "Poison Gems",
+  "it": "Bijouveleno"
+ },
+ {
+  "id": 176,
+  "en": "Ground Gems",
+  "it": "Bijouterra"
+ },
+ {
+  "id": 177,
+  "en": "Flying Gems",
+  "it": "Bijouvolante"
+ },
+ {
+  "id": 178,
+  "en": "Psychic Gems",
+  "it": "Bijoupsico"
+ },
+ {
+  "id": 179,
+  "en": "Bug Gems",
+  "it": "Bijoucoleottero"
+ },
+ {
+  "id": 180,
+  "en": "Rock Gems",
+  "it": "Bijouroccia"
+ },
+ {
+  "id": 181,
+  "en": "Ghost Gems",
+  "it": "Bijouspettro"
+ },
+ {
+  "id": 182,
+  "en": "Dragon Gems",
+  "it": "Bijoudrago"
+ },
+ {
+  "id": 183,
+  "en": "Dark Gems",
+  "it": "Bijoubuio"
+ },
+ {
+  "id": 184,
+  "en": "Steel Gems",
+  "it": "Bijouacciaio"
+ },
+ {
+  "id": 185,
+  "en": "Normal Gems",
+  "it": "Bijounormale"
+ },
+ {
+  "id": 186,
+  "en": "Light Balls",
+  "it": "Elettropalle"
+ },
+ {
+  "id": 187,
+  "en": "Lucky Punches",
+  "it": "Fortunpugni"
+ },
+ {
+  "id": 188,
+  "en": "Metal Powders",
+  "it": "Metalpolveri"
+ },
+ {
+  "id": 189,
+  "en": "Quick Powders",
+  "it": "Velopolveri"
+ },
+ {
+  "id": 190,
+  "en": "Thick Clubs",
+  "it": "Ossospesso"
+ },
+ {
+  "id": 191,
+  "en": "Leeks",
+  "it": "Porri"
+ },
+ {
+  "id": 192,
+  "en": "Soul Dews",
+  "it": "Cuorugiade"
+ },
+ {
+  "id": 193,
+  "en": "Deep Sea Teeth",
+  "it": "Denti Abissi"
+ },
+ {
+  "id": 194,
+  "en": "Deep Sea Scales",
+  "it": "Squame Abissi"
+ },
+ {
+  "id": 195,
+  "en": "Adamant Orbs",
+  "it": "Adamasfere"
+ },
+ {
+  "id": 196,
+  "en": "Lustrous Orbs",
+  "it": "Splendisfere"
+ },
+ {
+  "id": 197,
+  "en": "Griseous Orbs",
+  "it": "Grigiosfere"
+ },
+ {
+  "id": 198,
+  "en": "Douse Drives",
+  "it": "Idromoduli"
+ },
+ {
+  "id": 199,
+  "en": "Shock Drives",
+  "it": "Voltmoduli"
+ },
+ {
+  "id": 200,
+  "en": "Burn Drives",
+  "it": "Piromoduli"
+ },
+ {
+  "id": 201,
+  "en": "Chill Drives",
+  "it": "Gelomoduli"
+ },
+ {
+  "id": 202,
+  "en": "Everstones",
+  "it": "Pietrastanti"
+ },
+ {
+  "id": 203,
+  "en": "Dragon Scales",
+  "it": "Squame Drago"
+ },
+ {
+  "id": 204,
+  "en": "Upgrades",
+  "it": "Upgrade"
+ },
+ {
+  "id": 205,
+  "en": "Dubious Discs",
+  "it": "Dubbiodischi"
+ },
+ {
+  "id": 206,
+  "en": "Protectors",
+  "it": "Protettori"
+ },
+ {
+  "id": 207,
+  "en": "Electirizers",
+  "it": "Elettritori"
+ },
+ {
+  "id": 208,
+  "en": "Magmarizers",
+  "it": "Magmatori"
+ },
+ {
+  "id": 209,
+  "en": "Reaper Cloths",
+  "it": "Terrorpanni"
+ },
+ {
+  "id": 210,
+  "en": "Prism Scales",
+  "it": "Squame Belle"
+ },
+ {
+  "id": 211,
+  "en": "Oval Stones",
+  "it": "Pietraovali"
+ },
+ {
+  "id": 212,
+  "en": "Red Scarves",
+  "it": "Fasce Rosse"
+ },
+ {
+  "id": 213,
+  "en": "Blue Scarves",
+  "it": "Fasce Blu"
+ },
+ {
+  "id": 214,
+  "en": "Pink Scarves",
+  "it": "Fasce Rosa"
+ },
+ {
+  "id": 215,
+  "en": "Green Scarves",
+  "it": "Fasce Verdi"
+ },
+ {
+  "id": 216,
+  "en": "Yellow Scarves",
+  "it": "Fasce Gialle"
+ },
+ {
+  "id": 217,
+  "en": "Potions",
+  "it": "Pozioni"
+ },
+ {
+  "id": 218,
+  "en": "Super Potions",
+  "it": "Superpozioni"
+ },
+ {
+  "id": 219,
+  "en": "Hyper Potions",
+  "it": "Iperpozioni"
+ },
+ {
+  "id": 220,
+  "en": "Max Potions",
+  "it": "Pozioni Max"
+ },
+ {
+  "id": 221,
+  "en": "Full Restores",
+  "it": "Ricariche Totali"
+ },
+ {
+  "id": 222,
+  "en": "Sacred Ashes",
+  "it": "Ceneri Magiche"
+ },
+ {
+  "id": 223,
+  "en": "Awakenings",
+  "it": "Sveglie"
+ },
+ {
+  "id": 224,
+  "en": "Antidotes",
+  "it": "Antidoti"
+ },
+ {
+  "id": 225,
+  "en": "Burn Heals",
+  "it": "Antiscottature"
+ },
+ {
+  "id": 226,
+  "en": "Paralyze Heals",
+  "it": "Antiparalisi"
+ },
+ {
+  "id": 227,
+  "en": "Ice Heals",
+  "it": "Antigelo"
+ },
+ {
+  "id": 228,
+  "en": "Full Heals",
+  "it": "Cure Totali"
+ },
+ {
+  "id": 229,
+  "en": "Lava Cookies",
+  "it": "Lavottini"
+ },
+ {
+  "id": 230,
+  "en": "Old Gateaux",
+  "it": "Dolci Gateau"
+ },
+ {
+  "id": 231,
+  "en": "Casteliacones",
+  "it": "Conostropoli"
+ },
+ {
+  "id": 232,
+  "en": "Revives",
+  "it": "Revitalizzanti"
+ },
+ {
+  "id": 233,
+  "en": "Max Revives",
+  "it": "Revitalizzanti Max"
+ },
+ {
+  "id": 234,
+  "en": "Berry Juices",
+  "it": "Succhi di Bacca"
+ },
+ {
+  "id": 235,
+  "en": "Rage Candy Bars",
+  "it": "Iramelle"
+ },
+ {
+  "id": 236,
+  "en": "Sweet Hearts",
+  "it": "Dolcicuori"
+ },
+ {
+  "id": 237,
+  "en": "Fresh Waters",
+  "it": "Acque Fresche"
+ },
+ {
+  "id": 238,
+  "en": "Soda Pops",
+  "it": "Gassose"
+ },
+ {
+  "id": 239,
+  "en": "Lemonades",
+  "it": "Lemonsucchi"
+ },
+ {
+  "id": 240,
+  "en": "Moomoo Milks",
+  "it": "Latte MuMu"
+ },
+ {
+  "id": 241,
+  "en": "Energy Powders",
+  "it": "Polvenergie"
+ },
+ {
+  "id": 242,
+  "en": "Energy Roots",
+  "it": "Radicenergie"
+ },
+ {
+  "id": 243,
+  "en": "Heal Powders",
+  "it": "Polvocure"
+ },
+ {
+  "id": 244,
+  "en": "Revival Herbs",
+  "it": "Vitalerbe"
+ },
+ {
+  "id": 245,
+  "en": "Ethers",
+  "it": "Eteri"
+ },
+ {
+  "id": 246,
+  "en": "Max Ethers",
+  "it": "Eteri Max"
+ },
+ {
+  "id": 247,
+  "en": "Elixirs",
+  "it": "Elisir"
+ },
+ {
+  "id": 248,
+  "en": "Max Elixirs",
+  "it": "Elisir Max"
+ },
+ {
+  "id": 249,
+  "en": "PP Ups",
+  "it": "PP-su"
+ },
+ {
+  "id": 250,
+  "en": "PP Maxes",
+  "it": "PP-max"
+ },
+ {
+  "id": 251,
+  "en": "HP Ups",
+  "it": "PS-su"
+ },
+ {
+  "id": 252,
+  "en": "Proteins",
+  "it": "Proteine"
+ },
+ {
+  "id": 253,
+  "en": "Irons",
+  "it": "Ferri"
+ },
+ {
+  "id": 254,
+  "en": "Calciums",
+  "it": "Calci"
+ },
+ {
+  "id": 255,
+  "en": "Zincs",
+  "it": "Zinchi"
+ },
+ {
+  "id": 256,
+  "en": "Carbos",
+  "it": "Carburanti"
+ },
+ {
+  "id": 257,
+  "en": "Health Feathers",
+  "it": "Piumsalute"
+ },
+ {
+  "id": 258,
+  "en": "Muscle Feathers",
+  "it": "Piumpotenza"
+ },
+ {
+  "id": 259,
+  "en": "Resist Feathers",
+  "it": "Piumtutela"
+ },
+ {
+  "id": 260,
+  "en": "Genius Feathers",
+  "it": "Piumingegno"
+ },
+ {
+  "id": 261,
+  "en": "Clever Feathers",
+  "it": "Piumpensiero"
+ },
+ {
+  "id": 262,
+  "en": "Swift Feathers",
+  "it": "Piumvelocità"
+ },
+ {
+  "id": 263,
+  "en": "Rare Candies",
+  "it": "Caramelle Rare"
+ },
+ {
+  "id": 264,
+  "en": "Master Balls",
+  "it": "Master Ball"
+ },
+ {
+  "id": 265,
+  "en": "Ultra Balls",
+  "it": "Ultra Ball"
+ },
+ {
+  "id": 266,
+  "en": "Great Balls",
+  "it": "Mega Ball"
+ },
+ {
+  "id": 267,
+  "en": "Poké Balls",
+  "it": "Poké Ball"
+ },
+ {
+  "id": 268,
+  "en": "Safari Balls",
+  "it": "Safari Ball"
+ },
+ {
+  "id": 269,
+  "en": "Sport Balls",
+  "it": "Gara Ball"
+ },
+ {
+  "id": 270,
+  "en": "Net Balls",
+  "it": "Rete Ball"
+ },
+ {
+  "id": 271,
+  "en": "Dive Balls",
+  "it": "Sub Ball"
+ },
+ {
+  "id": 272,
+  "en": "Nest Balls",
+  "it": "Minor Ball"
+ },
+ {
+  "id": 273,
+  "en": "Repeat Balls",
+  "it": "Bis Ball"
+ },
+ {
+  "id": 274,
+  "en": "Timer Balls",
+  "it": "Timer Ball"
+ },
+ {
+  "id": 275,
+  "en": "Luxury Balls",
+  "it": "Chic Ball"
+ },
+ {
+  "id": 276,
+  "en": "Premier Balls",
+  "it": "Premier Ball"
+ },
+ {
+  "id": 277,
+  "en": "Dusk Balls",
+  "it": "Scuro Ball"
+ },
+ {
+  "id": 278,
+  "en": "Heal Balls",
+  "it": "Cura Ball"
+ },
+ {
+  "id": 279,
+  "en": "Quick Balls",
+  "it": "Velox Ball"
+ },
+ {
+  "id": 280,
+  "en": "Cherish Balls",
+  "it": "Pregio Ball"
+ },
+ {
+  "id": 281,
+  "en": "Fast Balls",
+  "it": "Rapid Ball"
+ },
+ {
+  "id": 282,
+  "en": "Level Balls",
+  "it": "Level Ball"
+ },
+ {
+  "id": 283,
+  "en": "Lure Balls",
+  "it": "Esca Ball"
+ },
+ {
+  "id": 284,
+  "en": "Heavy Balls",
+  "it": "Peso Ball"
+ },
+ {
+  "id": 285,
+  "en": "Love Balls",
+  "it": "Love Ball"
+ },
+ {
+  "id": 286,
+  "en": "Friend Balls",
+  "it": "Friend Ball"
+ },
+ {
+  "id": 287,
+  "en": "Moon Balls",
+  "it": "Luna Ball"
+ },
+ {
+  "id": 288,
+  "en": "TM00s",
+  "it": "MT00"
+ },
+ {
+  "id": 289,
+  "en": "TM01s",
+  "it": "MT01"
+ },
+ {
+  "id": 290,
+  "en": "TM02s",
+  "it": "MT02"
+ },
+ {
+  "id": 291,
+  "en": "TM03s",
+  "it": "MT03"
+ },
+ {
+  "id": 292,
+  "en": "TM04s",
+  "it": "MT04"
+ },
+ {
+  "id": 293,
+  "en": "TM05s",
+  "it": "MT05"
+ },
+ {
+  "id": 294,
+  "en": "TM06s",
+  "it": "MT06"
+ },
+ {
+  "id": 295,
+  "en": "TM07s",
+  "it": "MT07"
+ },
+ {
+  "id": 296,
+  "en": "TM08s",
+  "it": "MT08"
+ },
+ {
+  "id": 297,
+  "en": "TM09s",
+  "it": "MT09"
+ },
+ {
+  "id": 298,
+  "en": "TM10s",
+  "it": "MT10"
+ },
+ {
+  "id": 299,
+  "en": "TM11s",
+  "it": "MT11"
+ },
+ {
+  "id": 300,
+  "en": "TM12s",
+  "it": "MT12"
+ },
+ {
+  "id": 301,
+  "en": "TM13s",
+  "it": "MT13"
+ },
+ {
+  "id": 302,
+  "en": "TM14s",
+  "it": "MT14"
+ },
+ {
+  "id": 303,
+  "en": "TM15s",
+  "it": "MT15"
+ },
+ {
+  "id": 304,
+  "en": "TM16s",
+  "it": "MT16"
+ },
+ {
+  "id": 305,
+  "en": "TM17s",
+  "it": "MT17"
+ },
+ {
+  "id": 306,
+  "en": "TM18s",
+  "it": "MT18"
+ },
+ {
+  "id": 307,
+  "en": "TM19s",
+  "it": "MT19"
+ },
+ {
+  "id": 308,
+  "en": "TM20s",
+  "it": "MT20"
+ },
+ {
+  "id": 309,
+  "en": "TM21s",
+  "it": "MT21"
+ },
+ {
+  "id": 310,
+  "en": "TM22s",
+  "it": "MT22"
+ },
+ {
+  "id": 311,
+  "en": "TM23s",
+  "it": "MT23"
+ },
+ {
+  "id": 312,
+  "en": "TM24s",
+  "it": "MT24"
+ },
+ {
+  "id": 313,
+  "en": "TM25s",
+  "it": "MT25"
+ },
+ {
+  "id": 314,
+  "en": "TM26s",
+  "it": "MT26"
+ },
+ {
+  "id": 315,
+  "en": "TM27s",
+  "it": "MT27"
+ },
+ {
+  "id": 316,
+  "en": "TM28s",
+  "it": "MT28"
+ },
+ {
+  "id": 317,
+  "en": "TM29s",
+  "it": "MT29"
+ },
+ {
+  "id": 318,
+  "en": "TM30s",
+  "it": "MT30"
+ },
+ {
+  "id": 319,
+  "en": "TM31s",
+  "it": "MT31"
+ },
+ {
+  "id": 320,
+  "en": "TM32s",
+  "it": "MT32"
+ },
+ {
+  "id": 321,
+  "en": "TM33s",
+  "it": "MT33"
+ },
+ {
+  "id": 322,
+  "en": "TM34s",
+  "it": "MT34"
+ },
+ {
+  "id": 323,
+  "en": "TM35s",
+  "it": "MT35"
+ },
+ {
+  "id": 324,
+  "en": "TM36s",
+  "it": "MT36"
+ },
+ {
+  "id": 325,
+  "en": "TM37s",
+  "it": "MT37"
+ },
+ {
+  "id": 326,
+  "en": "TM38s",
+  "it": "MT38"
+ },
+ {
+  "id": 327,
+  "en": "TM39s",
+  "it": "MT39"
+ },
+ {
+  "id": 328,
+  "en": "TM40s",
+  "it": "MT40"
+ },
+ {
+  "id": 329,
+  "en": "TM41s",
+  "it": "MT41"
+ },
+ {
+  "id": 330,
+  "en": "TM42s",
+  "it": "MT42"
+ },
+ {
+  "id": 331,
+  "en": "TM43s",
+  "it": "MT43"
+ },
+ {
+  "id": 332,
+  "en": "TM44s",
+  "it": "MT44"
+ },
+ {
+  "id": 333,
+  "en": "TM45s",
+  "it": "MT45"
+ },
+ {
+  "id": 334,
+  "en": "TM46s",
+  "it": "MT46"
+ },
+ {
+  "id": 335,
+  "en": "TM47s",
+  "it": "MT47"
+ },
+ {
+  "id": 336,
+  "en": "TM48s",
+  "it": "MT48"
+ },
+ {
+  "id": 337,
+  "en": "TM49s",
+  "it": "MT49"
+ },
+ {
+  "id": 338,
+  "en": "TM50s",
+  "it": "MT50"
+ },
+ {
+  "id": 339,
+  "en": "TM51s",
+  "it": "MT51"
+ },
+ {
+  "id": 340,
+  "en": "TM52s",
+  "it": "MT52"
+ },
+ {
+  "id": 341,
+  "en": "TM53s",
+  "it": "MT53"
+ },
+ {
+  "id": 342,
+  "en": "TM54s",
+  "it": "MT54"
+ },
+ {
+  "id": 343,
+  "en": "TM55s",
+  "it": "MT55"
+ },
+ {
+  "id": 344,
+  "en": "TM56s",
+  "it": "MT56"
+ },
+ {
+  "id": 345,
+  "en": "TM57s",
+  "it": "MT57"
+ },
+ {
+  "id": 346,
+  "en": "TM58s",
+  "it": "MT58"
+ },
+ {
+  "id": 347,
+  "en": "TM59s",
+  "it": "MT59"
+ },
+ {
+  "id": 348,
+  "en": "TM60s",
+  "it": "MT60"
+ },
+ {
+  "id": 349,
+  "en": "TM61s",
+  "it": "MT61"
+ },
+ {
+  "id": 350,
+  "en": "TM62s",
+  "it": "MT62"
+ },
+ {
+  "id": 351,
+  "en": "TM63s",
+  "it": "MT63"
+ },
+ {
+  "id": 352,
+  "en": "TM64s",
+  "it": "MT64"
+ },
+ {
+  "id": 353,
+  "en": "TM65s",
+  "it": "MT65"
+ },
+ {
+  "id": 354,
+  "en": "TM66s",
+  "it": "MT66"
+ },
+ {
+  "id": 355,
+  "en": "TM67s",
+  "it": "MT67"
+ },
+ {
+  "id": 356,
+  "en": "TM68s",
+  "it": "MT68"
+ },
+ {
+  "id": 357,
+  "en": "TM69s",
+  "it": "MT69"
+ },
+ {
+  "id": 358,
+  "en": "TM70s",
+  "it": "MT70"
+ },
+ {
+  "id": 359,
+  "en": "TM71s",
+  "it": "MT71"
+ },
+ {
+  "id": 360,
+  "en": "TM72s",
+  "it": "MT72"
+ },
+ {
+  "id": 361,
+  "en": "TM73s",
+  "it": "MT73"
+ },
+ {
+  "id": 362,
+  "en": "TM74s",
+  "it": "MT74"
+ },
+ {
+  "id": 363,
+  "en": "TM75s",
+  "it": "MT75"
+ },
+ {
+  "id": 364,
+  "en": "TM76s",
+  "it": "MT76"
+ },
+ {
+  "id": 365,
+  "en": "TM77s",
+  "it": "MT77"
+ },
+ {
+  "id": 366,
+  "en": "TM78s",
+  "it": "MT78"
+ },
+ {
+  "id": 367,
+  "en": "TM79s",
+  "it": "MT79"
+ },
+ {
+  "id": 368,
+  "en": "TM80s",
+  "it": "MT80"
+ },
+ {
+  "id": 369,
+  "en": "TM81s",
+  "it": "MT81"
+ },
+ {
+  "id": 370,
+  "en": "TM82s",
+  "it": "MT82"
+ },
+ {
+  "id": 371,
+  "en": "TM83s",
+  "it": "MT83"
+ },
+ {
+  "id": 372,
+  "en": "TM84s",
+  "it": "MT84"
+ },
+ {
+  "id": 373,
+  "en": "TM85s",
+  "it": "MT85"
+ },
+ {
+  "id": 374,
+  "en": "TM86s",
+  "it": "MT86"
+ },
+ {
+  "id": 375,
+  "en": "TM87s",
+  "it": "MT87"
+ },
+ {
+  "id": 376,
+  "en": "TM88s",
+  "it": "MT88"
+ },
+ {
+  "id": 377,
+  "en": "TM89s",
+  "it": "MT89"
+ },
+ {
+  "id": 378,
+  "en": "TM90s",
+  "it": "MT90"
+ },
+ {
+  "id": 379,
+  "en": "TM91s",
+  "it": "MT91"
+ },
+ {
+  "id": 380,
+  "en": "TM92s",
+  "it": "MT92"
+ },
+ {
+  "id": 381,
+  "en": "TM93s",
+  "it": "MT93"
+ },
+ {
+  "id": 382,
+  "en": "TM94s",
+  "it": "MT94"
+ },
+ {
+  "id": 383,
+  "en": "HM01s",
+  "it": "MN01"
+ },
+ {
+  "id": 384,
+  "en": "HM02s",
+  "it": "MN02"
+ },
+ {
+  "id": 385,
+  "en": "HM03s",
+  "it": "MN03"
+ },
+ {
+  "id": 386,
+  "en": "HM04s",
+  "it": "MN04"
+ },
+ {
+  "id": 387,
+  "en": "HM05s",
+  "it": "MN05"
+ },
+ {
+  "id": 388,
+  "en": "HM06s",
+  "it": "MN06"
+ },
+ {
+  "id": 389,
+  "en": "Cheri Berries",
+  "it": "Baccaliegia"
+ },
+ {
+  "id": 390,
+  "en": "Chesto Berries",
+  "it": "Baccastagna"
+ },
+ {
+  "id": 391,
+  "en": "Pecha Berries",
+  "it": "Baccapesca"
+ },
+ {
+  "id": 392,
+  "en": "Rawst Berries",
+  "it": "Baccafrago"
+ },
+ {
+  "id": 393,
+  "en": "Aspear Berries",
+  "it": "Baccaperina"
+ },
+ {
+  "id": 394,
+  "en": "Leppa Berries",
+  "it": "Baccamela"
+ },
+ {
+  "id": 395,
+  "en": "Oran Berries",
+  "it": "Baccarancia"
+ },
+ {
+  "id": 396,
+  "en": "Persim Berries",
+  "it": "Baccaki"
+ },
+ {
+  "id": 397,
+  "en": "Lum Berries",
+  "it": "Baccaprugna"
+ },
+ {
+  "id": 398,
+  "en": "Sitrus Berries",
+  "it": "Baccacedro"
+ },
+ {
+  "id": 399,
+  "en": "Figy Berries",
+  "it": "Baccafico"
+ },
+ {
+  "id": 400,
+  "en": "Wiki Berries",
+  "it": "Baccakiwi"
+ },
+ {
+  "id": 401,
+  "en": "Mago Berries",
+  "it": "Baccamangò"
+ },
+ {
+  "id": 402,
+  "en": "Aguav Berries",
+  "it": "Baccaguava"
+ },
+ {
+  "id": 403,
+  "en": "Iapapa Berries",
+  "it": "Baccapaia"
+ },
+ {
+  "id": 404,
+  "en": "Razz Berries",
+  "it": "Baccalampon"
+ },
+ {
+  "id": 405,
+  "en": "Bluk Berries",
+  "it": "Baccamora"
+ },
+ {
+  "id": 406,
+  "en": "Nanab Berries",
+  "it": "Baccabana"
+ },
+ {
+  "id": 407,
+  "en": "Wepear Berries",
+  "it": "Baccapera"
+ },
+ {
+  "id": 408,
+  "en": "Pinap Berries",
+  "it": "Baccananas"
+ },
+ {
+  "id": 409,
+  "en": "Pomeg Berries",
+  "it": "Baccagrana"
+ },
+ {
+  "id": 410,
+  "en": "Kelpsy Berries",
+  "it": "Baccalga"
+ },
+ {
+  "id": 411,
+  "en": "Qualot Berries",
+  "it": "Baccaloquat"
+ },
+ {
+  "id": 412,
+  "en": "Hondew Berries",
+  "it": "Baccamelon"
+ },
+ {
+  "id": 413,
+  "en": "Grepa Berries",
+  "it": "Baccauva"
+ },
+ {
+  "id": 414,
+  "en": "Tamato Berries",
+  "it": "Baccamodoro"
+ },
+ {
+  "id": 415,
+  "en": "Cornn Berries",
+  "it": "Baccavena"
+ },
+ {
+  "id": 416,
+  "en": "Magost Berries",
+  "it": "Baccagostan"
+ },
+ {
+  "id": 417,
+  "en": "Rabuta Berries",
+  "it": "Baccambutan"
+ },
+ {
+  "id": 418,
+  "en": "Nomel Berries",
+  "it": "Baccalemon"
+ },
+ {
+  "id": 419,
+  "en": "Spelon Berries",
+  "it": "Baccapepe"
+ },
+ {
+  "id": 420,
+  "en": "Pamtre Berries",
+  "it": "Baccapalma"
+ },
+ {
+  "id": 421,
+  "en": "Watmel Berries",
+  "it": "Baccacomero"
+ },
+ {
+  "id": 422,
+  "en": "Durin Berries",
+  "it": "Baccadurian"
+ },
+ {
+  "id": 423,
+  "en": "Belue Berries",
+  "it": "Baccartillo"
+ },
+ {
+  "id": 424,
+  "en": "Occa Berries",
+  "it": "Baccacao"
+ },
+ {
+  "id": 425,
+  "en": "Passho Berries",
+  "it": "Baccapasflo"
+ },
+ {
+  "id": 426,
+  "en": "Wacan Berries",
+  "it": "Baccaparmen"
+ },
+ {
+  "id": 427,
+  "en": "Rindo Berries",
+  "it": "Baccarindo"
+ },
+ {
+  "id": 428,
+  "en": "Yache Berries",
+  "it": "Baccamoya"
+ },
+ {
+  "id": 429,
+  "en": "Chople Berries",
+  "it": "Baccarosmel"
+ },
+ {
+  "id": 430,
+  "en": "Kebia Berries",
+  "it": "Baccakebia"
+ },
+ {
+  "id": 431,
+  "en": "Shuca Berries",
+  "it": "Baccanaca"
+ },
+ {
+  "id": 432,
+  "en": "Coba Berries",
+  "it": "Baccababa"
+ },
+ {
+  "id": 433,
+  "en": "Payapa Berries",
+  "it": "Baccapayapa"
+ },
+ {
+  "id": 434,
+  "en": "Tanga Berries",
+  "it": "Baccaitan"
+ },
+ {
+  "id": 435,
+  "en": "Charti Berries",
+  "it": "Baccaciofo"
+ },
+ {
+  "id": 436,
+  "en": "Kasib Berries",
+  "it": "Baccacitrus"
+ },
+ {
+  "id": 437,
+  "en": "Haban Berries",
+  "it": "Baccahaban"
+ },
+ {
+  "id": 438,
+  "en": "Colbur Berries",
+  "it": "Baccaxan"
+ },
+ {
+  "id": 439,
+  "en": "Babiri Berries",
+  "it": "Baccababiri"
+ },
+ {
+  "id": 440,
+  "en": "Chilan Berries",
+  "it": "Baccacinlan"
+ },
+ {
+  "id": 441,
+  "en": "Liechi Berries",
+  "it": "Baccalici"
+ },
+ {
+  "id": 442,
+  "en": "Ganlon Berries",
+  "it": "Baccalongan"
+ },
+ {
+  "id": 443,
+  "en": "Salac Berries",
+  "it": "Baccasalak"
+ },
+ {
+  "id": 444,
+  "en": "Petaya Berries",
+  "it": "Baccapitaya"
+ },
+ {
+  "id": 445,
+  "en": "Apicot Berries",
+  "it": "Baccaricot"
+ },
+ {
+  "id": 446,
+  "en": "Lansat Berries",
+  "it": "Baccalangsa"
+ },
+ {
+  "id": 447,
+  "en": "Starf Berries",
+  "it": "Baccambola"
+ },
+ {
+  "id": 448,
+  "en": "Enigma Berries",
+  "it": "Baccaenigma"
+ },
+ {
+  "id": 449,
+  "en": "Micle Berries",
+  "it": "Baccacarmo"
+ },
+ {
+  "id": 450,
+  "en": "Custap Berries",
+  "it": "Baccacrela"
+ },
+ {
+  "id": 451,
+  "en": "Jaboca Berries",
+  "it": "Baccajaba"
+ },
+ {
+  "id": 452,
+  "en": "Rowap Berries",
+  "it": "Baccarowap"
+ },
+ {
+  "id": 453,
+  "en": "Boulder Badges",
+  "it": "Medaglie Sasso"
+ },
+ {
+  "id": 454,
+  "en": "Cascade Badges",
+  "it": "Medaglie Cascata"
+ },
+ {
+  "id": 455,
+  "en": "Thunder Badges",
+  "it": "Medaglie Tuono"
+ },
+ {
+  "id": 456,
+  "en": "Rainbow Badges",
+  "it": "Medaglie Arcobaleno"
+ },
+ {
+  "id": 457,
+  "en": "Soul Badges",
+  "it": "Medaglie Anima"
+ },
+ {
+  "id": 458,
+  "en": "Marsh Badges",
+  "it": "Medaglie Palude"
+ },
+ {
+  "id": 459,
+  "en": "Volcano Badges",
+  "it": "Medaglie Vulcano"
+ },
+ {
+  "id": 460,
+  "en": "Earth Badges",
+  "it": "Medaglie Terra"
+ },
+ {
+  "id": 461,
+  "en": "Coral Eye Badges",
+  "it": "Medaglie Occhio di Corallo"
+ },
+ {
+  "id": 462,
+  "en": "Sea Ruby Badges",
+  "it": "Medaglie Rubino Marino"
+ },
+ {
+  "id": 463,
+  "en": "Spike Shell Badges",
+  "it": "Medaglie Conchiglia"
+ },
+ {
+  "id": 464,
+  "en": "Jade Star Badges",
+  "it": "Medaglie Stella di Giada"
+ },
+ {
+  "id": 465,
+  "en": "X Attacks",
+  "it": "Attacchi X"
+ },
+ {
+  "id": 466,
+  "en": "X Attack 2s",
+  "it": "Attacchi X 2"
+ },
+ {
+  "id": 467,
+  "en": "X Attack 3s",
+  "it": "Attacchi X 3"
+ },
+ {
+  "id": 468,
+  "en": "X Attack 6s",
+  "it": "Attacchi X 6"
+ },
+ {
+  "id": 469,
+  "en": "X Defenses",
+  "it": "Difese X"
+ },
+ {
+  "id": 470,
+  "en": "X Defense 2s",
+  "it": "Difese X 2"
+ },
+ {
+  "id": 471,
+  "en": "X Defense 3s",
+  "it": "Difese X 3"
+ },
+ {
+  "id": 472,
+  "en": "X Defense 6s",
+  "it": "Difese X 6"
+ },
+ {
+  "id": 473,
+  "en": "X Sp. Atks",
+  "it": "Att. Speciale X"
+ },
+ {
+  "id": 474,
+  "en": "X Sp. Atk 2s",
+  "it": "Att. Speciale X 2"
+ },
+ {
+  "id": 475,
+  "en": "X Sp. Atk 3s",
+  "it": "Att. Speciale X 3"
+ },
+ {
+  "id": 476,
+  "en": "X Sp. Atk 6s",
+  "it": "Att. Speciale X 6"
+ },
+ {
+  "id": 477,
+  "en": "X Sp. Defs",
+  "it": "Dif. Speciale X"
+ },
+ {
+  "id": 478,
+  "en": "X Sp. Def 2s",
+  "it": "Dif. Speciale X 2"
+ },
+ {
+  "id": 479,
+  "en": "X Sp. Def 3s",
+  "it": "Dif. Speciale X 3"
+ },
+ {
+  "id": 480,
+  "en": "X Sp. Def 6s",
+  "it": "Dif. Speciale X 6"
+ },
+ {
+  "id": 481,
+  "en": "X Speeds",
+  "it": "Velocità X"
+ },
+ {
+  "id": 482,
+  "en": "X Speed 2s",
+  "it": "Velocità X 2"
+ },
+ {
+  "id": 483,
+  "en": "X Speed 3s",
+  "it": "Velocità X 3"
+ },
+ {
+  "id": 484,
+  "en": "X Speed 6s",
+  "it": "Velocità X 6"
+ },
+ {
+  "id": 485,
+  "en": "X Accuracies",
+  "it": "Precisione X"
+ },
+ {
+  "id": 486,
+  "en": "X Accuracy 2s",
+  "it": "Precisione X 2"
+ },
+ {
+  "id": 487,
+  "en": "X Accuracy 3s",
+  "it": "Precisione X 3"
+ },
+ {
+  "id": 488,
+  "en": "X Accuracy 6s",
+  "it": "Precisione X 6"
+ },
+ {
+  "id": 489,
+  "en": "Dire Hits",
+  "it": "Supercolpi"
+ },
+ {
+  "id": 490,
+  "en": "Dire Hit 2s",
+  "it": "Supercolpi 2"
+ },
+ {
+  "id": 491,
+  "en": "Dire Hit 3s",
+  "it": "Supercolpi 3"
+ },
+ {
+  "id": 492,
+  "en": "Guard Specs.",
+  "it": "Superguardie"
+ },
+ {
+  "id": 493,
+  "en": "Reset Urges",
+  "it": "Ripristino"
+ },
+ {
+  "id": 494,
+  "en": "Ability Urges",
+  "it": "Usabilità"
+ },
+ {
+  "id": 495,
+  "en": "Item Urges",
+  "it": "Usastrumento"
+ },
+ {
+  "id": 496,
+  "en": "Item Drops",
+  "it": "Lasciastrumento"
+ },
+ {
+  "id": 497,
+  "en": "Blue Flutes",
+  "it": "Flauti Blu"
+ },
+ {
+  "id": 498,
+  "en": "Yellow Flutes",
+  "it": "Flauti Gialli"
+ },
+ {
+  "id": 499,
+  "en": "Red Flutes",
+  "it": "Flauti Rossi"
+ },
+ {
+  "id": 500,
+  "en": "Poké Dolls",
+  "it": "Poké Bambole"
+ },
+ {
+  "id": 501,
+  "en": "Fluffy Tails",
+  "it": "Code Skitty"
+ },
+ {
+  "id": 502,
+  "en": "Poké Toys",
+  "it": "Poképeluche"
+ },
+ {
+  "id": 503,
+  "en": "Bicycles",
+  "it": "Biciclette"
+ },
+ {
+  "id": 504,
+  "en": "Old Rods",
+  "it": "Ami Vecchi"
+ },
+ {
+  "id": 505,
+  "en": "Good Rods",
+  "it": "Ami Buoni"
+ },
+ {
+  "id": 506,
+  "en": "Super Rods",
+  "it": "Super Ami"
+ },
+ {
+  "id": 507,
+  "en": "Itemfinders",
+  "it": "Cercaoggetti"
+ },
+ {
+  "id": 508,
+  "en": "Dowsing Machines",
+  "it": "Ricerca Strumenti"
+ },
+ {
+  "id": 509,
+  "en": "Poké Radars",
+  "it": "Poké Radar"
+ },
+ {
+  "id": 510,
+  "en": "Town Maps",
+  "it": "Mappe Città"
+ },
+ {
+  "id": 511,
+  "en": "Poké Flutes",
+  "it": "Poké Flauti"
+ },
+ {
+  "id": 512,
+  "en": "Coin Cases",
+  "it": "Salvadanai"
+ },
+ {
+  "id": 513,
+  "en": "Soot Sacks",
+  "it": "Sacchi Cenere"
+ },
+ {
+  "id": 514,
+  "en": "Silph Scopes",
+  "it": "Spettrosonde"
+ },
+ {
+  "id": 515,
+  "en": "Devon Scopes",
+  "it": "Devonscopi"
+ },
+ {
+  "id": 516,
+  "en": "Squirt Bottles",
+  "it": "Spruzzini"
+ },
+ {
+  "id": 517,
+  "en": "Sprayducks",
+  "it": "Sprayduck"
+ },
+ {
+  "id": 518,
+  "en": "Wailmer Pails",
+  "it": "Annaffiatoi"
+ },
+ {
+  "id": 519,
+  "en": "Gracideas",
+  "it": "Gracidee"
+ },
+ {
+  "id": 520,
+  "en": "Aurora Tickets",
+  "it": "Biglietti Aurora"
+ },
+ {
+  "id": 521,
+  "en": "Old Sea Maps",
+  "it": "Mappe Antiche"
+ },
+ {
+  "id": 522,
+  "en": "DNA Splicers",
+  "it": "Cunei DNA"
+ },
+ {
+  "id": 523,
+  "en": "Reveal Glasses",
+  "it": "Verispecchi"
+ },
+ {
+  "id": 524,
+  "en": "Oval Charms",
+  "it": "Ovamuleti"
+ },
+ {
+  "id": 525,
+  "en": "Shiny Charms",
+  "it": "Cromamuleti"
+ },
+ {
+  "id": 526,
+  "en": "Ice Stones",
+  "it": "Pietragelo"
+ },
+ {
+  "id": 527,
+  "en": "Jaw Fossils",
+  "it": "Fossilmascella"
+ },
+ {
+  "id": 528,
+  "en": "Sail Fossils",
+  "it": "Fossilpinna"
+ },
+ {
+  "id": 529,
+  "en": "Red Nectars",
+  "it": "Nettari Rossi"
+ },
+ {
+  "id": 530,
+  "en": "Yellow Nectars",
+  "it": "Nettari Gialli"
+ },
+ {
+  "id": 531,
+  "en": "Pink Nectars",
+  "it": "Nettari Rosa"
+ },
+ {
+  "id": 532,
+  "en": "Purple Nectars",
+  "it": "Nettari Viola"
+ },
+ {
+  "id": 533,
+  "en": "Assault Vests",
+  "it": "Corpetti Assalto"
+ },
+ {
+  "id": 534,
+  "en": "Safety Goggles",
+  "it": "Visierantisabbia"
+ },
+ {
+  "id": 535,
+  "en": "Protective Pads",
+  "it": "Smorzaurti"
+ },
+ {
+  "id": 536,
+  "en": "Terrain Extenders",
+  "it": "Fertilterreno"
+ },
+ {
+  "id": 537,
+  "en": "Electric Seeds",
+  "it": "Elettrosemi"
+ },
+ {
+  "id": 538,
+  "en": "Psychic Seeds",
+  "it": "Psicosemi"
+ },
+ {
+  "id": 539,
+  "en": "Misty Seeds",
+  "it": "Nebbiasemi"
+ },
+ {
+  "id": 540,
+  "en": "Grassy Seeds",
+  "it": "Erbasemi"
+ },
+ {
+  "id": 541,
+  "en": "Luminous Mosses",
+  "it": "Muschioluce"
+ },
+ {
+  "id": 542,
+  "en": "Snowballs",
+  "it": "Palle di Neve"
+ },
+ {
+  "id": 543,
+  "en": "Weakness Policies",
+  "it": "Vulneropolizze"
+ },
+ {
+  "id": 544,
+  "en": "Adrenaline Orbs",
+  "it": "Adrenalsfere"
+ },
+ {
+  "id": 545,
+  "en": "Pixie Plates",
+  "it": "Lastraspiritello"
+ },
+ {
+  "id": 546,
+  "en": "Fairy Gems",
+  "it": "Bijoufolletto"
+ },
+ {
+  "id": 547,
+  "en": "Fire Memories",
+  "it": "ROM Fuoco"
+ },
+ {
+  "id": 548,
+  "en": "Water Memories",
+  "it": "ROM Acqua"
+ },
+ {
+  "id": 549,
+  "en": "Electric Memories",
+  "it": "ROM Elettro"
+ },
+ {
+  "id": 550,
+  "en": "Grass Memories",
+  "it": "ROM Erba"
+ },
+ {
+  "id": 551,
+  "en": "Ice Memories",
+  "it": "ROM Ghiaccio"
+ },
+ {
+  "id": 552,
+  "en": "Fighting Memories",
+  "it": "ROM Lotta"
+ },
+ {
+  "id": 553,
+  "en": "Poison Memories",
+  "it": "ROM Veleno"
+ },
+ {
+  "id": 554,
+  "en": "Ground Memories",
+  "it": "ROM Terra"
+ },
+ {
+  "id": 555,
+  "en": "Flying Memories",
+  "it": "ROM Volante"
+ },
+ {
+  "id": 556,
+  "en": "Psychic Memories",
+  "it": "ROM Psico"
+ },
+ {
+  "id": 557,
+  "en": "Bug Memories",
+  "it": "ROM Coleottero"
+ },
+ {
+  "id": 558,
+  "en": "Rock Memories",
+  "it": "ROM Roccia"
+ },
+ {
+  "id": 559,
+  "en": "Ghost Memories",
+  "it": "ROM Spettro"
+ },
+ {
+  "id": 560,
+  "en": "Dragon Memories",
+  "it": "ROM Drago"
+ },
+ {
+  "id": 561,
+  "en": "Dark Memories",
+  "it": "ROM Buio"
+ },
+ {
+  "id": 562,
+  "en": "Steel Memories",
+  "it": "ROM Acciaio"
+ },
+ {
+  "id": 563,
+  "en": "Fairy Memories",
+  "it": "ROM Folletto"
+ },
+ {
+  "id": 564,
+  "en": "Venusaurites",
+  "it": "Venusaurite"
+ },
+ {
+  "id": 565,
+  "en": "Charizardite Xs",
+  "it": "Charizardite X"
+ },
+ {
+  "id": 566,
+  "en": "Charizardite Ys",
+  "it": "Charizardite Y"
+ },
+ {
+  "id": 567,
+  "en": "Blastoisinites",
+  "it": "Blastoisite"
+ },
+ {
+  "id": 568,
+  "en": "Beedrillites",
+  "it": "Beedrillite"
+ },
+ {
+  "id": 569,
+  "en": "Pidgeotites",
+  "it": "Pidgeottite"
+ },
+ {
+  "id": 570,
+  "en": "Alakazites",
+  "it": "Alakazamite"
+ },
+ {
+  "id": 571,
+  "en": "Slowbronites",
+  "it": "Slowbronite"
+ },
+ {
+  "id": 572,
+  "en": "Gengarites",
+  "it": "Gengarite"
+ },
+ {
+  "id": 573,
+  "en": "Kangaskhanites",
+  "it": "Kangaskhanite"
+ },
+ {
+  "id": 574,
+  "en": "Pinsirites",
+  "it": "Pinsirite"
+ },
+ {
+  "id": 575,
+  "en": "Gyaradosites",
+  "it": "Gyaradosite"
+ },
+ {
+  "id": 576,
+  "en": "Aerodactylites",
+  "it": "Aerodactylite"
+ },
+ {
+  "id": 577,
+  "en": "Mewtwonite Xs",
+  "it": "Mewtwoite X"
+ },
+ {
+  "id": 578,
+  "en": "Mewtwonite Ys",
+  "it": "Mewtwoite Y"
+ },
+ {
+  "id": 579,
+  "en": "Ampharosites",
+  "it": "Ampharosite"
+ },
+ {
+  "id": 580,
+  "en": "Steelixites",
+  "it": "Steelixite"
+ },
+ {
+  "id": 581,
+  "en": "Scizorites",
+  "it": "Scizorite"
+ },
+ {
+  "id": 582,
+  "en": "Heracronites",
+  "it": "Heracrossite"
+ },
+ {
+  "id": 583,
+  "en": "Houndoominites",
+  "it": "Houndoomite"
+ },
+ {
+  "id": 584,
+  "en": "Tyranitarites",
+  "it": "Tyranitarite"
+ },
+ {
+  "id": 585,
+  "en": "Sceptilites",
+  "it": "Sceptilite"
+ },
+ {
+  "id": 586,
+  "en": "Blazikenites",
+  "it": "Blazikenite"
+ },
+ {
+  "id": 587,
+  "en": "Swampertites",
+  "it": "Swampertite"
+ },
+ {
+  "id": 588,
+  "en": "Gardevoirites",
+  "it": "Gardevoirite"
+ },
+ {
+  "id": 589,
+  "en": "Sablenites",
+  "it": "Sableyite"
+ },
+ {
+  "id": 590,
+  "en": "Mawilites",
+  "it": "Mawilite"
+ },
+ {
+  "id": 591,
+  "en": "Aggronites",
+  "it": "Aggronite"
+ },
+ {
+  "id": 592,
+  "en": "Medichamites",
+  "it": "Medichamite"
+ },
+ {
+  "id": 593,
+  "en": "Manectites",
+  "it": "Manectricite"
+ },
+ {
+  "id": 594,
+  "en": "Sharpedonites",
+  "it": "Sharpedite"
+ },
+ {
+  "id": 595,
+  "en": "Cameruptites",
+  "it": "Cameruptite"
+ },
+ {
+  "id": 596,
+  "en": "Altarianites",
+  "it": "Altarite"
+ },
+ {
+  "id": 597,
+  "en": "Banettites",
+  "it": "Banettite"
+ },
+ {
+  "id": 598,
+  "en": "Absolites",
+  "it": "Absolite"
+ },
+ {
+  "id": 599,
+  "en": "Glalitites",
+  "it": "Glalite"
+ },
+ {
+  "id": 600,
+  "en": "Salamencites",
+  "it": "Salamencite"
+ },
+ {
+  "id": 601,
+  "en": "Metagrossites",
+  "it": "Metagrossite"
+ },
+ {
+  "id": 602,
+  "en": "Latiasites",
+  "it": "Latiasite"
+ },
+ {
+  "id": 603,
+  "en": "Latiosites",
+  "it": "Latiosite"
+ },
+ {
+  "id": 604,
+  "en": "Lopunnites",
+  "it": "Lopunnite"
+ },
+ {
+  "id": 605,
+  "en": "Garchompites",
+  "it": "Garchompite"
+ },
+ {
+  "id": 606,
+  "en": "Lucarionites",
+  "it": "Lucarite"
+ },
+ {
+  "id": 607,
+  "en": "Abomasites",
+  "it": "Abomasnowite"
+ },
+ {
+  "id": 608,
+  "en": "Galladites",
+  "it": "Galladite"
+ },
+ {
+  "id": 609,
+  "en": "Audinites",
+  "it": "Audinite"
+ },
+ {
+  "id": 610,
+  "en": "Diancites",
+  "it": "Diancite"
+ },
+ {
+  "id": 611,
+  "en": "Red Orbs",
+  "it": "Sfere Rosse"
+ },
+ {
+  "id": 612,
+  "en": "Blue Orbs",
+  "it": "Sfere Blu"
+ },
+ {
+  "id": 613,
+  "en": "Whipped Dreams",
+  "it": "Dolcespume"
+ },
+ {
+  "id": 614,
+  "en": "Sachets",
+  "it": "Bustine Aromi"
+ },
+ {
+  "id": 615,
+  "en": "Lumiose Galettes",
+  "it": "Gallette Luminopoli"
+ },
+ {
+  "id": 616,
+  "en": "Shalour Sables",
+  "it": "Sablé di Yantaropoli"
+ },
+ {
+  "id": 617,
+  "en": "Big Malasadas",
+  "it": "Malasade Giganti"
+ },
+ {
+  "id": 618,
+  "en": "Ability Capsule",
+  "it": "Capsule Abilità"
+ },
+ {
+  "id": 619,
+  "en": "Dream Balls",
+  "it": "Dream Ball"
+ },
+ {
+  "id": 620,
+  "en": "Beast Balls",
+  "it": "Beast Ball"
+ },
+ {
+  "id": 621,
+  "en": "TM95s",
+  "it": "MT95"
+ },
+ {
+  "id": 622,
+  "en": "TM96s",
+  "it": "MT96"
+ },
+ {
+  "id": 623,
+  "en": "TM97s",
+  "it": "MT97"
+ },
+ {
+  "id": 624,
+  "en": "TM98s",
+  "it": "MT98"
+ },
+ {
+  "id": 625,
+  "en": "TM99s",
+  "it": "MT99"
+ },
+ {
+  "id": 626,
+  "en": "Roseli Berries",
+  "it": "Baccarcadè"
+ },
+ {
+  "id": 627,
+  "en": "Kee Berries",
+  "it": "Baccalighia"
+ },
+ {
+  "id": 628,
+  "en": "Maranga Berries",
+  "it": "Baccapane"
+ },
+ {
+  "id": 629,
+  "en": "Sprinklotads",
+  "it": "Sprinklotad"
+ },
+ {
+  "id": 630,
+  "en": "Prison Bottles",
+  "it": "Vasi del Vincolo"
+ },
+ {
+  "id": 631,
+  "en": "N-Solarizers",
+  "it": "Necrosol"
+ },
+ {
+  "id": 632,
+  "en": "N-Lunarizers",
+  "it": "Necroluna"
+ },
+ {
+  "id": 633,
+  "en": "Mega Rings",
+  "it": "Megacerchi"
+ },
+ {
+  "id": 634,
+  "en": "Bottle Caps",
+  "it": "Tappi d'Argento"
+ },
+ {
+  "id": 635,
+  "en": "Gold Bottle Caps",
+  "it": "Tappi d'Oro"
+ },
+ {
+  "id": 636,
+  "en": "Lonely Mints",
+  "it": "Mente Schive"
+ },
+ {
+  "id": 637,
+  "en": "Adamant Mints",
+  "it": "Mente Decise"
+ },
+ {
+  "id": 638,
+  "en": "Naughty Mints",
+  "it": "Mente Birbone"
+ },
+ {
+  "id": 639,
+  "en": "Brave Mints",
+  "it": "Mente Audaci"
+ },
+ {
+  "id": 640,
+  "en": "Bold Mints",
+  "it": "Mente Sicure"
+ },
+ {
+  "id": 641,
+  "en": "Impish Mints",
+  "it": "Mente Scaltre"
+ },
+ {
+  "id": 642,
+  "en": "Lax Mints",
+  "it": "Mente Fiacche"
+ },
+ {
+  "id": 643,
+  "en": "Relaxed Mints",
+  "it": "Mente Placide"
+ },
+ {
+  "id": 644,
+  "en": "Modest Mints",
+  "it": "Mente Modeste"
+ },
+ {
+  "id": 645,
+  "en": "Mild Mints",
+  "it": "Mente Miti"
+ },
+ {
+  "id": 646,
+  "en": "Rash Mints",
+  "it": "Mente Ardenti"
+ },
+ {
+  "id": 647,
+  "en": "Quiet Mints",
+  "it": "Mente Quiete"
+ },
+ {
+  "id": 648,
+  "en": "Calm Mints",
+  "it": "Mente Calme"
+ },
+ {
+  "id": 649,
+  "en": "Gentle Mints",
+  "it": "Mente Gentili"
+ },
+ {
+  "id": 650,
+  "en": "Careful Mints",
+  "it": "Mente Caute"
+ },
+ {
+  "id": 651,
+  "en": "Sassy Mints",
+  "it": "Mente Vivaci"
+ },
+ {
+  "id": 652,
+  "en": "Timid Mints",
+  "it": "Mente Timide"
+ },
+ {
+  "id": 653,
+  "en": "Hasty Mints",
+  "it": "Mente Leste"
+ },
+ {
+  "id": 654,
+  "en": "Jolly Mints",
+  "it": "Mente Allegre"
+ },
+ {
+  "id": 655,
+  "en": "Naive Mints",
+  "it": "Mente Ingenue"
+ },
+ {
+  "id": 656,
+  "en": "Serious Mints",
+  "it": "Mente Serie"
+ },
+ {
+  "id": 657,
+  "en": "Blunder Policy",
+  "it": "Fiascopolizze"
+ },
+ {
+  "id": 658,
+  "en": "Eject Packs",
+  "it": "Pacchi Fuga"
+ },
+ {
+  "id": 659,
+  "en": "Heavy-Duty Boots",
+  "it": "Scarponi Robusti"
+ },
+ {
+  "id": 660,
+  "en": "Room Services",
+  "it": "Servizi Stanza"
+ },
+ {
+  "id": 661,
+  "en": "Throat Sprays",
+  "it": "Spray Gola"
+ },
+ {
+  "id": 662,
+  "en": "Utility Umbrellas",
+  "it": "Ombrelli Sicuri"
+ },
+ {
+  "id": 663,
+  "en": "Exp. Candies XS",
+  "it": "Caramelle Esp. XS"
+ },
+ {
+  "id": 664,
+  "en": "Exp. Candies S",
+  "it": "Caramelle Esp. S"
+ },
+ {
+  "id": 665,
+  "en": "Exp. Candies M",
+  "it": "Caramelle Esp. M"
+ },
+ {
+  "id": 666,
+  "en": "Exp. Candies L",
+  "it": "Caramelle Esp. L"
+ },
+ {
+  "id": 667,
+  "en": "Exp. Candies XL",
+  "it": "Caramelle Esp. XL"
+ },
+ {
+  "id": 668,
+  "en": "Ability Patches",
+  "it": "Cerotti Abilità"
+ },
+ {
+  "id": 669,
+  "en": "Pewter Crunchies",
+  "it": "Croccanti Plumbeopoli"
+ },
+ {
+  "id": 670,
+  "en": "Max Honey",
+  "it": "Miele Max"
+ },
+ {
+  "id": 671,
+  "en": "Max Mushrooms",
+  "it": "Funghi Dynamax"
+ },
+ {
+  "id": 672,
+  "en": "Galarica Cuffs",
+  "it": "Bracciali Galarnoce"
+ },
+ {
+  "id": 673,
+  "en": "Galarica Wreaths",
+  "it": "Ghirlande Galarnoce"
+ },
+ {
+  "id": 674,
+  "en": "Meltan Candies",
+  "it": "Caramelle Meltan"
+ },
+ {
+  "id": 675,
+  "en": "Sweet Apples",
+  "it": "Mele Dolci"
+ },
+ {
+  "id": 676,
+  "en": "Tart Apples",
+  "it": "Mele Aspre"
+ },
+ {
+  "id": 677,
+  "en": "Cracked Pot",
+  "it": "Teiere Rotte"
+ },
+ {
+  "id": 678,
+  "en": "Chipped Pots",
+  "it": "Teiere Crepate"
+ },
+ {
+  "id": 679,
+  "en": "Strawberry Sweets",
+  "it": "Bonbon Fragola"
+ },
+ {
+  "id": 680,
+  "en": "Love Sweets",
+  "it": "Bonbon Cuore"
+ },
+ {
+  "id": 681,
+  "en": "Berry Sweets",
+  "it": "Bonbon Bacca"
+ },
+ {
+  "id": 682,
+  "en": "Clover Sweets",
+  "it": "Bonbon Trifoglio"
+ },
+ {
+  "id": 683,
+  "en": "Flower Sweets",
+  "it": "Bonbon Fiore"
+ },
+ {
+  "id": 684,
+  "en": "Star Sweets",
+  "it": "Bonbon Stella"
+ },
+ {
+  "id": 685,
+  "en": "Ribbon Sweets",
+  "it": "Bonbon Fiocco"
+ },
+ {
+  "id": 686,
+  "en": "Fossilized Birds",
+  "it": "Fossiluccelli"
+ },
+ {
+  "id": 687,
+  "en": "Fossilized Fishes",
+  "it": "Fossilpesci"
+ },
+ {
+  "id": 688,
+  "en": "Fossilized Drakes",
+  "it": "Fossildraghi"
+ },
+ {
+  "id": 689,
+  "en": "Fossilized Dinos",
+  "it": "Fossilsauri"
+ },
+ {
+  "id": 690,
+  "en": "Rusted Shields",
+  "it": "Scudi Rovinati"
+ },
+ {
+  "id": 691,
+  "en": "Rusted Swords",
+  "it": "Spade Rovinate"
+ },
+ {
+  "id": 692,
+  "en": "Reins of Unity",
+  "it": "Briglie Legame"
+ },
+ {
+  "id": 693,
+  "en": "Rotom Catalogues",
+  "it": "Cataloghi Rotom"
+ },
+ {
+  "id": 694,
+  "en": "EXP Charms",
+  "it": "Esperienzamuleti"
+ },
+ {
+  "id": 695,
+  "en": "Catching Charms",
+  "it": "Catturamuleti"
+ },
+ {
+  "id": 696,
+  "en": "Escape Ropes",
+  "it": "Funi di Fuga"
+ },
+ {
+  "id": 697,
+  "en": "Pokémon Box Links",
+  "it": "Link Box Pokémon"
+ },
+ {
+  "id": 698,
+  "en": "TR00s",
+  "it": "DT00"
+ },
+ {
+  "id": 699,
+  "en": "TR01s",
+  "it": "DT01"
+ },
+ {
+  "id": 700,
+  "en": "TR02s",
+  "it": "DT02"
+ },
+ {
+  "id": 701,
+  "en": "TR03s",
+  "it": "DT03"
+ },
+ {
+  "id": 702,
+  "en": "TR04s",
+  "it": "DT04"
+ },
+ {
+  "id": 703,
+  "en": "TR05s",
+  "it": "DT05"
+ },
+ {
+  "id": 704,
+  "en": "TR06s",
+  "it": "DT06"
+ },
+ {
+  "id": 705,
+  "en": "TR07s",
+  "it": "DT07"
+ },
+ {
+  "id": 706,
+  "en": "TR08s",
+  "it": "DT08"
+ },
+ {
+  "id": 707,
+  "en": "TR09s",
+  "it": "DT09"
+ },
+ {
+  "id": 708,
+  "en": "TR10s",
+  "it": "DT10"
+ },
+ {
+  "id": 709,
+  "en": "TR11s",
+  "it": "DT11"
+ },
+ {
+  "id": 710,
+  "en": "TR12s",
+  "it": "DT12"
+ },
+ {
+  "id": 711,
+  "en": "TR13s",
+  "it": "DT13"
+ },
+ {
+  "id": 712,
+  "en": "TR14s",
+  "it": "DT14"
+ },
+ {
+  "id": 713,
+  "en": "TR15s",
+  "it": "DT15"
+ },
+ {
+  "id": 714,
+  "en": "TR16s",
+  "it": "DT16"
+ },
+ {
+  "id": 715,
+  "en": "TR17s",
+  "it": "DT17"
+ },
+ {
+  "id": 716,
+  "en": "TR18s",
+  "it": "DT18"
+ },
+ {
+  "id": 717,
+  "en": "TR19s",
+  "it": "DT19"
+ },
+ {
+  "id": 718,
+  "en": "TR20s",
+  "it": "DT20"
+ },
+ {
+  "id": 719,
+  "en": "TR21s",
+  "it": "DT21"
+ },
+ {
+  "id": 720,
+  "en": "TR22s",
+  "it": "DT22"
+ },
+ {
+  "id": 721,
+  "en": "TR23s",
+  "it": "DT23"
+ },
+ {
+  "id": 722,
+  "en": "TR24s",
+  "it": "DT24"
+ },
+ {
+  "id": 723,
+  "en": "TR25s",
+  "it": "DT25"
+ },
+ {
+  "id": 724,
+  "en": "TR26s",
+  "it": "DT26"
+ },
+ {
+  "id": 725,
+  "en": "TR27s",
+  "it": "DT27"
+ },
+ {
+  "id": 726,
+  "en": "TR28s",
+  "it": "DT28"
+ },
+ {
+  "id": 727,
+  "en": "TR29s",
+  "it": "DT29"
+ },
+ {
+  "id": 728,
+  "en": "TR30s",
+  "it": "DT30"
+ },
+ {
+  "id": 729,
+  "en": "TR31s",
+  "it": "DT31"
+ },
+ {
+  "id": 730,
+  "en": "TR32s",
+  "it": "DT32"
+ },
+ {
+  "id": 731,
+  "en": "TR33s",
+  "it": "DT33"
+ },
+ {
+  "id": 732,
+  "en": "TR34s",
+  "it": "DT34"
+ },
+ {
+  "id": 733,
+  "en": "TR35s",
+  "it": "DT35"
+ },
+ {
+  "id": 734,
+  "en": "TR36s",
+  "it": "DT36"
+ },
+ {
+  "id": 735,
+  "en": "TR37s",
+  "it": "DT37"
+ },
+ {
+  "id": 736,
+  "en": "TR38s",
+  "it": "DT38"
+ },
+ {
+  "id": 737,
+  "en": "TR39s",
+  "it": "DT39"
+ },
+ {
+  "id": 738,
+  "en": "TR40s",
+  "it": "DT40"
+ },
+ {
+  "id": 739,
+  "en": "TR41s",
+  "it": "DT41"
+ },
+ {
+  "id": 740,
+  "en": "TR42s",
+  "it": "DT42"
+ },
+ {
+  "id": 741,
+  "en": "TR43s",
+  "it": "DT43"
+ },
+ {
+  "id": 742,
+  "en": "TR44s",
+  "it": "DT44"
+ },
+ {
+  "id": 743,
+  "en": "TR45s",
+  "it": "DT45"
+ },
+ {
+  "id": 744,
+  "en": "TR46s",
+  "it": "DT46"
+ },
+ {
+  "id": 745,
+  "en": "TR47s",
+  "it": "DT47"
+ },
+ {
+  "id": 746,
+  "en": "TR48s",
+  "it": "DT48"
+ },
+ {
+  "id": 747,
+  "en": "TR49s",
+  "it": "DT49"
+ },
+ {
+  "id": 748,
+  "en": "TR50s",
+  "it": "DT50"
+ },
+ {
+  "id": 749,
+  "en": "TR51s",
+  "it": "DT51"
+ },
+ {
+  "id": 750,
+  "en": "TR52s",
+  "it": "DT52"
+ },
+ {
+  "id": 751,
+  "en": "TR53s",
+  "it": "DT53"
+ },
+ {
+  "id": 752,
+  "en": "TR54s",
+  "it": "DT54"
+ },
+ {
+  "id": 753,
+  "en": "TR55s",
+  "it": "DT55"
+ },
+ {
+  "id": 754,
+  "en": "TR56s",
+  "it": "DT56"
+ },
+ {
+  "id": 755,
+  "en": "TR57s",
+  "it": "DT57"
+ },
+ {
+  "id": 756,
+  "en": "TR58s",
+  "it": "DT58"
+ },
+ {
+  "id": 757,
+  "en": "TR59s",
+  "it": "DT59"
+ },
+ {
+  "id": 758,
+  "en": "TR60s",
+  "it": "DT60"
+ },
+ {
+  "id": 759,
+  "en": "TR61s",
+  "it": "DT61"
+ },
+ {
+  "id": 760,
+  "en": "TR62s",
+  "it": "DT62"
+ },
+ {
+  "id": 761,
+  "en": "TR63s",
+  "it": "DT63"
+ },
+ {
+  "id": 762,
+  "en": "TR64s",
+  "it": "DT64"
+ },
+ {
+  "id": 763,
+  "en": "TR65s",
+  "it": "DT65"
+ },
+ {
+  "id": 764,
+  "en": "TR66s",
+  "it": "DT66"
+ },
+ {
+  "id": 765,
+  "en": "TR67s",
+  "it": "DT67"
+ },
+ {
+  "id": 766,
+  "en": "TR68s",
+  "it": "DT68"
+ },
+ {
+  "id": 767,
+  "en": "TR69s",
+  "it": "DT69"
+ },
+ {
+  "id": 768,
+  "en": "TR70s",
+  "it": "DT70"
+ },
+ {
+  "id": 769,
+  "en": "TR71s",
+  "it": "DT71"
+ },
+ {
+  "id": 770,
+  "en": "TR72s",
+  "it": "DT72"
+ },
+ {
+  "id": 771,
+  "en": "TR73s",
+  "it": "DT73"
+ },
+ {
+  "id": 772,
+  "en": "TR74s",
+  "it": "DT74"
+ },
+ {
+  "id": 773,
+  "en": "TR75s",
+  "it": "DT75"
+ },
+ {
+  "id": 774,
+  "en": "TR76s",
+  "it": "DT76"
+ },
+ {
+  "id": 775,
+  "en": "TR77s",
+  "it": "DT77"
+ },
+ {
+  "id": 776,
+  "en": "TR78s",
+  "it": "DT78"
+ },
+ {
+  "id": 777,
+  "en": "TR79s",
+  "it": "DT79"
+ },
+ {
+  "id": 778,
+  "en": "TR80s",
+  "it": "DT80"
+ },
+ {
+  "id": 779,
+  "en": "TR81s",
+  "it": "DT81"
+ },
+ {
+  "id": 780,
+  "en": "TR82s",
+  "it": "DT82"
+ },
+ {
+  "id": 781,
+  "en": "TR83s",
+  "it": "DT83"
+ },
+ {
+  "id": 782,
+  "en": "TR84s",
+  "it": "DT84"
+ },
+ {
+  "id": 783,
+  "en": "TR85s",
+  "it": "DT85"
+ },
+ {
+  "id": 784,
+  "en": "TR86s",
+  "it": "DT86"
+ },
+ {
+  "id": 785,
+  "en": "TR87s",
+  "it": "DT87"
+ },
+ {
+  "id": 786,
+  "en": "TR88s",
+  "it": "DT88"
+ },
+ {
+  "id": 787,
+  "en": "TR89s",
+  "it": "DT89"
+ },
+ {
+  "id": 788,
+  "en": "TR90s",
+  "it": "DT90"
+ },
+ {
+  "id": 789,
+  "en": "TR91s",
+  "it": "DT91"
+ },
+ {
+  "id": 790,
+  "en": "TR92s",
+  "it": "DT92"
+ },
+ {
+  "id": 791,
+  "en": "TR93s",
+  "it": "DT93"
+ },
+ {
+  "id": 792,
+  "en": "TR94s",
+  "it": "DT94"
+ },
+ {
+  "id": 793,
+  "en": "TR95s",
+  "it": "DT95"
+ },
+ {
+  "id": 794,
+  "en": "TR96s",
+  "it": "DT96"
+ },
+ {
+  "id": 795,
+  "en": "TR97s",
+  "it": "DT97"
+ },
+ {
+  "id": 796,
+  "en": "TR98s",
+  "it": "DT98"
+ },
+ {
+  "id": 797,
+  "en": "TR99s",
+  "it": "DT99"
+ },
+ {
+  "id": 798,
+  "en": "Vermilion Tickets",
+  "it": "Biglietti Aranciopoli"
+ },
+ {
+  "id": 799,
+  "en": "GS Balls",
+  "it": "GS Ball"
+ },
+ {
+  "id": 800,
+  "en": "Secret Potions",
+  "it": "Pozioni Segrete"
+ },
+ {
+  "id": 801,
+  "en": "Eggs",
+  "it": "Uova"
+ },
+ {
+  "id": 802,
+  "en": "Kantonian Badges",
+  "it": "Medaglie di Kanto"
+ },
+ {
+  "id": 803,
+  "en": "Frontier Passes",
+  "it": "Pass Lotta"
+ },
+ {
+  "id": 804,
+  "en": "Contest Passes",
+  "it": "Tessere Gare"
+ },
+ {
+  "id": 805,
+  "en": "Zephyr Badges",
+  "it": "Medaglie Zefiro"
+ },
+ {
+  "id": 806,
+  "en": "Hive Badges",
+  "it": "Medaglie Alveare"
+ },
+ {
+  "id": 807,
+  "en": "Plain Badges",
+  "it": "Medaglie Piana"
+ },
+ {
+  "id": 808,
+  "en": "Fog Badges",
+  "it": "Medaglie Nebbia"
+ },
+ {
+  "id": 809,
+  "en": "Storm Badges",
+  "it": "Medaglie Tempesta"
+ },
+ {
+  "id": 810,
+  "en": "Mineral Badges",
+  "it": "Medaglie Minerale"
+ },
+ {
+  "id": 811,
+  "en": "Glacier Badges",
+  "it": "Medaglie Gelo"
+ },
+ {
+  "id": 812,
+  "en": "Rising Badges",
+  "it": "Medaglie Levante"
+ },
+ {
+  "id": 813,
+  "en": "Stone Badges",
+  "it": "Medaglie Pietra"
+ },
+ {
+  "id": 814,
+  "en": "Knuckle Badges",
+  "it": "Medaglie Pugno"
+ },
+ {
+  "id": 815,
+  "en": "Dynamo Badges",
+  "it": "Medaglie Dinamo"
+ },
+ {
+  "id": 816,
+  "en": "Heat Badges",
+  "it": "Medaglie Calore"
+ },
+ {
+  "id": 817,
+  "en": "Balance Badges",
+  "it": "Medaglie Equilibrio"
+ },
+ {
+  "id": 818,
+  "en": "Feather Badges",
+  "it": "Medaglie Piuma"
+ },
+ {
+  "id": 819,
+  "en": "Mind Badges",
+  "it": "Medaglie Mente"
+ },
+ {
+  "id": 820,
+  "en": "Rain Badges",
+  "it": "Medaglie Pioggia"
+ },
+ {
+  "id": 821,
+  "en": "Coal Badges",
+  "it": "Medaglie Carbone"
+ },
+ {
+  "id": 822,
+  "en": "Forest Badges",
+  "it": "Medaglie Foresta"
+ },
+ {
+  "id": 823,
+  "en": "Cobble Badges",
+  "it": "Medaglie Lastra"
+ },
+ {
+  "id": 824,
+  "en": "Fen Badges",
+  "it": "Medaglie Pantano"
+ },
+ {
+  "id": 825,
+  "en": "Relic Badges",
+  "it": "Medaglie Reliquia"
+ },
+ {
+  "id": 826,
+  "en": "Mine Badges",
+  "it": "Medaglie Miniera"
+ },
+ {
+  "id": 827,
+  "en": "Icicle Badges",
+  "it": "Medaglie Ghiacciolo"
+ },
+ {
+  "id": 828,
+  "en": "Beacon Badges",
+  "it": "Medaglie Faro"
+ },
+ {
+  "id": 829,
+  "en": "Trio Badges",
+  "it": "Medaglie Trio"
+ },
+ {
+  "id": 830,
+  "en": "Basic Badges",
+  "it": "Medaglie Base"
+ },
+ {
+  "id": 831,
+  "en": "Insect Badges",
+  "it": "Medaglie Insetto"
+ },
+ {
+  "id": 832,
+  "en": "Bolt Badges",
+  "it": "Medaglie Fulmine"
+ },
+ {
+  "id": 833,
+  "en": "Quake Badges",
+  "it": "Medaglie Sisma"
+ },
+ {
+  "id": 834,
+  "en": "Jet Badges",
+  "it": "Medaglie Jet"
+ },
+ {
+  "id": 835,
+  "en": "Freeze Badges",
+  "it": "Medaglie Ghiaccio"
+ },
+ {
+  "id": 836,
+  "en": "Toxic Badges",
+  "it": "Medaglie Tossina"
+ },
+ {
+  "id": 837,
+  "en": "Bug Badges",
+  "it": "Medaglie Coleottero"
+ },
+ {
+  "id": 838,
+  "en": "Cliff Badges",
+  "it": "Medaglie Scogliera"
+ },
+ {
+  "id": 839,
+  "en": "Rumble Badges",
+  "it": "Medaglie Lotta"
+ },
+ {
+  "id": 840,
+  "en": "Plant Badges",
+  "it": "Medaglie Pianta"
+ },
+ {
+  "id": 841,
+  "en": "Voltage Badges",
+  "it": "Medaglie Voltaggio"
+ },
+ {
+  "id": 842,
+  "en": "Fairy Badges",
+  "it": "Medaglie Folletto"
+ },
+ {
+  "id": 843,
+  "en": "Psychic Badges",
+  "it": "Medaglie Psiche"
+ },
+ {
+  "id": 844,
+  "en": "Iceberg Badges",
+  "it": "Medaglie Iceberg"
+ },
+ {
+  "id": 845,
+  "en": "Knowledge Symbols",
+  "it": "Simboli Sapere"
+ },
+ {
+  "id": 846,
+  "en": "Guts Symbols",
+  "it": "Simboli Grinta"
+ },
+ {
+  "id": 847,
+  "en": "Tactics Symbols",
+  "it": "Simboli Tattica"
+ },
+ {
+  "id": 848,
+  "en": "Luck Symbols",
+  "it": "Simboli Fortuna"
+ },
+ {
+  "id": 849,
+  "en": "Spirits Symbols",
+  "it": "Simboli Spirito"
+ },
+ {
+  "id": 850,
+  "en": "Ability Symbols",
+  "it": "Simboli Abilità"
+ },
+ {
+  "id": 851,
+  "en": "Brave Symbols",
+  "it": "Simboli Audacia"
+ },
+ {
+  "id": 852,
+  "en": "Rocket Balls",
+  "it": "Rocket Ball"
+ },
+ {
+  "id": 853,
+  "en": "Z-Rings",
+  "it": "Cerchi Z"
+ },
+ {
+  "id": 854,
+  "en": "Z-Power Rings",
+  "it": "Cerchi Z"
+ },
+ {
+  "id": 855,
+  "en": "Dynamax Bands",
+  "it": "Polsini Dynamax"
+ },
+ {
+  "id": 891,
+  "en": "Wishing Pieces",
+  "it": "Pezzi Desiderio"
+ },
+ {
+  "id": 892,
+  "en": "Dynamax Candies",
+  "it": "Caramelle Dynamax"
+ },
+ {
+  "id": 893,
+  "en": "Dynamax Candies XL",
+  "it": "Caramelle Dynamax XL"
+ },
+ {
+  "id": 894,
+  "en": "Max Soups",
+  "it": "Zuppe Max"
+ },
+ {
+  "id": 897,
+  "en": "Max Plumages",
+  "it": "Piumaggi Max"
+ },
+ {
+  "id": 898,
+  "en": "Max Crystals",
+  "it": "Cristalli Max"
+ },
+ {
+  "id": 950,
+  "en": "TM100s",
+  "it": "MT100"
+ },
+ {
+  "id": 951,
+  "en": "TM101s",
+  "it": "MT101"
+ },
+ {
+  "id": 952,
+  "en": "TM102s",
+  "it": "MT102"
+ },
+ {
+  "id": 953,
+  "en": "TM103s",
+  "it": "MT103"
+ },
+ {
+  "id": 954,
+  "en": "TM104s",
+  "it": "MT104"
+ },
+ {
+  "id": 955,
+  "en": "TM105s",
+  "it": "MT105"
+ },
+ {
+  "id": 956,
+  "en": "TM106s",
+  "it": "MT106"
+ },
+ {
+  "id": 957,
+  "en": "TM107s",
+  "it": "MT107"
+ },
+ {
+  "id": 958,
+  "en": "TM108s",
+  "it": "MT108"
+ },
+ {
+  "id": 959,
+  "en": "TM109s",
+  "it": "MT109"
+ },
+ {
+  "id": 960,
+  "en": "TM110s",
+  "it": "MT110"
+ },
+ {
+  "id": 961,
+  "en": "TM111s",
+  "it": "MT111"
+ },
+ {
+  "id": 962,
+  "en": "TM112s",
+  "it": "MT112"
+ },
+ {
+  "id": 963,
+  "en": "TM113s",
+  "it": "MT113"
+ },
+ {
+  "id": 964,
+  "en": "TM114s",
+  "it": "MT114"
+ },
+ {
+  "id": 965,
+  "en": "TM115s",
+  "it": "MT115"
+ },
+ {
+  "id": 966,
+  "en": "TM116s",
+  "it": "MT116"
+ },
+ {
+  "id": 967,
+  "en": "TM117s",
+  "it": "MT117"
+ },
+ {
+  "id": 968,
+  "en": "TM118s",
+  "it": "MT118"
+ },
+ {
+  "id": 969,
+  "en": "TM119s",
+  "it": "MT119"
+ },
+ {
+  "id": 970,
+  "en": "TM120s",
+  "it": "MT120"
+ },
+ {
+  "id": 971,
+  "en": "TM121s",
+  "it": "MT121"
+ },
+ {
+  "id": 972,
+  "en": "TM122s",
+  "it": "MT122"
+ },
+ {
+  "id": 973,
+  "en": "TM123s",
+  "it": "MT123"
+ },
+ {
+  "id": 974,
+  "en": "TM124s",
+  "it": "MT124"
+ },
+ {
+  "id": 975,
+  "en": "TM125s",
+  "it": "MT125"
+ },
+ {
+  "id": 976,
+  "en": "TM126s",
+  "it": "MT126"
+ },
+ {
+  "id": 977,
+  "en": "TM127s",
+  "it": "MT127"
+ },
+ {
+  "id": 978,
+  "en": "TM128s",
+  "it": "MT128"
+ },
+ {
+  "id": 979,
+  "en": "TM129s",
+  "it": "MT129"
+ },
+ {
+  "id": 980,
+  "en": "TM130s",
+  "it": "MT130"
+ },
+ {
+  "id": 981,
+  "en": "TM131s",
+  "it": "MT131"
+ },
+ {
+  "id": 982,
+  "en": "TM132s",
+  "it": "MT132"
+ },
+ {
+  "id": 983,
+  "en": "TM133s",
+  "it": "MT133"
+ },
+ {
+  "id": 984,
+  "en": "TM134s",
+  "it": "MT134"
+ },
+ {
+  "id": 985,
+  "en": "TM135s",
+  "it": "MT135"
+ },
+ {
+  "id": 986,
+  "en": "Dragon Scrolls",
+  "it": "Rotoli del Drago"
+ },
+ {
+  "id": 987,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 988,
+  "en": "Rain Badges",
+  "it": "Medaglie Pioggia"
+ },
+ {
+  "id": 989,
+  "en": "Black Augurites",
+  "it": "Pietrascura"
+ },
+ {
+  "id": 990,
+  "en": "Peat Blocks",
+  "it": "Blocchi di Torba"
+ },
+ {
+  "id": 991,
+  "en": "Blank Plates",
+  "it": "Lastrebianche"
+ },
+ {
+  "id": 992,
+  "en": "Rotomis",
+  "it": "Rotomi"
+ },
+ {
+  "id": 993,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 994,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 995,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 996,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 997,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 998,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 999,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 1000,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 1001,
+  "en": "Rotom Phones",
+  "it": "Rotom Phone"
+ },
+ {
+  "id": 1002,
+  "en": "Zygarde Cubes",
+  "it": "Cubi Zygarde"
+ }
+]

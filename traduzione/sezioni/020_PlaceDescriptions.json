@@ -1,0 +1,547 @@
+[
+ {
+  "id": "Indigo League",
+  "en": "Indigo League",
+  "it": "Lega Indaco"
+ },
+ {
+  "id": "Battle Tower",
+  "en": "Battle Tower",
+  "it": "Torre Lotta"
+ },
+ {
+  "id": "Pewter Gym",
+  "en": "Pewter Gym",
+  "it": "Palestra di Plumbeopoli"
+ },
+ {
+  "id": "Blimp Service",
+  "en": "Blimp Service",
+  "it": "Servizio Dirigibile"
+ },
+ {
+  "id": "Pokemon Lab",
+  "en": "Pokemon Lab",
+  "it": "Laboratorio Pokémon"
+ },
+ {
+  "id": "Cycling Road",
+  "en": "Cycling Road",
+  "it": "Pista Ciclabile"
+ },
+ {
+  "id": "Fuchsia Gym",
+  "en": "Fuchsia Gym",
+  "it": "Palestra di Fucsiapoli"
+ },
+ {
+  "id": "Dept. Store",
+  "en": "Dept. Store",
+  "it": "Centro Commerciale"
+ },
+ {
+  "id": "Safari Zone",
+  "en": "Safari Zone",
+  "it": "Zona Safari"
+ },
+ {
+  "id": "Bike Shop",
+  "en": "Bike Shop",
+  "it": "Negozio di Bici"
+ },
+ {
+  "id": "Day Care",
+  "en": "Day Care",
+  "it": "Pensione"
+ },
+ {
+  "id": "Silph Co.",
+  "en": "Silph Co.",
+  "it": "Silph S.p.A."
+ },
+ {
+  "id": "Lighthouse",
+  "en": "Lighthouse",
+  "it": "Faro"
+ },
+ {
+  "id": "Pier",
+  "en": "Pier",
+  "it": "Molo"
+ },
+ {
+  "id": "Underground Path",
+  "en": "Underground Path",
+  "it": "Sotterraneo"
+ },
+ {
+  "id": "Burned Mansion",
+  "en": "Burned Mansion",
+  "it": "Villa Bruciata"
+ },
+ {
+  "id": "Cinnabar Gym",
+  "en": "Cinnabar Gym",
+  "it": "Palestra di Cannella"
+ },
+ {
+  "id": "Lavender Tower",
+  "en": "Lavender Tower",
+  "it": "Torre di Lavandonia"
+ },
+ {
+  "id": "Battle Palace",
+  "en": "Battle Palace",
+  "it": "Palazzo Lotta"
+ },
+ {
+  "id": "Sumo Competition",
+  "en": "Sumo Competition",
+  "it": "Torneo di Sumo"
+ },
+ {
+  "id": "Olivine Lighthouse",
+  "en": "Olivine Lighthouse",
+  "it": "Faro di Olivinopoli"
+ },
+ {
+  "id": "Burned Tower",
+  "en": "Burned Tower",
+  "it": "Torre Bruciata"
+ },
+ {
+  "id": "National Park",
+  "en": "National Park",
+  "it": "Parco Nazionale"
+ },
+ {
+  "id": "Goldenrod Dept. Store",
+  "en": "Goldenrod Dept. Store",
+  "it": "Centro Commerciale di Fiordoropoli"
+ },
+ {
+  "id": "Pokemon Swap Meet",
+  "en": "Pokemon Swap Meet",
+  "it": "Mercatino Pokémon"
+ },
+ {
+  "id": "Slowpoke Well",
+  "en": "Slowpoke Well",
+  "it": "Pozzo Slowpoke"
+ },
+ {
+  "id": "Sprout Tower",
+  "en": "Sprout Tower",
+  "it": "Torre Sprout"
+ },
+ {
+  "id": "Charicific Valley",
+  "en": "Charicific Valley",
+  "it": "Valle Charicifica"
+ },
+ {
+  "id": "Petalburg Gym",
+  "en": "Petalburg Gym",
+  "it": "Palestra di Petalipoli"
+ },
+ {
+  "id": "Petalburg Woods",
+  "en": "Petalburg Woods",
+  "it": "Bosco Petalo"
+ },
+ {
+  "id": "Devon Corporation",
+  "en": "Devon Corporation",
+  "it": "Devon S.p.A."
+ },
+ {
+  "id": "Granite Cave",
+  "en": "Granite Cave",
+  "it": "Grotta Pietrosa"
+ },
+ {
+  "id": "Slateport Market",
+  "en": "Slateport Market",
+  "it": "Mercato di Porto Selcepoli"
+ },
+ {
+  "id": "Game Corner",
+  "en": "Game Corner",
+  "it": "Casinò"
+ },
+ {
+  "id": "Mirage Kingdom",
+  "en": "Mirage Kingdom",
+  "it": "Regno Miraggio"
+ },
+ {
+  "id": "Contest Hall",
+  "en": "Contest Hall",
+  "it": "Sala Gare"
+ },
+ {
+  "id": "Lavaridge Gym",
+  "en": "Lavaridge Gym",
+  "it": "Palestra di Cuordilava"
+ },
+ {
+  "id": "Valley of Steel",
+  "en": "Valley of Steel",
+  "it": "Valle d'Acciaio"
+ },
+ {
+  "id": "Weather Institute",
+  "en": "Weather Institute",
+  "it": "Istituto Meteo"
+ },
+ {
+  "id": "Fortree Gym",
+  "en": "Fortree Gym",
+  "it": "Palestra di Forestopoli"
+ },
+ {
+  "id": "Lilycove Dept. Store",
+  "en": "Lilycove Dept. Store",
+  "it": "Centro Commerciale di Porto Alghepoli"
+ },
+ {
+  "id": "Mossdeep Gym",
+  "en": "Mossdeep Gym",
+  "it": "Palestra di Verdeazzupoli"
+ },
+ {
+  "id": "Sootopolis Gym",
+  "en": "Sootopolis Gym",
+  "it": "Palestra di Ceneride"
+ },
+ {
+  "id": "Hoenn Pokemon League",
+  "en": "Hoenn Pokemon League",
+  "it": "Lega Pokémon di Hoenn"
+ },
+ {
+  "id": "Lake Verity",
+  "en": "Lake Verity",
+  "it": "Lago Verità"
+ },
+ {
+  "id": "Oreburgh Gate",
+  "en": "Oreburgh Gate",
+  "it": "Varco Mineropoli"
+ },
+ {
+  "id": "Oreburgh Mine",
+  "en": "Oreburgh Mine",
+  "it": "Miniera di Mineropoli"
+ },
+ {
+  "id": "Ravaged Path",
+  "en": "Ravaged Path",
+  "it": "Sentiero Rovinato"
+ },
+ {
+  "id": "Eterna Forest",
+  "en": "Eterna Forest",
+  "it": "Bosco Evopoli"
+ },
+ {
+  "id": "Eterna Gym",
+  "en": "Eterna Gym",
+  "it": "Palestra di Evopoli"
+ },
+ {
+  "id": "Mt. Coronet",
+  "en": "Mt. Coronet",
+  "it": "Monte Corona"
+ },
+ {
+  "id": "Veilstone Dept. Store",
+  "en": "Veilstone Dept. Store",
+  "it": "Centro Commerciale di Rupepoli"
+ },
+ {
+  "id": "Lake Valor",
+  "en": "Lake Valor",
+  "it": "Lago Valore"
+ },
+ {
+  "id": "Pastoria Gym",
+  "en": "Pastoria Gym",
+  "it": "Palestra di Pratopoli"
+ },
+ {
+  "id": "Pokemon Mansion",
+  "en": "Pokemon Mansion",
+  "it": "Villa Pokémon"
+ },
+ {
+  "id": "Celestic Ruins",
+  "en": "Celestic Ruins",
+  "it": "Rovine di Memoride"
+ },
+ {
+  "id": "Canalave Gym",
+  "en": "Canalave Gym",
+  "it": "Palestra di Canalipoli"
+ },
+ {
+  "id": "Lake Acuity",
+  "en": "Lake Acuity",
+  "it": "Lago Arguzia"
+ },
+ {
+  "id": "Snowpoint Gym",
+  "en": "Snowpoint Gym",
+  "it": "Palestra di Nevepoli"
+ },
+ {
+  "id": "Sunnyshore Lighthouse",
+  "en": "Sunnyshore Lighthouse",
+  "it": "Faro di Arenipoli"
+ },
+ {
+  "id": "Sinnoh Pokemon League",
+  "en": "Sinnoh Pokemon League",
+  "it": "Lega Pokémon di Sinnoh"
+ },
+ {
+  "id": "Dreamyard",
+  "en": "Dreamyard",
+  "it": "Cantiere dei Sogni"
+ },
+ {
+  "id": "Wellspring Cave",
+  "en": "Wellspring Cave",
+  "it": "Grotta Sorgente"
+ },
+ {
+  "id": "Nacrene Gym",
+  "en": "Nacrene Gym",
+  "it": "Palestra di Zefiropoli"
+ },
+ {
+  "id": "Castelia Gym",
+  "en": "Castelia Gym",
+  "it": "Palestra di Austropoli"
+ },
+ {
+  "id": "Club Battle",
+  "en": "Club Battle",
+  "it": "Club Battle"
+ },
+ {
+  "id": "Battle Subway",
+  "en": "Battle Subway",
+  "it": "Metrò Lotta"
+ },
+ {
+  "id": "Driftveil Battle House",
+  "en": "Driftveil Battle House",
+  "it": "Casa Lotta di Libecciopoli"
+ },
+ {
+  "id": "Mistralton Cave",
+  "en": "Mistralton Cave",
+  "it": "Grotta Ponentopoli"
+ },
+ {
+  "id": "Mistralton Gym",
+  "en": "Mistralton Gym",
+  "it": "Palestra di Ponentopoli"
+ },
+ {
+  "id": "Mistralton Tower",
+  "en": "Mistralton Tower",
+  "it": "Torre Ponentopoli"
+ },
+ {
+  "id": "Icirrus Cave",
+  "en": "Icirrus Cave",
+  "it": "Grotta Mistralopoli"
+ },
+ {
+  "id": "Virbank Ferry",
+  "en": "Virbank Ferry",
+  "it": "Traghetto di Virbopoli"
+ },
+ {
+  "id": "Shopping Mall Nine",
+  "en": "Shopping Mall Nine",
+  "it": "Centro Commerciale Nove"
+ },
+ {
+  "id": "Virbank Gym",
+  "en": "Virbank Gym",
+  "it": "Palestra di Virbopoli"
+ },
+ {
+  "id": "Undella Bay",
+  "en": "Undella Bay",
+  "it": "Baia Spiraria"
+ },
+ {
+  "id": "Unova Pokemon League",
+  "en": "Unova Pokemon League",
+  "it": "Lega Pokémon di Unima"
+ },
+ {
+  "id": "Pledge Grove",
+  "en": "Pledge Grove",
+  "it": "Bosco delle Promesse"
+ },
+ {
+  "id": "Aspertia Gym",
+  "en": "Aspertia Gym",
+  "it": "Palestra di Alisopoli"
+ },
+ {
+  "id": "Lumiose Gym",
+  "en": "Lumiose Gym",
+  "it": "Palestra di Luminopoli"
+ },
+ {
+  "id": "Santalune Gym",
+  "en": "Santalune Gym",
+  "it": "Palestra di Novartopoli"
+ },
+ {
+  "id": "Cyllage Gym",
+  "en": "Cyllage Gym",
+  "it": "Palestra di Petroglifari"
+ },
+ {
+  "id": "Reflection Cave",
+  "en": "Reflection Cave",
+  "it": "Grotta Riflessi"
+ },
+ {
+  "id": "Shalour Gym",
+  "en": "Shalour Gym",
+  "it": "Palestra di Yantaropoli"
+ },
+ {
+  "id": "Coumarine Gym",
+  "en": "Coumarine Gym",
+  "it": "Palestra di Batikopoli"
+ },
+ {
+  "id": "Laverre Gym",
+  "en": "Laverre Gym",
+  "it": "Palestra di Romantopoli"
+ },
+ {
+  "id": "Frost Cavern",
+  "en": "Frost Cavern",
+  "it": "Grotta Gelata"
+ },
+ {
+  "id": "Anistar Gym",
+  "en": "Anistar Gym",
+  "it": "Palestra di Fluxopoli"
+ },
+ {
+  "id": "Greninja Master",
+  "en": "Greninja Master",
+  "it": "Maestro Greninja"
+ },
+ {
+  "id": "Terminus Cave",
+  "en": "Terminus Cave",
+  "it": "Grotta Capolinea"
+ },
+ {
+  "id": "Snowbelle Gym",
+  "en": "Snowbelle Gym",
+  "it": "Palestra di Fractalopoli"
+ },
+ {
+  "id": "Trainer's School",
+  "en": "Trainer's School",
+  "it": "Scuola Allenatori"
+ },
+ {
+  "id": "Kukui's House",
+  "en": "Kukui's House",
+  "it": "Casa di Kukui"
+ },
+ {
+  "id": "Melemele Meadow",
+  "en": "Melemele Meadow",
+  "it": "Prato di Mele Mele"
+ },
+ {
+  "id": "Shopping Mall",
+  "en": "Shopping Mall",
+  "it": "Centro Commerciale"
+ },
+ {
+  "id": "Verdant Cavern",
+  "en": "Verdant Cavern",
+  "it": "Grotta Sottobosco"
+ },
+ {
+  "id": "Paniola Ranch",
+  "en": "Paniola Ranch",
+  "it": "Ranch Paniola"
+ },
+ {
+  "id": "Brooklet Hill",
+  "en": "Brooklet Hill",
+  "it": "Collina Ruscello"
+ },
+ {
+  "id": "Lush Jungle",
+  "en": "Lush Jungle",
+  "it": "Foresta Ombrosa"
+ },
+ {
+  "id": "Wela Volcano Park",
+  "en": "Wela Volcano Park",
+  "it": "Parco Vulcano Wela"
+ },
+ {
+  "id": "Battle Royal Dome",
+  "en": "Battle Royal Dome",
+  "it": "Arena Battle Royal"
+ },
+ {
+  "id": "Ruins of Abundance",
+  "en": "Ruins of Abundance",
+  "it": "Rovine dell'Abbondanza"
+ },
+ {
+  "id": "Kantonian Gym",
+  "en": "Kantonian Gym",
+  "it": "Palestra di Kanto"
+ },
+ {
+  "id": "Hokulani Observatory",
+  "en": "Hokulani Observatory",
+  "it": "Osservatorio di Hokulani"
+ },
+ {
+  "id": "Mount Lanakila Cave",
+  "en": "Mount Lanakila Cave",
+  "it": "Grotta del Monte Lanakila"
+ },
+ {
+  "id": "Ruins of Hope",
+  "en": "Ruins of Hope",
+  "it": "Rovine della Speranza"
+ },
+ {
+  "id": "Alola Pokemon League",
+  "en": "Alola Pokemon League",
+  "it": "Lega Pokémon di Alola"
+ },
+ {
+  "id": "Altar of the Sunne",
+  "en": "Altar of the Sunne",
+  "it": "Altare del Sole"
+ },
+ {
+  "id": "Thrifty Megamart",
+  "en": "Thrifty Megamart",
+  "it": "Megamarket Parsimonia"
+ }
+]

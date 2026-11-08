@@ -1,0 +1,217 @@
+[
+ {
+  "id": "\\bHello there. Would you like me to train one of your Pokémon?",
+  "en": "\\bHello there. Would you like me to train one of your Pokémon?",
+  "it": "\\bSalve. Vuoi che alleni uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bOh? But you only have one Pokémon with you.",
+  "en": "\\bOh?  But you only have one Pokémon with you.",
+  "it": "\\bOh?  Ma hai un solo Pokémon con te."
+ },
+ {
+  "id": "\\bWhich Pokémon would you like me to raise?",
+  "en": "\\bWhich Pokémon would you like me to raise?",
+  "it": "\\bQuale Pokémon vuoi che alleni?"
+ },
+ {
+  "id": "\\bVery well.",
+  "en": "\\bVery well.",
+  "it": "\\bMolto bene."
+ },
+ {
+  "id": "\\bIf you leave me that Pokémon, what are you gonna battle with?",
+  "en": "\\bIf you leave me that Pokémon, what are you gonna battle with?",
+  "it": "\\bSe mi lasci quel Pokémon, con cosa lotterai?"
+ },
+ {
+  "id": "\\bCome back when you have enough to make it out there.",
+  "en": "\\bCome back when you have enough to make it out there.",
+  "it": "\\bTorna quando ne avrai abbastanza per cavartela là fuori."
+ },
+ {
+  "id": "\\bI'll raise your \\v[3] for a while.",
+  "en": "\\bI'll raise your \\v[3] for a while.",
+  "it": "\\bAllenerò il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\bI can raise two of your Pokémon. Would you like me to raise another?",
+  "en": "\\bI can raise two of your Pokémon. Would you like me to raise another?",
+  "it": "\\bPosso allenare due dei tuoi Pokémon. Vuoi che ne alleni un altro?"
+ },
+ {
+  "id": "\\bYou can't go off without a Pokémon. Come back another time.",
+  "en": "\\bYou can't go off without a Pokémon. Come back another time.",
+  "it": "\\bNon puoi andartene in giro senza un Pokémon. Torna un'altra volta."
+ },
+ {
+  "id": "\\bWhich Pokémon should I raise for you?",
+  "en": "\\bWhich Pokémon should I raise for you?",
+  "it": "\\bQuale Pokémon devo allenare per te?"
+ },
+ {
+  "id": "\\bI can always train one for you.",
+  "en": "\\bI can always train one for you.",
+  "it": "\\bPosso sempre allenartene uno."
+ },
+ {
+  "id": "\\bCome back another time.",
+  "en": "\\bCome back another time.",
+  "it": "\\bTorna un'altra volta."
+ },
+ {
+  "id": "\\bCome back for it later.",
+  "en": "\\bCome back for it later.",
+  "it": "\\bTorna a prenderlo più tardi."
+ },
+ {
+  "id": "\\bHello \\PN. How's it going? Your Pokémon got stronger.",
+  "en": "\\bHello \\PN. How's it going? Your Pokémon got stronger.",
+  "it": "\\bCiao, \\PN. Come va? Il tuo Pokémon è diventato più forte."
+ },
+ {
+  "id": "\\bBy level, your \\v[3] has grown by about \\v[4].",
+  "en": "\\bBy level, your \\v[3] has grown by about \\v[4].",
+  "it": "\\bIl tuo \\v[3] è salito di circa \\v[4] livelli."
+ },
+ {
+  "id": "\\bDo you want your Pokémon back?",
+  "en": "\\bDo you want your Pokémon back?",
+  "it": "\\bVuoi riavere il tuo Pokémon?"
+ },
+ {
+  "id": "\\bYour Pokémon team is full. Make room, then come see me.",
+  "en": "\\bYour Pokémon team is full. Make room, then come see me.",
+  "it": "\\bLa tua squadra è al completo. Fai spazio, poi torna da me."
+ },
+ {
+  "id": "Which one do you want back?",
+  "en": "Which one do you want back?",
+  "it": "Quale vuoi riprenderti?"
+ },
+ {
+  "id": "\\G\\bIf you want your \\v[3] back, it will cost $\\v[4].",
+  "en": "\\G\\bIf you want your \\v[3] back, it will cost $\\v[4].",
+  "it": "\\G\\bSe vuoi riavere il tuo \\v[3], ti costerà $\\v[4]."
+ },
+ {
+  "id": "\\G\\bYou don't have enough money...",
+  "en": "\\G\\bYou don't have enough money...",
+  "it": "\\G\\bNon hai abbastanza soldi..."
+ },
+ {
+  "id": "\\G\\bWonderful\\nHere's your Pokémon.",
+  "en": "\\G\\bWonderful\\nHere's your Pokémon.",
+  "it": "\\G\\bMeraviglioso\\nEcco il tuo Pokémon."
+ },
+ {
+  "id": "\\PN took \\v[3] back from the aid.",
+  "en": "\\PN took \\v[3] back from the aid.",
+  "it": "\\PN ha ripreso \\v[3] dall'assistente."
+ },
+ {
+  "id": "\\bDo you want to take back the other one, too?",
+  "en": "\\bDo you want to take back the other one, too?",
+  "it": "\\bVuoi riprenderti anche l'altro?"
+ },
+ {
+  "id": "It's a Pokédex. Better leave it alone.",
+  "en": "It's a Pokédex. Better leave it alone.",
+  "it": "È un Pokédex. Meglio non toccarlo."
+ },
+ {
+  "id": "\\rJuniper: I have an aide here that will help raise your Pokémon. Feel free to ask them.",
+  "en": "\\rJuniper: I have an aide here that will help raise your Pokémon. Feel free to ask them.",
+  "it": "\\rAralia: Qui ho un assistente che può aiutarti ad allevare i tuoi Pokémon. Chiedigli pure."
+ },
+ {
+  "id": "\\rJuniper: You found Oshawott? The little guy is supposed to be for beginning Trainers. If it likes you that much though, you can take it.",
+  "en": "\\rJuniper: You found Oshawott? The little guy is supposed to be for beginning Trainers. If it likes you that much though, you can take it.",
+  "it": "\\rAralia: Hai trovato Oshawott? Quel piccoletto sarebbe destinato agli Allenatori alle prime armi. Ma se ti è così affezionato, puoi tenerlo."
+ },
+ {
+  "id": "\\rJuniper: Good, you're here. I see you got my message.",
+  "en": "\\rJuniper: Good, you're here. I see you got my message.",
+  "it": "\\rAralia: Bene, sei arrivato. Vedo che hai ricevuto il mio messaggio."
+ },
+ {
+  "id": "\\rThere's a town south of Virbank City. It has a new gym leader who could use some practice. I was hoping you could help him.",
+  "en": "\\rThere's a town south of Virbank City. It has a new gym leader who could use some practice. I was hoping you could help him.",
+  "it": "\\rC'è una città a sud di Virbopoli. Ha un nuovo Capopalestra a cui farebbe comodo un po' di pratica. Speravo che potessi aiutarlo."
+ },
+ {
+  "id": "\\rThere's also been sighting of a strong legendary Pokémon. Feel free to try and capture it.",
+  "en": "\\rThere's also been sighting of a strong legendary Pokémon. Feel free to try and capture it.",
+  "it": "\\rInoltre, è stato avvistato un potente Pokémon leggendario. Prova pure a catturarlo."
+ },
+ {
+  "id": "Your Pokémon were fully healed.",
+  "en": "Your Pokémon were fully healed.",
+  "it": "I tuoi Pokémon sono stati curati completamente."
+ },
+ {
+  "id": "\\bOak: It sounds like a wonderful plan. I look forward to it.",
+  "en": "\\bOak: It sounds like a wonderful plan. I look forward to it.",
+  "it": "\\bOak: Mi sembra un piano magnifico. Non vedo l'ora."
+ },
+ {
+  "id": "\\bOak: Good, you're here \\PN. This is Professor Juniper, an old friend of mine.",
+  "en": "\\bOak: Good, you're here \\PN. This is Professor Juniper, an old friend of mine.",
+  "it": "\\bOak: Bene, sei arrivato \\PN. Lei è la Professoressa Aralia, una mia vecchia amica."
+ },
+ {
+  "id": "\\rJuniper: Welcome to Unova. I hope you enjoy your stay here.",
+  "en": "\\rJuniper: Welcome to Unova. I hope you enjoy your stay here.",
+  "it": "\\rAralia: Benvenuto a Unima. Spero che il soggiorno qui ti piaccia."
+ },
+ {
+  "id": "\\rIf you ever need anything feel free to ask.",
+  "en": "\\rIf you ever need anything feel free to ask.",
+  "it": "\\rSe mai avessi bisogno di qualcosa, chiedi pure."
+ },
+ {
+  "id": "\\bYes, yes, Juniper and I were going to catch up for a while before I return home. I'm sure you're anxious to challenge a Gym. Don't let us hold you back.",
+  "en": "\\bYes, yes, Juniper and I were going to catch up for a while before I return home. I'm sure you're anxious to challenge a Gym. Don't let us hold you back.",
+  "it": "\\bSì, sì, Aralia e io volevamo fare due chiacchiere prima che io torni a casa. Sono sicuro che non vedi l'ora di sfidare una Palestra. Non lasciare che ti tratteniamo."
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Isole Orange, Johto,Hoenn,Sinnoh,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Kalos,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Kalos,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Isole Orange, Johto,Hoenn,Sinnoh,Kalos,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Kalos,Alola,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Kalos,Alola,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Isole Orange, Johto,Hoenn,Sinnoh,Kalos,Alola,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Kalos,Alola,Galar,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Kalos,Alola,Galar,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Isole Orange, Johto,Hoenn,Sinnoh,Kalos,Alola,Galar,Annulla]"
+ },
+ {
+  "id": "\\bOak: The Unova League sounds like a good challenge for you. I look forward to hearing your results.",
+  "en": "\\bOak: The Unova League sounds like a good challenge for you. I look forward to hearing your results.",
+  "it": "\\bOak: La Lega di Unima mi sembra una bella sfida per te. Non vedo l'ora di sapere come andrà."
+ },
+ {
+  "id": "\\bProfessor Juniper is a great professor, just like her dad.",
+  "en": "\\bProfessor Juniper is a great professor, just like her dad.",
+  "it": "\\bLa Professoressa Aralia è una grande professoressa, proprio come suo padre."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

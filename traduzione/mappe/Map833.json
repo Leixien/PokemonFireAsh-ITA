@@ -1,0 +1,177 @@
+[
+ {
+  "id": "\\bEach elevator leads to a different floor. Pick the right one to fight the gym leader.",
+  "en": "\\bEach elevator leads to a different floor. Pick the right one to fight the gym leader.",
+  "it": "\\bOgni ascensore porta a un piano diverso. Scegli quello giusto per sfidare il Capopalestra."
+ },
+ {
+  "id": "\\bHeliolosk",
+  "en": "\\bHeliolosk",
+  "it": "\\bHeliolisk"
+ },
+ {
+  "id": "\\bI guess it's my job to defeat you.",
+  "en": "\\bI guess it's my job to defeat you.",
+  "it": "\\bA quanto pare, il mio compito è sconfiggerti."
+ },
+ {
+  "id": "\\bYou might fight Clemont yet. If you pick the right floor.",
+  "en": "\\bYou might fight Clemont yet. If you pick the right floor.",
+  "it": "\\bPotresti ancora riuscire a sfidare Clemont. Se scegli il piano giusto."
+ },
+ {
+  "id": "\\bLuxray",
+  "en": "\\bLuxray",
+  "it": "\\bLuxray"
+ },
+ {
+  "id": "\\bThis leads to the top of Prism Tower.",
+  "en": "\\bThis leads to the top of Prism Tower.",
+  "it": "\\bDa qui si arriva in cima alla Torre Prisma."
+ },
+ {
+  "id": "\\rBonnie: Hi \\PN! Did you come to visit us?",
+  "en": "\\rBonnie: Hi \\PN! Did you come to visit us?",
+  "it": "\\rBonnie: Ciao \\PN! Sei venuto a trovarci?"
+ },
+ {
+  "id": "\\bTime to finish this.",
+  "en": "\\bTime to finish this.",
+  "it": "\\bÈ ora di farla finita."
+ },
+ {
+  "id": "\\bThe right floor will take you to the top of the tower.",
+  "en": "\\bThe right floor will take you to the top of the tower.",
+  "it": "\\bIl piano giusto ti porterà in cima alla torre."
+ },
+ {
+  "id": "\\bDedenne!",
+  "en": "\\bDedenne!",
+  "it": "\\bDedenne!"
+ },
+ {
+  "id": "\\bClemont uses Electric type Pokémon. They are weak aganst only the Ground type.",
+  "en": "\\bClemont uses Electric type Pokémon. They are weak aganst only the Ground type.",
+  "it": "\\bClemont usa Pokémon di tipo Elettro. Sono deboli soltanto contro il tipo Terra."
+ },
+ {
+  "id": "\\bThey are strong against Flying and Water. Flying, Electric, and Steel moves also don't do much damage.",
+  "en": "\\bThey are strong against Flying and Water. Flying, Electric, and Steel moves also don't do much damage.",
+  "it": "\\bSono forti contro Volante e Acqua. Anche le mosse Volante, Elettro e Acciaio non fanno loro molto danno."
+ },
+ {
+  "id": "\\bBunnelby",
+  "en": "\\bBunnelby",
+  "it": "\\bBunnelby"
+ },
+ {
+  "id": "\\bDiggersby",
+  "en": "\\bDiggersby",
+  "it": "\\bDiggersby"
+ },
+ {
+  "id": "\\bClemont: It's finally time \\PN. I've been waiting for this battle for a long time. I'm determined to give you a worthy fight. Let's begin.",
+  "en": "\\bClemont: It's finally time \\PN. I've been waiting for this battle for a long time. I'm determined to give you a worthy fight. Let's begin.",
+  "it": "\\bClemont: Finalmente è il momento, \\PN. Aspettavo questa lotta da tanto tempo. Sono determinato a darti una sfida degna di te. Cominciamo."
+ },
+ {
+  "id": "\\bClemont: You've earned the Voltage Badge.",
+  "en": "\\bClemont: You've earned the Voltage Badge.",
+  "it": "\\bClemont: Hai ottenuto la Medaglia Voltaggio."
+ },
+ {
+  "id": "\\bHere, have this TM too.",
+  "en": "\\bHere, have this TM too.",
+  "it": "\\bEcco, prendi anche questa MT."
+ },
+ {
+  "id": "\\bTM115 contains Shock Wave. An electric attack that never misses.",
+  "en": "\\bTM115 contains Shock Wave. An electric attack that never misses.",
+  "it": "\\bLa MT115 contiene Ondashock. Un attacco elettrico che non manca mai il bersaglio."
+ },
+ {
+  "id": "\\bClemont: That was an outstanding battle \\PN. Bonnie and I are going to keep traveling for a while. I want to be able to stand on the same level as you.",
+  "en": "\\bClemont: That was an outstanding battle \\PN.  Bonnie and I are going to keep traveling for a while. I want to be able to stand on the same level as you.",
+  "it": "\\bClemont: È stata una lotta straordinaria, \\PN.  Io e Bonnie continueremo a viaggiare per un po'. Voglio riuscire a essere al tuo stesso livello."
+ },
+ {
+  "id": "\\bClemont: It's good to see you again. I've been practicing everyday to grow as a Trainer and inventor.",
+  "en": "\\bClemont: It's good to see you again. I've been practicing everyday to grow as a Trainer and inventor.",
+  "it": "\\bClemont: Che piacere rivederti. Mi sono esercitato ogni giorno per crescere come Allenatore e come inventore."
+ },
+ {
+  "id": "\\bClemont: \\PN. I'm glad you had time to stop by before your match. I've been working on some battling techniques that should help you.",
+  "en": "\\bClemont: \\PN. I'm glad you had time to stop by before your match. I've been working on some battling techniques that should help you.",
+  "it": "\\bClemont: \\PN. Sono contento che tu abbia avuto il tempo di passare prima del tuo incontro. Ho lavorato su alcune tecniche di lotta che dovrebbero esserti utili."
+ },
+ {
+  "id": "\\bAfter all, the future is now, thanks to science!",
+  "en": "\\bAfter all, the future is now, thanks to science!",
+  "it": "\\bDopotutto, il futuro è adesso, grazie alla scienza!"
+ },
+ {
+  "id": "\\bClemont: Well, the results weren't what I expected. But I should expect that coming from you.",
+  "en": "\\bClemont: Well, the results weren't what I expected.  But I should expect that coming from you.",
+  "it": "\\bClemont: Beh, i risultati non sono stati quelli che mi aspettavo.  Ma da te avrei dovuto aspettarmelo."
+ },
+ {
+  "id": "\\rBonnie: You both did great! You're going to win your match for sure.",
+  "en": "\\rBonnie: You both did great! You're going to win your match for sure.",
+  "it": "\\rBonnie: Siete stati bravissimi tutti e due! Vincerai sicuramente il tuo incontro."
+ },
+ {
+  "id": "\\bYou should hurry over. We'll be watching.",
+  "en": "\\bYou should hurry over. We'll be watching.",
+  "it": "\\bFaresti meglio a sbrigarti. Noi saremo lì a guardarti."
+ },
+ {
+  "id": "\\bClemont: You should hurry over. We'll be watching.",
+  "en": "\\bClemont: You should hurry over. We'll be watching.",
+  "it": "\\bClemont: Faresti meglio a sbrigarti. Noi saremo lì a guardarti."
+ },
+ {
+  "id": "\\bClemont: Wonderful timing, \\PN. I was in need of someone to help me train.",
+  "en": "\\bClemont: Wonderful timing, \\PN. I was in need of someone to help me train.",
+  "it": "\\bClemont: Tempismo perfetto, \\PN. Avevo bisogno di qualcuno che mi aiutasse ad allenarmi."
+ },
+ {
+  "id": "\\bClemont: That was a great battle. I look forward to our next one.",
+  "en": "\\bClemont: That was a great battle. I look forward to our next one.",
+  "it": "\\bClemont: È stata una gran bella lotta. Non vedo l'ora della prossima."
+ },
+ {
+  "id": "\\bLooks like you picked wrong.",
+  "en": "\\bLooks like you picked wrong.",
+  "it": "\\bSembra che tu abbia scelto male."
+ },
+ {
+  "id": "\\bLooks like you won. This time.",
+  "en": "\\bLooks like you won. This time.",
+  "it": "\\bSembra che tu abbia vinto. Per questa volta."
+ },
+ {
+  "id": "Magnemite",
+  "en": "Magnemite",
+  "it": "Magnemite"
+ },
+ {
+  "id": "\\bChespin",
+  "en": "\\bChespin",
+  "it": "\\bChespin"
+ },
+ {
+  "id": "\\bNot going to happen.",
+  "en": "\\bNot going to happen.",
+  "it": "\\bNon succederà."
+ },
+ {
+  "id": "\\bClemont uses Electric types. Use a ground type to win.",
+  "en": "\\bClemont uses Electric types. Use a ground type to win.",
+  "it": "\\bClemont usa Pokémon di tipo Elettro. Usa un tipo Terra per vincere."
+ },
+ {
+  "id": "Magneton",
+  "en": "Magneton",
+  "it": "Magneton"
+ }
+]

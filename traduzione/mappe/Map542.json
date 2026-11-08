@@ -1,0 +1,252 @@
+[
+ {
+  "id": "\\bThat girl over there is cute, isn't she?",
+  "en": "\\bThat girl over there is cute, isn't she?",
+  "it": "\\bQuella ragazza laggiù è carina, vero?"
+ },
+ {
+  "id": "\\bHello, hello!\\nI am the official Name Rater!",
+  "en": "\\bHello, hello!\\nI am the official Name Rater!",
+  "it": "\\bSalve, salve!\\nSono il Giudice dei Nomi ufficiale!"
+ },
+ {
+  "id": "\\bWant me to rate the nicknames of your Pokémon?",
+  "en": "\\bWant me to rate the nicknames of your Pokémon?",
+  "it": "\\bVuoi che valuti i soprannomi dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bWhich Pokémon's nickname should I critique?",
+  "en": "\\bWhich Pokémon's nickname should I critique?",
+  "it": "\\bDi quale Pokémon devo giudicare il soprannome?"
+ },
+ {
+  "id": "\\bI see.\\nDo come visit again.",
+  "en": "\\bI see.\\nDo come visit again.",
+  "it": "\\bCapisco.\\nTorna pure a trovarmi."
+ },
+ {
+  "id": "\\bNow, now... That is merely an Egg!",
+  "en": "\\bNow, now... That is merely an Egg!",
+  "it": "\\bSu, su... Quello è soltanto un Uovo!"
+ },
+ {
+  "id": "\\bI wouldn't dare critique a Shadow Pokémon's name!",
+  "en": "\\bI wouldn't dare critique a Shadow Pokémon's name!",
+  "it": "\\bNon oserei mai giudicare il nome di un Pokémon Ombra!"
+ },
+ {
+  "id": "\\bHmmm... \\v[3] it is!",
+  "en": "\\bHmmm... \\v[3] it is!",
+  "it": "\\bHmmm... \\v[3] sia!"
+ },
+ {
+  "id": "\\bThis is a magnificent nickname! It is impeccably beyond reproach!",
+  "en": "\\bThis is a magnificent nickname! It is impeccably beyond reproach!",
+  "it": "\\bChe soprannome magnifico! È impeccabile e irreprensibile!"
+ },
+ {
+  "id": "\\bYou'll do well to cherish your \\v[3] now and beyond.",
+  "en": "\\bYou'll do well to cherish your \\v[3] now and beyond.",
+  "it": "\\bFaresti bene ad avere cura del tuo \\v[3], ora e per sempre."
+ },
+ {
+  "id": "\\b\\v[3], is it?\\nThat is a decent nickname!",
+  "en": "\\b\\v[3], is it?\\nThat is a decent nickname!",
+  "it": "\\b\\v[3], eh?\\nÈ un soprannome discreto!"
+ },
+ {
+  "id": "\\bBut, would you like me to give it a nicer name?",
+  "en": "\\bBut, would you like me to give it a nicer name?",
+  "it": "\\bMa vorresti che gli dessi un nome più bello?"
+ },
+ {
+  "id": "\\bHow about it?",
+  "en": "\\bHow about it?",
+  "it": "\\bChe ne dici?"
+ },
+ {
+  "id": "\\bAh, good. Then, what shall the new nickname be?",
+  "en": "\\bAh, good. Then, what shall the new nickname be?",
+  "it": "\\bAh, bene. Allora, quale sarà il nuovo soprannome?"
+ },
+ {
+  "id": "\\bI see. You're right, there's no need to change this Pokémon's nickname.",
+  "en": "\\bI see. You're right, there's no need to change this Pokémon's nickname.",
+  "it": "\\bCapisco. Hai ragione, non c'è bisogno di cambiare il soprannome di questo Pokémon."
+ },
+ {
+  "id": "\\bIt already had a superb name!",
+  "en": "\\bIt already had a superb name!",
+  "it": "\\bAveva già un nome superbo!"
+ },
+ {
+  "id": "\\bDone! From now on, this Pokémon shall be known as \\v[3]!",
+  "en": "\\bDone! From now on, this Pokémon shall be known as \\v[3]!",
+  "it": "\\bFatto! D'ora in poi, questo Pokémon si chiamerà \\v[3]!"
+ },
+ {
+  "id": "\\bIt looks no different from before, and yet, this is vastly superior!",
+  "en": "\\bIt looks no different from before, and yet, this is vastly superior!",
+  "it": "\\bSembra uguale a prima, eppure è di gran lunga superiore!"
+ },
+ {
+  "id": "\\bHow fortunate for you!",
+  "en": "\\bHow fortunate for you!",
+  "it": "\\bChe fortuna per te!"
+ },
+ {
+  "id": "\\bDone! From now on, this Pokémon shall be known as \\v[5]!",
+  "en": "\\bDone! From now on, this Pokémon shall be known as \\v[5]!",
+  "it": "\\bFatto! D'ora in poi, questo Pokémon si chiamerà \\v[5]!"
+ },
+ {
+  "id": "\\bIt is a better name than before!\\nHow fortunate for you!",
+  "en": "\\bIt is a better name than before!\\nHow fortunate for you!",
+  "it": "\\bÈ un nome migliore di prima!\\nChe fortuna per te!"
+ },
+ {
+  "id": "\\rDo you need any help?",
+  "en": "\\rDo you need any help?",
+  "it": "\\rTi serve aiuto?"
+ },
+ {
+  "id": "\\rI love my pets.",
+  "en": "\\rI love my pets.",
+  "it": "\\rAdoro i miei animaletti."
+ },
+ {
+  "id": "\\rI am the buildings manager. We are open 24 hours a day.",
+  "en": "\\rI am the buildings manager. We are open 24 hours a day.",
+  "it": "\\rSono l'amministratrice dell'edificio. Siamo aperti 24 ore su 24."
+ },
+ {
+  "id": "\\bSorry, we are taking a break right now.",
+  "en": "\\bSorry, we are taking a break right now.",
+  "it": "\\bSpiacenti, al momento siamo in pausa."
+ },
+ {
+  "id": "\\bDo you like berries?",
+  "en": "\\bDo you like berries?",
+  "it": "\\bTi piacciono le bacche?"
+ },
+ {
+  "id": "\\bThen please take this.",
+  "en": "\\bThen please take this.",
+  "it": "\\bAllora prendi questa, ti prego."
+ },
+ {
+  "id": "\\bHmmm..maybe this will change your mind.",
+  "en": "\\bHmmm..maybe this will change your mind.",
+  "it": "\\bMmm... forse questa ti farà cambiare idea."
+ },
+ {
+  "id": "\\bBerries are important. Don't ever forget that.",
+  "en": "\\bBerries are important. Don't ever forget that.",
+  "it": "\\bLe bacche sono importanti. Non dimenticarlo mai."
+ },
+ {
+  "id": "\\bHehehe!",
+  "en": "\\bHehehe!",
+  "it": "\\bEhehe!"
+ },
+ {
+  "id": "\\bI love watching the Contests that go on.",
+  "en": "\\bI love watching the Contests that go on.",
+  "it": "\\bAdoro guardare le Gare che si tengono qui."
+ },
+ {
+  "id": "\\bThis place opened not too long ago. I hope it stays.",
+  "en": "\\bThis place opened not too long ago. I hope it stays.",
+  "it": "\\bQuesto posto ha aperto da poco. Spero che resti."
+ },
+ {
+  "id": "\\rI don't even go to the regular mart anymore.",
+  "en": "\\rI don't even go to the regular mart anymore.",
+  "it": "\\rOrmai non vado nemmeno più al market normale."
+ },
+ {
+  "id": "\\bI can't believe we get to stay on the top floor.",
+  "en": "\\bI can't believe we get to stay on the top floor.",
+  "it": "\\bNon ci credo che possiamo stare all'ultimo piano."
+ },
+ {
+  "id": "\\bMeo!",
+  "en": "\\bMeo!",
+  "it": "\\bMeo!"
+ },
+ {
+  "id": "\\bThat's it. I'm done. I can't eat any more.",
+  "en": "\\bThat's it. I'm done. I can't eat any more.",
+  "it": "\\bBasta. Ho finito. Non ce la faccio a mangiare altro."
+ },
+ {
+  "id": "\\bI always thought I was going to win it back...",
+  "en": "\\bI always thought I was going to win it back...",
+  "it": "\\bHo sempre pensato che avrei recuperato tutto..."
+ },
+ {
+  "id": "\\rPsy?",
+  "en": "\\rPsy?",
+  "it": "\\rPsy?"
+ },
+ {
+  "id": "\\rI'm on vacation. I came all the way from Hoenn to visit this place.",
+  "en": "\\rI'm on vacation. I came all the way from Hoenn to visit this place.",
+  "it": "\\rSono in vacanza. Sono venuta fin da Hoenn per visitare questo posto."
+ },
+ {
+  "id": "\\bI'm looking for a Buizel.",
+  "en": "\\bI'm looking for a Buizel.",
+  "it": "\\bSto cercando un Buizel."
+ },
+ {
+  "id": "\\bWant to trade it for my Chatot?",
+  "en": "\\bWant to trade it for my Chatot?",
+  "it": "\\bVuoi scambiarmelo con il mio Chatot?"
+ },
+ {
+  "id": "\\bYou don't want to trade? Shame.",
+  "en": "\\bYou don't want to trade?  Shame.",
+  "it": "\\bNon vuoi fare lo scambio?  Peccato."
+ },
+ {
+  "id": "\\bOK, let's do this.",
+  "en": "\\bOK, let's do this.",
+  "it": "\\bOK, facciamolo."
+ },
+ {
+  "id": "Chatot",
+  "en": "Chatot",
+  "it": "Chatot"
+ },
+ {
+  "id": "Cosmo",
+  "en": "Cosmo",
+  "it": "Cosmo"
+ },
+ {
+  "id": "\\PN traded Buizel for Chatot!",
+  "en": "\\PN traded Buizel for Chatot!",
+  "it": "\\PN ha scambiato Buizel con Chatot!"
+ },
+ {
+  "id": "\\bThanks!",
+  "en": "\\bThanks!",
+  "it": "\\bGrazie!"
+ },
+ {
+  "id": "\\bKeep it coming.",
+  "en": "\\bKeep it coming.",
+  "it": "\\bContinua così."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

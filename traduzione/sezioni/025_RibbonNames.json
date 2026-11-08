@@ -1,0 +1,402 @@
+[
+ {
+  "id": 1,
+  "en": "Cool Ribbon",
+  "it": "Fiocco Classe"
+ },
+ {
+  "id": 2,
+  "en": "Cool Ribbon Super",
+  "it": "Fiocco Classe Super"
+ },
+ {
+  "id": 3,
+  "en": "Cool Ribbon Hyper",
+  "it": "Fiocco Classe Iper"
+ },
+ {
+  "id": 4,
+  "en": "Cool Ribbon Master",
+  "it": "Fiocco Classe Master"
+ },
+ {
+  "id": 5,
+  "en": "Beauty Ribbon",
+  "it": "Fiocco Bellezza"
+ },
+ {
+  "id": 6,
+  "en": "Beauty Ribbon Super",
+  "it": "Fiocco Bellezza Super"
+ },
+ {
+  "id": 7,
+  "en": "Beauty Ribbon Hyper",
+  "it": "Fiocco Bellezza Iper"
+ },
+ {
+  "id": 8,
+  "en": "Beauty Ribbon Master",
+  "it": "Fiocco Bellezza Master"
+ },
+ {
+  "id": 9,
+  "en": "Cute Ribbon",
+  "it": "Fiocco Grazia"
+ },
+ {
+  "id": 10,
+  "en": "Cute Ribbon Super",
+  "it": "Fiocco Grazia Super"
+ },
+ {
+  "id": 11,
+  "en": "Cute Ribbon Hyper",
+  "it": "Fiocco Grazia Iper"
+ },
+ {
+  "id": 12,
+  "en": "Cute Ribbon Master",
+  "it": "Fiocco Grazia Master"
+ },
+ {
+  "id": 13,
+  "en": "Smart Ribbon",
+  "it": "Fiocco Acume"
+ },
+ {
+  "id": 14,
+  "en": "Smart Ribbon Super",
+  "it": "Fiocco Acume Super"
+ },
+ {
+  "id": 15,
+  "en": "Smart Ribbon Hyper",
+  "it": "Fiocco Acume Iper"
+ },
+ {
+  "id": 16,
+  "en": "Smart Ribbon Master",
+  "it": "Fiocco Acume Master"
+ },
+ {
+  "id": 17,
+  "en": "Tough Ribbon",
+  "it": "Fiocco Grinta"
+ },
+ {
+  "id": 18,
+  "en": "Tough Ribbon Super",
+  "it": "Fiocco Grinta Super"
+ },
+ {
+  "id": 19,
+  "en": "Tough Ribbon Hyper",
+  "it": "Fiocco Grinta Iper"
+ },
+ {
+  "id": 20,
+  "en": "Tough Ribbon Master",
+  "it": "Fiocco Grinta Master"
+ },
+ {
+  "id": 21,
+  "en": "Ula'ula Trial Ribbon",
+  "it": "Fiocco Prova di Ula'ula"
+ },
+ {
+  "id": 22,
+  "en": "Cool Ribbon Great",
+  "it": "Fiocco Classe Grande"
+ },
+ {
+  "id": 23,
+  "en": "Cool Ribbon Ultra",
+  "it": "Fiocco Classe Ultra"
+ },
+ {
+  "id": 24,
+  "en": "Ula'ula Grand Trial Ribbon",
+  "it": "Fiocco Gran Prova di Ula'ula"
+ },
+ {
+  "id": 25,
+  "en": "Beauty Ribbon",
+  "it": "Fiocco Bellezza"
+ },
+ {
+  "id": 26,
+  "en": "Beauty Ribbon Great",
+  "it": "Fiocco Bellezza Grande"
+ },
+ {
+  "id": 27,
+  "en": "Beauty Ribbon Ultra",
+  "it": "Fiocco Bellezza Ultra"
+ },
+ {
+  "id": 28,
+  "en": "Poni Grand Trial Ribbon",
+  "it": "Fiocco Gran Prova di Poni"
+ },
+ {
+  "id": 29,
+  "en": "Akala Trial Ribbon",
+  "it": "Fiocco Prova di Akala"
+ },
+ {
+  "id": 30,
+  "en": "Cute Ribbon Great",
+  "it": "Fiocco Grazia Grande"
+ },
+ {
+  "id": 31,
+  "en": "Cute Ribbon Ultra",
+  "it": "Fiocco Grazia Ultra"
+ },
+ {
+  "id": 32,
+  "en": "Akala Grand Trial Ribbon",
+  "it": "Fiocco Gran Prova di Akala"
+ },
+ {
+  "id": 33,
+  "en": "Smart Ribbon",
+  "it": "Fiocco Acume"
+ },
+ {
+  "id": 34,
+  "en": "Smart Ribbon Great",
+  "it": "Fiocco Acume Grande"
+ },
+ {
+  "id": 35,
+  "en": "Smart Ribbon Ultra",
+  "it": "Fiocco Acume Ultra"
+ },
+ {
+  "id": 36,
+  "en": "Smart Ribbon Master",
+  "it": "Fiocco Acume Master"
+ },
+ {
+  "id": 37,
+  "en": "Melemele Trial Ribbon",
+  "it": "Fiocco Prova di Mele Mele"
+ },
+ {
+  "id": 38,
+  "en": "Tough Ribbon Great",
+  "it": "Fiocco Grinta Grande"
+ },
+ {
+  "id": 39,
+  "en": "Tough Ribbon Ultra",
+  "it": "Fiocco Grinta Ultra"
+ },
+ {
+  "id": 40,
+  "en": "Melemele Grand Trial Ribbon",
+  "it": "Fiocco Gran Prova di Mele Mele"
+ },
+ {
+  "id": 41,
+  "en": "Winning Ribbon",
+  "it": "Fiocco Vittoria"
+ },
+ {
+  "id": 42,
+  "en": "Victory Ribbon",
+  "it": "Fiocco Trionfo"
+ },
+ {
+  "id": 43,
+  "en": "Ability Ribbon",
+  "it": "Fiocco Abilità"
+ },
+ {
+  "id": 44,
+  "en": "Great Ability Ribbon",
+  "it": "Fiocco Grande Abilità"
+ },
+ {
+  "id": 45,
+  "en": "Double Ability Ribbon",
+  "it": "Fiocco Doppia Abilità"
+ },
+ {
+  "id": 46,
+  "en": "Multi Ability Ribbon",
+  "it": "Fiocco Multiabilità"
+ },
+ {
+  "id": 47,
+  "en": "Pair Ability Ribbon",
+  "it": "Fiocco Abilità Coppia"
+ },
+ {
+  "id": 48,
+  "en": "World Ability Ribbon",
+  "it": "Fiocco Abilità Mondiale"
+ },
+ {
+  "id": 49,
+  "en": "Champion Ribbon",
+  "it": "Fiocco Campione"
+ },
+ {
+  "id": 50,
+  "en": "Sinnoh Champ Ribbon",
+  "it": "Fiocco Campione Sinnoh"
+ },
+ {
+  "id": 51,
+  "en": "Record Ribbon",
+  "it": "Fiocco Record"
+ },
+ {
+  "id": 52,
+  "en": "Event Ribbon",
+  "it": "Fiocco Evento"
+ },
+ {
+  "id": 53,
+  "en": "Legend Ribbon",
+  "it": "Fiocco Leggenda"
+ },
+ {
+  "id": 54,
+  "en": "Master Ribbon",
+  "it": "Fiocco Maestro"
+ },
+ {
+  "id": 55,
+  "en": "Royal Ribbon",
+  "it": "Fiocco Reale"
+ },
+ {
+  "id": 56,
+  "en": "Gorgeous Royal Ribbon",
+  "it": "Fiocco Reale Sfarzoso"
+ },
+ {
+  "id": 57,
+  "en": "Lily Ribbon",
+  "it": "Fiocco Lily"
+ },
+ {
+  "id": 58,
+  "en": "Manalo Ribbon",
+  "it": "Fiocco Manalo"
+ },
+ {
+  "id": 59,
+  "en": "Ever Grande Ribbon",
+  "it": "Fiocco Iridopoli"
+ },
+ {
+  "id": 60,
+  "en": "Vetress Ribbon",
+  "it": "Fiocco Vetress"
+ },
+ {
+  "id": 61,
+  "en": "Indigo Ribbon",
+  "it": "Fiocco Indaco"
+ },
+ {
+  "id": 62,
+  "en": "Lumiose Ribbon",
+  "it": "Fiocco Luminopoli"
+ },
+ {
+  "id": 63,
+  "en": "Silver Ribbon",
+  "it": "Fiocco Argento"
+ },
+ {
+  "id": 64,
+  "en": "Footprint Ribbon",
+  "it": "Fiocco Impronta"
+ },
+ {
+  "id": 65,
+  "en": "Artist Ribbon",
+  "it": "Fiocco Artista"
+ },
+ {
+  "id": 66,
+  "en": "Terracotta Ribbon",
+  "it": "Fiocco Terracotta"
+ },
+ {
+  "id": 67,
+  "en": "Birthday Ribbon",
+  "it": "Fiocco Compleanno"
+ },
+ {
+  "id": 68,
+  "en": "Special Ribbon",
+  "it": "Fiocco Speciale"
+ },
+ {
+  "id": 69,
+  "en": "Classic Ribbon",
+  "it": "Fiocco Classico"
+ },
+ {
+  "id": 70,
+  "en": "Premier Ribbon",
+  "it": "Fiocco Premier"
+ },
+ {
+  "id": 71,
+  "en": "Souvenir Ribbon",
+  "it": "Fiocco Ricordo"
+ },
+ {
+  "id": 72,
+  "en": "Wishing Ribbon",
+  "it": "Fiocco Desiderio"
+ },
+ {
+  "id": 73,
+  "en": "National Ribbon",
+  "it": "Fiocco Nazionale"
+ },
+ {
+  "id": 74,
+  "en": "Country Ribbon",
+  "it": "Fiocco Paese"
+ },
+ {
+  "id": 75,
+  "en": "Battle Champion Ribbon",
+  "it": "Fiocco Campione Lotta"
+ },
+ {
+  "id": 76,
+  "en": "Regional Champion Ribbon",
+  "it": "Fiocco Campione Regionale"
+ },
+ {
+  "id": 77,
+  "en": "Earth Ribbon",
+  "it": "Fiocco Terra"
+ },
+ {
+  "id": 78,
+  "en": "World Ribbon",
+  "it": "Fiocco Mondo"
+ },
+ {
+  "id": 79,
+  "en": "National Champion Ribbon",
+  "it": "Fiocco Campione Nazionale"
+ },
+ {
+  "id": 80,
+  "en": "World Champion Ribbon",
+  "it": "Fiocco Campione Mondiale"
+ }
+]

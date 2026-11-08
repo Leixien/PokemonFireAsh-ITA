@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "Kanto",
+  "it": "Kanto"
+ },
+ {
+  "id": 1,
+  "en": "Johto",
+  "it": "Johto"
+ },
+ {
+  "id": 2,
+  "en": "Hoenn",
+  "it": "Hoenn"
+ },
+ {
+  "id": 3,
+  "en": "Sinnoh",
+  "it": "Sinnoh"
+ },
+ {
+  "id": 4,
+  "en": "Unova",
+  "it": "Unima"
+ },
+ {
+  "id": 5,
+  "en": "Kalos",
+  "it": "Kalos"
+ },
+ {
+  "id": 6,
+  "en": "Alola",
+  "it": "Alola"
+ },
+ {
+  "id": 7,
+  "en": "Galar",
+  "it": "Galar"
+ },
+ {
+  "id": 8,
+  "en": "Unknown",
+  "it": "Sconosciuto"
+ }
+]

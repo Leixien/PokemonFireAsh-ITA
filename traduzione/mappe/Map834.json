@@ -1,0 +1,207 @@
+[
+ {
+  "id": "\\rNo one should be out here.",
+  "en": "\\rNo one should be out here.",
+  "it": "\\rQui fuori non dovrebbe esserci nessuno."
+ },
+ {
+  "id": "\\rBe sure to stay safe. The swamp can cause a lot of problems.",
+  "en": "\\rBe sure to stay safe. The swamp can cause a lot of problems.",
+  "it": "\\rMi raccomando, stai attento. La palude può causare un sacco di problemi."
+ },
+ {
+  "id": "\\rWho goes there?",
+  "en": "\\rWho goes there?",
+  "it": "\\rChi va là?"
+ },
+ {
+  "id": "\\rBe careful. Sneaking up on someone is a bad idea.",
+  "en": "\\rBe careful. Sneaking up on someone is a bad idea.",
+  "it": "\\rStai attento. Avvicinarsi di soppiatto a qualcuno è una pessima idea."
+ },
+ {
+  "id": "\\bKeanan: Hello there. Would you like me to train one of your Pokémon?",
+  "en": "\\bKeanan: Hello there. Would you like me to train one of your Pokémon?",
+  "it": "\\bKeanan: Salve. Vuoi che alleni uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bOh? But you only have one with you.",
+  "en": "\\bOh?  But you only have one with you.",
+  "it": "\\bOh? Ma ne hai solo uno con te."
+ },
+ {
+  "id": "\\bWhich Pokémon would you like me to raise?",
+  "en": "\\bWhich Pokémon would you like me to raise?",
+  "it": "\\bQuale Pokémon vuoi che alleni?"
+ },
+ {
+  "id": "\\bVery well.",
+  "en": "\\bVery well.",
+  "it": "\\bMolto bene."
+ },
+ {
+  "id": "\\bIf you leave me that Pokémon, what are you going to battle with?",
+  "en": "\\bIf you leave me that Pokémon, what are you going to battle with?",
+  "it": "\\bSe mi lasci quel Pokémon, con cosa lotterai?"
+ },
+ {
+  "id": "\\bCome back when you have enough to make it out there.",
+  "en": "\\bCome back when you have enough to make it out there.",
+  "it": "\\bTorna quando ne avrai abbastanza per cavartela là fuori."
+ },
+ {
+  "id": "\\bI'll raise your \\v[3] for a while.",
+  "en": "\\bI'll raise your \\v[3] for a while.",
+  "it": "\\bAllenerò il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\bI can raise two of your Pokémon. Would you like me to raise another?",
+  "en": "\\bI can raise two of your Pokémon. Would you like me to raise another?",
+  "it": "\\bPosso allenare due dei tuoi Pokémon. Vuoi che ne alleni un altro?"
+ },
+ {
+  "id": "\\bOh? But you only have one Pokémon with you.",
+  "en": "\\bOh?  But you only have one Pokémon with you.",
+  "it": "\\bOh?  Ma hai un solo Pokémon con te."
+ },
+ {
+  "id": "\\bYou can't go off without a Pokémon. Come back another time.",
+  "en": "\\bYou can't go off without a Pokémon. Come back another time.",
+  "it": "\\bNon puoi andartene in giro senza un Pokémon. Torna un'altra volta."
+ },
+ {
+  "id": "\\bWhich Pokémon should I raise for you?",
+  "en": "\\bWhich Pokémon should I raise for you?",
+  "it": "\\bQuale Pokémon devo allenare per te?"
+ },
+ {
+  "id": "\\bI can always train one for you.",
+  "en": "\\bI can always train one for you.",
+  "it": "\\bPosso sempre allenartene uno."
+ },
+ {
+  "id": "\\bCome back another time.",
+  "en": "\\bCome back another time.",
+  "it": "\\bTorna un'altra volta."
+ },
+ {
+  "id": "\\bFine, I'll raise your \\v[3] for a while.",
+  "en": "\\bFine, I'll raise your \\v[3] for a while.",
+  "it": "\\bBene, allenerò il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\bCome back for it later.",
+  "en": "\\bCome back for it later.",
+  "it": "\\bTorna a prenderlo più tardi."
+ },
+ {
+  "id": "\\bHello \\PN. How's it going? Your Pokémon got stronger.",
+  "en": "\\bHello \\PN. How's it going? Your Pokémon got stronger.",
+  "it": "\\bCiao, \\PN. Come va? Il tuo Pokémon è diventato più forte."
+ },
+ {
+  "id": "\\bBy level, your \\v[3] has grown by about \\v[4].",
+  "en": "\\bBy level, your \\v[3] has grown by about \\v[4].",
+  "it": "\\bIl tuo \\v[3] è salito di circa \\v[4] livelli."
+ },
+ {
+  "id": "\\bDo you want your Pokémon back?",
+  "en": "\\bDo you want your Pokémon back?",
+  "it": "\\bVuoi riavere il tuo Pokémon?"
+ },
+ {
+  "id": "\\bYour Pokémon team is full. Make room, then come see me.",
+  "en": "\\bYour Pokémon team is full. Make room, then come see me.",
+  "it": "\\bLa tua squadra è al completo. Fai spazio, poi torna da me."
+ },
+ {
+  "id": "Which one do you want back?",
+  "en": "Which one do you want back?",
+  "it": "Quale vuoi riprenderti?"
+ },
+ {
+  "id": "\\G\\bIf you want your \\v[3] back, it will cost $\\v[4].",
+  "en": "\\G\\bIf you want your \\v[3] back, it will cost $\\v[4].",
+  "it": "\\G\\bSe vuoi riavere il tuo \\v[3], ti costerà $\\v[4]."
+ },
+ {
+  "id": "\\G\\bYou don't have enough money...",
+  "en": "\\G\\bYou don't have enough money...",
+  "it": "\\G\\bNon hai abbastanza soldi..."
+ },
+ {
+  "id": "\\G\\bWonderful\\nHere's your Pokémon.",
+  "en": "\\G\\bWonderful\\nHere's your Pokémon.",
+  "it": "\\G\\bMeraviglioso\\nEcco il tuo Pokémon."
+ },
+ {
+  "id": "\\PN took \\v[3] back from Keanan.",
+  "en": "\\PN took \\v[3] back from Keanan.",
+  "it": "\\PN si è ripreso \\v[3] da Keanan."
+ },
+ {
+  "id": "\\bDo you want to take back the other one, too?",
+  "en": "\\bDo you want to take back the other one, too?",
+  "it": "\\bVuoi riprenderti anche l'altro?"
+ },
+ {
+  "id": "\\bWhere are you going?",
+  "en": "\\bWhere are you going?",
+  "it": "\\bDove stai andando?"
+ },
+ {
+  "id": "\\bHow are you doing today?",
+  "en": "\\bHow are you doing today?",
+  "it": "\\bCome stai oggi?"
+ },
+ {
+  "id": "\\bTrying to slip by were you?",
+  "en": "\\bTrying to slip by were you?",
+  "it": "\\bCercavi di sgattaiolare via, eh?"
+ },
+ {
+  "id": "\\bGoomy has been struggling as the weakest dragon type. They've evolved to the point that it happens earlier than it used to.",
+  "en": "\\bGoomy has been struggling as the weakest dragon type. They've evolved to the point that it happens earlier than it used to.",
+  "it": "\\bGoomy ha sempre faticato a essere il tipo Drago più debole. Si è evoluto al punto che ora l'evoluzione avviene prima di un tempo."
+ },
+ {
+  "id": "\\rBe gone.",
+  "en": "\\rBe gone.",
+  "it": "\\rSparisci."
+ },
+ {
+  "id": "\\rBe careful. Someone is watching you.",
+  "en": "\\rBe careful. Someone is watching you.",
+  "it": "\\rStai attento. Qualcuno ti sta osservando."
+ },
+ {
+  "id": "\\rSerena: \\PN! I've figured out what I want to do. I'm going to be a Pokémon Performer. It's not a traditional path, but I think it will work out.",
+  "en": "\\rSerena: \\PN! I've figured out what I want to do. I'm going to be a Pokémon Performer. It's not a traditional path, but I think it will work out.",
+  "it": "\\rSerena: \\PN! Ho capito cosa voglio fare. Diventerò un'Artista Pokémon. Non è una strada tradizionale, ma credo che funzionerà."
+ },
+ {
+  "id": "\\rI see you already have half the badges. Why don't you show me the power of someone who's moving along so well.",
+  "en": "\\rI see you already have half the badges. Why don't you show me the power of someone who's moving along so well.",
+  "it": "\\rVedo che hai già metà delle Medaglie. Perché non mi mostri la forza di qualcuno che sta andando così bene?"
+ },
+ {
+  "id": "\\rI'm going to get even better \\PN. I'll make myself someone you can look up to.",
+  "en": "\\rI'm going to get even better \\PN. I'll make myself someone you can look up to.",
+  "it": "\\rDiventerò ancora più brava, \\PN. Farò di me una persona che tu possa ammirare."
+ },
+ {
+  "id": "\\rSerena: I can't wait to achieve my goal!",
+  "en": "\\rSerena: I can't wait to achieve my goal!",
+  "it": "\\rSerena: Non vedo l'ora di raggiungere il mio obiettivo!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

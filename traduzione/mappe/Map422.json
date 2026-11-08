@@ -1,0 +1,52 @@
+[
+ {
+  "id": "\\bCharizard!",
+  "en": "\\bCharizard!",
+  "it": "\\bCharizard!"
+ },
+ {
+  "id": "\\bLeon: I could use your help bringing this situation under control. Follow me.",
+  "en": "\\bLeon: I could use your help bringing this situation under control. Follow me.",
+  "it": "\\bDandel: Mi farebbe comodo il tuo aiuto per tenere sotto controllo la situazione. Seguimi."
+ },
+ {
+  "id": "Zacian",
+  "en": "Zacian",
+  "it": "Zacian"
+ },
+ {
+  "id": "\\bLeon: Charizard, Rock Tomb!",
+  "en": "\\bLeon: Charizard, Rock Tomb!",
+  "it": "\\bDandel: Charizard, Rocciotomba!"
+ },
+ {
+  "id": "\\bLeon: Another Dynamaxed Pokémon out of control. What is going on here?",
+  "en": "\\bLeon: Another Dynamaxed Pokémon out of control.  What is going on here?",
+  "it": "\\bDandel: Un altro Pokémon Dynamax fuori controllo.  Cosa sta succedendo qui?"
+ },
+ {
+  "id": "\\bEither way, I'm glad you're safe. I'll be going now.",
+  "en": "\\bEither way, I'm glad you're safe. I'll be going now.",
+  "it": "\\bIn ogni caso, sono contento che tu stia bene. Io vado."
+ },
+ {
+  "id": "\\bWait, you're a talented Trainer in your own right. I could use your help bringing this situation under control. Follow me.",
+  "en": "\\bWait, you're a talented Trainer in your own right. I could use your help bringing this situation under control. Follow me.",
+  "it": "\\bAspetta, anche tu sei un Allenatore di talento. Mi farebbe comodo il tuo aiuto per tenere sotto controllo la situazione. Seguimi."
+ },
+ {
+  "id": "Rotom Phone: Announcment. Incoming call from Goh:",
+  "en": "Rotom Phone: Announcment. Incoming call from Goh:",
+  "it": "Rotom Phone: Avviso. Chiamata in arrivo da Goh:"
+ },
+ {
+  "id": "\\bGoh: \\PN, are you alright? The fog got so strong on the train that we crashed. I just escaped the forest and there are Dynamaxed Pokémon everywhere.",
+  "en": "\\bGoh: \\PN, are you alright? The fog got so strong on the train that we crashed. I just escaped the forest and there are Dynamaxed Pokémon everywhere.",
+  "it": "\\bGoh: \\PN, stai bene? La nebbia sul treno è diventata così fitta che siamo deragliati. Sono appena uscito dal bosco e ci sono Pokémon Dynamax ovunque."
+ },
+ {
+  "id": "\\bIt's good to know you're okay. I'm heading to Turffield with Sonia. I'll call you later if we learn anything. There's no time to waste.",
+  "en": "\\bIt's good to know you're okay. I'm heading to Turffield with Sonia. I'll call you later if we learn anything. There's no time to waste.",
+  "it": "\\bMeno male che stai bene. Sto andando a Turffield con Sonia. Ti chiamo più tardi se scopriamo qualcosa. Non c'è tempo da perdere."
+ }
+]

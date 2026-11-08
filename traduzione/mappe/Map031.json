@@ -1,0 +1,277 @@
+[
+ {
+  "id": "\\bHi \\PN! I'm your Rival!",
+  "en": "\\bHi \\PN!  I'm your Rival!",
+  "it": "\\bCiao \\PN! Sono il tuo Rivale!"
+ },
+ {
+  "id": "\\bDo you want to name me, or leave me with my default name as defined in trainers.txt?",
+  "en": "\\bDo you want to name me, or leave me with my default name as defined in trainers.txt?",
+  "it": "\\bVuoi darmi un nome o lasciarmi quello predefinito definito in trainers.txt?"
+ },
+ {
+  "id": "\\bSo my name is \\v[12], huh? Okay then.",
+  "en": "\\bSo my name is \\v[12], huh?  Okay then.",
+  "it": "\\bQuindi mi chiamo \\v[12], eh? Va bene."
+ },
+ {
+  "id": "\\bLet's get down to the battle!",
+  "en": "\\bLet's get down to the battle!",
+  "it": "\\bPassiamo alla lotta!"
+ },
+ {
+  "id": "Not too shabby.",
+  "en": "Not too shabby.",
+  "it": "Niente male."
+ },
+ {
+  "id": "\\bI'm going to leave now. Smell you later!",
+  "en": "\\bI'm going to leave now.  Smell you later!",
+  "it": "\\bOra me ne vado. Ci si vede!"
+ },
+ {
+  "id": "\\bDid I notice you, or did you notice me?",
+  "en": "\\bDid I notice you, or did you notice me?",
+  "it": "\\bSono io che ho notato te o tu che hai notato me?"
+ },
+ {
+  "id": "A very good battle, indeed.",
+  "en": "A very good battle, indeed.",
+  "it": "Davvero un'ottima lotta."
+ },
+ {
+  "id": "\\bLet's have a rematch!",
+  "en": "\\bLet's have a rematch!",
+  "it": "\\bFacciamo la rivincita!"
+ },
+ {
+  "id": "You beat me again!",
+  "en": "You beat me again!",
+  "it": "Mi hai battuto di nuovo!"
+ },
+ {
+  "id": "\\bI don't think I'll ever be able to beat you.",
+  "en": "\\bI don't think I'll ever be able to beat you.",
+  "it": "\\bNon credo che riuscirò mai a batterti."
+ },
+ {
+  "id": "\\bI'll get even stronger, and beat you next time!",
+  "en": "\\bI'll get even stronger, and beat you next time!",
+  "it": "\\bDiventerò ancora più forte e la prossima volta ti batterò!"
+ },
+ {
+  "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\rTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\rAh, looks like a challenging trainer. Ready, Bob?",
+  "en": "\\rAh, looks like a challenging trainer.  Ready, Bob?",
+  "it": "\\rAh, sembra un Allenatore impegnativo. Pronto, Bob?"
+ },
+ {
+  "id": "Our teamwork failed!",
+  "en": "Our teamwork failed!",
+  "it": "Il nostro gioco di squadra ha fallito!"
+ },
+ {
+  "id": "\\rNotice that our events aren't created by comments.",
+  "en": "\\rNotice that our events aren't created by comments.",
+  "it": "\\rNota che i nostri eventi non sono creati tramite commenti."
+ },
+ {
+  "id": "\\rBattle me now!",
+  "en": "\\rBattle me now!",
+  "it": "\\rSfidami subito!"
+ },
+ {
+  "id": "Defeated! Oh my!",
+  "en": "Defeated!  Oh my!",
+  "it": "Sconfitta! Oh, cielo!"
+ },
+ {
+  "id": "\\rCan I add you to my contacts list?",
+  "en": "\\rCan I add you to my contacts list?",
+  "it": "\\rPosso aggiungerti alla mia lista contatti?"
+ },
+ {
+  "id": "\\rI'll say the same thing after every battle.",
+  "en": "\\rI'll say the same thing after every battle.",
+  "it": "\\rDirò la stessa cosa dopo ogni lotta."
+ },
+ {
+  "id": "Something unseeable is in the way. Want to use the Silph Scope?",
+  "en": "Something unseeable is in the way.  Want to use the Silph Scope?",
+  "it": "Qualcosa di invisibile blocca il passaggio. Vuoi usare la Spettrosonda?"
+ },
+ {
+  "id": "The invisible Pokémon became completely visible!",
+  "en": "The invisible Pokémon became completely visible!",
+  "it": "Il Pokémon invisibile è diventato completamente visibile!"
+ },
+ {
+  "id": "The startled Pokémon attacked!",
+  "en": "The startled Pokémon attacked!",
+  "it": "Il Pokémon, spaventato, ha attaccato!"
+ },
+ {
+  "id": "Something unseeable is in the way. Want to use the Devon Scope?",
+  "en": "Something unseeable is in the way.  Want to use the Devon Scope?",
+  "it": "Qualcosa di invisibile blocca il passaggio. Vuoi usare il Devonscopio?"
+ },
+ {
+  "id": "Something unseeable is in the way.",
+  "en": "Something unseeable is in the way.",
+  "it": "Qualcosa di invisibile blocca il passaggio."
+ },
+ {
+  "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\bTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\bAh, looks like a challenging trainer. Ready, Alice?",
+  "en": "\\bAh, looks like a challenging trainer.  Ready, Alice?",
+  "it": "\\bAh, sembra un Allenatore impegnativo. Pronta, Alice?"
+ },
+ {
+  "id": "\\bNotice that our events aren't created by comments.",
+  "en": "\\bNotice that our events aren't created by comments.",
+  "it": "\\bNota che i nostri eventi non sono creati tramite commenti."
+ },
+ {
+  "id": "\\rI've brought my own special backdrop!",
+  "en": "\\rI've brought my own special backdrop!",
+  "it": "\\rMi sono portata il mio sfondo speciale!"
+ },
+ {
+  "id": "My Skitty!",
+  "en": "My Skitty!",
+  "it": "Il mio Skitty!"
+ },
+ {
+  "id": "\\rI battled you first because my event's number (7) comes before the Hiker's and Fisherman's event numbers.",
+  "en": "\\rI battled you first because my event's number (7) comes before the Hiker's and Fisherman's event numbers.",
+  "it": "\\rTi ho sfidato per prima perché il numero del mio evento (7) viene prima di quelli del Montanaro e del Pescatore."
+ },
+ {
+  "id": "\\bDo you want to team up with me?",
+  "en": "\\bDo you want to team up with me?",
+  "it": "\\bVuoi fare squadra con me?"
+ },
+ {
+  "id": "\\PN teamed up with Brendan!\\se[itemlevel]\\wtnp[20]",
+  "en": "\\PN teamed up with Brendan!\\se[itemlevel]\\wtnp[20]",
+  "it": "\\PN ha fatto squadra con Brendan!\\se[itemlevel]\\wtnp[20]"
+ },
+ {
+  "id": "\\bOK then.",
+  "en": "\\bOK then.",
+  "it": "\\bOK, allora."
+ },
+ {
+  "id": "\\bThis battle will go without a hitch!",
+  "en": "\\bThis battle will go without a hitch!",
+  "it": "\\bQuesta lotta andrà liscia come l'olio!"
+ },
+ {
+  "id": "You're too good for me!",
+  "en": "You're too good for me!",
+  "it": "Sei troppo forte per me!"
+ },
+ {
+  "id": "\\bHow did you manage to face all three of us?",
+  "en": "\\bHow did you manage to face all three of us?",
+  "it": "\\bCome hai fatto ad affrontarci tutti e tre?"
+ },
+ {
+  "id": "These are all the particle effects available in Essentials. An event can only have one particle effect.",
+  "en": "These are all the particle effects available in Essentials.  An event can only have one particle effect.",
+  "it": "Questi sono tutti gli effetti particellari disponibili in Essentials. Un evento può avere un solo effetto particellare."
+ },
+ {
+  "id": "Shadow sources can be modified as in the top left particle event.",
+  "en": "Shadow sources can be modified as in the top left particle event.",
+  "it": "Le fonti d'ombra possono essere modificate come nell'evento particellare in alto a sinistra."
+ },
+ {
+  "id": "All four parameters (anglemax, anglemin, maxdistance, opacity) must be included in that order if you want to change any of them.",
+  "en": "All four parameters (anglemax, anglemin, maxdistance, opacity) must be included in that order if you want to change any of them.",
+  "it": "Tutti e quattro i parametri (anglemax, anglemin, maxdistance, opacity) devono essere inclusi in quest'ordine se vuoi modificarne qualcuno."
+ },
+ {
+  "id": "The default values are \"anglemax 0\", \"anglemin 0\", \"maxdistance 350\", \"opacity 100\". Distance is in pixels.",
+  "en": "The default values are \"anglemax 0\", \"anglemin 0\", \"maxdistance 350\", \"opacity 100\".  Distance is in pixels.",
+  "it": "I valori predefiniti sono \"anglemax 0\", \"anglemin 0\", \"maxdistance 350\", \"opacity 100\". La distanza è in pixel."
+ },
+ {
+  "id": "The shadow-related comments must come before the particle effect comment.",
+  "en": "The shadow-related comments must come before the particle effect comment.",
+  "it": "I commenti relativi alle ombre devono precedere il commento dell'effetto particellare."
+ },
+ {
+  "id": "\\bI'll get my tackle out for you!",
+  "en": "\\bI'll get my tackle out for you!",
+  "it": "\\bTiro fuori l'attrezzatura per te!"
+ },
+ {
+  "id": "Washed out!",
+  "en": "Washed out!",
+  "it": "Che naufragio!"
+ },
+ {
+  "id": "\\bI don't understand why my Magikarp couldn't beat you.",
+  "en": "\\bI don't understand why my Magikarp couldn't beat you.",
+  "it": "\\bNon capisco perché il mio Magikarp non sia riuscito a batterti."
+ },
+ {
+  "id": "\\bHi! I like shorts! They're comfy and easy to wear!",
+  "en": "\\bHi!  I like shorts!  They're comfy and easy to wear!",
+  "it": "\\bCiao! Adoro i pantaloncini! Sono comodi e facili da indossare!"
+ },
+ {
+  "id": "Aww, I lost.",
+  "en": "Aww, I lost.",
+  "it": "Uffa, ho perso."
+ },
+ {
+  "id": "\\bYou can't get a trainer event simpler than me!",
+  "en": "\\bYou can't get a trainer event simpler than me!",
+  "it": "\\bUn evento Allenatore più semplice di me non esiste!"
+ },
+ {
+  "id": "\\rGet ready for a double battle!",
+  "en": "\\rGet ready for a double battle!",
+  "it": "\\rPreparati a una lotta in doppio!"
+ },
+ {
+  "id": "You didn't have to win so convincingly!",
+  "en": "You didn't have to win so convincingly!",
+  "it": "Non c'era bisogno di vincere in modo così netto!"
+ },
+ {
+  "id": "\\rMake sure all double battle opponents have at least 2 Pokémon!",
+  "en": "\\rMake sure all double battle opponents have at least 2 Pokémon!",
+  "it": "\\rAssicurati che tutti gli avversari delle lotte in doppio abbiano almeno 2 Pokémon!"
+ },
+ {
+  "id": "Rename",
+  "en": "Rename",
+  "it": "Rinomina"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

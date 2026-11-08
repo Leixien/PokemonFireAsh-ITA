@@ -1,0 +1,42 @@
+[
+ {
+  "id": "\\bYou look tired. Why don't you take a rest.",
+  "en": "\\bYou look tired. Why don't you take a rest.",
+  "it": "\\bSembri stanco. Perché non ti riposi un po'?"
+ },
+ {
+  "id": "\\bOh, good! You and your Pokémon are looking great. Take care now!",
+  "en": "\\bOh, good! You and your Pokémon are looking great.  Take care now!",
+  "it": "\\bOh, bene! Tu e i tuoi Pokémon avete un ottimo aspetto. Abbi cura di te!"
+ },
+ {
+  "id": "\\rCynthia: You made it \\PN. Your friend is waiting in the back room.",
+  "en": "\\rCynthia: You made it \\PN. Your friend is waiting in the back room.",
+  "it": "\\rCamilla: Ce l'hai fatta, \\PN. Il tuo amico ti aspetta nella stanza sul retro."
+ },
+ {
+  "id": "\\rCynthia: The tournament should be starting soon.",
+  "en": "\\rCynthia: The tournament should be starting soon.",
+  "it": "\\rCamilla: Il torneo dovrebbe cominciare a breve."
+ },
+ {
+  "id": "\\rCynthia: I'm surprised you took on Team Rocket like that. I'm impressed.",
+  "en": "\\rCynthia: I'm surprised you took on Team Rocket like that. I'm impressed.",
+  "it": "\\rCamilla: Mi ha sorpreso come hai affrontato il Team Rocket. Sono colpita."
+ },
+ {
+  "id": "\\rDawn: \\PN! It's so good to see you again. I've been traveling through Johto and decided to visit Unova for a while.",
+  "en": "\\rDawn: \\PN! It's so good to see you again. I've been traveling through Johto and decided to visit Unova for a while.",
+  "it": "\\rLucinda: \\PN! Che bello rivederti! Ho viaggiato per Johto e ho deciso di fare un salto a Unima per un po'."
+ },
+ {
+  "id": "\\rI'm also entering the Pokémon World Tournament Junior Cup. Let's have a practice round to warm us up.",
+  "en": "\\rI'm also entering the Pokémon World Tournament Junior Cup. Let's have a practice round to warm us up.",
+  "it": "\\rAnch'io partecipo alla Coppa Junior del Pokémon World Tournament. Facciamo una lotta di prova per scaldarci."
+ },
+ {
+  "id": "\\rDawn: I hope we meet up when it starts. It would be an epic showdown.",
+  "en": "\\rDawn: I hope we meet up when it starts. It would be an epic showdown.",
+  "it": "\\rLucinda: Spero che ci incontreremo quando inizia. Sarebbe una sfida epica."
+ }
+]

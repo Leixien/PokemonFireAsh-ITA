@@ -1,0 +1,857 @@
+[
+ {
+  "id": "\\bMr. Mime",
+  "en": "\\bMr. Mime",
+  "it": "\\bMr. Mime"
+ },
+ {
+  "id": "\\rChloe: Yes? What do you want?",
+  "en": "\\rChloe: Yes? What do you want?",
+  "it": "\\rChloe: Sì? Che cosa vuoi?"
+ },
+ {
+  "id": "\\rChloe: What should I do with my life?",
+  "en": "\\rChloe: What should I do with my life?",
+  "it": "\\rChloe: Che cosa dovrei fare della mia vita?"
+ },
+ {
+  "id": "\\bOak: I'm looking forward to seeing your results.",
+  "en": "\\bOak: I'm looking forward to seeing your results.",
+  "it": "\\bOak: Non vedo l'ora di vedere i tuoi risultati."
+ },
+ {
+  "id": "\\rDo you think he's taking applications?",
+  "en": "\\rDo you think he's taking applications?",
+  "it": "\\rSecondo te sta accettando candidature?"
+ },
+ {
+  "id": "\\rEevee",
+  "en": "\\rEevee",
+  "it": "\\rEevee"
+ },
+ {
+  "id": "\\bCerise: How did the Project Mew mission go? While you were gone, a call from Opal came in. She'd like you to visit her gym in Ballonlea.",
+  "en": "\\bCerise: How did the Project Mew mission go? While you were gone, a call from Opal came in. She'd like you to visit her gym in Ballonlea.",
+  "it": "\\bCerise: Com'è andata la missione del Progetto Mew? Mentre eri via, ha chiamato Poppy. Vorrebbe che andassi a trovarla nella sua Palestra a Ballonlea."
+ },
+ {
+  "id": "\\bGoh: Hopefully it's not for more quizzes. Ready to go?",
+  "en": "\\bGoh: Hopefully it's not for more quizzes. Ready to go?",
+  "it": "\\bGoh: Speriamo non sia per altri quiz. Pronto a partire?"
+ },
+ {
+  "id": "\\bCerise: \\PN, it's terrible. Pokémon all over the world are turning back into Eggs. Nobody knows what is happening or what is going on.",
+  "en": "\\bCerise: \\PN, it's terrible. Pokémon all over the world are turning back into Eggs. Nobody knows what is happening or what is going on.",
+  "it": "\\bCerise: \\PN, è terribile. In tutto il mondo i Pokémon stanno tornando a essere Uova. Nessuno sa cosa stia succedendo."
+ },
+ {
+  "id": "\\bCerise: The issue began in Sinnoh, so we'll have to start our search there. Professor Rowan may have some idea as to where to go.",
+  "en": "\\bCerise: The issue began in Sinnoh, so we'll have to start our search there. Professor Rowan may have some idea as to where to go.",
+  "it": "\\bCerise: Il problema è cominciato a Sinnoh, quindi dovremo iniziare le ricerche da lì. Il Professor Rowan potrebbe avere qualche idea su dove andare."
+ },
+ {
+  "id": "\\bGoh: Let's not waste any time. Are you ready?",
+  "en": "\\bGoh: Let's not waste any time. Are you ready?",
+  "it": "\\bGoh: Non perdiamo tempo. Sei pronto?"
+ },
+ {
+  "id": "\\bCerise: Thank you both for your quick response. Thanks to you all the Pokémon are safe.",
+  "en": "\\bCerise: Thank you both for your quick response.  Thanks to you all the Pokémon are safe.",
+  "it": "\\bCerise: Grazie a entrambi per la vostra prontezza.  Grazie a voi tutti i Pokémon sono salvi."
+ },
+ {
+  "id": "\\bBack to less pressing matters, Allister, a Stow-on- Side Gym Leader, would like to meet you. He says he has something to help you with your battles.",
+  "en": "\\bBack to less pressing matters, Allister, a Stow-on- Side Gym Leader, would like to meet you. He says he has something to help you with your battles.",
+  "it": "\\bTornando a faccende meno urgenti, Onion, Capopalestra di Stow-on-Side, vorrebbe conoscerti. Dice di avere qualcosa che può aiutarti nelle lotte."
+ },
+ {
+  "id": "\\bGoh: I could use something more relaxing. Ready to go?",
+  "en": "\\bGoh: I could use something more relaxing. Ready to go?",
+  "it": "\\bGoh: Mi ci vorrebbe qualcosa di più rilassante. Pronto a partire?"
+ },
+ {
+  "id": "\\bCerise: Wasn't your friend waiting for you in Canalave City?",
+  "en": "\\bCerise: Wasn't your friend waiting for you in Canalave City?",
+  "it": "\\bCerise: Il tuo amico non ti stava aspettando a Canalipoli?"
+ },
+ {
+  "id": "\\bCerise: I heard you're going to be visiting your friend at Mossdeep City.",
+  "en": "\\bCerise: I heard you're going to be visiting your friend at Mossdeep City.",
+  "it": "\\bCerise: Ho sentito che andrai a trovare il tuo amico a Verdeazzupoli."
+ },
+ {
+  "id": "\\bCerise: Good luck in your next match.",
+  "en": "\\bCerise: Good luck in your next match.",
+  "it": "\\bCerise: Buona fortuna per il tuo prossimo incontro."
+ },
+ {
+  "id": "\\bCerise: I heard Goh was in Lilycove City right now.",
+  "en": "\\bCerise: I heard Goh was in Lilycove City right now.",
+  "it": "\\bCerise: Ho sentito che Goh si trova a Porto Alghepoli in questo momento."
+ },
+ {
+  "id": "\\bCerise: An unknown Pokémon has been spotted in the Crown Tundra. I'd like the both of you to investigate it.",
+  "en": "\\bCerise: An unknown Pokémon has been spotted in the Crown Tundra. I'd like the both of you to investigate it.",
+  "it": "\\bCerise: È stato avvistato un Pokémon sconosciuto nella Landa Corona. Vorrei che voi due indagaste."
+ },
+ {
+  "id": "\\bThe blimp service in Wyndon can take you there.",
+  "en": "\\bThe blimp service in Wyndon can take you there.",
+  "it": "\\bIl servizio di dirigibili di Wyndon può portarvi lì."
+ },
+ {
+  "id": "\\bCerise: You need to visit Professor Oak. Give him my regards.",
+  "en": "\\bCerise: You need to visit Professor Oak. Give him my regards.",
+  "it": "\\bCerise: Devi andare a trovare il Professor Oak. Portagli i miei saluti."
+ },
+ {
+  "id": "\\bCerise: Goh is looking for you in the park.",
+  "en": "\\bCerise: Goh is looking for you in the park.",
+  "it": "\\bCerise: Goh ti sta cercando nel parco."
+ },
+ {
+  "id": "\\bCerise: The Masters Tournament has begun. I believe in you.",
+  "en": "\\bCerise: The Masters Tournament has begun. I believe in you.",
+  "it": "\\bCerise: Il Torneo dei Master è cominciato. Io credo in te."
+ },
+ {
+  "id": "\\bCerise: I watched all of your battles. You did a great job.",
+  "en": "\\bCerise: I watched all of your battles. You did a great job.",
+  "it": "\\bCerise: Ho guardato tutte le tue lotte. Hai fatto un ottimo lavoro."
+ },
+ {
+  "id": "\\bGoh is somewhere in the city waiting for you. He had something he wanted to talk to you about.",
+  "en": "\\bGoh is somewhere in the city waiting for you. He had something he wanted to talk to you about.",
+  "it": "\\bGoh ti sta aspettando da qualche parte in città. Voleva parlarti di una cosa."
+ },
+ {
+  "id": "\\bCerise: So the two of you are leaving? As much as I'll miss you, I know this is what's best.",
+  "en": "\\bCerise: So the two of you are leaving? As much as I'll miss you, I know this is what's best.",
+  "it": "\\bCerise: Quindi ve ne andate? Per quanto mi mancherete, so che è la cosa migliore."
+ },
+ {
+  "id": "\\bGoh: Thank you, Professor. I'll be sure to visit. My Pokémon will be in good hands with you.",
+  "en": "\\bGoh: Thank you, Professor. I'll be sure to visit. My Pokémon will be in good hands with you.",
+  "it": "\\bGoh: Grazie, Professoressa. Verrò sicuramente a trovarla. I miei Pokémon saranno in buone mani con lei."
+ },
+ {
+  "id": "\\bCerise: Before you go, I have a gift for you. Use it well.",
+  "en": "\\bCerise: Before you go, I have a gift for you. Use it well.",
+  "it": "\\bCerise: Prima che andiate, ho un regalo per voi. Usatelo bene."
+ },
+ {
+  "id": "\\bI have one last piece of advice for you. Be sure to check your phone often and refresh yourself on your notes. It helps to stay organized.",
+  "en": "\\bI have one last piece of advice for you. Be sure to check your phone often and refresh yourself on your notes. It helps to stay organized.",
+  "it": "\\bHo un ultimo consiglio per te. Controlla spesso il telefono e rileggi i tuoi appunti. Aiuta a restare organizzati."
+ },
+ {
+  "id": "\\bCerise: I have one last piece of advice for you. Be sure to check your phone often and refresh yourself on your notes. It helps to stay organized.",
+  "en": "\\bCerise: I have one last piece of advice for you. Be sure to check your phone often and refresh yourself on your notes. It helps to stay organized.",
+  "it": "\\bCerise: Ho un ultimo consiglio per te. Controlla spesso il telefono e rileggi i tuoi appunti. Aiuta a restare organizzati."
+ },
+ {
+  "id": "\\bTake care.",
+  "en": "\\bTake care.",
+  "it": "\\bAbbi cura di te."
+ },
+ {
+  "id": "\\rDragonite",
+  "en": "\\rDragonite",
+  "it": "\\rDragonite"
+ },
+ {
+  "id": "\\bYamper!",
+  "en": "\\bYamper!",
+  "it": "\\bYamper!"
+ },
+ {
+  "id": "\\bCerise: Thank you for visiting my lab.",
+  "en": "\\bCerise: Thank you for visiting my lab.",
+  "it": "\\bCerise: Grazie per aver visitato il mio laboratorio."
+ },
+ {
+  "id": "\\bCerise: There's a bed upstairs the two of you can use. We'll get started on our work tomorrow.",
+  "en": "\\bCerise: There's a bed upstairs the two of you can use. We'll get started on our work tomorrow.",
+  "it": "\\bCerise: Al piano di sopra c'è un letto che potete usare. Domani cominceremo a lavorare."
+ },
+ {
+  "id": "\\bCerise: A mass outbreak of Ivysaur has appeared in the city. Go investigate it.",
+  "en": "\\bCerise: A mass outbreak of Ivysaur has appeared in the city. Go investigate it.",
+  "it": "\\bCerise: In città è apparso uno sciame di Ivysaur. Andate a indagare."
+ },
+ {
+  "id": "\\bCerise: So the mass outbreak was caused by Team Rocket? I'm glad you were there to handle it.",
+  "en": "\\bCerise: So the mass outbreak was caused by Team Rocket? I'm glad you were there to handle it.",
+  "it": "\\bCerise: Quindi lo sciame era causato dal Team Rocket? Sono contenta che c'eravate voi a occuparvene."
+ },
+ {
+  "id": "\\bNow that that's been handled, let me give you the project I intended on. Goh found an article about the phenomenon that causes Pokémon to grow giant.",
+  "en": "\\bNow that that's been handled, let me give you the project I intended on. Goh found an article about the phenomenon that causes Pokémon to grow giant.",
+  "it": "\\bOra che è tutto sistemato, lasciate che vi affidi il progetto che avevo in mente. Goh ha trovato un articolo sul fenomeno che fa diventare giganti i Pokémon."
+ },
+ {
+  "id": "\\bThis only happens in the Galar region, so I'll need you to go there to discover what's happening.",
+  "en": "\\bThis only happens in the Galar region, so I'll need you to go there to discover what's happening.",
+  "it": "\\bSuccede solo nella regione di Galar, quindi dovrete andare lì a scoprire cosa sta succedendo."
+ },
+ {
+  "id": "\\bYou can take a train there from Saffron City.",
+  "en": "\\bYou can take a train there from Saffron City.",
+  "it": "\\bPotete prendere un treno da Zafferanopoli."
+ },
+ {
+  "id": "\\bCerise: You can take a train to Galar from Saffron City.",
+  "en": "\\bCerise: You can take a train to Galar from Saffron City.",
+  "it": "\\bCerise: Potete prendere un treno per Galar da Zafferanopoli."
+ },
+ {
+  "id": "\\bCerise: So you found a giant Snorlax? Good work. I'll have to research this more on my own.",
+  "en": "\\bCerise: So you found a giant Snorlax? Good work.  I'll have to research this more on my own.",
+  "it": "\\bCerise: Quindi avete trovato uno Snorlax gigante? Ottimo lavoro.  Dovrò approfondire la cosa per conto mio."
+ },
+ {
+  "id": "\\bI don't want to overload you with one project after the next. Why don't you take a break and visit the Battle Frontier in Hoenn?",
+  "en": "\\bI don't want to overload you with one project after the next. Why don't you take a break and visit the Battle Frontier in Hoenn?",
+  "it": "\\bNon voglio sommergervi di progetti uno dopo l'altro. Perché non vi prendete una pausa e visitate il Parco Lotta a Hoenn?"
+ },
+ {
+  "id": "\\bYou can get there from the ship at the harbor.",
+  "en": "\\bYou can get there from the ship at the harbor.",
+  "it": "\\bCi potete arrivare con la nave al porto."
+ },
+ {
+  "id": "\\bCerise: I heard from Goh you won the Flute Cup. Good job!",
+  "en": "\\bCerise: I heard from Goh you won the Flute Cup.  Good job!",
+  "it": "\\bCerise: Goh mi ha detto che hai vinto la Coppa Flauto.  Complimenti!"
+ },
+ {
+  "id": "\\bYou just missed Goh, however. He heard about Dragonite sightings and left to go catch one.",
+  "en": "\\bYou just missed Goh, however. He heard about Dragonite sightings and left to go catch one.",
+  "it": "\\bPerò Goh se n'è appena andato. Ha sentito di alcuni avvistamenti di Dragonite ed è partito per catturarne uno."
+ },
+ {
+  "id": "\\bHe should be at Dragonite Island now. You can meet up with him by taking the boat to the west of the one you were just on.",
+  "en": "\\bHe should be at Dragonite Island now. You can meet up with him by taking the boat to the west of the one you were just on.",
+  "it": "\\bOra dovrebbe essere sull'Isola Dragonite. Puoi raggiungerlo prendendo la barca a ovest di quella su cui eri poco fa."
+ },
+ {
+  "id": "\\bCerise: There you are. I have some exciting news for you both. I acquired two tickets for the World Coronation Series.",
+  "en": "\\bCerise: There you are. I have some exciting news for you both. I acquired two tickets for the World Coronation Series.",
+  "it": "\\bCerise: Eccovi qui. Ho una notizia emozionante per entrambi. Ho ottenuto due biglietti per le World Coronation Series."
+ },
+ {
+  "id": "\\bGoh: World Coronation Series? What's that?",
+  "en": "\\bGoh: World Coronation Series? What's that?",
+  "it": "\\bGoh: World Coronation Series? Che cosa sono?"
+ },
+ {
+  "id": "\\bCerise: It's similar to a league, but instead of taking place in one region and having a Champion, it takes place across the world and crowns the Monarch.",
+  "en": "\\bCerise: It's similar to a league, but instead of taking place in one region and having a Champion, it takes place across the world and crowns the Monarch.",
+  "it": "\\bCerise: Sono simili a una Lega, ma invece di svolgersi in una sola regione e incoronare un Campione, si svolgono in tutto il mondo e incoronano il Monarca."
+ },
+ {
+  "id": "\\bThe finals is taking place soon. You should hurry to Wyndon before you miss it.",
+  "en": "\\bThe finals is taking place soon. You should hurry to Wyndon before you miss it.",
+  "it": "\\bLe finali si terranno presto. Dovreste sbrigarvi ad andare a Wyndon prima di perderle."
+ },
+ {
+  "id": "\\bCerise: How was the battle? I hope you enjoyed it.",
+  "en": "\\bCerise: How was the battle? I hope you enjoyed it.",
+  "it": "\\bCerise: Com'è andata la lotta? Spero vi sia piaciuta."
+ },
+ {
+  "id": "\\bThis time I need the two of you to head to the Colossus Ruins in the Desert Resort. The Pokémon inside might have a connection to the ones in Galar.",
+  "en": "\\bThis time I need the two of you to head to the Colossus Ruins in the Desert Resort. The Pokémon inside might have a connection to the ones in Galar.",
+  "it": "\\bStavolta ho bisogno che andiate alle Rovine del Colosso, nel Deserto della Quiete. I Pokémon al loro interno potrebbero avere un legame con quelli di Galar."
+ },
+ {
+  "id": "\\bYou can find your way there by traveling to Route 4 in Unova.",
+  "en": "\\bYou can find your way there by traveling to Route 4 in Unova.",
+  "it": "\\bPer arrivarci, dovete andare al Percorso 4 di Unima."
+ },
+ {
+  "id": "\\bGoh: This sounds like an opportunity to catch some Pokémon. I'm ready if you are. Do you want to go now?",
+  "en": "\\bGoh: This sounds like an opportunity to catch some Pokémon. I'm ready if you are. Do you want to go now?",
+  "it": "\\bGoh: Mi sembra un'occasione per catturare qualche Pokémon. Io sono pronto, se lo sei anche tu. Vuoi andare adesso?"
+ },
+ {
+  "id": "\\bCerise: Are you ready, \\PN? The World Coronation Series's next season has officially started.",
+  "en": "\\bCerise: Are you ready, \\PN? The World Coronation Series's next season has officially started.",
+  "it": "\\bCerise: Sei pronto, \\PN? La nuova stagione delle World Coronation Series è ufficialmente iniziata."
+ },
+ {
+  "id": "\\bLet's get you registed through your Rotom Phone.",
+  "en": "\\bLet's get you registed through your Rotom Phone.",
+  "it": "\\bTi iscriviamo tramite il tuo Rotom Phone."
+ },
+ {
+  "id": "Rotom Phone: ...Registed: Trainer \\PN. Normal Class. Nearby opponent Visquez, located in the Vermilion City Gym, is ready for battle.",
+  "en": "Rotom Phone: ...Registed: Trainer \\PN. Normal Class. Nearby opponent Visquez, located in the Vermilion City Gym, is ready for battle.",
+  "it": "Rotom Phone: ...Iscritto: Allenatore \\PN. Classe Normale. L'avversario più vicino, Visquez, si trova nella Palestra di Aranciopoli ed è pronto a lottare."
+ },
+ {
+  "id": "\\bGoh: Woah, you've already matched up with someone?",
+  "en": "\\bGoh: Woah, you've already matched up with someone?",
+  "it": "\\bGoh: Wow, hai già trovato un avversario?"
+ },
+ {
+  "id": "\\bCerise: There are already over 10,000 participants. It makes sense that everyone is eager for battle. \\PN, go ahead and meet up with them.",
+  "en": "\\bCerise: There are already over 10,000 participants.  It makes sense that everyone is eager for battle. \\PN, go ahead and meet up with them.",
+  "it": "\\bCerise: Ci sono già più di 10.000 partecipanti.  È normale che tutti non vedano l'ora di lottare. \\PN, vai pure a incontrarlo."
+ },
+ {
+  "id": "\\bCerise: \\PN, go ahead and meet up with them at the Vermilion Gym.",
+  "en": "\\bCerise: \\PN, go ahead and meet up with them at the Vermilion Gym.",
+  "it": "\\bCerise: \\PN, vai pure a incontrarlo alla Palestra di Aranciopoli."
+ },
+ {
+  "id": "\\bCerise: Good, you've both here. I need you to head to the Resort Area in Sinnoh.",
+  "en": "\\bCerise: Good, you've both here. I need you to head to the Resort Area in Sinnoh.",
+  "it": "\\bCerise: Bene, siete qui tutti e due. Ho bisogno che andiate all'Area Svago di Sinnoh."
+ },
+ {
+  "id": "\\bThere's been rumors of a mysterious Pokémon said to be hiding in a local lake. See if you can find it.",
+  "en": "\\bThere's been rumors of a mysterious Pokémon said to be hiding in a local lake. See if you can find it.",
+  "it": "\\bGira voce che un misterioso Pokémon si nasconda in un lago della zona. Vedete se riuscite a trovarlo."
+ },
+ {
+  "id": "\\bCerise: I'm happy the two of you were able to find the Magikarp before Team Rocket. It-",
+  "en": "\\bCerise: I'm happy the two of you were able to find the Magikarp before Team Rocket. It-",
+  "it": "\\bCerise: Sono felice che siate riusciti a trovare il Magikarp prima del Team Rocket. Ha-"
+ },
+ {
+  "id": "Rotom Phone: Announcment. The World Coronation Series is hosting a Battle Festival Challenge in Shalour City in the Kalos region.",
+  "en": "Rotom Phone: Announcment. The World Coronation Series is hosting a Battle Festival Challenge in Shalour City in the Kalos region.",
+  "it": "Rotom Phone: Annuncio. Le World Coronation Series ospitano una Sfida Festival della Lotta a Yantaropoli, nella regione di Kalos."
+ },
+ {
+  "id": "\\bGoh: It's in Kalos. That's a great chance to catch some Kalos Pokémon. Should we go now?",
+  "en": "\\bGoh: It's in Kalos. That's a great chance to catch some Kalos Pokémon. Should we go now?",
+  "it": "\\bGoh: È a Kalos. È un'ottima occasione per catturare qualche Pokémon di Kalos. Andiamo adesso?"
+ },
+ {
+  "id": "\\bCerise: So you've entered the Great Class? That's fantastic!",
+  "en": "\\bCerise: So you've entered the Great Class? That's fantastic!",
+  "it": "\\bCerise: Quindi sei entrato nella Classe Super? È fantastico!"
+ },
+ {
+  "id": "\\bCerise: Speaking of, I think the Galar Champion is having a match soon. You should head to Wyndon and watch.",
+  "en": "\\bCerise: Speaking of, I think the Galar Champion is having a match soon. You should head to Wyndon and watch.",
+  "it": "\\bCerise: A proposito, credo che il Campione di Galar abbia presto un incontro. Dovresti andare a Wyndon a guardarlo."
+ },
+ {
+  "id": "\\bGoh: I'm ready to go. Are you good to go, \\PN?",
+  "en": "\\bGoh: I'm ready to go. Are you good to go, \\PN?",
+  "it": "\\bGoh: Io sono pronto a partire. Tu sei pronto, \\PN?"
+ },
+ {
+  "id": "\\bCerise: How are your battles going? If you're looking to take a break, Goh is at the Pokémon Center right now taking place in a trade event.",
+  "en": "\\bCerise: How are your battles going? If you're looking to take a break, Goh is at the Pokémon Center right now taking place in a trade event.",
+  "it": "\\bCerise: Come vanno le tue lotte? Se vuoi prenderti una pausa, Goh è al Centro Pokémon in questo momento, a partecipare a un evento di scambi."
+ },
+ {
+  "id": "\\bCerise: I think Goh was looking for you in the park out back.",
+  "en": "\\bCerise: I think Goh was looking for you in the park out back.",
+  "it": "\\bCerise: Credo che Goh ti stesse cercando nel parco qui dietro."
+ },
+ {
+  "id": "\\bCerise: You have a match in Saffron City? Don't let me hold you up.",
+  "en": "\\bCerise: You have a match in Saffron City? Don't let me hold you up.",
+  "it": "\\bCerise: Hai un incontro a Zafferanopoli? Non ti trattengo oltre."
+ },
+ {
+  "id": "\\bCerise: Thank you for joining us, \\PN. A sandstorm has appeared in Mauville City. The people there have been pushed out as a result.",
+  "en": "\\bCerise: Thank you for joining us, \\PN. A sandstorm has appeared in Mauville City. The people there have been pushed out as a result.",
+  "it": "\\bCerise: Grazie per essere venuto, \\PN. Una tempesta di sabbia si è abbattuta su Ciclamipoli. Di conseguenza, gli abitanti sono stati costretti ad andarsene."
+ },
+ {
+  "id": "\\bNot only that, but a hauntingly beautiful song from inside the sandstorm is seemingly hypnotizing the citizens.",
+  "en": "\\bNot only that, but a hauntingly beautiful song from inside the sandstorm is seemingly hypnotizing the citizens.",
+  "it": "\\bE non solo: un canto di una bellezza inquietante proveniente dalla tempesta sembra ipnotizzare i cittadini."
+ },
+ {
+  "id": "\\bGoh: This sounds like something we can handle. \\PN, I know you've been struggling with your last few matches. Ready to give this a shot?",
+  "en": "\\bGoh: This sounds like something we can handle.  \\PN, I know you've been struggling with your last few matches. Ready to give this a shot?",
+  "it": "\\bGoh: Sembra qualcosa che possiamo gestire.  \\PN, so che hai avuto difficoltà negli ultimi incontri. Te la senti di provarci?"
+ },
+ {
+  "id": "\\bCerise: Thank you both for dealing with that Flygon. I wonder what caused it do that to the city?",
+  "en": "\\bCerise: Thank you both for dealing with that Flygon.  I wonder what caused it do that to the city? ",
+  "it": "\\bCerise: Grazie a entrambi per esservi occupati di quel Flygon.  Chissà cosa l'ha spinto a fare questo alla città? "
+ },
+ {
+  "id": "\\bRegardless, I recieved a call while you were both gone from Professor Kukui. He'd like for \\PN to come to Alola to visit. Goh, you're welcomed as well.",
+  "en": "\\bRegardless, I recieved a call while you were both gone from Professor Kukui. He'd like for \\PN to come to Alola to visit. Goh, you're welcomed as well.",
+  "it": "\\bIn ogni caso, mentre eravate via ho ricevuto una chiamata dal Professor Kukui. Vorrebbe che \\PN andasse a trovarlo ad Alola. Anche tu sei il benvenuto, Goh."
+ },
+ {
+  "id": "\\bGoh: Thank you for inviting me. \\PN, I guess I'm ready to go. Are you?",
+  "en": "\\bGoh: Thank you for inviting me. \\PN, I guess I'm ready to go. Are you?",
+  "it": "\\bGoh: Grazie per avermi invitato. \\PN, direi che sono pronto a partire. E tu?"
+ },
+ {
+  "id": "\\bCerise: How are your battles going?",
+  "en": "\\bCerise: How are your battles going?",
+  "it": "\\bCerise: Come vanno le tue lotte?"
+ },
+ {
+  "id": "\\bCerise: Goh is waiting for you at Route 10. It's to the east of here.",
+  "en": "\\bCerise: Goh is waiting for you at Route 10. It's to the east of here.",
+  "it": "\\bCerise: Goh ti sta aspettando al Percorso 10. Si trova a est di qui."
+ },
+ {
+  "id": "\\bCerise: I heard from Goh that Zapdos was a difficult challenge. At the very least, you did manage to stop it from causing another power outage.",
+  "en": "\\bCerise: I heard from Goh that Zapdos was a difficult challenge. At the very least, you did manage to stop it from causing another power outage.",
+  "it": "\\bCerise: Goh mi ha detto che Zapdos è stata una sfida difficile. Almeno siete riusciti a impedirgli di causare un altro blackout."
+ },
+ {
+  "id": "\\bCerise: You should... \\PN, what's that red glow coming from you?",
+  "en": "\\bCerise: You should... \\PN, what's that red glow coming from you?",
+  "it": "\\bCerise: Dovresti... \\PN, cos'è quel bagliore rosso che emani?"
+ },
+ {
+  "id": "\\bGoh: It's the Dynamax Band. But that can't be used outside of Galar.",
+  "en": "\\bGoh: It's the Dynamax Band. But that can't be used outside of Galar.",
+  "it": "\\bGoh: È il Polsino Dynamax. Ma non si può usare fuori da Galar."
+ },
+ {
+  "id": "\\bCerise: That is concerning. You should head to Wedgehurst in Galar to meet with Professor Magnolia. She's the leading expert on Dynamax.",
+  "en": "\\bCerise: That is concerning. You should head to Wedgehurst in Galar to meet with Professor Magnolia. She's the leading expert on Dynamax.",
+  "it": "\\bCerise: È preoccupante. Dovresti andare a Wedgehurst, a Galar, e incontrare la Professoressa Magnolia. È la massima esperta di Dynamax."
+ },
+ {
+  "id": "\\bYou can get there by taking the train in Saffron.",
+  "en": "\\bYou can get there by taking the train in Saffron.",
+  "it": "\\bCi puoi arrivare prendendo il treno a Zafferanopoli."
+ },
+ {
+  "id": "\\bCerise: You can get to Wedgehurst by taking the train in Saffron.",
+  "en": "\\bCerise: You can get to Wedgehurst by taking the train in Saffron.",
+  "it": "\\bCerise: Puoi arrivare a Wedgehurst prendendo il treno a Zafferanopoli."
+ },
+ {
+  "id": "\\bCerise: I'm glad the both of you were able to stop a crisis. Take a break and get back to your battles.",
+  "en": "\\bCerise: I'm glad the both of you were able to stop a crisis. Take a break and get back to your battles.",
+  "it": "\\bCerise: Sono contenta che siate riusciti a sventare una crisi. Prendetevi una pausa e tornate alle vostre lotte."
+ },
+ {
+  "id": "\\bCerise: You're back. Goh got impatient and couldn't wait. He went to Cero Island. You can find it through the boat at the far end of the port.",
+  "en": "\\bCerise: You're back. Goh got impatient and couldn't wait. He went to Cero Island. You can find it through the boat at the far end of the port.",
+  "it": "\\bCerise: Sei tornato. Goh era impaziente e non ce l'ha fatta ad aspettare. È andato sull'Isola Cero. Puoi raggiungerla con la barca in fondo al porto."
+ },
+ {
+  "id": "\\bCerise: I guess Mew wasn't there. It's a shame, but I found something else exciting.",
+  "en": "\\bCerise: I guess Mew wasn't there. It's a shame, but I found something else exciting.",
+  "it": "\\bCerise: Immagino che Mew non ci fosse. Peccato, ma ho trovato qualcos'altro di interessante."
+ },
+ {
+  "id": "\\bApparently, there are rare fossils in the Wild Area. You two should go investigate.",
+  "en": "\\bApparently, there are rare fossils in the Wild Area.  You two should go investigate.",
+  "it": "\\bA quanto pare, nelle Terre Selvagge ci sono dei fossili rari.  Dovreste andare a indagare."
+ },
+ {
+  "id": "\\bGoh: I'm going to catch them and fill up the Pokédex even more. \\PN, ready to go?",
+  "en": "\\bGoh: I'm going to catch them and fill up the Pokédex even more. \\PN, ready to go?",
+  "it": "\\bGoh: Li catturerò e riempirò ancora di più il Pokédex. \\PN, pronto a partire?"
+ },
+ {
+  "id": "\\bCerise: There you two are. My daughter reminded me about Glimwood Tangle and the Ponyta and Rapidash that live there.",
+  "en": "\\bCerise: There you two are. My daughter reminded me about Glimwood Tangle and the Ponyta and Rapidash that live there.",
+  "it": "\\bCerise: Eccovi qui. Mia figlia mi ha ricordato il Bosco Lucente e i Ponyta e Rapidash che ci vivono."
+ },
+ {
+  "id": "\\bI was wondering if the two of you could head there and see if you could find one.",
+  "en": "\\bI was wondering if the two of you could head there and see if you could find one.",
+  "it": "\\bMi chiedevo se poteste andare lì e vedere se riuscite a trovarne uno."
+ },
+ {
+  "id": "\\bYou'll have to go west from Hammerlocke, then north east from Stow-on-Side.",
+  "en": "\\bYou'll have to go west from Hammerlocke, then north east from Stow-on-Side.",
+  "it": "\\bDovrete andare a ovest da Hammerlocke, poi a nord-est da Stow-on-Side."
+ },
+ {
+  "id": "\\bGoh: Of course, Professor. \\PN, are you ready to go?",
+  "en": "\\bGoh: Of course, Professor. \\PN, are you ready to go?",
+  "it": "\\bGoh: Certo, Professoressa. \\PN, sei pronto a partire?"
+ },
+ {
+  "id": "\\bCerise: The Castle of Chivalry can be found by taking the blimp in Lumiose City. Enjoy your training.",
+  "en": "\\bCerise: The Castle of Chivalry can be found by taking the blimp in Lumiose City. Enjoy your training.",
+  "it": "\\bCerise: Puoi raggiungere il Castello della Cavalleria prendendo il dirigibile a Luminopoli. Buon allenamento."
+ },
+ {
+  "id": "\\bCerise: Goh is waiting for you at Professor Oak's lab.",
+  "en": "\\bCerise: Goh is waiting for you at Professor Oak's lab.",
+  "it": "\\bCerise: Goh ti sta aspettando al laboratorio del Professor Oak."
+ },
+ {
+  "id": "\\bGoh: Professor. I've recieved my qualifier mission from Project Mew. I need to find an Alolan Ninetales at Mount Coronet.",
+  "en": "\\bGoh: Professor. I've recieved my qualifier mission from Project Mew. I need to find an Alolan Ninetales at Mount Coronet.",
+  "it": "\\bGoh: Professoressa. Ho ricevuto la mia missione di qualificazione dal Progetto Mew. Devo trovare un Ninetales di Alola sul Monte Corona."
+ },
+ {
+  "id": "\\bCerise: Wonderful. \\PN, why don't you go with him? Moral support is always welcomed.",
+  "en": "\\bCerise: Wonderful. \\PN, why don't you go with him?  Moral support is always welcomed.",
+  "it": "\\bCerise: Magnifico. \\PN, perché non vai con lui?  Un sostegno morale è sempre gradito."
+ },
+ {
+  "id": "\\bGoh: I'd welcome it. Are you ready to go?",
+  "en": "\\bGoh: I'd welcome it. Are you ready to go?",
+  "it": "\\bGoh: Mi farebbe piacere. Sei pronto a partire?"
+ },
+ {
+  "id": "\\bCerise: I'm glad you two are back. People in Sinnoh have been struggling with nightmares. I suspect a Darkrai is involved.",
+  "en": "\\bCerise: I'm glad you two are back. People in Sinnoh have been struggling with nightmares. I suspect a Darkrai is involved.",
+  "it": "\\bCerise: Sono contenta che siate tornati. A Sinnoh la gente è tormentata dagli incubi. Sospetto che c'entri un Darkrai."
+ },
+ {
+  "id": "\\bThe nightmares are happening around Floaroma Town. Please go check it out.",
+  "en": "\\bThe nightmares are happening around Floaroma Town. Please go check it out.",
+  "it": "\\bGli incubi si verificano nei dintorni di Floraria. Andate a controllare, per favore."
+ },
+ {
+  "id": "\\bGoh: Nightmares... That sounds serious. Let's go.",
+  "en": "\\bGoh: Nightmares... That sounds serious. Let's go.",
+  "it": "\\bGoh: Incubi... Sembra una cosa seria. Andiamo."
+ },
+ {
+  "id": "\\bCerise: Goh is waiting for you at the Desert Resort.",
+  "en": "\\bCerise: Goh is waiting for you at the Desert Resort.",
+  "it": "\\bCerise: Goh ti sta aspettando al Deserto della Quiete."
+ },
+ {
+  "id": "Dracovish",
+  "en": "Dracovish",
+  "it": "Dracovish"
+ },
+ {
+  "id": "\\rMom: \\PN, what do you think of this place? I think it's going to turn out just great.",
+  "en": "\\rMom: \\PN, what do you think of this place? I think it's going to turn out just great.",
+  "it": "\\rMamma: \\PN, cosa ne pensi di questo posto? Secondo me verrà proprio benissimo."
+ },
+ {
+  "id": "\\bGoh: I wonder why Lugia was here?",
+  "en": "\\bGoh: I wonder why Lugia was here?",
+  "it": "\\bGoh: Chissà perché Lugia era qui?"
+ },
+ {
+  "id": "\\rI heard Professor Cerise has a daughter. I wonder where she is.",
+  "en": "\\rI heard Professor Cerise has a daughter. I wonder where she is.",
+  "it": "\\rHo sentito che la Professoressa Cerise ha una figlia. Chissà dov'è."
+ },
+ {
+  "id": "\\bGengar",
+  "en": "\\bGengar",
+  "it": "\\bGengar"
+ },
+ {
+  "id": "\\bGoh: I need your help with my next Project Mew mission.",
+  "en": "\\bGoh: I need your help with my next Project Mew mission.",
+  "it": "\\bGoh: Ho bisogno del tuo aiuto per la mia prossima missione del Progetto Mew."
+ },
+ {
+  "id": "\\bThe objective is to find an Articuno. My best guess is at the Seafoam Islands. I heard we can get there from Cinnabar Island.",
+  "en": "\\bThe objective is to find an Articuno. My best guess is at the Seafoam Islands. I heard we can get there from Cinnabar Island.",
+  "it": "\\bL'obiettivo è trovare un Articuno. Secondo me si trova alle Isole Spumarine. Ho sentito che ci si arriva dall'Isola Cannella."
+ },
+ {
+  "id": "\\bAre you ready to go?",
+  "en": "\\bAre you ready to go?",
+  "it": "\\bSei pronto a partire?"
+ },
+ {
+  "id": "\\bGoh: You have a new battle, don't you? I'll be rooting for you.",
+  "en": "\\bGoh: You have a new battle, don't you? I'll be rooting for you.",
+  "it": "\\bGoh: Hai un nuovo incontro, vero? Farò il tifo per te."
+ },
+ {
+  "id": "\\bGoh: The Crown Tundra. I wonder what we'll find there.",
+  "en": "\\bGoh: The Crown Tundra. I wonder what we'll find there.",
+  "it": "\\bGoh: La Landa Corona. Chissà cosa troveremo lì."
+ },
+ {
+  "id": "\\bGoh: Starting out on my own is terrifying. But I know I need to experience it.",
+  "en": "\\bGoh: Starting out on my own is terrifying. But I know I need to experience it.",
+  "it": "\\bGoh: Partire da solo mi terrorizza. Ma so che devo farlo."
+ },
+ {
+  "id": "\\bSirfetch'd",
+  "en": "\\bSirfetch'd",
+  "it": "\\bSirfetch'd"
+ },
+ {
+  "id": "\\bHi. I'm Ren, and this is Francois.",
+  "en": "\\bHi. I'm Ren, and this is Francois.",
+  "it": "\\bCiao. Io sono Ren, e lui è Francois."
+ },
+ {
+  "id": "\\bI heard this lab used to be haunted.",
+  "en": "\\bI heard this lab used to be haunted.",
+  "it": "\\bHo sentito che questo laboratorio una volta era infestato dai fantasmi."
+ },
+ {
+  "id": "\\bCerise: Good morning. I have your first assignment for you.",
+  "en": "\\bCerise: Good morning. I have your first assignment for you.",
+  "it": "\\bCerise: Buongiorno. Ho il vostro primo incarico."
+ },
+ {
+  "id": "\\bA mass outbreak of Ivysaur has appeared in the city. Head out and investigate it.",
+  "en": "\\bA mass outbreak of Ivysaur has appeared in the city. Head out and investigate it.",
+  "it": "\\bIn città è apparso uno sciame di Ivysaur. Andate a indagare."
+ },
+ {
+  "id": "\\bBut before you go, I have something that should help the both of you.",
+  "en": "\\bBut before you go, I have something that should help the both of you.",
+  "it": "\\bMa prima che andiate, ho qualcosa che dovrebbe esservi utile."
+ },
+ {
+  "id": "\\bGoh: Thank you, Professor. \\PN, let's get going.",
+  "en": "\\bGoh: Thank you, Professor. \\PN, let's get going.",
+  "it": "\\bGoh: Grazie, Professoressa. \\PN, andiamo."
+ },
+ {
+  "id": "\\bIt's about time this place opened.",
+  "en": "\\bIt's about time this place opened.",
+  "it": "\\bEra ora che questo posto aprisse."
+ },
+ {
+  "id": "\\bRiolu",
+  "en": "\\bRiolu",
+  "it": "\\bRiolu"
+ },
+ {
+  "id": "\\bLucario",
+  "en": "\\bLucario",
+  "it": "\\bLucario"
+ },
+ {
+  "id": "Rotom Phone: Announcment. New scheduled match for the World Coronation Series. The match will take place at the Kalos League against Drasna.",
+  "en": "Rotom Phone: Announcment. New scheduled match for the World Coronation Series. The match will take place at the Kalos League against Drasna.",
+  "it": "Rotom Phone: Annuncio. Nuovo incontro in programma per le World Coronation Series. L'incontro si terrà alla Lega di Kalos contro Drasna."
+ },
+ {
+  "id": "Gengar seems like it trusts you. Would you like to take it with you?",
+  "en": "Gengar seems like it trusts you. Would you like to take it with you?",
+  "it": "Sembra che Gengar si fidi di te. Vuoi portarlo con te?"
+ },
+ {
+  "id": "\\rHello. I'm Chrysa, one of Professor Cerise's assistants.",
+  "en": "\\rHello. I'm Chrysa, one of Professor Cerise's assistants.",
+  "it": "\\rCiao. Sono Chrysa, una delle assistenti della Professoressa Cerise."
+ },
+ {
+  "id": "\\rI'm excited to have you working here with us.",
+  "en": "\\rI'm excited to have you working here with us.",
+  "it": "\\rSono felice che lavorerai qui con noi."
+ },
+ {
+  "id": "\\rI was great working with you.",
+  "en": "\\rI was great working with you.",
+  "it": "\\rÈ stato bellissimo lavorare con te."
+ },
+ {
+  "id": "\\rJessie: We'll be taking your Pokémon now.",
+  "en": "\\rJessie: We'll be taking your Pokémon now.",
+  "it": "\\rJessie: Adesso ci prendiamo i tuoi Pokémon."
+ },
+ {
+  "id": "\\bMeowth: You don't stand a chance.",
+  "en": "\\bMeowth: You don't stand a chance.",
+  "it": "\\bMeowth: Non hai speranze."
+ },
+ {
+  "id": "\\bJames: Don't even try and resist us.",
+  "en": "\\bJames: Don't even try and resist us.",
+  "it": "\\bJames: Non provare nemmeno a opporti."
+ },
+ {
+  "id": "\\bWobbuffet: Wobbuffet!",
+  "en": "\\bWobbuffet: Wobbuffet!",
+  "it": "\\bWobbuffet: Wobbuffet!"
+ },
+ {
+  "id": "\\bFarfetch'd",
+  "en": "\\bFarfetch'd",
+  "it": "\\bFarfetch'd"
+ },
+ {
+  "id": "\\bCerise: So you and Goh found the rare Pokémon, Lugia. That's quite the achomplishment.",
+  "en": "\\bCerise: So you and Goh found the rare Pokémon, Lugia. That's quite the achomplishment. ",
+  "it": "\\bCerise: Quindi tu e Goh avete trovato il raro Pokémon Lugia. È un bel traguardo. "
+ },
+ {
+  "id": "\\bI have an idea. Why don't the two of you stay here as my research assistants?",
+  "en": "\\bI have an idea. Why don't the two of you stay here as my research assistants?",
+  "it": "\\bHo un'idea. Perché non restate qui come miei assistenti di ricerca?"
+ },
+ {
+  "id": "\\bGoh: Really? That would be great!",
+  "en": "\\bGoh: Really? That would be great!",
+  "it": "\\bGoh: Davvero? Sarebbe fantastico!"
+ },
+ {
+  "id": "\\rMom: \\PN, how exciting. I'll leave Mimey here to watch over you.",
+  "en": "\\rMom: \\PN, how exciting. I'll leave Mimey here to watch over you.",
+  "it": "\\rMamma: \\PN, che emozione. Lascio qui Mimey a tenerti d'occhio."
+ },
+ {
+  "id": "\\rI never thought this place would actually open.",
+  "en": "\\rI never thought this place would actually open.",
+  "it": "\\rNon avrei mai pensato che questo posto avrebbe aperto davvero."
+ },
+ {
+  "id": "\\bGoh: I've never seen a mass outbreak before.",
+  "en": "\\bGoh: I've never seen a mass outbreak before.",
+  "it": "\\bGoh: Non avevo mai visto uno sciame prima d'ora."
+ },
+ {
+  "id": "\\bGoh: I've never been to Galar before.",
+  "en": "\\bGoh: I've never been to Galar before.",
+  "it": "\\bGoh: Non sono mai stato a Galar."
+ },
+ {
+  "id": "\\bGoh: The World Coronation Series. That sounds right up your alley, \\PN.",
+  "en": "\\bGoh: The World Coronation Series. That sounds right up your alley, \\PN.",
+  "it": "\\bGoh: Le World Coronation Series. Sembrano fatte apposta per te, \\PN."
+ },
+ {
+  "id": "\\bGoh: I'm going to catch a ton of new Pokémon.",
+  "en": "\\bGoh: I'm going to catch a ton of new Pokémon.",
+  "it": "\\bGoh: Catturerò un sacco di nuovi Pokémon."
+ },
+ {
+  "id": "\\bGoh: You'll do great in your first battle.",
+  "en": "\\bGoh: You'll do great in your first battle.",
+  "it": "\\bGoh: Andrai alla grande nel tuo primo incontro."
+ },
+ {
+  "id": "\\bGoh: Let's find that mysterious Pokémon.",
+  "en": "\\bGoh: Let's find that mysterious Pokémon.",
+  "it": "\\bGoh: Troviamo quel Pokémon misterioso."
+ },
+ {
+  "id": "\\bGoh: I'm happy we were able to find Magikarp.",
+  "en": "\\bGoh: I'm happy we were able to find Magikarp.",
+  "it": "\\bGoh: Sono felice che siamo riusciti a trovare Magikarp."
+ },
+ {
+  "id": "\\bGoh: You did great in your matches.",
+  "en": "\\bGoh: You did great in your matches.",
+  "it": "\\bGoh: Sei stato bravissimo nei tuoi incontri."
+ },
+ {
+  "id": "\\bGoh: I wonder what's going on in Mauville.",
+  "en": "\\bGoh: I wonder what's going on in Mauville.",
+  "it": "\\bGoh: Chissà cosa sta succedendo a Ciclamipoli."
+ },
+ {
+  "id": "\\bGoh: That Flygon was intense.",
+  "en": "\\bGoh: That Flygon was intense.",
+  "it": "\\bGoh: Quel Flygon era tosto."
+ },
+ {
+  "id": "\\bGoh: Alola was fun. Maybe we could go again sometime.",
+  "en": "\\bGoh: Alola was fun. Maybe we could go again sometime.",
+  "it": "\\bGoh: Alola è stata divertente. Magari potremmo tornarci prima o poi."
+ },
+ {
+  "id": "\\bGoh: I wonder what's causing your Dynamax Band to glow?",
+  "en": "\\bGoh: I wonder what's causing your Dynamax Band to glow?",
+  "it": "\\bGoh: Chissà perché il tuo Polsino Dynamax brilla?"
+ },
+ {
+  "id": "\\bGoh: What a journey that was. I'm glad to be getting back to searching for Mew.",
+  "en": "\\bGoh: What a journey that was. I'm glad to be getting back to searching for Mew.",
+  "it": "\\bGoh: Che viaggio è stato. Sono contento di tornare a cercare Mew."
+ },
+ {
+  "id": "\\bGoh: Mewtwo gave me a lot to think about.",
+  "en": "\\bGoh: Mewtwo gave me a lot to think about.",
+  "it": "\\bGoh: Mewtwo mi ha dato molto su cui riflettere."
+ },
+ {
+  "id": "\\bGoh: I've been catching a lot of Pokémon.",
+  "en": "\\bGoh: I've been catching a lot of Pokémon.",
+  "it": "\\bGoh: Ho catturato un sacco di Pokémon."
+ },
+ {
+  "id": "\\bGoh: The Castle of Chivalry sounds like a good way to train some of my Pokémon. I might go as well.",
+  "en": "\\bGoh: The Castle of Chivalry sounds like a good way to train some of my Pokémon. I might go as well.",
+  "it": "\\bGoh: Il Castello della Cavalleria sembra un buon posto per allenare alcuni dei miei Pokémon. Magari ci vado anch'io."
+ },
+ {
+  "id": "\\bGoh: I'm worried about Project Mew. Will I be good enough?",
+  "en": "\\bGoh: I'm worried about Project Mew. Will I be good enough?",
+  "it": "\\bGoh: Sono preoccupato per il Progetto Mew. Sarò all'altezza?"
+ },
+ {
+  "id": "\\bGoh: Darkrai sounds dangerous. We should hurry.",
+  "en": "\\bGoh: Darkrai sounds dangerous. We should hurry.",
+  "it": "\\bGoh: Darkrai sembra pericoloso. Dobbiamo sbrigarci."
+ },
+ {
+  "id": "\\bGoh: I wonder what Opal wants.",
+  "en": "\\bGoh: I wonder what Opal wants.",
+  "it": "\\bGoh: Chissà cosa vuole Poppy."
+ },
+ {
+  "id": "\\bGoh: Pokémon around the world are turning into Eggs. We need to fix this before it's too late.",
+  "en": "\\bGoh: Pokémon around the world are turning into Eggs. We need to fix this before it's too late.",
+  "it": "\\bGoh: In tutto il mondo i Pokémon si stanno trasformando in Uova. Dobbiamo rimediare prima che sia troppo tardi."
+ },
+ {
+  "id": "\\bGoh: Thankfully we were able to stop Team Rocket.",
+  "en": "\\bGoh: Thankfully we were able to stop Team Rocket.",
+  "it": "\\bGoh: Per fortuna siamo riusciti a fermare il Team Rocket."
+ },
+ {
+  "id": "\\bGoh: You're heading to Mossdeep? Have fun.",
+  "en": "\\bGoh: You're heading to Mossdeep? Have fun.",
+  "it": "\\bGoh: Vai a Verdeazzupoli? Divertiti."
+ },
+ {
+  "id": "Magnemite",
+  "en": "Magnemite",
+  "it": "Magnemite"
+ },
+ {
+  "id": "\\bCerise: Thank you, everyone, for visiting the opening of the Cerise Laboratory.",
+  "en": "\\bCerise: Thank you, everyone, for visiting the opening of the Cerise Laboratory.",
+  "it": "\\bCerise: Grazie a tutti per essere venuti all'inaugurazione del Laboratorio Cerise."
+ },
+ {
+  "id": "\\bCerise: With your support, I'm certain I'll learn all there is about the world and Pokémon that inhabit it. It....",
+  "en": "\\bCerise: With your support, I'm certain I'll learn all there is about the world and Pokémon that inhabit it.  It....",
+  "it": "\\bCerise: Con il vostro sostegno, sono certa che scoprirò tutto ciò che c'è da sapere sul mondo e sui Pokémon che lo abitano.  Ha...."
+ },
+ {
+  "id": "\\bOh. It seems a rare Pokémon has been spotted in the harbor.",
+  "en": "\\bOh. It seems a rare Pokémon has been spotted in the harbor.",
+  "it": "\\bOh. Pare che sia stato avvistato un Pokémon raro al porto."
+ },
+ {
+  "id": "\\b\\PN, that sounds right up your alley. Why don't you go ahead and check it out?",
+  "en": "\\b\\PN, that sounds right up your alley. Why don't you go ahead and check it out?",
+  "it": "\\b\\PN, sembra fatto apposta per te. Perché non vai a dare un'occhiata?"
+ },
+ {
+  "id": "\\bI used to walk by this place at night. It always creeped me out.",
+  "en": "\\bI used to walk by this place at night. It always creeped me out.",
+  "it": "\\bDi notte passavo davanti a questo posto. Mi metteva sempre i brividi."
+ },
+ {
+  "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Maike, located in Saffron City, is ready for battle.",
+  "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Maike, located in Saffron City, is ready for battle.",
+  "it": "Rotom Phone: Annuncio. Nuovo avversario trovato per le World Coronation Series. Maike, a Zafferanopoli, è pronta a lottare."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": "\\rMisty: You're heading to Celadon City too? It's a beautiful city, full of shops and opportunity.",
+  "en": " \\rMisty: You're heading to Celadon City too? It's a beautiful city, full of shops and opportunity.",
+  "it": " \\rMisty: Anche tu vai ad Azzurropoli? È una città bellissima, piena di negozi e di opportunità."
+ },
+ {
+  "id": "\\rOh, you're going for the gym. I should have guessed as much. Fine, we can have a practice battle.",
+  "en": "\\rOh, you're going for the gym. I should have guessed as much. Fine, we can have a practice battle.",
+  "it": "\\rAh, punti alla Palestra. Avrei dovuto immaginarlo. Va bene, facciamo una lotta di allenamento."
+ },
+ {
+  "id": "\\rMisty: Good luck with your gym.",
+  "en": "\\rMisty: Good luck with your gym.",
+  "it": "\\rMisty: Buona fortuna con la Palestra."
+ },
+ {
+  "id": "\\bPrimeape",
+  "en": "\\bPrimeape",
+  "it": "\\bPrimeape"
+ },
+ {
+  "id": "Would you like to take Primeape with you?",
+  "en": "Would you like to take Primeape with you?",
+  "it": "Vuoi portare Primeape con te?"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

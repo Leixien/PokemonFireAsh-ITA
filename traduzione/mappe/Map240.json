@@ -1,0 +1,57 @@
+[
+ {
+  "id": "\\rAriados",
+  "en": "\\rAriados",
+  "it": "\\rAriados"
+ },
+ {
+  "id": "Kumquat Island Pokémon Gym Leader: \\nLuana",
+  "en": "Kumquat Island Pokémon Gym Leader: \\nLuana",
+  "it": "Capopalestra della Palestra Pokémon dell'Isola Kumquat: \\nLuana"
+ },
+ {
+  "id": "The Double Battle Trainer.",
+  "en": "The Double Battle Trainer.",
+  "it": "L'Allenatrice delle Lotte in Doppio."
+ },
+ {
+  "id": "\\bI need some help getting these guys into shape.",
+  "en": "\\bI need some help getting these guys into shape.",
+  "it": "\\bMi serve un aiuto per rimettere in forma questi ragazzi."
+ },
+ {
+  "id": "\\bThose Voltorb won't stand a chance.",
+  "en": "\\bThose Voltorb won't stand a chance.",
+  "it": "\\bQuei Voltorb non avranno scampo."
+ },
+ {
+  "id": "\\rWelcome to Kumquat Island!",
+  "en": "\\rWelcome to Kumquat Island!",
+  "it": "\\rBenvenuto sull'Isola Kumquat!"
+ },
+ {
+  "id": "\\rThe home of the strongest Orange Crew Leader.",
+  "en": "\\rThe home of the strongest Orange Crew Leader.",
+  "it": "\\rLa casa del Capo più forte degli Orange Crew."
+ },
+ {
+  "id": "\\bI beat Luana! I can finnally challenge Drake!",
+  "en": "\\bI beat Luana! I can finnally challenge Drake!",
+  "it": "\\bHo battuto Luana! Finalmente posso sfidare Drake!"
+ },
+ {
+  "id": "\\bDo you have a Good Rod? They work much better than an Old Rod.",
+  "en": "\\bDo you have a Good Rod? They work much better than an Old Rod.",
+  "it": "\\bHai un Amo Buono? Funziona molto meglio di un Amo Vecchio."
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Ascorbia,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Ascorbia,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Trovita,Ascorbia,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Ascorbia,Pummelo,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Trovita,Ascorbia,Pummelo,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Trovita,Ascorbia,Pummelo,Esci]"
+ }
+]

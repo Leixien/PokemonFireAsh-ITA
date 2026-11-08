@@ -1,0 +1,107 @@
+[
+ {
+  "id": "......\\wt[5] ......\\1",
+  "en": "......\\wt[5] ......\\1",
+  "it": "......\\wt[5] ......\\1"
+ },
+ {
+  "id": "All saved data could not be deleted.",
+  "en": "All saved data could not be deleted.",
+  "it": "Non è stato possibile cancellare tutti i dati salvati."
+ },
+ {
+  "id": "Attempted to set {1} as Pokémon status",
+  "en": "Attempted to set {1} as Pokémon status",
+  "it": "Tentativo di impostare {1} come stato del Pokémon"
+ },
+ {
+  "id": "Click!\\wt[10]\n......\\wt[5] ......\\1",
+  "en": "Click!\\wt[10]\n......\\wt[5] ......\\1",
+  "it": "Clic!\\wt[10]\n......\\wt[5] ......\\1"
+ },
+ {
+  "id": "Continue",
+  "en": "Continue",
+  "it": "Continua"
+ },
+ {
+  "id": "Do you want to delete the save file and start anew?",
+  "en": "Do you want to delete the save file and start anew?",
+  "it": "Vuoi cancellare il salvataggio e ricominciare da capo?"
+ },
+ {
+  "id": "Invalid value {1} given",
+  "en": "Invalid value {1} given",
+  "it": "Valore non valido: {1}"
+ },
+ {
+  "id": "Map {1} was not found.",
+  "en": "Map {1} was not found.",
+  "it": "Mappa {1} non trovata."
+ },
+ {
+  "id": "New Game",
+  "en": "New Game",
+  "it": "Nuova partita"
+ },
+ {
+  "id": "No starting position was set in the map editor.",
+  "en": "No starting position was set in the map editor.",
+  "it": "Nell'editor delle mappe non è stata impostata una posizione di partenza."
+ },
+ {
+  "id": "STOCK POKéMON: {1} Lv.{2} MaxHP: {3}\nTHIS POKéMON: {4} Lv.{5} MaxHP: {6}",
+  "en": "STOCK POKéMON:\n {1} Lv.{2} MaxHP: {3}\nTHIS POKéMON:\n {4} Lv.{5} MaxHP: {6}",
+  "it": "POKéMON IN RISERVA:\n {1} Lv.{2} PS max: {3}\nQUESTO POKéMON:\n {4} Lv.{5} PS max: {6}"
+ },
+ {
+  "id": "The map is corrupt. The game cannot continue.",
+  "en": "The map is corrupt. The game cannot continue.",
+  "it": "La mappa è danneggiata. Il gioco non può continuare."
+ },
+ {
+  "id": "The map was not found. The game cannot continue.",
+  "en": "The map was not found. The game cannot continue.",
+  "it": "Mappa non trovata. Il gioco non può continuare."
+ },
+ {
+  "id": "The save file is corrupt, or is incompatible with this game.",
+  "en": "The save file is corrupt, or is incompatible with this game.",
+  "it": "Il salvataggio è danneggiato o non è compatibile con questo gioco."
+ },
+ {
+  "id": "The save file is corrupt. A backup will be loaded.",
+  "en": "The save file is corrupt. A backup will be loaded.",
+  "it": "Il salvataggio è danneggiato. Verrà caricata una copia di riserva."
+ },
+ {
+  "id": "The saved data was deleted.",
+  "en": "The saved data was deleted.",
+  "it": "I dati salvati sono stati cancellati."
+ },
+ {
+  "id": "WARN: usage of deprecated method \"{1}\" or its alias.",
+  "en": "WARN: usage of deprecated method \"{1}\" or its alias.",
+  "it": "ATTENZIONE: uso del metodo deprecato \"{1}\" o di un suo alias."
+ },
+ {
+  "id": "Would you like to save the game?",
+  "en": "Would you like to save the game?",
+  "it": "Vuoi salvare la partita?"
+ },
+ {
+  "id": "You put the {1} away\\nin the <icon=bagPocket{2}>\\c[1]{3} Pocket\\c[0].",
+  "en": "You put the {1} away\\nin the <icon=bagPocket{2}>\\c[1]{3} Pocket\\c[0].",
+  "it": "Hai messo {1}\\nnella tasca <icon=bagPocket{2}>\\c[1]{3}\\c[0]."
+ },
+ {
+  "id": "{1} forgot how to use {2}.\\nAnd...\u0001",
+  "en": "{1} forgot how to use {2}.\\nAnd...\u0001",
+  "it": "{1} ha dimenticato come usare {2}.\\nE...\u0001"
+ },
+ {
+  "id": "{1} survived the poisoning.\\nThe poison faded away!\u0001",
+  "en": "{1} survived the poisoning.\\nThe poison faded away!\u0001",
+  "it": "{1} è sopravvissuto all'avvelenamento.\\nIl veleno è svanito!\u0001"
+ }
+]

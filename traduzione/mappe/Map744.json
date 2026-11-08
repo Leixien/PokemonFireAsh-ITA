@@ -1,0 +1,67 @@
+[
+ {
+  "id": "\\bI'm looking for a Cinccino.",
+  "en": "\\bI'm looking for a Cinccino.",
+  "it": "\\bSto cercando un Cinccino."
+ },
+ {
+  "id": "\\bWant to trade it for my Munchlax?",
+  "en": "\\bWant to trade it for my Munchlax?",
+  "it": "\\bVuoi scambiarlo con il mio Munchlax?"
+ },
+ {
+  "id": "\\bYou don't want to trade? Shame.",
+  "en": "\\bYou don't want to trade?  Shame.",
+  "it": "\\bNon vuoi fare lo scambio?  Peccato."
+ },
+ {
+  "id": "\\bOK, let's do this.",
+  "en": "\\bOK, let's do this.",
+  "it": "\\bOK, facciamolo."
+ },
+ {
+  "id": "Munchlax",
+  "en": "Munchlax",
+  "it": "Munchlax"
+ },
+ {
+  "id": "Harry",
+  "en": "Harry",
+  "it": "Harry"
+ },
+ {
+  "id": "\\PN traded Cinccino for Munchlax!",
+  "en": "\\PN traded Cinccino for Munchlax!",
+  "it": "\\PN ha scambiato Cinccino con Munchlax!"
+ },
+ {
+  "id": "\\bThanks!",
+  "en": "\\bThanks!",
+  "it": "\\bGrazie!"
+ },
+ {
+  "id": "\\bThanks! Don't let Munchlax get too crazy on you.",
+  "en": "\\bThanks! Don't let Munchlax get too crazy on you.",
+  "it": "\\bGrazie! Non lasciare che Munchlax ti faccia impazzire."
+ },
+ {
+  "id": "\\bI don't live here. I just come when I can. It's a good vacation spot.",
+  "en": "\\bI don't live here. I just come when I can. It's a good vacation spot.",
+  "it": "\\bNon abito qui. Vengo solo quando posso. È un bel posto per le vacanze."
+ },
+ {
+  "id": "\\rI never understood trading. Keep what you earned, not what someone else did.",
+  "en": "\\rI never understood trading. Keep what you earned, not what someone else did.",
+  "it": "\\rNon ho mai capito gli scambi. Tieniti ciò che hai guadagnato, non quello che ha guadagnato qualcun altro."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

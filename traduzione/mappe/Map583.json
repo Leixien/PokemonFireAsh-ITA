@@ -1,0 +1,37 @@
+[
+ {
+  "id": "Which floor do you want?",
+  "en": "Which floor do you want?",
+  "it": "A quale piano vuoi andare?"
+ },
+ {
+  "id": "5F",
+  "en": "5F",
+  "it": "5° P"
+ },
+ {
+  "id": "4F",
+  "en": "4F",
+  "it": "4° P"
+ },
+ {
+  "id": "3F",
+  "en": "3F",
+  "it": "3° P"
+ },
+ {
+  "id": "2F",
+  "en": "2F",
+  "it": "2° P"
+ },
+ {
+  "id": "1F",
+  "en": "1F",
+  "it": "1° P"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ }
+]

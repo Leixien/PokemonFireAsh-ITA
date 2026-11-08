@@ -1,0 +1,127 @@
+[
+ {
+  "id": "\\bSlo!!",
+  "en": "\\bSlo!!",
+  "it": "\\bSlo!!"
+ },
+ {
+  "id": "\\bKurt has been making Apricorns for decades.",
+  "en": "\\bKurt has been making Apricorns for decades.",
+  "it": "\\bKurt crea Ball dalle Ghicocche da decenni."
+ },
+ {
+  "id": "\\bBring him some Apricorns if you want special balls to help in your capturing.",
+  "en": "\\bBring him some Apricorns if you want special balls to help in your capturing.",
+  "it": "\\bPortagli qualche Ghicocca se vuoi delle Ball speciali che ti aiutino nelle catture."
+ },
+ {
+  "id": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Cancel]",
+  "en": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Cancel]",
+  "it": "\\rIl mio Slowpoke può teletrasportarti.\\ch[1,-1,Fiorpescopoli, Violapoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Cancel]",
+  "en": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Cancel]",
+  "it": "\\rIl mio Slowpoke può teletrasportarti.\\ch[1,-1,Fiorpescopoli, Violapoli,Fiordoropoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Ecruteak,Cancel]",
+  "en": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Ecruteak,Cancel]",
+  "it": "\\rIl mio Slowpoke può teletrasportarti.\\ch[1,-1,Fiorpescopoli, Violapoli,Fiordoropoli,Amarantopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Ecruteak,Olivine,Cianwood,Cancel]",
+  "en": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Ecruteak,Olivine,Cianwood,Cancel]",
+  "it": "\\rIl mio Slowpoke può teletrasportarti.\\ch[1,-1,Fiorpescopoli, Violapoli,Fiordoropoli,Amarantopoli,Olivinopoli,Fiorlisopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Ecruteak,Olivine,Cianwood, Mahogany,Cancel]",
+  "en": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Ecruteak,Olivine,Cianwood, Mahogany,Cancel]",
+  "it": "\\rIl mio Slowpoke può teletrasportarti.\\ch[1,-1,Fiorpescopoli, Violapoli,Fiordoropoli,Amarantopoli,Olivinopoli,Fiorlisopoli, Mogania,Annulla]"
+ },
+ {
+  "id": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Ecruteak,Olivine,Cianwood, Mahogany,Blackthorn,Cancel]",
+  "en": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Goldenrod,Ecruteak,Olivine,Cianwood, Mahogany,Blackthorn,Cancel]",
+  "it": "\\rIl mio Slowpoke può teletrasportarti.\\ch[1,-1,Fiorpescopoli, Violapoli,Fiordoropoli,Amarantopoli,Olivinopoli,Fiorlisopoli, Mogania,Ebanopoli,Annulla]"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

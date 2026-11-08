@@ -1,0 +1,42 @@
+[
+ {
+  "id": "When pushing a boulder down a hole, make sure it doesn't appear in the same place as the player does when they drop down.",
+  "en": "When pushing a boulder down a hole, make sure it doesn't appear in the same place as the player does when they drop down.",
+  "it": "Quando spingi un masso in una buca, assicurati che non appaia nello stesso punto in cui atterra il giocatore quando cade."
+ },
+ {
+  "id": "\\bHello! I'm the Ruin Maniac!",
+  "en": "\\bHello!  I'm the Ruin Maniac!",
+  "it": "\\bCiao!  Sono il Rovinologo!"
+ },
+ {
+  "id": "\\bDo you want to dig for buried treasure?",
+  "en": "\\bDo you want to dig for buried treasure?",
+  "it": "\\bVuoi scavare per cercare tesori sepolti?"
+ },
+ {
+  "id": "\\bGrand! Let's dig into this wall.",
+  "en": "\\bGrand!  Let's dig into this wall.",
+  "it": "\\bMagnifico!  Scaviamo in questa parete."
+ },
+ {
+  "id": "\\bNo? Alright then.",
+  "en": "\\bNo?  Alright then.",
+  "it": "\\bNo?  Va bene allora."
+ },
+ {
+  "id": "\\bWhen using this mining minigame, it is recommended that you limit how often the player can play it, to prevent them gaining lots of items for free.",
+  "en": "\\bWhen using this mining minigame, it is recommended that you limit how often the player can play it, to prevent them gaining lots of items for free.",
+  "it": "\\bQuando usi questo minigioco di scavo, si consiglia di limitare quanto spesso il giocatore può giocarci, per evitare che ottenga molti strumenti gratis."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

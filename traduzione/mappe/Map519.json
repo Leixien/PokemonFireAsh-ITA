@@ -1,0 +1,142 @@
+[
+ {
+  "id": "\\bI really want a Ponyta, so I'm trading my Burmy for one.",
+  "en": "\\bI really want a Ponyta, so I'm trading my Burmy for one.",
+  "it": "\\bVoglio tanto un Ponyta, quindi scambierò il mio Burmy per averne uno."
+ },
+ {
+  "id": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem,Cancel]",
+  "en": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem,Cancel]",
+  "it": "\\rIl mio Luck può teletrasportarti.\\ch[1,-1,Sabbiafine,Annulla]"
+ },
+ {
+  "id": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh, Cancel]",
+  "en": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh, Cancel]",
+  "it": "\\rIl mio Luck può teletrasportarti.\\ch[1,-1,Sabbiafine, Mineropoli, Annulla]"
+ },
+ {
+  "id": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floaroma,Eterna,Cancel]",
+  "en": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floaroma,Eterna,Cancel]",
+  "it": "\\rIl mio Luck può teletrasportarti.\\ch[1,-1,Sabbiafine, Mineropoli,Floraria,Evopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Cancel]",
+  "en": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Cancel]",
+  "it": "\\rIl mio Luck può teletrasportarti.\\ch[1,-1,Sabbiafine, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Cancel]",
+  "en": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Cancel]",
+  "it": "\\rIl mio Luck può teletrasportarti.\\ch[1,-1,Sabbiafine, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Cancel]",
+  "en": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Cancel]",
+  "it": "\\rIl mio Luck può teletrasportarti.\\ch[1,-1,Sabbiafine, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Canalipoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
+  "en": "\\rMy Luck can Teleport you.\\ch[1,-1,Sandgem, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
+  "it": "\\rIl mio Luck può teletrasportarti.\\ch[1,-1,Sabbiafine, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Canalipoli,Nevepoli,Annulla]"
+ },
+ {
+  "id": "\\rLuck can Teleport you.\\ch[1,-1,Sandgem,Oreburgh, Floaroma,Eterna,Hearthome,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
+  "en": "\\rLuck can Teleport you.\\ch[1,-1,Sandgem,Oreburgh, Floaroma,Eterna,Hearthome,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
+  "it": "\\rLuck può teletrasportarti.\\ch[1,-1,Sabbiafine,Mineropoli, Floraria,Evopoli,Cuoripoli,Flemminia,Rupepoli, Pratopoli,Canalipoli,Nevepoli,Arenipoli,Annulla]"
+ },
+ {
+  "id": "\\bI'm trading Pokémon with that kid there.",
+  "en": "\\bI'm trading Pokémon with that kid there.",
+  "it": "\\bSto scambiando Pokémon con quel ragazzino là."
+ },
+ {
+  "id": "\\bI raise Ponyta for a living, so I figured I might as well.",
+  "en": "\\bI raise Ponyta for a living, so I figured I might as well.",
+  "it": "\\bAllevo Ponyta per vivere, quindi ho pensato: perché no?"
+ },
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
+  "id": "\\bI want to go bug catching. But where should I go first?",
+  "en": "\\bI want to go bug catching. But where should I go first?",
+  "it": "\\bVoglio andare a caccia di Pokémon Coleottero. Ma dove dovrei andare per primo?"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

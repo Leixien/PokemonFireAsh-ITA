@@ -1,0 +1,402 @@
+[
+ {
+  "id": 1,
+  "en": "Hoenn Cool Contest Normal Rank winner!",
+  "it": "Vincitore della Gara Classe di Hoenn, livello Normale!"
+ },
+ {
+  "id": 2,
+  "en": "Hoenn Cool Contest Super Rank winner!",
+  "it": "Vincitore della Gara Classe di Hoenn, livello Super!"
+ },
+ {
+  "id": 3,
+  "en": "Hoenn Cool Contest Hyper Rank winner!",
+  "it": "Vincitore della Gara Classe di Hoenn, livello Iper!"
+ },
+ {
+  "id": 4,
+  "en": "Hoenn Cool Contest Master Rank winner!",
+  "it": "Vincitore della Gara Classe di Hoenn, livello Master!"
+ },
+ {
+  "id": 5,
+  "en": "Hoenn Beauty Contest Normal Rank winner!",
+  "it": "Vincitore della Gara Bellezza di Hoenn, livello Normale!"
+ },
+ {
+  "id": 6,
+  "en": "Hoenn Beauty Contest Super Rank winner!",
+  "it": "Vincitore della Gara Bellezza di Hoenn, livello Super!"
+ },
+ {
+  "id": 7,
+  "en": "Hoenn Beauty Contest Hyper Rank winner!",
+  "it": "Vincitore della Gara Bellezza di Hoenn, livello Iper!"
+ },
+ {
+  "id": 8,
+  "en": "Hoenn Beauty Contest Master Rank winner!",
+  "it": "Vincitore della Gara Bellezza di Hoenn, livello Master!"
+ },
+ {
+  "id": 9,
+  "en": "Hoenn Cute Contest Normal Rank winner!",
+  "it": "Vincitore della Gara Grazia di Hoenn, livello Normale!"
+ },
+ {
+  "id": 10,
+  "en": "Hoenn Cute Contest Super Rank winner!",
+  "it": "Vincitore della Gara Grazia di Hoenn, livello Super!"
+ },
+ {
+  "id": 11,
+  "en": "Hoenn Cute Contest Hyper Rank winner!",
+  "it": "Vincitore della Gara Grazia di Hoenn, livello Iper!"
+ },
+ {
+  "id": 12,
+  "en": "Hoenn Cute Contest Master Rank winner!",
+  "it": "Vincitore della Gara Grazia di Hoenn, livello Master!"
+ },
+ {
+  "id": 13,
+  "en": "Hoenn Smart Contest Normal Rank winner!",
+  "it": "Vincitore della Gara Acume di Hoenn, livello Normale!"
+ },
+ {
+  "id": 14,
+  "en": "Hoenn Smart Contest Super Rank winner!",
+  "it": "Vincitore della Gara Acume di Hoenn, livello Super!"
+ },
+ {
+  "id": 15,
+  "en": "Hoenn Smart Contest Hyper Rank winner!",
+  "it": "Vincitore della Gara Acume di Hoenn, livello Iper!"
+ },
+ {
+  "id": 16,
+  "en": "Hoenn Smart Contest Master Rank winner!",
+  "it": "Vincitore della Gara Acume di Hoenn, livello Master!"
+ },
+ {
+  "id": 17,
+  "en": "Hoenn Tough Contest Normal Rank winner!",
+  "it": "Vincitore della Gara Grinta di Hoenn, livello Normale!"
+ },
+ {
+  "id": 18,
+  "en": "Hoenn Tough Contest Super Rank winner!",
+  "it": "Vincitore della Gara Grinta di Hoenn, livello Super!"
+ },
+ {
+  "id": 19,
+  "en": "Hoenn Tough Contest Hyper Rank winner!",
+  "it": "Vincitore della Gara Grinta di Hoenn, livello Iper!"
+ },
+ {
+  "id": 20,
+  "en": "Hoenn Tough Contest Master Rank winner!",
+  "it": "Vincitore della Gara Grinta di Hoenn, livello Master!"
+ },
+ {
+  "id": 21,
+  "en": "A Ribbon awarded for clearing the Ula'ula island trial.",
+  "it": "Fiocco assegnato per aver superato la prova dell'isola di Ula'ula."
+ },
+ {
+  "id": 22,
+  "en": "Super Contest Cool Category Great Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Classe, livello Grande!"
+ },
+ {
+  "id": 23,
+  "en": "Super Contest Cool Category Ultra Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Classe, livello Ultra!"
+ },
+ {
+  "id": 24,
+  "en": "A Ribbon awarded for defeating the Kahuna of Ula'ula Island.",
+  "it": "Fiocco assegnato per aver sconfitto il Kahuna dell'isola di Ula'ula."
+ },
+ {
+  "id": 25,
+  "en": "Super Contest Beauty Category Normal Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Bellezza, livello Normale!"
+ },
+ {
+  "id": 26,
+  "en": "Super Contest Beauty Category Great Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Bellezza, livello Grande!"
+ },
+ {
+  "id": 27,
+  "en": "Super Contest Beauty Category Ultra Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Bellezza, livello Ultra!"
+ },
+ {
+  "id": 28,
+  "en": "A Ribbon awarded for defeating the Kahuna of Poni Island.",
+  "it": "Fiocco assegnato per aver sconfitto il Kahuna dell'isola di Poni."
+ },
+ {
+  "id": 29,
+  "en": "A Ribbon awarded for clearing the Akala island trial.",
+  "it": "Fiocco assegnato per aver superato la prova dell'isola di Akala."
+ },
+ {
+  "id": 30,
+  "en": "Super Contest Cute Category Great Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Grazia, livello Grande!"
+ },
+ {
+  "id": 31,
+  "en": "Super Contest Cute Category Ultra Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Grazia, livello Ultra!"
+ },
+ {
+  "id": 32,
+  "en": "A Ribbon awarded for defeating the Kahuna of Akala Island.",
+  "it": "Fiocco assegnato per aver sconfitto il Kahuna dell'isola di Akala."
+ },
+ {
+  "id": 33,
+  "en": "Super Contest Smart Category Normal Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Acume, livello Normale!"
+ },
+ {
+  "id": 34,
+  "en": "Super Contest Smart Category Great Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Acume, livello Grande!"
+ },
+ {
+  "id": 35,
+  "en": "Super Contest Smart Category Ultra Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Acume, livello Ultra!"
+ },
+ {
+  "id": 36,
+  "en": "Super Contest Smart Category Master Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Acume, livello Master!"
+ },
+ {
+  "id": 37,
+  "en": "A Ribbon awarded for clearing the Melemele island trial.",
+  "it": "Fiocco assegnato per aver superato la prova dell'isola di Mele Mele."
+ },
+ {
+  "id": 38,
+  "en": "Super Contest Tough Category Great Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Grinta, livello Grande!"
+ },
+ {
+  "id": 39,
+  "en": "Super Contest Tough Category Ultra Rank winner!",
+  "it": "Vincitore delle Gare Super, categoria Grinta, livello Ultra!"
+ },
+ {
+  "id": 40,
+  "en": "A Ribbon awarded for defeating the Kahuna of Melemele Island.",
+  "it": "Fiocco assegnato per aver sconfitto il Kahuna dell'isola di Mele Mele."
+ },
+ {
+  "id": 41,
+  "en": "Ribbon awarded for clearing Hoenn's Battle Frontier Challenge.",
+  "it": "Fiocco assegnato per aver completato la sfida del Parco Lotta di Hoenn."
+ },
+ {
+  "id": 42,
+  "en": "A Ribbon awarded for defeating the Pyramid King at the Battle Frontier.",
+  "it": "Fiocco assegnato per aver sconfitto il Re Piramide del Parco Lotta."
+ },
+ {
+  "id": 43,
+  "en": "A Ribbon awarded for defeating the Factory Head at the Battle Frontier.",
+  "it": "Fiocco assegnato per aver sconfitto il Capofabbrica del Parco Lotta."
+ },
+ {
+  "id": 44,
+  "en": "A Ribbon awarded for defeating the Salon Maiden at the Battle Frontier.",
+  "it": "Fiocco assegnato per aver sconfitto la Dama Salone del Parco Lotta."
+ },
+ {
+  "id": 45,
+  "en": "A Ribbon awarded for defeating the Arena Tycoon at the Battle Frontier.",
+  "it": "Fiocco assegnato per aver sconfitto la Magnate Arena del Parco Lotta."
+ },
+ {
+  "id": 46,
+  "en": "A Ribbon awarded for defeating the Pike Queen at the Battle Frontier.",
+  "it": "Fiocco assegnato per aver sconfitto la Regina Tubo del Parco Lotta."
+ },
+ {
+  "id": 47,
+  "en": "A Ribbon awarded for defeating the Dome Ace at the Battle Frontier.",
+  "it": "Fiocco assegnato per aver sconfitto l'Asso Cupola del Parco Lotta."
+ },
+ {
+  "id": 48,
+  "en": "A Ribbon awarded for defeating the Palace Maven at the Battle Frontier.",
+  "it": "Fiocco assegnato per aver sconfitto il Guru Palazzo del Parco Lotta."
+ },
+ {
+  "id": 49,
+  "en": "Ribbon for clearing the Pokémon League and entering the Hall of Fame in another region. ",
+  "it": "Fiocco per aver battuto la Lega Pokémon ed essere entrato nella Sala d'Onore in un'altra regione."
+ },
+ {
+  "id": 50,
+  "en": "Ribbon awarded for beating the Sinnoh Champion and entering the Hall of Fame.",
+  "it": "Fiocco assegnato per aver battuto il Campione di Sinnoh ed essere entrato nella Sala d'Onore."
+ },
+ {
+  "id": 51,
+  "en": "A Ribbon awarded by Professor Sycamore for defeating Team Flare.",
+  "it": "Fiocco assegnato dal Professor Platan per aver sconfitto il Team Flare."
+ },
+ {
+  "id": 52,
+  "en": "Pokémon Event Participation Ribbon.",
+  "it": "Fiocco per la partecipazione a un evento Pokémon."
+ },
+ {
+  "id": 53,
+  "en": "A Ribbon awarded for defeating the Orange Crew Leader.",
+  "it": "Fiocco assegnato per aver sconfitto il Capo Orange."
+ },
+ {
+  "id": 54,
+  "en": "A ribbon for defeating an extraordinarily Trainer.",
+  "it": "Fiocco per aver sconfitto un Allenatore straordinario."
+ },
+ {
+  "id": 55,
+  "en": "An incredibly regal Ribbon with an air of nobility.",
+  "it": "Un fiocco incredibilmente regale, dall'aria nobile."
+ },
+ {
+  "id": 56,
+  "en": "A gorgeous and regal Ribbon that is the peak of fabulous.",
+  "it": "Un fiocco regale e sfarzoso, il massimo dell'eleganza."
+ },
+ {
+  "id": 57,
+  "en": "A Ribbon for participating in the Lily of the Valley Conference.",
+  "it": "Fiocco per aver partecipato alla Conferenza Mughetto."
+ },
+ {
+  "id": 58,
+  "en": "A Ribbon for participating in the Manalo Conference.",
+  "it": "Fiocco per aver partecipato alla Conferenza Manalo."
+ },
+ {
+  "id": 59,
+  "en": "A Ribbon for participating in the Ever Grande Conference.",
+  "it": "Fiocco per aver partecipato alla Conferenza Iridopoli."
+ },
+ {
+  "id": 60,
+  "en": "A Ribbon for participating in the Vetress Conference.",
+  "it": "Fiocco per aver partecipato alla Conferenza Vetress."
+ },
+ {
+  "id": 61,
+  "en": "A Ribbon for participating in the Indigo Plateau Conference.",
+  "it": "Fiocco per aver partecipato alla Conferenza dell'Altopiano Blu."
+ },
+ {
+  "id": 62,
+  "en": "A Ribbon for participating in the Lumiose Conference.",
+  "it": "Fiocco per aver partecipato alla Conferenza Luminopoli."
+ },
+ {
+  "id": 63,
+  "en": "A Ribbon for participating in the Silver Conference.",
+  "it": "Fiocco per aver partecipato alla Conferenza Argento."
+ },
+ {
+  "id": 64,
+  "en": "A Ribbon awarded to a Pokémon deemed to have a top-quality footprint.",
+  "it": "Fiocco assegnato a un Pokémon con un'impronta di altissima qualità."
+ },
+ {
+  "id": 65,
+  "en": "Ribbon awarded for being chosen as a super sketch model in Hoenn.",
+  "it": "Fiocco assegnato per essere stato scelto come modello per un ritratto a Hoenn."
+ },
+ {
+  "id": 66,
+  "en": "A ribbon for winning the Terracotta Contest. The other half of the ribbon is with May.",
+  "it": "Fiocco per aver vinto la Gara Terracotta. L'altra metà del fiocco ce l'ha Vera."
+ },
+ {
+  "id": 67,
+  "en": "A Ribbon to celebrate a birthday.",
+  "it": "Un fiocco per festeggiare un compleanno."
+ },
+ {
+  "id": 68,
+  "en": "A special Ribbon for a special day.",
+  "it": "Un fiocco speciale per un giorno speciale."
+ },
+ {
+  "id": 69,
+  "en": "A Ribbon that proclaims love for Pokémon.",
+  "it": "Un fiocco che proclama l'amore per i Pokémon."
+ },
+ {
+  "id": 70,
+  "en": "Special Holiday Ribbon.",
+  "it": "Fiocco speciale delle feste."
+ },
+ {
+  "id": 71,
+  "en": "A Ribbon to cherish a special memory.",
+  "it": "Un fiocco per custodire un ricordo speciale."
+ },
+ {
+  "id": 72,
+  "en": "A Ribbon said to make your wish come true.",
+  "it": "Un fiocco che si dice realizzi i desideri."
+ },
+ {
+  "id": 73,
+  "en": "A Ribbon awarded for overcoming all difficult challenges.",
+  "it": "Fiocco assegnato per aver superato tutte le sfide più difficili."
+ },
+ {
+  "id": 74,
+  "en": "Pokémon League Champion Ribbon.",
+  "it": "Fiocco del Campione della Lega Pokémon."
+ },
+ {
+  "id": 75,
+  "en": "Battle Competition Champion Ribbon.",
+  "it": "Fiocco del Campione di una competizione di lotta."
+ },
+ {
+  "id": 76,
+  "en": "Pokémon World Championships Regional Champion Ribbon.",
+  "it": "Fiocco del Campione Regionale dei Campionati Mondiali Pokémon."
+ },
+ {
+  "id": 77,
+  "en": "A Ribbon awarded for winning 100 matches in a row.",
+  "it": "Fiocco assegnato per aver vinto 100 incontri di fila."
+ },
+ {
+  "id": 78,
+  "en": "Pokémon League Champion Ribbon.",
+  "it": "Fiocco del Campione della Lega Pokémon."
+ },
+ {
+  "id": 79,
+  "en": "Pokémon World Championships National Champion Ribbon.",
+  "it": "Fiocco del Campione Nazionale dei Campionati Mondiali Pokémon."
+ },
+ {
+  "id": 80,
+  "en": "Pokémon World Championships World Champion Ribbon.",
+  "it": "Fiocco del Campione Mondiale dei Campionati Mondiali Pokémon."
+ }
+]

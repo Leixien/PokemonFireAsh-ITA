@@ -1,0 +1,97 @@
+[
+ {
+  "id": "How are your Pokémon doing?\\mMy \\TP's really energetic. It's a handful!\\mOh yeah, I managed to beat a tough \\TE.\\mI need to make my party stronger.",
+  "en": "How are your Pokémon doing?\\mMy \\TP's really energetic.  It's a handful!\\mOh yeah, I managed to beat a tough \\TE.\\mI need to make my party stronger.",
+  "it": "Come stanno i tuoi Pokémon?\\mIl mio \\TP è pieno di energia. Non sta mai fermo!\\mAh già, sono riuscito a battere un \\TE molto forte.\\mDevo rendere più forte la mia squadra."
+ },
+ {
+  "id": "My \\TP's looking really awesome.\\mI wish I could show you.\\mHey, listen! I almost caught a \\TE the other day.\\mOh, it was sooooooo close, too!",
+  "en": "My \\TP's looking really awesome.\\mI wish I could show you.\\mHey, listen!  I almost caught a \\TE the other day.\\mOh, it was sooooooo close, too!",
+  "it": "Il mio \\TP è davvero in gran forma.\\mVorrei potertelo mostrare.\\mEhi, senti! L'altro giorno ho quasi catturato un \\TE.\\mOh, c'è mancato davvero pochissimo!"
+ },
+ {
+  "id": "Want to battle? It's not going to be a repeat of the last time we met.\\mI'll be waiting for you around \\TM.",
+  "en": "Want to battle?  It's not going to be a repeat of the last time we met.\\mI'll be waiting for you around \\TM.",
+  "it": "Ti va una lotta? Non finirà come l'ultima volta che ci siamo visti.\\mTi aspetto nei dintorni di \\TM."
+ },
+ {
+  "id": "Do you want to battle? I'm going to win this time!\\mI'll be waiting for you around \\TM.\\mLook for me, OK? My \\TP will be expecting you.",
+  "en": "Do you want to battle?  I'm going to win this time!\\mI'll be waiting for you around \\TM.\\mLook for me, OK?  My \\TP will be expecting you.",
+  "it": "Vuoi lottare? Stavolta vincerò io!\\mTi aspetto nei dintorni di \\TM.\\mCercami, OK? Il mio \\TP ti aspetta."
+ },
+ {
+  "id": "Good morning, \\PN.\\mThis is \\TN. Did I wake you?",
+  "en": "Good morning, \\PN.\\mThis is \\TN.  Did I wake you?",
+  "it": "Buongiorno, \\PN.\\mSono \\TN. Ti ho svegliato?"
+ },
+ {
+  "id": "\\PN, good evening! Hi.\\mThis is \\TN.",
+  "en": "\\PN, good evening!  Hi.\\mThis is \\TN.",
+  "it": "\\PN, buonasera! Ciao.\\mSono \\TN."
+ },
+ {
+  "id": "Hello. This is \\TN.",
+  "en": "Hello.  This is \\TN.",
+  "it": "Pronto. Sono \\TN."
+ },
+ {
+  "id": "Good day, \\PN! Hi. This is \\TN.",
+  "en": "Good day, \\PN!  Hi.  This is \\TN.",
+  "it": "Buongiorno, \\PN! Ciao. Sono \\TN."
+ },
+ {
+  "id": "How are you doing? \\PN, howdy! This is \\TN. Isn't it nice out?",
+  "en": "How are you doing? \\PN, howdy!  This is \\TN.  Isn't it nice out?",
+  "it": "Come va? \\PN, salve! Sono \\TN. Non è una bella giornata?"
+ },
+ {
+  "id": "\\PN, good day! It's me, \\TN. Got a minute?",
+  "en": "\\PN, good day!  It's me, \\TN.  Got a minute?",
+  "it": "\\PN, buongiorno! Sono io, \\TN. Hai un minuto?"
+ },
+ {
+  "id": "Hello, \\PN. This is \\TN. How are things?",
+  "en": "Hello, \\PN.  This is \\TN.  How are things?",
+  "it": "Ciao, \\PN. Sono \\TN. Come vanno le cose?"
+ },
+ {
+  "id": "How are your Pokémon doing?\\mMy \\TP's really energetic. It's a handful!",
+  "en": "How are your Pokémon doing?\\mMy \\TP's really energetic.  It's a handful!",
+  "it": "Come stanno i tuoi Pokémon?\\mIl mio \\TP è pieno di energia. Non sta mai fermo!"
+ },
+ {
+  "id": "How are your Pokémon doing?\\mI always keep my \\TP in top shape by going to Pokémon Centers.",
+  "en": "How are your Pokémon doing?\\mI always keep my \\TP in top shape by going to Pokémon Centers.",
+  "it": "Come stanno i tuoi Pokémon?\\mIo tengo sempre il mio \\TP in perfetta forma portandolo ai Centri Pokémon."
+ },
+ {
+  "id": "My \\TP's looking really awesome. I wish I could show you.",
+  "en": "My \\TP's looking really awesome.  I wish I could show you.",
+  "it": "Il mio \\TP è davvero in gran forma. Vorrei potertelo mostrare."
+ },
+ {
+  "id": "I dressed my \\TP and it looks even cuter than before.",
+  "en": "I dressed my \\TP and it looks even cuter than before.",
+  "it": "Ho vestito il mio \\TP ed è ancora più carino di prima."
+ },
+ {
+  "id": "Oh yeah, I managed to beat a tough \\TE.\\mI need to make my party stronger.",
+  "en": "Oh yeah, I managed to beat a tough \\TE.\\mI need to make my party stronger.",
+  "it": "Ah già, sono riuscito a battere un \\TE molto forte.\\mDevo rendere più forte la mia squadra."
+ },
+ {
+  "id": "You have to hear this! I battled \\TE the other day.\\mIt was easy! I had a type advantage.",
+  "en": "You have to hear this!  I battled \\TE the other day.\\mIt was easy!  I had a type advantage.",
+  "it": "Devi sentire questa! L'altro giorno ho lottato contro \\TE.\\mÈ stato facile! Avevo il vantaggio del tipo."
+ },
+ {
+  "id": "Hey, listen! I almost caught \\TE the other day.\\mOh, it was sooooooo close, too!",
+  "en": "Hey, listen!  I almost caught \\TE the other day.\\mOh, it was sooooooo close, too!",
+  "it": "Ehi, senti! L'altro giorno ho quasi catturato \\TE.\\mOh, c'è mancato davvero pochissimo!"
+ },
+ {
+  "id": "Guess what happened the other day. I missed catching \\TE again.\\mMaybe I'm not very good at this.",
+  "en": "Guess what happened the other day.  I missed catching \\TE again.\\mMaybe I'm not very good at this.",
+  "it": "Indovina cos'è successo l'altro giorno. Mi è sfuggito di nuovo \\TE.\\mForse non sono molto bravo in questo."
+ }
+]

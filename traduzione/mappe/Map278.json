@@ -1,0 +1,497 @@
+[
+ {
+  "id": "\\rThe firefighting event looks fun.",
+  "en": "\\rThe firefighting event looks fun.",
+  "it": "\\rLa gara antincendio sembra divertente."
+ },
+ {
+  "id": "\\bWartortle!",
+  "en": "\\bWartortle!",
+  "it": "\\bWartortle!"
+ },
+ {
+  "id": "\\bI'm looking for a Ninetales.",
+  "en": "\\bI'm looking for a Ninetales.",
+  "it": "\\bSto cercando un Ninetales."
+ },
+ {
+  "id": "\\bWant to trade it for my Porygon?",
+  "en": "\\bWant to trade it for my Porygon?",
+  "it": "\\bVuoi scambiarlo con il mio Porygon?"
+ },
+ {
+  "id": "\\bYou don't want to trade? Shame.",
+  "en": "\\bYou don't want to trade?  Shame.",
+  "it": "\\bNon vuoi fare lo scambio?  Peccato."
+ },
+ {
+  "id": "\\bOK, let's do this.",
+  "en": "\\bOK, let's do this.",
+  "it": "\\bOK, facciamolo."
+ },
+ {
+  "id": "Porygon",
+  "en": "Porygon",
+  "it": "Porygon"
+ },
+ {
+  "id": "David",
+  "en": "David",
+  "it": "David"
+ },
+ {
+  "id": "\\PN traded Ninetales for Porygon!",
+  "en": "\\PN traded Ninetales for Porygon!",
+  "it": "\\PN ha scambiato Ninetales con Porygon!"
+ },
+ {
+  "id": "\\bThanks!",
+  "en": "\\bThanks!",
+  "it": "\\bGrazie!"
+ },
+ {
+  "id": "\\bYou got a good deal.",
+  "en": "\\bYou got a good deal.",
+  "it": "\\bHai fatto un buon affare."
+ },
+ {
+  "id": "\\rThey advise people to stand back from this.",
+  "en": "\\rThey advise people to stand back from this.",
+  "it": "\\rConsigliano alla gente di stare lontana da qui."
+ },
+ {
+  "id": "\\bCaptain Aidan: \\PN. What are you doing here?",
+  "en": "\\bCaptain Aidan: \\PN. What are you doing here?",
+  "it": "\\bCapitano Aidan: \\PN. Cosa ci fai qui?"
+ },
+ {
+  "id": "\\bI came here to compete in the Firefighting competition.",
+  "en": "\\bI came here to compete in the Firefighting competition.",
+  "it": "\\bSono venuto per partecipare alla gara antincendio."
+ },
+ {
+  "id": "\\bOh, you have a Pokémon from the Squirtle line?",
+  "en": "\\bOh, you have a Pokémon from the Squirtle line?",
+  "it": "\\bOh, hai un Pokémon della famiglia di Squirtle?"
+ },
+ {
+  "id": "\\bI could always raise it for you.",
+  "en": "\\bI could always raise it for you.",
+  "it": "\\bPotrei allenarlo io per te."
+ },
+ {
+  "id": "\\bOh you have a Pokémon from the Squirtle line?",
+  "en": "\\bOh you have a Pokémon from the Squirtle line?",
+  "it": "\\bOh, hai un Pokémon della famiglia di Squirtle?"
+ },
+ {
+  "id": "\\bCaptain Aidan: Oh hi \\PN. What are you doing here?",
+  "en": "\\bCaptain Aidan: Oh hi \\PN. What are you doing here?",
+  "it": "\\bCapitano Aidan: Oh, ciao \\PN. Cosa ci fai qui?"
+ },
+ {
+  "id": "\\bCaptain Aidan: You have a wonderful Squirtle. How would you like me to train one of your Pokémon?",
+  "en": "\\bCaptain Aidan: You have a wonderful Squirtle. How would you like me to train one of your Pokémon?",
+  "it": "\\bCapitano Aidan: Hai uno Squirtle magnifico. Che ne dici se allenassi uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bOh? But you only have one with you.",
+  "en": "\\bOh?  But you only have one with you.",
+  "it": "\\bOh? Ma ne hai solo uno con te."
+ },
+ {
+  "id": "\\bWhich Pokémon would you like me to raise?",
+  "en": "\\bWhich Pokémon would you like me to raise?",
+  "it": "\\bQuale Pokémon vuoi che alleni?"
+ },
+ {
+  "id": "\\bFine.",
+  "en": "\\bFine.",
+  "it": "\\bVa bene."
+ },
+ {
+  "id": "\\bf you leave me that Pokémon, what are you gonna battle with?",
+  "en": "\\bf you leave me that Pokémon, what are you gonna battle with?",
+  "it": "\\bSe mi lasci quel Pokémon, con cosa lotterai?"
+ },
+ {
+  "id": "\\bCome back with some common sense.",
+  "en": "\\bCome back with some common sense.",
+  "it": "\\bTorna quando avrai un po' di buon senso."
+ },
+ {
+  "id": "\\bI'll raise your \\v[3] for a while.",
+  "en": "\\bI'll raise your \\v[3] for a while.",
+  "it": "\\bAllenerò il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\bI can raise two of your Pokémon. Would you like me to raise another?",
+  "en": "\\bI can raise two of your Pokémon. Would you like me to raise another?",
+  "it": "\\bPosso allenare due dei tuoi Pokémon. Vuoi che ne alleni un altro?"
+ },
+ {
+  "id": "\\bOh? But you only have one Pokémon with you.",
+  "en": "\\bOh? But you only have one Pokémon with you.",
+  "it": "\\bOh? Ma hai solo un Pokémon con te."
+ },
+ {
+  "id": "\\bYou can't go off without a Pokémon. Come back another time.",
+  "en": "\\bYou can't go off without a Pokémon. Come back another time.",
+  "it": "\\bNon puoi andartene in giro senza un Pokémon. Torna un'altra volta."
+ },
+ {
+  "id": "\\bWhich Pokémon should I raise for you?",
+  "en": "\\bWhich Pokémon should I raise for you?",
+  "it": "\\bQuale Pokémon devo allenare per te?"
+ },
+ {
+  "id": "\\bI can always train one for you.",
+  "en": "\\bI can always train one for you.",
+  "it": "\\bPosso sempre allenartene uno."
+ },
+ {
+  "id": "\\bFine, I'll raise your \\v[3] for a while.",
+  "en": "\\bFine, I'll raise your \\v[3] for a while.",
+  "it": "\\bBene, allenerò il tuo \\v[3] per un po'."
+ },
+ {
+  "id": "\\bCome back for it later.",
+  "en": "\\bCome back for it later.",
+  "it": "\\bTorna a prenderlo più tardi."
+ },
+ {
+  "id": "\\bHey \\PN. How's it going? Your Pokémon got stronger.",
+  "en": "\\bHey \\PN. How's it going? Your Pokémon got stronger.",
+  "it": "\\bEhi, \\PN. Come va? Il tuo Pokémon è diventato più forte."
+ },
+ {
+  "id": "\\bBy level, your \\v[3] has grown by about \\v[4].",
+  "en": "\\bBy level, your \\v[3] has grown by about \\v[4].",
+  "it": "\\bIl tuo \\v[3] è salito di circa \\v[4] livelli."
+ },
+ {
+  "id": "\\bDo you want your Pokémon back?",
+  "en": "\\bDo you want your Pokémon back?",
+  "it": "\\bVuoi riavere il tuo Pokémon?"
+ },
+ {
+  "id": "\\bYour Pokémon team is full. Make room, then come see me.",
+  "en": "\\bYour Pokémon team is full. Make room, then come see me.",
+  "it": "\\bLa tua squadra è al completo. Fai spazio, poi torna da me."
+ },
+ {
+  "id": "Which one do you want back?",
+  "en": "Which one do you want back?",
+  "it": "Quale vuoi riprenderti?"
+ },
+ {
+  "id": "\\bVery good. Come again.",
+  "en": "\\bVery good. Come again.",
+  "it": "\\bMolto bene. Torna a trovarmi."
+ },
+ {
+  "id": "\\G\\bIf you want your \\v[3] back, it will cost $\\v[4].",
+  "en": "\\G\\bIf you want your \\v[3] back, it will cost $\\v[4].",
+  "it": "\\G\\bSe vuoi riavere il tuo \\v[3], ti costerà $\\v[4]."
+ },
+ {
+  "id": "\\G\\bYou don't have enough money...",
+  "en": "\\G\\bYou don't have enough money...",
+  "it": "\\G\\bNon hai abbastanza soldi..."
+ },
+ {
+  "id": "\\G\\bAwesome\\nHere's your Pokémon.",
+  "en": "\\G\\bAwesome\\nHere's your Pokémon.",
+  "it": "\\G\\bFantastico\\nEcco il tuo Pokémon."
+ },
+ {
+  "id": "\\PN took \\v[3] back from Aiden.",
+  "en": "\\PN took \\v[3] back from Aiden.",
+  "it": "\\PN si è ripreso \\v[3] da Aidan."
+ },
+ {
+  "id": "\\bDo you want to take back the other one, too?",
+  "en": "\\bDo you want to take back the other one, too?",
+  "it": "\\bVuoi riprenderti anche l'altro?"
+ },
+ {
+  "id": "\\bI'm looking for a Teddiursa.",
+  "en": "\\bI'm looking for a Teddiursa.",
+  "it": "\\bSto cercando un Teddiursa."
+ },
+ {
+  "id": "\\bWant to trade it for my Igglybuff?",
+  "en": "\\bWant to trade it for my Igglybuff?",
+  "it": "\\bVuoi scambiarlo con il mio Igglybuff?"
+ },
+ {
+  "id": "Igglybuff",
+  "en": "Igglybuff",
+  "it": "Igglybuff"
+ },
+ {
+  "id": "Howard",
+  "en": "Howard",
+  "it": "Howard"
+ },
+ {
+  "id": "\\PN traded Teddiursa for Igglybuff!",
+  "en": "\\PN traded Teddiursa for Igglybuff!",
+  "it": "\\PN ha scambiato Teddiursa con Igglybuff!"
+ },
+ {
+  "id": "\\bGreat trade.",
+  "en": "\\bGreat trade.",
+  "it": "\\bOttimo scambio."
+ },
+ {
+  "id": "\\rWartortle!",
+  "en": "\\rWartortle!",
+  "it": "\\rWartortle!"
+ },
+ {
+  "id": "\\bI can teach your Pokémon a move.",
+  "en": "\\bI can teach your Pokémon a move.",
+  "it": "\\bPosso insegnare una mossa al tuo Pokémon."
+ },
+ {
+  "id": "\\bWant to learn Roost?",
+  "en": "\\bWant to learn Roost?",
+  "it": "\\bVuoi imparare Trespolo?"
+ },
+ {
+  "id": "\\bCome back anytime!",
+  "en": "\\bCome back anytime!",
+  "it": "\\bTorna quando vuoi!"
+ },
+ {
+  "id": "\\bI traded and got a Lickitung! This is the best day ever!",
+  "en": "\\bI traded and got a Lickitung! This is the best day ever!",
+  "it": "\\bHo fatto uno scambio e ho avuto un Lickitung! È il giorno più bello della mia vita!"
+ },
+ {
+  "id": "\\bSuch a festive time, isn't it?",
+  "en": "\\bSuch a festive time, isn't it?",
+  "it": "\\bChe periodo di festa, vero?"
+ },
+ {
+  "id": "\\bWelcome to the Tauros competition, where you face last year's champion in a battle.",
+  "en": "\\bWelcome to the Tauros competition, where you face last year's champion in a battle.",
+  "it": "\\bBenvenuto alla gara dei Tauros, dove affronterai in lotta il campione dell'anno scorso."
+ },
+ {
+  "id": "\\bYou have a Tauros. Let's get started.",
+  "en": "\\bYou have a Tauros. Let's get started.",
+  "it": "\\bHai un Tauros. Cominciamo."
+ },
+ {
+  "id": "\\bThat's right. I'm last years champion.",
+  "en": "\\bThat's right. I'm last years champion.",
+  "it": "\\bEsatto. Sono il campione dell'anno scorso."
+ },
+ {
+  "id": "\\bCome back with a Tauros if you want to enter.",
+  "en": "\\bCome back with a Tauros if you want to enter.",
+  "it": "\\bTorna con un Tauros se vuoi partecipare."
+ },
+ {
+  "id": "\\bHere is your prize for winning.",
+  "en": "\\bHere is your prize for winning.",
+  "it": "\\bEcco il tuo premio per la vittoria."
+ },
+ {
+  "id": "\\bA Life Orb raises the power of a Pokémon for some of its HP.",
+  "en": "\\bA Life Orb raises the power of a Pokémon for some of its HP.",
+  "it": "\\bL'Assorbisfera aumenta la potenza di un Pokémon in cambio di un po' dei suoi PS."
+ },
+ {
+  "id": "\\bThat was a great battle. Want to trade your Tauros for my Nidoqueen?",
+  "en": "\\bThat was a great battle. Want to trade your Tauros for my Nidoqueen?",
+  "it": "\\bÈ stata una gran lotta. Vuoi scambiare il tuo Tauros con il mio Nidoqueen?"
+ },
+ {
+  "id": "Nidoqueen",
+  "en": "Nidoqueen",
+  "it": "Nidoqueen"
+ },
+ {
+  "id": "Fernando",
+  "en": "Fernando",
+  "it": "Fernando"
+ },
+ {
+  "id": "\\PN traded Tauros for Nidoqueen!",
+  "en": "\\PN traded Tauros for Nidoqueen!",
+  "it": "\\PN ha scambiato Tauros con Nidoqueen!"
+ },
+ {
+  "id": "\\bThat was a great battle. I'll raise Tauros well.",
+  "en": "\\bThat was a great battle. I'll raise Tauros well.",
+  "it": "\\bÈ stata una gran lotta. Mi prenderò cura di Tauros."
+ },
+ {
+  "id": "\\bI want to win the prize for the competition.",
+  "en": "\\bI want to win the prize for the competition.",
+  "it": "\\bVoglio vincere il premio della gara."
+ },
+ {
+  "id": "\\bI'm looking for a Tauros.",
+  "en": "\\bI'm looking for a Tauros.",
+  "it": "\\bSto cercando un Tauros."
+ },
+ {
+  "id": "\\bWant to trade it for my Rhyhorn?",
+  "en": "\\bWant to trade it for my Rhyhorn?",
+  "it": "\\bVuoi scambiarlo con il mio Rhyhorn?"
+ },
+ {
+  "id": "Rhyhorn",
+  "en": "Rhyhorn",
+  "it": "Rhyhorn"
+ },
+ {
+  "id": "Sean",
+  "en": "Sean",
+  "it": "Sean"
+ },
+ {
+  "id": "\\PN traded Tauros for Rhyhorn!",
+  "en": "\\PN traded Tauros for Rhyhorn!",
+  "it": "\\PN ha scambiato Tauros con Rhyhorn!"
+ },
+ {
+  "id": "\\rI wish I had a Tauros so I could enter.",
+  "en": "\\rI wish I had a Tauros so I could enter.",
+  "it": "\\rVorrei avere un Tauros per poter partecipare."
+ },
+ {
+  "id": "\\rI'm looking for a Corsola.",
+  "en": "\\rI'm looking for a Corsola.",
+  "it": "\\rSto cercando un Corsola."
+ },
+ {
+  "id": "\\rWant to trade it for my Lickitung?",
+  "en": "\\rWant to trade it for my Lickitung?",
+  "it": "\\rVuoi scambiarlo con il mio Lickitung?"
+ },
+ {
+  "id": "\\rYou don't want to trade? Aw, you suck.",
+  "en": "\\rYou don't want to trade?  Aw, you suck.",
+  "it": "\\rNon vuoi fare lo scambio?  Uffa, che antipatico."
+ },
+ {
+  "id": "\\rAwesome!",
+  "en": "\\rAwesome!",
+  "it": "\\rFantastico!"
+ },
+ {
+  "id": "Lickitung",
+  "en": "Lickitung",
+  "it": "Lickitung"
+ },
+ {
+  "id": "Pat",
+  "en": "Pat",
+  "it": "Pat"
+ },
+ {
+  "id": "\\PN traded Corsola for Lickitung!",
+  "en": "\\PN traded Corsola for Lickitung!",
+  "it": "\\PN ha scambiato Corsola con Lickitung!"
+ },
+ {
+  "id": "\\rThank you!",
+  "en": "\\rThank you!",
+  "it": "\\rGrazie!"
+ },
+ {
+  "id": "\\rMy new Corsola is amazing!",
+  "en": "\\rMy new Corsola is amazing!",
+  "it": "\\rIl mio nuovo Corsola è fantastico!"
+ },
+ {
+  "id": "\\bHave you checked out the vendors?",
+  "en": "\\bHave you checked out the vendors?",
+  "it": "\\bHai dato un'occhiata alle bancarelle?"
+ },
+ {
+  "id": "\\bI'm looking for a Butterfree.",
+  "en": "\\bI'm looking for a Butterfree.",
+  "it": "\\bSto cercando un Butterfree."
+ },
+ {
+  "id": "\\bWant to trade it for my Bellossom?",
+  "en": "\\bWant to trade it for my Bellossom?",
+  "it": "\\bVuoi scambiarlo con il mio Bellossom?"
+ },
+ {
+  "id": "Bellossom",
+  "en": "Bellossom",
+  "it": "Bellossom"
+ },
+ {
+  "id": "Harry",
+  "en": "Harry",
+  "it": "Harry"
+ },
+ {
+  "id": "\\PN traded Butterfree for Bellossom!",
+  "en": "\\PN traded Butterfree for Bellossom!",
+  "it": "\\PN ha scambiato Butterfree con Bellossom!"
+ },
+ {
+  "id": "\\bThanks again.",
+  "en": "\\bThanks again.",
+  "it": "\\bGrazie ancora."
+ },
+ {
+  "id": "\\bMy mom gave me money to buy as much as I want!",
+  "en": "\\bMy mom gave me money to buy as much as I want!",
+  "it": "\\bLa mamma mi ha dato i soldi per comprare tutto quello che voglio!"
+ },
+ {
+  "id": "\\bWanna trade? Wait. I changed my mind.",
+  "en": "\\bWanna trade? Wait. I changed my mind.",
+  "it": "\\bTi va uno scambio? Anzi no. Ho cambiato idea."
+ },
+ {
+  "id": "\\rI'm looking for a Mankey.",
+  "en": "\\rI'm looking for a Mankey.",
+  "it": "\\rSto cercando un Mankey."
+ },
+ {
+  "id": "\\rWant to trade it for my Aipom?",
+  "en": "\\rWant to trade it for my Aipom?",
+  "it": "\\rVuoi scambiarlo con il mio Aipom?"
+ },
+ {
+  "id": "Aipom",
+  "en": "Aipom",
+  "it": "Aipom"
+ },
+ {
+  "id": "Ruby",
+  "en": "Ruby",
+  "it": "Ruby"
+ },
+ {
+  "id": "\\PN traded Mankey for Aipom!",
+  "en": "\\PN traded Mankey for Aipom!",
+  "it": "\\PN ha scambiato Mankey con Aipom!"
+ },
+ {
+  "id": "\\rI love my new Pokémon!",
+  "en": "\\rI love my new Pokémon!",
+  "it": "\\rAdoro il mio nuovo Pokémon!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

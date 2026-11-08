@@ -1,0 +1,67 @@
+[
+ {
+  "id": "\\bCilan: Good timing. Help me beat the Subway Bosses.",
+  "en": "\\bCilan: Good timing. Help me beat the Subway Bosses.",
+  "it": "\\bSpighetto: Arrivi al momento giusto. Aiutami a battere i Capi Metrò."
+ },
+ {
+  "id": "\\PN teamed up with Cilan!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Cilan!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN fa squadra con Spighetto!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\bOk then.",
+  "en": "\\bOk then.",
+  "it": "\\bVa bene, allora."
+ },
+ {
+  "id": "\\bEmmet: I am Emmet. Prepare to be defeated.",
+  "en": "\\bEmmet: I am Emmet. Prepare to be defeated.",
+  "it": "\\bEmmet: Sono Emmet. Preparati a essere sconfitto."
+ },
+ {
+  "id": "\\bEmmet: The Subway Trains are out of order right now. Sorry for the delay.",
+  "en": "\\bEmmet: The Subway Trains are out of order right now. Sorry for the delay.",
+  "it": "\\bEmmet: I treni della metropolitana sono fuori servizio. Ci scusiamo per il ritardo."
+ },
+ {
+  "id": "\\bCilan: Shouldn't we have our battle?",
+  "en": "\\bCilan: Shouldn't we have our battle?",
+  "it": "\\bSpighetto: Non dovremmo fare la nostra lotta?"
+ },
+ {
+  "id": "\\bThis railway leads to the Single Battles. The railways have been temporarly shut down though.",
+  "en": "\\bThis railway leads to the Single Battles. The railways have been temporarly shut down though.",
+  "it": "\\bQuesta linea porta alle Lotte in Singolo. Però le linee sono temporaneamente chiuse."
+ },
+ {
+  "id": "\\bIngo: I am Ingo. Prepare to lose.",
+  "en": "\\bIngo: I am Ingo. Prepare to lose.",
+  "it": "\\bIngo: Sono Ingo. Preparati a perdere."
+ },
+ {
+  "id": "\\bIngo: The Subway Trains are out of order right now. Sorry for the delay.",
+  "en": "\\bIngo: The Subway Trains are out of order right now. Sorry for the delay.",
+  "it": "\\bIngo: I treni della metropolitana sono fuori servizio. Ci scusiamo per il ritardo."
+ },
+ {
+  "id": "\\bThis railway leads to the Double Battles. The railways have been temporarly shut down though.",
+  "en": "\\bThis railway leads to the Double Battles. The railways have been temporarly shut down though.",
+  "it": "\\bQuesta linea porta alle Lotte in Doppio. Però le linee sono temporaneamente chiuse."
+ },
+ {
+  "id": "\\bThis railway leads to the Multi Battles. The railways have been temporarly shut down though.",
+  "en": "\\bThis railway leads to the Multi Battles. The railways have been temporarly shut down though.",
+  "it": "\\bQuesta linea porta alle Lotte Multiple. Però le linee sono temporaneamente chiuse."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

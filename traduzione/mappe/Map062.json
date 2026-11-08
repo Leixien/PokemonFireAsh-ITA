@@ -1,0 +1,182 @@
+[
+ {
+  "id": "\\bWelcome to the Battle Factory.",
+  "en": "\\bWelcome to the Battle Factory.",
+  "it": "\\bBenvenuto all'Fabbrica Lotta."
+ },
+ {
+  "id": "\\bWould you like to participate in a double battle?",
+  "en": "\\bWould you like to participate in a double battle?",
+  "it": "\\bVuoi partecipare a una lotta in doppio?"
+ },
+ {
+  "id": "\\bPlease come this way.",
+  "en": "\\bPlease come this way.",
+  "it": "\\bDa questa parte, prego."
+ },
+ {
+  "id": "\\bCome back another time.",
+  "en": "\\bCome back another time.",
+  "it": "\\bTorna un'altra volta."
+ },
+ {
+  "id": "\\bCongratulations for winning.",
+  "en": "\\bCongratulations for winning.",
+  "it": "\\bCongratulazioni per la vittoria."
+ },
+ {
+  "id": "\\bI will take your rental Pokémon back and return your own Pokémon.",
+  "en": "\\bI will take your rental Pokémon back and return your own Pokémon.",
+  "it": "\\bRiprendo i Pokémon a noleggio e ti restituisco i tuoi Pokémon."
+ },
+ {
+  "id": "\\bPlease take this prize.",
+  "en": "\\bPlease take this prize.",
+  "it": "\\bTi prego, accetta questo premio."
+ },
+ {
+  "id": "\\bYou have no room for it. At least you won, though.",
+  "en": "\\bYou have no room for it.  At least you won, though.",
+  "it": "\\bNon hai spazio per tenerlo.  Almeno hai vinto, però."
+ },
+ {
+  "id": "\\bWould you like to record your last battle?",
+  "en": "\\bWould you like to record your last battle?",
+  "it": "\\bVuoi registrare la tua ultima lotta?"
+ },
+ {
+  "id": "\\se[expfull]The battle was recorded.",
+  "en": "\\se[expfull]The battle was recorded.",
+  "it": "\\se[expfull]La lotta è stata registrata."
+ },
+ {
+  "id": "Your results will be recorded.\\wtnp[15]",
+  "en": "Your results will be recorded.\\wtnp[15]",
+  "it": "I tuoi risultati verranno registrati.\\wtnp[15]"
+ },
+ {
+  "id": "\\bThanks for playing.",
+  "en": "\\bThanks for playing.",
+  "it": "\\bGrazie per aver partecipato."
+ },
+ {
+  "id": "\\bWe've been waiting for you. Please come this way.",
+  "en": "\\bWe've been waiting for you.  Please come this way.",
+  "it": "\\bTi stavamo aspettando.  Da questa parte, prego."
+ },
+ {
+  "id": "\\bExcuse me, but you didn't save before finishing your challenge last time.",
+  "en": "\\bExcuse me, but you didn't save before finishing your challenge last time.",
+  "it": "\\bScusa, ma l'ultima volta non hai salvato prima di terminare la sfida."
+ },
+ {
+  "id": "\\bSorry, but your challenge has been canceled.",
+  "en": "\\bSorry, but your challenge has been canceled.",
+  "it": "\\bSpiacente, ma la tua sfida è stata annullata."
+ },
+ {
+  "id": "\\PN's Battle Factory Single Battle results:",
+  "en": "\\PN's Battle Factory Single Battle results:",
+  "it": "Risultati di \\PN all'Fabbrica Lotta, Lotta in singolo:"
+ },
+ {
+  "id": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "en": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "it": "Ultima serie di vittorie: \\v[1]\\nRecord di vittorie: \\v[2]"
+ },
+ {
+  "id": "\\PN's Battle Factory Double Battle results:",
+  "en": "\\PN's Battle Factory Double Battle results:",
+  "it": "Risultati di \\PN all'Fabbrica Lotta, Lotta in doppio:"
+ },
+ {
+  "id": "Which heading do you want to read?\\ch[1,-1, Basic Rules,Swap: Partner,Swap: Number, Swap: Notes,Exit]",
+  "en": "Which heading do you want to read?\\ch[1,-1, Basic Rules,Swap: Partner,Swap: Number, Swap: Notes,Exit]",
+  "it": "Quale sezione vuoi leggere?\\ch[1,-1, Regole base,Scambio: Partner,Scambio: Numero, Scambio: Note,Esci]"
+ },
+ {
+  "id": "In a Battle Swap event, you may use only three Pokémon.",
+  "en": "In a Battle Swap event, you may use only three Pokémon.",
+  "it": "Nella sfida Scambio Lotta puoi usare solo tre Pokémon."
+ },
+ {
+  "id": "Whether you're renting or swapping, your team may not have two or more of the same Pokémon.",
+  "en": "Whether you're renting or swapping, your team may not have two or more of the same Pokémon.",
+  "it": "Che tu stia noleggiando o scambiando, la tua squadra non può avere due o più esemplari dello stesso Pokémon."
+ },
+ {
+  "id": "You may swap Pokémon only with the Trainer you have just defeated.",
+  "en": "You may swap Pokémon only with the Trainer you have just defeated.",
+  "it": "Puoi scambiare Pokémon solo con l'Allenatore che hai appena sconfitto."
+ },
+ {
+  "id": "You may swap for only those Pokémon used by the beaten Trainer.",
+  "en": "You may swap for only those Pokémon used by the beaten Trainer.",
+  "it": "Puoi ricevere in cambio solo i Pokémon usati dall'Allenatore sconfitto."
+ },
+ {
+  "id": "After every battle you win, you may swap for one of your defeated opponent's Pokémon.",
+  "en": "After every battle you win, you may swap for one of your defeated opponent's Pokémon.",
+  "it": "Dopo ogni lotta vinta, puoi scambiare un tuo Pokémon con uno di quelli dell'avversario sconfitto."
+ },
+ {
+  "id": "You will not be able to swap Pokémon with the last Trainer in the event.",
+  "en": "You will not be able to swap Pokémon with the last Trainer in the event.",
+  "it": "Non potrai scambiare Pokémon con l'ultimo Allenatore della sfida."
+ },
+ {
+  "id": "There are two key points to be aware of when swapping Pokémon.",
+  "en": "There are two key points to be aware of when swapping Pokémon.",
+  "it": "Ci sono due punti chiave da tenere presenti quando scambi i Pokémon."
+ },
+ {
+  "id": "First, when swapping, you can't check the stats of the Pokémon you are about to receive.",
+  "en": "First, when swapping, you can't check the stats of the Pokémon you are about to receive.",
+  "it": "Primo: durante lo scambio non puoi controllare le statistiche del Pokémon che stai per ricevere."
+ },
+ {
+  "id": "Second, the Pokémon in your team are lined up in sequence, depending on the order in which you rented them.",
+  "en": "Second, the Pokémon in your team are lined up in sequence, depending on the order in which you rented them.",
+  "it": "Secondo: i Pokémon della tua squadra sono disposti in sequenza, in base all'ordine in cui li hai noleggiati."
+ },
+ {
+  "id": "This sequence remains unchanged even when swaps are made.",
+  "en": "This sequence remains unchanged even when swaps are made.",
+  "it": "Questa sequenza resta invariata anche dopo gli scambi."
+ },
+ {
+  "id": "There is no battle recorded.",
+  "en": "There is no battle recorded.",
+  "it": "Non è stata registrata nessuna lotta."
+ },
+ {
+  "id": "\\bWould you like to participate in a single battle?",
+  "en": "\\bWould you like to participate in a single battle?",
+  "it": "\\bVuoi partecipare a una lotta singola?"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Battle Palace rules",
+  "en": "Battle Palace rules",
+  "it": "Regole del Palazzo Lotta"
+ },
+ {
+  "id": "Play recorded battle",
+  "en": "Play recorded battle",
+  "it": "Guarda lotta registrata"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ }
+]

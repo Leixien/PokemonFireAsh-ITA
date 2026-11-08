@@ -1,0 +1,67 @@
+[
+ {
+  "id": "Trovita Island Pokémon Gym Leader: \\nRudy",
+  "en": "Trovita Island Pokémon Gym Leader: \\nRudy",
+  "it": "Capopalestra della Palestra Pokémon dell'Isola Trovita: \\nRudy"
+ },
+ {
+  "id": "The Diversified Trainer.",
+  "en": "The Diversified Trainer.",
+  "it": "L'Allenatore Versatile."
+ },
+ {
+  "id": "\\bKangaskhan",
+  "en": "\\bKangaskhan",
+  "it": "\\bKangaskhan"
+ },
+ {
+  "id": "\\bRaichu",
+  "en": "\\bRaichu",
+  "it": "\\bRaichu"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Ascorbia,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Ascorbia,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Ascorbia,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Ascorbia,Kumquat,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Ascorbia,Kumquat,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Ascorbia,Kumquat,Esci]"
+ },
+ {
+  "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Ascorbia,Kumquat,Pummelo,Exit]",
+  "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Ascorbia,Kumquat,Pummelo,Exit]",
+  "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Ascorbia,Kumquat,Pummelo,Esci]"
+ },
+ {
+  "id": "\\rLorelei: Hello there. I guess you're here for the gym? You're a bit too confident by the looks of it. Let me knock you down a peg.",
+  "en": "\\rLorelei: Hello there. I guess you're here for the gym? You're a bit too confident by the looks of it. Let me knock you down a peg.",
+  "it": "\\rLorelei: Salve. Immagino tu sia qui per la Palestra? A giudicare dall'aspetto, sei un po' troppo sicuro di te. Lascia che ti faccia abbassare la cresta."
+ },
+ {
+  "id": "\\rLorelei: Impressive. You might stand a chance after all. Good luck Trainer.",
+  "en": "\\rLorelei: Impressive. You might stand a chance after all. Good luck Trainer.",
+  "it": "\\rLorelei: Notevole. Forse hai qualche possibilità, dopotutto. Buona fortuna, Allenatore."
+ },
+ {
+  "id": "\\rOur Gym Leader is tough. You might need some help.",
+  "en": "\\rOur Gym Leader is tough. You might need some help.",
+  "it": "\\rIl nostro Capopalestra è tosto. Potresti avere bisogno di aiuto."
+ },
+ {
+  "id": "\\rWant to learn Endeavor?",
+  "en": "\\rWant to learn Endeavor?",
+  "it": "\\rVuoi imparare Rimonta?"
+ },
+ {
+  "id": "\\rCome back anytime!",
+  "en": "\\rCome back anytime!",
+  "it": "\\rTorna quando vuoi!"
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "id": "\\bCan you push that boulder onto the switch?",
+  "en": "\\bCan you push that boulder onto the switch?",
+  "it": "\\bRiesci a spingere quel masso sull'interruttore?"
+ },
+ {
+  "id": "\\bOh! The boulder has been moved onto the switch!",
+  "en": "\\bOh!  The boulder has been moved onto the switch!",
+  "it": "\\bOh!  Il masso è stato spostato sull'interruttore!"
+ },
+ {
+  "id": "\\bWell done!",
+  "en": "\\bWell done!",
+  "it": "\\bBen fatto!"
+ },
+ {
+  "id": "\\bOh. The boulder is not on the switch.",
+  "en": "\\bOh.  The boulder is not on the switch.",
+  "it": "\\bOh.  Il masso non è sull'interruttore."
+ },
+ {
+  "id": "This ladder leads to a random dungeon.",
+  "en": "This ladder leads to a random dungeon.",
+  "it": "Questa scala porta a un dungeon casuale."
+ },
+ {
+  "id": "The levels of Pokémon within are based on the levels of Pokémon in the player's party. The relevant code is in the script section PokemonEncounterModifiers.",
+  "en": "The levels of Pokémon within are based on the levels of Pokémon in the player's party.  The relevant code is in the script section PokemonEncounterModifiers.",
+  "it": "I livelli dei Pokémon all'interno si basano sui livelli dei Pokémon nella squadra del giocatore.  Il codice relativo si trova nella sezione di script PokemonEncounterModifiers."
+ },
+ {
+  "id": "The positions of the boulders are checked by a Parallel Process event.",
+  "en": "The positions of the boulders are checked by a Parallel Process event.",
+  "it": "Le posizioni dei massi vengono controllate da un evento in Processo Parallelo."
+ },
+ {
+  "id": "The hole event must have its \"Through\" option set, to allow boulder events to be pushed onto it.",
+  "en": "The hole event must have its \"Through\" option set, to allow boulder events to be pushed onto it.",
+  "it": "L'evento della buca deve avere l'opzione \"Through\" attiva, per permettere di spingerci sopra gli eventi masso."
+ },
+ {
+  "id": "Which tile puzzle do you want to play?\\ch[1,8, Alph,Alph Rotator,Mystic Square,Tile Swap, Tile Swap Rotator,Rubik's Square,Star Rotator,Cancel]",
+  "en": "Which tile puzzle do you want to play?\\ch[1,8, Alph,Alph Rotator,Mystic Square,Tile Swap, Tile Swap Rotator,Rubik's Square,Star Rotator,Cancel]",
+  "it": "A quale rompicapo vuoi giocare?\\ch[1,8, Alph,Rotatore Alph,Quadrato Mistico,Scambio, Scambio Rotante,Quadrato Rubik,Stella Rotante,Annulla]"
+ },
+ {
+  "id": "Puzzle solved!",
+  "en": "Puzzle solved!",
+  "it": "Rompicapo risolto!"
+ },
+ {
+  "id": "Gave up...",
+  "en": "Gave up...",
+  "it": "Ci hai rinunciato..."
+ }
+]

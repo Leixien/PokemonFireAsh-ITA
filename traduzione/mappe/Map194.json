@@ -1,0 +1,57 @@
+[
+ {
+  "id": "\\bJames: The twerp?",
+  "en": "\\bJames: The twerp?",
+  "it": "\\bJames: Il moccioso?"
+ },
+ {
+  "id": "\\rJessie: Let's take care of this quickly.",
+  "en": "\\rJessie: Let's take care of this quickly.",
+  "it": "\\rJessie: Sbrighiamocela in fretta."
+ },
+ {
+  "id": "\\bMeowth: Alright you guys, the boss gave us an important job! We can't screw this up!",
+  "en": "\\bMeowth: Alright you guys, the boss gave us an important job! We can't screw this up!",
+  "it": "\\bMeowth: Forza, ragazzi, il capo ci ha affidato un incarico importante! Non possiamo mandare tutto all'aria!"
+ },
+ {
+  "id": "\\bGary: I tried to beat them. Their Pokémon are just too strong.",
+  "en": "\\bGary: I tried to beat them. Their Pokémon are just too strong.",
+  "it": "\\bGary: Ho provato a batterli. I loro Pokémon sono semplicemente troppo forti."
+ },
+ {
+  "id": "\\bGiovanni: I leave this battle to you three. I'm sure you can handle it.\\n...\\nOn second thought, take some of my Pokémon.",
+  "en": "\\bGiovanni: I leave this battle to you three. I'm sure you can handle it.\\n...\\nOn second thought, take some of my Pokémon.",
+  "it": "\\bGiovanni: Lascio a voi tre questa lotta. Sono sicuro che ve la caverete.\\n...\\nRipensandoci, prendete alcuni dei miei Pokémon."
+ },
+ {
+  "id": "\\bMeowth: You idiots! The Gym is collapsing!",
+  "en": "\\bMeowth: You idiots! The Gym is collapsing!",
+  "it": "\\bMeowth: Idioti! La Palestra sta crollando!"
+ },
+ {
+  "id": "\\bJames: What are we standing around for? Let's get out of here!",
+  "en": "\\bJames: What are we standing around for? Let's get out of here!",
+  "it": "\\bJames: Che ci facciamo ancora qui impalati? Filiamocela!"
+ },
+ {
+  "id": "\\rJessie: Get out of my way!",
+  "en": "\\rJessie: Get out of my way!",
+  "it": "\\rJessie: Levati di mezzo!"
+ },
+ {
+  "id": "Jessie",
+  "en": "Jessie",
+  "it": "Jessie"
+ },
+ {
+  "id": "James",
+  "en": "James",
+  "it": "James"
+ },
+ {
+  "id": "Meowth",
+  "en": "Meowth",
+  "it": "Meowth"
+ }
+]

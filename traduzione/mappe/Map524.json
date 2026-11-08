@@ -1,0 +1,147 @@
+[
+ {
+  "id": "\\bDon't know if I should head back out yet?",
+  "en": "\\bDon't know if I should head back out yet?",
+  "it": "\\bNon so se è il caso di uscire di nuovo..."
+ },
+ {
+  "id": "\\rMy Zubat just ran off.",
+  "en": "\\rMy Zubat just ran off.",
+  "it": "\\rIl mio Zubat è scappato via."
+ },
+ {
+  "id": "\\rDo you have one? I'd love to see it.",
+  "en": "\\rDo you have one? I'd love to see it.",
+  "it": "\\rTu ne hai uno? Mi piacerebbe tanto vederlo."
+ },
+ {
+  "id": "\\rOh you have one! Thank you so much for showing me.",
+  "en": "\\rOh you have one! Thank you so much for showing me.",
+  "it": "\\rOh, ce l'hai! Grazie mille per avermelo mostrato."
+ },
+ {
+  "id": "\\rPlease take this.",
+  "en": "\\rPlease take this.",
+  "it": "\\rTieni, prendi questo."
+ },
+ {
+  "id": "\\rOh. It's fine that you don't.",
+  "en": "\\rOh. It's fine that you don't.",
+  "it": "\\rOh. Non fa niente se non ce l'hai."
+ },
+ {
+  "id": "\\rMaybe it's good that Zubat left.",
+  "en": "\\rMaybe it's good that Zubat left.",
+  "it": "\\rForse è meglio così, che Zubat se ne sia andato."
+ },
+ {
+  "id": "\\bGreetings! I'm here to make your life easier.",
+  "en": "\\bGreetings! I'm here to make your life easier.",
+  "it": "\\bSalve! Sono qui per semplificarti la vita."
+ },
+ {
+  "id": "\\bHave a great day.",
+  "en": "\\bHave a great day.",
+  "it": "\\bBuona giornata."
+ },
+ {
+  "id": "\\bI can't believe how hard the people in the mines work. I could never do it.",
+  "en": "\\bI can't believe how hard the people in the mines work. I could never do it.",
+  "it": "\\bNon ci credo quanto lavorano duro in miniera. Io non ce la farei mai."
+ },
+ {
+  "id": "\\rI'm looking for a Machoke.",
+  "en": "\\rI'm looking for a Machoke.",
+  "it": "\\rSto cercando un Machoke."
+ },
+ {
+  "id": "\\rWant to trade it for my Kadabra?",
+  "en": "\\rWant to trade it for my Kadabra?",
+  "it": "\\rVuoi scambiarmelo con il mio Kadabra?"
+ },
+ {
+  "id": "\\rYou don't want to trade? Aww...",
+  "en": "\\rYou don't want to trade?  Aww...",
+  "it": "\\rNon vuoi scambiare? Uffa..."
+ },
+ {
+  "id": "\\rOK, let's get started.",
+  "en": "\\rOK, let's get started.",
+  "it": "\\rOK, cominciamo."
+ },
+ {
+  "id": "Kadabra",
+  "en": "Kadabra",
+  "it": "Kadabra"
+ },
+ {
+  "id": "Lucina",
+  "en": "Lucina",
+  "it": "Lucina"
+ },
+ {
+  "id": "\\PN traded Machoke for Kadabra!",
+  "en": "\\PN traded Machoke for Kadabra!",
+  "it": "\\PN ha scambiato Machoke con Kadabra!"
+ },
+ {
+  "id": "\\rThanks!",
+  "en": "\\rThanks!",
+  "it": "\\rGrazie!"
+ },
+ {
+  "id": "\\rMachoke evolved. What gives?",
+  "en": "\\rMachoke evolved. What gives?",
+  "it": "\\rMachoke si è evoluto. Ma come?"
+ },
+ {
+  "id": "\\bBoy am I tired. Good to get a rest.",
+  "en": "\\bBoy am I tired. Good to get a rest.",
+  "it": "\\bChe stanchezza! Ci voleva proprio un po' di riposo."
+ },
+ {
+  "id": "\\rMy granddaughter likes trading Pokémon.",
+  "en": "\\rMy granddaughter likes trading Pokémon.",
+  "it": "\\rA mia nipote piace scambiare Pokémon."
+ },
+ {
+  "id": "\\rYou're collecting Pokémon for your Pokédex, aren't you?",
+  "en": "\\rYou're collecting Pokémon for your Pokédex, aren't you?",
+  "it": "\\rStai raccogliendo Pokémon per il tuo Pokédex, vero?"
+ },
+ {
+  "id": "\\rWon't you trade with her?",
+  "en": "\\rWon't you trade with her?",
+  "it": "\\rPerché non fai uno scambio con lei?"
+ },
+ {
+  "id": "\\bWhat are you in here for?",
+  "en": "\\bWhat are you in here for? ",
+  "it": "\\bChe ci fai qui dentro? "
+ },
+ {
+  "id": "\\bEmployees only. Get out kid.",
+  "en": "\\bEmployees only. Get out kid.",
+  "it": "\\bSolo personale autorizzato. Fuori di qui, ragazzino."
+ },
+ {
+  "id": "\\bSigh...\\nToo much time, too little to do...",
+  "en": "\\bSigh...\\nToo much time, too little to do...",
+  "it": "\\bSigh...\\nTroppo tempo, troppo poco da fare..."
+ },
+ {
+  "id": "\\bJust take this and leave.",
+  "en": "\\bJust take this and leave.",
+  "it": "\\bPrendi questo e vattene."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

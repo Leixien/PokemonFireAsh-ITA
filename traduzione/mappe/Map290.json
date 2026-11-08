@@ -1,0 +1,37 @@
+[
+ {
+  "id": "\\bCaptured Pokémon are registered with an ID No. and the OT.",
+  "en": "\\bCaptured Pokémon are registered with an ID No.  and the OT.",
+  "it": "\\bI Pokémon catturati vengono registrati con un N. ID e un AO."
+ },
+ {
+  "id": "\\bOT stands for \"Original Trainer\".",
+  "en": "\\bOT stands for \"Original Trainer\".",
+  "it": "\\bAO sta per \"Allenatore Originario\"."
+ },
+ {
+  "id": "\\bI can teach your Pokémon a long damaging move, Bind.",
+  "en": "\\bI can teach your Pokémon a long damaging move, Bind.",
+  "it": "\\bPosso insegnare al tuo Pokémon una mossa che infligge danni prolungati: Legatutto."
+ },
+ {
+  "id": "\\bWhich Pokémon would you like me to teach?",
+  "en": "\\bWhich Pokémon would you like me to teach?",
+  "it": "\\bA quale Pokémon vuoi che la insegni?"
+ },
+ {
+  "id": "\\bCome back anytime!",
+  "en": "\\bCome back anytime!",
+  "it": "\\bTorna quando vuoi!"
+ },
+ {
+  "id": "\\rYou can identify Pokémon you get in trades by their ID Numbers.",
+  "en": "\\rYou can identify Pokémon you get in trades by their ID Numbers.",
+  "it": "\\rPuoi riconoscere i Pokémon ottenuti negli scambi dal loro N. ID."
+ },
+ {
+  "id": "\\sign[signskin]3F: TV Game Shop",
+  "en": "\\sign[signskin]3F: TV Game Shop",
+  "it": "\\sign[signskin]3° P: Negozio di videogiochi"
+ }
+]

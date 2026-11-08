@@ -1,0 +1,57 @@
+[
+ {
+  "id": "\\v[1]",
+  "en": "\\v[1]",
+  "it": "\\v[1]"
+ },
+ {
+  "id": "\\rThanks for playing. Let me heal your party.",
+  "en": "\\rThanks for playing.  Let me heal your party.",
+  "it": "\\rGrazie per aver partecipato.  Lascia che curi la tua squadra."
+ },
+ {
+  "id": "\\rBattle number \\v[1] is next. Are you ready?\\ch[2,0,Go on,Rest,Retire,Record]",
+  "en": "\\rBattle number \\v[1] is next.  Are you ready?\\ch[2,0,Go on,Rest,Retire,Record]",
+  "it": "\\rLa prossima è la lotta numero \\v[1].  Sei pronto?\\ch[2,0,Continua,Riposa,Ritirati,Registra]"
+ },
+ {
+  "id": "\\rBattle number \\v[1] is next. Are you ready?\\ch[2,0,Go on,Rest,Retire]",
+  "en": "\\rBattle number \\v[1] is next.  Are you ready?\\ch[2,0,Go on,Rest,Retire]",
+  "it": "\\rLa prossima è la lotta numero \\v[1].  Sei pronto?\\ch[2,0,Continua,Riposa,Ritirati]"
+ },
+ {
+  "id": "\\rWould you like to record your last battle?",
+  "en": "\\rWould you like to record your last battle?",
+  "it": "\\rVuoi registrare la tua ultima lotta?"
+ },
+ {
+  "id": "\\se[expfull]The battle was recorded.",
+  "en": "\\se[expfull]The battle was recorded.",
+  "it": "\\se[expfull]La lotta è stata registrata."
+ },
+ {
+  "id": "\\rAre you sure you want to quit your challenge?",
+  "en": "\\rAre you sure you want to quit your challenge?",
+  "it": "\\rSei sicuro di voler abbandonare la sfida?"
+ },
+ {
+  "id": "\\rWould you like to save the game and continue later?",
+  "en": "\\rWould you like to save the game and continue later?",
+  "it": "\\rVuoi salvare la partita e continuare più tardi?"
+ },
+ {
+  "id": "Your game has been saved.",
+  "en": "Your game has been saved.",
+  "it": "La partita è stata salvata."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

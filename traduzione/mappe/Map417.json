@@ -1,0 +1,132 @@
+[
+ {
+  "id": "\\bYou're not worth my time.",
+  "en": "\\bYou're not worth my time.",
+  "it": "\\bNon vali il mio tempo."
+ },
+ {
+  "id": "\\bGet out of here.",
+  "en": "\\bGet out of here.",
+  "it": "\\bVattene da qui."
+ },
+ {
+  "id": "\\rThis is my favorite place.",
+  "en": "\\rThis is my favorite place.",
+  "it": "\\rQuesto è il mio posto preferito."
+ },
+ {
+  "id": "\\rThe grass feels so nice.",
+  "en": "\\rThe grass feels so nice.",
+  "it": "\\rL'erba è così piacevole."
+ },
+ {
+  "id": "\\bFinally I spotted a Trainer! You're going down!",
+  "en": "\\bFinally I spotted a Trainer! You're going down!",
+  "it": "\\bFinalmente ho trovato un Allenatore! Ti faccio a pezzi!"
+ },
+ {
+  "id": "\\bMaybe I did win. Yea you lost.",
+  "en": "\\bMaybe I did win. Yea you lost.",
+  "it": "\\bForse ho vinto io. Sì, hai perso tu."
+ },
+ {
+  "id": "\\bDarn it! You scared the fish away!",
+  "en": "\\bDarn it! You scared the fish away!",
+  "it": "\\bAccidenti! Mi hai fatto scappare i pesci!"
+ },
+ {
+  "id": "\\bNow what do I do?",
+  "en": "\\bNow what do I do?",
+  "it": "\\bE adesso che faccio?"
+ },
+ {
+  "id": "\\rHi there. Would you like to enter in our annual PokéRinger? It's a competition where only Flying types can enter. \\ch[1,-1,Yes,No]",
+  "en": "\\rHi there. Would you like to enter in our annual PokéRinger? It's a competition where only Flying types can enter. \\ch[1,-1,Yes,No]",
+  "it": "\\rCiao. Vuoi partecipare al nostro PokéRinger annuale? È una competizione aperta solo ai Pokémon di tipo Volante. \\ch[1,-1,Sì,No]"
+ },
+ {
+  "id": "\\rHave a nice day.",
+  "en": "\\rHave a nice day.",
+  "it": "\\rBuona giornata."
+ },
+ {
+  "id": "\\rOh... you don't have a Flying type Pokémon on your team. Come back when you do.",
+  "en": "\\rOh... you don't have a Flying type Pokémon on your team. Come back when you do.",
+  "it": "\\rOh... non hai Pokémon di tipo Volante in squadra. Torna quando ne avrai uno."
+ },
+ {
+  "id": "\\rHala gives everyone a chance to try the trial. All you need is spunk.",
+  "en": "\\rHala gives everyone a chance to try the trial. All you need is spunk.",
+  "it": "\\rHala dà a tutti la possibilità di tentare la prova. Basta avere grinta."
+ },
+ {
+  "id": "\\bWhy did the Wailmer cross the road?",
+  "en": "\\bWhy did the Wailmer cross the road?",
+  "it": "\\bPerché il Wailmer ha attraversato la strada?"
+ },
+ {
+  "id": "\\bI have dreams too you know.",
+  "en": "\\bI have dreams too you know.",
+  "it": "\\bAnch'io ho dei sogni, sai."
+ },
+ {
+  "id": "\\bI think my crew forgot me...",
+  "en": "\\bI think my crew forgot me...",
+  "it": "\\bCredo che la mia ciurma si sia dimenticata di me..."
+ },
+ {
+  "id": "\\bWhat do I do now?",
+  "en": "\\bWhat do I do now?",
+  "it": "\\bE adesso che faccio?"
+ },
+ {
+  "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\rTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\rAh, looks like a challenging Trainer. Ready, Oscar?",
+  "en": "\\rAh, looks like a challenging Trainer.  Ready, Oscar?",
+  "it": "\\rAh, sembra un Allenatore impegnativo.  Pronto, Oscar?"
+ },
+ {
+  "id": "\\rOh Andi, how could you?",
+  "en": "\\rOh Andi, how could you?",
+  "it": "\\rOh Andi, come hai potuto?"
+ },
+ {
+  "id": "\\bNot now. I need to focus.",
+  "en": "\\bNot now. I need to focus.",
+  "it": "\\bNon adesso. Devo concentrarmi."
+ },
+ {
+  "id": "\\bI need to do better than the other guy.",
+  "en": "\\bI need to do better than the other guy.",
+  "it": "\\bDevo fare meglio dell'altro tizio."
+ },
+ {
+  "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\bTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\bAh, looks like a challenging trainer. Ready, Andi?",
+  "en": "\\bAh, looks like a challenging trainer.  Ready, Andi?",
+  "it": "\\bAh, sembra un allenatore impegnativo.  Pronta, Andi?"
+ },
+ {
+  "id": "\\bI'm sorry Andi.",
+  "en": "\\bI'm sorry Andi.",
+  "it": "\\bMi dispiace, Andi."
+ },
+ {
+  "id": "\\bHi. Good luck.",
+  "en": "\\bHi. Good luck.",
+  "it": "\\bCiao. Buona fortuna."
+ },
+ {
+  "id": "\\bI tried my best. That's what's important.",
+  "en": "\\bI tried my best. That's what's important.",
+  "it": "\\bHo fatto del mio meglio. È questo che conta."
+ }
+]

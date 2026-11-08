@@ -1,0 +1,127 @@
+[
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
+  "id": "\\rShe named her Kadabra 'Abra'. Who does something like that?",
+  "en": "\\rShe named her Kadabra 'Abra'. Who does something like that?",
+  "it": "\\rHa chiamato il suo Kadabra 'Abra'. Ma chi fa una cosa del genere?"
+ },
+ {
+  "id": "\\rPokémon growth rates differ from species to species.",
+  "en": "\\rPokémon growth rates differ from species to species.",
+  "it": "\\rLa velocità di crescita dei Pokémon varia da specie a specie."
+ },
+ {
+  "id": "\\bPokémon Centers are a great place to rest.",
+  "en": "\\bPokémon Centers are a great place to rest.",
+  "it": "\\bI Centri Pokémon sono un ottimo posto per riposarsi."
+ },
+ {
+  "id": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion, Cancel]",
+  "en": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion, Cancel]",
+  "it": "\\rIl mio Abra può teletrasportarti.\\ch[1,-1,Smeraldopoli,Plumbeopoli, Celestopoli,Aranciopoli, Annulla]"
+ },
+ {
+  "id": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion,Lavender, Cancel]",
+  "en": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion,Lavender, Cancel]",
+  "it": "\\rIl mio Abra può teletrasportarti.\\ch[1,-1,Smeraldopoli,Plumbeopoli, Celestopoli,Aranciopoli,Lavandonia, Annulla]"
+ },
+ {
+  "id": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion,Lavender,Celadon, Cancel]",
+  "en": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion,Lavender,Celadon, Cancel]",
+  "it": "\\rIl mio Abra può teletrasportarti.\\ch[1,-1,Smeraldopoli,Plumbeopoli, Celestopoli,Aranciopoli,Lavandonia,Azzurropoli, Annulla]"
+ },
+ {
+  "id": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion,Lavender,Celadon,Fuchsia, Cancel]",
+  "en": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion,Lavender,Celadon,Fuchsia, Cancel]",
+  "it": "\\rIl mio Abra può teletrasportarti.\\ch[1,-1,Smeraldopoli,Plumbeopoli, Celestopoli,Aranciopoli,Lavandonia,Azzurropoli,Fucsiapoli, Annulla]"
+ },
+ {
+  "id": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion,Lavender,Celadon,Fuchsia, Cinnabar,Cancel]",
+  "en": "\\rMy Abra can Teleport you.\\ch[1,-1,Viridian,Pewter, Cerulean,Vermilion,Lavender,Celadon,Fuchsia, Cinnabar,Cancel]",
+  "it": "\\rIl mio Abra può teletrasportarti.\\ch[1,-1,Smeraldopoli,Plumbeopoli, Celestopoli,Aranciopoli,Lavandonia,Azzurropoli,Fucsiapoli, Cannella,Annulla]"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\bKadabra",
+  "en": "\\bKadabra",
+  "it": "\\bKadabra"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,257 @@
+[
+ {
+  "id": "\\rMantyke",
+  "en": "\\rMantyke",
+  "it": "\\rMantyke"
+ },
+ {
+  "id": "Solaceon Pokémon Contest Hall",
+  "en": "Solaceon Pokémon Contest Hall",
+  "it": "Sala Gare Pokémon di Flemminia"
+ },
+ {
+  "id": "Pokémon News Press",
+  "en": "Pokémon News Press",
+  "it": "Redazione Notizie Pokémon"
+ },
+ {
+  "id": "\\bStantler",
+  "en": "\\bStantler",
+  "it": "\\bStantler"
+ },
+ {
+  "id": "Solaceon Town\\nFree of Worry!",
+  "en": "Solaceon Town\\nFree of Worry!",
+  "it": "Flemminia\\nLibera da ogni pensiero!"
+ },
+ {
+  "id": "\\bExcuse me.",
+  "en": "\\bExcuse me.",
+  "it": "\\bScusa."
+ },
+ {
+  "id": "\\bYou seem like a strong Trainer. Would you do this town a favor and check the Solaceon Ruins for us?",
+  "en": "\\bYou seem like a strong Trainer. Would you do this town a favor and check the Solaceon Ruins for us?",
+  "it": "\\bSembri un Allenatore forte. Faresti un favore a questa città e daresti un'occhiata alle Rovine Flemminia per noi?"
+ },
+ {
+  "id": "\\bIt sounds like someone is disturbing the place. We would deal with it ourselves but we don't raise Pokémon for battle here.",
+  "en": "\\bIt sounds like someone is disturbing the place. We would deal with it ourselves but we don't raise Pokémon for battle here.",
+  "it": "\\bSembra che qualcuno stia disturbando il posto. Ce ne occuperemmo noi, ma qui non alleviamo Pokémon per lottare."
+ },
+ {
+  "id": "\\bWe appreciate your help for protecting the ruins.",
+  "en": "\\bWe appreciate your help for protecting the ruins.",
+  "it": "\\bTi siamo grati per aver protetto le rovine."
+ },
+ {
+  "id": "\\rSpinda",
+  "en": "\\rSpinda",
+  "it": "\\rSpinda"
+ },
+ {
+  "id": "\\bAh, it's you!",
+  "en": "\\bAh, it's you!",
+  "it": "\\bAh, sei tu!"
+ },
+ {
+  "id": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "en": "\\bWe were raising your Pokémon, and my goodness, were we surprised!",
+  "it": "\\bStavamo allevando il tuo Pokémon e, santo cielo, che sorpresa!"
+ },
+ {
+  "id": "\\bYour Pokémon was holding an Egg!",
+  "en": "\\bYour Pokémon was holding an Egg!",
+  "it": "\\bIl tuo Pokémon aveva con sé un Uovo!"
+ },
+ {
+  "id": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "en": "\\bWe don't know how it got there, but your Pokémon had it.",
+  "it": "\\bNon sappiamo come ci sia finito, ma ce l'aveva il tuo Pokémon."
+ },
+ {
+  "id": "\\bYou do want it, don't you?",
+  "en": "\\bYou do want it, don't you?",
+  "it": "\\bLo vuoi, vero?"
+ },
+ {
+  "id": "\\bYou have no room for it right now... Come back when you've made room.",
+  "en": "\\bYou have no room for it right now... Come back when you've made room.",
+  "it": "\\bAl momento non hai spazio... Torna quando ne avrai fatto."
+ },
+ {
+  "id": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "en": "\\me[Egg get]\\PN received the Egg from the Day-Care Man.",
+  "it": "\\me[Egg get]\\PN ha ricevuto l'Uovo dal signore della Pensione."
+ },
+ {
+  "id": "\\bYou take good care of it.",
+  "en": "\\bYou take good care of it.",
+  "it": "\\bAbbine cura, mi raccomando."
+ },
+ {
+  "id": "\\bI really will keep it. You do want this Egg, yes?",
+  "en": "\\bI really will keep it. You do want this Egg, yes?",
+  "it": "\\bAllora lo tengo davvero. Lo vuoi questo Uovo, sì?"
+ },
+ {
+  "id": "\\bWell all right then, I'll take it. Thank you.",
+  "en": "\\bWell all right then, I'll take it. Thank you.",
+  "it": "\\bVa bene, allora lo prendo io. Grazie."
+ },
+ {
+  "id": "\\bThat is, I don't think we'll ever find another...",
+  "en": "\\bThat is, I don't think we'll ever find another...",
+  "it": "\\bCioè, non credo che ne troveremo mai un altro..."
+ },
+ {
+  "id": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "en": "\\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!",
+  "it": "\\bNo, no, sono sicuro che ne troveremo un altro. Ne sono assolutamente certo!"
+ },
+ {
+  "id": "\\bI'm the Day-Care Man.",
+  "en": "\\bI'm the Day-Care Man.",
+  "it": "\\bSono il Signore della Pensione."
+ },
+ {
+  "id": "\\bI help take care of the precious Pokémon of trainers.",
+  "en": "\\bI help take care of the precious Pokémon of trainers.",
+  "it": "\\bAiuto ad accudire i preziosi Pokémon degli Allenatori."
+ },
+ {
+  "id": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "en": "\\bAny Pokémon you'd like to have raised you can leave in my wife's care.",
+  "it": "\\bSe vuoi far allevare un Pokémon, puoi lasciarlo alle cure di mia moglie."
+ },
+ {
+  "id": "\\bAh, it's you!\\nGood to see you!",
+  "en": "\\bAh, it's you!\\nGood to see you!",
+  "it": "\\bAh, sei tu!\\nChe piacere vederti!"
+ },
+ {
+  "id": "\\bYour \\v[3] is doing just fine.",
+  "en": "\\bYour \\v[3] is doing just fine.",
+  "it": "\\bIl tuo \\v[3] sta benissimo."
+ },
+ {
+  "id": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "en": "\\bYour \\v[3] and \\v[4] are doing just fine.",
+  "it": "\\bI tuoi \\v[3] e \\v[4] stanno benissimo."
+ },
+ {
+  "id": "\\bThe two play with other Pokémon rather than with each other...",
+  "en": "\\bThe two play with other Pokémon rather than with each other...",
+  "it": "\\bQuei due preferiscono giocare con altri Pokémon piuttosto che tra loro..."
+ },
+ {
+  "id": "\\bThe two don't seem to like each other much.",
+  "en": "\\bThe two don't seem to like each other much.",
+  "it": "\\bQuei due non sembrano piacersi molto."
+ },
+ {
+  "id": "\\bThe two seem to get along.",
+  "en": "\\bThe two seem to get along.",
+  "it": "\\bQuei due sembrano andare d'accordo."
+ },
+ {
+  "id": "\\bThe two seem to get along very well.",
+  "en": "\\bThe two seem to get along very well.",
+  "it": "\\bQuei due sembrano andare molto d'accordo."
+ },
+ {
+  "id": "\\bI'm looking for a Raichu.",
+  "en": "\\bI'm looking for a Raichu.",
+  "it": "\\bSto cercando un Raichu."
+ },
+ {
+  "id": "\\bWant to trade it for my Porygon-Z?",
+  "en": "\\bWant to trade it for my Porygon-Z?",
+  "it": "\\bVuoi scambiarlo con il mio Porygon-Z?"
+ },
+ {
+  "id": "\\bYou don't want to trade? Shame.",
+  "en": "\\bYou don't want to trade?  Shame.",
+  "it": "\\bNon vuoi fare lo scambio?  Peccato."
+ },
+ {
+  "id": "\\bOK, let's do this.",
+  "en": "\\bOK, let's do this.",
+  "it": "\\bOK, facciamolo."
+ },
+ {
+  "id": "Porygon-Z",
+  "en": "Porygon-Z",
+  "it": "Porygon-Z"
+ },
+ {
+  "id": "AJ",
+  "en": "AJ",
+  "it": "AJ"
+ },
+ {
+  "id": "\\PN traded Raichu for Porygon-Z!",
+  "en": "\\PN traded Raichu for Porygon-Z!",
+  "it": "\\PN ha scambiato Raichu con Porygon-Z!"
+ },
+ {
+  "id": "\\bThanks!",
+  "en": "\\bThanks!",
+  "it": "\\bGrazie!"
+ },
+ {
+  "id": "\\bYou got a good deal.",
+  "en": "\\bYou got a good deal.",
+  "it": "\\bHai fatto un buon affare."
+ },
+ {
+  "id": "\\rThere was once nothing here but a road, but people and Pokémon gathered and a town formed.",
+  "en": "\\rThere was once nothing here but a road, but people and Pokémon gathered and a town formed.",
+  "it": "\\rUn tempo qui non c'era altro che una strada, ma persone e Pokémon si sono riuniti ed è nata una città."
+ },
+ {
+  "id": "\\bDon't you just hate how long it takes for Eggs to show up? Well now you don't have to!",
+  "en": "\\bDon't you just hate how long it takes for Eggs to show up? Well now you don't have to!",
+  "it": "\\bNon odi anche tu quanto ci mettono a comparire le Uova? Beh, adesso non dovrai più aspettare!"
+ },
+ {
+  "id": "\\bThat's an Oval Charm. It will increase your chances of finding an Egg.",
+  "en": "\\bThat's an Oval Charm. It will increase your chances of finding an Egg.",
+  "it": "\\bQuello è un Ovamuleto. Aumenta le probabilità di trovare un Uovo."
+ },
+ {
+  "id": "\\bWe tend to stay away from the Ruins. Be careful if you go there.",
+  "en": "\\bWe tend to stay away from the Ruins. Be careful if you go there.",
+  "it": "\\bDi solito stiamo alla larga dalle Rovine. Fai attenzione se ci vai."
+ },
+ {
+  "id": "\\rJust how long do I need to leave my Pokémon in the Day Care for them to be strong?",
+  "en": "\\rJust how long do I need to leave my Pokémon in the Day Care for them to be strong?",
+  "it": "\\rMa quanto devo lasciare i miei Pokémon alla Pensione perché diventino forti?"
+ },
+ {
+  "id": "\\bHitmonchan",
+  "en": "\\bHitmonchan",
+  "it": "\\bHitmonchan"
+ },
+ {
+  "id": "\\rOh I just love writing about the Contests. Especially this one since it is so close to the news press.",
+  "en": "\\rOh I just love writing about the Contests. Especially this one since it is so close to the news press. ",
+  "it": "\\rOh, adoro scrivere delle Gare. Soprattutto di questa, visto che è così vicina alla redazione. "
+ },
+ {
+  "id": "\\bRaising a Pokémon is too much work. I'm glad the Day Care is here.",
+  "en": "\\bRaising a Pokémon is too much work. I'm glad the Day Care is here.",
+  "it": "\\bCrescere un Pokémon è troppo faticoso. Meno male che c'è la Pensione."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

@@ -1,0 +1,172 @@
+[
+ {
+  "id": "\\bAre you \\PN? Someone was talking about you earlier. They seemed a bit upset about something.",
+  "en": "\\bAre you \\PN? Someone was talking about you earlier. They seemed a bit upset about something.",
+  "it": "\\bSei \\PN? Poco fa qualcuno parlava di te. Sembrava un po' arrabbiato per qualcosa."
+ },
+ {
+  "id": "\\bHave a great day.",
+  "en": "\\bHave a great day.",
+  "it": "\\bBuona giornata."
+ },
+ {
+  "id": "\\bYou're a Trainer right? I'm not supposed to let you pass, but if you can beat Sabrina I'll let it slide.",
+  "en": "\\bYou're a Trainer right? I'm not supposed to let you pass, but if you can beat Sabrina I'll let it slide.",
+  "it": "\\bSei un Allenatore, vero? Non dovrei lasciarti passare, ma se riesci a battere Sabrina chiuderò un occhio."
+ },
+ {
+  "id": "\\bI'm sorry, but I can't let you pass. Gym Leader's orders.",
+  "en": "\\bI'm sorry, but I can't let you pass. Gym Leader's orders.",
+  "it": "\\bMi dispiace, ma non posso lasciarti passare. Ordini della Capopalestra."
+ },
+ {
+  "id": "\\bSorry, you can't enter Cycle Road without a Bicycle.",
+  "en": "\\bSorry, you can't enter Cycle Road without a Bicycle.",
+  "it": "\\bMi spiace, non puoi entrare nella Pista Ciclabile senza una Bicicletta."
+ },
+ {
+  "id": "\\bCycling Road is a great ride.",
+  "en": "\\bCycling Road is a great ride.",
+  "it": "\\bLa Pista Ciclabile è un percorso fantastico."
+ },
+ {
+  "id": "\\bI'm sorry, but I can't let you pass. There seems to be an evil organization blocking the waterways. The police are trying their best to take care of it.",
+  "en": "\\bI'm sorry, but I can't let you pass. There seems to be an evil organization blocking the waterways. The police are trying their best to take care of it.",
+  "it": "\\bMi dispiace, ma non posso lasciarti passare. Sembra che un'organizzazione malvagia stia bloccando i corsi d'acqua. La polizia sta facendo del suo meglio per risolvere la cosa."
+ },
+ {
+  "id": "\\bThis path is currently under construction.",
+  "en": "\\bThis path is currently under construction.",
+  "it": "\\bQuesto sentiero è attualmente in costruzione."
+ },
+ {
+  "id": "\\bDown this path is the Battle Dome.",
+  "en": "\\bDown this path is the Battle Dome.",
+  "it": "\\bPercorrendo questo sentiero si arriva alla Cupola Lotta."
+ },
+ {
+  "id": "\\bThis bridge is being repaired right now. Come back later.",
+  "en": "\\bThis bridge is being repaired right now. Come back later.",
+  "it": "\\bQuesto ponte è in riparazione. Torna più tardi."
+ },
+ {
+  "id": "\\bI'm looking for a Slowbro.",
+  "en": "\\bI'm looking for a Slowbro.",
+  "it": "\\bSto cercando uno Slowbro."
+ },
+ {
+  "id": "\\bWant to trade it for my Lickitung?",
+  "en": "\\bWant to trade it for my Lickitung?",
+  "it": "\\bVuoi scambiarlo con il mio Lickitung?"
+ },
+ {
+  "id": "\\bYou don't want to trade? Bummer..",
+  "en": "\\bYou don't want to trade?  Bummer..",
+  "it": "\\bNon vuoi fare lo scambio?  Peccato..."
+ },
+ {
+  "id": "\\bOK, let's get started.",
+  "en": "\\bOK, let's get started.",
+  "it": "\\bOK, cominciamo."
+ },
+ {
+  "id": "Lickitung",
+  "en": "Lickitung",
+  "it": "Lickitung"
+ },
+ {
+  "id": "Haden",
+  "en": "Haden",
+  "it": "Haden"
+ },
+ {
+  "id": "\\PN traded Slowbro for Lickitung!",
+  "en": "\\PN traded Slowbro for Lickitung!",
+  "it": "\\PN ha scambiato Slowbro con Lickitung!"
+ },
+ {
+  "id": "\\bThanks!",
+  "en": "\\bThanks!",
+  "it": "\\bGrazie!"
+ },
+ {
+  "id": "\\bYou don't want to trade? Aww...",
+  "en": "\\bYou don't want to trade?  Aww...",
+  "it": "\\bNon vuoi scambiare? Uffa..."
+ },
+ {
+  "id": "\\bHow's my Lickitung doing?",
+  "en": "\\bHow's my Lickitung doing?",
+  "it": "\\bCome se la cava il mio Lickitung?"
+ },
+ {
+  "id": "\\rWe're going riding together on our new bikes. Yay!",
+  "en": "\\rWe're going riding together on our new bikes. Yay!",
+  "it": "\\rAndiamo a fare un giro insieme sulle nostre bici nuove. Evviva!"
+ },
+ {
+  "id": "\\rSince we now have bikes, I don't need this. Take it.",
+  "en": "\\rSince we now have bikes, I don't need this. Take it.",
+  "it": "\\rOra che abbiamo le bici, questo non mi serve più. Prendilo."
+ },
+ {
+  "id": "Are you enjoying flying as much as I enjoy riding my bike?",
+  "en": "Are you enjoying flying as much as I enjoy riding my bike?",
+  "it": "Ti diverti a volare quanto io mi diverto ad andare in bici?"
+ },
+ {
+  "id": "\\bHi! I heard from Professor Oak that you would be around here. He said to give you this.",
+  "en": "\\bHi! I heard from Professor Oak that you would be around here. He said to give you this.",
+  "it": "\\bCiao! Il Professor Oak mi ha detto che saresti passato da queste parti. Mi ha chiesto di darti questo."
+ },
+ {
+  "id": "\\bAn Amulet Coin is an item to be held by a Pokémon. If the Pokémon appears in a winning battle, you will earn more money.",
+  "en": "\\bAn Amulet Coin is an item to be held by a Pokémon.  If the Pokémon appears in a winning battle, you will earn more money.",
+  "it": "\\bIl Monetamuleto è uno strumento da far tenere a un Pokémon.  Se il Pokémon partecipa a una lotta vinta, guadagnerai più soldi."
+ },
+ {
+  "id": "\\rMy Pichu just learned this move so I guess I can teach it to you.",
+  "en": "\\rMy Pichu just learned this move so I guess I can teach it to you.",
+  "it": "\\rIl mio Pichu ha appena imparato questa mossa, quindi credo di poterla insegnare anche a te."
+ },
+ {
+  "id": "\\rIt's called Volt Tackle.",
+  "en": "\\rIt's called Volt Tackle.",
+  "it": "\\rSi chiama Locomovolt."
+ },
+ {
+  "id": "\\rWhich Pokémon would you like me to teach?",
+  "en": "\\rWhich Pokémon would you like me to teach?",
+  "it": "\\rA quale Pokémon vuoi che la insegni?"
+ },
+ {
+  "id": "\\rI'll be here.",
+  "en": "\\rI'll be here.",
+  "it": "\\rIo resto qui."
+ },
+ {
+  "id": "\\bI'm on a relaxing ride on my new bike with my girlfriend.",
+  "en": "\\bI'm on a relaxing ride on my new bike with my girlfriend.",
+  "it": "\\bMi sto godendo un giro rilassante sulla mia bici nuova con la mia ragazza."
+ },
+ {
+  "id": "\\bThis route is currently under construction.",
+  "en": "\\bThis route is currently under construction.",
+  "it": "\\bQuesto percorso è attualmente in costruzione."
+ },
+ {
+  "id": "\\bHave a great day!",
+  "en": "\\bHave a great day!",
+  "it": "\\bBuona giornata!"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

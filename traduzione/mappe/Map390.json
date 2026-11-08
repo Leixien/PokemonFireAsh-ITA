@@ -1,0 +1,622 @@
+[
+ {
+  "id": "\\bGoh: Hey \\PN.",
+  "en": "\\bGoh: Hey \\PN.",
+  "it": "\\bGoh: Ehi, \\PN."
+ },
+ {
+  "id": "\\bGoh: Hey \\PN. I've been crazy busy catching as many Pokémon as I can. I recently got a Heracross from Kricketina Kylie at the trade event.",
+  "en": "\\bGoh: Hey \\PN. I've been crazy busy catching as many Pokémon as I can. I recently got a Heracross from Kricketina Kylie at the trade event.",
+  "it": "\\bGoh: Ehi, \\PN. Sono stato impegnatissimo a catturare più Pokémon possibile. Di recente ho ottenuto un Heracross da Kricketina Kylie all'evento di scambio."
+ },
+ {
+  "id": "\\bYou want to see them in battle? I suppose we can do that.",
+  "en": "\\bYou want to see them in battle? I suppose we can do that.",
+  "it": "\\bVuoi vederli in lotta? Direi che si può fare."
+ },
+ {
+  "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Bea, located in Saffron City Fighting Dojo, is ready for battle.",
+  "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Bea, located in Saffron City Fighting Dojo, is ready for battle.",
+  "it": "Rotom Phone: Annuncio. Nuovo avversario trovato per le World Coronation Series. Fabia, al Dojo Karate di Zafferanopoli, è pronta a lottare."
+ },
+ {
+  "id": "\\bGoh: Hey \\PN. I've been thinking about Project Mew and I think I need to get stronger. Could you help me with that?",
+  "en": "\\bGoh: Hey \\PN. I've been thinking about Project Mew and I think I need to get stronger. Could you help me with that?",
+  "it": "\\bGoh: Ehi, \\PN. Ho pensato al Progetto Mew e credo di dover diventare più forte. Potresti aiutarmi?"
+ },
+ {
+  "id": "Rotom Phone: Announcment. New scheduled match for the World Coronation Series. The match will take place in the Sunnyshore Gym against Volkner.",
+  "en": "Rotom Phone: Announcment. New scheduled match for the World Coronation Series. The match will take place in the Sunnyshore Gym against Volkner.",
+  "it": "Rotom Phone: Annuncio. Nuovo incontro in programma per le World Coronation Series. L'incontro si terrà nella Palestra di Arenipoli contro Corrado."
+ },
+ {
+  "id": "\\bGoh: I know you're about to go into the Masters Eight. I'm not the strongest Trainer, but I figured any help would be useful. So... let's have a battle.",
+  "en": "\\bGoh: I know you're about to go into the Masters Eight. I'm not the strongest Trainer, but I figured any help would be useful. So... let's have a battle.",
+  "it": "\\bGoh: So che stai per entrare nei Masters Eight. Non sono l'Allenatore più forte, ma ho pensato che qualsiasi aiuto potesse esserti utile. Quindi... lottiamo."
+ },
+ {
+  "id": "Rotom Phone: Announcment. The Masters Eight Tournament is ready to begin. Please head to Wyndon Stadium.",
+  "en": "Rotom Phone: Announcment. The Masters Eight Tournament is ready to begin. Please head to Wyndon Stadium.",
+  "it": "Rotom Phone: Annuncio. Il Torneo dei Masters Eight sta per iniziare. Recati allo Stadio di Wyndon."
+ },
+ {
+  "id": "\\bGoh: Well, I guess it's time. I'll be in the stands rooting for you.",
+  "en": "\\bGoh: Well, I guess it's time. I'll be in the stands rooting for you.",
+  "it": "\\bGoh: Beh, direi che è ora. Sarò sugli spalti a fare il tifo per te."
+ },
+ {
+  "id": "\\bGoh: Hey \\PN. I'm still catching as many Pokémon as I can. Knowing you, you want to battle some of them.",
+  "en": "\\bGoh: Hey \\PN. I'm still catching as many Pokémon as I can. Knowing you, you want to battle some of them.",
+  "it": "\\bGoh: Ehi, \\PN. Sto ancora catturando più Pokémon possibile. Conoscendoti, vorrai lottare contro alcuni di loro."
+ },
+ {
+  "id": "Battle?\\ch[1,1,Main,Bug,Water,Kanto,Johto,Hoenn, Sinnoh,Unova,Kalos,Alola,Galar,Legend]",
+  "en": "Battle?\\ch[1,1,Main,Bug,Water,Kanto,Johto,Hoenn, Sinnoh,Unova,Kalos,Alola,Galar,Legend]",
+  "it": "Lotta?\\ch[1,1,Principale,Coleottero,Acqua,Kanto,Johto,Hoenn, Sinnoh,Unima,Kalos,Alola,Galar,Leggendari]"
+ },
+ {
+  "id": "\\bGoh: I'm going to catch more and more Pokémon.",
+  "en": "\\bGoh: I'm going to catch more and more Pokémon.",
+  "it": "\\bGoh: Catturerò sempre più Pokémon."
+ },
+ {
+  "id": "\\rPhantump",
+  "en": "\\rPhantump",
+  "it": "\\rPhantump"
+ },
+ {
+  "id": "\\rGeodude",
+  "en": "\\rGeodude",
+  "it": "\\rGeodude"
+ },
+ {
+  "id": "\\bNido",
+  "en": "\\bNido",
+  "it": "\\bNido"
+ },
+ {
+  "id": "\\bBoldore",
+  "en": "\\bBoldore",
+  "it": "\\bBoldore"
+ },
+ {
+  "id": "\\bCloyster",
+  "en": "\\bCloyster",
+  "it": "\\bCloyster"
+ },
+ {
+  "id": "\\bFletchling",
+  "en": "\\bFletchling",
+  "it": "\\bFletchling"
+ },
+ {
+  "id": "\\bPass",
+  "en": "\\bPass",
+  "it": "\\bPass"
+ },
+ {
+  "id": "\\rTaillow",
+  "en": "\\rTaillow",
+  "it": "\\rTaillow"
+ },
+ {
+  "id": "Arctozolt",
+  "en": "Arctozolt",
+  "it": "Arctozolt"
+ },
+ {
+  "id": "\\bFroakie",
+  "en": "\\bFroakie",
+  "it": "\\bFroakie"
+ },
+ {
+  "id": "\\bFrogadier",
+  "en": "\\bFrogadier",
+  "it": "\\bFrogadier"
+ },
+ {
+  "id": "\\rNido",
+  "en": "\\rNido",
+  "it": "\\rNido"
+ },
+ {
+  "id": "\\bBruxish",
+  "en": "\\bBruxish",
+  "it": "\\bBruxish"
+ },
+ {
+  "id": "\\rWurmple",
+  "en": "\\rWurmple",
+  "it": "\\rWurmple"
+ },
+ {
+  "id": "\\rCascoon",
+  "en": "\\rCascoon",
+  "it": "\\rCascoon"
+ },
+ {
+  "id": "\\rDustox",
+  "en": "\\rDustox",
+  "it": "\\rDustox"
+ },
+ {
+  "id": "\\bSob...",
+  "en": "\\bSob...",
+  "it": "\\bSob..."
+ },
+ {
+  "id": "\\bInteleon",
+  "en": "\\bInteleon",
+  "it": "\\bInteleon"
+ },
+ {
+  "id": "\\bAltaria",
+  "en": "\\bAltaria",
+  "it": "\\bAltaria"
+ },
+ {
+  "id": "\\rOddish",
+  "en": "\\rOddish",
+  "it": "\\rOddish"
+ },
+ {
+  "id": "\\bWingull",
+  "en": "\\bWingull",
+  "it": "\\bWingull"
+ },
+ {
+  "id": "\\rRoggenrola",
+  "en": "\\rRoggenrola",
+  "it": "\\rRoggenrola"
+ },
+ {
+  "id": "\\rPoliwag",
+  "en": "\\rPoliwag",
+  "it": "\\rPoliwag"
+ },
+ {
+  "id": "\\bDiglett",
+  "en": "\\bDiglett",
+  "it": "\\bDiglett"
+ },
+ {
+  "id": "Regieleki",
+  "en": "Regieleki",
+  "it": "Regieleki"
+ },
+ {
+  "id": "\\rPineco",
+  "en": "\\rPineco",
+  "it": "\\rPineco"
+ },
+ {
+  "id": "\\bFerrothorn",
+  "en": "\\bFerrothorn",
+  "it": "\\bFerrothorn"
+ },
+ {
+  "id": "\\bGrimer",
+  "en": "\\bGrimer",
+  "it": "\\bGrimer"
+ },
+ {
+  "id": "\\rDrowzee",
+  "en": "\\rDrowzee",
+  "it": "\\rDrowzee"
+ },
+ {
+  "id": "A Pokémon is inside of it.",
+  "en": "A Pokémon is inside of it.",
+  "it": "C'è un Pokémon dentro."
+ },
+ {
+  "id": "\\bTentacool",
+  "en": "\\bTentacool",
+  "it": "\\bTentacool"
+ },
+ {
+  "id": "\\rAri",
+  "en": "\\rAri",
+  "it": "\\rAri"
+ },
+ {
+  "id": "Voltorb",
+  "en": "Voltorb",
+  "it": "Voltorb"
+ },
+ {
+  "id": "\\bScor",
+  "en": "\\bScor",
+  "it": "\\bScor"
+ },
+ {
+  "id": "\\bRaboot",
+  "en": "\\bRaboot",
+  "it": "\\bRaboot"
+ },
+ {
+  "id": "\\bAce ace!",
+  "en": "\\bAce ace!",
+  "it": "\\bAce ace!"
+ },
+ {
+  "id": "\\bEkans",
+  "en": "\\bEkans",
+  "it": "\\bEkans"
+ },
+ {
+  "id": "...",
+  "en": "...",
+  "it": "..."
+ },
+ {
+  "id": "\\rMantyke",
+  "en": "\\rMantyke",
+  "it": "\\rMantyke"
+ },
+ {
+  "id": "\\bHeracross",
+  "en": "\\bHeracross",
+  "it": "\\bHeracross"
+ },
+ {
+  "id": "\\rAlcremie",
+  "en": "\\rAlcremie",
+  "it": "\\rAlcremie"
+ },
+ {
+  "id": "\\bCaterpie",
+  "en": "\\bCaterpie",
+  "it": "\\bCaterpie"
+ },
+ {
+  "id": "\\bFetch'd",
+  "en": "\\bFetch'd",
+  "it": "\\bFetch'd"
+ },
+ {
+  "id": "\\bMorelull",
+  "en": "\\bMorelull",
+  "it": "\\bMorelull"
+ },
+ {
+  "id": "\\rSentret",
+  "en": "\\rSentret",
+  "it": "\\rSentret"
+ },
+ {
+  "id": "\\bHitmonchan",
+  "en": "\\bHitmonchan",
+  "it": "\\bHitmonchan"
+ },
+ {
+  "id": "\\bMurkrow",
+  "en": "\\bMurkrow",
+  "it": "\\bMurkrow"
+ },
+ {
+  "id": "\\rMetapod",
+  "en": "\\rMetapod",
+  "it": "\\rMetapod"
+ },
+ {
+  "id": "\\rExeggcute",
+  "en": "\\rExeggcute",
+  "it": "\\rExeggcute"
+ },
+ {
+  "id": "\\rExeggutor",
+  "en": "\\rExeggutor",
+  "it": "\\rExeggutor"
+ },
+ {
+  "id": "\\bGrookey!",
+  "en": "\\bGrookey!",
+  "it": "\\bGrookey!"
+ },
+ {
+  "id": "\\bStantler",
+  "en": "\\bStantler",
+  "it": "\\bStantler"
+ },
+ {
+  "id": "\\rRaichu!",
+  "en": "\\rRaichu!",
+  "it": "\\rRaichu!"
+ },
+ {
+  "id": "\\bCamerupt",
+  "en": "\\bCamerupt",
+  "it": "\\bCamerupt"
+ },
+ {
+  "id": "\\bButterfree",
+  "en": "\\bButterfree",
+  "it": "\\bButterfree"
+ },
+ {
+  "id": "\\rGoldeen",
+  "en": "\\rGoldeen",
+  "it": "\\rGoldeen"
+ },
+ {
+  "id": "\\rBellsprout",
+  "en": "\\rBellsprout",
+  "it": "\\rBellsprout"
+ },
+ {
+  "id": "\\rMisdra",
+  "en": "\\rMisdra",
+  "it": "\\rMisdra"
+ },
+ {
+  "id": "\\rFlygon",
+  "en": "\\rFlygon",
+  "it": "\\rFlygon"
+ },
+ {
+  "id": "\\bKingdra",
+  "en": "\\bKingdra",
+  "it": "\\bKingdra"
+ },
+ {
+  "id": "\\bMagikarp!!",
+  "en": "\\bMagikarp!!",
+  "it": "\\bMagikarp!!"
+ },
+ {
+  "id": "\\b...",
+  "en": "\\b...",
+  "it": "\\b..."
+ },
+ {
+  "id": "\\bVenomoth",
+  "en": "\\bVenomoth",
+  "it": "\\bVenomoth"
+ },
+ {
+  "id": "\\bTrapinch",
+  "en": "\\bTrapinch",
+  "it": "\\bTrapinch"
+ },
+ {
+  "id": "\\bSharpedo",
+  "en": "\\bSharpedo",
+  "it": "\\bSharpedo"
+ },
+ {
+  "id": "\\bDewgong",
+  "en": "\\bDewgong",
+  "it": "\\bDewgong"
+ },
+ {
+  "id": "\\bAbsol",
+  "en": "\\bAbsol",
+  "it": "\\bAbsol"
+ },
+ {
+  "id": "\\rParas",
+  "en": "\\rParas",
+  "it": "\\rParas"
+ },
+ {
+  "id": "\\bMagikarp",
+  "en": "\\bMagikarp",
+  "it": "\\bMagikarp"
+ },
+ {
+  "id": "Shedinja",
+  "en": "Shedinja",
+  "it": "Shedinja"
+ },
+ {
+  "id": "\\bSkwovet",
+  "en": "\\bSkwovet",
+  "it": "\\bSkwovet"
+ },
+ {
+  "id": "\\bGree",
+  "en": "\\bGree",
+  "it": "\\bGree"
+ },
+ {
+  "id": "\\bVibrava",
+  "en": "\\bVibrava",
+  "it": "\\bVibrava"
+ },
+ {
+  "id": "\\rParasect",
+  "en": "\\rParasect",
+  "it": "\\rParasect"
+ },
+ {
+  "id": "\\bBinacle",
+  "en": "\\bBinacle",
+  "it": "\\bBinacle"
+ },
+ {
+  "id": "\\bPansear",
+  "en": "\\bPansear",
+  "it": "\\bPansear"
+ },
+ {
+  "id": "\\bPyukumuku",
+  "en": "\\bPyukumuku",
+  "it": "\\bPyukumuku"
+ },
+ {
+  "id": "\\rCorsola",
+  "en": "\\rCorsola",
+  "it": "\\rCorsola"
+ },
+ {
+  "id": "\\rPinsir",
+  "en": "\\rPinsir",
+  "it": "\\rPinsir"
+ },
+ {
+  "id": "\\rFlabébé",
+  "en": "\\rFlabébé",
+  "it": "\\rFlabébé"
+ },
+ {
+  "id": "\\rFloette",
+  "en": "\\rFloette",
+  "it": "\\rFloette"
+ },
+ {
+  "id": "\\bPanpour",
+  "en": "\\bPanpour",
+  "it": "\\bPanpour"
+ },
+ {
+  "id": "\\bSand",
+  "en": "\\bSand",
+  "it": "\\bSand"
+ },
+ {
+  "id": "\\bExeggutor",
+  "en": "\\bExeggutor",
+  "it": "\\bExeggutor"
+ },
+ {
+  "id": "\\rHoothoot",
+  "en": "\\rHoothoot",
+  "it": "\\rHoothoot"
+ },
+ {
+  "id": "\\bWeedle",
+  "en": "\\bWeedle",
+  "it": "\\bWeedle"
+ },
+ {
+  "id": "\\bRaticate",
+  "en": "\\bRaticate",
+  "it": "\\bRaticate"
+ },
+ {
+  "id": "Golurk",
+  "en": "Golurk",
+  "it": "Golurk"
+ },
+ {
+  "id": "\\bAerodactyl",
+  "en": "\\bAerodactyl",
+  "it": "\\bAerodactyl"
+ },
+ {
+  "id": "\\rLil",
+  "en": "\\rLil",
+  "it": "\\rLil"
+ },
+ {
+  "id": "\\bKakuna",
+  "en": "\\bKakuna",
+  "it": "\\bKakuna"
+ },
+ {
+  "id": "\\bPidgeotto!",
+  "en": "\\bPidgeotto!",
+  "it": "\\bPidgeotto!"
+ },
+ {
+  "id": "\\rCubone",
+  "en": "\\rCubone",
+  "it": "\\rCubone"
+ },
+ {
+  "id": "\\bChinchou",
+  "en": "\\bChinchou",
+  "it": "\\bChinchou"
+ },
+ {
+  "id": "\\bSlow...poke...",
+  "en": "\\bSlow...poke...",
+  "it": "\\bSlow...poke..."
+ },
+ {
+  "id": "\\bBeedrill",
+  "en": "\\bBeedrill",
+  "it": "\\bBeedrill"
+ },
+ {
+  "id": "\\bDurant",
+  "en": "\\bDurant",
+  "it": "\\bDurant"
+ },
+ {
+  "id": "\\rSpear",
+  "en": "\\rSpear",
+  "it": "\\rSpear"
+ },
+ {
+  "id": "\\bBunnelby",
+  "en": "\\bBunnelby",
+  "it": "\\bBunnelby"
+ },
+ {
+  "id": "\\bGossifeur",
+  "en": "\\bGossifeur",
+  "it": "\\bGossifeur"
+ },
+ {
+  "id": "\\rVenonat",
+  "en": "\\rVenonat",
+  "it": "\\rVenonat"
+ },
+ {
+  "id": "\\rStunfisk",
+  "en": "\\rStunfisk",
+  "it": "\\rStunfisk"
+ },
+ {
+  "id": "\\rRattata",
+  "en": "\\rRattata",
+  "it": "\\rRattata"
+ },
+ {
+  "id": "\\bMankey",
+  "en": "\\bMankey",
+  "it": "\\bMankey"
+ },
+ {
+  "id": "\\rGolbat",
+  "en": "\\rGolbat",
+  "it": "\\rGolbat"
+ },
+ {
+  "id": "\\bScyther!",
+  "en": "\\bScyther!",
+  "it": "\\bScyther!"
+ },
+ {
+  "id": "\\bScizor!",
+  "en": "\\bScizor!",
+  "it": "\\bScizor!"
+ },
+ {
+  "id": "\\rScatterbug",
+  "en": "\\rScatterbug",
+  "it": "\\rScatterbug"
+ },
+ {
+  "id": "Falinks!",
+  "en": "Falinks!",
+  "it": "Falinks!"
+ },
+ {
+  "id": "\\rGraveler",
+  "en": "\\rGraveler",
+  "it": "\\rGraveler"
+ },
+ {
+  "id": "\\bPidgey",
+  "en": "\\bPidgey",
+  "it": "\\bPidgey"
+ },
+ {
+  "id": "\\rKrabby",
+  "en": "\\rKrabby",
+  "it": "\\rKrabby"
+ }
+]

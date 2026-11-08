@@ -1,0 +1,147 @@
+[
+ {
+  "id": "There is no battle recorded.",
+  "en": "There is no battle recorded.",
+  "it": "Non è stata registrata nessuna lotta."
+ },
+ {
+  "id": "\\bWelcome to the Battle Arena.",
+  "en": "\\bWelcome to the Battle Arena.",
+  "it": "\\bBenvenuto al Dojo Lotta."
+ },
+ {
+  "id": "\\bWould you like to participate in a battle?",
+  "en": "\\bWould you like to participate in a battle?",
+  "it": "\\bVuoi partecipare a una lotta?"
+ },
+ {
+  "id": "\\bDo you want to take the Level 50 challenge, or the Open Level challenge?",
+  "en": "\\bDo you want to take the Level 50 challenge, or the Open Level challenge?",
+  "it": "\\bVuoi affrontare la sfida Livello 50 o la sfida Livello Libero?"
+ },
+ {
+  "id": "\\bSorry, you can't participate. You need three different Pokémon to enter.",
+  "en": "\\bSorry, you can't participate.  You need three different Pokémon to enter.",
+  "it": "\\bMi spiace, non puoi partecipare.  Per iscriverti servono tre Pokémon diversi."
+ },
+ {
+  "id": "\\bThey must be of a different species and hold different items.",
+  "en": "\\bThey must be of a different species and hold different items.",
+  "it": "\\bDevono essere di specie diverse e tenere strumenti diversi."
+ },
+ {
+  "id": "\\bCertain exotic species, as well as eggs, are ineligible.",
+  "en": "\\bCertain exotic species, as well as eggs, are ineligible.",
+  "it": "\\bAlcune specie esotiche, così come le uova, non sono ammesse."
+ },
+ {
+  "id": "\\bPlease choose the three Pokémon that will enter.",
+  "en": "\\bPlease choose the three Pokémon that will enter.",
+  "it": "\\bScegli i tre Pokémon che parteciperanno."
+ },
+ {
+  "id": "\\bPlease come this way.",
+  "en": "\\bPlease come this way.",
+  "it": "\\bDa questa parte, prego."
+ },
+ {
+  "id": "\\bCome back another time.",
+  "en": "\\bCome back another time.",
+  "it": "\\bTorna un'altra volta."
+ },
+ {
+  "id": "\\bCongratulations for winning.",
+  "en": "\\bCongratulations for winning.",
+  "it": "\\bCongratulazioni per la vittoria."
+ },
+ {
+  "id": "\\bPlease take this prize.",
+  "en": "\\bPlease take this prize.",
+  "it": "\\bTi prego, accetta questo premio."
+ },
+ {
+  "id": "\\bYou have no room for it. At least you won, though.",
+  "en": "\\bYou have no room for it.  At least you won, though.",
+  "it": "\\bNon hai spazio per tenerlo.  Almeno hai vinto, però."
+ },
+ {
+  "id": "\\bWould you like to record your last battle?",
+  "en": "\\bWould you like to record your last battle?",
+  "it": "\\bVuoi registrare la tua ultima lotta?"
+ },
+ {
+  "id": "\\se[expfull]The battle was recorded.",
+  "en": "\\se[expfull]The battle was recorded.",
+  "it": "\\se[expfull]La lotta è stata registrata."
+ },
+ {
+  "id": "Your results will be recorded.\\wtnp[15]",
+  "en": "Your results will be recorded.\\wtnp[15]",
+  "it": "I tuoi risultati verranno registrati.\\wtnp[15]"
+ },
+ {
+  "id": "\\bThanks for playing.",
+  "en": "\\bThanks for playing.",
+  "it": "\\bGrazie per aver partecipato."
+ },
+ {
+  "id": "\\bWe've been waiting for you. Please come this way.",
+  "en": "\\bWe've been waiting for you.  Please come this way.",
+  "it": "\\bTi stavamo aspettando.  Da questa parte, prego."
+ },
+ {
+  "id": "\\bExcuse me, but you didn't save before finishing your challenge last time.",
+  "en": "\\bExcuse me, but you didn't save before finishing your challenge last time.",
+  "it": "\\bScusa, ma l'ultima volta non hai salvato prima di terminare la sfida."
+ },
+ {
+  "id": "\\bSorry, but your challenge has been canceled.",
+  "en": "\\bSorry, but your challenge has been canceled.",
+  "it": "\\bSpiacente, ma la tua sfida è stata annullata."
+ },
+ {
+  "id": "Check results for which challenge?",
+  "en": "Check results for which challenge?",
+  "it": "Di quale sfida vuoi vedere i risultati?"
+ },
+ {
+  "id": "\\PN's Battle Arena Level 50 results:",
+  "en": "\\PN's Battle Arena Level 50 results:",
+  "it": "Risultati di \\PN al Dojo Lotta, Livello 50:"
+ },
+ {
+  "id": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "en": "Last win streak: \\v[1]\\nRecord win streak: \\v[2]",
+  "it": "Ultima serie di vittorie: \\v[1]\\nRecord di vittorie: \\v[2]"
+ },
+ {
+  "id": "\\PN's Battle Arena Open Level results:",
+  "en": "\\PN's Battle Arena Open Level results:",
+  "it": "Risultati di \\PN al Dojo Lotta, Livello Libero:"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "Level 50",
+  "en": "Level 50",
+  "it": "Livello 50"
+ },
+ {
+  "id": "Open Level",
+  "en": "Open Level",
+  "it": "Livello Libero"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ }
+]

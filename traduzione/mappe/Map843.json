@@ -1,0 +1,157 @@
+[
+ {
+  "id": "\\bI'm the Pokémon Move Maniac.",
+  "en": "\\bI'm the Pokémon Move Maniac.",
+  "it": "\\bSono il Maniaco delle Mosse Pokémon."
+ },
+ {
+  "id": "\\bI know every single move that Pokémon learn growing up.",
+  "en": "\\bI know every single move that Pokémon learn growing up.",
+  "it": "\\bConosco ogni singola mossa che i Pokémon imparano crescendo."
+ },
+ {
+  "id": "\\bI'm also a collector of Heart Scales.",
+  "en": "\\bI'm also a collector of Heart Scales.",
+  "it": "\\bColleziono anche Squame Cuore."
+ },
+ {
+  "id": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "en": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "it": "\\bSe me ne porti una, insegnerò una mossa a uno dei tuoi Pokémon."
+ },
+ {
+  "id": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "en": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "it": "\\bOh! Eccola! È una Squama Cuore autentica al cento per cento!"
+ },
+ {
+  "id": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "en": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "it": "\\bFammi indovinare, vuoi che insegni una mossa a uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bWhich Pokémon needs tutoring?",
+  "en": "\\bWhich Pokémon needs tutoring?",
+  "it": "\\bQuale Pokémon ha bisogno di lezioni?"
+ },
+ {
+  "id": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "en": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "it": "\\bSe i tuoi Pokémon devono imparare una mossa, torna con una Squama Cuore."
+ },
+ {
+  "id": "\\bHunh? There isn't a single move that I can teach an Egg.",
+  "en": "\\bHunh? There isn't a single move that I can teach an Egg.",
+  "it": "\\bEh? Non c'è nemmeno una mossa che possa insegnare a un Uovo."
+ },
+ {
+  "id": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "en": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "it": "\\bNeanche per sogno, non voglio avvicinarmi a un Pokémon Ombra..."
+ },
+ {
+  "id": "\\bSorry...",
+  "en": "\\bSorry...",
+  "it": "\\bMi dispiace..."
+ },
+ {
+  "id": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "en": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "it": "\\bA quanto pare non ho nessuna mossa da insegnare al tuo \\v[3]."
+ },
+ {
+  "id": "\\bWhich move should I teach to your \\v[3]?",
+  "en": "\\bWhich move should I teach to your \\v[3]?",
+  "it": "\\bQuale mossa devo insegnare al tuo \\v[3]?"
+ },
+ {
+  "id": "\\PN handed over one Heart Scale in exchange.",
+  "en": "\\PN handed over one Heart Scale in exchange.",
+  "it": "\\PN ha consegnato una Squama Cuore in cambio."
+ },
+ {
+  "id": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
+  "en": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
+  "it": "\\bEhm...\\nAh, sì, sono il Cancellamosse."
+ },
+ {
+  "id": "\\bI can make Pokémon forget their moves.",
+  "en": "\\bI can make Pokémon forget their moves.",
+  "it": "\\bPosso far dimenticare le mosse ai Pokémon."
+ },
+ {
+  "id": "\\bWould you like me to do that?",
+  "en": "\\bWould you like me to do that?",
+  "it": "\\bVuoi che lo faccia?"
+ },
+ {
+  "id": "\\bWhich Pokémon should forget a move?",
+  "en": "\\bWhich Pokémon should forget a move?",
+  "it": "\\bQuale Pokémon deve dimenticare una mossa?"
+ },
+ {
+  "id": "\\bCome again if there are moves that need to be forgotten.",
+  "en": "\\bCome again if there are moves that need to be forgotten.",
+  "it": "\\bTorna pure se ci sono mosse da far dimenticare."
+ },
+ {
+  "id": "\\bWhat? No Egg should know any moves.",
+  "en": "\\bWhat? No Egg should know any moves.",
+  "it": "\\bCosa? Un Uovo non dovrebbe conoscere nessuna mossa."
+ },
+ {
+  "id": "\\bWhat? I can't make a Shadow Pokémon forget a move.",
+  "en": "\\bWhat? I can't make a Shadow Pokémon forget a move.",
+  "it": "\\bCosa? Non posso far dimenticare una mossa a un Pokémon Ombra."
+ },
+ {
+  "id": "\\b\\v[3] seems to know only one move...",
+  "en": "\\b\\v[3] seems to know only one move...",
+  "it": "\\bSembra che \\v[3] conosca una sola mossa..."
+ },
+ {
+  "id": "\\bWhich move should be forgotten?",
+  "en": "\\bWhich move should be forgotten?",
+  "it": "\\bQuale mossa deve essere dimenticata?"
+ },
+ {
+  "id": "\\bHm! \\v[3]'s \\v[4]? That move should be forgotten?",
+  "en": "\\bHm! \\v[3]'s \\v[4]? That move should be forgotten?",
+  "it": "\\bUhm! \\v[4] di \\v[3]? Vuoi che dimentichi questa mossa?"
+ },
+ {
+  "id": "\\bIt worked to perfection!",
+  "en": "\\bIt worked to perfection!",
+  "it": "\\bHa funzionato alla perfezione!"
+ },
+ {
+  "id": "\\b\\v[3] has forgotten \\v[4] completely.",
+  "en": "\\b\\v[3] has forgotten \\v[4] completely.",
+  "it": "\\b\\v[3] ha dimenticato completamente \\v[4]."
+ },
+ {
+  "id": "\\bMoomoo Milk is so good. Sometimes Gogoat is used to make it.",
+  "en": "\\bMoomoo Milk is so good. Sometimes Gogoat is used to make it.",
+  "it": "\\bIl Latte Mumu è buonissimo. A volte per farlo si usano dei Gogoat."
+ },
+ {
+  "id": "\\bBig winner.",
+  "en": "\\bBig winner.",
+  "it": "\\bGran vincitore."
+ },
+ {
+  "id": "\\bNo more for you. Don't be greedy.",
+  "en": "\\bNo more for you. Don't be greedy.",
+  "it": "\\bPer te basta così. Non essere avido."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

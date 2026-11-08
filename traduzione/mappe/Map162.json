@@ -1,0 +1,467 @@
+[
+ {
+  "id": "\\bMy name is Mr. Game!",
+  "en": "\\bMy name is Mr. Game!",
+  "it": "\\bIo sono Mr. Game!"
+ },
+ {
+  "id": "\\bMy heart pounds with excitement when people enjoy my Coin game!",
+  "en": "\\bMy heart pounds with excitement when people enjoy my Coin game!",
+  "it": "\\bIl mio cuore batte forte dall'emozione quando la gente si diverte col mio gioco a gettoni!"
+ },
+ {
+  "id": "\\bIn fact, that's what I live for!\\nGo ahead and play it!",
+  "en": "\\bIn fact, that's what I live for!\\nGo ahead and play it!",
+  "it": "\\bAnzi, è proprio per questo che vivo!\\nForza, gioca anche tu!"
+ },
+ {
+  "id": "\\bMake my heart pound with excitement!",
+  "en": "\\bMake my heart pound with excitement!",
+  "it": "\\bFammi battere il cuore dall'emozione!"
+ },
+ {
+  "id": "\\bGo ahead and play my Coin game!",
+  "en": "\\bGo ahead and play my Coin game!",
+  "it": "\\bForza, gioca al mio gioco a gettoni!"
+ },
+ {
+  "id": "\\CN\\bWe exchange your coins for prizes.",
+  "en": "\\CN\\bWe exchange your coins for prizes.",
+  "it": "\\CN\\bQui scambiamo i tuoi gettoni con dei premi."
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Beldum - 180 coins,Ralts - 500 coins, Bagon - 2800 coins,Mawile - 5500 coins, Castform - 9999 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Beldum - 180 coins,Ralts - 500 coins, Bagon - 2800 coins,Mawile - 5500 coins, Castform - 9999 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Beldum - 180 gettoni,Ralts - 500 gettoni, Bagon - 2800 gettoni,Mawile - 5500 gettoni, Castform - 9999 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bSo, you want the \\v[3]?",
+  "en": "\\CN\\bSo, you want the \\v[3]?",
+  "it": "\\CN\\bAllora, vuoi \\v[3]?"
+ },
+ {
+  "id": "\\CN\\bSorry, you'll need more coins than that.",
+  "en": "\\CN\\bSorry, you'll need more coins than that.",
+  "it": "\\CN\\bMi dispiace, ti servono più gettoni."
+ },
+ {
+  "id": "\\bI'm ready to duel with you.",
+  "en": "\\bI'm ready to duel with you.",
+  "it": "\\bSono pronto a sfidarti a duello."
+ },
+ {
+  "id": "\\rReady for a real rule duel?",
+  "en": "\\rReady for a real rule duel?",
+  "it": "\\rPronto per un duello con le regole vere?"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Inkay - 180 coins,Furfrou - 500 coins, Goomy - 2800 coins,Honedge - 5500 coins, Carbink - 9999 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Inkay - 180 coins,Furfrou - 500 coins, Goomy - 2800 coins,Honedge - 5500 coins, Carbink - 9999 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Inkay - 180 gettoni,Furfrou - 500 gettoni, Goomy - 2800 gettoni,Honedge - 5500 gettoni, Carbink - 9999 gettoni,No grazie]"
+ },
+ {
+  "id": "Mr. Game: \\bShow me how you play and make my heart pound with excitement!",
+  "en": "Mr. Game: \\bShow me how you play and make my heart pound with excitement!",
+  "it": "Mr. Game: \\bMostrami come giochi e fammi battere il cuore per l'emozione!"
+ },
+ {
+  "id": "\\G\\CN\\bWelcome to Rocket Game Corner!",
+  "en": "\\G\\CN\\bWelcome to Rocket Game Corner!",
+  "it": "\\G\\CN\\bBenvenuto alla Casinò Rocket!"
+ },
+ {
+  "id": "\\G\\CN\\bDo you need some game coins?\\nWould you like to buy some?",
+  "en": "\\G\\CN\\bDo you need some game coins?\\nWould you like to buy some?",
+  "it": "\\G\\CN\\bTi servono dei gettoni?\\nVuoi comprarne qualcuno?"
+ },
+ {
+  "id": "\\G\\CN\\bYou don't have a Coin Case.",
+  "en": "\\G\\CN\\bYou don't have a Coin Case.",
+  "it": "\\G\\CN\\bNon hai un Salvadanaio."
+ },
+ {
+  "id": "\\G\\CN\\bWhoops!\\nYour Coin Case is full.",
+  "en": "\\G\\CN\\bWhoops!\\nYour Coin Case is full.",
+  "it": "\\G\\CN\\bOps!\\nIl tuo Salvadanaio è pieno."
+ },
+ {
+  "id": "\\G\\CN\\bYou can't afford the coins.",
+  "en": "\\G\\CN\\bYou can't afford the coins.",
+  "it": "\\G\\CN\\bNon puoi permetterti i gettoni."
+ },
+ {
+  "id": "\\G\\CN\\bThank you\\nHere are your coins!",
+  "en": "\\G\\CN\\bThank you\\nHere are your coins!",
+  "it": "\\G\\CN\\bGrazie!\\nEcco i tuoi gettoni!"
+ },
+ {
+  "id": "\\bI built my deck specially for this!",
+  "en": "\\bI built my deck specially for this!",
+  "it": "\\bHo costruito il mio mazzo apposta per questo!"
+ },
+ {
+  "id": "\\rI'm here to explain the rules of Triple Triad.",
+  "en": "\\rI'm here to explain the rules of Triple Triad.",
+  "it": "\\rSono qui per spiegarti le regole del Triple Triad."
+ },
+ {
+  "id": "\\rWhich topic do you want to learn about?",
+  "en": "\\rWhich topic do you want to learn about?",
+  "it": "\\rQuale argomento vuoi approfondire?"
+ },
+ {
+  "id": "\\rTriple Triad is a game played with special square cards placed on a 3x3 board.",
+  "en": "\\rTriple Triad is a game played with special square cards placed on a 3x3 board.",
+  "it": "\\rIl Triple Triad è un gioco con speciali carte quadrate da disporre su una griglia 3x3."
+ },
+ {
+  "id": "\\rEach card has 4 numbers on it, one per side. These numbers are so-called stats.",
+  "en": "\\rEach card has 4 numbers on it, one per side.  These numbers are so-called stats.",
+  "it": "\\rOgni carta ha 4 numeri, uno per lato.  Questi numeri sono le cosiddette statistiche."
+ },
+ {
+  "id": "\\rPlayers take turns placing cards on the board. As they do so, they try to capture and gain control of their opponent's cards.",
+  "en": "\\rPlayers take turns placing cards on the board.  As they do so, they try to capture and gain control of their opponent's cards.",
+  "it": "\\rI giocatori, a turno, piazzano le carte sulla griglia.  Così facendo, cercano di catturare e prendere il controllo delle carte avversarie."
+ },
+ {
+  "id": "\\rThat's where the numbers come in. If a player places a card with a higher number next to a card with a lower number, the player captures that card.",
+  "en": "\\rThat's where the numbers come in.  If a player places a card with a higher number next to a card with a lower number, the player captures that card.",
+  "it": "\\rEcco a cosa servono i numeri.  Se un giocatore piazza una carta con un numero più alto accanto a una carta con un numero più basso, cattura quella carta."
+ },
+ {
+  "id": "\\rThus, the goal of the game is to gain control of more cards than the other player by the end of the game.",
+  "en": "\\rThus, the goal of the game is to gain control of more cards than the other player by the end of the game.",
+  "it": "\\rQuindi, lo scopo del gioco è controllare più carte dell'avversario alla fine della partita."
+ },
+ {
+  "id": "\\rThere are a number of optional game rules you can apply to individual games.",
+  "en": "\\rThere are a number of optional game rules you can apply to individual games.",
+  "it": "\\rCi sono diverse regole opzionali che puoi applicare alle singole partite."
+ },
+ {
+  "id": "\\rThey can affect card stats, how cards capture each other, the scoring and the prizes.",
+  "en": "\\rThey can affect card stats, how cards capture each other, the scoring and the prizes.",
+  "it": "\\rPossono influire sulle statistiche delle carte, sul modo in cui si catturano, sul punteggio e sui premi."
+ },
+ {
+  "id": "\\rWhen you win a game, you will recive 1 random card from your opponent from their Deck.",
+  "en": "\\rWhen you win a game, you will recive 1 random card from your opponent from their Deck.",
+  "it": "\\rQuando vinci una partita, riceverai 1 carta a caso dal Mazzo del tuo avversario."
+ },
+ {
+  "id": "\\rThis also works the other way around: if you lose, you have to give your opponent one of your cards, chosen at random.",
+  "en": "\\rThis also works the other way around: if you lose, you have to give your opponent one of your cards, chosen at random.",
+  "it": "\\rVale anche il contrario: se perdi, dovrai dare al tuo avversario una delle tue carte, scelta a caso."
+ },
+ {
+  "id": "\\rYou can change what you win or lose from a game by using an optional game rule.",
+  "en": "\\rYou can change what you win or lose from a game by using an optional game rule.",
+  "it": "\\rPuoi cambiare ciò che vinci o perdi in una partita usando una regola opzionale."
+ },
+ {
+  "id": "\\bWelcome to the Triad Card Shop.",
+  "en": "\\bWelcome to the Triad Card Shop.",
+  "it": "\\bBenvenuto al Negozio di carte Triad."
+ },
+ {
+  "id": "\\bAnything else I can do for you?",
+  "en": "\\bAnything else I can do for you?",
+  "it": "\\bPosso fare altro per te?"
+ },
+ {
+  "id": "\\bHere is where you can purchase new cards for Triple Triad duels.",
+  "en": "\\bHere is where you can purchase new cards for Triple Triad duels.",
+  "it": "\\bQui puoi acquistare nuove carte per i duelli di Triple Triad."
+ },
+ {
+  "id": "\\bThe selection grows as you catch and find new Pokémon, so check often.",
+  "en": "\\bThe selection grows as you catch and find new Pokémon, so check often.",
+  "it": "\\bLa scelta aumenta man mano che catturi e trovi nuovi Pokémon, quindi passa spesso."
+ },
+ {
+  "id": "\\bAnd, of course, stronger Pokémon cards cost more than weaker cards.",
+  "en": "\\bAnd, of course, stronger Pokémon cards cost more than weaker cards.",
+  "it": "\\bE, ovviamente, le carte dei Pokémon più forti costano più di quelle dei più deboli."
+ },
+ {
+  "id": "\\bPlease come again.",
+  "en": "\\bPlease come again.",
+  "it": "\\bTorna a trovarci."
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Grimer - 180 coins,Rockruff - 500 coins, Jangmo-o - 2800 coins,Turtonator - 5500 coins, Komala - 9999 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Grimer - 180 coins,Rockruff - 500 coins, Jangmo-o - 2800 coins,Turtonator - 5500 coins, Komala - 9999 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Grimer - 180 gettoni,Rockruff - 500 gettoni, Jangmo-o - 2800 gettoni,Turtonator - 5500 gettoni, Komala - 9999 gettoni,No grazie]"
+ },
+ {
+  "id": "\\rIf you win, I'll give you an Arceus card!",
+  "en": "\\rIf you win, I'll give you an Arceus card!",
+  "it": "\\rSe vinci, ti darò una carta di Arceus!"
+ },
+ {
+  "id": "\\rWelcome!",
+  "en": "\\rWelcome!",
+  "it": "\\rBenvenuto!"
+ },
+ {
+  "id": "\\rYou can exchange your coins for fabulous prizes next door.",
+  "en": "\\rYou can exchange your coins for fabulous prizes next door.",
+  "it": "\\rQui accanto puoi scambiare i gettoni con dei premi favolosi."
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Power Anklet - 100 coins,Power Band - 100 coins, Power Belt - 100 coins,Power Bracer - 100 coins, Power Lens - 100 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Power Anklet - 100 coins,Power Band - 100 coins, Power Belt - 100 coins,Power Bracer - 100 coins, Power Lens - 100 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Vigorgliera - 100 gettoni,Vigorbanda - 100 gettoni, Vigorfascia - 100 gettoni,Vigorcerchio - 100 gettoni, Vigorlente - 100 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bYou have no room in your Bag.",
+  "en": "\\CN\\bYou have no room in your Bag.",
+  "it": "\\CN\\bNon hai spazio nella Borsa."
+ },
+ {
+  "id": "\\rThis is the Pokémon Lottery Corner. I'm Felicity, your attendant today.",
+  "en": "\\rThis is the Pokémon Lottery Corner. I'm Felicity, your attendant today.",
+  "it": "\\rQuesto è l'Angolo Lotteria Pokémon. Sono Felicity, la tua assistente di oggi."
+ },
+ {
+  "id": "\\rIf the drawn number matches the ID No. of any of your Pokémon, you could win fabulous gifts.",
+  "en": "\\rIf the drawn number matches the ID No. of any of your Pokémon, you could win fabulous gifts.",
+  "it": "\\rSe il numero estratto corrisponde al N. ID di uno dei tuoi Pokémon, potresti vincere premi favolosi."
+ },
+ {
+  "id": "\\rWould you like to check today's lucky number?",
+  "en": "\\rWould you like to check today's lucky number?",
+  "it": "\\rVuoi controllare il numero fortunato di oggi?"
+ },
+ {
+  "id": "\\rFirst, I'll look up today's Pokémon Lottery Corner lucky number.",
+  "en": "\\rFirst, I'll look up today's Pokémon Lottery Corner lucky number.",
+  "it": "\\rPer prima cosa, controllo il numero fortunato di oggi della Lotteria Pokémon."
+ },
+ {
+  "id": "...",
+  "en": "...",
+  "it": "..."
+ },
+ {
+  "id": "\\rYour Loto Ticket number is \\v[1].",
+  "en": "\\rYour Loto Ticket number is \\v[1].",
+  "it": "\\rIl numero del tuo Biglietto della Lotteria è \\v[1]."
+ },
+ {
+  "id": "\\rNow, let's see if it matches the ID No. of any of your Pokémon.",
+  "en": "\\rNow, let's see if it matches the ID No. of any of your Pokémon.",
+  "it": "\\rOra vediamo se corrisponde al N. ID di uno dei tuoi Pokémon."
+ },
+ {
+  "id": "\\rI'm sorry. You didn't get a match...",
+  "en": "\\rI'm sorry. You didn't get a match...",
+  "it": "\\rMi dispiace. Nessuna corrispondenza..."
+ },
+ {
+  "id": "\\rPlease do visit again.",
+  "en": "\\rPlease do visit again.",
+  "it": "\\rTorna a trovarci, mi raccomando."
+ },
+ {
+  "id": "\\rCongratulations!",
+  "en": "\\rCongratulations!",
+  "it": "\\rCongratulazioni!"
+ },
+ {
+  "id": "\\rThe ID number of your team's \\v[2] matches your Loto Ticket number!",
+  "en": "\\rThe ID number of your team's \\v[2] matches your Loto Ticket number!",
+  "it": "\\rIl numero ID del \\v[2] nella tua squadra corrisponde al numero del tuo Biglietto della Lotteria!"
+ },
+ {
+  "id": "\\rThe ID number of your PC-boxed \\v[2] matches your Loto Ticket number!",
+  "en": "\\rThe ID number of your PC-boxed \\v[2] matches your Loto Ticket number!",
+  "it": "\\rIl numero ID del \\v[2] nel tuo Box del PC corrisponde al numero del tuo Biglietto della Lotteria!"
+ },
+ {
+  "id": "\\rOh my goodness, all five digits matched!",
+  "en": "\\rOh my goodness, all five digits matched!",
+  "it": "\\rOh, santo cielo, corrispondono tutte e cinque le cifre!"
+ },
+ {
+  "id": "\\rYou've won the jackpot prize!",
+  "en": "\\rYou've won the jackpot prize!",
+  "it": "\\rHai vinto il primo premio assoluto!"
+ },
+ {
+  "id": "\\rPlease do visit again! Good-bye from Felicity, your attendant!",
+  "en": "\\rPlease do visit again! Good-bye from Felicity, your attendant!",
+  "it": "\\rTorna a trovarci! Un saluto da Felicity, la tua assistente!"
+ },
+ {
+  "id": "\\rYou have no room left. Make room, then come see me.",
+  "en": "\\rYou have no room left. Make room, then come see me.",
+  "it": "\\rNon hai più spazio. Fai un po' di posto, poi torna da me."
+ },
+ {
+  "id": "\\rThe last four digits matched, so you win the first prize!",
+  "en": "\\rThe last four digits matched, so you win the first prize!",
+  "it": "\\rLe ultime quattro cifre corrispondono, quindi vinci il primo premio!"
+ },
+ {
+  "id": "\\rThe last three digits matched, so you win the second prize!",
+  "en": "\\rThe last three digits matched, so you win the second prize!",
+  "it": "\\rLe ultime tre cifre corrispondono, quindi vinci il secondo premio!"
+ },
+ {
+  "id": "\\rThe last two digits matched, so you win the third prize!",
+  "en": "\\rThe last two digits matched, so you win the third prize!",
+  "it": "\\rLe ultime due cifre corrispondono, quindi vinci il terzo premio!"
+ },
+ {
+  "id": "\\rThe last digit matched, so you win the fourth prize!",
+  "en": "\\rThe last digit matched, so you win the fourth prize!",
+  "it": "\\rL'ultima cifra corrisponde, quindi vinci il quarto premio!"
+ },
+ {
+  "id": "\\rOh, I see.\\nPlease do visit us again.",
+  "en": "\\rOh, I see.\\nPlease do visit us again.",
+  "it": "\\rOh, capisco.\\nTorna a trovarci, mi raccomando."
+ },
+ {
+  "id": "\\rYou've already drawn a Loto Ticket today. Please come back tomorrow.",
+  "en": "\\rYou've already drawn a Loto Ticket today. Please come back tomorrow.",
+  "it": "\\rHai già estratto un biglietto della lotteria oggi. Torna domani."
+ },
+ {
+  "id": "\\rI've been waiting for you. Here's the item you won.",
+  "en": "\\rI've been waiting for you. Here's the item you won.",
+  "it": "\\rTi stavo aspettando. Ecco lo strumento che hai vinto."
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Grassy Seed - 100 coins,Misty Seed - 100 coins, Electric Seed - 100 coins,Psychic Seed - 100 coins, Master Ball - 9999 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Grassy Seed - 100 coins,Misty Seed - 100 coins, Electric Seed - 100 coins,Psychic Seed - 100 coins, Master Ball - 9999 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Erbaseme - 100 gettoni,Nebbiaseme - 100 gettoni, Elettroseme - 100 gettoni,Psicoseme - 100 gettoni, Master Ball - 9999 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Elgyem - 180 coins,Tynamo - 500 coins, Deino - 2800 coins,Zorua - 5500 coins, Larvesta - 9999 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Elgyem - 180 coins,Tynamo - 500 coins, Deino - 2800 coins,Zorua - 5500 coins, Larvesta - 9999 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Elgyem - 180 gettoni,Tynamo - 500 gettoni, Deino - 2800 gettoni,Zorua - 5500 gettoni, Larvesta - 9999 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Meowth - 180 coins,Milcery - 500 coins, Dreepy - 2800 coins,Falinks - 5500 coins, Kubfu - 9999 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Meowth - 180 coins,Milcery - 500 coins, Dreepy - 2800 coins,Falinks - 5500 coins, Kubfu - 9999 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Meowth - 180 gettoni,Milcery - 500 gettoni, Dreepy - 2800 gettoni,Falinks - 5500 gettoni, Kubfu - 9999 gettoni,No grazie]"
+ },
+ {
+  "id": "\\bMr. Game: Show me how you play and make my heart pound with excitement!",
+  "en": "\\bMr. Game: Show me how you play and make my heart pound with excitement!",
+  "it": "\\bMr. Game: Fammi vedere come giochi e fa' battere forte il mio cuore per l'emozione!"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Blue Scarf - 800 coins,Red Scarf - 1000 coins, Pink Scarf - 1000 coins,Green Scarf - 1000 coins, Yellow Scarf - 1600 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Blue Scarf - 800 coins,Red Scarf - 1000 coins, Pink Scarf - 1000 coins,Green Scarf - 1000 coins, Yellow Scarf - 1600 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Fascia Blu - 800 gettoni,Fascia Rossa - 1000 gettoni, Fascia Rosa - 1000 gettoni,Fascia Verde - 1000 gettoni, Fascia Gialla - 1600 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Eject Button - 800 coins,Eviolite - 800 coins, Choice Specs - 1600 coins,Choice Band - 1600 coins, Choice Scarf - 1600 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Eject Button - 800 coins,Eviolite - 800 coins, Choice Specs - 1600 coins,Choice Band - 1600 coins, Choice Scarf - 1600 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Pulsantefuga - 800 gettoni,Evolcondensa - 800 gettoni, Lentiscelta - 1600 gettoni,Bendascelta - 1600 gettoni, Stolascelta - 1600 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Smoke Ball - 800 coins,Miracle Seed - 1000 coins, Charcoal - 1000 coins,Mystic Water - 1000 coins, Yellow Flute - 1600 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Smoke Ball - 800 coins,Miracle Seed - 1000 coins, Charcoal - 1000 coins,Mystic Water - 1000 coins, Yellow Flute - 1600 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Palla Fumo - 800 gettoni,Miracolseme - 1000 gettoni, Carbonella - 1000 gettoni,Acqua Mistica - 1000 gettoni, Flauto Giallo - 1600 gettoni,No, grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Metronome - 1000 coins,Life Orb - 1000 coins, Leftovers - 1000 coins,Lucky Egg - 1600 coins, Ability Patch - 5000 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Metronome - 1000 coins,Life Orb - 1000 coins, Leftovers - 1000 coins,Lucky Egg - 1600 coins, Ability Patch - 5000 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Metronomo - 1000 gettoni,Assorbisfera - 1000 gettoni, Avanzi - 1000 gettoni,Fortunuovo - 1600 gettoni, Cerotto Abilità - 5000 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Abra - 180 coins,Clefairy - 500 coins, Dratini - 2800 coins,Scyther - 5500 coins, Porygon - 9999 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Abra - 180 coins,Clefairy - 500 coins, Dratini - 2800 coins,Scyther - 5500 coins, Porygon - 9999 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Abra - 180 gettoni,Clefairy - 500 gettoni, Dratini - 2800 gettoni,Scyther - 5500 gettoni, Porygon - 9999 gettoni,No, grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Exp Candy M - 250 coins,Exp Candy L - 500 coins, Exp Candy XL - 1000 coins,PP Up - 1000 coins, PP Max - 4000 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Exp Candy M - 250 coins,Exp Candy L - 500 coins, Exp Candy XL - 1000 coins,PP Up - 1000 coins, PP Max - 4000 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Caramella Esp. M - 250 gettoni,Caramella Esp. L - 500 gettoni, Caramella Esp. XL - 1000 gettoni,PP-Su - 1000 gettoni, PP-Max - 4000 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Cell Battery - 800 coins,Air Balloon - 1000 coins, Ability Capsule - 1000 coins,Bottle Cap - 2000 coins, Gold Bottle Cap - 9000 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Cell Battery - 800 coins,Air Balloon - 1000 coins, Ability Capsule - 1000 coins,Bottle Cap - 2000 coins, Gold Bottle Cap - 9000 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Ricaripila - 800 gettoni,Palloncino - 1000 gettoni, Capsula Abilità - 1000 gettoni,Tappo d'Argento - 2000 gettoni, Tappo d'Oro - 9000 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Flame Orb - 800 coins,Toxic Orb - 1000 coins, Iron Ball - 1000 coins,Light Clay - 1000 coins, Focus Sash - 1600 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Flame Orb - 800 coins,Toxic Orb - 1000 coins, Iron Ball - 1000 coins,Light Clay - 1000 coins, Focus Sash - 1600 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Fiammosfera - 800 gettoni,Tossicsfera - 1000 gettoni, Ferropalla - 1000 gettoni,Creta Luce - 1000 gettoni, Focalnastro - 1600 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Igglybuff - 180 coins,Cleffa - 500 coins, Larvitar - 2800 coins,Gligar - 5500 coins, Wobbuffet - 9999 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Igglybuff - 180 coins,Cleffa - 500 coins, Larvitar - 2800 coins,Gligar - 5500 coins, Wobbuffet - 9999 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Igglybuff - 180 gettoni,Cleffa - 500 gettoni, Larvitar - 2800 gettoni,Gligar - 5500 gettoni, Wobbuffet - 9999 gettoni,No grazie]"
+ },
+ {
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Chingling - 180 coins,Snover - 500 coins, Gible - 2800 coins,Carnivine - 5500 coins, Rotom - 9999 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Chingling - 180 coins,Snover - 500 coins, Gible - 2800 coins,Carnivine - 5500 coins, Rotom - 9999 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Chingling - 180 gettoni,Snover - 500 gettoni, Gible - 2800 gettoni,Carnivine - 5500 gettoni, Rotom - 9999 gettoni,No grazie]"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ },
+ {
+  "id": "50 coins [$1,000]",
+  "en": "50 coins [$1,000]",
+  "it": "50 gettoni [$1.000]"
+ },
+ {
+  "id": "500 coins [$10,000]",
+  "en": "500 coins [$10,000]",
+  "it": "500 gettoni [$10.000]"
+ },
+ {
+  "id": "5000 coins [$100,000]",
+  "en": "5000 coins [$100,000]",
+  "it": "5000 gettoni [$100.000]"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Basics",
+  "en": "Basics",
+  "it": "Nozioni base"
+ },
+ {
+  "id": "Game rules",
+  "en": "Game rules",
+  "it": "Regole"
+ },
+ {
+  "id": "Prizes",
+  "en": "Prizes",
+  "it": "Premi"
+ },
+ {
+  "id": "Buy Cards",
+  "en": "Buy Cards",
+  "it": "Compra carte"
+ },
+ {
+  "id": "Sell Cards",
+  "en": "Sell Cards",
+  "it": "Vendi carte"
+ },
+ {
+  "id": "Information",
+  "en": "Information",
+  "it": "Informazioni"
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "id": "\\bThis is an example of a Pokémon Gym.",
+  "en": "\\bThis is an example of a Pokémon Gym.",
+  "it": "\\bQuesto è un esempio di Palestra Pokémon."
+ },
+ {
+  "id": "\\bThe only differences are that the trainers become inactive if the Leader is defeated, and that the Leader gives you a badge and TM after defeating him.",
+  "en": "\\bThe only differences are that the trainers become inactive if the Leader is defeated, and that the Leader gives you a badge and TM after defeating him.",
+  "it": "\\bLe uniche differenze sono che gli allenatori diventano inattivi se il Capopalestra viene sconfitto, e che il Capopalestra ti dà una medaglia e una MT dopo averlo battuto."
+ },
+ {
+  "id": "\\bYou've made it this far, but can you beat me?",
+  "en": "\\bYou've made it this far, but can you beat me?",
+  "it": "\\bSei arrivato fin qui, ma riuscirai a battermi?"
+ },
+ {
+  "id": "Very good.",
+  "en": "Very good.",
+  "it": "Molto bene."
+ },
+ {
+  "id": "\\bYou've earned the Boulder Badge.",
+  "en": "\\bYou've earned the Boulder Badge.",
+  "it": "\\bTi sei guadagnato la Medaglia Sasso."
+ },
+ {
+  "id": "\\bHere, have this TM too.",
+  "en": "\\bHere, have this TM too.",
+  "it": "\\bEcco, prendi anche questa MT."
+ },
+ {
+  "id": "\\bI often work in the caves on Route 7, digging up fossils.",
+  "en": "\\bI often work in the caves on Route 7, digging up fossils.",
+  "it": "\\bLavoro spesso nelle grotte del Percorso 7, a scavare fossili."
+ },
+ {
+  "id": "\\bThere's a man in the Pokémon Institute who can revive fossils into living Pokémon.",
+  "en": "\\bThere's a man in the Pokémon Institute who can revive fossils into living Pokémon.",
+  "it": "\\bAll'Istituto Pokémon c'è un uomo in grado di riportare in vita i fossili come Pokémon."
+ },
+ {
+  "id": "\\bBattle me now!",
+  "en": "\\bBattle me now!",
+  "it": "\\bLotta con me, adesso!"
+ },
+ {
+  "id": "A very good battle, indeed.",
+  "en": "A very good battle, indeed.",
+  "it": "Davvero un'ottima lotta."
+ },
+ {
+  "id": "\\bYou're pretty hot. But not as hot as Brock!",
+  "en": "\\bYou're pretty hot. But not as hot as Brock!",
+  "it": "\\bSei proprio in gamba. Ma non quanto Brock!"
+ }
+]

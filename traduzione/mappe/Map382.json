@@ -1,0 +1,32 @@
+[
+ {
+  "id": "\\bSteven: Nice to meet you. Have you come in search of stones as well?",
+  "en": "\\bSteven: Nice to meet you. Have you come in search of stones as well?",
+  "it": "\\bRocco: Piacere di conoscerti. Anche tu sei venuto in cerca di pietre?"
+ },
+ {
+  "id": "\\bNo... Well, no problem. So you are searching for a way to Route 106. I suggest looking around the area with the strange rock.",
+  "en": "\\bNo... Well, no problem. So you are searching for a way to Route 106. I suggest looking around the area with the strange rock.",
+  "it": "\\bNo... Beh, nessun problema. Quindi cerchi una strada per il Percorso 106. Ti consiglio di guardarti intorno nella zona con la strana roccia."
+ },
+ {
+  "id": "\\bI found this as well. I don't need it so please take it off my hands.",
+  "en": "\\bI found this as well. I don't need it so please take it off my hands.",
+  "it": "\\bHo trovato anche questo. Non mi serve, quindi ti prego, prendilo tu."
+ },
+ {
+  "id": "\\bTM110 contains Steel Wing. It may raise your defense.",
+  "en": "\\bTM110 contains Steel Wing. It may raise your defense.",
+  "it": "\\bLa MT110 contiene Alacciaio. Può aumentare la tua Difesa."
+ },
+ {
+  "id": "\\bSteven: You're searching for a way to Route 106. I suggest looking around the area with the strange rock.",
+  "en": "\\bSteven: You're searching for a way to Route 106. I suggest looking around the area with the strange rock.",
+  "it": "\\bRocco: Stai cercando una strada per il Percorso 106. Ti consiglio di guardarti intorno nella zona con la strana roccia."
+ },
+ {
+  "id": "You revealed the path.",
+  "en": "You revealed the path.",
+  "it": "Hai scoperto il passaggio."
+ }
+]

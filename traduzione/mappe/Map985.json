@@ -1,0 +1,57 @@
+[
+ {
+  "id": "The door is locked.",
+  "en": "The door is locked.",
+  "it": "La porta è chiusa a chiave."
+ },
+ {
+  "id": "\\bWhere would you like to go?",
+  "en": "\\bWhere would you like to go?",
+  "it": "\\bDove vorresti andare?"
+ },
+ {
+  "id": "\\rWedgehurst is a small town to me, but apparently there are places even smaller. Did you know some places don't even have a Pokémon Center?",
+  "en": "\\rWedgehurst is a small town to me, but apparently there are places even smaller. Did you know some places don't even have a Pokémon Center?",
+  "it": "\\rPer me Wedgehurst è una città piccola, ma a quanto pare ci sono posti ancora più piccoli. Lo sapevi che in alcuni posti non c'è nemmeno un Centro Pokémon?"
+ },
+ {
+  "id": "\\bCorviknight",
+  "en": "\\bCorviknight",
+  "it": "\\bCorviknight"
+ },
+ {
+  "id": "\\rLeon grew up very close to here. Sonia told me that.",
+  "en": "\\rLeon grew up very close to here. Sonia told me that.",
+  "it": "\\rDandel è cresciuto molto vicino a qui. Me l'ha detto Sonia."
+ },
+ {
+  "id": "\\bProfessor Magnolia focuses on Dynamax in her studies.",
+  "en": "\\bProfessor Magnolia focuses on Dynamax in her studies.",
+  "it": "\\bLa Professoressa Magnolia concentra i suoi studi sul Dynamax."
+ },
+ {
+  "id": "Professor Magnolia's Lab",
+  "en": "Professor Magnolia's Lab",
+  "it": "Laboratorio della Professoressa Magnolia"
+ },
+ {
+  "id": "Wedgehurst\\nOur quiet borough is home to the esteemed Pokémon Research Lab.",
+  "en": "Wedgehurst\\nOur quiet borough is home to the esteemed Pokémon Research Lab.",
+  "it": "Wedgehurst\\nIl nostro quieto borgo ospita il rinomato Laboratorio di Ricerca Pokémon."
+ },
+ {
+  "id": "Wild Area",
+  "en": "Wild Area",
+  "it": "Terre Selvagge"
+ },
+ {
+  "id": "Slumbering Weald",
+  "en": "Slumbering Weald",
+  "it": "Bosco Assopito"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ }
+]

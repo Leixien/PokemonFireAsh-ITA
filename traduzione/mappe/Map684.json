@@ -1,0 +1,32 @@
+[
+ {
+  "id": "\\bWelcome to the Club Battle. Would you like to enter? This years prize is a set of Feathers.",
+  "en": "\\bWelcome to the Club Battle. Would you like to enter? This years prize is a set of Feathers.",
+  "it": "\\bBenvenuto al Club Battle. Vuoi partecipare? Il premio di quest'anno è un set di Piume."
+ },
+ {
+  "id": "\\bThe rules are simple. All you have to do is get to the other side of the room while beating the Trainers. Grab the Feathers to win.",
+  "en": "\\bThe rules are simple. All you have to do is get to the other side of the room while beating the Trainers.  Grab the Feathers to win.",
+  "it": "\\bLe regole sono semplici. Devi solo raggiungere l'altro lato della sala battendo gli Allenatori. Prendi le Piume per vincere."
+ },
+ {
+  "id": "\\bVery well. Enjoy your day.",
+  "en": "\\bVery well. Enjoy your day.",
+  "it": "\\bMolto bene. Buona giornata."
+ },
+ {
+  "id": "\\bThe Club Battle is over. Come again next year.",
+  "en": "\\bThe Club Battle is over. Come again next year.",
+  "it": "\\bIl Club Battle è finito. Torna l'anno prossimo."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

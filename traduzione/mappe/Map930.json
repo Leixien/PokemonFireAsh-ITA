@@ -1,0 +1,42 @@
+[
+ {
+  "id": "\\bKiawe: I've been training all day for this.",
+  "en": "\\bKiawe: I've been training all day for this.",
+  "it": "\\bKiawe: Mi sono allenato tutto il giorno per questo."
+ },
+ {
+  "id": "\\bKiawe: Do you want to pick me?",
+  "en": "\\bKiawe: Do you want to pick me?",
+  "it": "\\bKiawe: Vuoi scegliere me?"
+ },
+ {
+  "id": "\\PN teamed up with Kiawe!\\me[Item get]\\wtnp[40]",
+  "en": "\\PN teamed up with Kiawe!\\me[Item get]\\wtnp[40]",
+  "it": "\\PN ha fatto squadra con Kiawe!\\me[Item get]\\wtnp[40]"
+ },
+ {
+  "id": "\\bThat's fine.",
+  "en": "\\bThat's fine.",
+  "it": "\\bVa bene."
+ },
+ {
+  "id": "\\bMasked Royal: Excellent! Let's begin our battle.",
+  "en": "\\bMasked Royal: Excellent! Let's begin our battle.",
+  "it": "\\bReale Mascherato: Eccellente! Che la lotta abbia inizio."
+ },
+ {
+  "id": "\\bSophocles: I'm not going to lose.",
+  "en": "\\bSophocles: I'm not going to lose.",
+  "it": "\\bChrys: Non ho intenzione di perdere."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

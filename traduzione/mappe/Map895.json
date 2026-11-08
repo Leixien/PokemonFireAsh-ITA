@@ -1,0 +1,242 @@
+[
+ {
+  "id": "\\bFight the power! Quit while you still can. Turn it off!",
+  "en": "\\bFight the power! Quit while you still can. Turn it off!",
+  "it": "\\bCombatti il potere! Smetti finché sei in tempo. Spegnilo!"
+ },
+ {
+  "id": "\\bHello there. I'm Mallow's brother. Nice to meet you.",
+  "en": "\\bHello there. I'm Mallow's brother. Nice to meet you.",
+  "it": "\\bCiao. Sono il fratello di Ibis. Piacere di conoscerti."
+ },
+ {
+  "id": "\\rLusamine: It's a pleasure to meet one of Lillie's friends!",
+  "en": "\\rLusamine: It's a pleasure to meet one of Lillie's friends!",
+  "it": "\\rSamina: È un piacere conoscere uno degli amici di Lylia!"
+ },
+ {
+  "id": "\\rTsareena",
+  "en": "\\rTsareena",
+  "it": "\\rTsareena"
+ },
+ {
+  "id": "\\rLillie: \\PN, this is my brother Gladion. He's not the most friendly.",
+  "en": "\\rLillie: \\PN, this is my brother Gladion. He's not the most friendly.",
+  "it": "\\rLylia: \\PN, lui è mio fratello Iridio. Non è il tipo più socievole."
+ },
+ {
+  "id": "\\rI love coming here.",
+  "en": "\\rI love coming here.",
+  "it": "\\rAdoro venire qui."
+ },
+ {
+  "id": "\\rMallow: My brother came to visit! I'm so excited! Help me burn off some energy.",
+  "en": "\\rMallow: My brother came to visit! I'm so excited! Help me burn off some energy.",
+  "it": "\\rIbis: Mio fratello è venuto a trovarmi! Sono così emozionata! Aiutami a sfogare un po' di energia."
+ },
+ {
+  "id": "Rotom Dex: What a fun day. Let's head home.",
+  "en": "Rotom Dex: What a fun day. Let's head home.",
+  "it": "Rotom Dex: Che giornata divertente. Torniamo a casa."
+ },
+ {
+  "id": "\\rMallow: I've calmed down now. Thanks \\PN.",
+  "en": "\\rMallow: I've calmed down now. Thanks \\PN.",
+  "it": "\\rIbis: Ora mi sono calmata. Grazie, \\PN."
+ },
+ {
+  "id": "\\rMallow: Hi, \\PN. I just created something spicy. Care to try?",
+  "en": "\\rMallow: Hi, \\PN. I just created something spicy. Care to try?",
+  "it": "\\rIbis: Ciao, \\PN. Ho appena creato qualcosa di piccante. Vuoi assaggiare?"
+ },
+ {
+  "id": "\\rMallow: Come back soon. There will be plently of tasty dishes.",
+  "en": "\\rMallow: Come back soon. There will be plently of tasty dishes.",
+  "it": "\\rIbis: Torna presto. Ci saranno un sacco di piatti gustosi."
+ },
+ {
+  "id": "\\bI want to go out and play.",
+  "en": "\\bI want to go out and play.",
+  "it": "\\bVoglio uscire a giocare."
+ },
+ {
+  "id": "\\rLillie: Thanks for coming and checking on the egg. I know it will hatch soon.",
+  "en": "\\rLillie: Thanks for coming and checking on the egg. I know it will hatch soon.",
+  "it": "\\rLylia: Grazie di essere venuto a controllare l'Uovo. Sono sicura che si schiuderà presto."
+ },
+ {
+  "id": "\\rWell until then, why don't you battle my butler? He's always been very competent at it.",
+  "en": "\\rWell until then, why don't you battle my butler? He's always been very competent at it.",
+  "it": "\\rNel frattempo, perché non sfidi il mio maggiordomo? È sempre stato molto bravo a lottare."
+ },
+ {
+  "id": "\\rLillie: That was a great battle.",
+  "en": "\\rLillie: That was a great battle.",
+  "it": "\\rLylia: È stata una lotta magnifica."
+ },
+ {
+  "id": "\\rLillie: \\PN! I'm sorry to take you away from your day with Kiawe but I had to show you something. My egg hatched. Take a look.",
+  "en": "\\rLillie: \\PN! I'm sorry to take you away from your day with Kiawe but I had to show you something. My egg hatched. Take a look.",
+  "it": "\\rLylia: \\PN! Scusa se ti porto via dalla tua giornata con Kiawe, ma dovevo mostrarti una cosa. Il mio Uovo si è schiuso. Guarda."
+ },
+ {
+  "id": "\\rLillie: I'm so happy to have Snowy with me. Thanks for stopping by. You should go have your day with Kiawe.",
+  "en": "\\rLillie: I'm so happy to have Snowy with me. Thanks for stopping by. You should go have your day with Kiawe.",
+  "it": "\\rLylia: Sono così felice di avere Snowy con me. Grazie di essere passato. Ora dovresti andare a goderti la giornata con Kiawe."
+ },
+ {
+  "id": "\\rLillie: \\PN, what is that strange Pokémon? Oh right, where are my manners? This...is my mother, Lusamine.",
+  "en": "\\rLillie: \\PN, what is that strange Pokémon? Oh right, where are my manners? This...is my mother, Lusamine.",
+  "it": "\\rLylia: \\PN, cos'è quello strano Pokémon? Ah giusto, dove sono finite le mie buone maniere? Lei... è mia madre, Samina."
+ },
+ {
+  "id": "\\rLusamine: Oh it's always nice to meet one of Lillie's friends! You're just as cute as she is!",
+  "en": "\\rLusamine: Oh it's always nice to meet one of Lillie's friends! You're just as cute as she is!",
+  "it": "\\rSamina: Oh, è sempre bello conoscere uno degli amici di Lylia! Sei carino proprio come lei!"
+ },
+ {
+  "id": "\\rLillie: Mother please... Anyways \\PN, that Pokémon looks upset. Maybe watching a battle will cheer it up.",
+  "en": "\\rLillie: Mother please... Anyways \\PN, that Pokémon looks upset. Maybe watching a battle will cheer it up.",
+  "it": "\\rLylia: Mamma, ti prego... Comunque, \\PN, quel Pokémon sembra turbato. Magari guardare una lotta lo tirerà su."
+ },
+ {
+  "id": "\\rLillie: It looks like Nebby calmed down. You like Nebby right? We have to call it something after all.",
+  "en": "\\rLillie: It looks like Nebby calmed down. You like Nebby right? We have to call it something after all.",
+  "it": "\\rLylia: Sembra che Nebby si sia calmato. Ti piace Nebby, vero? Dopotutto dobbiamo pur chiamarlo in qualche modo."
+ },
+ {
+  "id": "\\rMaybe the professor will know what Nebby is.",
+  "en": "\\rMaybe the professor will know what Nebby is.",
+  "it": "\\rForse il professore saprà cos'è Nebby."
+ },
+ {
+  "id": "\\rLillie: Maybe the professor will know what to do with Nebby.",
+  "en": "\\rLillie: Maybe the professor will know what to do with Nebby.",
+  "it": "\\rLylia: Forse il professore saprà cosa fare con Nebby."
+ },
+ {
+  "id": "\\bMohn: It's good to be back. I've missed so much.",
+  "en": "\\bMohn: It's good to be back. I've missed so much.",
+  "it": "\\bMohn: È bello essere tornato. Mi sono perso così tanto."
+ },
+ {
+  "id": "\\bI'm Sophocles's dad. It's always nice to meet a fellow classmate of his.",
+  "en": "\\bI'm Sophocles's dad. It's always nice to meet a fellow classmate of his.",
+  "it": "\\bSono il papà di Chrys. È sempre bello conoscere un suo compagno di classe."
+ },
+ {
+  "id": "\\rI'm Lana's sister Harper.",
+  "en": "\\rI'm Lana's sister Harper.",
+  "it": "\\rSono Harper, la sorella di Suiren."
+ },
+ {
+  "id": "\\bGladion: \\PN, it's nice to see you. Remember our promise to battle each other next time we met? Let's begin.",
+  "en": "\\bGladion: \\PN, it's nice to see you. Remember our promise to battle each other next time we met? Let's begin.",
+  "it": "\\bIridio: \\PN, è bello vederti. Ricordi la nostra promessa di sfidarci la prossima volta che ci saremmo incontrati? Cominciamo."
+ },
+ {
+  "id": "\\bGladion: I'm happy my dad is back. Our family has never been better.",
+  "en": "\\bGladion: I'm happy my dad is back. Our family has never been better.",
+  "it": "\\bIridio: Sono felice che mio padre sia tornato. La nostra famiglia non è mai stata meglio."
+ },
+ {
+  "id": "\\bWelcome to my restaurant. Feel free to try whatever you want.",
+  "en": "\\bWelcome to my restaurant. Feel free to try whatever you want.",
+  "it": "\\bBenvenuto nel mio ristorante. Assaggia pure tutto quello che vuoi."
+ },
+ {
+  "id": "\\rSophocles has told us all about you.",
+  "en": "\\rSophocles has told us all about you.",
+  "it": "\\rChrys ci ha raccontato tutto di te."
+ },
+ {
+  "id": "\\rI'm Lana's sister Sarah.",
+  "en": "\\rI'm Lana's sister Sarah.",
+  "it": "\\rSono Sarah, la sorella di Suiren."
+ },
+ {
+  "id": "This ball contain a Cosmog. Would you like to take it?",
+  "en": "This ball contain a Cosmog. Would you like to take it?",
+  "it": "Questa Ball contiene un Cosmog. Vuoi prenderlo?"
+ },
+ {
+  "id": "\\rLillie: \\PN, good to see you. Mother, brother, and I are doing so well now.",
+  "en": "\\rLillie: \\PN, good to see you. Mother, brother, and I are doing so well now.",
+  "it": "\\rLylia: \\PN, che bello vederti. Io, la mamma e mio fratello stiamo benissimo ora."
+ },
+ {
+  "id": "\\rWould you like to battle? It's the last I can do since you came so far.",
+  "en": "\\rWould you like to battle? It's the last I can do since you came so far.",
+  "it": "\\rTi va di lottare? È il minimo che possa fare, visto che sei venuto fin qui."
+ },
+ {
+  "id": "\\rLillie: Come back soon.",
+  "en": "\\rLillie: Come back soon.",
+  "it": "\\rLylia: Torna presto."
+ },
+ {
+  "id": "\\bGladion: \\PN, is it? Lillie says you're strong. I could use a challenge. Take me on.",
+  "en": "\\bGladion: \\PN, is it? Lillie says you're strong. I could use a challenge. Take me on.",
+  "it": "\\bIridio: \\PN, giusto? Lylia dice che sei forte. Mi farebbe comodo una sfida. Affrontami."
+ },
+ {
+  "id": "\\bGladion: Impressive. You'll become a strong ally to someone one day.",
+  "en": "\\bGladion: Impressive. You'll become a strong ally to someone one day.",
+  "it": "\\bIridio: Notevole. Un giorno diventerai un alleato potente per qualcuno."
+ },
+ {
+  "id": "Rotom Dex: Wonderful battle \\PN. Let's head back to the professor.",
+  "en": "Rotom Dex: Wonderful battle \\PN. Let's head back to the professor.",
+  "it": "Rotom Dex: Lotta splendida, \\PN. Torniamo dal professore."
+ },
+ {
+  "id": "\\bI'd recommend the soup.",
+  "en": "\\bI'd recommend the soup.",
+  "it": "\\bVi consiglio la zuppa."
+ },
+ {
+  "id": "\\bGood day. Welcome to Miss Lusamine's home.",
+  "en": "\\bGood day. Welcome to Miss Lusamine's home.",
+  "it": "\\bBuongiorno. Benvenuto nella casa della signora Samina."
+ },
+ {
+  "id": "\\bSo you want to battle me in Miss Lillie's place? Very well.",
+  "en": "\\bSo you want to battle me in Miss Lillie's place? Very well.",
+  "it": "\\bQuindi desideri sfidarmi al posto della signorina Lylia? Molto bene."
+ },
+ {
+  "id": "Rotom Dex: That seems like enough for one day. Let's head home.",
+  "en": "Rotom Dex: That seems like enough for one day. Let's head home.",
+  "it": "Rotom Dex: Per oggi direi che basta. Torniamo a casa."
+ },
+ {
+  "id": "This ball contain a Magearna. Would you like to take it?",
+  "en": "This ball contain a Magearna. Would you like to take it?",
+  "it": "Questa Ball contiene un Magearna. Vuoi prenderlo?"
+ },
+ {
+  "id": "\\bSophocles: There you are. I need someone to practice battling on and you seem like the best pick.",
+  "en": "\\bSophocles: There you are. I need someone to practice battling on and you seem like the best pick.",
+  "it": "\\bChrys: Eccoti. Mi serve qualcuno con cui esercitarmi nelle lotte e tu mi sembri la scelta migliore."
+ },
+ {
+  "id": "Rotom Dex: Let's head back home.",
+  "en": "Rotom Dex: Let's head back home.",
+  "it": "Rotom Dex: Torniamo a casa."
+ },
+ {
+  "id": "\\bSophocles: Thanks for the help.",
+  "en": "\\bSophocles: Thanks for the help.",
+  "it": "\\bChrys: Grazie per l'aiuto."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

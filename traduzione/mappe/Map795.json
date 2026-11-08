@@ -1,0 +1,147 @@
+[
+ {
+  "id": "\\rIn Kalos we have our Mart inside the Centers. It saves on space for our towns. We have enough stores here anyways.",
+  "en": "\\rIn Kalos we have our Mart inside the Centers. It saves on space for our towns. We have enough stores here anyways.",
+  "it": "\\rA Kalos il Market si trova dentro i Centri Pokémon. Così si risparmia spazio nelle città. E poi qui di negozi ne abbiamo già abbastanza."
+ },
+ {
+  "id": "\\bThe world will be ours.",
+  "en": "\\bThe world will be ours.",
+  "it": "\\bIl mondo sarà nostro."
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you. However, he is too tired right now.",
+  "en": "\\rMy Gardevoir can Teleport you. However, he is too tired right now.",
+  "it": "\\rIl mio Gardevoir può teletrasportarti. Però adesso è troppo stanco."
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Cancel]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Cancel]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Novartopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cancel]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cancel]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Novartopoli,Castel Vanità,Annulla]"
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Cancel]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Cancel]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Novartopoli,Castel Vanità,Petroglifari,Annulla]"
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Cancel]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Cancel]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Novartopoli,Castel Vanità,Petroglifari,Cromleburgo,Yantaropoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Cancel]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Cancel]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Novartopoli,Castel Vanità,Petroglifari,Cromleburgo,Yantaropoli,Altoripoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Laverre,Cancel]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Laverre,Cancel]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Novartopoli,Castel Vanità,Petroglifari,Cromleburgo,Yantaropoli,Altoripoli,Romantopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Laverre,Dendemille,Anistar,Cancel]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Laverre,Dendemille,Anistar,Cancel]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Novartopoli,Castel Vanità,Petroglifari,Cromleburgo,Yantaropoli,Altoripoli,Romantopoli,Frescovilla,Fluxopoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Laverre,Dendemille,Anistar,Couriway,Cancel]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Laverre,Dendemille,Anistar,Couriway,Cancel]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Novartopoli,Castel Vanità,Petroglifari,Cromleburgo,Yantaropoli,Altoripoli,Romantopoli,Frescovilla,Fluxopoli,Ponte Mosaico,Annulla]"
+ },
+ {
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Laverre,Dendemille,Anistar,Couriway,Snowbelle,Exit]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Santalune, Camphrier,Cyllage,Geosenge,Shalour,Coumarine, Laverre,Dendemille,Anistar,Couriway,Snowbelle,Exit]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Novartopoli,Castel Vanità,Petroglifari,Cromleburgo,Yantaropoli,Altoripoli,Romantopoli,Frescovilla,Fluxopoli,Ponte Mosaico,Fractalopoli,Esci]"
+ },
+ {
+  "id": "\\bGardevoir",
+  "en": "\\bGardevoir",
+  "it": "\\bGardevoir"
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\rWigglytuff",
+  "en": "\\rWigglytuff",
+  "it": "\\rWigglytuff"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

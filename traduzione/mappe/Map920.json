@@ -1,0 +1,87 @@
+[
+ {
+  "id": "\\rI'm ready.",
+  "en": "\\rI'm ready.",
+  "it": "\\rSono pronta."
+ },
+ {
+  "id": "\\rI need a break. Remember to save often. Wait what?",
+  "en": "\\rI need a break. Remember to save often. Wait what?",
+  "it": "\\rHo bisogno di una pausa. Ricorda di salvare spesso. Aspetta, cosa?"
+ },
+ {
+  "id": "\\rNanijin ga kore o rikai shite imasu ka?",
+  "en": "\\rNanijin ga kore o rikai shite imasu ka?",
+  "it": "\\rNanijin ga kore o rikai shite imasu ka?"
+ },
+ {
+  "id": "\\rAnata ga rikai sureba, Aether Paradise no Master Ball ni tsuite wasurenaide kudasai.",
+  "en": "\\rAnata ga rikai sureba, Aether Paradise no Master Ball ni tsuite wasurenaide kudasai.",
+  "it": "\\rAnata ga rikai sureba, Aether Paradise no Master Ball ni tsuite wasurenaide kudasai."
+ },
+ {
+  "id": "\\bGladion: \\PN? I didn't expect to see anyone else here.",
+  "en": "\\bGladion: \\PN? I didn't expect to see anyone else here.",
+  "it": "\\bIridio: \\PN? Non mi aspettavo di vedere qualcun altro qui."
+ },
+ {
+  "id": "\\bI'm just training one of my Pokémon. Want to help?",
+  "en": "\\bI'm just training one of my Pokémon. Want to help?",
+  "it": "\\bSto solo allenando uno dei miei Pokémon. Vuoi darmi una mano?"
+ },
+ {
+  "id": "\\bGladion: Impressive. I think Silvally will get better soon.",
+  "en": "\\bGladion: Impressive. I think Silvally will get better soon.",
+  "it": "\\bIridio: Notevole. Credo che Silvally migliorerà presto."
+ },
+ {
+  "id": "\\bSo you got lost. I'll help you find your way back.",
+  "en": "\\bSo you got lost. I'll help you find your way back.",
+  "it": "\\bQuindi ti sei perso. Ti aiuterò a ritrovare la strada."
+ },
+ {
+  "id": "Rotom Dex: I think Charizard can take us back if we ever want to go there.",
+  "en": "Rotom Dex: I think Charizard can take us back if we ever want to go there.",
+  "it": "Rotom Dex: Credo che Charizard possa riportarci qui se mai volessimo tornarci."
+ },
+ {
+  "id": "\\bI had my Charizard fly me here.",
+  "en": "\\bI had my Charizard fly me here.",
+  "it": "\\bMi sono fatto portare qui in volo dal mio Charizard."
+ },
+ {
+  "id": "\\bI'm sure one could fly you here too.",
+  "en": "\\bI'm sure one could fly you here too.",
+  "it": "\\bSono sicuro che anche un Charizard potrebbe portarti qui in volo."
+ },
+ {
+  "id": "\\bLet's get a battle in.",
+  "en": "\\bLet's get a battle in.",
+  "it": "\\bFacciamoci una lotta."
+ },
+ {
+  "id": "\\bThis place is great for training.",
+  "en": "\\bThis place is great for training.",
+  "it": "\\bQuesto posto è ottimo per allenarsi."
+ },
+ {
+  "id": "Route 1",
+  "en": "Route 1",
+  "it": "Percorso 1"
+ },
+ {
+  "id": "Paniola",
+  "en": "Paniola",
+  "it": "Paniola"
+ },
+ {
+  "id": "Wela Volcano",
+  "en": "Wela Volcano",
+  "it": "Vulcano Wela"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ }
+]

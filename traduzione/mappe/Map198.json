@@ -1,0 +1,212 @@
+[
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
+  "id": "\\rThere are four stages you could start on. They could be Grass, Water, Rock, or Ice. You have to complete them all to move on.",
+  "en": "\\rThere are four stages you could start on. They could be Grass, Water, Rock, or Ice. You have to complete them all to move on.",
+  "it": "\\rCi sono quattro campi da cui potresti cominciare: Erba, Acqua, Roccia o Ghiaccio. Devi completarli tutti per andare avanti."
+ },
+ {
+  "id": "\\rI'm gonna win!",
+  "en": "\\rI'm gonna win!",
+  "it": "\\rVincerò io!"
+ },
+ {
+  "id": "\\bThis is the Water stage.",
+  "en": "\\bThis is the Water stage.",
+  "it": "\\bQuesto è il campo Acqua."
+ },
+ {
+  "id": "\\bYou are not registered to fight on this stage right now.",
+  "en": "\\bYou are not registered to fight on this stage right now.",
+  "it": "\\bAl momento non sei iscritto per lottare su questo campo."
+ },
+ {
+  "id": "\\bRight this way.",
+  "en": "\\bRight this way.",
+  "it": "\\bDa questa parte, prego."
+ },
+ {
+  "id": "\\bI hope I start on the Ice stage.",
+  "en": "\\bI hope I start on the Ice stage.",
+  "it": "\\bSpero di cominciare dal campo Ghiaccio."
+ },
+ {
+  "id": "\\rMy team is perfect. I'm gonna be the Champion.",
+  "en": "\\rMy team is perfect. I'm gonna be the Champion.",
+  "it": "\\rLa mia squadra è perfetta. Diventerò Campionessa."
+ },
+ {
+  "id": "\\bThis is the Grass stage.",
+  "en": "\\bThis is the Grass stage.",
+  "it": "\\bQuesto è il campo Erba."
+ },
+ {
+  "id": "\\bWe are currently setting it up. Come back in a few minutes.",
+  "en": "\\bWe are currently setting it up. Come back in a few minutes.",
+  "it": "\\bLo stiamo allestendo proprio ora. Torna tra qualche minuto."
+ },
+ {
+  "id": "\\rAs long as I don't go up against a Psychic I'm gonna ace it.",
+  "en": "\\rAs long as I don't go up against a Psychic I'm gonna ace it.",
+  "it": "\\rFinché non mi capita un tipo Psico, sarà una passeggiata."
+ },
+ {
+  "id": "\\rCubone!",
+  "en": "\\rCubone!",
+  "it": "\\rCubone!"
+ },
+ {
+  "id": "\\rHello. Here you can register for the Indigo League.",
+  "en": "\\rHello. Here you can register for the Indigo League.",
+  "it": "\\rSalve. Qui puoi iscriverti alla Lega Indaco."
+ },
+ {
+  "id": "\\rWould you like to register?",
+  "en": "\\rWould you like to register?",
+  "it": "\\rVuoi iscriverti?"
+ },
+ {
+  "id": "\\rGreat! Let's set you up for a battle.",
+  "en": "\\rGreat! Let's set you up for a battle.",
+  "it": "\\rOttimo! Ti preparo per una lotta."
+ },
+ {
+  "id": "\\rAlright, your first battle will be on the Water stage. Good luck!",
+  "en": "\\rAlright, your first battle will be on the Water stage.  Good luck!",
+  "it": "\\rBene, la tua prima lotta sarà sul campo Acqua.  Buona fortuna!"
+ },
+ {
+  "id": "\\rNo problem. Have a good day.",
+  "en": "\\rNo problem. Have a good day.",
+  "it": "\\rNessun problema. Buona giornata."
+ },
+ {
+  "id": "\\rYou have already registered.",
+  "en": "\\rYou have already registered.",
+  "it": "\\rTi sei già iscritto."
+ },
+ {
+  "id": "\\rI've been waiting all year for this!",
+  "en": "\\rI've been waiting all year for this!",
+  "it": "\\rHo aspettato questo momento tutto l'anno!"
+ },
+ {
+  "id": "\\bThis is the Indigo stadium.",
+  "en": "\\bThis is the Indigo stadium.",
+  "it": "\\bQuesto è lo stadio Indaco."
+ },
+ {
+  "id": "\\bCommon Slowpoke, get serious!",
+  "en": "\\bCommon Slowpoke, get serious!",
+  "it": "\\bAndiamo, Slowpoke, fai sul serio!"
+ },
+ {
+  "id": "\\bForget about the battles. Do you see everything they are selling here?",
+  "en": "\\bForget about the battles. Do you see everything they are selling here?",
+  "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
+ },
+ {
+  "id": "\\bI am so ready!",
+  "en": "\\bI am so ready!",
+  "it": "\\bSono prontissimo!"
+ },
+ {
+  "id": "\\bThis is the Rock stage.",
+  "en": "\\bThis is the Rock stage.",
+  "it": "\\bQuesto è il campo Roccia."
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\bSlo..",
+  "en": "\\bSlo..",
+  "it": "\\bSlo.."
+ },
+ {
+  "id": "\\bI'm gonna win!",
+  "en": "\\bI'm gonna win!",
+  "it": "\\bVincerò io!"
+ },
+ {
+  "id": "\\bThis is the Ice stage.",
+  "en": "\\bThis is the Ice stage.",
+  "it": "\\bQuesto è il campo Ghiaccio."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

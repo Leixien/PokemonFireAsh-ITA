@@ -1,0 +1,4342 @@
+sezione	inglese	italiano
+Types	Normal	Normale
+Types	Fighting	Lotta
+Types	Flying	Volante
+Types	Poison	Veleno
+Types	Ground	Terra
+Types	Rock	Roccia
+Types	Bug	Coleottero
+Types	Ghost	Spettro
+Types	Steel	Acciaio
+Types	???	???
+Types	Fire	Fuoco
+Types	Water	Acqua
+Types	Grass	Erba
+Types	Electric	Elettro
+Types	Psychic	Psico
+Types	Ice	Ghiaccio
+Types	Dragon	Drago
+Types	Dark	Buio
+Types	Fairy	Folletto
+Moves	Megahorn	Megacorno
+Moves	Attack Order	Comandourto
+Moves	Bug Buzz	Ronzio
+Moves	First Impression	Primimpatto
+Moves	Pollen Puff	Pollinebomba
+Moves	Leech Life	Sanguisuga
+Moves	Lunge	Assalto
+Moves	X-Scissor	Forbice X
+Moves	Signal Beam	Segnoraggio
+Moves	U-turn	Retromarcia
+Moves	Steamroller	Rulloduro
+Moves	Bug Bite	Coleomorso
+Moves	Silver Wind	Ventargenteo
+Moves	Fell Stinger	Pungiglione
+Moves	Struggle Bug	Entomoblocco
+Moves	Fury Cutter	Tagliofuria
+Moves	Pin Missile	Missilspillo
+Moves	Twineedle	Doppio Ago
+Moves	Infestation	Infestazione
+Moves	Defend Order	Comandoscudo
+Moves	Heal Order	Comandocura
+Moves	Powder	Polverone
+Moves	Quiver Dance	Eledanza
+Moves	Rage Powder	Polverabbia
+Moves	Spider Web	Ragnatela
+Moves	Sticky Web	Rete Vischiosa
+Moves	String Shot	Millebave
+Moves	Tail Glow	Codadiluce
+Moves	Skitter Smack	Assaltozampe
+Moves	Hyperspace Fury	Urtoscasso
+Moves	Foul Play	Ripicca
+Moves	Darkest Lariat	Braccioteso
+Moves	Night Daze	Urtonotturno
+Moves	Crunch	Sgranocchio
+Moves	Dark Pulse	Neropulsar
+Moves	Throat Chop	Malagola
+Moves	Night Slash	Nottesferza
+Moves	Sucker Punch	Sbigoattacco
+Moves	Knock Off	Privazione
+Moves	Assurance	Garanzia
+Moves	Bite	Morso
+Moves	Brutal Swing	Malacoda
+Moves	Feint Attack	Finta
+Moves	Thief	Furto
+Moves	Snarl	Urlorabbia
+Moves	Payback	Rivincita
+Moves	Pursuit	Inseguimento
+Moves	Beat Up	Picchiaduro
+Moves	Fling	Lancio
+Moves	Power Trip	Ondaboria
+Moves	Punishment	Punizione
+Moves	Dark Void	Vuototetro
+Moves	Embargo	Divieto
+Moves	Fake Tears	Falselacrime
+Moves	Flatter	Adulazione
+Moves	Hone Claws	Unghiaguzze
+Moves	Memento	Memento
+Moves	Nasty Plot	Congiura
+Moves	Parting Shot	Monito
+Moves	Quash	Spintone
+Moves	Snatch	Scippo
+Moves	Switcheroo	Rapidscambio
+Moves	Taunt	Provocazione
+Moves	Topsy-Turvy	Sottosopra
+Moves	Torment	Attaccalite
+Moves	Jaw Lock	Morsostretto
+Moves	False Surrender	Finta Resa
+Moves	Obstruct	Sbarramento
+Moves	Wicked Blow	Pugno Oscuro
+Moves	Lash Out	Sfogarabbia
+Moves	Fiery Wrath	Ira Ardente
+Moves	Roar of Time	Fragortempo
+Moves	Draco Meteor	Dragobolide
+Moves	Outrage	Oltraggio
+Moves	Clanging Scales	Clamorsquame
+Moves	Core Enforcer	Nucleoffesa
+Moves	Dragon Rush	Dragospintone
+Moves	Spacial Rend	Fendispazio
+Moves	Dragon Hammer	Martelldrago
+Moves	Dragon Pulse	Dragopulsar
+Moves	Dragon Claw	Dragartigli
+Moves	Dragon Breath	Dragospiro
+Moves	Dragon Tail	Codadrago
+Moves	Dual Chop	Doppiocolpo
+Moves	Twister	Tornado
+Moves	Dragon Rage	Ira di Drago
+Moves	Dragon Dance	Dragodanza
+Moves	Breaking Swipe	Vibrospinta
+Moves	Dragon Darts	Dragofrecce
+Moves	Dynamax Cannon	Cannone Dynamax
+Moves	Eternabeam	Raggio Infinito
+Moves	Clangorous Soul	Clamoranima
+Moves	Scale Shot	Squamaraffica
+Moves	Dragon Energy	Dragoenergia
+Moves	Bolt Strike	Incrofulmine
+Moves	Volt Tackle	Locomovolt
+Moves	Zap Cannon	Elettrocannone
+Moves	Thunder	Tuono
+Moves	Fusion Bolt	Lucesiluro
+Moves	Plasma Fists	Pugni Plasma
+Moves	Thunderbolt	Fulmine
+Moves	Wild Charge	Sprizzalampo
+Moves	Discharge	Scarica
+Moves	Zing Zap	Scossaspina
+Moves	Thunder Punch	Tuonopugno
+Moves	Volt Switch	Invertivolt
+Moves	Parabolic Charge	Caricaparabola
+Moves	Spark	Scintilla
+Moves	Thunder Fang	Fulminzanna
+Moves	Shock Wave	Ondashock
+Moves	Electroweb	Elettrotela
+Moves	Charge Beam	Raggioscossa
+Moves	Thunder Shock	Tuonoshock
+Moves	Nuzzle	Sfrega
+Moves	Electro Ball	Energisfera
+Moves	Charge	Caricaccumulo
+Moves	Eerie Impulse	Impulsostrano
+Moves	Electric Terrain	Campo Elettrico
+Moves	Electrify	Elettrificazione
+Moves	Ion Deluge	Pioggiaplasma
+Moves	Magnet Rise	Magnetascesa
+Moves	Magnetic Flux	Flusso Magnetico
+Moves	Thunder Wave	Tuononda
+Moves	Overdrive	Overdrive
+Moves	Aura Wheel	Ruota d'Aura
+Moves	Bolt Beak	Elettrobecco
+Moves	Rising Voltage	Alta Tensione
+Moves	Thunder Cage	Elettrogabbia
+Moves	Light of Ruin	Luce Rovinosa
+Moves	Fleur Cannon	Cannonfiore
+Moves	Moonblast	Forza Lunare
+Moves	Play Rough	Carineria
+Moves	Dazzling Gleam	Magibrillio
+Moves	Draining Kiss	Assorbibacio
+Moves	Disarming Voice	Incantavoce
+Moves	Fairy Wind	Vento di Fata
+Moves	Aromatic Mist	Aromanebbia
+Moves	Baby-Doll Eyes	Occhioni Teneri
+Moves	Charm	Fascino
+Moves	Crafty Shield	Truccodifesa
+Moves	Fairy Lock	Fatablocco
+Moves	Floral Healing	Curaflora
+Moves	Flower Shield	Fiordifesa
+Moves	Geomancy	Geocontrollo
+Moves	Misty Terrain	Campo Nebbioso
+Moves	Moonlight	Lucelunare
+Moves	Nature's Madness	Ira della Natura
+Moves	Sweet Kiss	Dolcebacio
+Moves	Spirit Break	Spiritoinfranto
+Moves	Decorate	Decorazione
+Moves	Misty Explosion	Esplonebbia
+Moves	Strange Steam	Vaporestrano
+Moves	Focus Punch	Centripugno
+Moves	High Jump Kick	Calcinvolo
+Moves	Close Combat	Zuffa
+Moves	Focus Blast	Focalcolpo
+Moves	Superpower	Troppoforte
+Moves	Cross Chop	Incrocolpo
+Moves	Dynamic Punch	Dinamipugno
+Moves	Flying Press	Schiacciatuffo
+Moves	Hammer Arm	Martelpugno
+Moves	Jump Kick	Calciosalto
+Moves	Sacred Sword	Spadasolenne
+Moves	Secret Sword	Spadamistica
+Moves	Sky Uppercut	Stramontante
+Moves	Aura Sphere	Forzasfera
+Moves	Submission	Sottomissione
+Moves	Brick Break	Breccia
+Moves	Drain Punch	Assorbipugno
+Moves	Vital Throw	Vitaltiro
+Moves	Wake-Up Slap	Svegliopacca
+Moves	Low Sweep	Calciobasso
+Moves	Circle Throw	Ribaltiro
+Moves	Force Palm	Palmoforza
+Moves	Revenge	Vendetta
+Moves	Rolling Kick	Calciorullo
+Moves	Storm Throw	Tempestretta
+Moves	Karate Chop	Colpokarate
+Moves	Mach Punch	Pugnorapido
+Moves	Power-Up Punch	Crescipugno
+Moves	Rock Smash	Spaccaroccia
+Moves	Vacuum Wave	Vuotonda
+Moves	Double Kick	Doppiocalcio
+Moves	Arm Thrust	Sberletese
+Moves	Triple Kick	Triplocalcio
+Moves	Counter	Contrattacco
+Moves	Final Gambit	Azzardo
+Moves	Low Kick	Colpo Basso
+Moves	Reversal	Contropiede
+Moves	Seismic Toss	Movimento Sismico
+Moves	Bulk Up	Granfisico
+Moves	Detect	Individua
+Moves	Mat Block	Tatamiparata
+Moves	Quick Guard	Anticipo
+Moves	Octolock	Octoblocco
+Moves	Meteor Assault	Meteorassalto
+Moves	No Retreat	Senza Ritorno
+Moves	Coaching	Incoraggiamento
+Moves	Body Press	Pressacorpo
+Moves	Thunderous Kick	Tuonocalcio
+Moves	V-create	Generatore V
+Moves	Blast Burn	Incendio
+Moves	Eruption	Eruzione
+Moves	Mind Blown	Sbalorditesta
+Moves	Shell Trap	Gusciotrappola
+Moves	Blue Flare	Fuocoblu
+Moves	Burn Up	Fiammafinale
+Moves	Overheat	Vampata
+Moves	Flare Blitz	Fuococarica
+Moves	Fire Blast	Fuocobomba
+Moves	Fusion Flare	Incrofiamma
+Moves	Inferno	Marchiatura
+Moves	Magma Storm	Magmaclisma
+Moves	Sacred Fire	Magifuoco
+Moves	Searing Shot	Bombafuoco
+Moves	Heat Wave	Ondacalda
+Moves	Flamethrower	Lanciafiamme
+Moves	Blaze Kick	Calciardente
+Moves	Fiery Dance	Fiammridanza
+Moves	Fire Lash	Frustafuoco
+Moves	Fire Pledge	Fiammapatto
+Moves	Lava Plume	Lavasbuffo
+Moves	Fire Punch	Fuocopugno
+Moves	Mystical Fire	Magifiamma
+Moves	Flame Burst	Pirolancio
+Moves	Fire Fang	Rogodenti
+Moves	Flame Wheel	Ruotafuoco
+Moves	Incinerate	Bruciatutto
+Moves	Flame Charge	Nitrocarica
+Moves	Ember	Braciere
+Moves	Fire Spin	Turbofuoco
+Moves	Heat Crash	Pesocalore
+Moves	Sunny Day	Giornodisole
+Moves	Will-O-Wisp	Fuocofatuo
+Moves	Pyro Ball	Palla Brace
+Moves	Burning Jealousy	Invidia Ardente
+Moves	Sky Attack	Aeroattacco
+Moves	Brave Bird	Baldeali
+Moves	Dragon Ascent	Ascesa del Drago
+Moves	Hurricane	Tifone
+Moves	Aeroblast	Aerocolpo
+Moves	Beak Blast	Beccocannone
+Moves	Fly	Volo
+Moves	Bounce	Rimbalzo
+Moves	Drill Peck	Perforbecco
+Moves	Oblivion Wing	Ali del Fato
+Moves	Air Slash	Eterelama
+Moves	Chatter	Schiamazzo
+Moves	Aerial Ace	Aeroassalto
+Moves	Air Cutter	Aerasoio
+Moves	Pluck	Spennata
+Moves	Sky Drop	Cadutalibera
+Moves	Wing Attack	Attacco d'Ala
+Moves	Acrobatics	Acrobazia
+Moves	Gust	Raffica
+Moves	Peck	Beccata
+Moves	Defog	Scacciabruma
+Moves	Feather Dance	Danzadipiume
+Moves	Mirror Move	Speculmossa
+Moves	Roost	Trespolo
+Moves	Tailwind	Ventoincoda
+Moves	Dual Wingbeat	Doppiala
+Moves	Shadow Force	Oscurotuffo
+Moves	Moongeist Beam	Raggio d'Ombra
+Moves	Phantom Force	Spettrotuffo
+Moves	Spectral Thief	Furtombra
+Moves	Shadow Bone	Ossombra
+Moves	Shadow Ball	Palla Ombra
+Moves	Spirit Shackle	Cucitombra
+Moves	Shadow Claw	Ombrartigli
+Moves	Hex	Sciagura
+Moves	Ominous Wind	Funestovento
+Moves	Shadow Punch	Pugnodombra
+Moves	Shadow Sneak	Furtivombra
+Moves	Astonish	Sgomento
+Moves	Lick	Leccata
+Moves	Night Shade	Ombra Notturna
+Moves	Confuse Ray	Stordiraggio
+Moves	Curse	Maledizione
+Moves	Destiny Bond	Destinobbligato
+Moves	Grudge	Rancore
+Moves	Nightmare	Incubo
+Moves	Spite	Dispetto
+Moves	Trick-or-Treat	Halloween
+Moves	Poltergeist	Poltergeist
+Moves	Astral Barrage	Schiera Astrale
+Moves	Frenzy Plant	Radicalbero
+Moves	Leaf Storm	Verdebufera
+Moves	Solar Blade	Solarlama
+Moves	Petal Dance	Petalodanza
+Moves	Power Whip	Vigorcolpo
+Moves	Seed Flare	Infuriaseme
+Moves	Solar Beam	Solarraggio
+Moves	Wood Hammer	Mazzuolegno
+Moves	Energy Ball	Energipalla
+Moves	Leaf Blade	Fendifoglia
+Moves	Petal Blizzard	Fiortempesta
+Moves	Grass Pledge	Erbapatto
+Moves	Seed Bomb	Semebomba
+Moves	Giga Drain	Gigassorbimento
+Moves	Horn Leech	Legnicorno
+Moves	Trop Kick	Calcitropicale
+Moves	Leaf Tornado	Fogliavortice
+Moves	Magical Leaf	Fogliamagica
+Moves	Needle Arm	Pugnospine
+Moves	Razor Leaf	Foglielama
+Moves	Vine Whip	Frustata
+Moves	Leafage	Fogliame
+Moves	Mega Drain	Megassorbimento
+Moves	Bullet Seed	Semitraglia
+Moves	Absorb	Assorbimento
+Moves	Grass Knot	Laccioerboso
+Moves	Aromatherapy	Aromaterapia
+Moves	Cotton Guard	Cotonscudo
+Moves	Cotton Spore	Cottonspora
+Moves	Forest's Curse	Boscomalocchio
+Moves	Grass Whistle	Meloderba
+Moves	Grassy Terrain	Campo Erboso
+Moves	Ingrain	Radicamento
+Moves	Leech Seed	Parassiseme
+Moves	Sleep Powder	Sonnifero
+Moves	Spiky Shield	Agoscudo
+Moves	Spore	Spora
+Moves	Strength Sap	Assorbilinfa
+Moves	Stun Spore	Paralizzante
+Moves	Synthesis	Sintesi
+Moves	Worry Seed	Affannoseme
+Moves	Branch Poke	Colpo di Ramo
+Moves	Drum Beating	Tamburattacco
+Moves	Grav Apple	Gravimela
+Moves	Apple Acid	Acidomela
+Moves	Snap Trap	Tagliola
+Moves	Grassy Glide	Erbascivolata
+Moves	Jungle Healing	Giunglacura
+Moves	Precipice Blades	Lame Telluriche
+Moves	Earthquake	Terremoto
+Moves	High Horsepower	Forza Equina
+Moves	Earth Power	Geoforza
+Moves	Land's Wrath	Ira Terrena
+Moves	Thousand Arrows	Mille Frecce
+Moves	Thousand Waves	Mille Onde
+Moves	Dig	Fossa
+Moves	Drill Run	Giravvita
+Moves	Stomping Tantrum	Rabbiapesta
+Moves	Bone Club	Ossoclava
+Moves	Mud Bomb	Fangobomba
+Moves	Bulldoze	Battiterra
+Moves	Mud Shot	Colpodifango
+Moves	Bonemerang	Ossomerang
+Moves	Sand Tomb	Sabbiotomba
+Moves	Bone Rush	Ossoraffica
+Moves	Mud-Slap	Fangata
+Moves	Fissure	Abisso
+Moves	Magnitude	Magnitudo
+Moves	Mud Sport	Fangosport
+Moves	Rototiller	Aratro
+Moves	Sand Attack	Turbosabbia
+Moves	Shore Up	Raccoglisabbia
+Moves	Spikes	Punte
+Moves	Scorching Sands	Sabbiardente
+Moves	Freeze Shock	Elettrogelo
+Moves	Ice Burn	Bruciagelo
+Moves	Blizzard	Bora
+Moves	Ice Hammer	Martelgelo
+Moves	Ice Beam	Geloraggio
+Moves	Icicle Crash	Cascagelo
+Moves	Ice Punch	Gelopugno
+Moves	Freeze-Dry	Liofilizzazione
+Moves	Aurora Beam	Raggiaurora
+Moves	Glaciate	Gelamondo
+Moves	Ice Fang	Gelodenti
+Moves	Avalanche	Valanga
+Moves	Frost Breath	Alitogelido
+Moves	Icy Wind	Ventogelato
+Moves	Ice Shard	Geloscheggia
+Moves	Powder Snow	Polneve
+Moves	Ice Ball	Palla Gelo
+Moves	Icicle Spear	Gelolancia
+Moves	Sheer Cold	Purogelo
+Moves	Aurora Veil	Velaurora
+Moves	Hail	Grandine
+Moves	Haze	Nube
+Moves	Mist	Nebbia
+Moves	Triple Axel	Triplo Axel
+Moves	Glacial Lance	Lancia Glaciale
+Moves	Explosion	Esplosione
+Moves	Self-Destruct	Autodistruzione
+Moves	Giga Impact	Gigaimpatto
+Moves	Hyper Beam	Iper Raggio
+Moves	Boomburst	Ondaboato
+Moves	Last Resort	Ultimascelta
+Moves	Skull Bash	Capocciata
+Moves	Double-Edge	Sdoppiatore
+Moves	Head Charge	Zuccata
+Moves	Mega Kick	Megacalcio
+Moves	Techno Blast	Tecnobotto
+Moves	Thrash	Colpo
+Moves	Egg Bomb	Uovobomba
+Moves	Judgment	Giudizio
+Moves	Hyper Voice	Granvoce
+Moves	Multi-Attack	Multiattacco
+Moves	Revelation Dance	Danza Rivelatrice
+Moves	Rock Climb	Scalaroccia
+Moves	Take Down	Riduttore
+Moves	Uproar	Baraonda
+Moves	Body Slam	Corposcontro
+Moves	Extreme Speed	Extrarapido
+Moves	Hyper Fang	Iperzanna
+Moves	Mega Punch	Megapugno
+Moves	Razor Wind	Ventagliente
+Moves	Slam	Schianto
+Moves	Strength	Forza
+Moves	Tri Attack	Tripletta
+Moves	Crush Claw	Tritartigli
+Moves	Relic Song	Cantoantico
+Moves	Chip Away	Insidia
+Moves	Dizzy Punch	Stordipugno
+Moves	Facade	Facciata
+Moves	Headbutt	Bottintesta
+Moves	Retaliate	Nemesi
+Moves	Secret Power	Forzasegreta
+Moves	Slash	Lacerazione
+Moves	Smelling Salts	Maniereforti
+Moves	Horn Attack	Incornata
+Moves	Stomp	Pestone
+Moves	Covet	Supplica
+Moves	Hidden Power	Introforza
+Moves	Round	Coro
+Moves	Swift	Comete
+Moves	Vise Grip	Presa
+Moves	Cut	Taglio
+Moves	Snore	Russare
+Moves	Struggle	Scontro
+Moves	Weather Ball	Palla Clima
+Moves	Echoed Voice	Echeggiavoce
+Moves	Fake Out	Bruciapelo
+Moves	False Swipe	Falsofinale
+Moves	Hold Back	Riguardo
+Moves	Pay Day	Giornopaga
+Moves	Pound	Botta
+Moves	Quick Attack	Attacco Rapido
+Moves	Scratch	Graffio
+Moves	Tackle	Azione
+Moves	Double Hit	Doppiosmash
+Moves	Feint	Fintoattacco
+Moves	Tail Slap	Codaschiaffo
+Moves	Rage	Ira
+Moves	Rapid Spin	Rapigiro
+Moves	Spike Cannon	Sparalance
+Moves	Comet Punch	Cometapugno
+Moves	Fury Swipes	Sfuriate
+Moves	Barrage	Attacco Pioggia
+Moves	Bind	Legatutto
+Moves	Double Slap	Doppiasberla
+Moves	Fury Attack	Furia
+Moves	Wrap	Avvolgibotta
+Moves	Constrict	Limitazione
+Moves	Bide	Pazienza
+Moves	Crush Grip	Sbriciolmano
+Moves	Endeavor	Rimonta
+Moves	Flail	Flagello
+Moves	Frustration	Frustrazione
+Moves	Guillotine	Ghigliottina
+Moves	Horn Drill	Perforcorno
+Moves	Natural Gift	Dononaturale
+Moves	Present	Regalino
+Moves	Return	Ritorno
+Moves	Sonic Boom	Sonicboom
+Moves	Spit Up	Sfoghenergia
+Moves	Super Fang	Superzanna
+Moves	Trump Card	Asso
+Moves	Wring Out	Strizzata
+Moves	Acupressure	Acupressione
+Moves	After You	Cortesia
+Moves	Assist	Assistente
+Moves	Attract	Attrazione
+Moves	Baton Pass	Staffetta
+Moves	Belly Drum	Panciamburo
+Moves	Bestow	Cediregalo
+Moves	Block	Blocco
+Moves	Camouflage	Camuffamento
+Moves	Captivate	Incanto
+Moves	Celebrate	Festeggiamento
+Moves	Confide	Confidenza
+Moves	Conversion	Conversione
+Moves	Conversion 2	Conversione2
+Moves	Copycat	Copione
+Moves	Defense Curl	Ricciolscudo
+Moves	Disable	Inibitore
+Moves	Double Team	Doppioteam
+Moves	Encore	Ripeti
+Moves	Endure	Resistenza
+Moves	Entrainment	Coinvolgimento
+Moves	Flash	Flash
+Moves	Focus Energy	Focalenergia
+Moves	Follow Me	Sonoqui
+Moves	Foresight	Preveggenza
+Moves	Glare	Bagliore
+Moves	Growl	Ruggito
+Moves	Growth	Crescita
+Moves	Happy Hour	Happy Hour
+Moves	Harden	Rafforzatore
+Moves	Heal Bell	Rintoccasana
+Moves	Helping Hand	Altruismo
+Moves	Hold Hands	Manoinmano
+Moves	Howl	Gridodilotta
+Moves	Laser Focus	Concentrazione
+Moves	Leer	Fulmisguardo
+Moves	Lock-On	Localizza
+Moves	Lovely Kiss	Demonbacio
+Moves	Lucky Chant	Fortuncanto
+Moves	Me First	Precedenza
+Moves	Mean Look	Malosguardo
+Moves	Metronome	Metronomo
+Moves	Milk Drink	Bevilatte
+Moves	Mimic	Mimica
+Moves	Mind Reader	Leggimente
+Moves	Minimize	Minimizzato
+Moves	Morning Sun	Mattindoro
+Moves	Nature Power	Naturforza
+Moves	Noble Roar	Urlo
+Moves	Odor Sleuth	Segugio
+Moves	Pain Split	Malcomune
+Moves	Perish Song	Ultimocanto
+Moves	Play Nice	Simpatia
+Moves	Protect	Protezione
+Moves	Psych Up	Psicamisù
+Moves	Recover	Ripresa
+Moves	Recycle	Riciclo
+Moves	Reflect Type	Copiatipo
+Moves	Refresh	Rinfrescata
+Moves	Roar	Boato
+Moves	Safeguard	Salvaguardia
+Moves	Scary Face	Visotruce
+Moves	Screech	Stridio
+Moves	Sharpen	Affilatore
+Moves	Shell Smash	Gettaguscio
+Moves	Simple Beam	Semplicioraggio
+Moves	Sing	Canto
+Moves	Sketch	Schizzo
+Moves	Slack Off	Pigro
+Moves	Sleep Talk	Sonnolalia
+Moves	Smokescreen	Muro di Fumo
+Moves	Soft-Boiled	Covauova
+Moves	Splash	Splash
+Moves	Spotlight	Riflettore
+Moves	Stockpile	Accumulo
+Moves	Substitute	Sostituto
+Moves	Supersonic	Supersuono
+Moves	Swagger	Bullo
+Moves	Swallow	Introenergia
+Moves	Sweet Scent	Profumino
+Moves	Swords Dance	Danzaspada
+Moves	Tail Whip	Colpocoda
+Moves	Tearful Look	Lacrimucce
+Moves	Teeter Dance	Strampadanza
+Moves	Tickle	Solletico
+Moves	Transform	Trasformazione
+Moves	Whirlwind	Turbine
+Moves	Wish	Desiderio
+Moves	Work Up	Cuordileone
+Moves	Yawn	Sbadiglio
+Moves	Court Change	Cambiocampo
+Moves	Stuff Cheeks	Rimpinzata
+Moves	Teatime	Ora del Tè
+Moves	Terrain Pulse	Campodiforza
+Moves	Belch	Sdegno
+Moves	Gunk Shot	Sporcolancio
+Moves	Sludge Wave	Fanghonda
+Moves	Sludge Bomb	Fangobomba
+Moves	Poison Jab	Velenpuntura
+Moves	Cross Poison	Velenocroce
+Moves	Sludge	Fango
+Moves	Venoshock	Velenoshock
+Moves	Clear Smog	Pulifumo
+Moves	Poison Fang	Velenodenti
+Moves	Poison Tail	Velenocoda
+Moves	Acid	Acido
+Moves	Acid Spray	Acidobomba
+Moves	Smog	Smog
+Moves	Poison Sting	Velenospina
+Moves	Acid Armor	Acidarmatura
+Moves	Baneful Bunker	Fortino
+Moves	Coil	Arrotola
+Moves	Gastro Acid	Gastroacido
+Moves	Poison Gas	Velenogas
+Moves	Poison Powder	Velenpolvere
+Moves	Purify	Purificazione
+Moves	Toxic	Tossina
+Moves	Toxic Spikes	Fielepunte
+Moves	Toxic Thread	Velenotela
+Moves	Venom Drench	Velenotrappola
+Moves	Corrosive Gas	Gas Corrosivo
+Moves	Shell Side Arm	Conchilancio
+Moves	Prismatic Laser	Laser Prisma
+Moves	Psycho Boost	Psicoslancio
+Moves	Future Sight	Divinazione
+Moves	Synchronoise	Sincrumore
+Moves	Dream Eater	Mangiasogni
+Moves	Photon Geyser	Geyser Fotonico
+Moves	Psystrike	Psicobotta
+Moves	Psychic	Psichico
+Moves	Psychic Fangs	Psicozanne
+Moves	Extrasensory	Extrasenso
+Moves	Hyperspace Hole	Forolargo
+Moves	Psyshock	Psicoshock
+Moves	Zen Headbutt	Cozzata Zen
+Moves	Luster Purge	Abbagliante
+Moves	Mist Ball	Foschisfera
+Moves	Psycho Cut	Psicotaglio
+Moves	Psybeam	Psicoraggio
+Moves	Heart Stamp	Cuorestampo
+Moves	Confusion	Confusione
+Moves	Stored Power	Veicolaforza
+Moves	Mirror Coat	Specchiovelo
+Moves	Psywave	Psicoonda
+Moves	Agility	Agilità
+Moves	Ally Switch	Cambiaposto
+Moves	Amnesia	Amnesia
+Moves	Barrier	Barriera
+Moves	Calm Mind	Calmamente
+Moves	Cosmic Power	Cosmoforza
+Moves	Gravity	Gravità
+Moves	Guard Split	Paridifesa
+Moves	Guard Swap	Barattoscudo
+Moves	Heal Block	Anticura
+Moves	Heal Pulse	Pulsocura
+Moves	Healing Wish	Curardore
+Moves	Heart Swap	Cuorbaratto
+Moves	Hypnosis	Ipnosi
+Moves	Imprison	Esclusiva
+Moves	Instruct	Comando
+Moves	Kinesis	Cinèsi
+Moves	Light Screen	Schermoluce
+Moves	Lunar Dance	Lunardanza
+Moves	Magic Coat	Magivelo
+Moves	Magic Room	Magicozona
+Moves	Meditate	Meditazione
+Moves	Miracle Eye	Miracolvista
+Moves	Power Split	Pariattacco
+Moves	Power Swap	Barattoforza
+Moves	Power Trick	Ingannoforza
+Moves	Psychic Terrain	Psicocampo
+Moves	Psycho Shift	Psicotrasfer
+Moves	Reflect	Riflesso
+Moves	Rest	Riposo
+Moves	Role Play	Giocodiruolo
+Moves	Skill Swap	Baratto
+Moves	Speed Swap	Scambiavelocità
+Moves	Telekinesis	Telecinesi
+Moves	Teleport	Teletrasporto
+Moves	Trick	Raggiro
+Moves	Trick Room	Distortozona
+Moves	Wonder Room	Mirabilzona
+Moves	Magic Powder	Magipolvere
+Moves	Expanding Force	Forzespansione
+Moves	Eerie Spell	Formula Arcana
+Moves	Freezing Glare	Sguardo Gelido
+Moves	Head Smash	Capocciata
+Moves	Rock Wrecker	Devastomasso
+Moves	Diamond Storm	Diamantempesta
+Moves	Stone Edge	Pietrataglio
+Moves	Power Gem	Gemmoforza
+Moves	Rock Slide	Frana
+Moves	Ancient Power	Forzantica
+Moves	Rock Tomb	Rocciotomba
+Moves	Rock Throw	Sassata
+Moves	Smack Down	Abbattimento
+Moves	Accelerock	Saltoroccia
+Moves	Rollout	Rotolamento
+Moves	Rock Blast	Cadutamassi
+Moves	Rock Polish	Lucidatura
+Moves	Sandstorm	Terrempesta
+Moves	Stealth Rock	Levitoroccia
+Moves	Wide Guard	Ampioscudo
+Moves	Tar Shot	Catramonata
+Moves	Meteor Beam	Raggiometeora
+Moves	Doom Desire	Desiofato
+Moves	Iron Tail	Codacciaio
+Moves	Sunsteel Strike	Meteoimpatto
+Moves	Meteor Mash	Meteorpugno
+Moves	Anchor Shot	Ancorcolpo
+Moves	Flash Cannon	Cannonflash
+Moves	Iron Head	Metaltestata
+Moves	Smart Strike	Perforcorno
+Moves	Steel Wing	Alacciaio
+Moves	Double Iron Bash	Pugni Rotanti
+Moves	Mirror Shot	Cristalcolpo
+Moves	Magnet Bomb	Bombagnete
+Moves	Gear Grind	Ingracolpo
+Moves	Metal Claw	Ferrartigli
+Moves	Bullet Punch	Pugnoscarica
+Moves	Gyro Ball	Vortexpalla
+Moves	Heavy Slam	Pesobomba
+Moves	Metal Burst	Metalscoppio
+Moves	Autotomize	Sganciapesi
+Moves	Gear Up	Ingranaggi
+Moves	Iron Defense	Ferroscudo
+Moves	King's Shield	Scudo Reale
+Moves	Metal Sound	Ferrostrido
+Moves	Shift Gear	Marcia
+Moves	Behemoth Bash	Scudosolenne
+Moves	Behemoth Blade	Spadasolenne
+Moves	Steel Roller	Rulloduro
+Moves	Steel Beam	Raggiacciaio
+Moves	Hydro Cannon	Idrocannone
+Moves	Water Spout	Zampillo
+Moves	Hydro Pump	Idropompa
+Moves	Origin Pulse	Primopulsar
+Moves	Steam Eruption	Vaporscoppio
+Moves	Crabhammer	Martellata
+Moves	Aqua Tail	Idrondata
+Moves	Muddy Water	Fanghiglia
+Moves	Sparkling Aria	Bollaria
+Moves	Surf	Surf
+Moves	Liquidation	Acquadirompente
+Moves	Dive	Sub
+Moves	Scald	Idrovampata
+Moves	Water Pledge	Acquapatto
+Moves	Waterfall	Cascata
+Moves	Razor Shell	Conchilama
+Moves	Brine	Acquadisale
+Moves	Bubble Beam	Bollaraggio
+Moves	Octazooka	Octazooka
+Moves	Water Pulse	Idropulsar
+Moves	Aqua Jet	Acquagetto
+Moves	Bubble	Bolla
+Moves	Water Gun	Pistolacqua
+Moves	Clamp	Tenaglia
+Moves	Whirlpool	Mulinello
+Moves	Water Shuriken	Acqualame
+Moves	Aqua Ring	Acquanello
+Moves	Rain Dance	Pioggiadanza
+Moves	Soak	Inzuppata
+Moves	Water Sport	Docciascudo
+Moves	Withdraw	Ritirata
+Moves	Snipe Shot	Tiromirato
+Moves	Fishious Rend	Branchiatesta
+Moves	Life Dew	Vitarugiada
+Moves	Surging Strikes	Idroraffica
+Moves	Flip Turn	Virata
+Moves	Breakneck Blitz	Turbocarica Folle
+Moves	All-Out Pummeling	Pugni Senza Freni
+Moves	Supersonic Skystrike	Volo Supersonico
+Moves	Acid Downpour	Pioggia Acida
+Moves	Tectonic Rage	Ira Tettonica
+Moves	Continental Crush	Crollo Continentale
+Moves	Savage Spin-Out	Spirale Selvaggia
+Moves	Never-Ending Nightmare	Incubo Senza Fine
+Moves	Corkscrew Crash	Trivella Rovinosa
+Moves	Inferno Overdrive	Iperinferno
+Moves	Hydro Vortex	Idrovortice
+Moves	Bloom Doom	Fioritura Fatale
+Moves	Gigavolt Havoc	Gigavolt Devastante
+Moves	Shattered Psyche	Psiche Frantumata
+Moves	Subzero Slammer	Schianto Sottozero
+Moves	Devastating Drake	Drago Devastante
+Moves	Black Hole Eclipse	Eclissi Buco Nero
+Moves	Twinkle Tackle	Carica Scintillante
+Moves	Stoked Sparksurfer	Surf Elettrizzante
+Moves	Sinister Arrow Raid	Pioggia di Frecce
+Moves	Malicious Moonsault	Lunasalto Maligno
+Moves	Oceanic Operetta	Operetta Oceanica
+Moves	Extreme Evoboost	Evoboost Estremo
+Moves	Catastropika	Catastropika
+Moves	Pulverizing Pancake	Spianata Polverizzante
+Moves	Genesis Supernova	Supernova Genesi
+Moves	Guardian of Alola	Guardiano di Alola
+Moves	Soul-Stealing 7-Star Strike	Colpo Rubanima 7 Stelle
+Moves	10,000,000 Volt Tunderbolt	Fulmine da 10.000.000 Volt
+Moves	Clangorous Soulblaze	Fiammanima Fragorosa
+Moves	Menacing Moonraze Maelstrom	Vortice Lunafiamma
+Moves	Splintered Stormshards	Tempesta di Schegge
+Moves	Let's Snuggle Forever	Coccole Infinite
+Moves	Searing Sunraze Smash	Impatto Solarfiamma
+Moves	Light That Burns the Sky	Luce che Arde il Cielo
+Moves	Max Guard	Barriera Max
+Moves	Max Knuckle	Nocca Max
+Moves	Max Steelspike	Acciaiospina Max
+Moves	Max Ooze	Acido Max
+Moves	Max Quake	Sisma Max
+Moves	Max Airstream	Corrente Max
+Moves	Max Wyrmwind	Dragovento Max
+Moves	Max Phantasm	Spettro Max
+Moves	Max Flutterby	Svolazzo Max
+Moves	Max Darkness	Tenebre Max
+Moves	Max Strike	Attacco Max
+Moves	Max Flare	Fiammata Max
+Moves	Max Geyser	Geyser Max
+Moves	Max Hailstorm	Grandine Max
+Moves	Max Rockfall	Macigno Max
+Moves	Max Overgrowth	Vegetazione Max
+Moves	Max Lightning	Fulmine Max
+Moves	Max Starfall	Stelle Max
+Moves	Max Mindstorm	Psicoattacco Max
+Moves	G-Max Vine Lash	Gigafrustata
+Moves	G-Max Wildfire	Gigarogo
+Moves	G-Max Cannonade	Gigacannonata
+Moves	G-Max Volcalith	Gigarocciafuoco
+Moves	G-Max Drum Solo	Gigarullio
+Moves	G-Max Fireball	Gigafiammata
+Moves	G-Max Hydrosnipe	Gigatiromirato
+Moves	G-Max Volt Crash	Gigascarica
+Moves	G-Max Malodor	Gigafetore
+Moves	G-Max Stun Shock	Gigatossiscossa
+Moves	G-Max Befuddle	Gigastordimento
+Moves	G-Max Smite	Gigacastigo
+Moves	G-Max Gold Rush	Gigamonete
+Moves	G-Max Stonesurge	Gigagettopietre
+Moves	G-Max Steelsurge	Gigacciaiopunte
+Moves	G-Max Centiferno	Gigacentinferno
+Moves	G-Max Sandblast	Gigasabbiatura
+Moves	G-Max Foam Burst	Gigaschiuma
+Moves	G-Max Wind Rage	Gigaciclone
+Moves	G-Max Gravitas	Gigagravità
+Moves	G-Max Finale	Gigafinale
+Moves	G-Max Sweetness	Gigadolcezza
+Moves	G-Max Tartness	Gigasprizzacido
+Moves	G-Max Replenish	Gigaricarica
+Moves	G-Max Depletion	Gigaprosciugo
+Moves	G-Max Resonance	Gigarisonanza
+Moves	G-Max Chi Strike	Gigapugno
+Moves	G-Max Terror	Gigaombra
+Moves	G-Max Snooze	Gigasbadiglio
+Moves	G-Max Cuddle	Gigabbraccio
+Moves	G-Max Meltdown	Gigafusione
+Moves	G-Max One Blow	Gigacolpo Unico
+Moves	G-Max Rapid Flow	Gigacolpo Fluido
+Moves	Dire Claw	Funestartigli
+Moves	Psyshield Bash	Psicoscudo
+Moves	Power Shift	Invertiforza
+Moves	Stone Axe	Asciapietra
+Moves	Springtide Storm	Bufera Primaverile
+Moves	Mystical Power	Forza Mistica
+Moves	Raging Fury	Furibondo
+Moves	Wave Crash	Ondaschianto
+Moves	Chloroblast	Clorobomba
+Moves	Mountain Gale	Ventomontano
+Moves	Victory Dance	Danzavittoria
+Moves	Headlong Rush	Sfondamento
+Moves	Barb Barrage	Spinaraffica
+Moves	Esper Wing	Psicoala
+Moves	Bitter Malice	Rancore Amaro
+Moves	Shelter	Rifugio
+Moves	Triple Arrows	Triplofreccia
+Moves	Infernal Parade	Parata Infernale
+Moves	Ceaseless Edge	Lamincessante
+Moves	Bleakwind Storm	Ventotetro
+Moves	Wildbolt Storm	Fulminbufera
+Moves	Sandsear Storm	Sabbiardente
+Moves	Lunar Blessing	Lunabenedizione
+Moves	Take Heart	Animoforza
+Items	Repel	Repellente
+Items	Super Repel	Superrepellente
+Items	Max Repel	Repellente Max
+Items	Black Flute	Flauto Nero
+Items	White Flute	Flauto Bianco
+Items	Honey	Miele
+Items	Escape Rope	Fune di Fuga
+Items	Red Shard	Coccio Rosso
+Items	Yellow Shard	Coccio Giallo
+Items	Blue Shard	Coccio Blu
+Items	Green Shard	Coccio Verde
+Items	Fire Stone	Pietrafocaia
+Items	Thunder Stone	Pietratuono
+Items	Water Stone	Pietraidrica
+Items	Leaf Stone	Pietrafoglia
+Items	Moon Stone	Pietralunare
+Items	Sun Stone	Pietrasolare
+Items	Dusk Stone	Neropietra
+Items	Dawn Stone	Pietralbore
+Items	Shiny Stone	Pietrabrillo
+Items	Red Apricorn	Ghicocca Rossa
+Items	Yellow Apricorn	Ghicocca Gialla
+Items	Blue Apricorn	Ghicocca Blu
+Items	Green Apricorn	Ghicocca Verde
+Items	Pink Apricorn	Ghicocca Rosa
+Items	White Apricorn	Ghicocca Bianca
+Items	Black Apricorn	Ghicocca Nera
+Items	Helix Fossil	Helixfossile
+Items	Dome Fossil	Domofossile
+Items	Old Amber	Ambra Antica
+Items	Root Fossil	Radifossile
+Items	Claw Fossil	Fossilunghia
+Items	Skull Fossil	Fossiltesta
+Items	Armor Fossil	Fossilscudo
+Items	Cover Fossil	Fossilcoperchio
+Items	Plume Fossil	Fossilpiuma
+Items	Pretty Feather	Piuma Bella
+Items	Tiny Mushroom	Minifungo
+Items	Big Mushroom	Grande Fungo
+Items	Balm Mushroom	Fungo Balsamico
+Items	Pearl	Perla
+Items	Big Pearl	Grande Perla
+Items	Pearl String	Filo di Perle
+Items	Stardust	Polvere Stella
+Items	Star Piece	Pezzo Stella
+Items	Comet Shard	Pezzo Cometa
+Items	Nugget	Pepita
+Items	Big Nugget	Pepitone
+Items	Heart Scale	Squama Cuore
+Items	Slowpoke Tail	Codaslowpoke
+Items	Rare Bone	Osso Raro
+Items	Relic Copper	Rame Antico
+Items	Relic Silver	Argento Antico
+Items	Relic Gold	Oro Antico
+Items	Relic Vase	Vaso Antico
+Items	Relic Band	Bracciale Antico
+Items	Relic Statue	Statua Antica
+Items	Relic Crown	Corona Antica
+Items	Growth Mulch	Fertilcrescita
+Items	Damp Mulch	Fertilumido
+Items	Stable Mulch	Fertilstabile
+Items	Gooey Mulch	Fertilcolla
+Items	Shoal Salt	Sale Ondoso
+Items	Shoal Shell	Conchiglia Ondosa
+Items	Odd Keystone	Roccia Speciale
+Items	Air Balloon	Palloncino
+Items	Bright Powder	Luminpolvere
+Items	Eviolite	Evolcondensa
+Items	Float Stone	Pietralieve
+Items	Destiny Knot	Nastrodestino
+Items	Rocky Helmet	Bitorzolelmo
+Items	Eject Button	Pulsantefuga
+Items	Red Card	Cartelrosso
+Items	Shed Shell	Disfoguscio
+Items	Smoke Ball	Palla Fumo
+Items	Lucky Egg	Fortunuovo
+Items	Exp. Share	Condividi Esp.
+Items	Amulet Coin	Monetamuleto
+Items	Soothe Bell	Calmanella
+Items	Cleanse Tag	Velopuro
+Items	Choice Band	Bendascelta
+Items	Choice Specs	Lentiscelta
+Items	Choice Scarf	Stolascelta
+Items	Heat Rock	Rocciacalda
+Items	Damp Rock	Rocciaumida
+Items	Smooth Rock	Roccialiscia
+Items	Icy Rock	Rocciafredda
+Items	Light Clay	Creta Luce
+Items	Grip Claw	Presartigli
+Items	Binding Band	Fascia Legante
+Items	Big Root	Granradice
+Items	Black Sludge	Fangopece
+Items	Leftovers	Avanzi
+Items	Shell Bell	Conchinella
+Items	Mental Herb	Mentalerba
+Items	White Herb	Erbachiara
+Items	Power Herb	Erbavigore
+Items	Absorb Bulb	Bulbo
+Items	Cell Battery	Ricaripila
+Items	Life Orb	Assorbisfera
+Items	Expert Belt	Abilcintura
+Items	Metronome	Metronomo
+Items	Muscle Band	Muscolbanda
+Items	Wise Glasses	Saggiolenti
+Items	Razor Claw	Affilartigli
+Items	Scope Lens	Mirino
+Items	Wide Lens	Grandelente
+Items	Zoom Lens	Zoomlente
+Items	King's Rock	Roccia di Re
+Items	Razor Fang	Affilodente
+Items	Lagging Tail	Rallentocoda
+Items	Quick Claw	Rapidartigli
+Items	Focus Band	Bandana
+Items	Focus Sash	Focalnastro
+Items	Flame Orb	Fiammosfera
+Items	Toxic Orb	Tossicsfera
+Items	Sticky Barb	Vischiopunta
+Items	Iron Ball	Ferropalla
+Items	Ring Target	Facilsaglio
+Items	Macho Brace	Crescicappa
+Items	Power Weight	Vigorpeso
+Items	Power Bracer	Vigorcerchio
+Items	Power Belt	Vigorfascia
+Items	Power Lens	Vigorlente
+Items	Power Band	Vigorbanda
+Items	Power Anklet	Vigorgliera
+Items	Lax Incense	Distraroma
+Items	Full Incense	Gonfiaroma
+Items	Luck Incense	Fortunaroma
+Items	Pure Incense	Puroaroma
+Items	Sea Incense	Marearoma
+Items	Wave Incense	Ondaroma
+Items	Rose Incense	Rosaroma
+Items	Odd Incense	Bizzoaroma
+Items	Rock Incense	Rocciaroma
+Items	Charcoal	Carbonella
+Items	Mystic Water	Acqua Mistica
+Items	Magnet	Calamita
+Items	Miracle Seed	Miracolseme
+Items	Never-Melt Ice	Gelomai
+Items	Black Belt	Cinturanera
+Items	Poison Barb	Velenaculeo
+Items	Soft Sand	Sabbia Soffice
+Items	Sharp Beak	Beccaffilato
+Items	Twisted Spoon	Cucchiaio Torto
+Items	Silver Powder	Argenpolvere
+Items	Hard Stone	Pietradura
+Items	Spell Tag	Spettrotarga
+Items	Dragon Fang	Dente di Drago
+Items	Black Glasses	Occhialineri
+Items	Metal Coat	Metalcoperta
+Items	Silk Scarf	Sciarpa Seta
+Items	Flame Plate	Lastrarogo
+Items	Splash Plate	Lastraidro
+Items	Zap Plate	Lastrasaetta
+Items	Meadow Plate	Lastraprato
+Items	Icicle Plate	Lastragelo
+Items	Fist Plate	Lastrapugno
+Items	Toxic Plate	Lastrafiele
+Items	Earth Plate	Lastrageo
+Items	Sky Plate	Lastracielo
+Items	Mind Plate	Lastramente
+Items	Insect Plate	Lastrabaco
+Items	Stone Plate	Lastrapietra
+Items	Spooky Plate	Lastratetra
+Items	Draco Plate	Lastradrakon
+Items	Dread Plate	Lastratimore
+Items	Iron Plate	Lastraferro
+Items	Fire Gem	Bijoufuoco
+Items	Water Gem	Bijouacqua
+Items	Electric Gem	Bijouelettro
+Items	Grass Gem	Bijouerba
+Items	Ice Gem	Bijoughiaccio
+Items	Fighting Gem	Bijoulotta
+Items	Poison Gem	Bijouveleno
+Items	Ground Gem	Bijouterra
+Items	Flying Gem	Bijouvolante
+Items	Psychic Gem	Bijoupsico
+Items	Bug Gem	Bijoucoleottero
+Items	Rock Gem	Bijouroccia
+Items	Ghost Gem	Bijouspettro
+Items	Dragon Gem	Bijoudrago
+Items	Dark Gem	Bijoubuio
+Items	Steel Gem	Bijouacciaio
+Items	Normal Gem	Bijounormale
+Items	Light Ball	Elettropalla
+Items	Lucky Punch	Fortunpugno
+Items	Metal Powder	Metalpolvere
+Items	Quick Powder	Velopolvere
+Items	Thick Club	Ossospesso
+Items	Leek	Porro
+Items	Soul Dew	Cuorugiada
+Items	Deep Sea Tooth	Dente Abissi
+Items	Deep Sea Scale	Squama Abissi
+Items	Adamant Orb	Adamasfera
+Items	Lustrous Orb	Splendisfera
+Items	Griseous Orb	Grigiosfera
+Items	Douse Drive	Idromodulo
+Items	Shock Drive	Voltmodulo
+Items	Burn Drive	Piromodulo
+Items	Chill Drive	Gelomodulo
+Items	Everstone	Pietrastante
+Items	Dragon Scale	Squama Drago
+Items	Upgrade	Upgrade
+Items	Dubious Disc	Dubbiodisco
+Items	Protector	Protettore
+Items	Electirizer	Elettritore
+Items	Magmarizer	Magmatore
+Items	Reaper Cloth	Terrorpanno
+Items	Prism Scale	Squama Bella
+Items	Oval Stone	Pietraovale
+Items	Red Scarf	Fascia Rossa
+Items	Blue Scarf	Fascia Blu
+Items	Pink Scarf	Fascia Rosa
+Items	Green Scarf	Fascia Verde
+Items	Yellow Scarf	Fascia Gialla
+Items	Potion	Pozione
+Items	Super Potion	Superpozione
+Items	Hyper Potion	Iperpozione
+Items	Max Potion	Pozione Max
+Items	Full Restore	Ricarica Totale
+Items	Sacred Ash	Cenere Magica
+Items	Awakening	Sveglia
+Items	Antidote	Antidoto
+Items	Burn Heal	Antiscottatura
+Items	Paralyze Heal	Antiparalisi
+Items	Ice Heal	Antigelo
+Items	Full Heal	Cura Totale
+Items	Lava Cookie	Lavottino
+Items	Old Gateau	Dolce Gateau
+Items	Casteliacone	Conostropoli
+Items	Revive	Revitalizzante
+Items	Max Revive	Revitalizzante Max
+Items	Berry Juice	Succo di Bacca
+Items	Rage Candy Bar	Iramella
+Items	Sweet Heart	Dolcecuore
+Items	Fresh Water	Acqua Fresca
+Items	Soda Pop	Gassosa
+Items	Lemonade	Lemonsucco
+Items	Moomoo Milk	Latte Mumu
+Items	Energy Powder	Polvenergia
+Items	Energy Root	Radicenergia
+Items	Heal Powder	Polvocura
+Items	Revival Herb	Vitalerba
+Items	Ether	Etere
+Items	Max Ether	Etere Max
+Items	Elixir	Elisir
+Items	Max Elixir	Elisir Max
+Items	PP Up	PP-Su
+Items	PP Max	PP-Max
+Items	HP Up	PS-Su
+Items	Protein	Proteina
+Items	Iron	Ferro
+Items	Calcium	Calcio
+Items	Zinc	Zinco
+Items	Carbos	Carburante
+Items	Health Feather	Piumsalute
+Items	Muscle Feather	Piumpotenza
+Items	Resist Feather	Piumtenacia
+Items	Genius Feather	Piumingegno
+Items	Clever Feather	Piumintuito
+Items	Swift Feather	Piumvelocità
+Items	Rare Candy	Caramella Rara
+Items	Master Ball	Master Ball
+Items	Ultra Ball	Ultra Ball
+Items	Great Ball	Mega Ball
+Items	Poké Ball	Poké Ball
+Items	Safari Ball	Safari Ball
+Items	Sport Ball	Gara Ball
+Items	Net Ball	Rete Ball
+Items	Dive Ball	Sub Ball
+Items	Nest Ball	Minor Ball
+Items	Repeat Ball	Bis Ball
+Items	Timer Ball	Timer Ball
+Items	Luxury Ball	Chic Ball
+Items	Premier Ball	Premier Ball
+Items	Dusk Ball	Scuro Ball
+Items	Heal Ball	Cura Ball
+Items	Quick Ball	Velox Ball
+Items	Cherish Ball	Pregio Ball
+Items	Fast Ball	Rapid Ball
+Items	Level Ball	Level Ball
+Items	Lure Ball	Esca Ball
+Items	Heavy Ball	Peso Ball
+Items	Love Ball	Love Ball
+Items	Friend Ball	Friend Ball
+Items	Moon Ball	Luna Ball
+Items	TM00	MT00
+Items	TM01	MT01
+Items	TM02	MT02
+Items	TM03	MT03
+Items	TM04	MT04
+Items	TM05	MT05
+Items	TM06	MT06
+Items	TM07	MT07
+Items	TM08	MT08
+Items	TM09	MT09
+Items	TM10	MT10
+Items	TM11	MT11
+Items	TM12	MT12
+Items	TM13	MT13
+Items	TM14	MT14
+Items	TM15	MT15
+Items	TM16	MT16
+Items	TM17	MT17
+Items	TM18	MT18
+Items	TM19	MT19
+Items	TM20	MT20
+Items	TM21	MT21
+Items	TM22	MT22
+Items	TM23	MT23
+Items	TM24	MT24
+Items	TM25	MT25
+Items	TM26	MT26
+Items	TM27	MT27
+Items	TM28	MT28
+Items	TM29	MT29
+Items	TM30	MT30
+Items	TM31	MT31
+Items	TM32	MT32
+Items	TM33	MT33
+Items	TM34	MT34
+Items	TM35	MT35
+Items	TM36	MT36
+Items	TM37	MT37
+Items	TM38	MT38
+Items	TM39	MT39
+Items	TM40	MT40
+Items	TM41	MT41
+Items	TM42	MT42
+Items	TM43	MT43
+Items	TM44	MT44
+Items	TM45	MT45
+Items	TM46	MT46
+Items	TM47	MT47
+Items	TM48	MT48
+Items	TM49	MT49
+Items	TM50	MT50
+Items	TM51	MT51
+Items	TM52	MT52
+Items	TM53	MT53
+Items	TM54	MT54
+Items	TM55	MT55
+Items	TM56	MT56
+Items	TM57	MT57
+Items	TM58	MT58
+Items	TM59	MT59
+Items	TM60	MT60
+Items	TM61	MT61
+Items	TM62	MT62
+Items	TM63	MT63
+Items	TM64	MT64
+Items	TM65	MT65
+Items	TM66	MT66
+Items	TM67	MT67
+Items	TM68	MT68
+Items	TM69	MT69
+Items	TM70	MT70
+Items	TM71	MT71
+Items	TM72	MT72
+Items	TM73	MT73
+Items	TM74	MT74
+Items	TM75	MT75
+Items	TM76	MT76
+Items	TM77	MT77
+Items	TM78	MT78
+Items	TM79	MT79
+Items	TM80	MT80
+Items	TM81	MT81
+Items	TM82	MT82
+Items	TM83	MT83
+Items	TM84	MT84
+Items	TM85	MT85
+Items	TM86	MT86
+Items	TM87	MT87
+Items	TM88	MT88
+Items	TM89	MT89
+Items	TM90	MT90
+Items	TM91	MT91
+Items	TM92	MT92
+Items	TM93	MT93
+Items	TM94	MT94
+Items	HM01	MN01
+Items	HM02	MN02
+Items	HM03	MN03
+Items	HM04	MN04
+Items	HM05	MN05
+Items	HM06	MN06
+Items	Cheri Berry	Baccaliegia
+Items	Chesto Berry	Baccastagna
+Items	Pecha Berry	Baccapesca
+Items	Rawst Berry	Baccafrago
+Items	Aspear Berry	Baccaperina
+Items	Leppa Berry	Baccamela
+Items	Oran Berry	Baccarancia
+Items	Persim Berry	Baccaki
+Items	Lum Berry	Baccaprugna
+Items	Sitrus Berry	Baccacedro
+Items	Figy Berry	Baccafico
+Items	Wiki Berry	Baccakiwi
+Items	Mago Berry	Baccamango
+Items	Aguav Berry	Baccaguava
+Items	Iapapa Berry	Baccapaia
+Items	Razz Berry	Baccalampon
+Items	Bluk Berry	Baccamora
+Items	Nanab Berry	Baccabana
+Items	Wepear Berry	Baccapera
+Items	Pinap Berry	Baccananas
+Items	Pomeg Berry	Baccagrana
+Items	Kelpsy Berry	Baccalga
+Items	Qualot Berry	Baccaloquat
+Items	Hondew Berry	Baccamelon
+Items	Grepa Berry	Baccauva
+Items	Tamato Berry	Baccamodoro
+Items	Cornn Berry	Baccavena
+Items	Magost Berry	Baccagostan
+Items	Rabuta Berry	Baccambutan
+Items	Nomel Berry	Baccalemon
+Items	Spelon Berry	Baccapuccia
+Items	Pamtre Berry	Baccapalma
+Items	Watmel Berry	Baccocomero
+Items	Durin Berry	Baccadurian
+Items	Belue Berry	Baccartillo
+Items	Occa Berry	Baccacao
+Items	Passho Berry	Baccapasflo
+Items	Wacan Berry	Baccaparmen
+Items	Rindo Berry	Baccarindo
+Items	Yache Berry	Baccamarena
+Items	Chople Berry	Baccapepe
+Items	Kebia Berry	Baccakebia
+Items	Shuca Berry	Baccanaca
+Items	Coba Berry	Baccababa
+Items	Payapa Berry	Baccapayapa
+Items	Tanga Berry	Baccaitan
+Items	Charti Berry	Baccaciofo
+Items	Kasib Berry	Baccacitrus
+Items	Haban Berry	Baccahaban
+Items	Colbur Berry	Baccaxantha
+Items	Babiri Berry	Baccababiri
+Items	Chilan Berry	Baccacinlan
+Items	Liechi Berry	Baccalici
+Items	Ganlon Berry	Baccalongan
+Items	Salac Berry	Baccasalak
+Items	Petaya Berry	Baccapitaya
+Items	Apicot Berry	Baccaricot
+Items	Lansat Berry	Baccalangsa
+Items	Starf Berry	Baccambola
+Items	Enigma Berry	Baccaenigma
+Items	Micle Berry	Baccaracolo
+Items	Custap Berry	Baccacrela
+Items	Jaboca Berry	Baccajaba
+Items	Rowap Berry	Baccaroam
+Items	Boulder Badge	Medaglia Sasso
+Items	Cascade Badge	Medaglia Cascata
+Items	Thunder Badge	Medaglia Tuono
+Items	Rainbow Badge	Medaglia Arcobaleno
+Items	Soul Badge	Medaglia Anima
+Items	Marsh Badge	Medaglia Palude
+Items	Volcano Badge	Medaglia Vulcano
+Items	Earth Badge	Medaglia Terra
+Items	Coral Eye Badge	Medaglia Occhio di Corallo
+Items	Sea Ruby Badge	Medaglia Rubino Marino
+Items	Spike Shell Badge	Medaglia Conchiglia Spinosa
+Items	Jade Star Badge	Medaglia Stella di Giada
+Items	X Attack	Attacco X
+Items	X Attack 2	Attacco X 2
+Items	X Attack 3	Attacco X 3
+Items	X Attack 6	Attacco X 6
+Items	X Defense	Difesa X
+Items	X Defense 2	Difesa X 2
+Items	X Defense 3	Difesa X 3
+Items	X Defense 6	Difesa X 6
+Items	X Sp. Atk	Att. Speciale X
+Items	X Sp. Atk 2	Att. Speciale X 2
+Items	X Sp. Atk 3	Att. Speciale X 3
+Items	X Sp. Atk 6	Att. Speciale X 6
+Items	X Sp. Def	Dif. Speciale X
+Items	X Sp. Def 2	Dif. Speciale X 2
+Items	X Sp. Def 3	Dif. Speciale X 3
+Items	X Sp. Def 6	Dif. Speciale X 6
+Items	X Speed	Velocità X
+Items	X Speed 2	Velocità X 2
+Items	X Speed 3	Velocità X 3
+Items	X Speed 6	Velocità X 6
+Items	X Accuracy	Precisione X
+Items	X Accuracy 2	Precisione X 2
+Items	X Accuracy 3	Precisione X 3
+Items	X Accuracy 6	Precisione X 6
+Items	Dire Hit	Supercolpo
+Items	Dire Hit 2	Supercolpo 2
+Items	Dire Hit 3	Supercolpo 3
+Items	Guard Spec.	Superguardia
+Items	Reset Urge	Ripristino
+Items	Ability Urge	Usabilità
+Items	Item Urge	Usastrumento
+Items	Item Drop	Lasciastrumento
+Items	Blue Flute	Flauto Blu
+Items	Yellow Flute	Flauto Giallo
+Items	Red Flute	Flauto Rosso
+Items	Poké Doll	Poké Bambola
+Items	Fluffy Tail	Coda Skitty
+Items	Poké Toy	Poké Giocattolo
+Items	Bicycle	Bicicletta
+Items	Old Rod	Amo Vecchio
+Items	Good Rod	Amo Buono
+Items	Super Rod	Super Amo
+Items	Itemfinder	Cercaoggetti
+Items	Dowsing Machine	Ricerca Strumenti
+Items	Poké Radar	Poké Radar
+Items	Town Map	Mappa Città
+Items	Poké Flute	Poké Flauto
+Items	Coin Case	Salvadanaio
+Items	Soot Sack	Sacco Cenere
+Items	Silph Scope	Spettrosonda
+Items	Devon Scope	Devonscopio
+Items	Squirt Bottle	Spruzzino
+Items	Sprayduck	Sprayduck
+Items	Wailmer Pail	Annaffiatoio
+Items	Gracidea	Gracidea
+Items	Aurora Ticket	Biglietto Aurora
+Items	Old Sea Map	Mappa Antica
+Items	DNA Splicers	Cuneo DNA
+Items	Reveal Glass	Verispecchio
+Items	Oval Charm	Ovamuleto
+Items	Shiny Charm	Cromamuleto
+Items	Ice Stone	Pietragelo
+Items	Jaw Fossil	Fossilmascella
+Items	Sail Fossil	Fossilpinna
+Items	Red Nectar	Nettare Rosso
+Items	Yellow Nectar	Nettare Giallo
+Items	Pink Nectar	Nettare Rosa
+Items	Purple Nectar	Nettare Viola
+Items	Assault Vest	Corpetto Assalto
+Items	Safety Goggles	Visierantisabbia
+Items	Protective Pads	Smorzaurti
+Items	Terrain Extender	Fertilterreno
+Items	Electric Seed	Elettroseme
+Items	Psychic Seed	Psicoseme
+Items	Misty Seed	Nebbiaseme
+Items	Grassy Seed	Erbaseme
+Items	Luminous Moss	Muschioluce
+Items	Snowball	Palla di Neve
+Items	Weakness Policy	Vulneropolizza
+Items	Adrenaline Orb	Adrenalsfera
+Items	Pixie Plate	Lastraspiritello
+Items	Fairy Gem	Bijoufolletto
+Items	Fire Memory	ROM Fuoco
+Items	Water Memory	ROM Acqua
+Items	Electric Memory	ROM Elettro
+Items	Grass Memory	ROM Erba
+Items	Ice Memory	ROM Ghiaccio
+Items	Fighting Memory	ROM Lotta
+Items	Poison Memory	ROM Veleno
+Items	Ground Memory	ROM Terra
+Items	Flying Memory	ROM Volante
+Items	Psychic Memory	ROM Psico
+Items	Bug Memory	ROM Coleottero
+Items	Rock Memory	ROM Roccia
+Items	Ghost Memory	ROM Spettro
+Items	Dragon Memory	ROM Drago
+Items	Dark Memory	ROM Buio
+Items	Steel Memory	ROM Acciaio
+Items	Fairy Memory	ROM Folletto
+Items	Venusaurite	Venusaurite
+Items	Charizardite X	Charizardite X
+Items	Charizardite Y	Charizardite Y
+Items	Blastoisinite	Blastoisite
+Items	Beedrillite	Beedrillite
+Items	Pidgeotite	Pidgeotite
+Items	Alakazite	Alakazamite
+Items	Slowbronite	Slowbroite
+Items	Gengarite	Gengarite
+Items	Kangaskhanite	Kangaskhanite
+Items	Pinsirite	Pinsirite
+Items	Gyaradosite	Gyaradosite
+Items	Aerodactylite	Aerodactylite
+Items	Mewtwonite X	Mewtwoite X
+Items	Mewtwonite Y	Mewtwoite Y
+Items	Ampharosite	Ampharosite
+Items	Steelixite	Steelixite
+Items	Scizorite	Scizorite
+Items	Heracronite	Heracrossite
+Items	Houndoominite	Houndoomite
+Items	Tyranitarite	Tyranitarite
+Items	Sceptilite	Sceptilite
+Items	Blazikenite	Blazikenite
+Items	Swampertite	Swampertite
+Items	Gardevoirite	Gardevoirite
+Items	Sablenite	Sableyite
+Items	Mawilite	Mawilite
+Items	Aggronite	Aggronite
+Items	Medichamite	Medichamite
+Items	Manectite	Manectricite
+Items	Sharpedonite	Sharpedite
+Items	Cameruptite	Cameruptite
+Items	Altarianite	Altarite
+Items	Banettite	Banettite
+Items	Absolite	Absolite
+Items	Glalitite	Glalite
+Items	Salamencite	Salamencite
+Items	Metagrossite	Metagrossite
+Items	Latiasite	Latiasite
+Items	Latiosite	Latiosite
+Items	Lopunnite	Lopunnite
+Items	Garchompite	Garchompite
+Items	Lucarionite	Lucarite
+Items	Abomasite	Abomasnowite
+Items	Galladite	Galladite
+Items	Audinite	Audinite
+Items	Diancite	Diancite
+Items	Red Orb	Sfera Rossa
+Items	Blue Orb	Sfera Blu
+Items	Whipped Dream	Dolcespuma
+Items	Sachet	Bustina Aromi
+Items	Lumiose Galette	Galletta di Luminopoli
+Items	Shalour Sable	Sablé di Yantaropoli
+Items	Big Malasada	Malasada Gigante
+Items	Ability Capsule	Capsula Abilità
+Items	Dream Ball	Dream Ball
+Items	Beast Ball	Beast Ball
+Items	TM95	MT95
+Items	TM96	MT96
+Items	TM97	MT97
+Items	TM98	MT98
+Items	TM99	MT99
+Items	Roseli Berry	Baccarcadè
+Items	Kee Berry	Baccalighia
+Items	Maranga Berry	Baccapane
+Items	Sprinklotad	Sprinklotad
+Items	Prison Bottle	Vaso del Vincolo
+Items	N-Solarizer	Necrosol
+Items	N-Lunarizer	Necroluna
+Items	Mega Ring	Megacerchio
+Items	Bottle Cap	Tappo d'Argento
+Items	Gold Bottle Cap	Tappo d'Oro
+Items	Lonely Mint	Menta Schiva
+Items	Adamant Mint	Menta Decisa
+Items	Naughty Mint	Menta Birbona
+Items	Brave Mint	Menta Audace
+Items	Bold Mint	Menta Sicura
+Items	Impish Mint	Menta Scaltra
+Items	Lax Mint	Menta Fiacca
+Items	Relaxed Mint	Menta Placida
+Items	Modest Mint	Menta Modesta
+Items	Mild Mint	Menta Mite
+Items	Rash Mint	Menta Ardente
+Items	Quiet Mint	Menta Quieta
+Items	Calm Mint	Menta Calma
+Items	Gentle Mint	Menta Gentile
+Items	Careful Mint	Menta Cauta
+Items	Sassy Mint	Menta Vivace
+Items	Timid Mint	Menta Timida
+Items	Hasty Mint	Menta Lesta
+Items	Jolly Mint	Menta Allegra
+Items	Naive Mint	Menta Ingenua
+Items	Serious Mint	Menta Seria
+Items	Blunder Policy	Fiascopolizza
+Items	Eject Pack	Pacco Fuga
+Items	Heavy-Duty Boots	Scarponi Robusti
+Items	Room Service	Servizio in Camera
+Items	Throat Spray	Spray Gola
+Items	Utility Umbrella	Ombrello Utile
+Items	Exp. Candy XS	Caramella Esp. XS
+Items	Exp. Candy S	Caramella Esp. S
+Items	Exp. Candy M	Caramella Esp. M
+Items	Exp. Candy L	Caramella Esp. L
+Items	Exp. Candy XL	Caramella Esp. XL
+Items	Ability Patch	Cerotto Abilità
+Items	Pewter Crunchies	Croccante di Plumbeopoli
+Items	Max Honey	Miele Max
+Items	Max Mushrooms	Fungo Dynamax
+Items	Galarica Cuff	Bracciale Galarnoce
+Items	Galarica Wreath	Ghirlanda Galarnoce
+Items	Meltan Candy	Caramella Meltan
+Items	Sweet Apple	Mela Dolce
+Items	Tart Apple	Mela Aspra
+Items	Cracked Pot	Teiera Rotta
+Items	Chipped Pot	Teiera Crepata
+Items	Strawberry Sweet	Bonbon Fragola
+Items	Love Sweet	Bonbon Cuore
+Items	Berry Sweet	Bonbon Bacca
+Items	Clover Sweet	Bonbon Trifoglio
+Items	Flower Sweet	Bonbon Fiore
+Items	Star Sweet	Bonbon Stella
+Items	Ribbon Sweet	Bonbon Fiocco
+Items	Fossilized Bird	Fossiluccello
+Items	Fossilized Fish	Fossilpesce
+Items	Fossilized Drake	Fossildrago
+Items	Fossilized Dino	Fossilsauro
+Items	Rusted Shield	Scudo Rovinato
+Items	Rusted Sword	Spada Rovinata
+Items	Reins of Unity	Briglie Legame
+Items	Rotom Catalogue	Catalogo Rotom
+Items	EXP Charm	Esperienzamuleto
+Items	Catching Charm	Catturamuleto
+Items	Pokémon Box Link	Link Box Pokémon
+Items	TR00	DT00
+Items	TR01	DT01
+Items	TR02	DT02
+Items	TR03	DT03
+Items	TR04	DT04
+Items	TR05	DT05
+Items	TR06	DT06
+Items	TR07	DT07
+Items	TR08	DT08
+Items	TR09	DT09
+Items	TR10	DT10
+Items	TR11	DT11
+Items	TR12	DT12
+Items	TR13	DT13
+Items	TR14	DT14
+Items	TR15	DT15
+Items	TR16	DT16
+Items	TR17	DT17
+Items	TR18	DT18
+Items	TR19	DT19
+Items	TR20	DT20
+Items	TR21	DT21
+Items	TR22	DT22
+Items	TR23	DT23
+Items	TR24	DT24
+Items	TR25	DT25
+Items	TR26	DT26
+Items	TR27	DT27
+Items	TR28	DT28
+Items	TR29	DT29
+Items	TR30	DT30
+Items	TR31	DT31
+Items	TR32	DT32
+Items	TR33	DT33
+Items	TR34	DT34
+Items	TR35	DT35
+Items	TR36	DT36
+Items	TR37	DT37
+Items	TR38	DT38
+Items	TR39	DT39
+Items	TR40	DT40
+Items	TR41	DT41
+Items	TR42	DT42
+Items	TR43	DT43
+Items	TR44	DT44
+Items	TR45	DT45
+Items	TR46	DT46
+Items	TR47	DT47
+Items	TR48	DT48
+Items	TR49	DT49
+Items	TR50	DT50
+Items	TR51	DT51
+Items	TR52	DT52
+Items	TR53	DT53
+Items	TR54	DT54
+Items	TR55	DT55
+Items	TR56	DT56
+Items	TR57	DT57
+Items	TR58	DT58
+Items	TR59	DT59
+Items	TR60	DT60
+Items	TR61	DT61
+Items	TR62	DT62
+Items	TR63	DT63
+Items	TR64	DT64
+Items	TR65	DT65
+Items	TR66	DT66
+Items	TR67	DT67
+Items	TR68	DT68
+Items	TR69	DT69
+Items	TR70	DT70
+Items	TR71	DT71
+Items	TR72	DT72
+Items	TR73	DT73
+Items	TR74	DT74
+Items	TR75	DT75
+Items	TR76	DT76
+Items	TR77	DT77
+Items	TR78	DT78
+Items	TR79	DT79
+Items	TR80	DT80
+Items	TR81	DT81
+Items	TR82	DT82
+Items	TR83	DT83
+Items	TR84	DT84
+Items	TR85	DT85
+Items	TR86	DT86
+Items	TR87	DT87
+Items	TR88	DT88
+Items	TR89	DT89
+Items	TR90	DT90
+Items	TR91	DT91
+Items	TR92	DT92
+Items	TR93	DT93
+Items	TR94	DT94
+Items	TR95	DT95
+Items	TR96	DT96
+Items	TR97	DT97
+Items	TR98	DT98
+Items	TR99	DT99
+Items	Vermilion Ticket	Biglietto Aranciopoli
+Items	GS Ball	GS Ball
+Items	Secret Potion	Pozione Segreta
+Items	Egg	Uovo
+Items	Kantonian Badge	Medaglia di Kanto
+Items	Frontier Pass	Pass Lotta
+Items	Contest Pass	Tessera Gare
+Items	Zephyr Badge	Medaglia Zefiro
+Items	Hive Badge	Medaglia Alveare
+Items	Plain Badge	Medaglia Piana
+Items	Fog Badge	Medaglia Nebbia
+Items	Storm Badge	Medaglia Tempesta
+Items	Mineral Badge	Medaglia Minerale
+Items	Glacier Badge	Medaglia Gelo
+Items	Rising Badge	Medaglia Levante
+Items	Stone Badge	Medaglia Pietra
+Items	Knuckle Badge	Medaglia Pugno
+Items	Dynamo Badge	Medaglia Dinamo
+Items	Heat Badge	Medaglia Caldo
+Items	Balance Badge	Medaglia Equilibrio
+Items	Feather Badge	Medaglia Piuma
+Items	Mind Badge	Medaglia Mente
+Items	Rain Badge	Medaglia Pioggia
+Items	Coal Badge	Medaglia Carbone
+Items	Forest Badge	Medaglia Foresta
+Items	Cobble Badge	Medaglia Lastra
+Items	Fen Badge	Medaglia Palude
+Items	Relic Badge	Medaglia Reliquia
+Items	Mine Badge	Medaglia Miniera
+Items	Icicle Badge	Medaglia Ghiacciolo
+Items	Beacon Badge	Medaglia Faro
+Items	Trio Badge	Medaglia Trio
+Items	Basic Badge	Medaglia Base
+Items	Insect Badge	Medaglia Insetto
+Items	Bolt Badge	Medaglia Saetta
+Items	Quake Badge	Medaglia Sisma
+Items	Jet Badge	Medaglia Jet
+Items	Freeze Badge	Medaglia Brina
+Items	Toxic Badge	Medaglia Tossina
+Items	Bug Badge	Medaglia Coleottero
+Items	Cliff Badge	Medaglia Parete
+Items	Rumble Badge	Medaglia Lotta
+Items	Plant Badge	Medaglia Pianta
+Items	Voltage Badge	Medaglia Voltaggio
+Items	Fairy Badge	Medaglia Folletto
+Items	Psychic Badge	Medaglia Psico
+Items	Iceberg Badge	Medaglia Iceberg
+Items	Knowledge Symbol	Simbolo Sapere
+Items	Guts Symbol	Simbolo Grinta
+Items	Tactics Symbol	Simbolo Tattica
+Items	Luck Symbol	Simbolo Fortuna
+Items	Spirits Symbol	Simbolo Spirito
+Items	Ability Symbol	Simbolo Abilità
+Items	Brave Symbol	Simbolo Coraggio
+Items	Rocket Ball	Rocket Ball
+Items	Z-Ring	Cerchio Z
+Items	Z-Power Ring	Cerchio Z Power
+Items	Dynamax Band	Polsino Dynamax
+Items	Normalium Z	Normium Z
+Items	Fightinium Z	Lottium Z
+Items	Flyinium Z	Volantium Z
+Items	Poisonium Z	Velenium Z
+Items	Groundium Z	Terrium Z
+Items	Rockium Z	Roccium Z
+Items	Buginium Z	Coleottium Z
+Items	Ghostium Z	Spettrium Z
+Items	Steelium Z	Acciaium Z
+Items	Firium Z	Fuocium Z
+Items	Waterium Z	Acquium Z
+Items	Grassium Z	Erbium Z
+Items	Electrium Z	Elettrium Z
+Items	Psychium Z	Psichium Z
+Items	Icium Z	Ghiaccium Z
+Items	Dragonium Z	Dragonium Z
+Items	Darkinium Z	Buium Z
+Items	Fairium Z	Follettium Z
+Items	Pikanium Z	Pikanium Z
+Items	Pikashunium Z	Pikashunium Z
+Items	Aloraichium Z	Aloraichium Z
+Items	Eevium Z	Eevium Z
+Items	Snorlium Z	Snorlium Z
+Items	Mewnium Z	Mewnium Z
+Items	Decidium Z	Decidium Z
+Items	Incinium Z	Incinium Z
+Items	Primarium Z	Primarium Z
+Items	Lycanium Z	Lycanium Z
+Items	Mimikium Z	Mimikium Z
+Items	Kommonium Z	Kommonium Z
+Items	Tapunium Z	Tapunium Z
+Items	Solganium Z	Solgaleium Z
+Items	Lunalium Z	Lunalium Z
+Items	Marshadium Z	Marshadium Z
+Items	Ultranecrozium Z	Ultranecrozium Z
+Items	Wishing Piece	Pezzo Desiderio
+Items	Dynamax Candy	Caramella Dynamax
+Items	Dynamax Candy XL	Caramella Dynamax XL
+Items	Max Soup	Zuppa Max
+Items	Max Eggs	Uova Max
+Items	Max Scales	Squame Max
+Items	Max Plumage	Piumaggio Max
+Items	Max Crystal	Cristallo Dynamax
+Items	TM100	MT100
+Items	TM101	MT101
+Items	TM102	MT102
+Items	TM103	MT103
+Items	TM104	MT104
+Items	TM105	MT105
+Items	TM106	MT106
+Items	TM107	MT107
+Items	TM108	MT108
+Items	TM109	MT109
+Items	TM110	MT110
+Items	TM111	MT111
+Items	TM112	MT112
+Items	TM113	MT113
+Items	TM114	MT114
+Items	TM115	MT115
+Items	TM116	MT116
+Items	TM117	MT117
+Items	TM118	MT118
+Items	TM119	MT119
+Items	TM120	MT120
+Items	TM121	MT121
+Items	TM122	MT122
+Items	TM123	MT123
+Items	TM124	MT124
+Items	TM125	MT125
+Items	TM126	MT126
+Items	TM127	MT127
+Items	TM128	MT128
+Items	TM129	MT129
+Items	TM130	MT130
+Items	TM131	MT131
+Items	TM132	MT132
+Items	TM133	MT133
+Items	TM134	MT134
+Items	TM135	MT135
+Items	Dragon Scroll	Rotolo del Drago
+Items	Rotom Phone	Rotom Phone
+Items	Black Augurite	Pietrascura
+Items	Peat Block	Blocco di Torba
+Items	Blank Plate	Lastravuota
+Items	Rotomi	Rotomi
+Items	Zygarde Cube	Cubo Zygarde
+Abilities	Stench	Tanfo
+Abilities	Drizzle	Piovischio
+Abilities	Speed Boost	Acceleratore
+Abilities	Battle Armor	Lottascudo
+Abilities	Sturdy	Vigore
+Abilities	Damp	Umidità
+Abilities	Limber	Scioltezza
+Abilities	Sand Veil	Sabbiavelo
+Abilities	Static	Statico
+Abilities	Volt Absorb	Assorbivolt
+Abilities	Water Absorb	Assorbacqua
+Abilities	Oblivious	Indifferenza
+Abilities	Cloud Nine	Antimeteo
+Abilities	Compound Eyes	Insettocchi
+Abilities	Insomnia	Insonnia
+Abilities	Color Change	Cambiacolore
+Abilities	Immunity	Immunità
+Abilities	Flash Fire	Fuocardore
+Abilities	Shield Dust	Polvscudo
+Abilities	Own Tempo	Mente Locale
+Abilities	Suction Cups	Ventose
+Abilities	Intimidate	Prepotenza
+Abilities	Shadow Tag	Pedinombra
+Abilities	Rough Skin	Cartavetro
+Abilities	Wonder Guard	Magidifesa
+Abilities	Levitate	Levitazione
+Abilities	Effect Spore	Spargispore
+Abilities	Synchronize	Sincronismo
+Abilities	Clear Body	Corpochiaro
+Abilities	Natural Cure	Alternacura
+Abilities	Lightning Rod	Parafulmine
+Abilities	Serene Grace	Leggiadro
+Abilities	Swift Swim	Nuotovelox
+Abilities	Chlorophyll	Clorofilla
+Abilities	Illuminate	Risplendi
+Abilities	Trace	Traccia
+Abilities	Huge Power	Macroforza
+Abilities	Poison Point	Velenopunto
+Abilities	Inner Focus	Forza Interiore
+Abilities	Magma Armor	Magmascudo
+Abilities	Water Veil	Idrovelo
+Abilities	Magnet Pull	Magnetismo
+Abilities	Soundproof	Antisuono
+Abilities	Rain Dish	Copripioggia
+Abilities	Sand Stream	Sabbiafiume
+Abilities	Pressure	Pressione
+Abilities	Thick Fat	Grassospesso
+Abilities	Early Bird	Sveglialampo
+Abilities	Flame Body	Corpodifuoco
+Abilities	Run Away	Fugafacile
+Abilities	Keen Eye	Sguardofermo
+Abilities	Hyper Cutter	Ipertaglio
+Abilities	Pickup	Raccolta
+Abilities	Truant	Pigrone
+Abilities	Hustle	Tuttafretta
+Abilities	Cute Charm	Incantevole
+Abilities	Plus	Più
+Abilities	Minus	Meno
+Abilities	Forecast	Previsioni
+Abilities	Sticky Hold	Antifurto
+Abilities	Shed Skin	Muta
+Abilities	Guts	Dentistretti
+Abilities	Marvel Scale	Pelledura
+Abilities	Liquid Ooze	Melma
+Abilities	Overgrow	Erbaiuto
+Abilities	Blaze	Aiutofuoco
+Abilities	Torrent	Acquaiuto
+Abilities	Swarm	Aiutinsetto
+Abilities	Rock Head	Testadura
+Abilities	Drought	Siccità
+Abilities	Arena Trap	Trappoarena
+Abilities	Vital Spirit	Spiritovivo
+Abilities	White Smoke	Fumochiaro
+Abilities	Pure Power	Forzapura
+Abilities	Shell Armor	Guscioscudo
+Abilities	Air Lock	Riparo
+Abilities	Tangled Feet	Intricopiedi
+Abilities	Motor Drive	Elettrorapid
+Abilities	Rivalry	Antagonismo
+Abilities	Steadfast	Cuordeciso
+Abilities	Snow Cloak	Mantelneve
+Abilities	Gluttony	Voracità
+Abilities	Anger Point	Grancollera
+Abilities	Unburden	Agiltecnica
+Abilities	Heatproof	Antifuoco
+Abilities	Simple	Disinvoltura
+Abilities	Dry Skin	Pellearsa
+Abilities	Download	Download
+Abilities	Iron Fist	Ferropugno
+Abilities	Poison Heal	Velencura
+Abilities	Adaptability	Adattabilità
+Abilities	Skill Link	Abillegame
+Abilities	Hydration	Idratazione
+Abilities	Solar Power	Solarpotere
+Abilities	Quick Feet	Piedisvelti
+Abilities	Normalize	Normalità
+Abilities	Sniper	Cecchino
+Abilities	Magic Guard	Magicscudo
+Abilities	No Guard	Nullodifesa
+Abilities	Stall	Rallentatore
+Abilities	Technician	Tecnico
+Abilities	Leaf Guard	Fogliamanto
+Abilities	Klutz	Impaccio
+Abilities	Mold Breaker	Rompiforma
+Abilities	Super Luck	Supersorte
+Abilities	Aftermath	Scoppio
+Abilities	Anticipation	Presagio
+Abilities	Forewarn	Premonizione
+Abilities	Unaware	Imprudenza
+Abilities	Tinted Lens	Lentifumé
+Abilities	Filter	Filtro
+Abilities	Slow Start	Lentoinizio
+Abilities	Scrappy	Nervisaldi
+Abilities	Storm Drain	Acquascolo
+Abilities	Ice Body	Corpogelo
+Abilities	Solid Rock	Solidroccia
+Abilities	Snow Warning	Scendineve
+Abilities	Honey Gather	Mielincetta
+Abilities	Frisk	Indagine
+Abilities	Reckless	Temerarietà
+Abilities	Multitype	Multitipo
+Abilities	Flower Gift	Regalfiore
+Abilities	Bad Dreams	Sogniamari
+Abilities	Pickpocket	Arraffalesto
+Abilities	Sheer Force	Forzabruta
+Abilities	Contrary	Inversione
+Abilities	Unnerve	Agitazione
+Abilities	Defiant	Agonismo
+Abilities	Defeatist	Sconforto
+Abilities	Cursed Body	Corpofunesto
+Abilities	Healer	Curacuore
+Abilities	Friend Guard	Amicoscudo
+Abilities	Weak Armor	Sottilguscio
+Abilities	Heavy Metal	Metalpesante
+Abilities	Light Metal	Metalleggero
+Abilities	Multiscale	Multisquame
+Abilities	Toxic Boost	Velenimpeto
+Abilities	Flare Boost	Bruciaimpeto
+Abilities	Harvest	Coglibacche
+Abilities	Telepathy	Telepatia
+Abilities	Moody	Lunatico
+Abilities	Overcoat	Copricapo
+Abilities	Poison Touch	Velentocco
+Abilities	Regenerator	Rigenergia
+Abilities	Big Pecks	Pettinfuori
+Abilities	Sand Rush	Remasabbia
+Abilities	Wonder Skin	Splendicute
+Abilities	Analytic	Ponderazione
+Abilities	Illusion	Illusione
+Abilities	Imposter	Sosia
+Abilities	Infiltrator	Intrapasso
+Abilities	Mummy	Mummia
+Abilities	Moxie	Arroganza
+Abilities	Justified	Giustizia
+Abilities	Rattled	Coniglietto
+Abilities	Magic Bounce	Magispecchio
+Abilities	Sap Sipper	Mangiaerba
+Abilities	Prankster	Burla
+Abilities	Sand Force	Silicoforza
+Abilities	Iron Barbs	Spineferrate
+Abilities	Zen Mode	Stato Zen
+Abilities	Victory Star	Vittorstella
+Abilities	Turboblaze	Piroturbina
+Abilities	Teravolt	Teravolt
+Abilities	Aroma Veil	Aromavelo
+Abilities	Flower Veil	Fiorvelo
+Abilities	Cheek Pouch	Guanciale
+Abilities	Protean	Mutatipo
+Abilities	Fur Coat	Foltopelo
+Abilities	Magician	Prestigiatore
+Abilities	Bulletproof	Antiproiettile
+Abilities	Competitive	Tenacia
+Abilities	Strong Jaw	Mascelleforti
+Abilities	Refrigerate	Pellegelo
+Abilities	Sweet Veil	Dolcevelo
+Abilities	Stance Change	Cambiatattica
+Abilities	Gale Wings	Aliraffica
+Abilities	Mega Launcher	Megalancio
+Abilities	Grass Pelt	Peloderba
+Abilities	Symbiosis	Simbiosi
+Abilities	Tough Claws	Unghiedure
+Abilities	Pixilate	Pellefolletto
+Abilities	Gooey	Viscosità
+Abilities	Aerilate	Pellecielo
+Abilities	Parental Bond	Amore Filiale
+Abilities	Dark Aura	Auratetra
+Abilities	Fairy Aura	Aurafolletto
+Abilities	Aura Break	Frangiaura
+Abilities	Primordial Sea	Mare Primordiale
+Abilities	Desolate Land	Terra Estrema
+Abilities	Delta Stream	Flusso Delta
+Abilities	Stamina	Resistenza
+Abilities	Wimp Out	Fuggifuggi
+Abilities	Emergency Exit	Esodo
+Abilities	Water Compaction	Idrorinforzo
+Abilities	Merciless	Spietatezza
+Abilities	Shields Down	Scudo Limite
+Abilities	Stakeout	Pedinamento
+Abilities	Water Bubble	Bolladacqua
+Abilities	Steelworker	Metallurgia
+Abilities	Berserk	Furore
+Abilities	Slush Rush	Spalaneve
+Abilities	Long Reach	Distanza
+Abilities	Liquid Voice	Idrovoce
+Abilities	Triage	Primocura
+Abilities	Galvanize	Pellelettro
+Abilities	Surge Surfer	Surfaonda
+Abilities	Schooling	Banco
+Abilities	Disguise	Fantoccio
+Abilities	Battle Bond	Morfosintonia
+Abilities	Power Construct	Sciamefficienza
+Abilities	Corrosion	Corrosione
+Abilities	Comatose	Dormiveglia
+Abilities	Queenly Majesty	Regalità
+Abilities	Innards Out	Sputaviscere
+Abilities	Dancer	Ballerino
+Abilities	Battery	Batteria
+Abilities	Fluffy	Morbidone
+Abilities	Dazzling	Abbagliante
+Abilities	Soul-Heart	Animacuore
+Abilities	Tangling Hair	Riccioli
+Abilities	Receiver	Ricevitore
+Abilities	Power of Alchemy	Alchimia
+Abilities	Beast Boost	Ultraimpulso
+Abilities	RKS System	Sistema RKS
+Abilities	Electric Surge	Elettrogenesi
+Abilities	Psychic Surge	Psicogenesi
+Abilities	Misty Surge	Nebbiogenesi
+Abilities	Grassy Surge	Erbogenesi
+Abilities	Full Metal Body	Metalcorpo
+Abilities	Shadow Shield	Spettroscudo
+Abilities	Prism Armor	Prismguscio
+Abilities	Neuroforce	Neuroforza
+Abilities	Ball Fetch	Raccattapalle
+Abilities	Cotton Down	Lanugine
+Abilities	Dauntless Shield	Scudo Saldo
+Abilities	Gorilla Tactics	Tattica Gorilla
+Abilities	Gulp Missile	Inghiottimissile
+Abilities	Hunger Switch	Pancia Vuota
+Abilities	Ice Face	Gelofaccia
+Abilities	Ice Scales	Squamagelo
+Abilities	Intrepid Sword	Spada Indomita
+Abilities	Libero	Libero
+Abilities	Mimicry	Mimetismo
+Abilities	Mirror Armor	Specchiarmatura
+Abilities	Neutralizing Gas	Gas Reagente
+Abilities	Pastel Veil	Velopastello
+Abilities	Perish Body	Ultimotocco
+Abilities	Power Spot	Fulcro
+Abilities	Propeller Tail	Elicaudale
+Abilities	Punk Rock	Punk Rock
+Abilities	Ripen	Maturazione
+Abilities	Sand Spit	Sputasabbia
+Abilities	Screen Cleaner	Antibarriere
+Abilities	Stalwart	Fermezza
+Abilities	Steam Engine	Vapormotore
+Abilities	Steely Spirit	Spiritoferreo
+Abilities	Wandering Spirit	Anima Errante
+Abilities	Unseen Fist	Pugnoinvisibile
+Abilities	Quick Draw	Colpolesto
+Abilities	Curious Medicine	Medicina Bizzarra
+Abilities	Transistor	Transistor
+Abilities	Dragon's Maw	Fauci di Drago
+Abilities	Chilling Neigh	Nitrito Gelido
+Abilities	Grim Neigh	Nitrito Funesto
+Abilities	As One	Unione Equina
+TrainerTypes	Pokémon Trainer	Allenatore
+TrainerTypes	Pokémon Coordinator	Coordinatore
+TrainerTypes	Rival	Rivale
+TrainerTypes	Aroma Lady	Aromadama
+TrainerTypes	Beauty	Bellezza
+TrainerTypes	Biker	Centauro
+TrainerTypes	Bird Keeper	Ornitologo
+TrainerTypes	Bug Catcher	Pigliamosche
+TrainerTypes	Burglar	Ladro
+TrainerTypes	Channeler	Medium
+TrainerTypes	Cue Ball	Teppista
+TrainerTypes	Engineer	Ingegnere
+TrainerTypes	Fisherman	Pescatore
+TrainerTypes	Gambler	Giocatore
+TrainerTypes	Gentleman	Gentiluomo
+TrainerTypes	Hiker	Montanaro
+TrainerTypes	Juggler	Giocoliere
+TrainerTypes	Lady	Damigella
+TrainerTypes	Painter	Pittrice
+TrainerTypes	Poké Maniac	PokéFanatico
+TrainerTypes	Pokémon Breeder	Allevatore Pokémon
+TrainerTypes	Professor	Professore
+TrainerTypes	Rocker	Rocker
+TrainerTypes	Ruin Maniac	Rovinologo
+TrainerTypes	Sailor	Marinaio
+TrainerTypes	Scientist	Scienziato
+TrainerTypes	Super Nerd	Secchione
+TrainerTypes	Tamer	Domatore
+TrainerTypes	Black Belt	Karateka
+TrainerTypes	Crush Girl	Lottatrice
+TrainerTypes	Camper	Campeggiatore
+TrainerTypes	Picnicker	Campeggiatrice
+TrainerTypes	Cool Trainer	Fantallenatore
+TrainerTypes	Youngster	Bullo
+TrainerTypes	Lass	Pupa
+TrainerTypes	Pokémon Ranger	Pokémon Ranger
+TrainerTypes	Psychic	Sensitivo
+TrainerTypes	Swimmer	Nuotatore
+TrainerTypes	Tuber	Bagnante
+TrainerTypes	Cool Couple	Fantacoppia
+TrainerTypes	Crush Kin	Lottatori
+TrainerTypes	Sis and Bro	Fratellini
+TrainerTypes	Twins	Gemelle
+TrainerTypes	Young Couple	Giovane Coppia
+TrainerTypes	Team Rocket	Team Rocket
+TrainerTypes	Rocket Boss	Capo Rocket
+TrainerTypes	Gym Leader	Capopalestra
+TrainerTypes	Elite Four	Superquattro
+TrainerTypes	Champion	Campione
+TrainerTypes	Team Rocket's	Team Rocket
+TrainerTypes	Breeder	Allevatore
+TrainerTypes	Watcher	Osservatore
+TrainerTypes	Orange Crew Leader	Capo Orange
+TrainerTypes	Kimono Girl	Ragazza Kimono
+TrainerTypes	Factory Head	Capofabbrica
+TrainerTypes	Arena Tycoon	Magnate Arena
+TrainerTypes	Dome Ace	Asso Cupola
+TrainerTypes	Pike Queen	Regina Tubo
+TrainerTypes	Palace Maven	Guru Palazzo
+TrainerTypes	Salon Maiden	Dama Salone
+TrainerTypes	Pyramid King	Re Piramide
+TrainerTypes	Tower Tycoon	Magnate Torre
+TrainerTypes	Connoisseur	Intenditore
+TrainerTypes	Subway Boss	Capo Metrò
+TrainerTypes	Team Plasma	Team Plasma
+TrainerTypes	Sky Trainer	Aviallenatore
+TrainerTypes	Flare Boss	Capo Flare
+TrainerTypes	Team Flare	Team Flare
+TrainerTypes	Island Kahuna	Kahuna
+TrainerTypes	Totem Pokémon	Pokémon dominante
+TrainerTypes	Aether President	Presidente Aether
+TrainerTypes	Masked	Mascherato
+TrainerTypes	Skull Boss	Capo Skull
+TrainerTypes	Team Aqua	Team Idro
+TrainerTypes	Team Magma	Team Magma
+TrainerTypes	Team Galactic	Team Galassia
+TrainerTypes	Team Skull	Team Skull
+TrainerTypes	Pokémon Performer	Artista Pokémon
+TrainerTypes	Dynamax Pokémon	Pokémon Dynamax
+TrainerTypes	Chairman	Presidente
+TrainerTypes	Legendary Pokémon	Pokémon leggendario
+TrainerTypes	Team Yell	Team Yell
+RegionNames	Kanto	Kanto
+RegionNames	Johto	Johto
+RegionNames	Hoenn	Hoenn
+RegionNames	Sinnoh	Sinnoh
+RegionNames	Unova	Unima
+RegionNames	Kalos	Kalos
+RegionNames	Alola	Alola
+RegionNames	Galar	Galar
+RegionNames	Unknown	Sconosciuto
+PlaceNames	Indigo Plateau	Altopiano Blu
+PlaceNames	Route 22	Percorso 22
+PlaceNames	Route 26	Percorso 26
+PlaceNames	Battle Tower	Torre Lotta
+PlaceNames	Battle Pyramid	Piramide Lotta
+PlaceNames	Pewter City	Plumbeopoli
+PlaceNames	Route 2	Percorso 2
+PlaceNames	Viridian Forest	Bosco Smeraldo
+PlaceNames	Viridian City	Smeraldopoli
+PlaceNames	Route 1	Percorso 1
+PlaceNames	Route 3	Percorso 3
+PlaceNames	Pallet Town	Biancavilla
+PlaceNames	Gringey City Power Plant	Centrale Elettrica di Gringey City
+PlaceNames	Route 17	Percorso 17
+PlaceNames	Route 18	Percorso 18
+PlaceNames	Mt. Moon	Monte Luna
+PlaceNames	Route 16	Percorso 16
+PlaceNames	Route 19	Percorso 19
+PlaceNames	Battle Factory	Fabbrica Lotta
+PlaceNames	Route 4	Percorso 4
+PlaceNames	Celadon City	Azzurropoli
+PlaceNames	Fuchsia City	Fucsiapoli
+PlaceNames	Battle Arena	Dojo Lotta
+PlaceNames	Cerulean City	Celestopoli
+PlaceNames	Hidden Village	Villaggio Nascosto
+PlaceNames	Route 7	Percorso 7
+PlaceNames	Route 5	Percorso 5
+PlaceNames	Saffron City	Zafferanopoli
+PlaceNames	Route 24	Percorso 24
+PlaceNames	Route 25	Percorso 25
+PlaceNames	Vermillion City	Aranciopoli
+PlaceNames	Route 8	Percorso 8
+PlaceNames	Route 11	Percorso 11
+PlaceNames	Cinnabar Island	Isola Cannella
+PlaceNames	Route 15	Percorso 15
+PlaceNames	Battle Dome	Cupola Lotta
+PlaceNames	Route 14	Percorso 14
+PlaceNames	Cinnabar Volcano	Vulcano di Cannella
+PlaceNames	Route 13	Percorso 13
+PlaceNames	Lavender Town	Lavandonia
+PlaceNames	Route 12	Percorso 12
+PlaceNames	Metallica Island	Isola Metallica
+PlaceNames	Cianwood City	Fiorlisopoli
+PlaceNames	Route 39	Percorso 39
+PlaceNames	Olivine City	Olivinopoli
+PlaceNames	Route 38	Percorso 38
+PlaceNames	Pokemon Swap Meet	Mercatino Pokémon
+PlaceNames	Ecruteak City	Amarantopoli
+PlaceNames	Route 35	Percorso 35
+PlaceNames	Goldenrod City	Fiordoropoli
+PlaceNames	Route 34	Percorso 34
+PlaceNames	Ilex Forest	Bosco di Lecci
+PlaceNames	Route 37	Percorso 37
+PlaceNames	Route 36	Percorso 36
+PlaceNames	Route 42	Percorso 42
+PlaceNames	Ruins of Alph	Rovine d'Alfa
+PlaceNames	Azalea Town	Azalina
+PlaceNames	Violet City	Violapoli
+PlaceNames	Route 32	Percorso 32
+PlaceNames	Charicific Valley	Valle Charicifica
+PlaceNames	Route 33	Percorso 33
+PlaceNames	Lake of Rage	Lago d'Ira
+PlaceNames	Route 43	Percorso 43
+PlaceNames	Route 30	Percorso 30
+PlaceNames	Cherrygrove City	Fiorpescopoli
+PlaceNames	Mahogany Town	Mogania
+PlaceNames	Route 29 Forest	Bosco del Percorso 29
+PlaceNames	Route 29	Percorso 29
+PlaceNames	Route 44	Percorso 44
+PlaceNames	Dragon Holy Land	Terra Sacra dei Draghi
+PlaceNames	Dragon`s Den	Tana del Drago
+PlaceNames	Blackthorn City	Ebanopoli
+PlaceNames	Ice Cave	Grotta Ghiacciata
+PlaceNames	New Bark Town	Borgo Foglianova
+PlaceNames	Silver Conference	Conferenza Argento
+PlaceNames	Route 45	Percorso 45
+PlaceNames	Littleroot Town	Albanova
+PlaceNames	Route 101	Percorso 101
+PlaceNames	Oldale Town	Solarosa
+PlaceNames	Route 102	Percorso 102
+PlaceNames	Petalburg City	Petalipoli
+PlaceNames	Route104	Percorso 104
+PlaceNames	Petalburg Woods	Bosco Petalo
+PlaceNames	Route 104	Percorso 104
+PlaceNames	Rustboro City	Ferrugipoli
+PlaceNames	Dewford Town	Bluruvia
+PlaceNames	Granite Cave	Grotta Pietrosa
+PlaceNames	Route 106	Percorso 106
+PlaceNames	Route 109	Percorso 109
+PlaceNames	Slateport City	Porto Selcepoli
+PlaceNames	Route 110	Percorso 110
+PlaceNames	Mauville City	Ciclamipoli
+PlaceNames	Route 111	Percorso 111
+PlaceNames	Mirage Kingdom	Regno Miraggio
+PlaceNames	Route 113	Percorso 113
+PlaceNames	Fallarbor Town	Brunifoglia
+PlaceNames	Fiery Path	Cammino Ardente
+PlaceNames	Lavaridge Town	Cuordilava
+PlaceNames	Route 112	Percorso 112
+PlaceNames	Route 117	Percorso 117
+PlaceNames	Verdanturf Town	Mentania
+PlaceNames	Route 118	Percorso 118
+PlaceNames	Route 119	Percorso 119
+PlaceNames	Fortree City	Forestopoli
+PlaceNames	Route 120	Percorso 120
+PlaceNames	Route 121	Percorso 121
+PlaceNames	Lilycove City	Porto Alghepoli
+PlaceNames	Route 124	Percorso 124
+PlaceNames	Mossdeep City	Verdeazzupoli
+PlaceNames	Izabe Island (Purika)	Isola Izabe (Purika)
+PlaceNames	Izabe Forest	Bosco di Izabe
+PlaceNames	Izabe Island (Riyado)	Isola Izabe (Riyado)
+PlaceNames	Izabe Desert	Deserto di Izabe
+PlaceNames	Izabe Cave	Grotta di Izabe
+PlaceNames	Izabe Island (Cerosi)	Isola Izabe (Cerosi)
+PlaceNames	Sootopolis City	Ceneride
+PlaceNames	Pacifidlog Town	Orocea
+PlaceNames	Hoenn Pokemon League	Lega Pokémon di Hoenn
+PlaceNames	Ever Grande Conference	Conferenza Iridopoli
+PlaceNames	Route 202	Percorso 202
+PlaceNames	Sandgem Town	Sabbiafine
+PlaceNames	Route 201	Percorso 201
+PlaceNames	Lake Verity	Lago Verità
+PlaceNames	Twinleaf Town	Duefoglie
+PlaceNames	Jubilife City	Giubilopoli
+PlaceNames	Route 203	Percorso 203
+PlaceNames	Oreburgh Gate	Varco Mineropoli
+PlaceNames	Oreburgh City	Mineropoli
+PlaceNames	Oreburgh Mine	Miniera di Mineropoli
+PlaceNames	Route 204	Percorso 204
+PlaceNames	Ravaged Path	Via Dissestata
+PlaceNames	Floaroma Town	Floraria
+PlaceNames	Floaroma Meadow	Prato Floraria
+PlaceNames	Route 205	Percorso 205
+PlaceNames	Eterna Forest	Bosco Evopoli
+PlaceNames	Eterna City	Evopoli
+PlaceNames	Route 206	Percorso 206
+PlaceNames	Route 207	Percorso 207
+PlaceNames	Mt. Coronet	Monte Corona
+PlaceNames	Hearthome City	Cuoripoli
+PlaceNames	Route 209	Percorso 209
+PlaceNames	Solaceon Town	Flemminia
+PlaceNames	Solaceon Ruins	Rovine di Flemminia
+PlaceNames	Route 210 (South)	Percorso 210 (Sud)
+PlaceNames	Route 215	Percorso 215
+PlaceNames	Veilstone City	Rupepoli
+PlaceNames	Route 214	Percorso 214
+PlaceNames	Valor Lakefront	Riva Lago Valore
+PlaceNames	Lake Valor	Lago Valore
+PlaceNames	Route 213	Percorso 213
+PlaceNames	Pastoria City	Pratopoli
+PlaceNames	Route 212	Percorso 212
+PlaceNames	Route 210 (North)	Percorso 210 (Nord)
+PlaceNames	Celestic Town	Memoride
+PlaceNames	Route 218	Percorso 218
+PlaceNames	Canalave City	Canalipoli
+PlaceNames	Iron Island	Isola Ferrosa
+PlaceNames	Route 211	Percorso 211
+PlaceNames	Route 216	Percorso 216
+PlaceNames	Route 217	Percorso 217
+PlaceNames	Lake Acuity	Lago Arguzia
+PlaceNames	Snowpoint City	Nevepoli
+PlaceNames	Route 222	Percorso 222
+PlaceNames	Sunnyshore City	Arenipoli
+PlaceNames	Lily of the Valley Island	Isola Mughetto
+PlaceNames	Sinnoh Pokemon League	Lega Pokémon di Sinnoh
+PlaceNames	Nuvema Town	Soffiolieve
+PlaceNames	Accumula Town	Quattroventi
+PlaceNames	Striaton City	Levantopoli
+PlaceNames	Dreamyard	Cantiere dei Sogni
+PlaceNames	Wellspring Cave	Grotta Sgorgo
+PlaceNames	Nacrene City	Zefiropoli
+PlaceNames	Pinwheel Forest	Bosco Girandola
+PlaceNames	Skyarrow Bridge	Ponte Freccialuce
+PlaceNames	Castelia City	Austropoli
+PlaceNames	Club Battle	Club Battle
+PlaceNames	Nimbasa City	Sciroccopoli
+PlaceNames	Driftveil City	Libecciopoli
+PlaceNames	Route 6	Percorso 6
+PlaceNames	Mistralton Cave	Grotta Ponentopoli
+PlaceNames	Chargestone Cave	Grotta Pietrelettrica
+PlaceNames	Mistralton City	Ponentopoli
+PlaceNames	Mistralton Tower	Torre Ponentopoli
+PlaceNames	Clubsplosion	Clubsplosion
+PlaceNames	Twist Mountain	Monte Vite
+PlaceNames	Icirrus City	Mistralopoli
+PlaceNames	Route 9	Percorso 9
+PlaceNames	Virbank City	Virbopoli
+PlaceNames	Undella Town	Spiraria
+PlaceNames	Undella Bay	Baia Spiraria
+PlaceNames	Opelucid City	Boreduopoli
+PlaceNames	Vetress City	Vetress City
+PlaceNames	Route 20	Percorso 20
+PlaceNames	Aspertia City	Alisopoli
+PlaceNames	White Ruins	Rovine Bianche
+PlaceNames	Pledge Grove	Bosco Promessa
+PlaceNames	Icirrus Cave	Grotta Mistralopoli
+PlaceNames	Lumiose City	Luminopoli
+PlaceNames	Santalune City	Novartopoli
+PlaceNames	Camphrier Town	Castel Vanità
+PlaceNames	Parfum Palace	Palazzo Parfum
+PlaceNames	Cyllage City	Petroglifari
+PlaceNames	Route 10	Percorso 10
+PlaceNames	Geosenge Town	Cromleburgo
+PlaceNames	Reflection Cave	Grotta Riflessi
+PlaceNames	Shalour City	Yantaropoli
+PlaceNames	Coumarine City	Batikopoli
+PlaceNames	Laverre City	Romantopoli
+PlaceNames	Dendemille Town	Frescovilla
+PlaceNames	Frost Cavern	Grotta Gelata
+PlaceNames	Anistar City	Fluxopoli
+PlaceNames	Anistar Sundial	Meridiana di Fluxopoli
+PlaceNames	Couriway Town	Ponte Mosaico
+PlaceNames	Terminus Cave	Grotta Capolinea
+PlaceNames	Route 21	Percorso 21
+PlaceNames	Snowbelle City	Fractalopoli
+PlaceNames	Melemele Forest	Bosco di Mele Mele
+PlaceNames	Melemele Meadow	Prato di Mele Mele
+PlaceNames	Iki Town	Iki
+PlaceNames	Hau'oli City	Hau'oli
+PlaceNames	Verdant Cavern	Grotta Sottobosco
+PlaceNames	Hau'oli Outskirts	Periferia di Hau'oli
+PlaceNames	Ten Carat Hill	Collina Diecicarati
+PlaceNames	Paniola Town	Paniola
+PlaceNames	Paniola Ranch	Ranch Paniola
+PlaceNames	Brooklet Hill	Collina Ruscello
+PlaceNames	Lush Jungle	Foresta Ombrosa
+PlaceNames	Wela Volcano Park	Parco Vulcano Wela
+PlaceNames	Royal Avenue	Viale Reale
+PlaceNames	Ruins of Life	Rovine della Vita
+PlaceNames	Aether Paradise	Paradiso Aether
+PlaceNames	Tapu Village	Villaggio Tapu
+PlaceNames	Haina Desert	Deserto di Haina
+PlaceNames	Ruins of Abundance	Rovine dell'Abbondanza
+PlaceNames	Malie City	Malie
+PlaceNames	Mount Hokulani	Monte Hokulani
+PlaceNames	Hokulani Observatory	Osservatorio di Hokulani
+PlaceNames	Mount Lanakila	Monte Lanakila
+PlaceNames	Mount Lanakila Cave	Grotta del Monte Lanakila
+PlaceNames	Seafolk Village	Villaggio Marino
+PlaceNames	Poni Wilds	Lande di Poni
+PlaceNames	Ancient Poni Path	Antico Sentiero di Poni
+PlaceNames	Poni Breaker Coast	Costa Frangiflutti di Poni
+PlaceNames	Ruins of Hope	Rovine della Speranza
+PlaceNames	Manalo Stadium	Stadio Manalo
+PlaceNames	Vast Poni Canyon	Gran Canyon di Poni
+PlaceNames	Altar of the Sunne	Altare del Sole
+PlaceNames	Thrifty Megamart	Megamarket Parsimonia
+PlaceNames	Ultra Deep Space	Ultraspazio Profondo
+PlaceNames	Ultra Ruin	Ultrarovine
+PlaceNames	Pallet Town?	Biancavilla?
+PlaceNames	Viridian Gym?	Palestra di Smeraldopoli?
+PlaceNames	Indigo Plateau?	Altopiano Blu?
+PlaceNames	Viridian Forest?	Bosco Smeraldo?
+PlaceNames	New Bark Town?	Borgo Foglianova?
+PlaceNames	Viridian City?	Smeraldopoli?
+PlaceNames	Ecruteak City?	Amarantopoli?
+PlaceNames	Slateport City?	Porto Selcepoli?
+PlaceNames	Littleroot Town?	Albanova?
+PlaceNames	Battle Tower?	Torre Lotta?
+PlaceNames	Iron Island?	Isola Ferrosa?
+PlaceNames	Pastoria City?	Pratopoli?
+PlaceNames	Mt. Coronet?	Monte Corona?
+PlaceNames	Unova Pokemon League?	Lega Pokémon di Unima?
+PlaceNames	Nimbasa City?	Sciroccopoli?
+PlaceNames	Aspertia City?	Alisopoli?
+PlaceNames	Virbank City?	Virbopoli?
+PlaceNames	Geosenge Town?	Cromleburgo?
+PlaceNames	Shalour City?	Yantaropoli?
+PlaceNames	Iki Town?	Iki?
+PlaceNames	Aether Paradise?	Paradiso Aether?
+MapNames	Intro	Intro
+MapNames	Lappet Town	Lappet Town
+MapNames	\PN's house	Casa di \PN
+MapNames	Pokémon Lab	Laboratorio Pokémon
+MapNames	Route 1	Percorso 1
+MapNames	Kurt's house	Casa di Kurt
+MapNames	Cedolan City	Cedolan City
+MapNames	Daisy's house	Casa di Daisy
+MapNames	Cedolan City Poké Center	Centro Pokémon di Cedolan City
+MapNames	Cedolan Gym	Palestra di Cedolan
+MapNames	Pokémon Institute	Istituto Pokémon
+MapNames	Cedolan City Condo	Condominio di Cedolan City
+MapNames	Game Corner	Casinò
+MapNames	Cedolan Dept. 1F	Centro Comm. Cedolan 1P
+MapNames	Cedolan Dept. 2F	Centro Comm. Cedolan 2P
+MapNames	Cedolan Dept. 3F	Centro Comm. Cedolan 3P
+MapNames	Cedolan Dept. 4F	Centro Comm. Cedolan 4P
+MapNames	Cedolan Dept. 5F	Centro Comm. Cedolan 5P
+MapNames	Cedolan Dept. Rooftop	Centro Comm. Cedolan Tetto
+MapNames	Cedolan Dept. Elevator	Centro Comm. Cedolan Ascensore
+MapNames	Route 2	Percorso 2
+MapNames	Towns	Città
+MapNames	Lerucean Town	Lerucean Town
+MapNames	Lerucean Town Poké Center	Centro Pokémon di Lerucean Town
+MapNames	Lerucean Town Mart	Market di Lerucean Town
+MapNames	Pokémon Fan Club	Pokémon Fan Club
+MapNames	Pokémon Day Care	Pensione Pokémon
+MapNames	National Park	Parco Nazionale
+MapNames	National Park Entrance	Ingresso Parco Nazionale
+MapNames	National Park Pavillion	Padiglione Parco Nazionale
+MapNames	Route 3	Percorso 3
+MapNames	Routes	Percorsi
+MapNames	Pallet Town	Biancavilla
+MapNames	Ice Cave	Grotta Ghiacciata
+MapNames	Ingido Plateau	Altopiano Blu
+MapNames	Pokémon League	Lega Pokémon
+MapNames	Hall of Fame	Sala d'Onore
+MapNames	Route 4	Percorso 4
+MapNames	Route 5	Percorso 5
+MapNames	Pallet House	Casa di Biancavilla
+MapNames	Viridian City	Smeraldopoli
+MapNames	Route 6	Percorso 6
+MapNames	Cycling Road gate	Ingresso Pista Ciclabile
+MapNames	Route 7	Percorso 7
+MapNames	Professor Oak's Lab	Laboratorio del Prof. Oak
+MapNames	Rock Cave	Grotta Rocciosa
+MapNames	Dungeon	Dungeon
+MapNames	Battle Frontier	Parco Lotta
+MapNames	Battle Frontier Poké Center	Centro Pokémon del Parco Lotta
+MapNames	Battle Frontier Mart	Market del Parco Lotta
+MapNames	Battle Tower	Torre Lotta
+MapNames	Battle Tower arena	Arena Torre Lotta
+MapNames	Stadium Cup lobby	Atrio Coppa Stadio
+MapNames	Battle Palace	Palazzo Lotta
+MapNames	Battle Palace arena	Arena Palazzo Lotta
+MapNames	Battle Arena	Dojo Lotta
+MapNames	Battle Arena arena	Arena Dojo Lotta
+MapNames	Battle Factory	Fabbrica Lotta
+MapNames	Battle Factory intro corridor	Corridoio d'ingresso Fabbrica Lotta
+MapNames	Battle Factory arena	Arena Fabbrica Lotta
+MapNames	Battle Factory corridor	Corridoio Fabbrica Lotta
+MapNames	Safari Zone	Zona Safari
+MapNames	Safari Zone gate	Ingresso Zona Safari
+MapNames	Route 8	Percorso 8
+MapNames	Underwater	Sott'acqua
+MapNames	Harbour	Porto
+MapNames	Daroxy Island	Isola Daroxy
+MapNames	Faraday Island	Isola Faraday
+MapNames	Tiall Region	Regione di Tiall
+MapNames	Viridian House	Casa di Smeraldopoli
+MapNames	Viridian Pokémon Center	Centro Pokémon di Smeraldopoli
+MapNames	Gate	Varco
+MapNames	Viridian Forest	Bosco Smeraldo
+MapNames	Pewter City	Plumbeopoli
+MapNames	Pewter House	Casa di Plumbeopoli
+MapNames	Pewter Pokémon Center	Centro Pokémon di Plumbeopoli
+MapNames	Opelucid Gym	Palestra di Boreduopoli
+MapNames	Pewter Gym	Palestra di Plumbeopoli
+MapNames	Cerulean City	Celestopoli
+MapNames	Mt Moon B1F	Monte Luna S1
+MapNames	Cerulean House	Casa di Celestopoli
+MapNames	Mt Moon 1F	Monte Luna 1P
+MapNames	Cerulean Pokémon Center	Centro Pokémon di Celestopoli
+MapNames	Professor Cerise's Lab	Laboratorio del Prof. Cerise
+MapNames	Cerulean Gym	Palestra di Celestopoli
+MapNames	Bike Shop	Negozio di Bici
+MapNames	Route 5 Daycare	Pensione del Percorso 5
+MapNames	Route 9 Gem Shop	Negozio di Gemme del Percorso 9
+MapNames	Hidden Village	Villaggio Nascosto
+MapNames	Route 24	Percorso 24
+MapNames	Cinnabar Power Shop	Negozio Potenza di Cannella
+MapNames	Route 24 Pokémon Center	Centro Pokémon del Percorso 24
+MapNames	Route 25	Percorso 25
+MapNames	Route 25 House	Casa del Percorso 25
+MapNames	Bill's Lighthouse	Faro di Bill
+MapNames	Vermilion City	Aranciopoli
+MapNames	Vermilion House	Casa di Aranciopoli
+MapNames	Vermilion Pokémon Center	Centro Pokémon di Aranciopoli
+MapNames	Malie Item Shop	Negozio di Strumenti di Malie
+MapNames	Vermilion Gym	Palestra di Aranciopoli
+MapNames	Vermilion Pokémon Fan Club	Pokémon Fan Club di Aranciopoli
+MapNames	S.S. Anne	M/N Anna
+MapNames	S.S. Anne 1F	M/N Anna 1P
+MapNames	S.S. Anne Rooms	M/N Anna Cabine
+MapNames	S.S. Anne B1F	M/N Anna S1
+MapNames	S.S. Anne 2F	M/N Anna 2P
+MapNames	S.S. Anne Room	M/N Anna Cabina
+MapNames	S.S. Anne 3F	M/N Anna 3P
+MapNames	Route 11	Percorso 11
+MapNames	Underground Path	Sotterraneo
+MapNames	Laverre Scarf Shop	Negozio di Sciarpe di Romantopoli
+MapNames	Saffron City	Zafferanopoli
+MapNames	Saffron House	Casa di Zafferanopoli
+MapNames	Saffron Pokémon Center	Centro Pokémon di Zafferanopoli
+MapNames	Cable Club	Cable Club
+MapNames	Silph Co.	Silph S.p.A.
+MapNames	Magnet Train	Treno Magnetico
+MapNames	Saffron Gym	Palestra di Zafferanopoli
+MapNames	Lavender Town	Lavandonia
+MapNames	Zarude's Den	Tana di Zarude
+MapNames	Lavender House	Casa di Lavandonia
+MapNames	Lavender Pokémon Center	Centro Pokémon di Lavandonia
+MapNames	EXAMPLE MAP	MAPPA DI ESEMPIO
+MapNames	Route 38	Percorso 38
+MapNames	Pokémon Tower 1F	Torre Pokémon 1P
+MapNames	Pokémon Tower 2F	Torre Pokémon 2P
+MapNames	Pokémon Tower 3F	Torre Pokémon 3P
+MapNames	Pokémon Tower 4F	Torre Pokémon 4P
+MapNames	Pokémon Tower 5F	Torre Pokémon 5P
+MapNames	Pokémon Tower 6F	Torre Pokémon 6P
+MapNames	Pokémon Tower 7F	Torre Pokémon 7P
+MapNames	Celadon City	Azzurropoli
+MapNames	Celadon House	Casa di Azzurropoli
+MapNames	Celadon Pokémon Center	Centro Pokémon di Azzurropoli
+MapNames	Celadon Dept. 1F	Centro Comm. Azzurropoli 1P
+MapNames	Celadon Dept. 2F	Centro Comm. Azzurropoli 2P
+MapNames	Celadon Dept. 3F	Centro Comm. Azzurropoli 3P
+MapNames	Celadon Dept. 4F	Centro Comm. Azzurropoli 4P
+MapNames	Celadon Dept. 5F	Centro Comm. Azzurropoli 5P
+MapNames	Celadon Dept. Rooftop	Centro Comm. Azzurropoli Tetto
+MapNames	Celadon Dept. Elevator	Centro Comm. Azzurropoli Ascensore
+MapNames	Celadon Gym	Palestra di Azzurropoli
+MapNames	Fighting Dojo	Dojo Karate
+MapNames	P1 Grand Prix	Gran Premio P1
+MapNames	Route 16	Percorso 16
+MapNames	Hoenn Battle Frontier	Parco Lotta di Hoenn
+MapNames	Gringey City Power Plant	Centrale Elettrica di Gringey City
+MapNames	Route 17	Percorso 17
+MapNames	Route 18	Percorso 18
+MapNames	Wyndon	Wyndon
+MapNames	Wyndon House	Casa di Wyndon
+MapNames	Wyndon Pokémon Center	Centro Pokémon di Wyndon
+MapNames	Fuchsia City	Fucsiapoli
+MapNames	Fuchsia House	Casa di Fucsiapoli
+MapNames	Fuchsia Pokémon Center	Centro Pokémon di Fucsiapoli
+MapNames	Wyndon Stadium	Stadio di Wyndon
+MapNames	Fuchsia Gym	Palestra di Fucsiapoli
+MapNames	Safari Zone Kanto	Zona Safari di Kanto
+MapNames	Route 19	Percorso 19
+MapNames	Route 19 House	Casa del Percorso 19
+MapNames	Wild Area	Terre Selvagge
+MapNames	Cinnabar Island	Isola Cannella
+MapNames	Cinnabar House	Casa di Cannella
+MapNames	Cinnabar Pokémon Center	Centro Pokémon di Cannella
+MapNames	Pewter Museum of Science	Museo della Scienza di Plumbeopoli
+MapNames	Pokémon Mansion 1F	Villa Pokémon 1P
+MapNames	Pokémon Mansion 2F	Villa Pokémon 2P
+MapNames	Pokémon Mansion 3F	Villa Pokémon 3P
+MapNames	Pokémon Mansion B1F	Villa Pokémon S1
+MapNames	Cinnabar Gym	Palestra di Cannella
+MapNames	Viridian Gym	Palestra di Smeraldopoli
+MapNames	Route 22	Percorso 22
+MapNames	Indigo Plateau	Altopiano Blu
+MapNames	Kanto Pokemon League	Lega Pokémon di Kanto
+MapNames	Indigo Rock	Campo Roccia Indigo
+MapNames	Indigo Water	Campo Acqua Indigo
+MapNames	Indigo Ice	Campo Ghiaccio Indigo
+MapNames	Indigo Grass	Campo Erba Indigo
+MapNames	Indigo Stadium	Stadio Indigo
+MapNames	Kanto	Kanto
+MapNames	Orange Archipelago	Arcipelago Orange
+MapNames	Valencia House	Casa di Valencia
+MapNames	Valencia Island Blimp	Dirigibile di Isola Valencia
+MapNames	Valencia Island	Isola Valencia
+MapNames	Valencia Pokémon Center	Centro Pokémon di Valencia
+MapNames	Tangelo Island	Isola Tangelo
+MapNames	Tangelo House	Casa di Tangelo
+MapNames	Tangelo Pokémon Center	Centro Pokémon di Tangelo
+MapNames	Mikan Island	Isola Mikan
+MapNames	Mikan House	Casa di Mikan
+MapNames	Mikan Pokémon Center	Centro Pokémon di Mikan
+MapNames	Mikan Gym	Palestra di Mikan
+MapNames	Navel House	Casa di Navel
+MapNames	Navel Island	Isola Navel
+MapNames	Navel Pokémon Center	Centro Pokémon di Navel
+MapNames	Navel Rock 1F	Roccia Navel 1P
+MapNames	Navel Rock B1F	Roccia Navel S1
+MapNames	Navel Rock 2F	Roccia Navel 2P
+MapNames	Navel Rock 3F	Roccia Navel 3P
+MapNames	Navel Gym	Palestra di Navel
+MapNames	Seven Grapefruit Islands	Sette Isole Grapefruit
+MapNames	Grapefruit Pokémon Center	Centro Pokémon di Grapefruit
+MapNames	Grapefruit House	Casa di Grapefruit
+MapNames	Trovita Island	Isola Trovita
+MapNames	Trovita House	Casa di Trovita
+MapNames	Trovita Pokémon Center	Centro Pokémon di Trovita
+MapNames	Trovita Gym	Palestra di Trovita
+MapNames	Ascorbia Island	Isola Ascorbia
+MapNames	Ascorbia House	Casa di Ascorbia
+MapNames	Ascrobia Pokémon Center	Centro Pokémon di Ascorbia
+MapNames	Kumquat Island	Isola Kumquat
+MapNames	Kumquat Pokémon Center	Centro Pokémon di Kumquat
+MapNames	Kumquat House	Casa di Kumquat
+MapNames	Galar	Galar
+MapNames	Kumquat Gym	Palestra di Kumquat
+MapNames	Pummelo Island	Isola Pummelo
+MapNames	Pummelo Pokémon Center	Centro Pokémon di Pummelo
+MapNames	Pummelo Stadium	Stadio di Pummelo
+MapNames	Johto	Johto
+MapNames	Route 45	Percorso 45
+MapNames	New Bark Town	Borgo Foglianova
+MapNames	New Bark House	Casa di Borgo Foglianova
+MapNames	Professor Elm's Lab	Laboratorio del Prof. Elm
+MapNames	Route 29	Percorso 29
+MapNames	Cherrygrove City	Fiorpescopoli
+MapNames	Cherrygrove House	Casa di Fiorpescopoli
+MapNames	Cherrygrove Pokémon Center	Centro Pokémon di Fiorpescopoli
+MapNames	Route 30	Percorso 30
+MapNames	Violet City	Violapoli
+MapNames	Violet House	Casa di Violapoli
+MapNames	Violet Pokémon Center	Centro Pokémon di Violapoli
+MapNames	Dragonite Island	Isola Dragonite
+MapNames	Sprout Tower	Torre Sprout
+MapNames	Violet Gym	Palestra di Violapoli
+MapNames	Route 32	Percorso 32
+MapNames	Charicific Valley	Valle Charicifica
+MapNames	Route 33	Percorso 33
+MapNames	Azalea Town	Azalina
+MapNames	Azalea House	Casa di Azalina
+MapNames	Azalea Pokémon Center	Centro Pokémon di Azalina
+MapNames	Slowpoke Well	Pozzo Slowpoke
+MapNames	Azalea Gym	Palestra di Azalina
+MapNames	Ilex Forest	Bosco di Lecci
+MapNames	Pokémon Swap Meet	Mercatino Pokémon
+MapNames	Swap Meet Pokémon Center	Centro Pokémon del Mercatino
+MapNames	Route 34	Percorso 34
+MapNames	Element Islands	Isole Elemento
+MapNames	Goldenrod City	Fiordoropoli
+MapNames	Goldenrod House	Casa di Fiordoropoli
+MapNames	Goldenrod Pokémon Center	Centro Pokémon di Fiordoropoli
+MapNames	Goldenrod Dept. 1F	Centro Comm. Fiordoropoli 1P
+MapNames	Goldenrod Dept. 2F	Centro Comm. Fiordoropoli 2P
+MapNames	Goldenrod Dept. 4F	Centro Comm. Fiordoropoli 4P
+MapNames	Goldenrod Dept. 5F	Centro Comm. Fiordoropoli 5P
+MapNames	Goldenrod Dept. Elevator	Centro Comm. Fiordoropoli Ascensore
+MapNames	Goldenrod Dept. 3F	Centro Comm. Fiordoropoli 3P
+MapNames	Goldenrod Tunnel	Tunnel di Fiordoropoli
+MapNames	Goldenrod Gym	Palestra di Fiordoropoli
+MapNames	Route 35	Percorso 35
+MapNames	Route 36	Percorso 36
+MapNames	Ruins of Alph	Rovine d'Alfa
+MapNames	Ruins of Alph House	Casa delle Rovine d'Alfa
+MapNames	Route 37	Percorso 37
+MapNames	Ecruteak City	Amarantopoli
+MapNames	Ecruteak House	Casa di Amarantopoli
+MapNames	Ecruteak Pokémon Center	Centro Pokémon di Amarantopoli
+MapNames	Desert Resort	Deserto della Quiete
+MapNames	Burned Tower	Torre Bruciata
+MapNames	Kimono Dance Theater	Teatro di Danza
+MapNames	Ecruteak Gym	Palestra di Amarantopoli
+MapNames	Route 39	Percorso 39
+MapNames	Route 39 House	Casa del Percorso 39
+MapNames	Olivine City	Olivinopoli
+MapNames	Olivine House	Casa di Olivinopoli
+MapNames	Olivine Pokémon Center	Centro Pokémon di Olivinopoli
+MapNames	Colossus Ruins	Rovine del Colosso
+MapNames	Glitter Lighthouse 1F	Faro Lucente 1P
+MapNames	Glitter Lighthouse 2F	Faro Lucente 2P
+MapNames	Glitter Lighthouse 3F	Faro Lucente 3P
+MapNames	Glitter Lighthouse 4F	Faro Lucente 4P
+MapNames	Glitter Lighthouse 5F	Faro Lucente 5P
+MapNames	Cianwood City	Fiorlisopoli
+MapNames	Cianwood House	Casa di Fiorlisopoli
+MapNames	Cianwood Pokémon Center	Centro Pokémon di Fiorlisopoli
+MapNames	Safari Zone Johto	Zona Safari Johto
+MapNames	Cianwood Gym	Palestra di Fiorlisopoli
+MapNames	Ogi Isle	Isola Ogi
+MapNames	Red Rock Isle	Isola Roccia Rossa
+MapNames	Red Rock House	Casa di Roccia Rossa
+MapNames	Red Rock Pokémon Center	Centro Pokémon di Roccia Rossa
+MapNames	Red Rock Pokémon Mart	Pokémon Market di Roccia Rossa
+MapNames	Whirl Cup	Coppa Vortice
+MapNames	Yellow Rock Isle	Isola Roccia Gialla
+MapNames	Blue Rock Isle	Isola Roccia Blu
+MapNames	Olivine Gym	Palestra di Olivinopoli
+MapNames	Route 42	Percorso 42
+MapNames	Route 42 Day Care	Pensione del Percorso 42
+MapNames	Route 43	Percorso 43
+MapNames	Lake of Rage	Lago d'Ira
+MapNames	Mahogany Town	Mogania
+MapNames	Mahogany House	Casa di Mogania
+MapNames	Mahogany Pokémon Center	Centro Pokémon di Mogania
+MapNames	Route 229	Percorso 229
+MapNames	Mahogany Gym	Palestra di Mogania
+MapNames	Route 44	Percorso 44
+MapNames	Blackthorn City	Ebanopoli
+MapNames	Blackthorn House	Casa di Ebanopoli
+MapNames	Blackthorn Pokémon Center	Centro Pokémon di Ebanopoli
+MapNames	Resort Area	Area Svago
+MapNames	Blackthorn Gym	Palestra di Ebanopoli
+MapNames	Dragon's Den	Tana del Drago
+MapNames	Dragon Holy Land	Terra Sacra dei Draghi
+MapNames	Silver Conference	Conferenza Argento
+MapNames	Johto Pokemon League	Lega Pokémon di Johto
+MapNames	Silver Elimination	Eliminatorie Argento
+MapNames	Round Robin 1	Girone 1
+MapNames	Round Robin 2	Girone 2
+MapNames	Silver Stadium	Stadio Argento
+MapNames	Hoenn	Hoenn
+MapNames	Littleroot Town	Albanova
+MapNames	Littleroot House	Casa di Albanova
+MapNames	Professor Birch's Lab	Laboratorio del Prof. Birch
+MapNames	Route 101	Percorso 101
+MapNames	Oldale Town	Solarosa
+MapNames	Oldale House	Casa di Solarosa
+MapNames	Oldale Pokémon Center	Centro Pokémon di Solarosa
+MapNames	Resort Area House	Casa dell'Area Svago
+MapNames	Route 102	Percorso 102
+MapNames	Petalburg City	Petalipoli
+MapNames	Petalburg House	Casa di Petalipoli
+MapNames	Petalburg Pokémon Center	Centro Pokémon di Petalipoli
+MapNames	Mauville City	Ciclamipoli
+MapNames	Route 104	Percorso 104
+MapNames	Petalburg Woods	Bosco Petalo
+MapNames	Route 104 House	Casa del Percorso 104
+MapNames	Rustboro City	Ferrugipoli
+MapNames	Rustboro House	Casa di Ferrugipoli
+MapNames	Rustboro School	Scuola di Ferrugipoli
+MapNames	Rustboro Pokémon Center	Centro Pokémon di Ferrugipoli
+MapNames	Rustboro Gym	Palestra di Ferrugipoli
+MapNames	Dewford Town	Bluruvia
+MapNames	Dewford House	Casa di Bluruvia
+MapNames	Dewford Pokémon Center	Centro Pokémon di Bluruvia
+MapNames	Granite Cave	Grotta Pietrosa
+MapNames	Route 106	Percorso 106
+MapNames	Dewford Gym	Palestra di Bluruvia
+MapNames	Route 109	Percorso 109
+MapNames	Slateport City	Porto Selcepoli
+MapNames	Slateport House	Casa di Porto Selcepoli
+MapNames	Slateport Pokémon Center	Centro Pokémon di Porto Selcepoli
+MapNames	Cerise Park	Parco Cerise
+MapNames	Oceanic Museum	Museo Oceanografico
+MapNames	Slateport Contest	Gara di Porto Selcepoli
+MapNames	Route 110	Percorso 110
+MapNames	Mauville House	Casa di Ciclamipoli
+MapNames	Mauville Pokémon Center	Centro Pokémon di Ciclamipoli
+MapNames	Mauville Gym	Palestra di Ciclamipoli
+MapNames	Route 111	Percorso 111
+MapNames	Mirage Kingdom	Regno Miraggio
+MapNames	Route 111 House	Casa del Percorso 111
+MapNames	Route 113	Percorso 113
+MapNames	Fallabor Town	Mentania
+MapNames	Fallarbor House	Casa di Brunifoglia
+MapNames	Fallarbor Pokémon Center	Centro Pokémon di Brunifoglia
+MapNames	Route 10	Percorso 10
+MapNames	Fallarbor Contest	Gara di Brunifoglia
+MapNames	Lavaridge Town	Cuordilava
+MapNames	Fiery Path	Cammino Ardente
+MapNames	Lavaridge House	Casa di Cuordilava
+MapNames	Lavaridge Pokémon Center	Centro Pokémon di Cuordilava
+MapNames	Kanto Power Plant	Centrale Elettrica di Kanto
+MapNames	Lavaridge Gym	Palestra di Cuordilava
+MapNames	Route 112	Percorso 112
+MapNames	Valley of Steel	Valle d'Acciaio
+MapNames	Petalburg Gym	Palestra di Petalipoli
+MapNames	Route 118	Percorso 118
+MapNames	Route 119	Percorso 119
+MapNames	Fortree City	Forestopoli
+MapNames	Fortree House	Casa di Forestopoli
+MapNames	Fortree Pokémon Center	Centro Pokémon di Forestopoli
+MapNames	Slumbering Weald	Bosco Assopito
+MapNames	Fortree Gym	Palestra di Forestopoli
+MapNames	Route 120	Percorso 120
+MapNames	Route 121	Percorso 121
+MapNames	Lilycove City	Porto Alghepoli
+MapNames	Lilycove House	Casa di Porto Alghepoli
+MapNames	Lilycove Pokémon Center	Centro Pokémon di Porto Alghepoli
+MapNames	Lilycove Contest	Gara di Porto Alghepoli
+MapNames	Weather Instiitute	Istituto Meteo
+MapNames	Lilycove Dept. 1F	Centro Comm. Porto Alghepoli 1P
+MapNames	Lilycove Dept. 2F	Centro Comm. Porto Alghepoli 2P
+MapNames	Lilycove Dept. 3F	Centro Comm. Porto Alghepoli 3P
+MapNames	Lilycove Dept. 4F	Centro Comm. Porto Alghepoli 4P
+MapNames	Lilycove Dept. 5F	Centro Comm. Porto Alghepoli 5P
+MapNames	Lilycove Dept. Elevator	Ascensore Centro Comm. Porto Alghepoli
+MapNames	Mossdeep City	Verdeazzupoli
+MapNames	Mossdeep House	Casa di Verdeazzupoli
+MapNames	Mossdeep Pokémon Center	Centro Pokémon di Verdeazzupoli
+MapNames	Hammerlocke	Hammerlocke
+MapNames	Mossdeep Space Center	Centro Spaziale di Verdeazzupoli
+MapNames	Mossdeep Gym	Palestra di Verdeazzupoli
+MapNames	Izabe Island	Isola Izabe
+MapNames	Izabe House	Casa di Izabe
+MapNames	Purika Pokémon Center	Centro Pokémon di Purika
+MapNames	Riyado Pokémon Center	Centro Pokémon di Riyado
+MapNames	Cerosi Pokémon Center	Centro Pokémon di Cerosi
+MapNames	Hammerlocke House	Casa di Hammerlocke
+MapNames	Purika Contest	Gara di Purika
+MapNames	Izabe Desert	Deserto di Izabe
+MapNames	Izabe Forest	Bosco di Izabe
+MapNames	Hammerlocke Pokémon Center	Centro Pokémon di Hammerlocke
+MapNames	Izabe Cave	Grotta di Izabe
+MapNames	Sootopolis City	Ceneride
+MapNames	Sootopolis House	Casa di Ceneride
+MapNames	Sootopolis Pokémon Center	Centro Pokémon di Ceneride
+MapNames	Hammerlocke Stadium	Stadio di Hammerlocke
+MapNames	Sootopolis Gym	Palestra di Ceneride
+MapNames	Pacifidlog Town	Orocea
+MapNames	Pacifidlog House	Casa di Orocea
+MapNames	Pacifidlog Pokémon Center	Centro Pokémon di Orocea
+MapNames	Pacifidlog Contest	Gara di Orocea
+MapNames	Ever Grande Conference	Conferenza Iridopoli
+MapNames	Hoenn Pokemon League	Lega Pokémon di Hoenn
+MapNames	Ever Grande Elimination	Eliminatorie Iridopoli
+MapNames	Ever Grande Doubles	Doppie Iridopoli
+MapNames	Grande Top 32	Iridopoli Top 32
+MapNames	Grande Top 16	Iridopoli Top 16
+MapNames	Grande Top 8	Iridopoli Top 8
+MapNames	Ever Grande Doubles 2	Doppie Iridopoli 2
+MapNames	Ever Grande Doubles 1	Doppie Iridopoli 1
+MapNames	Lavaridge Day Care	Pensione di Cuordilava
+MapNames	Battle Factory Stage	Palco Fabbrica Lotta
+MapNames	Saffron Contest	Gara di Zafferanopoli
+MapNames	Battle Arena Stage	Palco Dojo Lotta
+MapNames	Route 12	Percorso 12
+MapNames	Route 12 Breeding Center	Centro Allevamento Percorso 12
+MapNames	Route 13	Percorso 13
+MapNames	Battle Dome Stage	Palco Cupola Lotta
+MapNames	Battle Dome	Cupola Lotta
+MapNames	Route 14	Percorso 14
+MapNames	Route 15	Percorso 15
+MapNames	Safari Zone Hoenn	Zona Safari Hoenn
+MapNames	Battle Pike	Serpe Lotta
+MapNames	Battle Pike Stage	Palco Serpe Lotta
+MapNames	Metallica Island	Isola Metallica
+MapNames	Battle Palace Stage	Palco Palazzo Lotta
+MapNames	Route 26	Percorso 26
+MapNames	Route 26 House	Casa del Percorso 26
+MapNames	Battle Tower Challenge	Sfida Torre Lotta
+MapNames	Battle Tower Stage	Palco Torre Lotta
+MapNames	Battle Pyramid	Piramide Lotta
+MapNames	Sinnoh	Sinnoh
+MapNames	Battle Pyramid Stage	Palco Piramide Lotta
+MapNames	Sandgem House	Casa di Sabbiafine
+MapNames	Sandgem Pokémon Center	Centro Pokémon di Sabbiafine
+MapNames	Route 202	Percorso 202
+MapNames	Sandgem Town	Sabbiafine
+MapNames	Tower Summit	Cima della Torre
+MapNames	Professor Rowan's Lab	Laboratorio del Prof. Rowan
+MapNames	Route 201	Percorso 201
+MapNames	Lake Verity	Lago Verità
+MapNames	Twinleaf Town	Duefoglie
+MapNames	Twinleaf House	Casa di Duefoglie
+MapNames	Jubilife City	Giubilopoli
+MapNames	Jubilife House	Casa di Giubilopoli
+MapNames	Cero Island	Isola Cero
+MapNames	Jubilife Pokémon Center	Centro Pokémon di Giubilopoli
+MapNames	Route 203	Percorso 203
+MapNames	Oreburgh Gate	Varco Mineropoli
+MapNames	Oreburgh City	Mineropoli
+MapNames	Oreburgh House	Casa di Mineropoli
+MapNames	Oreburgh Pokémon Center	Centro Pokémon di Mineropoli
+MapNames	Stow-on-Side	Stow-on-Side
+MapNames	Oreburgh Mining Museum	Museo Minerario di Mineropoli
+MapNames	Oreburgh Mine	Miniera di Mineropoli
+MapNames	Route 204	Percorso 204
+MapNames	Oreburgh Gym	Palestra di Mineropoli
+MapNames	Ravaged Path	Via Dissestata
+MapNames	Floaroma Town	Floraria
+MapNames	Floaroma House	Casa di Floraria
+MapNames	Floaroma Pokémon Center	Centro Pokémon di Floraria
+MapNames	Stow-on-Side House	Casa di Stow-on-Side
+MapNames	Floaroma Contest	Gara di Floraria
+MapNames	Floaroma Meadow	Prato Floraria
+MapNames	Route 205	Percorso 205
+MapNames	Route 205 House	Casa del Percorso 205
+MapNames	Eterna Forest	Bosco Evopoli
+MapNames	Eterna City	Evopoli
+MapNames	Eterna House	Casa di Evopoli
+MapNames	Eterna Pokémon Center	Centro Pokémon di Evopoli
+MapNames	Stow-on-Side Stadium	Stadio di Stow-on-Side
+MapNames	Eterna Gym	Palestra di Evopoli
+MapNames	Route 206	Percorso 206
+MapNames	Route 206 Gate	Varco del Percorso 206
+MapNames	Route 207	Percorso 207
+MapNames	Hearthome City	Cuoripoli
+MapNames	Hearthome House	Casa di Cuoripoli
+MapNames	Hearthome Pokémon Fan Club	Fan Club Pokémon di Cuoripoli
+MapNames	Hearthome Pokémon Center	Centro Pokémon di Cuoripoli
+MapNames	Stow-on-Side Pokémon Center	Centro Pokémon di Stow-on-Side
+MapNames	Hearthome Contest	Gara di Cuoripoli
+MapNames	Battle Hall	Sala Lotta
+MapNames	Battle Hall Stadium	Stadio Sala Lotta
+MapNames	Route 209	Percorso 209
+MapNames	Solaceon Town	Flemminia
+MapNames	Solaceon House	Casa di Flemminia
+MapNames	Solaceon Day Care	Pensione di Flemminia
+MapNames	Solaceon Pokémon Center	Centro Pokémon di Flemminia
+MapNames	Glimwood Tangle	Bosco Lucente
+MapNames	Solaceon Contest	Gara di Flemminia
+MapNames	Solaceon Ruins	Rovine di Flemminia
+MapNames	Route 210	Percorso 210
+MapNames	Route 210 House	Casa del Percorso 210
+MapNames	Route 215	Percorso 215
+MapNames	Route 215 gate	Varco del Percorso 215
+MapNames	Veilstone City	Rupepoli
+MapNames	Veilstone House	Casa di Rupepoli
+MapNames	Veilstone Pokémon Center	Centro Pokémon di Rupepoli
+MapNames	Veilstone Dept. 1F	Centro Comm. Rupepoli 1P
+MapNames	Veilstone Dept. 2F	Centro Comm. Rupepoli 2P
+MapNames	Veilstone Dept. 3F	Centro Comm. Rupepoli 3P
+MapNames	Veilstone Dept. 4F	Centro Comm. Rupepoli 4P
+MapNames	Veilstone Dept. 5F	Centro Comm. Rupepoli 5P
+MapNames	Veilstone Dept. Rooftop	Tetto Centro Comm. Rupepoli
+MapNames	Veilstone Dept. Elevator	Ascensore Centro Comm. Rupepoli
+MapNames	Veilstone Gym	Palestra di Rupepoli
+MapNames	Route 214	Percorso 214
+MapNames	Ballonlea	Ballonlea
+MapNames	Valor Lakefront	Riva Lago Valore
+MapNames	Valor Lakefront House	Casa di Riva Lago Valore
+MapNames	Seven Stars Restaurant	Ristorante Sette Stelle
+MapNames	Lake Valor	Lago Valore
+MapNames	Lake Valor Contest	Gara del Lago Valore
+MapNames	Route 213	Percorso 213
+MapNames	Route 213 House	Casa del Percorso 213
+MapNames	Pastoria City	Pratopoli
+MapNames	Safari Zone Sinnoh	Zona Safari Sinnoh
+MapNames	Ballonlea House	Casa di Ballonlea
+MapNames	Pastoria House	Casa di Pratopoli
+MapNames	Pastoria Pokémon Center	Centro Pokémon di Pratopoli
+MapNames	Ballonlea Pokémon Center	Centro Pokémon di Ballonlea
+MapNames	Pastoria Gym	Palestra di Pratopoli
+MapNames	Route 212	Percorso 212
+MapNames	Ballonlea Stadium	Stadio di Ballonlea
+MapNames	Pokémon Mansion	Villa Pokémon
+MapNames	Trophy Garden	Giardino Trofeo
+MapNames	Route 212 House	Casa del Percorso 212
+MapNames	Celestic Town	Memoride
+MapNames	Celestic House	Casa di Memoride
+MapNames	Celestic Contest	Gara di Memoride
+MapNames	Celestic Ruins	Rovine di Memoride
+MapNames	Hearthome Gym	Palestra di Cuoripoli
+MapNames	Route 218	Percorso 218
+MapNames	Canalave City	Canalipoli
+MapNames	Canalave House	Casa di Canalipoli
+MapNames	Canalave Pokémon Center	Centro Pokémon di Canalipoli
+MapNames	Castle of Chivalry	Castello della Cavalleria
+MapNames	Canalave Gym	Palestra di Canalipoli
+MapNames	Iron Island	Isola Ferrosa
+MapNames	Route 211	Percorso 211
+MapNames	Route 216	Percorso 216
+MapNames	Route 216 House	Casa del Percorso 216
+MapNames	Route 217	Percorso 217
+MapNames	Route 217 House	Casa del Percorso 217
+MapNames	Lake Acuity	Lago Arguzia
+MapNames	Snowpoint City	Nevepoli
+MapNames	Snowpoint House	Casa di Nevepoli
+MapNames	Snowpoint Pokémon Center	Centro Pokémon di Nevepoli
+MapNames	Mt. Coronet	Monte Corona
+MapNames	Snowpoint Gym	Palestra di Nevepoli
+MapNames	Route 222	Percorso 222
+MapNames	Route 222 House	Casa del Percorso 222
+MapNames	Sunnyshore City	Arenipoli
+MapNames	Sunnyshore House	Casa di Arenipoli
+MapNames	Sunnyshore Stone Shop	Negozio di Pietre di Arenipoli
+MapNames	Sunnyshore Pokémon Center	Centro Pokémon di Arenipoli
+MapNames	Sunnyshore Tower	Torre di Arenipoli
+MapNames	Lake Verity Cave	Grotta del Lago Verità
+MapNames	Lake Valor Cave	Grotta del Lago Valore
+MapNames	Lake Acuity Cave	Grotta del Lago Arguzia
+MapNames	Sunnyshore Gym	Palestra di Arenipoli
+MapNames	Lily of the Valley Island	Isola Mughetto
+MapNames	Sinnoh Pokemon League	Lega Pokémon di Sinnoh
+MapNames	Lily Basic	Mughetto Base
+MapNames	Lily Top 16	Mughetto Top 16
+MapNames	Lily Top 8	Mughetto Top 8
+MapNames	Lily Top 4	Mughetto Top 4
+MapNames	Old Chateau	Antico Chateau
+MapNames	Unova	Unima
+MapNames	Nuvema Town	Soffiolieve
+MapNames	Nuvema House	Casa di Soffiolieve
+MapNames	Professor Juniper's Lab	Laboratorio della Prof. Aralia
+MapNames	Accumula Town	Quattroventi
+MapNames	Accumula House	Casa di Quattroventi
+MapNames	Accumula Pokémon Center	Centro Pokémon di Quattroventi
+MapNames	Striaton City	Levantopoli
+MapNames	Striaton House	Casa di Levantopoli
+MapNames	Striaton Pokémon Center	Centro Pokémon di Levantopoli
+MapNames	Striaton Gym	Palestra di Levantopoli
+MapNames	Dreamyard	Cantiere dei Sogni
+MapNames	Route 3 Day Care	Pensione del Percorso 3
+MapNames	Route 3 House	Casa del Percorso 3
+MapNames	Wellspring Cave	Grotta Sgorgo
+MapNames	Nacrene City	Zefiropoli
+MapNames	Pinwheel Forest	Bosco Girandola
+MapNames	Nacrene House	Casa di Zefiropoli
+MapNames	Nacrene Pokémon Center	Centro Pokémon di Zefiropoli
+MapNames	Nacrene Museum	Museo di Zefiropoli
+MapNames	Nacrene Gym	Palestra di Zefiropoli
+MapNames	Skyarrow Bridge	Ponte Freccialuce
+MapNames	Castelia City	Austropoli
+MapNames	Castelia House	Casa di Austropoli
+MapNames	Castelia Pokémon Center	Centro Pokémon di Austropoli
+MapNames	Castelia Gym	Palestra di Austropoli
+MapNames	Club Battle	Club Lotta
+MapNames	Club Battle Room	Sala del Club Lotta
+MapNames	Nimbasa City	Sciroccopoli
+MapNames	Nimbasa House	Casa di Sciroccopoli
+MapNames	Musical Theater	Teatro Musical
+MapNames	Battle Subway	Metrò Lotta
+MapNames	Stadium	Stadio
+MapNames	Nimbasa Pokémon Center	Centro Pokémon di Sciroccopoli
+MapNames	Nimbasa Gym	Palestra di Sciroccopoli
+MapNames	Driftveil City	Libecciopoli
+MapNames	Driftveil Drawbridge	Ponte Levatoio Libecciopoli
+MapNames	Driftveil House	Casa di Libecciopoli
+MapNames	Driftveil Pokémon Center	Centro Pokémon di Libecciopoli
+MapNames	Milos Island	Isola Milos
+MapNames	Driftveil Market	Mercato di Libecciopoli
+MapNames	Driftveil Gym	Palestra di Libecciopoli
+MapNames	Route 6 House	Casa del Percorso 6
+MapNames	Chargestone Cave 1F	Grotta Pietrelettrica 1P
+MapNames	Chargestone Cave B1F	Grotta Pietrelettrica P1S
+MapNames	Chargestone Cave B2F	Grotta Pietrelettrica P2S
+MapNames	Mistralton City	Ponentopoli
+MapNames	Mistralton House	Casa di Ponentopoli
+MapNames	Mistralton Pokémon Center	Centro Pokémon di Ponentopoli
+MapNames	Mistralton Gym	Palestra di Ponentopoli
+MapNames	Route 7 House	Casa del Percorso 7
+MapNames	Clubsplosion	Clubsplosion
+MapNames	Clubsplosion  Room	Sala Clubsplosion
+MapNames	Mistralton Tower 1F	Torre di Ponentopoli 1P
+MapNames	Mistralton Tower 2F	Torre di Ponentopoli 2P
+MapNames	Mistralton Tower 3F	Torre di Ponentopoli 3P
+MapNames	Mistralton Tower 4F	Torre di Ponentopoli 4P
+MapNames	Mistralton Tower Roof	Tetto Torre di Ponentopoli
+MapNames	Twist Mountain	Monte Vite
+MapNames	Twist Mountain 1F	Monte Vite 1P
+MapNames	Twist Mountain 2F	Monte Vite 2P
+MapNames	Twist Mountain 3F	Monte Vite 3P
+MapNames	Icirrus City	Mistralopoli
+MapNames	Icirrus House	Casa di Mistralopoli
+MapNames	Icirrus Pokémon Fan Club	Fan Club Pokémon di Mistralopoli
+MapNames	Icirrus Pokémon Center	Centro Pokémon di Mistralopoli
+MapNames	Icirrus Gym	Palestra di Mistralopoli
+MapNames	Route 9	Percorso 9
+MapNames	Shopping Mall Nine 1F	Centro Comm. Nove 1P
+MapNames	Shopping Mall Nine 2F	Centro Comm. Nove 2P
+MapNames	Shopping Mall Nine 3F	Centro Comm. Nove 3P
+MapNames	Shopping Mall Nine 4F	Centro Comm. Nove 4P
+MapNames	Shopping Mall Nine 5F	Centro Comm. Nove 5P
+MapNames	Shopping Mall Nine Elevator	Ascensore Centro Comm. Nove
+MapNames	Virbank City	Virbopoli
+MapNames	Virbank House	Casa di Virbopoli
+MapNames	Virbank Pokémon Center	Centro Pokémon di Virbopoli
+MapNames	Virbank Gym	Palestra di Virbopoli
+MapNames	Undella Town	Spiraria
+MapNames	Undella House	Casa di Spiraria
+MapNames	Undella Pokémon Center	Centro Pokémon di Spiraria
+MapNames	Cynthia's Villa	Villa di Camilla
+MapNames	Junior Cup	Coppa Junior
+MapNames	Junior Cup Room	Sala della Coppa Junior
+MapNames	Undella Bay	Baia Spiraria
+MapNames	Mistralton Cave	Grotta di Ponentopoli
+MapNames	Twist Mountain 4F	Monte Vite 4P
+MapNames	Opelucid City	Boreduopoli
+MapNames	Opelucid House	Casa di Boreduopoli
+MapNames	Opelucid Pokémon Center	Centro Pokémon di Boreduopoli
+MapNames	Vetress City	Vetress City
+MapNames	Unova Pokemon League	Lega Pokémon di Unima
+MapNames	Vetress 128	Vetress 128
+MapNames	Vetress 64	Vetress 64
+MapNames	Vetress 32	Vetress 32
+MapNames	Vetress 16	Vetress 16
+MapNames	Vetress 8	Vetress 8
+MapNames	Oak's Corral	Recinto di Oak
+MapNames	Route 20	Percorso 20
+MapNames	Aspertia City	Alisopoli
+MapNames	Aspertia House	Casa di Alisopoli
+MapNames	Aspertia Pokémon Center	Centro Pokémon di Alisopoli
+MapNames	Aspertia Gym	Palestra di Alisopoli
+MapNames	White Ruins	Rovine Bianche
+MapNames	Pallet Town-Red	Biancavilla-Rosso
+MapNames	Viridian Gym-Blue	Palestra di Smeraldopoli-Blu
+MapNames	Indigo Plateau-Green	Altopiano Blu-Verde
+MapNames	Viridian Forest-Yellow	Bosco Smeraldo-Giallo
+MapNames	New Bark Town-Gold	Borgo Foglianova-Oro
+MapNames	Viridian City-Silver	Smeraldopoli-Argento
+MapNames	Ecruteak City-Crystal	Amarantopoli-Cristallo
+MapNames	Slateport City-Ruby	Porto Selcepoli-Rubino
+MapNames	Littleroot Town-Sapphire	Albanova-Zaffiro
+MapNames	Battle Tower-Emerald	Torre Lotta-Smeraldo
+MapNames	Iron Island-Diamond	Isola Ferrosa-Diamante
+MapNames	Pastoria City-Pearl	Pratopoli-Perla
+MapNames	Mt. Coronet-Platinum	Monte Corona-Platino
+MapNames	Unova Pokemon League-Black	Lega Pokémon di Unima-Nero
+MapNames	Nimbasa City-White	Sciroccopoli-Bianco
+MapNames	Kalos	Kalos
+MapNames	Aspertia City-Whitley	Alisopoli-Whitley
+MapNames	Virbank City-Blake	Virbopoli-Blake
+MapNames	Lumiose City	Luminopoli
+MapNames	Lumiose House	Casa di Luminopoli
+MapNames	Lumiose Pokémon Center	Centro Pokémon di Luminopoli
+MapNames	Professor Sycamore's Lab	Laboratorio del Prof. Platan
+MapNames	Lumiose Gate	Varco di Luminopoli
+MapNames	Santalune City	Novartopoli
+MapNames	Santalune House	Casa di Novartopoli
+MapNames	Santalune Pokémon Center	Centro Pokémon di Novartopoli
+MapNames	Santalune Gym	Palestra di Novartopoli
+MapNames	Camphrier Town	Castel Vanità
+MapNames	Camphrier House	Casa di Castel Vanità
+MapNames	Camphrier Pokémon Center	Centro Pokémon di Castel Vanità
+MapNames	Parfum Palace	Palazzo Parfum
+MapNames	Route 7 Day Care	Pensione del Percorso 7
+MapNames	Cyllage City	Petroglifari
+MapNames	Cyllage House	Casa di Petroglifari
+MapNames	Cyllage Pokémon Center	Centro Pokémon di Petroglifari
+MapNames	Cyllage Gym	Palestra di Petroglifari
+MapNames	Geosenge Town	Cromleburgo
+MapNames	Geosenge House	Casa di Cromleburgo
+MapNames	Geosenge Pokémon Center	Centro Pokémon di Cromleburgo
+MapNames	Reflection Cave	Grotta Riflessi
+MapNames	Shalour City	Yantaropoli
+MapNames	Shalour House	Casa di Yantaropoli
+MapNames	Shalour Pokémon Center	Centro Pokémon di Yantaropoli
+MapNames	Shalour Gym	Palestra di Yantaropoli
+MapNames	Coumarine City	Batikopoli
+MapNames	Coumarine House	Casa di Batikopoli
+MapNames	Coumarine Pokémon Center	Centro Pokémon di Batikopoli
+MapNames	Coumarine Gym	Palestra di Batikopoli
+MapNames	Lumiose Gym	Palestra di Luminopoli
+MapNames	Laverre City	Romantopoli
+MapNames	Laverre House	Casa di Romantopoli
+MapNames	Laverre Pokémon Fan Club	Fan Club Pokémon di Romantopoli
+MapNames	Poké Ball Factory	Fabbrica di Poké Ball
+MapNames	Laverre Pokémon Center	Centro Pokémon di Romantopoli
+MapNames	Laverre Gym	Palestra di Romantopoli
+MapNames	Dendemille Town	Frescovilla
+MapNames	Dendemille House	Casa di Frescovilla
+MapNames	Dendemille Pokémon Center	Centro Pokémon di Frescovilla
+MapNames	Frost Cavern 1F	Grotta Gelata 1P
+MapNames	Frost Cavern 2F	Grotta Gelata 2P
+MapNames	Frost Cavern 3F	Grotta Gelata 3P
+MapNames	Anistar City	Fluxopoli
+MapNames	Anistar House	Casa di Fluxopoli
+MapNames	Anistar Pokémon Center	Centro Pokémon di Fluxopoli
+MapNames	Anistar Sundial	Meridiana di Fluxopoli
+MapNames	Anistar Gym	Palestra di Fluxopoli
+MapNames	Route 18 House	Casa del Percorso 18
+MapNames	Couriway Town	Ponte Mosaico
+MapNames	Couriway House	Casa di Ponte Mosaico
+MapNames	Couriway Pokémon Center	Centro Pokémon di Ponte Mosaico
+MapNames	Route 21	Percorso 21
+MapNames	Terminus Cave	Grotta Capolinea
+MapNames	Snowbelle City	Fractalopoli
+MapNames	Snowbelle House	Casa di Fractalopoli
+MapNames	Snowbelle Gym	Palestra di Fractalopoli
+MapNames	Snowbelle Pokémon Center	Centro Pokémon di Fractalopoli
+MapNames	Kalos Pokemon League	Lega Pokémon di Kalos
+MapNames	Lumiose 64	Luminopoli 64
+MapNames	Lumiose 32	Luminopoli 32
+MapNames	Lumiose 16	Luminopoli 16
+MapNames	Lumiose 8	Luminopoli 8
+MapNames	Lumiose 4	Luminopoli 4
+MapNames	Lumiose Final	Finale Luminopoli
+MapNames	Prism Tower	Torre Prisma
+MapNames	Geosenge Town-X	Cromleburgo-X
+MapNames	Shalour City-Y	Yantaropoli-Y
+MapNames	Driftveil Battle House	Casa Lotta di Libecciopoli
+MapNames	Safari Zone Unova	Zona Safari di Unima
+MapNames	Safari Zone Kalos	Zona Safari di Kalos
+MapNames	Route 124	Percorso 124
+MapNames	Pledge Grove	Bosco Promessa
+MapNames	Icirrus Cave	Grotta di Mistralopoli
+MapNames	Alola	Alola
+MapNames	Route 1 House	Casa del Percorso 1
+MapNames	Pokémon School	Scuola Pokémon
+MapNames	Kukui's House	Casa di Kukui
+MapNames	Melemele Forest	Bosco di Mele Mele
+MapNames	Hau'oli City	Hau'oli
+MapNames	Hau'oli House	Casa di Hau'oli
+MapNames	Hau'oli Pokémon Center	Centro Pokémon di Hau'oli
+MapNames	Hau'oli Outskirts	Periferia di Hau'oli
+MapNames	Hau'oli Shopping Mall	Centro Commerciale Hau'oli
+MapNames	Hau'oli Tunnel	Tunnel di Hau'oli
+MapNames	Iki Town	Iki
+MapNames	Iki House	Casa di Iki
+MapNames	Iki Pokémon Center	Centro Pokémon di Iki
+MapNames	Verdant Cavern	Grotta Sottobosco
+MapNames	Paniola Town	Paniola
+MapNames	Paniola Ranch	Ranch Paniola
+MapNames	Paniola House	Casa di Paniola
+MapNames	Paniola Pokémon Center	Centro Pokémon di Paniola
+MapNames	Melemele Meadow	Prato di Mele Mele
+MapNames	Brooklet Hill	Collina Ruscello
+MapNames	Wela Volcano Park	Parco Vulcano Wela
+MapNames	Lush Jungle	Foresta Ombrosa
+MapNames	Ruins of Life	Rovine della Vita
+MapNames	Aether Paradise	Paradiso Aether
+MapNames	Ten Carat Hill	Collina Diecicarati
+MapNames	Vast Poni Canyon	Gran Canyon di Poni
+MapNames	Altar of the Sunne	Altare del Sole
+MapNames	Ultra Deep Space	Ultraspazio Profondo
+MapNames	Mount Lanakila	Monte Lanakila
+MapNames	Iki Town-Sun	Iki-Sole
+MapNames	Aether Paradise-Moon	Paradiso Aether-Luna
+MapNames	Royal Avenue	Viale Reale
+MapNames	Royal House	Casa del Viale Reale
+MapNames	Royal Pokémon Center	Centro Pokémon del Viale Reale
+MapNames	Battle Royal Dome	Arena Battle Royal
+MapNames	Tapu Village	Villaggio Tapu
+MapNames	Tapu House	Casa del Villaggio Tapu
+MapNames	Tapu Pokémon Center	Centro Pokémon del Villaggio Tapu
+MapNames	Thrifty Megamart	Megamarket Parsimonia
+MapNames	Haina Desert	Deserto di Haina
+MapNames	Ruins of Abundance	Rovine dell'Abbondanza
+MapNames	Mount Lanakila Cave	Grotta del Monte Lanakila
+MapNames	Mount Hokulani	Monte Hokulani
+MapNames	Ultra Ruin	Ultrarovine
+MapNames	Safari Zone Alola	Zona Safari di Alola
+MapNames	Seafolk Village	Villaggio Marino
+MapNames	Poni Wilds	Lande di Poni
+MapNames	Seafolk House	Casa del Villaggio Marino
+MapNames	Seafolk Pokémon Center	Centro Pokémon del Villaggio Marino
+MapNames	Ancient Poni Path	Antico Sentiero di Poni
+MapNames	Poni Breaker Coast	Costa Frangiflutti di Poni
+MapNames	Ruins of Hope	Rovine della Speranza
+MapNames	Malie City	Malie
+MapNames	Malie House	Casa di Malie
+MapNames	Malie Pokémon Center	Centro Pokémon di Malie
+MapNames	Kantonian Gym	Palestra di Kanto
+MapNames	Manalo Stadium	Stadio Manalo
+MapNames	Alola Pokemon League	Lega Pokémon di Alola
+MapNames	Manalo Royal	Manalo Royal
+MapNames	Manalo 16	Manalo 16
+MapNames	Manalo 8	Manalo 8
+MapNames	Manalo 4	Manalo 4
+MapNames	Manalo Finals	Finale Manalo
+MapNames	Verdanturf Town	Mentania
+MapNames	Route 117	Percorso 117
+MapNames	Verdanturf House	Casa di Mentania
+MapNames	Verdanturf Contest	Gare di Mentania
+MapNames	Kanto Grand Festival	Grand Festival di Kanto
+MapNames	Jubilife Contest	Gare di Giubilopoli
+MapNames	Spear Pillar	Vetta Lancia
+MapNames	Pokémon Mart	Pokémon Market
+MapNames	Tower Summit-Henry	Cima della Torre-Henry
+MapNames	Slumbering Weald-Casey	Bosco Assopito-Casey
+MapNames	Spikemuth	Spikemuth
+MapNames	Spikemuth Pokémon Center	Centro Pokémon di Spikemuth
+MapNames	Seafoam Islands	Isole Spumarine
+MapNames	Freezington	Freezington
+MapNames	Freezington House	Casa di Freezington
+MapNames	Crown Tundra	Landa Corona
+MapNames	Safari Zone Galar	Zona Safari di Galar
+MapNames	Wedgehurst	Wedgehurst
+MapNames	Wedgehurst House	Casa di Wedgehurst
+MapNames	Wedgehurst Pokémon Center	Centro Pokémon di Wedgehurst
+MapNames	Professor Magnolia's Lab	Laboratorio della Prof. Magnolia
+MapNames	Split-Decision Ruins	Rovine del Bivio
+MapNames	Mt. Coronet - Past	Monte Corona - Passato
+MapNames	Route 20 Cave	Grotta del Percorso 20
+Kinds	Seed	Seme
+Kinds	Lizard	Lucertola
+Kinds	Flame	Fiamma
+Kinds	Tiny Turtle	Tartaghina
+Kinds	Turtle	Tartaruga
+Kinds	Shellfish	Molluscoide
+Kinds	Worm	Baco
+Kinds	Cocoon	Bozzolo
+Kinds	Butterfly	Farfalla
+Kinds	Hairy Bug	Millepiedi
+Kinds	Poison Bee	Velenape
+Kinds	Tiny Bird	Uccellino
+Kinds	Bird	Uccello
+Kinds	Mouse	Topo
+Kinds	Beak	Becco
+Kinds	Snake	Serpente
+Kinds	Cobra	Cobra
+Kinds	Poison Pin	Velenspina
+Kinds	Drill	Trapano
+Kinds	Fairy	Fata
+Kinds	Fox	Volpe
+Kinds	Balloon	Pallone
+Kinds	Bat	Pipistrello
+Kinds	Weed	Malerba
+Kinds	Flower	Fiore
+Kinds	Mushroom	Fungo
+Kinds	Insect	Insetto
+Kinds	Poison Moth	Falena Veleno
+Kinds	Mole	Talpa
+Kinds	Scratch Cat	Graffimiao
+Kinds	Classy Cat	Gatto Fine
+Kinds	Duck	Papera
+Kinds	Pig Monkey	Suinoscimmia
+Kinds	Puppy	Cagnolino
+Kinds	Legendary	Leggenda
+Kinds	Tadpole	Girino
+Kinds	Psi	Psico
+Kinds	Superpower	Superforza
+Kinds	Flycatcher	Pigliamosche
+Kinds	Jellyfish	Medusa
+Kinds	Rock	Roccia
+Kinds	Megaton	Megaton
+Kinds	Fire Horse	Cavalfuoco
+Kinds	Dopey	Ronfone
+Kinds	Hermit Crab	Paguro
+Kinds	Magnet	Calamita
+Kinds	Wild Duck	Anatra
+Kinds	Twin Bird	Uccellodue
+Kinds	Triple Bird	Uccellotre
+Kinds	Sea Lion	Otaria
+Kinds	Sludge	Fango
+Kinds	Bivalve	Bivalve
+Kinds	Gas	Gas
+Kinds	Shadow	Ombra
+Kinds	Rock Snake	Serpesasso
+Kinds	Hypnosis	Ipnosi
+Kinds	River Crab	Granchio
+Kinds	Pincer	Chela
+Kinds	Ball	Palla
+Kinds	Egg	Uovo
+Kinds	Coconut	Cocco
+Kinds	Lonely	Solitario
+Kinds	Bone Keeper	Custodossa
+Kinds	Kicking	Calciatore
+Kinds	Punching	Tiratore
+Kinds	Licking	Leccalecca
+Kinds	Poison Gas	Velenogas
+Kinds	Spikes	Punte
+Kinds	Vine	Vite
+Kinds	Parent	Genitore
+Kinds	Dragon	Drago
+Kinds	Goldfish	Pesce Rosso
+Kinds	Star Shape	Stellaforme
+Kinds	Mysterious	Misterioso
+Kinds	Barrier	Barriera
+Kinds	Mantis	Mantide
+Kinds	Human Shape	Umanoide
+Kinds	Electric	Elettrico
+Kinds	Spitfire	Sputafuoco
+Kinds	Stag Beetle	Cervovolante
+Kinds	Wild Bull	Torobrado
+Kinds	Fish	Pesce
+Kinds	Atrocious	Atroce
+Kinds	Transport	Trasporto
+Kinds	Transform	Mutante
+Kinds	Evolution	Evoluzione
+Kinds	Bubble Jet	Bollajet
+Kinds	Lightning	Fulmine
+Kinds	Virtual	Virtuale
+Kinds	Spiral	Spirale
+Kinds	Fossil	Fossile
+Kinds	Sleeping	Dormiglione
+Kinds	Freeze	Gelo
+Kinds	Genetic	Genetico
+Kinds	New Species	Nuova Specie
+Kinds	Leaf	Foglia
+Kinds	Herb	Erba
+Kinds	Fire Mouse	Topofuoco
+Kinds	Volcano	Vulcano
+Kinds	Big Jaw	Granmascella
+Kinds	Scout	Esploratore
+Kinds	Long Body	Corpolungo
+Kinds	Owl	Gufo
+Kinds	Five Star	Cinquestelle
+Kinds	String Spit	Sputafilo
+Kinds	Long Leg	Gambelunghe
+Kinds	Angler	Pescatore
+Kinds	Light	Luce
+Kinds	Tiny Mouse	Topolino
+Kinds	Spike Ball	Pallaspina
+Kinds	Happiness	Felicità
+Kinds	Mystic	Mistico
+Kinds	Wool	Lana
+Kinds	Aqua Mouse	Acquatopo
+Kinds	Aqua Rabbit	Acquaconiglio
+Kinds	Imitation	Imitazione
+Kinds	Frog	Rana
+Kinds	Cottonweed	Batuffolo
+Kinds	Long Tail	Codalunga
+Kinds	Sun	Sole
+Kinds	Clear Wing	Alitrasparenti
+Kinds	Water Fish	Pesceacqua
+Kinds	Moonlight	Lucelunare
+Kinds	Darkness	Oscurità
+Kinds	Royal	Regale
+Kinds	Screech	Strillo
+Kinds	Symbol	Simbolo
+Kinds	Patient	Paziente
+Kinds	Long Neck	Collolungo
+Kinds	Bagworm	Larva
+Kinds	Land Snake	Serpeterra
+Kinds	FlyScorpion	Scorpiovolo
+Kinds	Iron Snake	Serpeferro
+Kinds	Mold	Muffa
+Kinds	Single Horn	Monocorno
+Kinds	Sharp Claw	Artiglio
+Kinds	Little Bear	Orsetto
+Kinds	Hibernator	Letargo
+Kinds	Lava	Lava
+Kinds	Pig	Maiale
+Kinds	Swine	Suino
+Kinds	Coral	Corallo
+Kinds	Jet	Getto
+Kinds	Delivery	Consegna
+Kinds	Kite	Aquilone
+Kinds	Armor Bird	Uccelcorazza
+Kinds	Dark	Buio
+Kinds	Long Nose	Nasolungo
+Kinds	Armor	Corazza
+Kinds	Big Horn	Corna
+Kinds	Painter	Pittore
+Kinds	Scuffle	Zuffa
+Kinds	Handstand	Verticale
+Kinds	Kiss	Bacio
+Kinds	Live Coal	Bracia
+Kinds	Milk Cow	Muccalatte
+Kinds	Thunder	Tuono
+Kinds	Aurora	Aurora
+Kinds	Rock Skin	Pelleroccia
+Kinds	Hard Shell	Corazzadura
+Kinds	Diving	Immersione
+Kinds	Rainbow	Arcobaleno
+Kinds	Time Travel	Viaggiatempo
+Kinds	Wood Gecko	Legnogeco
+Kinds	Forest	Foresta
+Kinds	Chick	Pulcino
+Kinds	Young Fowl	Pollastro
+Kinds	Blaze	Vampe
+Kinds	Mud Fish	Pescefango
+Kinds	Bite	Morso
+Kinds	TinyRaccoon	Procioncino
+Kinds	Rushing	Scattante
+Kinds	Water Weed	Alga
+Kinds	Jolly	Allegro
+Kinds	Carefree	Spensierato
+Kinds	Acorn	Ghianda
+Kinds	Wily	Furbo
+Kinds	Wicked	Malvagio
+Kinds	TinySwallow	Rondinella
+Kinds	Swallow	Rondine
+Kinds	Seagull	Gabbiano
+Kinds	Water Bird	Uccelacqua
+Kinds	Feeling	Sentimento
+Kinds	Emotion	Emozione
+Kinds	Embrace	Abbraccio
+Kinds	Pond Skater	Pattinatore
+Kinds	Eyeball	Bulbo
+Kinds	Slacker	Pigrone
+Kinds	Wild Monkey	Scimmia
+Kinds	Lazy	Fannullone
+Kinds	Trainee	Apprendista
+Kinds	Ninja	Ninja
+Kinds	Shed	Muta
+Kinds	Whisper	Sussurro
+Kinds	Big Voice	Granvoce
+Kinds	Loud Noise	Rumore
+Kinds	Guts	Fegato
+Kinds	Arm Thrust	Spintone
+Kinds	Polka Dot	Pois
+Kinds	Compass	Bussola
+Kinds	Kitten	Gattino
+Kinds	Prim	Raffinato
+Kinds	Deceiver	Ingannatore
+Kinds	Iron Armor	Ferrocorazza
+Kinds	Meditate	Meditazione
+Kinds	Discharge	Scarica
+Kinds	Cheering	Tifo
+Kinds	Firefly	Lucciola
+Kinds	Thorn	Spina
+Kinds	Stomach	Stomaco
+Kinds	Poison Bag	Sacco Veleno
+Kinds	Savage	Selvaggio
+Kinds	Brutal	Brutale
+Kinds	Ball Whale	Balenapalla
+Kinds	Float Whale	Balenafluttua
+Kinds	Numb	Torpore
+Kinds	Eruption	Eruzione
+Kinds	Coal	Carbone
+Kinds	Bounce	Rimbalzo
+Kinds	Manipulate	Manipolatore
+Kinds	Spot Panda	Panda Macchie
+Kinds	Ant Pit	Trappola
+Kinds	Vibration	Vibrazione
+Kinds	Cactus	Cactus
+Kinds	Scarecrow	Spaventapasseri
+Kinds	Cotton Bird	Uccelcotone
+Kinds	Humming	Canterino
+Kinds	Cat Ferret	Gattofuretto
+Kinds	Fang Snake	Serpezanne
+Kinds	Meteorite	Meteorite
+Kinds	Whiskers	Baffi
+Kinds	Ruffian	Furfante
+Kinds	Rogue	Canaglia
+Kinds	Clay Doll	Bambolotto
+Kinds	Sea Lily	Giglio Marino
+Kinds	Barnacle	Cirripede
+Kinds	Old Shrimp	Gamberetto
+Kinds	Plate	Piastra
+Kinds	Tender	Tenerezza
+Kinds	Weather	Meteo
+Kinds	Color Swap	Mutacolore
+Kinds	Puppet	Burattino
+Kinds	Marionette	Marionetta
+Kinds	Requiem	Requiem
+Kinds	Beckon	Richiamo
+Kinds	Fruit	Frutto
+Kinds	Wind Chime	Campanello
+Kinds	Disaster	Disastro
+Kinds	Bright	Splendore
+Kinds	Snow Hat	Cappuccio
+Kinds	Face	Faccia
+Kinds	Clap	Battimani
+Kinds	Ball Roll	Rotolapalla
+Kinds	Ice Break	Rompighiaccio
+Kinds	Deep Sea	Abissi
+Kinds	South Sea	Mare del Sud
+Kinds	Longevity	Longevità
+Kinds	Rendezvous	Appuntamento
+Kinds	Rock Head	Testaroccia
+Kinds	Endurance	Resistenza
+Kinds	Iron Ball	Palla di Ferro
+Kinds	Iron Claw	Artiglio Ferro
+Kinds	Iron Leg	Gamba Ferro
+Kinds	Rock Peak	Picco Roccia
+Kinds	Iceberg	Iceberg
+Kinds	Iron	Ferro
+Kinds	Eon	Eone
+Kinds	Sea Basin	Bacino Marino
+Kinds	Continent	Continente
+Kinds	Sky High	Cielo Alto
+Kinds	Wish	Desiderio
+Kinds	DNA	DNA
+Kinds	Tiny Leaf	Fogliolina
+Kinds	Grove	Boschetto
+Kinds	Chimp	Scimpanzé
+Kinds	Playful	Giocoso
+Kinds	Penguin	Pinguino
+Kinds	Emperor	Imperatore
+Kinds	Starling	Storno
+Kinds	Predator	Predatore
+Kinds	Plump Mouse	Topopaffuto
+Kinds	Beaver	Castoro
+Kinds	Cricket	Grillo
+Kinds	Flash	Lampo
+Kinds	Spark	Scintilla
+Kinds	Gleam Eyes	Occhi Luce
+Kinds	Bud	Germoglio
+Kinds	Bouquet	Bouquet
+Kinds	Head Butt	Testata
+Kinds	Shield	Scudo
+Kinds	Moth	Falena
+Kinds	Tiny Bee	Apetta
+Kinds	Beehive	Alveare
+Kinds	EleSquirrel	Elescoiattolo
+Kinds	Sea Weasel	Donnola Marina
+Kinds	Cherry	Ciliegia
+Kinds	Blossom	Fioritura
+Kinds	Sea Slug	Lumacamare
+Kinds	Blimp	Dirigibile
+Kinds	Rabbit	Coniglio
+Kinds	Magical	Magico
+Kinds	Big Boss	Gran Capo
+Kinds	Catty	Gattesco
+Kinds	Tiger Cat	Gattigre
+Kinds	Bell	Campana
+Kinds	Skunk	Puzzola
+Kinds	Bronze	Bronzo
+Kinds	Bronze Bell	Campana Bronzo
+Kinds	Bonsai	Bonsai
+Kinds	Mime	Mimo
+Kinds	Playhouse	Casetta
+Kinds	Music Note	Nota
+Kinds	Forbidden	Proibito
+Kinds	Land Shark	Squaloterra
+Kinds	Cave	Caverna
+Kinds	Mach	Mach
+Kinds	Big Eater	Mangione
+Kinds	Emanation	Emanazione
+Kinds	Aura	Aura
+Kinds	Hippo	Ippopotamo
+Kinds	Heavyweight	Peso Massimo
+Kinds	Scorpion	Scorpione
+Kinds	Ogre Scorp	Scorpiorco
+Kinds	Toxic Mouth	Boccatossica
+Kinds	Bug Catcher	Pigliainsetti
+Kinds	Wing Fish	Pescealato
+Kinds	Neon	Neon
+Kinds	Frost Tree	Albero Gelo
+Kinds	Magnet Area	Area Magnete
+Kinds	Thunderbolt	Fulmine Puro
+Kinds	Blast	Esplosione
+Kinds	Jubilee	Giubilo
+Kinds	Ogre Darner	Orcolibellula
+Kinds	Verdant	Verdeggiante
+Kinds	Fresh Snow	Neve Fresca
+Kinds	Fang Scorp	Scorpizanne
+Kinds	Twin Tusk	Doppia Zanna
+Kinds	Blade	Lama
+Kinds	Gripper	Prensile
+Kinds	Snow Land	Terra Nevosa
+Kinds	Plasma	Plasma
+Kinds	Knowledge	Saggezza
+Kinds	Willpower	Volontà
+Kinds	Temporal	Temporale
+Kinds	Spatial	Spaziale
+Kinds	Lava Dome	Cupola Lava
+Kinds	Colossal	Colossale
+Kinds	Renegade	Rinnegato
+Kinds	Lunar	Lunare
+Kinds	Sea Drifter	Vagamare
+Kinds	Seafaring	Marinaro
+Kinds	Pitch-Black	Nero Pece
+Kinds	Gratitude	Gratitudine
+Kinds	Alpha	Alfa
+Kinds	Victory	Vittoria
+Kinds	Grass Snake	Serpe Erba
+Kinds	Regal	Regale
+Kinds	Fire Pig	Suinfuoco
+Kinds	Mega Fire Pig	Megasuinfuoco
+Kinds	Sea Otter	Lontra
+Kinds	Discipline	Disciplina
+Kinds	Formidable	Formidabile
+Kinds	Lookout	Vedetta
+Kinds	Loyal Dog	Cane Fedele
+Kinds	Big-Hearted	Generoso
+Kinds	Devious	Subdolo
+Kinds	Cruel	Crudele
+Kinds	Grass Monkey	Scimmierba
+Kinds	Thorn Monkey	Scimmispina
+Kinds	High Temp	Altatemp
+Kinds	Ember	Tizzone
+Kinds	Spray	Spruzzo
+Kinds	Geyser	Geyser
+Kinds	Dream Eater	Mangiasogni
+Kinds	Drowsing	Sonnolento
+Kinds	Tiny Pigeon	Piccioncino
+Kinds	Wild Pigeon	Piccione
+Kinds	Proud	Orgoglioso
+Kinds	Electrified	Elettrizzato
+Kinds	Mantle	Mantello
+Kinds	Ore	Minerale
+Kinds	Compressed	Compresso
+Kinds	Courting	Corteggiatore
+Kinds	Subterrene	Sotterraneo
+Kinds	Hearing	Udito
+Kinds	Muscular	Muscoloso
+Kinds	Judo	Judo
+Kinds	Karate	Karate
+Kinds	Sewing	Sartoria
+Kinds	Leaf-Wrapped	Fogliavvolto
+Kinds	Nurturing	Premuroso
+Kinds	Centipede	Centopiedi
+Kinds	Curlipede	Arrotolato
+Kinds	Megapede	Megapiede
+Kinds	Cotton Puff	Batuffolo Cotone
+Kinds	Windveiled	Ventovelato
+Kinds	Bulb	Bulbo
+Kinds	Flowering	Fiorito
+Kinds	Hostile	Ostile
+Kinds	Desert Croc	Cocco Deserto
+Kinds	Intimidation	Intimidazione
+Kinds	Zen Charm	Zen
+Kinds	Blazing	Ardente
+Kinds	Rock Inn	Rocciatana
+Kinds	Stone Home	Casa Pietra
+Kinds	Shedding	Muta
+Kinds	Hoodlum	Teppista
+Kinds	Avianoid	Aviforme
+Kinds	Spirit	Spirito
+Kinds	Coffin	Sarcofago
+Kinds	Prototurtle	Prototarta
+Kinds	First Bird	Primo Uccello
+Kinds	Trash Bag	Sacchetto
+Kinds	Trash Heap	Cumulo Rifiuti
+Kinds	Tricky Fox	Volpe Furba
+Kinds	Illusion Fox	Volpillusione
+Kinds	Chinchilla	Cincillà
+Kinds	Scarf	Sciarpa
+Kinds	Fixation	Fissazione
+Kinds	Astral Body	Corpo Astrale
+Kinds	Cell	Cellula
+Kinds	Mitosis	Mitosi
+Kinds	Multiplying	Moltiplicazione
+Kinds	White Bird	Uccello Bianco
+Kinds	Icy Snow	Neve Gelata
+Kinds	Snowstorm	Tormenta
+Kinds	Season	Stagione
+Kinds	Sky Squirrel	Scoiattolo Volante
+Kinds	Clamping	Morsa
+Kinds	Cavalry	Cavalleria
+Kinds	Floating	Fluttuante
+Kinds	Caring	Premura
+Kinds	Attaching	Aggancio
+Kinds	EleSpider	Eleragno
+Kinds	Thorn Seed	Semespina
+Kinds	Thorn Pod	Baccello Spina
+Kinds	Gear	Ingranaggio
+Kinds	EleFish	Elepesce
+Kinds	Cerebral	Cerebrale
+Kinds	Candle	Candela
+Kinds	Lamp	Lampada
+Kinds	Luring	Adescamento
+Kinds	Tusk	Zanna
+Kinds	Axe Jaw	Mascellascia
+Kinds	Chill	Freddo
+Kinds	Freezing	Congelamento
+Kinds	Crystallizing	Cristallizzazione
+Kinds	Snail	Lumaca
+Kinds	Shell Out	Senzaguscio
+Kinds	Trap	Trappola
+Kinds	Martial Arts	Arti Marziali
+Kinds	Automaton	Automa
+Kinds	Sharp Blade	Lama Affilata
+Kinds	Sword Blade	Spadalama
+Kinds	Bash Buffalo	Bufalo
+Kinds	Eaglet	Aquilotto
+Kinds	Valiant	Valoroso
+Kinds	Diapered	Pannolino
+Kinds	Bone Vulture	Avvoltoio
+Kinds	Anteater	Formichiere
+Kinds	Iron Ant	Formica Ferro
+Kinds	Irate	Furioso
+Kinds	Torch	Torcia
+Kinds	Iron Will	Volontà Ferrea
+Kinds	Cavern	Grotta
+Kinds	Grassland	Prateria
+Kinds	Cyclone	Ciclone
+Kinds	Bolt Strike	Saetta
+Kinds	Vast White	Bianco Immenso
+Kinds	Deep Black	Nero Profondo
+Kinds	Abundance	Abbondanza
+Kinds	Boundary	Confine
+Kinds	Colt	Puledro
+Kinds	Melody	Melodia
+Kinds	Paleozoic	Paleozoico
+Kinds	Spiky Nut	Riccio
+Kinds	Spiky Armor	Corazzaspina
+Kinds	Bubble Frog	Rana Bolla
+Kinds	Digging	Scavatore
+Kinds	Tiny Robin	Pettirosso
+Kinds	Scorching	Rovente
+Kinds	Scatterdust	Spargipolvere
+Kinds	Scale	Scaglia
+Kinds	Lion Cub	Leoncino
+Kinds	Single Bloom	Bocciolo
+Kinds	Garden	Giardino
+Kinds	Mount	Cavalcatura
+Kinds	Daunting	Temibile
+Kinds	Poodle	Barboncino
+Kinds	Restraint	Restrizione
+Kinds	Constraint	Costrizione
+Kinds	Sword	Spada
+Kinds	Royal Sword	Spada Regale
+Kinds	Perfume	Profumo
+Kinds	Fragrance	Fragranza
+Kinds	Cotton Candy	Zucchero Filato
+Kinds	Meringue	Meringa
+Kinds	Revolving	Rotante
+Kinds	Overturning	Ribaltamento
+Kinds	Two-Handed	Due Mani
+Kinds	Collective	Collettivo
+Kinds	Mock Kelp	Finta Alga
+Kinds	Water Gun	Pistolacqua
+Kinds	Howitzer	Obice
+Kinds	Generator	Generatore
+Kinds	Royal Heir	Erede Reale
+Kinds	Despot	Despota
+Kinds	Tundra	Tundra
+Kinds	Intertwining	Intreccio
+Kinds	Wrestling	Lottatore
+Kinds	Antenna	Antenna
+Kinds	Jewel	Gioiello
+Kinds	Soft Tissue	Mollusco
+Kinds	Key Ring	Portachiavi
+Kinds	Stump	Ceppo
+Kinds	Elder Tree	Albero Antico
+Kinds	Pumpkin	Zucca
+Kinds	Ice Chunk	Gelocubo
+Kinds	Sound Wave	Onda Sonora
+Kinds	Life	Vita
+Kinds	Destruction	Distruzione
+Kinds	Order	Ordine
+Kinds	Mischief	Dispetto
+Kinds	Steam	Vapore
+Kinds	Grass Quill	Penna Erba
+Kinds	Blade Quill	Penna Lama
+Kinds	Arrow Quill	Penna Freccia
+Kinds	Fire Cat	Gatto Fuoco
+Kinds	Heel	Scorretto
+Kinds	Pop Star	Popstar
+Kinds	Soloist	Solista
+Kinds	Woodpecker	Picchio
+Kinds	Bugle Beak	Becco Tromba
+Kinds	Cannon	Cannone
+Kinds	Loitering	Bighellone
+Kinds	Stakeout	Appostamento
+Kinds	Larva	Larva
+Kinds	Battery	Batteria
+Kinds	Boxing	Pugilato
+Kinds	Woolly Crab	Granchio Lana
+Kinds	Dancing	Danza
+Kinds	Bee Fly	Bombilide
+Kinds	Wolf	Lupo
+Kinds	Small Fry	Pesciolino
+Kinds	Brutal Star	Stella Brutale
+Kinds	Donkey	Asino
+Kinds	Draft Horse	Cavallo da Tiro
+Kinds	Water Bubble	Bolla d'Acqua
+Kinds	Sickle Grass	Falciaerba
+Kinds	Bloom Sickle	Falciafiore
+Kinds	Illuminating	Luminoso
+Kinds	Toxic Lizard	Lucertossica
+Kinds	Flailing	Dimenante
+Kinds	Strong Arm	Braccioforte
+Kinds	Posy Picker	Coglifiori
+Kinds	Sage	Saggio
+Kinds	Teamwork	Lavoro di Squadra
+Kinds	Turn Tail	Fuggifuggi
+Kinds	Hard Scale	Scaglia Dura
+Kinds	Sand Heap	Mucchiosabbia
+Kinds	Sand Castle	Castellosabbia
+Kinds	Sea Cucumber	Oloturia
+Kinds	Synthetic	Sintetico
+Kinds	Meteor	Meteora
+Kinds	Blast Turtle	Tartabomba
+Kinds	Roly-Poly	Rotolone
+Kinds	Disguise	Travestimento
+Kinds	Gnash Teeth	Digrignante
+Kinds	Placid	Placido
+Kinds	Sea Creeper	Alga Marina
+Kinds	Scaly	Squamoso
+Kinds	Land Spirit	Spirito Terra
+Kinds	Nebula	Nebulosa
+Kinds	Protostar	Protostella
+Kinds	Sunne	Sole
+Kinds	Moone	Luna
+Kinds	Parasite	Parassita
+Kinds	Swollen	Gonfio
+Kinds	Lissome	Flessuoso
+Kinds	Glowing	Luminescente
+Kinds	Launch	Lancio
+Kinds	Drawn Sword	Spadasguainata
+Kinds	Junkivore	Mangiarifiuti
+Kinds	Prism	Prisma
+Kinds	Artificial	Artificiale
+Kinds	Gloomdweller	Abitaombra
+Kinds	Rampart	Bastione
+Kinds	Fireworks	Fuochi d'Artificio
+Kinds	Thunderclap	Tuonoforte
+Kinds	Hex Nut	Bullone
+Kinds	Beat	Ritmo
+Kinds	Drummer	Batterista
+Kinds	Striker	Attaccante
+Kinds	Water Lizard	Lucertola Acqua
+Kinds	Secret Agent	Agente Segreto
+Kinds	Cheeky	Sfacciato
+Kinds	Greedy	Avido
+Kinds	Raven	Corvo
+Kinds	Radome	Radome
+Kinds	Seven Spot	Settepunti
+Kinds	Cotton Bloom	Fiorcotone
+Kinds	Sheep	Pecora
+Kinds	Snapping	Mordace
+Kinds	Dog	Cane
+Kinds	Apple Core	Torsolo
+Kinds	Apple Wing	Alimela
+Kinds	Apple Nectar	Nettaremela
+Kinds	Sand Snake	Serpe Sabbia
+Kinds	Gulp	Inghiotti
+Kinds	Rush	Carica
+Kinds	Skewer	Spiedo
+Kinds	Baby	Neonato
+Kinds	Punk	Punk
+Kinds	Radiator	Radiatore
+Kinds	Tantrum	Capriccio
+Kinds	Jujitsu	Jujitsu
+Kinds	Black Tea	Tè Nero
+Kinds	Calm	Calmo
+Kinds	Serene	Sereno
+Kinds	Silent	Silenzioso
+Kinds	Bulk Up	Granfisico
+Kinds	Blocking	Blocco
+Kinds	Viking	Vichingo
+Kinds	Comedian	Comico
+Kinds	Grudge	Rancore
+Kinds	Cream	Panna
+Kinds	Formation	Formazione
+Kinds	Sea Urchin	Riccio di Mare
+Kinds	Frost Moth	Falena Gelo
+Kinds	Big Rock	Granmasso
+Kinds	Two-Sided	Doppia Faccia
+Kinds	Copperderm	Pelle Rame
+Kinds	Alloy	Lega
+Kinds	Lingering	Persistente
+Kinds	Caretaker	Custode
+Kinds	Stealth	Furtivo
+Kinds	Warrior	Guerriero
+Kinds	Gigantic	Gigantesco
+Kinds	Wushu	Wushu
+Kinds	Rogue Monkey	Scimmia Ladra
+Kinds	Electron	Elettrone
+Kinds	Dragon Orb	Sfera Drago
+Kinds	Wild Horse	Cavallo Brado
+Kinds	Swift Horse	Cavallo Rapido
+Kinds	King	Re
+Kinds	Axe	Ascia
+Kinds	Peat	Torba
+Kinds	Big Fish	Pesce Grosso
+Kinds	Free Climb	Arrampicata
+Kinds	Pin Cluster	Grappolaspine
+Kinds	Love-Hate	Amoreodio
+Kinds	Unique Horn	Corno Unico
+Kinds	Sphere	Sfera
+Kinds	Strong Legs	Gambe Forti
+Kinds	Malevolent	Malevolo
+Kinds	Ghost Flame	Fiamma Spettro
+Kinds	Hexpert	Esperto Maledizioni
+Kinds	Spinning	Rotante
+Kinds	Mellow	Mansueto
+Kinds	Spiteful Fox	Volpe Dispettosa
+Kinds	Baneful Fox	Volpe Maligna
+Kinds	Battle Cry	Grido di Guerra
+Kinds	Shell Bunker	Bunker Conchiglia
+Kinds	High King	Gran Re
+FormNames	Kantonian Form	Forma di Kanto
+FormNames	Johtonian Form	Forma di Johto
+FormNames	A	A
+FormNames	Hoennian Form	Forma di Hoenn
+FormNames	Normal	Normale
+FormNames	Normal Forme	Forma Normale
+FormNames	Plant Cloak	Manto Pianta
+FormNames	Overcast Form	Forma Nuvola
+FormNames	West Sea	Mare Ovest
+FormNames	Rotom	Rotom
+FormNames	Altered Forme	Forma Alterata
+FormNames	Land Forme	Forma Terrestre
+FormNames	Arceus	Arceus
+FormNames	Red-Striped	Forma Lineerosse
+FormNames	Unovan Form	Forma di Unima
+FormNames	Unovan Standard Mode	Stato Normale di Unima
+FormNames	Spring Form	Forma Primavera
+FormNames	Incarnate Forme	Forma Incarnazione
+FormNames	Kyurem	Kyurem
+FormNames	Ordinary Form	Forma Normale
+FormNames	Aria Forme	Forma Canto
+FormNames	Genesect	Genesect
+FormNames	Icy Snow Pattern,Polar Pattern,Tundra Pattern,Continental Pattern,Garden Pattern,Elegant Pattern,Meadow Pattern,Modern Pattern,Marine Pattern,High Plains Pattern,Sandstorm Pattern,River Pattern,Monsoon Pattern,Savanna Pattern,Sun Pattern,Ocean Pattern,Jungle Pattern,Fancy Pattern,Poké Ball Pattern	Motivo Nevi Perenni,Motivo Nordico,Motivo Tundra,Motivo Continentale,Motivo Giardino,Motivo Eleganza,Motivo Prato,Motivo Moderno,Motivo Marino,Motivo Altopiano,Motivo Sabbia,Motivo Fluviale,Motivo Pioggia,Motivo Savana,Motivo Sole,Motivo Oceano,Motivo Giungla,Motivo Fantasia,Motivo Poké Ball
+FormNames	Red Flower	Fiore Rosso
+FormNames	Natural Form	Forma Selvatica
+FormNames	Male	Maschio
+FormNames	Shield Forme	Forma Scudo
+FormNames	Average Size	Taglia Media
+FormNames	Neutral Mode	Modalità Neutra
+FormNames	Zygarde 50% Forme	Zygarde Forma 50%
+FormNames	Hoopa Confined	Hoopa Vincolato
+FormNames	Baile Style	Stile Flamenco
+FormNames	Midday Form	Forma Giorno
+FormNames	Solo Form	Forma Individuale
+FormNames	Type: Normal	Tipo: Normale
+FormNames	Meteor Form	Forma Meteora
+FormNames	Disguised Form	Forma Mascherata
+FormNames	Base Form	Forma Base
+FormNames	Amped Form	Forma Melodia
+FormNames	Phony Form	Forma Contraffatta
+FormNames	Vanilla Cream	Lattecrema Vaniglia
+FormNames	Ice Face	Gelofaccia
+FormNames	Full Belly Mode	Forma Panciapiena
+FormNames	Hero of Many Battles	Eroe di Mille Lotte
+FormNames	Single Strike Style	Stile Singolo
+FormNames	Mega Venusaur	Mega Venusaur
+FormNames	Mega Charizard X	Mega Charizard X
+FormNames	Mega Charizard Y	Mega Charizard Y
+FormNames	Mega Blastoise	Mega Blastoise
+FormNames	Mega Beedrill	Mega Beedrill
+FormNames	Mega Pidgeot	Mega Pidgeot
+FormNames	Alolan	Forma di Alola
+FormNames	Cosplay Pikachu	Pikachu Cosplay
+FormNames	Cosplay Pikachu - Belle	Pikachu Cosplay - Damigella
+FormNames	Cosplay Pikachu - Libre	Pikachu Cosplay - Wrestler
+FormNames	Cosplay Pikachu - Ph.D.	Pikachu Cosplay - Scienziata
+FormNames	Cosplay Pikachu - Pop Star	Pikachu Cosplay - Confetto
+FormNames	Cosplay Pikachu - Rock Star	Pikachu Cosplay - Rockstar
+FormNames	Original Cap Pikachu	Pikachu Berretto Originale
+FormNames	Hoenn Cap Pikachu	Pikachu Berretto Hoenn
+FormNames	Sinnoh Cap Pikachu	Pikachu Berretto Sinnoh
+FormNames	Unova Cap Pikachu	Pikachu Berretto Unima
+FormNames	Kalos Cap Pikachu	Pikachu Berretto Kalos
+FormNames	Alola Cap Pikachu	Pikachu Berretto Alola
+FormNames	Partner Cap Pikachu	Pikachu Berretto Compagno
+FormNames	World Cap Pikachu	Pikachu Berretto Giramondo
+FormNames	Galarian	Forma di Galar
+FormNames	Hisuian	Forma di Hisui
+FormNames	Mega Alakazam	Mega Alakazam
+FormNames	Mega Slowbro	Mega Slowbro
+FormNames	Mega Gengar	Mega Gengar
+FormNames	Mega Kangaskhan	Mega Kangaskhan
+FormNames	Mega Pinsir	Mega Pinsir
+FormNames	Mega Gyarados	Mega Gyarados
+FormNames	Mega Aerodactyl	Mega Aerodactyl
+FormNames	Mega Mewtwo X	Mega Mewtwo X
+FormNames	Mega Mewtwo Y	Mega Mewtwo Y
+FormNames	Spiky-Eared	Orecchio Spinoso
+FormNames	Mega Ampharos	Mega Ampharos
+FormNames	B	B
+FormNames	C	C
+FormNames	D	D
+FormNames	E	E
+FormNames	F	F
+FormNames	G	G
+FormNames	H	H
+FormNames	I	I
+FormNames	J	J
+FormNames	K	K
+FormNames	L	L
+FormNames	M	M
+FormNames	N	N
+FormNames	O	O
+FormNames	P	P
+FormNames	Q	Q
+FormNames	R	R
+FormNames	S	S
+FormNames	T	T
+FormNames	U	U
+FormNames	V	V
+FormNames	W	W
+FormNames	X	X
+FormNames	Y	Y
+FormNames	Z	Z
+FormNames	?	?
+FormNames	!	!
+FormNames	Mega Steelix	Mega Steelix
+FormNames	Mega Scizor	Mega Scizor
+FormNames	Mega Heracross	Mega Heracross
+FormNames	Mega Houndoom	Mega Houndoom
+FormNames	Mega Tyranitar	Mega Tyranitar
+FormNames	Mega Sceptile	Mega Sceptile
+FormNames	Mega Blaziken	Mega Blaziken
+FormNames	Mega Swampert	Mega Swampert
+FormNames	Mega Gardevoir	Mega Gardevoir
+FormNames	Mega Sableye	Mega Sableye
+FormNames	Mega Mawile	Mega Mawile
+FormNames	Mega Aggron	Mega Aggron
+FormNames	Mega Medicham	Mega Medicham
+FormNames	Mega Manectric	Mega Manectric
+FormNames	Mega Sharpedo	Mega Sharpedo
+FormNames	Mega Camerupt	Mega Camerupt
+FormNames	Mega Altaria	Mega Altaria
+FormNames	Sunny Form	Forma Sole
+FormNames	Rainy Form	Forma Pioggia
+FormNames	Snowy Form	Forma Neve
+FormNames	Mega Banette	Mega Banette
+FormNames	Mega Absol	Mega Absol
+FormNames	Mega Glalie	Mega Glalie
+FormNames	Mega Salamence	Mega Salamence
+FormNames	Mega Metagross	Mega Metagross
+FormNames	Mega Latias	Mega Latias
+FormNames	Mega Latios	Mega Latios
+FormNames	Primal Kyogre	Archeo Kyogre
+FormNames	Primal Groudon	Archeo Groudon
+FormNames	Mega Rayquaza	Mega Rayquaza
+FormNames	Attack Forme	Forma Attacco
+FormNames	Defense Forme	Forma Difesa
+FormNames	Speed Forme	Forma Velocità
+FormNames	Sandy Cloak	Manto Sabbia
+FormNames	Trash Cloak	Manto Scarti
+FormNames	Sunshine Form	Forma Splendore
+FormNames	East Sea	Mare Est
+FormNames	Mega Lopunny	Mega Lopunny
+FormNames	Mega Garchomp	Mega Garchomp
+FormNames	Mega Lucario	Mega Lucario
+FormNames	Mega Abomasnow	Mega Abomasnow
+FormNames	Mega Gallade	Mega Gallade
+FormNames	Heat Rotom	Rotom Calore
+FormNames	Wash Rotom	Rotom Lavaggio
+FormNames	Frost Rotom	Rotom Gelo
+FormNames	Fan Rotom	Rotom Vortice
+FormNames	Mow Rotom	Rotom Taglio
+FormNames	Origin Forme	Forma Originale
+FormNames	Sky Forme	Forma Cielo
+FormNames	Fighting Type	Tipo Lotta
+FormNames	Flying Type	Tipo Volante
+FormNames	Poison Type	Tipo Veleno
+FormNames	Ground Type	Tipo Terra
+FormNames	Rock Type	Tipo Roccia
+FormNames	Bug Type	Tipo Coleottero
+FormNames	Ghost Type	Tipo Spettro
+FormNames	Steel Type	Tipo Acciaio
+FormNames	Unknown Type	Tipo ???
+FormNames	Fire Type	Tipo Fuoco
+FormNames	Water Type	Tipo Acqua
+FormNames	Grass Type	Tipo Erba
+FormNames	Electric Type	Tipo Elettro
+FormNames	Psychic Type	Tipo Psico
+FormNames	Ice Type	Tipo Ghiaccio
+FormNames	Dragon Type	Tipo Drago
+FormNames	Dark Type	Tipo Buio
+FormNames	Fairy Type	Tipo Folletto
+FormNames	Mega Audino	Mega Audino
+FormNames	Blue-Striped	Forma Lineablu
+FormNames	White-Striped	Forma Lineabianca
+FormNames	Galarian Standard Mode	Stato Normale di Galar
+FormNames	Unovan Zen Mode	Stato Zen di Unima
+FormNames	Galarian Zen Mode	Stato Zen di Galar
+FormNames	Summer Form	Forma Estate
+FormNames	Autumn Form	Forma Autunno
+FormNames	Winter Form	Forma Inverno
+FormNames	Therian Forme	Forma Totem
+FormNames	White Kyurem	Kyurem Bianco
+FormNames	Black Kyurem	Kyurem Nero
+FormNames	Resolute Form	Forma Risoluta
+FormNames	Pirouette Forme	Forma Danza
+FormNames	Shock Drive	Voltmodulo
+FormNames	Burn Drive	Piromodulo
+FormNames	Chill Drive	Gelomodulo
+FormNames	Douse Drive	Idromodulo
+FormNames	Ash-Greninja	Ash-Greninja
+FormNames	Archipelago Pattern	Motivo Arcipelago
+FormNames	Continental Pattern	Motivo Continentale
+FormNames	Elegant Pattern	Motivo Eleganza
+FormNames	Garden Pattern	Motivo Giardino
+FormNames	High Plains Pattern	Motivo Altopiano
+FormNames	Icy Snow Pattern	Motivo Nevi Perenni
+FormNames	Jungle Pattern	Motivo Giungla
+FormNames	Marine Pattern	Motivo Marino
+FormNames	Modern Pattern	Motivo Moderno
+FormNames	Monsoon Pattern	Motivo Pluviale
+FormNames	Ocean Pattern	Motivo Oceanico
+FormNames	Polar Pattern	Motivo Polare
+FormNames	River Pattern	Motivo Fluviale
+FormNames	Sandstorm Pattern	Motivo Deserto
+FormNames	Savanna Pattern	Motivo Savana
+FormNames	Sun Pattern	Motivo Solare
+FormNames	Tundra Pattern	Motivo Tundra
+FormNames	Fancy Pattern	Motivo Fantasia
+FormNames	Poké Ball Pattern	Motivo Poké Ball
+FormNames	Yellow Flower	Fiore Giallo
+FormNames	Orange Flower	Fiore Arancione
+FormNames	Blue Flower	Fiore Blu
+FormNames	White Flower	Fiore Bianco
+FormNames	Eternal Flower	Fiore Eterno
+FormNames	Heart Trim	Taglio Cuore
+FormNames	Star Trim	Taglio Stella
+FormNames	Diamond Trim	Taglio Diamante
+FormNames	Debutante Trim	Taglio Signorina
+FormNames	Matron Trim	Taglio Madame
+FormNames	Dandy Trim	Taglio Gentiluomo
+FormNames	La Reine Trim	Taglio Regina
+FormNames	Kabuki Trim	Taglio Kabuki
+FormNames	Pharaoh Trim	Taglio Faraone
+FormNames	Female	Femmina
+FormNames	Blade Forme	Forma Spada
+FormNames	Large Size	Taglia Grande
+FormNames	Super Size	Taglia Maxi
+FormNames	Active Mode	Modo Attivo
+FormNames	10% Forme	Forma 10%
+FormNames	Complete Forme	Forma Perfetta
+FormNames	Mega Diancie	Mega Diancie
+FormNames	Hoopa Unbound	Hoopa Libero
+FormNames	Pom-Pom Style	Stile Cheerdance
+FormNames	Pa'u Style	Stile Hula
+FormNames	Sensu Style	Stile Buyo
+FormNames	Midnight Form	Forma Notte
+FormNames	Dusk Form	Forma Crepuscolo
+FormNames	School Form	Forma Banco
+FormNames	Type: Fighting	Tipo: Lotta
+FormNames	Type: Flying	Tipo: Volante
+FormNames	Type: Poison	Tipo: Veleno
+FormNames	Type: Ground	Tipo: Terra
+FormNames	Type: Rock	Tipo: Roccia
+FormNames	Type: Bug	Tipo: Coleottero
+FormNames	Type: Ghost	Tipo: Spettro
+FormNames	Type: Steel	Tipo: Acciaio
+FormNames	Type: Unknown	Tipo: ???
+FormNames	Type: Fire	Tipo: Fuoco
+FormNames	Type: Water	Tipo: Acqua
+FormNames	Type: Grass	Tipo: Erba
+FormNames	Type: Electric	Tipo: Elettro
+FormNames	Type: Psychic	Tipo: Psico
+FormNames	Type: Ice	Tipo: Ghiaccio
+FormNames	Type: Dragon	Tipo: Drago
+FormNames	Type: Dark	Tipo: Buio
+FormNames	Type: Fairy	Tipo: Folletto
+FormNames	Red Core	Nucleo Rosso
+FormNames	Orange Core	Nucleo Arancione
+FormNames	Yellow Core	Nucleo Giallo
+FormNames	Green Core	Nucleo Verde
+FormNames	Blue Core	Nucleo Azzurro
+FormNames	Indigo Core	Nucleo Blu
+FormNames	Violet Core	Nucleo Violetto
+FormNames	Busted Form	Forma Smascherata
+FormNames	Dusk Mane	Criniera del Vespro
+FormNames	Dawn Wings	Ali dell'Aurora
+FormNames	Ultra Necrozma	UltraNecrozma
+FormNames	Original Color	Colore Originale
+FormNames	Gulping Form	Forma Inghiottitutto
+FormNames	Gorging Form	Forma Inghiottintero
+FormNames	Low Key Form	Forma Basso
+FormNames	Antique Form	Forma Autentica
+FormNames	Ruby Cream	Panna Rubino
+FormNames	Matcha Cream	Panna Matcha
+FormNames	Mint Cream	Panna Menta
+FormNames	Lemon Cream	Panna Limone
+FormNames	Salted Cream	Panna Salata
+FormNames	Ruby Swirl	Mix Rubino
+FormNames	Caramel Swirl	Mix Caramello
+FormNames	Rainbow Swirl	Mix Tricolore
+FormNames	Noice Face	Testa Disgelo
+FormNames	Hangry Mode	Motivo Panciavuota
+FormNames	Crowned Sword	Re delle Spade
+FormNames	Crowned Shield	Re degli Scudi
+FormNames	Rapid Strike Style	Stile Pluricolpo
+FormNames	Ice Rider	Cavaliere Glaciale
+FormNames	Shadow Rider	Cavaliere Spettrale
+RibbonNames	Cool Ribbon	Fiocco Classe
+RibbonNames	Cool Ribbon Super	Fiocco Classe Super
+RibbonNames	Cool Ribbon Hyper	Fiocco Classe Iper
+RibbonNames	Cool Ribbon Master	Fiocco Classe Master
+RibbonNames	Beauty Ribbon	Fiocco Bellezza
+RibbonNames	Beauty Ribbon Super	Fiocco Bellezza Super
+RibbonNames	Beauty Ribbon Hyper	Fiocco Bellezza Iper
+RibbonNames	Beauty Ribbon Master	Fiocco Bellezza Master
+RibbonNames	Cute Ribbon	Fiocco Grazia
+RibbonNames	Cute Ribbon Super	Fiocco Grazia Super
+RibbonNames	Cute Ribbon Hyper	Fiocco Grazia Iper
+RibbonNames	Cute Ribbon Master	Fiocco Grazia Master
+RibbonNames	Smart Ribbon	Fiocco Acume
+RibbonNames	Smart Ribbon Super	Fiocco Acume Super
+RibbonNames	Smart Ribbon Hyper	Fiocco Acume Iper
+RibbonNames	Smart Ribbon Master	Fiocco Acume Master
+RibbonNames	Tough Ribbon	Fiocco Grinta
+RibbonNames	Tough Ribbon Super	Fiocco Grinta Super
+RibbonNames	Tough Ribbon Hyper	Fiocco Grinta Iper
+RibbonNames	Tough Ribbon Master	Fiocco Grinta Master
+RibbonNames	Ula'ula Trial Ribbon	Fiocco Prova di Ula'ula
+RibbonNames	Cool Ribbon Great	Fiocco Classe Grande
+RibbonNames	Cool Ribbon Ultra	Fiocco Classe Ultra
+RibbonNames	Ula'ula Grand Trial Ribbon	Fiocco Gran Prova di Ula'ula
+RibbonNames	Beauty Ribbon Great	Fiocco Bellezza Grande
+RibbonNames	Beauty Ribbon Ultra	Fiocco Bellezza Ultra
+RibbonNames	Poni Grand Trial Ribbon	Fiocco Gran Prova di Poni
+RibbonNames	Akala Trial Ribbon	Fiocco Prova di Akala
+RibbonNames	Cute Ribbon Great	Fiocco Grazia Grande
+RibbonNames	Cute Ribbon Ultra	Fiocco Grazia Ultra
+RibbonNames	Akala Grand Trial Ribbon	Fiocco Gran Prova di Akala
+RibbonNames	Smart Ribbon Great	Fiocco Acume Grande
+RibbonNames	Smart Ribbon Ultra	Fiocco Acume Ultra
+RibbonNames	Melemele Trial Ribbon	Fiocco Prova di Mele Mele
+RibbonNames	Tough Ribbon Great	Fiocco Grinta Grande
+RibbonNames	Tough Ribbon Ultra	Fiocco Grinta Ultra
+RibbonNames	Melemele Grand Trial Ribbon	Fiocco Gran Prova di Mele Mele
+RibbonNames	Winning Ribbon	Fiocco Vittoria
+RibbonNames	Victory Ribbon	Fiocco Trionfo
+RibbonNames	Ability Ribbon	Fiocco Abilità
+RibbonNames	Great Ability Ribbon	Fiocco Grande Abilità
+RibbonNames	Double Ability Ribbon	Fiocco Doppia Abilità
+RibbonNames	Multi Ability Ribbon	Fiocco Multiabilità
+RibbonNames	Pair Ability Ribbon	Fiocco Abilità Coppia
+RibbonNames	World Ability Ribbon	Fiocco Abilità Mondiale
+RibbonNames	Champion Ribbon	Fiocco Campione
+RibbonNames	Sinnoh Champ Ribbon	Fiocco Campione Sinnoh
+RibbonNames	Record Ribbon	Fiocco Record
+RibbonNames	Event Ribbon	Fiocco Evento
+RibbonNames	Legend Ribbon	Fiocco Leggenda
+RibbonNames	Master Ribbon	Fiocco Maestro
+RibbonNames	Royal Ribbon	Fiocco Reale
+RibbonNames	Gorgeous Royal Ribbon	Fiocco Reale Sfarzoso
+RibbonNames	Lily Ribbon	Fiocco Lily
+RibbonNames	Manalo Ribbon	Fiocco Manalo
+RibbonNames	Ever Grande Ribbon	Fiocco Iridopoli
+RibbonNames	Vetress Ribbon	Fiocco Vetress
+RibbonNames	Indigo Ribbon	Fiocco Indaco
+RibbonNames	Lumiose Ribbon	Fiocco Luminopoli
+RibbonNames	Silver Ribbon	Fiocco Argento
+RibbonNames	Footprint Ribbon	Fiocco Impronta
+RibbonNames	Artist Ribbon	Fiocco Artista
+RibbonNames	Terracotta Ribbon	Fiocco Terracotta
+RibbonNames	Birthday Ribbon	Fiocco Compleanno
+RibbonNames	Special Ribbon	Fiocco Speciale
+RibbonNames	Classic Ribbon	Fiocco Classico
+RibbonNames	Premier Ribbon	Fiocco Premier
+RibbonNames	Souvenir Ribbon	Fiocco Ricordo
+RibbonNames	Wishing Ribbon	Fiocco Desiderio
+RibbonNames	National Ribbon	Fiocco Nazionale
+RibbonNames	Country Ribbon	Fiocco Paese
+RibbonNames	Battle Champion Ribbon	Fiocco Campione Lotta
+RibbonNames	Regional Champion Ribbon	Fiocco Campione Regionale
+RibbonNames	Earth Ribbon	Fiocco Terra
+RibbonNames	World Ribbon	Fiocco Mondo
+RibbonNames	National Champion Ribbon	Fiocco Campione Nazionale
+RibbonNames	World Champion Ribbon	Fiocco Campione Mondiale

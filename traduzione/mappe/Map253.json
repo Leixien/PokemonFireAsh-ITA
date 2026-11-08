@@ -1,0 +1,107 @@
+[
+ {
+  "id": "\\rCynda",
+  "en": "\\rCynda",
+  "it": "\\rCynda"
+ },
+ {
+  "id": "\\bTododile",
+  "en": "\\bTododile",
+  "it": "\\bTododile"
+ },
+ {
+  "id": "\\bElm: You can heal your Pokémon to the machine to the left of me.",
+  "en": "\\bElm: You can heal your Pokémon to the machine to the left of me.",
+  "it": "\\bElm: Puoi curare i tuoi Pokémon con la macchina alla mia sinistra."
+ },
+ {
+  "id": "\\bSorry about the mess.",
+  "en": "\\bSorry about the mess.",
+  "it": "\\bScusa il disordine."
+ },
+ {
+  "id": "Your Pokémon were fully healed.",
+  "en": "Your Pokémon were fully healed.",
+  "it": "I tuoi Pokémon sono stati curati completamente."
+ },
+ {
+  "id": "\\bElm: Hello \\PN. Professor Oak told me you would be visitng.",
+  "en": "\\bElm: Hello \\PN. Professor Oak told me you would be visitng.",
+  "it": "\\bElm: Ciao, \\PN. Il Professor Oak mi aveva detto che saresti passato."
+ },
+ {
+  "id": "\\bHe asked me to show you the starters we give out in Johto.",
+  "en": "\\bHe asked me to show you the starters we give out in Johto.",
+  "it": "\\bMi ha chiesto di mostrarti i Pokémon iniziali che diamo qui a Johto."
+ },
+ {
+  "id": "\\bThis is Chikorita. The Grass starter.",
+  "en": "\\bThis is Chikorita. The Grass starter.",
+  "it": "\\bQuesto è Chikorita. L'iniziale di tipo Erba."
+ },
+ {
+  "id": "\\bThis is Cyndaquil. The Fire starter.",
+  "en": "\\bThis is Cyndaquil. The Fire starter.",
+  "it": "\\bQuesto è Cyndaquil. L'iniziale di tipo Fuoco."
+ },
+ {
+  "id": "\\bThis is Totodile. The Water starter.",
+  "en": "\\bThis is Totodile. The Water starter.",
+  "it": "\\bQuesto è Totodile. L'iniziale di tipo Acqua."
+ },
+ {
+  "id": "\\bUnfortunately these are for beginning Trainers, so I can't give you one.",
+  "en": "\\bUnfortunately these are for beginning Trainers, so I can't give you one.",
+  "it": "\\bPurtroppo sono destinati agli Allenatori alle prime armi, quindi non posso dartene uno."
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Hoenn,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unova,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unova,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unima,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unova,Kalos,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unova,Kalos,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unima,Kalos,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unova,Kalos,Alola,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unova,Kalos,Alola,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unima,Kalos,Alola,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unova,Kalos,Alola,Galar,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unova,Kalos,Alola,Galar,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange, Hoenn,Sinnoh,Unima,Kalos,Alola,Galar,Annulla]"
+ },
+ {
+  "id": "\\bChika",
+  "en": "\\bChika",
+  "it": "\\bChika"
+ },
+ {
+  "id": "\\bIsn't Professor Elm great?",
+  "en": "\\bIsn't Professor Elm great?",
+  "it": "\\bIl Professor Elm non è fantastico?"
+ },
+ {
+  "id": "\\bHe was the one that discovered Pokémon Eggs.",
+  "en": "\\bHe was the one that discovered Pokémon Eggs.",
+  "it": "\\bÈ stato lui a scoprire le Uova Pokémon."
+ }
+]

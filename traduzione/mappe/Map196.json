@@ -1,0 +1,132 @@
+[
+ {
+  "id": "\\bThe Kanto Grand Festival is going to be held here. Come back later when we are set up.",
+  "en": "\\bThe Kanto Grand Festival is going to be held here.  Come back later when we are set up.",
+  "it": "\\bIl Grand Festival di Kanto si terrà qui.  Torna più tardi, quando avremo finito di allestire."
+ },
+ {
+  "id": "\\bButterfree, this is not the time! Calm down.",
+  "en": "\\bButterfree, this is not the time! Calm down.",
+  "it": "\\bButterfree, non è il momento! Calmati."
+ },
+ {
+  "id": "\\bI calmed Butterfree down. Just in time for the Grand Festival too.",
+  "en": "\\bI calmed Butterfree down. Just in time for the Grand Festival too.",
+  "it": "\\bSono riuscito a calmare Butterfree. Giusto in tempo per il Grand Festival."
+ },
+ {
+  "id": "\\bA word of advice: don't focus on just one type. Try using multiple types to ensure a victory.",
+  "en": "\\bA word of advice: don't focus on just one type. Try using multiple types to ensure a victory.",
+  "it": "\\bUn consiglio: non concentrarti su un solo tipo. Prova a usare tipi diversi per assicurarti la vittoria."
+ },
+ {
+  "id": "\\bBrock: Hey \\PN! I heard you got eight badges, so I came to support you. You've been doing great advancing through the matches.",
+  "en": "\\bBrock: Hey \\PN! I heard you got eight badges, so I came to support you. You've been doing great advancing through the matches.",
+  "it": "\\bBrock: Ehi, \\PN! Ho sentito che hai ottenuto otto medaglie, così sono venuto a sostenerti. Stai andando alla grande in questi incontri."
+ },
+ {
+  "id": "\\bIt gets tougher from there, so let me see if you're ready for your next round.",
+  "en": "\\bIt gets tougher from there, so let me see if you're ready for your next round.",
+  "it": "\\bDa qui in poi si fa più dura, quindi vediamo se sei pronto per il prossimo turno."
+ },
+ {
+  "id": "\\bBrock: Great battle \\PN! If you want I can groom one of your Pokémon. It may help it in battle.",
+  "en": "\\bBrock: Great battle \\PN! If you want I can groom one of your Pokémon. It may help it in battle.",
+  "it": "\\bBrock: Gran bella lotta, \\PN! Se vuoi, posso curare l'aspetto di uno dei tuoi Pokémon. Potrebbe aiutarlo in lotta."
+ },
+ {
+  "id": "\\bBrock: Which Pokémon do you want me to groom?",
+  "en": "\\bBrock: Which Pokémon do you want me to groom?",
+  "it": "\\bBrock: A quale Pokémon vuoi che faccia la toelettatura?"
+ },
+ {
+  "id": "\\bBrock: Oh, okay then.",
+  "en": "\\bBrock: Oh, okay then.",
+  "it": "\\bBrock: Oh, va bene allora."
+ },
+ {
+  "id": "\\bBrock: There! \\v[2] looks a lot better now!",
+  "en": "\\bBrock: There!  \\v[2] looks a lot better now!",
+  "it": "\\bBrock: Ecco fatto!  \\v[2] ha un aspetto molto migliore ora!"
+ },
+ {
+  "id": "\\bBrock: Hey \\PN. You here to support May too?",
+  "en": "\\bBrock: Hey \\PN. You here to support May too?",
+  "it": "\\bBrock: Ehi, \\PN. Anche tu qui a fare il tifo per Vera?"
+ },
+ {
+  "id": "\\bI'm also here for Solidad. She and I both grew up in Pewter City.",
+  "en": "\\bI'm also here for Solidad. She and I both grew up in Pewter City.",
+  "it": "\\bSono qui anche per Solidad. Siamo cresciuti entrambi a Plumbeopoli."
+ },
+ {
+  "id": "\\bJames: Welcome to our shop.",
+  "en": "\\bJames: Welcome to our shop.",
+  "it": "\\bJames: Benvenuti nel nostro negozio."
+ },
+ {
+  "id": "\\bI only got 7 badges. I decided to come anyways.",
+  "en": "\\bI only got 7 badges. I decided to come anyways.",
+  "it": "\\bHo ottenuto solo 7 medaglie. Ho deciso di venire comunque."
+ },
+ {
+  "id": "\\bGary: So I lost in my fourth match. These Trainers are so tough they have to be cheating.",
+  "en": "\\bGary: So I lost in my fourth match. These Trainers are so tough they have to be cheating.",
+  "it": "\\bGary: Ho perso al quarto incontro. Questi Allenatori sono così forti che devono per forza barare."
+ },
+ {
+  "id": "\\bI think I'm gonna head back to Pallet Town for now. Good luck in your next match; if I didn't win there's no way you will.\\nCatch you later, \\PN.",
+  "en": "\\bI think I'm gonna head back to Pallet Town for now.  Good luck in your next match; if I didn't win there's no way you will.\\nCatch you later, \\PN.",
+  "it": "\\bCredo che per ora tornerò a Biancavilla.  Buona fortuna per il prossimo incontro; se non ho vinto io, non c'è modo che vinca tu.\\nCi vediamo, \\PN."
+ },
+ {
+  "id": "\\bOh right. Your friend is looking for you. He's around here somewhere.",
+  "en": "\\bOh right. Your friend is looking for you. He's around here somewhere.",
+  "it": "\\bAh, giusto. Il tuo amico ti sta cercando. È qui da qualche parte."
+ },
+ {
+  "id": "\\rJessie: How can we help you?",
+  "en": "\\rJessie: How can we help you?",
+  "it": "\\rJessie: Come possiamo aiutarti?"
+ },
+ {
+  "id": "\\bHead south to find some strong Pokémon to fight.",
+  "en": "\\bHead south to find some strong Pokémon to fight.",
+  "it": "\\bVai a sud per trovare Pokémon forti da affrontare."
+ },
+ {
+  "id": "\\rThat shop looks shady to me.\\nWhat do you think?",
+  "en": "\\rThat shop looks shady to me.\\nWhat do you think?",
+  "it": "\\rQuel negozio mi sembra losco.\\nTu che ne pensi?"
+ },
+ {
+  "id": "\\rThat shop looks... so empty to me. \\nWhat do you think?",
+  "en": "\\rThat shop looks... so empty to me. \\nWhat do you think?",
+  "it": "\\rQuel negozio mi sembra... così vuoto. \\nTu che ne pensi?"
+ },
+ {
+  "id": "\\bThe Indigo League is done. Come back next year.",
+  "en": "\\bThe Indigo League is done. Come back next year.",
+  "it": "\\bLa Lega Indaco è finita. Torna l'anno prossimo."
+ },
+ {
+  "id": "\\rAll these items are good, but they cost so much...",
+  "en": "\\rAll these items are good, but they cost so much...",
+  "it": "\\rQuesti strumenti sono tutti buoni, ma costano così tanto..."
+ },
+ {
+  "id": "\\rFree Free",
+  "en": "\\rFree Free",
+  "it": "\\rFree Free"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

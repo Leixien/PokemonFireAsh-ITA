@@ -1,0 +1,1337 @@
+[
+ {
+  "id": 1,
+  "en": "The stench may cause the target to flinch.",
+  "it": "Il fetore può far tentennare il bersaglio."
+ },
+ {
+  "id": 2,
+  "en": "The Pokémon makes it rain if it appears in battle.",
+  "it": "Quando entra in campo, fa piovere."
+ },
+ {
+  "id": 3,
+  "en": "Its Speed stat is gradually boosted.",
+  "it": "La sua Velocità aumenta gradualmente."
+ },
+ {
+  "id": 4,
+  "en": "The Pokémon is protected against critical hits.",
+  "it": "Protegge il Pokémon dai brutti colpi."
+ },
+ {
+  "id": 5,
+  "en": "It cannot be knocked out with one hit.",
+  "it": "Non può essere messo KO con un solo colpo."
+ },
+ {
+  "id": 6,
+  "en": "Prevents the use of self-destructing moves.",
+  "it": "Impedisce l'uso di mosse autodistruttive."
+ },
+ {
+  "id": 7,
+  "en": "The Pokémon is protected from paralysis.",
+  "it": "Protegge il Pokémon dalla paralisi."
+ },
+ {
+  "id": 8,
+  "en": "Boosts the Pokémon's evasion in a sandstorm.",
+  "it": "Aumenta l'elusione durante una tempesta di sabbia."
+ },
+ {
+  "id": 9,
+  "en": "Contact with the Pokémon may cause paralysis.",
+  "it": "Il contatto col Pokémon può causare paralisi."
+ },
+ {
+  "id": 10,
+  "en": "Restores HP if hit by an Electric-type move.",
+  "it": "Recupera PS se colpito da mosse di tipo Elettro."
+ },
+ {
+  "id": 11,
+  "en": "Restores HP if hit by a Water-type move.",
+  "it": "Recupera PS se colpito da mosse di tipo Acqua."
+ },
+ {
+  "id": 12,
+  "en": "Prevents it from becoming infatuated.",
+  "it": "Impedisce che il Pokémon si innamori."
+ },
+ {
+  "id": 13,
+  "en": "Eliminates the effects of weather.",
+  "it": "Annulla gli effetti del tempo atmosferico."
+ },
+ {
+  "id": 14,
+  "en": "The Pokémon's accuracy is boosted.",
+  "it": "Aumenta la precisione del Pokémon."
+ },
+ {
+  "id": 15,
+  "en": "Prevents the Pokémon from falling asleep.",
+  "it": "Impedisce al Pokémon di addormentarsi."
+ },
+ {
+  "id": 16,
+  "en": "Changes the Pokémon's type to the foe's move.",
+  "it": "Assume il tipo della mossa subita."
+ },
+ {
+  "id": 17,
+  "en": "Prevents the Pokémon from getting poisoned.",
+  "it": "Impedisce al Pokémon di essere avvelenato."
+ },
+ {
+  "id": 18,
+  "en": "It powers up Fire-type moves if it's hit by one.",
+  "it": "Se colpito da mosse di tipo Fuoco, potenzia le sue."
+ },
+ {
+  "id": 19,
+  "en": "Blocks the added effects of attacks taken.",
+  "it": "Blocca gli effetti secondari degli attacchi subiti."
+ },
+ {
+  "id": 20,
+  "en": "Prevents the Pokémon from becoming confused.",
+  "it": "Impedisce al Pokémon di essere confuso."
+ },
+ {
+  "id": 21,
+  "en": "Negates all moves that force switching out.",
+  "it": "Annulla le mosse che costringono alla sostituzione."
+ },
+ {
+  "id": 22,
+  "en": "Lowers the foe's Attack stat.",
+  "it": "Riduce l'Attacco del nemico."
+ },
+ {
+  "id": 23,
+  "en": "Prevents the foe from escaping.",
+  "it": "Impedisce la fuga al nemico."
+ },
+ {
+  "id": 24,
+  "en": "Inflicts damage to the foe on contact.",
+  "it": "Danneggia il nemico al contatto."
+ },
+ {
+  "id": 25,
+  "en": "Only super-effective moves will hit.",
+  "it": "Solo le mosse superefficaci lo colpiscono."
+ },
+ {
+  "id": 26,
+  "en": "Gives full immunity to all Ground-type moves.",
+  "it": "Rende immune a tutte le mosse di tipo Terra."
+ },
+ {
+  "id": 27,
+  "en": "Contact may poison or cause paralysis or sleep.",
+  "it": "Il contatto può avvelenare, paralizzare o addormentare."
+ },
+ {
+  "id": 28,
+  "en": "Passes a burn, poison, or paralysis to the foe.",
+  "it": "Trasmette scottatura, veleno o paralisi al nemico."
+ },
+ {
+  "id": 29,
+  "en": "Prevents other Pokémon from lowering its stats.",
+  "it": "Impedisce agli altri Pokémon di ridurne le statistiche."
+ },
+ {
+  "id": 30,
+  "en": "All status problems heal when it switches out.",
+  "it": "Cura le alterazioni di stato quando esce dal campo."
+ },
+ {
+  "id": 31,
+  "en": "Draws in all Electric-type moves to up Sp. Attack.",
+  "it": "Attira le mosse Elettro e aumenta l'Att. Sp."
+ },
+ {
+  "id": 32,
+  "en": "Boosts the likelihood of added effects appearing.",
+  "it": "Aumenta la probabilità degli effetti secondari."
+ },
+ {
+  "id": 33,
+  "en": "Boosts the Pokémon's Speed in rain.",
+  "it": "Aumenta la Velocità quando piove."
+ },
+ {
+  "id": 34,
+  "en": "Boosts the Pokémon's Speed in sunshine.",
+  "it": "Aumenta la Velocità quando c'è il sole."
+ },
+ {
+  "id": 35,
+  "en": "Raises the likelihood of meeting wild Pokémon.",
+  "it": "Aumenta gli incontri con i Pokémon selvatici."
+ },
+ {
+  "id": 36,
+  "en": "The Pokémon copies a foe's Ability.",
+  "it": "Copia l'abilità del nemico."
+ },
+ {
+  "id": 37,
+  "en": "Raises the Pokémon's Attack stat.",
+  "it": "Aumenta l'Attacco del Pokémon."
+ },
+ {
+  "id": 38,
+  "en": "Contact with the Pokémon may poison the attacker.",
+  "it": "Il contatto può avvelenare chi attacca."
+ },
+ {
+  "id": 39,
+  "en": "The Pokémon is protected from flinching.",
+  "it": "Impedisce al Pokémon di tentennare."
+ },
+ {
+  "id": 40,
+  "en": "Prevents the Pokémon from becoming frozen.",
+  "it": "Impedisce al Pokémon di essere congelato."
+ },
+ {
+  "id": 41,
+  "en": "Prevents the Pokémon from getting a burn.",
+  "it": "Impedisce al Pokémon di essere scottato."
+ },
+ {
+  "id": 42,
+  "en": "Prevents Steel-type Pokémon from escaping.",
+  "it": "Impedisce la fuga ai Pokémon di tipo Acciaio."
+ },
+ {
+  "id": 43,
+  "en": "Gives full immunity to all sound-based moves.",
+  "it": "Rende immune a tutte le mosse sonore."
+ },
+ {
+  "id": 44,
+  "en": "The Pokémon gradually regains HP in rain.",
+  "it": "Recupera gradualmente PS quando piove."
+ },
+ {
+  "id": 45,
+  "en": "The Pokémon summons a sandstorm in battle.",
+  "it": "Scatena una tempesta di sabbia in lotta."
+ },
+ {
+  "id": 46,
+  "en": "The Pokémon raises the foe's PP usage.",
+  "it": "Fa consumare più PP al nemico."
+ },
+ {
+  "id": 47,
+  "en": "Ups resistance to Fire- and Ice-type moves.",
+  "it": "Resiste meglio alle mosse Fuoco e Ghiaccio."
+ },
+ {
+  "id": 48,
+  "en": "The Pokémon awakens quickly from sleep.",
+  "it": "Si risveglia presto dal sonno."
+ },
+ {
+  "id": 49,
+  "en": "Contact with the Pokémon may burn the attacker.",
+  "it": "Il contatto può scottare chi attacca."
+ },
+ {
+  "id": 50,
+  "en": "Enables a sure getaway from wild Pokémon.",
+  "it": "Garantisce la fuga dai Pokémon selvatici."
+ },
+ {
+  "id": 51,
+  "en": "Prevents other Pokémon from lowering accuracy.",
+  "it": "Impedisce agli altri di ridurne la precisione."
+ },
+ {
+  "id": 52,
+  "en": "Prevents other Pokémon from lowering Attack stat.",
+  "it": "Impedisce agli altri di ridurne l'Attacco."
+ },
+ {
+  "id": 53,
+  "en": "The Pokémon may pick up items.",
+  "it": "Il Pokémon può raccogliere strumenti."
+ },
+ {
+  "id": 54,
+  "en": "Pokémon can't attack on consecutive turns.",
+  "it": "Non può attaccare in turni consecutivi."
+ },
+ {
+  "id": 55,
+  "en": "Boosts the Attack stat, but lowers accuracy.",
+  "it": "Aumenta l'Attacco ma riduce la precisione."
+ },
+ {
+  "id": 56,
+  "en": "Contact with the Pokémon may cause infatuation.",
+  "it": "Il contatto può far innamorare chi attacca."
+ },
+ {
+  "id": 57,
+  "en": "Ups Sp. Atk if another Pokémon has Plus or Minus.",
+  "it": "Aumenta l'Att. Sp. se un altro ha Più o Meno."
+ },
+ {
+  "id": 58,
+  "en": "Ups Sp. Atk if another Pokémon has Plus or Minus.",
+  "it": "Aumenta l'Att. Sp. se un altro ha Più o Meno."
+ },
+ {
+  "id": 59,
+  "en": "Castform transforms with the weather.",
+  "it": "Castform si trasforma col tempo atmosferico."
+ },
+ {
+  "id": 60,
+  "en": "Protects the Pokémon from item theft.",
+  "it": "Impedisce che gli vengano rubati strumenti."
+ },
+ {
+  "id": 61,
+  "en": "The Pokémon may heal its own status problems.",
+  "it": "Può curarsi da solo le alterazioni di stato."
+ },
+ {
+  "id": 62,
+  "en": "Boosts Attack if there is a status problem.",
+  "it": "Aumenta l'Attacco se ha un'alterazione di stato."
+ },
+ {
+  "id": 63,
+  "en": "Ups Defense if there is a status problem.",
+  "it": "Aumenta la Difesa se ha un'alterazione di stato."
+ },
+ {
+  "id": 64,
+  "en": "Damages attackers using any draining move.",
+  "it": "Danneggia chi usa mosse che assorbono PS."
+ },
+ {
+  "id": 65,
+  "en": "Powers up Grass-type moves in a pinch.",
+  "it": "Potenzia le mosse Erba quando è in difficoltà."
+ },
+ {
+  "id": 66,
+  "en": "Powers up Fire-type moves in a pinch.",
+  "it": "Potenzia le mosse Fuoco quando è in difficoltà."
+ },
+ {
+  "id": 67,
+  "en": "Powers up Water-type moves in a pinch.",
+  "it": "Potenzia le mosse Acqua quando è in difficoltà."
+ },
+ {
+  "id": 68,
+  "en": "Powers up Bug-type moves in a pinch.",
+  "it": "Potenzia le mosse Coleottero quando è in difficoltà."
+ },
+ {
+  "id": 69,
+  "en": "Protects the Pokémon from recoil damage.",
+  "it": "Protegge il Pokémon dai danni da contraccolpo."
+ },
+ {
+  "id": 70,
+  "en": "Turns the sunlight harsh if it is in battle.",
+  "it": "Quando è in campo, il sole diventa intenso."
+ },
+ {
+  "id": 71,
+  "en": "Prevents the foe from fleeing.",
+  "it": "Impedisce la fuga al nemico."
+ },
+ {
+  "id": 72,
+  "en": "Prevents the Pokémon from falling asleep.",
+  "it": "Impedisce al Pokémon di addormentarsi."
+ },
+ {
+  "id": 73,
+  "en": "Prevents other Pokémon from lowering its stats.",
+  "it": "Impedisce agli altri Pokémon di ridurne le statistiche."
+ },
+ {
+  "id": 74,
+  "en": "Raises the Pokémon's Attack stat.",
+  "it": "Aumenta l'Attacco del Pokémon."
+ },
+ {
+  "id": 75,
+  "en": "The Pokémon is protected against critical hits.",
+  "it": "Protegge il Pokémon dai brutti colpi."
+ },
+ {
+  "id": 76,
+  "en": "Eliminates the effects of weather.",
+  "it": "Annulla gli effetti del tempo atmosferico."
+ },
+ {
+  "id": 77,
+  "en": "Raises evasion if the Pokémon is confused.",
+  "it": "Aumenta l'elusione se il Pokémon è confuso."
+ },
+ {
+  "id": 78,
+  "en": "Raises Speed if hit by an Electric-type move.",
+  "it": "Aumenta la Velocità se colpito da mosse Elettro."
+ },
+ {
+  "id": 79,
+  "en": "Deals more damage to a foe of the same gender.",
+  "it": "Infligge più danni ai nemici dello stesso sesso."
+ },
+ {
+  "id": 80,
+  "en": "Raises Speed each time the Pokémon flinches.",
+  "it": "Aumenta la Velocità ogni volta che tentenna."
+ },
+ {
+  "id": 81,
+  "en": "Raises evasion in a hailstorm.",
+  "it": "Aumenta l'elusione durante una grandinata."
+ },
+ {
+  "id": 82,
+  "en": "Encourages the early use of a held Berry.",
+  "it": "Fa usare prima la bacca tenuta."
+ },
+ {
+  "id": 83,
+  "en": "Maxes Attack after taking a critical hit.",
+  "it": "Massimizza l'Attacco dopo aver subito un brutto colpo."
+ },
+ {
+  "id": 84,
+  "en": "Raises Speed if a held item is used.",
+  "it": "Aumenta la Velocità se usa lo strumento tenuto."
+ },
+ {
+  "id": 85,
+  "en": "Weakens the power of Fire-type moves.",
+  "it": "Indebolisce le mosse di tipo Fuoco."
+ },
+ {
+  "id": 86,
+  "en": "The Pokémon is prone to wild stat changes.",
+  "it": "Le sue statistiche cambiano in modo estremo."
+ },
+ {
+  "id": 87,
+  "en": "Reduces HP if it is hot. Water restores HP.",
+  "it": "Perde PS col caldo. L'acqua gli ridà PS."
+ },
+ {
+  "id": 88,
+  "en": "Adjusts power according to a foe's defenses.",
+  "it": "Regola la potenza in base alle difese del nemico."
+ },
+ {
+  "id": 89,
+  "en": "Boosts the power of punching moves.",
+  "it": "Potenzia le mosse basate sui pugni."
+ },
+ {
+  "id": 90,
+  "en": "Restores HP if the Pokémon is poisoned.",
+  "it": "Recupera PS se il Pokémon è avvelenato."
+ },
+ {
+  "id": 91,
+  "en": "Powers up moves of the same type.",
+  "it": "Potenzia le mosse del suo stesso tipo."
+ },
+ {
+  "id": 92,
+  "en": "Increases the frequency of multi-strike moves.",
+  "it": "Aumenta i colpi delle mosse a colpi multipli."
+ },
+ {
+  "id": 93,
+  "en": "Heals status problems if it is raining.",
+  "it": "Cura le alterazioni di stato quando piove."
+ },
+ {
+  "id": 94,
+  "en": "In sunshine, Sp. Atk is boosted but HP decreases.",
+  "it": "Col sole aumenta l'Att. Sp. ma perde PS."
+ },
+ {
+  "id": 95,
+  "en": "Boosts Speed if there is a status problem.",
+  "it": "Aumenta la Velocità se ha un'alterazione di stato."
+ },
+ {
+  "id": 96,
+  "en": "All the Pokémon's moves become the Normal type.",
+  "it": "Tutte le sue mosse diventano di tipo Normale."
+ },
+ {
+  "id": 97,
+  "en": "Powers up moves if they become critical hits.",
+  "it": "Potenzia le mosse che vanno a segno con brutti colpi."
+ },
+ {
+  "id": 98,
+  "en": "The Pokémon only takes damage from attacks.",
+  "it": "Subisce danni solo dagli attacchi."
+ },
+ {
+  "id": 99,
+  "en": "Ensures attacks by or against the Pokémon land.",
+  "it": "Le mosse sue e contro di lui vanno sempre a segno."
+ },
+ {
+  "id": 100,
+  "en": "The Pokémon moves after all other Pokémon do.",
+  "it": "Si muove dopo tutti gli altri Pokémon."
+ },
+ {
+  "id": 101,
+  "en": "Powers up the Pokémon's weaker moves.",
+  "it": "Potenzia le mosse più deboli del Pokémon."
+ },
+ {
+  "id": 102,
+  "en": "Prevents problems with status in sunny weather.",
+  "it": "Previene le alterazioni di stato col sole."
+ },
+ {
+  "id": 103,
+  "en": "The Pokémon can't use any held items.",
+  "it": "Non può usare gli strumenti tenuti."
+ },
+ {
+  "id": 104,
+  "en": "Moves can be used regardless of Abilities.",
+  "it": "Usa le mosse a prescindere dalle abilità."
+ },
+ {
+  "id": 105,
+  "en": "Heightens the critical-hit ratios of moves.",
+  "it": "Aumenta la probabilità di brutti colpi."
+ },
+ {
+  "id": 106,
+  "en": "Damages the attacker landing the finishing hit.",
+  "it": "Danneggia chi sferra il colpo di grazia."
+ },
+ {
+  "id": 107,
+  "en": "Senses a foe's dangerous moves.",
+  "it": "Avverte le mosse pericolose del nemico."
+ },
+ {
+  "id": 108,
+  "en": "Determines what moves a foe has.",
+  "it": "Scopre quali mosse ha il nemico."
+ },
+ {
+  "id": 109,
+  "en": "Ignores any stat changes in the Pokémon.",
+  "it": "Ignora le modifiche alle statistiche altrui."
+ },
+ {
+  "id": 110,
+  "en": "Powers up \"not very effective\" moves.",
+  "it": "Potenzia le mosse \"non molto efficaci\"."
+ },
+ {
+  "id": 111,
+  "en": "Reduces damage from super-effective attacks.",
+  "it": "Riduce i danni degli attacchi superefficaci."
+ },
+ {
+  "id": 112,
+  "en": "Temporarily halves Attack and Speed.",
+  "it": "Dimezza per un po' l'Attacco e la Velocità."
+ },
+ {
+  "id": 113,
+  "en": "Enables moves to hit Ghost-type Pokémon.",
+  "it": "Le mosse colpiscono i Pokémon di tipo Spettro."
+ },
+ {
+  "id": 114,
+  "en": "Draws in all Water-type moves to up Sp. Attack.",
+  "it": "Attira le mosse Acqua e aumenta l'Att. Sp."
+ },
+ {
+  "id": 115,
+  "en": "The Pokémon gradually regains HP in a hailstorm.",
+  "it": "Recupera gradualmente PS durante la grandinata."
+ },
+ {
+  "id": 116,
+  "en": "Reduces damage from super-effective attacks.",
+  "it": "Riduce i danni degli attacchi superefficaci."
+ },
+ {
+  "id": 117,
+  "en": "The Pokémon summons a hailstorm in battle.",
+  "it": "Scatena una grandinata in lotta."
+ },
+ {
+  "id": 118,
+  "en": "The Pokémon may gather Honey from somewhere.",
+  "it": "Può raccogliere del Miele da qualche parte."
+ },
+ {
+  "id": 119,
+  "en": "The Pokémon can check a foe's held item.",
+  "it": "Scopre lo strumento tenuto dal nemico."
+ },
+ {
+  "id": 120,
+  "en": "Powers up moves that have recoil damage.",
+  "it": "Potenzia le mosse che causano contraccolpo."
+ },
+ {
+  "id": 121,
+  "en": "Changes type to match the held Plate.",
+  "it": "Cambia tipo in base alla Piastra tenuta."
+ },
+ {
+  "id": 122,
+  "en": "Powers up party Pokémon when it is sunny.",
+  "it": "Col sole potenzia i Pokémon della squadra."
+ },
+ {
+  "id": 123,
+  "en": "Reduces a sleeping foe's HP.",
+  "it": "Riduce i PS del nemico addormentato."
+ },
+ {
+  "id": 124,
+  "en": "Steals an item when hit by another Pokémon.",
+  "it": "Ruba uno strumento a chi lo colpisce."
+ },
+ {
+  "id": 125,
+  "en": "Removes added effects to increase move damage.",
+  "it": "Elimina gli effetti secondari per fare più danni."
+ },
+ {
+  "id": 126,
+  "en": "Makes stat changes have an opposite effect.",
+  "it": "Inverte l'effetto delle modifiche alle statistiche."
+ },
+ {
+  "id": 127,
+  "en": "Makes the foe nervous and unable to eat Berries.",
+  "it": "Innervosisce il nemico, che non può mangiare bacche."
+ },
+ {
+  "id": 128,
+  "en": "When its stats are lowered its Attack increases.",
+  "it": "Se le sue statistiche calano, aumenta l'Attacco."
+ },
+ {
+  "id": 129,
+  "en": "Lowers stats when HP becomes half or less.",
+  "it": "Le statistiche calano se i PS scendono a metà o meno."
+ },
+ {
+  "id": 130,
+  "en": "May disable a move used on the Pokémon.",
+  "it": "Può bloccare una mossa usata contro di lui."
+ },
+ {
+  "id": 131,
+  "en": "May heal an ally's status conditions.",
+  "it": "Può curare le alterazioni di stato di un alleato."
+ },
+ {
+  "id": 132,
+  "en": "Reduces damage done to allies.",
+  "it": "Riduce i danni subiti dagli alleati."
+ },
+ {
+  "id": 133,
+  "en": "Physical attacks lower Defense and raise Speed.",
+  "it": "Gli attacchi fisici riducono Difesa e aumentano Velocità."
+ },
+ {
+  "id": 134,
+  "en": "Doubles the Pokémon's weight.",
+  "it": "Raddoppia il peso del Pokémon."
+ },
+ {
+  "id": 135,
+  "en": "Halves the Pokémon's weight.",
+  "it": "Dimezza il peso del Pokémon."
+ },
+ {
+  "id": 136,
+  "en": "Reduces damage when HP is full.",
+  "it": "Riduce i danni quando ha i PS al massimo."
+ },
+ {
+  "id": 137,
+  "en": "Powers up physical attacks when poisoned.",
+  "it": "Potenzia gli attacchi fisici se avvelenato."
+ },
+ {
+  "id": 138,
+  "en": "Powers up special attacks when burned.",
+  "it": "Potenzia gli attacchi speciali se scottato."
+ },
+ {
+  "id": 139,
+  "en": "May create another Berry after one is used.",
+  "it": "Può ricreare una bacca dopo averla usata."
+ },
+ {
+  "id": 140,
+  "en": "Anticipates an ally's attack and dodges it.",
+  "it": "Prevede l'attacco di un alleato e lo schiva."
+ },
+ {
+  "id": 141,
+  "en": "Raises one stat and lowers another.",
+  "it": "Aumenta una statistica e ne riduce un'altra."
+ },
+ {
+  "id": 142,
+  "en": "Protects the Pokémon from damage from weather.",
+  "it": "Protegge il Pokémon dai danni del tempo atmosferico."
+ },
+ {
+  "id": 143,
+  "en": "May poison targets when a Pokémon makes contact.",
+  "it": "Può avvelenare i bersagli che tocca."
+ },
+ {
+  "id": 144,
+  "en": "Restores a little HP when withdrawn from battle.",
+  "it": "Recupera un po' di PS quando esce dalla lotta."
+ },
+ {
+  "id": 145,
+  "en": "Protects from Defense-lowering attacks.",
+  "it": "Protegge dagli attacchi che riducono la Difesa."
+ },
+ {
+  "id": 146,
+  "en": "Boosts the Pokémon's Speed in a sandstorm.",
+  "it": "Aumenta la Velocità durante una tempesta di sabbia."
+ },
+ {
+  "id": 147,
+  "en": "Makes status-changing moves more likely to miss.",
+  "it": "Fa mancare più spesso le mosse di stato."
+ },
+ {
+  "id": 148,
+  "en": "Boosts move power when the Pokémon moves last.",
+  "it": "Potenzia le mosse se agisce per ultimo."
+ },
+ {
+  "id": 149,
+  "en": "Comes out disguised as the Pokémon in back.",
+  "it": "Entra in campo camuffato da un altro Pokémon."
+ },
+ {
+  "id": 150,
+  "en": "It transforms itself into the Pokémon it is facing.",
+  "it": "Si trasforma nel Pokémon che ha di fronte."
+ },
+ {
+  "id": 151,
+  "en": "Passes through the foe's barrier and strikes.",
+  "it": "Supera le barriere del nemico e colpisce."
+ },
+ {
+  "id": 152,
+  "en": "Contact with this Pokémon spreads this Ability.",
+  "it": "Il contatto con lui diffonde questa abilità."
+ },
+ {
+  "id": 153,
+  "en": "Boosts Attack after knocking out any Pokémon.",
+  "it": "Aumenta l'Attacco dopo aver messo KO un Pokémon."
+ },
+ {
+  "id": 154,
+  "en": "Raises Attack when hit by a Dark-type move.",
+  "it": "Aumenta l'Attacco se colpito da mosse Buio."
+ },
+ {
+  "id": 155,
+  "en": "Some move types scare it and boost its Speed.",
+  "it": "Alcuni tipi di mosse lo spaventano e ne aumentano la Velocità."
+ },
+ {
+  "id": 156,
+  "en": "Reflects status-changing moves.",
+  "it": "Riflette le mosse di stato."
+ },
+ {
+  "id": 157,
+  "en": "Boosts Attack when hit by a Grass-type move.",
+  "it": "Aumenta l'Attacco se colpito da mosse Erba."
+ },
+ {
+  "id": 158,
+  "en": "Gives priority to a status move.",
+  "it": "Dà la priorità alle mosse di stato."
+ },
+ {
+  "id": 159,
+  "en": "Boosts certain moves' power in a sandstorm.",
+  "it": "Potenzia alcune mosse durante una tempesta di sabbia."
+ },
+ {
+  "id": 160,
+  "en": "Inflicts damage to the Pokémon on contact.",
+  "it": "Il Pokémon subisce danni al contatto."
+ },
+ {
+  "id": 161,
+  "en": "Changes the Pokémon's shape when HP is halved.",
+  "it": "Cambia forma quando i PS si dimezzano."
+ },
+ {
+  "id": 162,
+  "en": "Boosts the accuracy of its allies and itself.",
+  "it": "Aumenta la precisione sua e degli alleati."
+ },
+ {
+  "id": 163,
+  "en": "Moves can be used regardless of Abilities.",
+  "it": "Usa le mosse a prescindere dalle abilità."
+ },
+ {
+  "id": 164,
+  "en": "Moves can be used regardless of Abilities.",
+  "it": "Usa le mosse a prescindere dalle abilità."
+ },
+ {
+  "id": 165,
+  "en": "Protects against attacks that limit move choices.",
+  "it": "Protegge dagli attacchi che limitano le mosse."
+ },
+ {
+  "id": 166,
+  "en": "Protects Grass-type allies from stat/status effects.",
+  "it": "Protegge gli alleati di tipo Erba da cali e alterazioni."
+ },
+ {
+  "id": 167,
+  "en": "Restores HP as well when the Pokémon eats a Berry.",
+  "it": "Recupera anche PS quando mangia una bacca."
+ },
+ {
+  "id": 168,
+  "en": "It changes type to that of the move it's about to use.",
+  "it": "Assume il tipo della mossa che sta per usare."
+ },
+ {
+  "id": 169,
+  "en": "Halves the damage from physical moves.",
+  "it": "Dimezza i danni delle mosse fisiche."
+ },
+ {
+  "id": 170,
+  "en": "Steals the held item of a Pokémon it hits.",
+  "it": "Ruba lo strumento tenuto dal Pokémon che colpisce."
+ },
+ {
+  "id": 171,
+  "en": "Protects the Pokémon from some ball and bomb moves.",
+  "it": "Protegge da alcune mosse a forma di sfera o bomba."
+ },
+ {
+  "id": 172,
+  "en": "Sharply boosts Sp. Atk when a stat is lowered.",
+  "it": "Aumenta molto l'Att. Sp. se una statistica cala."
+ },
+ {
+  "id": 173,
+  "en": "Boosts the power of biting moves.",
+  "it": "Potenzia le mosse basate sui morsi."
+ },
+ {
+  "id": 174,
+  "en": "Normal-type moves become Ice-type and powered up.",
+  "it": "Le mosse Normale diventano Ghiaccio e più potenti."
+ },
+ {
+  "id": 175,
+  "en": "Prevents itself and allies from falling asleep.",
+  "it": "Impedisce a sé e agli alleati di addormentarsi."
+ },
+ {
+  "id": 176,
+  "en": "Changes between Blade and Shield Forme with attacks.",
+  "it": "Passa da Forma Spada a Forma Scudo con gli attacchi."
+ },
+ {
+  "id": 177,
+  "en": "Flying-type moves gain priority when its HP is full.",
+  "it": "Priorità alle mosse Volante se ha i PS al massimo."
+ },
+ {
+  "id": 178,
+  "en": "Powers up aura and pulse moves.",
+  "it": "Potenzia le mosse basate su aura e onde."
+ },
+ {
+  "id": 179,
+  "en": "Boosts the Defense stat on Grassy Terrain.",
+  "it": "Aumenta la Difesa sul Campo Erboso."
+ },
+ {
+  "id": 180,
+  "en": "Passes its held item to an ally that has used theirs.",
+  "it": "Passa lo strumento a un alleato che ha usato il suo."
+ },
+ {
+  "id": 181,
+  "en": "Powers up moves that make direct contact.",
+  "it": "Potenzia le mosse che comportano contatto."
+ },
+ {
+  "id": 182,
+  "en": "Normal-type moves become Fairy-type and powered up.",
+  "it": "Le mosse Normale diventano Folletto e più potenti."
+ },
+ {
+  "id": 183,
+  "en": "Contact with it lowers the attacker's Speed stat.",
+  "it": "Il contatto riduce la Velocità di chi attacca."
+ },
+ {
+  "id": 184,
+  "en": "Normal-type moves become Flying-type and power up.",
+  "it": "Le mosse Normale diventano Volante e più potenti."
+ },
+ {
+  "id": 185,
+  "en": "Parent and child each attacks.",
+  "it": "Genitore e piccolo attaccano entrambi."
+ },
+ {
+  "id": 186,
+  "en": "Powers up each Pokémon's Dark-type moves.",
+  "it": "Potenzia le mosse Buio di tutti i Pokémon."
+ },
+ {
+  "id": 187,
+  "en": "Powers up each Pokémon's Fairy-type moves.",
+  "it": "Potenzia le mosse Folletto di tutti i Pokémon."
+ },
+ {
+  "id": 188,
+  "en": "Reverses \"Aura\" Abilities to weaken affected moves.",
+  "it": "Inverte le abilità \"Aura\" e indebolisce le mosse."
+ },
+ {
+  "id": 189,
+  "en": "Changes the weather to nullify Fire-type moves.",
+  "it": "Cambia il tempo e annulla le mosse Fuoco."
+ },
+ {
+  "id": 190,
+  "en": "Changes the weather to nullify Water-type moves.",
+  "it": "Cambia il tempo e annulla le mosse Acqua."
+ },
+ {
+  "id": 191,
+  "en": "Alters weather to remove Flying-type's weaknesses.",
+  "it": "Cambia il tempo e annulla le debolezze del tipo Volante."
+ },
+ {
+  "id": 192,
+  "en": "Boosts Defense when hit by an attack.",
+  "it": "Aumenta la Difesa quando viene colpito."
+ },
+ {
+  "id": 193,
+  "en": "Cowardly switches out if its HP becomes half or less.",
+  "it": "Fugge vigliaccamente se i PS scendono a metà o meno."
+ },
+ {
+  "id": 194,
+  "en": "Switches out if its HP becomes half or less.",
+  "it": "Si ritira se i PS scendono a metà o meno."
+ },
+ {
+  "id": 195,
+  "en": "Sharply ups Defense when hit by a Water-type move.",
+  "it": "Aumenta molto la Difesa se colpito da mosse Acqua."
+ },
+ {
+  "id": 196,
+  "en": "Its attacks are critical hits when it is poisoned.",
+  "it": "Se è avvelenato, i suoi attacchi sono brutti colpi."
+ },
+ {
+  "id": 197,
+  "en": "Its shell breaks if its HP becomes half or less.",
+  "it": "Il guscio si rompe se i PS scendono a metà o meno."
+ },
+ {
+  "id": 198,
+  "en": "Deals doubles damage to a target's replacement.",
+  "it": "Infligge danni doppi al Pokémon che subentra."
+ },
+ {
+  "id": 199,
+  "en": "Weakens incoming Fire-type moves and prevents burns.",
+  "it": "Indebolisce le mosse Fuoco subite e previene le scottature."
+ },
+ {
+  "id": 200,
+  "en": "Powers up Steel-type moves.",
+  "it": "Potenzia le mosse di tipo Acciaio."
+ },
+ {
+  "id": 201,
+  "en": "Ups Sp. Atk if a hit makes its HP half or less.",
+  "it": "Aumenta l'Att. Sp. se un colpo dimezza i suoi PS."
+ },
+ {
+  "id": 202,
+  "en": "Boosts the Pokémon's Speed stat in a hailstorm.",
+  "it": "Aumenta la Velocità durante una grandinata."
+ },
+ {
+  "id": 203,
+  "en": "Uses moves without making contact with the target.",
+  "it": "Usa le mosse senza entrare in contatto col bersaglio."
+ },
+ {
+  "id": 204,
+  "en": "Its sound-based moves become Water-type.",
+  "it": "Le sue mosse sonore diventano di tipo Acqua."
+ },
+ {
+  "id": 205,
+  "en": "Gives priority to a healing move.",
+  "it": "Dà la priorità alle mosse curative."
+ },
+ {
+  "id": 206,
+  "en": "Normal-type moves become Electric-type and powered.",
+  "it": "Le mosse Normale diventano Elettro e più potenti."
+ },
+ {
+  "id": 207,
+  "en": "Doubles Speed on Electric Terrain.",
+  "it": "Raddoppia la Velocità sul Campo Elettrico."
+ },
+ {
+  "id": 208,
+  "en": "Forms a powerful school while it has a lot of HP.",
+  "it": "Forma un banco potente finché ha molti PS."
+ },
+ {
+  "id": 209,
+  "en": "Its shroud protects it from an attack just once.",
+  "it": "Il suo travestimento lo protegge da un attacco una volta."
+ },
+ {
+  "id": 210,
+  "en": "Defeating a foe lets it become Ash-Greninja.",
+  "it": "Sconfiggere un nemico gli permette di diventare Ash-Greninja."
+ },
+ {
+  "id": 211,
+  "en": "Changes with other Cells if HP becomes half or less.",
+  "it": "Si unisce alle Cellule se i PS scendono a metà o meno."
+ },
+ {
+  "id": 212,
+  "en": "It can poison Steel and Poison-type targets.",
+  "it": "Può avvelenare anche i tipi Acciaio e Veleno."
+ },
+ {
+  "id": 213,
+  "en": "It's always drowsing, and attacks without waking.",
+  "it": "È sempre assonnato e attacca senza svegliarsi."
+ },
+ {
+  "id": 214,
+  "en": "Makes foes unable to use priority attacks.",
+  "it": "Impedisce ai nemici di usare mosse con priorità."
+ },
+ {
+  "id": 215,
+  "en": "Damages an attacker that lands the finishing hit.",
+  "it": "Danneggia chi sferra il colpo di grazia."
+ },
+ {
+  "id": 216,
+  "en": "Repeats another Pokémon's dance move immediately.",
+  "it": "Ripete subito la mossa di danza di un altro Pokémon."
+ },
+ {
+  "id": 217,
+  "en": "Powers up ally Pokémon's special moves.",
+  "it": "Potenzia le mosse speciali degli alleati."
+ },
+ {
+  "id": 218,
+  "en": "Resists contact damage but weaker to Fire-type.",
+  "it": "Resiste ai danni da contatto ma è debole al Fuoco."
+ },
+ {
+  "id": 219,
+  "en": "Makes foes unable to use priority attacks.",
+  "it": "Impedisce ai nemici di usare mosse con priorità."
+ },
+ {
+  "id": 220,
+  "en": "Boosts Sp. Atk each time a Pokémon faints.",
+  "it": "Aumenta l'Att. Sp. ogni volta che un Pokémon va KO."
+ },
+ {
+  "id": 221,
+  "en": "Contact with it lowers the attacker's Speed.",
+  "it": "Il contatto con esso abbassa la Velocità di chi attacca."
+ },
+ {
+  "id": 222,
+  "en": "Copies the Ability of a defeated ally.",
+  "it": "Copia l'abilità di un alleato sconfitto."
+ },
+ {
+  "id": 223,
+  "en": "Copies the Ability of a defeated ally.",
+  "it": "Copia l'abilità di un alleato sconfitto."
+ },
+ {
+  "id": 224,
+  "en": "Boosts its best stat each time it deals a KO.",
+  "it": "Aumenta la sua statistica migliore a ogni KO inflitto."
+ },
+ {
+  "id": 225,
+  "en": "Its type matches the memory disc it holds.",
+  "it": "Il suo tipo cambia in base al disco che tiene."
+ },
+ {
+  "id": 226,
+  "en": "Turns the ground into Electric Terrain.",
+  "it": "Trasforma il terreno in Campo Elettrico."
+ },
+ {
+  "id": 227,
+  "en": "Turns the ground into Psychic Terrain.",
+  "it": "Trasforma il terreno in Psicocampo."
+ },
+ {
+  "id": 228,
+  "en": "Turns the ground into Misty Terrain.",
+  "it": "Trasforma il terreno in Campo Nebbioso."
+ },
+ {
+  "id": 229,
+  "en": "Turns the ground into Grassy Terrain.",
+  "it": "Trasforma il terreno in Campo Erboso."
+ },
+ {
+  "id": 230,
+  "en": "Prevents other Pokémon from lowering its stats.",
+  "it": "Impedisce agli altri Pokémon di ridurne le statistiche."
+ },
+ {
+  "id": 231,
+  "en": "Resists damage while its HP is full.",
+  "it": "Subisce meno danni quando ha i PS al massimo."
+ },
+ {
+  "id": 232,
+  "en": "Reduces damage from super-effective attacks.",
+  "it": "Riduce i danni degli attacchi superefficaci."
+ },
+ {
+  "id": 233,
+  "en": "Powers up moves that are super-effective.",
+  "it": "Potenzia le mosse superefficaci."
+ },
+ {
+  "id": 234,
+  "en": "Fetches the Poké Ball from the first failed throw.",
+  "it": "Recupera la Poké Ball del primo lancio fallito."
+ },
+ {
+  "id": 235,
+  "en": "Lowers everyone else's Speed when attacked.",
+  "it": "Se viene colpito, abbassa la Velocità di tutti gli altri."
+ },
+ {
+  "id": 236,
+  "en": "Boosts Defense stat upon entering the battle.",
+  "it": "Aumenta la Difesa quando entra in lotta."
+ },
+ {
+  "id": 237,
+  "en": "Boosts Attack but only allows the use of one move.",
+  "it": "Aumenta l'Attacco, ma consente di usare una sola mossa."
+ },
+ {
+  "id": 238,
+  "en": "Attacks with prey caught when using Surf or Dive.",
+  "it": "Attacca con la preda catturata usando Surf o Sub."
+ },
+ {
+  "id": 239,
+  "en": "It alternates between Full Belly Mode and Hangry Mode.",
+  "it": "Alterna tra Forma Panciapiena e Motivo Panciavuota."
+ },
+ {
+  "id": 240,
+  "en": "Prevent a physical attack. Can be restored with hail.",
+  "it": "Para un attacco fisico. Si ripristina con la grandine."
+ },
+ {
+  "id": 241,
+  "en": "Halves the damage taken from special moves.",
+  "it": "Dimezza i danni subiti dalle mosse speciali."
+ },
+ {
+  "id": 242,
+  "en": "Boosts Attack stat upon entering the battle.",
+  "it": "Aumenta l'Attacco quando entra in lotta."
+ },
+ {
+  "id": 243,
+  "en": "It changes type to that of the move it's about to use.",
+  "it": "Assume il tipo della mossa che sta per usare."
+ },
+ {
+  "id": 244,
+  "en": "Changes the Pokémon's type based on the terrain.",
+  "it": "Cambia il tipo del Pokémon in base al campo."
+ },
+ {
+  "id": 245,
+  "en": "Bounces back stat-lowering effects.",
+  "it": "Respinge gli effetti che riducono le statistiche."
+ },
+ {
+  "id": 246,
+  "en": "Abilities will be nullified or will not be triggered.",
+  "it": "Le abilità vengono annullate o non si attivano."
+ },
+ {
+  "id": 247,
+  "en": "Protects itself and all allies from being poisoned.",
+  "it": "Protegge sé e gli alleati dall'avvelenamento."
+ },
+ {
+  "id": 248,
+  "en": "Upon being hit, all Pokémon faint after 3 turns.",
+  "it": "Se viene colpito, tutti i Pokémon vanno KO dopo 3 turni."
+ },
+ {
+  "id": 249,
+  "en": "Powers up all the moves of all allies.",
+  "it": "Potenzia tutte le mosse degli alleati."
+ },
+ {
+  "id": 250,
+  "en": "Ignores effects that change the target of a move.",
+  "it": "Ignora gli effetti che cambiano il bersaglio delle mosse."
+ },
+ {
+  "id": 251,
+  "en": "Boosts power and resistance of sound moves.",
+  "it": "Potenzia le mosse sonore e ne riduce i danni subiti."
+ },
+ {
+  "id": 252,
+  "en": "Ripens Berries and doubles their effect.",
+  "it": "Fa maturare le Bacche e ne raddoppia l'effetto."
+ },
+ {
+  "id": 253,
+  "en": "Creates a sandstorm when it's hit by an attack.",
+  "it": "Scatena una tempesta di sabbia quando viene colpito."
+ },
+ {
+  "id": 254,
+  "en": "All screen effects are nullified upon entering the battle.",
+  "it": "Annulla gli effetti delle barriere quando entra in lotta."
+ },
+ {
+  "id": 255,
+  "en": "Ignores effects that change the target of a move.",
+  "it": "Ignora gli effetti che cambiano il bersaglio delle mosse."
+ },
+ {
+  "id": 256,
+  "en": "Boosts Speed when hit by a Fire or Water-type move.",
+  "it": "Aumenta la Velocità se colpito da mosse di tipo Fuoco o Acqua."
+ },
+ {
+  "id": 257,
+  "en": "Powers up allies' Steel-type moves.",
+  "it": "Potenzia le mosse di tipo Acciaio degli alleati."
+ },
+ {
+  "id": 258,
+  "en": "Taking a direct contact hit exchanges Abilities.",
+  "it": "Scambia l'abilità con chi lo colpisce con mosse di contatto."
+ },
+ {
+  "id": 259,
+  "en": "Contact moves negate all protection effects.",
+  "it": "Le mosse di contatto superano ogni effetto protettivo."
+ },
+ {
+  "id": 260,
+  "en": "Enables the Pokémon to move first occasionally.",
+  "it": "A volte permette al Pokémon di agire per primo."
+ },
+ {
+  "id": 261,
+  "en": "Clear's allies' stat changes upon entering the battle.",
+  "it": "Azzera le modifiche alle statistiche degli alleati quando entra in lotta."
+ },
+ {
+  "id": 262,
+  "en": "Powers up Electric-type moves.",
+  "it": "Potenzia le mosse di tipo Elettro."
+ },
+ {
+  "id": 263,
+  "en": "Powers up Dragon-type moves.",
+  "it": "Potenzia le mosse di tipo Drago."
+ },
+ {
+  "id": 264,
+  "en": "Boosts Attack after knocking out any Pokémon.",
+  "it": "Aumenta l'Attacco dopo aver messo KO un Pokémon."
+ },
+ {
+  "id": 265,
+  "en": "Boosts Sp. Atk after knocking out any Pokémon.",
+  "it": "Aumenta l'Att. Sp. dopo aver mandato KO un Pokémon."
+ },
+ {
+  "id": 266,
+  "en": "Possesses 2 abilities, Unnerve and Chilling Neigh",
+  "it": "Possiede 2 abilità, Agitazione e Nitrito Gelido"
+ },
+ {
+  "id": 267,
+  "en": "Possesses 2 abilities, Unnerve and Grim Neigh",
+  "it": "Possiede 2 abilità, Agitazione e Nitrito Funesto"
+ }
+]

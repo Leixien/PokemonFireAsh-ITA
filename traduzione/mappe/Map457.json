@@ -1,0 +1,117 @@
+[
+ {
+  "id": "\\bThis area is blocked off after what Eternatus did.",
+  "en": "\\bThis area is blocked off after what Eternatus did.",
+  "it": "\\bQuest'area è stata chiusa dopo quello che ha fatto Eternatus."
+ },
+ {
+  "id": "\\bIt's dangerous up there. I'd stay back.",
+  "en": "\\bIt's dangerous up there. I'd stay back.",
+  "it": "\\bLassù è pericoloso. Io starei indietro."
+ },
+ {
+  "id": "\\bRaihan uses Dragon type Pokémon. They are weak aganst the Dragon, Ice, and Fairy types.",
+  "en": "\\bRaihan uses Dragon type Pokémon. They are weak aganst the Dragon, Ice, and Fairy types.",
+  "it": "\\bRaihan usa Pokémon di tipo Drago. Sono deboli contro i tipi Drago, Ghiaccio e Folletto."
+ },
+ {
+  "id": "\\bThey are strong against Dragon. They are resistant to Electric, Fire, Grass, and Water.",
+  "en": "\\bThey are strong against Dragon. They are resistant to Electric, Fire, Grass, and Water.",
+  "it": "\\bSono forti contro il tipo Drago e resistono ai tipi Elettro, Fuoco, Erba e Acqua."
+ },
+ {
+  "id": "\\rLooking for a warmup?",
+  "en": "\\rLooking for a warmup?",
+  "it": "\\rCerchi un riscaldamento?"
+ },
+ {
+  "id": "\\rDouble battles are a viable format.",
+  "en": "\\rDouble battles are a viable format.",
+  "it": "\\rLe lotte in doppio sono un formato valido."
+ },
+ {
+  "id": "\\rPre-game time.",
+  "en": "\\rPre-game time.",
+  "it": "\\rÈ l'ora del prepartita."
+ },
+ {
+  "id": "\\rWeather is a big strategy of Raihan. Are you prepared for it?",
+  "en": "\\rWeather is a big strategy of Raihan. Are you prepared for it?",
+  "it": "\\rIl meteo è una delle grandi strategie di Raihan. Sei pronto ad affrontarlo?"
+ },
+ {
+  "id": "\\bRose: I'm disappointed in Leon. Get out of my way. I need to change his mind before it is too late.",
+  "en": "\\bRose: I'm disappointed in Leon. Get out of my way. I need to change his mind before it is too late.",
+  "it": "\\bRose: Sono deluso da Dandel. Togliti di mezzo. Devo fargli cambiare idea prima che sia troppo tardi."
+ },
+ {
+  "id": "\\bRose: You're ruining everything. The state of Galar is at stake.",
+  "en": "\\bRose: You're ruining everything. The state of Galar is at stake.",
+  "it": "\\bRose: Stai rovinando tutto. È in gioco il destino di Galar."
+ },
+ {
+  "id": "\\bWant to follow in Raihan's footsteps? Learn Steel Beam!",
+  "en": "\\bWant to follow in Raihan's footsteps? Learn Steel Beam!",
+  "it": "\\bVuoi seguire le orme di Raihan? Impara Raggiacciaio!"
+ },
+ {
+  "id": "\\bCome back when you're ready.",
+  "en": "\\bCome back when you're ready.",
+  "it": "\\bTorna quando sei pronto."
+ },
+ {
+  "id": "\\bLeon: You're the cause of the Dynamaxed Pokémon?",
+  "en": "\\bLeon: You're the cause of the Dynamaxed Pokémon?",
+  "it": "\\bDandel: È lei la causa dei Pokémon Dynamax?"
+ },
+ {
+  "id": "\\bRose: All for a good cause. You see, Galar will one day run out of energy unless I do something.",
+  "en": "\\bRose: All for a good cause. You see, Galar will one day run out of energy unless I do something.",
+  "it": "\\bRose: Tutto per una buona causa. Vedi, un giorno Galar resterà senza energia, a meno che io non faccia qualcosa."
+ },
+ {
+  "id": "\\bI learned that the Darkest Day was actually a Pokémon. Eternatus! I've been taking Galar particles from it in order to secure the future. No one will suffer again.",
+  "en": "\\bI learned that the Darkest Day was actually a Pokémon.  Eternatus! I've been taking Galar particles from it in order to secure the future. No one will suffer again.",
+  "it": "\\bHo scoperto che il Giorno più Buio era in realtà un Pokémon.  Eternatus! Ho prelevato da lui le particelle Galar per assicurare il futuro. Nessuno soffrirà mai più."
+ },
+ {
+  "id": "\\bYou're a part of this plan, Leon. I need you to catch Eternatus and keep it controlled.",
+  "en": "\\bYou're a part of this plan, Leon. I need you to catch Eternatus and keep it controlled.",
+  "it": "\\bAnche tu fai parte di questo piano, Dandel. Ho bisogno che tu catturi Eternatus e lo tenga sotto controllo."
+ },
+ {
+  "id": "\\bLeon: I'll capture it. But not to control it, but to calm it down.",
+  "en": "\\bLeon: I'll capture it. But not to control it, but to calm it down.",
+  "it": "\\bDandel: Lo catturerò. Ma non per controllarlo: per calmarlo."
+ },
+ {
+  "id": "\\bLeon: \\PN, what are you doing here? No, it doesn't matter. I need to stop the Darkest Day. Handle the Chairman in my place.",
+  "en": "\\bLeon: \\PN, what are you doing here? No, it doesn't matter. I need to stop the Darkest Day. Handle the Chairman in my place.",
+  "it": "\\bDandel: \\PN, che ci fai qui? No, non importa. Devo fermare il Giorno più Buio. Occupati tu del Presidente al posto mio."
+ },
+ {
+  "id": "\\bThis way leads to the battlefield. There's no battle scheduled right now.",
+  "en": "\\bThis way leads to the battlefield. There's no battle scheduled right now.",
+  "it": "\\bDi qui si va al campo di lotta. Al momento non è in programma nessun incontro."
+ },
+ {
+  "id": "\\bAre you ready to battle?",
+  "en": "\\bAre you ready to battle?",
+  "it": "\\bSei pronto a lottare?"
+ },
+ {
+  "id": "\\bLeon: What are you doing?",
+  "en": "\\bLeon: What are you doing?",
+  "it": "\\bDandel: Che stai facendo?"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

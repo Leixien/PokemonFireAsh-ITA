@@ -1,0 +1,97 @@
+[
+ {
+  "id": 0,
+  "en": "Normal",
+  "it": "Normale"
+ },
+ {
+  "id": 1,
+  "en": "Fighting",
+  "it": "Lotta"
+ },
+ {
+  "id": 2,
+  "en": "Flying",
+  "it": "Volante"
+ },
+ {
+  "id": 3,
+  "en": "Poison",
+  "it": "Veleno"
+ },
+ {
+  "id": 4,
+  "en": "Ground",
+  "it": "Terra"
+ },
+ {
+  "id": 5,
+  "en": "Rock",
+  "it": "Roccia"
+ },
+ {
+  "id": 6,
+  "en": "Bug",
+  "it": "Coleottero"
+ },
+ {
+  "id": 7,
+  "en": "Ghost",
+  "it": "Spettro"
+ },
+ {
+  "id": 8,
+  "en": "Steel",
+  "it": "Acciaio"
+ },
+ {
+  "id": 9,
+  "en": "???",
+  "it": "???"
+ },
+ {
+  "id": 10,
+  "en": "Fire",
+  "it": "Fuoco"
+ },
+ {
+  "id": 11,
+  "en": "Water",
+  "it": "Acqua"
+ },
+ {
+  "id": 12,
+  "en": "Grass",
+  "it": "Erba"
+ },
+ {
+  "id": 13,
+  "en": "Electric",
+  "it": "Elettro"
+ },
+ {
+  "id": 14,
+  "en": "Psychic",
+  "it": "Psico"
+ },
+ {
+  "id": 15,
+  "en": "Ice",
+  "it": "Ghiaccio"
+ },
+ {
+  "id": 16,
+  "en": "Dragon",
+  "it": "Drago"
+ },
+ {
+  "id": 17,
+  "en": "Dark",
+  "it": "Buio"
+ },
+ {
+  "id": 18,
+  "en": "Fairy",
+  "it": "Folletto"
+ }
+]

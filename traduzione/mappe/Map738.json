@@ -1,0 +1,152 @@
+[
+ {
+  "id": "Meloetta",
+  "en": "Meloetta",
+  "it": "Meloetta"
+ },
+ {
+  "id": "This Pokémon seems like its in trouble. Take it along for now.",
+  "en": "This Pokémon seems like its in trouble. Take it along for now.",
+  "it": "Questo Pokémon sembra in difficoltà. Per ora portalo con te."
+ },
+ {
+  "id": "Meloetta started to follow you.\\se[itemlevel]\\wtnp[20]",
+  "en": "Meloetta started to follow you.\\se[itemlevel]\\wtnp[20]",
+  "it": "Meloetta ha iniziato a seguirti.\\se[itemlevel]\\wtnp[20]"
+ },
+ {
+  "id": "Virbank City\\nCity of falling fog and rising stars!",
+  "en": "Virbank City\\nCity of falling fog and rising stars!",
+  "it": "Virbopoli\\nCittà di nebbia che scende e stelle che sorgono!"
+ },
+ {
+  "id": "\\bAipom",
+  "en": "\\bAipom",
+  "it": "\\bAipom"
+ },
+ {
+  "id": "\\rWould you look at the size of that boat? I wish I owned it.",
+  "en": "\\rWould you look at the size of that boat? I wish I owned it.",
+  "it": "\\rHai visto quanto è grande quella nave? Vorrei che fosse mia."
+ },
+ {
+  "id": "Ta dah",
+  "en": "Ta dah",
+  "it": "Ta dah"
+ },
+ {
+  "id": "\\bWelcome to Virbank City. This place is home to a lot of performers. Roxie is in a band too.",
+  "en": "\\bWelcome to Virbank City. This place is home to a lot of performers. Roxie is in a band too.",
+  "it": "\\bBenvenuto a Virbopoli. Qui vivono molti artisti. Anche Velia suona in una band."
+ },
+ {
+  "id": "\\b...",
+  "en": "\\b...",
+  "it": "\\b..."
+ },
+ {
+  "id": "\\b???",
+  "en": "\\b???",
+  "it": "\\b???"
+ },
+ {
+  "id": "\\bThere's been a strange looking Pokémon seen in town. What's going on?",
+  "en": "\\bThere's been a strange looking Pokémon seen in town. What's going on?",
+  "it": "\\bIn città è stato avvistato un Pokémon dall'aspetto strano. Che sta succedendo?"
+ },
+ {
+  "id": "\\bI've given up trying to beat Roxie. She is too hard for me.",
+  "en": "\\bI've given up trying to beat Roxie. She is too hard for me.",
+  "it": "\\bHo smesso di provare a battere Velia. È troppo forte per me."
+ },
+ {
+  "id": "\\rCynthia: Hello again \\PN. Having fun in Unova? A friend of yours is staying with me and they thought you might want to visit.",
+  "en": "\\rCynthia: Hello again \\PN. Having fun in Unova? A friend of yours is staying with me and they thought you might want to visit.",
+  "it": "\\rCamilla: Ciao di nuovo, \\PN. Ti diverti a Unima? Un tuo amico è ospite da me e ha pensato che ti farebbe piacere venire a trovarci."
+ },
+ {
+  "id": "\\rI'm staying at Undella Town. You can get there by going east through Nimbasa City.",
+  "en": "\\rI'm staying at Undella Town. You can get there by going east through Nimbasa City.",
+  "it": "\\rAlloggio a Spiraria. Puoi arrivarci andando a est passando per Sciroccopoli."
+ },
+ {
+  "id": "\\rThere is also going to be a competition. The Pokémon World Tournament Junior Cup. I'm sure you would be a great participant.",
+  "en": "\\rThere is also going to be a competition. The Pokémon World Tournament Junior Cup. I'm sure you would be a great participant.",
+  "it": "\\rCi sarà anche una competizione: la Coppa Junior del Pokémon World Tournament. Sono sicura che saresti un ottimo partecipante."
+ },
+ {
+  "id": "\\rI'll be waiting for you. Don't take too long.",
+  "en": "\\rI'll be waiting for you. Don't take too long.",
+  "it": "\\rTi aspetto. Non metterci troppo."
+ },
+ {
+  "id": "\\rCynthia: I'll be waiting for you at Undella Town. Don't take too long.",
+  "en": "\\rCynthia: I'll be waiting for you at Undella Town. Don't take too long.",
+  "it": "\\rCamilla: Ti aspetto a Spiraria. Non metterci troppo."
+ },
+ {
+  "id": "\\bReady to sail. Want to go?",
+  "en": "\\bReady to sail. Want to go?",
+  "it": "\\bPronti a salpare. Vuoi venire?"
+ },
+ {
+  "id": "\\bNo problem.",
+  "en": "\\bNo problem.",
+  "it": "\\bNessun problema."
+ },
+ {
+  "id": "\\rWurmple",
+  "en": "\\rWurmple",
+  "it": "\\rWurmple"
+ },
+ {
+  "id": "\\rI wonder what else is out there. I've never left the city before.",
+  "en": "\\rI wonder what else is out there. I've never left the city before.",
+  "it": "\\rChissà cos'altro c'è là fuori. Non ho mai lasciato la città."
+ },
+ {
+  "id": "\\bCor",
+  "en": "\\bCor",
+  "it": "\\bCor"
+ },
+ {
+  "id": "Virbank City Pokémon Gym Leader:\\nRoxie",
+  "en": "Virbank City Pokémon Gym Leader:\\nRoxie",
+  "it": "Capopalestra di Virbopoli:\\nVelia"
+ },
+ {
+  "id": "Poison days, poison on the stage!",
+  "en": "Poison days, poison on the stage!",
+  "it": "Giorni di veleno, veleno sul palco!"
+ },
+ {
+  "id": "\\bI love fishing.",
+  "en": "\\bI love fishing.",
+  "it": "\\bAdoro pescare."
+ },
+ {
+  "id": "\\bI'm so sorry about my Aipom.",
+  "en": "\\bI'm so sorry about my Aipom.",
+  "it": "\\bMi dispiace tanto per il mio Aipom."
+ },
+ {
+  "id": "\\bI take to the seas every day. I can't stay away from it.",
+  "en": "\\bI take to the seas every day. I can't stay away from it.",
+  "it": "\\bPrendo il mare ogni giorno. Non riesco a starne lontano."
+ },
+ {
+  "id": "\\rDarmanitan",
+  "en": "\\rDarmanitan",
+  "it": "\\rDarmanitan"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]
