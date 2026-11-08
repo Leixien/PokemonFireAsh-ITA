@@ -1,0 +1,359 @@
+**************************
+Version 3.7.1 (19-07-2026)
+**************************
+Issued Fixed:
+- Fix battles against Lyra, Faba and Kahili crashing the game, as well as having incorrect sprites in some places
+- Certain Galarian gym leaders having abnormally large sprites in the alternate world PWC
+- Certain tiles missing proper collision
+- Abra Teleport in Celestic Town is now only available after defeating Paul on Route 210
+
+
+************************
+Version 3.7 (03-07-2026)
+************************
+New features:
+- Added an alternate world version of the Pokémon World Coronation Series in the postgame, which can be accessed by the portal in Sandgem Town
+- Enabled wall maps to show the region's map
+- Added the option to swap between RMXP's and Nintendo's button layouts (Thank you maxashen!)
+- Added the option to reduce the speed of tile animations to reduce lag
+- Added German, French and Spanish translations to the game (thank you 50-fiddy-50, Niimpe and xenneco!)
+
+Issues fixed:
+- Properly fix not being able to return to Cianwood City if the player didn't heal in its Pokémon Center and blacked out there
+- Fix Burn Up crashing the game when used by a Fire type Pokémon with no secondary type
+- Fix Dire Claw not working properly when trying to put a Pokémon to sleep
+- Fix being able to move through certain edge tiles, which would lead to walking on water, e.g. Tangelo Island, Milos Island
+- Fix TM90 (Substitute) having an incomplete description
+- Fix being kicked out of Ultra Deep Space after saving Lusamine and before Necrozma's event
+- Fix being missing collisions on certain building exits, e.g. Ballonlea Gym
+- Fix double battles not triggering properly in Sunnyshore Gym during the WCS
+- Fix a sailor in Vermillion City taking you to Valencia Island when attempting to cancel under certain circumstances
+- Fix Magearna having incorrect icons for its shiny
+- Fix map environments not working properly
+- Fix certain Pokémon (namely Unown, Vivillon and Alcremie) showing up more often than they should've been in the Wonder Trade
+- Fix missing and incorrect collisions in Safari Zone Kalos and Route 112
+- Fix the final battle in the Alola League rematch not giving the Manalo ribbon
+
+Main Game Changes:
+- Lance shows up properly after catching or defeating Groudon and Kyogre on Route 124
+- You can no longer enter Hearthome City without beating Gardenia in Eterna City's gym
+- Changed the layout of Skyarrow Bridge
+- Kiawe's Charizard on Route 1 doesn't show up until reaching a certain point in the Alola story
+- Removed duplicates of the same character during events in the Journeys section of the game
+
+Grandeur Club Changes:
+- Added dialogue to trainers from Galar and Hisui when selecting a partner in Duet Challenge
+- Fixed enemy trainers not being able to use items in Mayhem Challenge
+- Added more trainers to Sync, Titan and ??? Challenges and rebalanced some trainers
+- Fixed Hisui and Galar achievement not tracking properly
+- Fixed SS Mina's Trainer Move making the opponents unable to use moves
+- Fixed healing triggering an unlimited amount of times for a trainer in the ??? Challenge
+
+Misc.:
+- Improved the game's graphics renderer to reduce lag near water (thanks Deshraj!)
+- Added unique audio for Pokémon Center healing for each region as well as for some routes in Kanto
+- Updated graphics for the Town Map from Kanto to Unova (excluding the Orange Islands)
+- Updated graphics for Lilycove City's Space Center, Route 119's Weather Institute and Battle Frontier Buildings
+- When interacting with the PC, its graphic changes to show that it's on. Also, the option "Access Someone's PC" has been changed to "Call Oak".
+- Changed the directory of where the game's options and speed are stored to be the same as save files to make it easier to port over to new versions of the game
+- Changed Butterfree, Unown and Seaking events to select a Pokémon from party rather than just checking the 1st Pokémon in your party
+- Changed the transition between Valor Lakefront and Route 213 - you are now on Route 213 after you exit the house, rather than below the stairs
+- The ship that takes you to Hoenn and Sinnoh from Vermillion City will now dynamically update the names of the location it takes you to
+- Pikachu now learns Thunder Wave at level 15 (previously 4), Squirtle now learns Bite at level 15 (previously 12) and Pidgeotto now learns Wing Attack at level 15 (previously 37)
+
+
+*********************************
+Version 3.6 Part 2.2 (??-11-2025)
+*********************************
+Issues fixed:
+- Fix Imprison crashing the game
+- Fix Sea of Fire effect (from Fire + Grass Pledge) crashing the game
+- Fix Enigma Berries not working properly in battle
+
+Main Game Changes:
+- The Abra teleport at Valor Lakefront only unlocks after you have met Wallace at Lake Valor
+- The Abra teleport at Celestic Town only unlocks after you have defeated Team Galactic in the town
+
+Grandeur Club Changes:
+- Added Galar and Hisui achievements to the GC Card
+
+
+*********************************
+Version 3.6 Part 2.1 (23-10-2025)
+*********************************
+Issues Fixed:
+- Fix battles with Trevor causing the game to crash on Route K17 and K22
+- Fix not being able to return to Cianwood City if the player didn't heal in its Pokémon Center and blacked out there
+
+Grandeur Club Changes:
+- Fix SS Hilda's Trainer Move in Sync + Titan Challenges
+- Added healing between certain fights in the ??? challenge
+- Nerfed one of the trainers in ??? challenge
+
+
+*******************************
+Version 3.6 Part 2 (16-10-2025)
+*******************************
+Qol Changes and Improvements:
+- Added a way to teleport to towns which don't have Pokémon Centers in Sinnoh (connecting Twinleaf Town, Veilstone City, Valor Lakefront and Celestic Town)
+- Added a PC to Kukui's Lab
+- Added a move tutor for Focus Punch at Hoenn Battle Frontier
+- Galarian Fossils can be bought at Aether Paradise after doing the event where Ash gets a Dracovish
+- Added Common Candy, which decreases the level of a Pokémon by 1 and added a vendor to Pallet Town after becoming the Orange League Champion (use with caution - the levels for certain trainers' Pokémon don't reset!)
+- Stopped disabling Fly after becoming Orange League Champion
+- Rotom Phone can now tell you where to go during the Journeys arc by using it
+- Furfrou can get trims at Lumiose Art Museum
+- Reduced the price of PP Maxes in Johto Game Corner
+- Items can now be bought in bulk in Game Corners
+- Items in the bag can now be sorted by alphabetical order (use the quick save key - default is left alt)
+- Move animations have been updated yet again, including a new custom animation for Battle Bond's transformation
+- Reshiram, Zekrom, Solgaleo, Lunala, Marshadow, Zacian and Zamazenta change forms while using their signature moves
+- Different music now when battling/encountering legendaries of different regions
+- Music now plays when encountering Jessie and James in the overworld
+- Added VFX from Essentials v20.1 to the Poké Ball opening animation in battle
+- Gave Dynamax/Legendary Pokémon, Casey, Tierno, Trevor and Shauna battle sprites
+- Rotom Phone won't unregister itself during the "To be a Pokémon Master" arc now
+- Change the battle BG in certain parts of certain routes
+- The speed up setting is now kept even after soft resetting or closing the game! (thank you Kraegon!)
+- Added an option to disable weather effects in the overworld! (thank you Kraegon x2!)
+- Added a search function to the PC so you can find Pokémon easier! (thank you Kraegon x3!)
+
+Issues fixed:
+- The soft lock on Kalos Route 8 in the "To be a Pokémon Master" arc has been fixed by reducing the offending trainer's line of sight
+- Fix a soft lock occurring when trying to enter Stow-on-Side from Glimwood Tangle in the "To be a Pokémon Master" arc
+- Fix the Cut move tutor on Kalos Route 11 talking to the player from a distance
+- Fix the portal to Ultra Ruin in the postgame, where it could crash the game
+- Fix a soft lock occurring when losing to the Red Gyarados at the Lake of Rage
+- Fix the Town Map showing that the player is in Kanto in Cherrygrove Pokémon Center
+- Fix being able to see into another house in Geosenge Town
+- Fix Enamorus not respawning after beating the Masters 8 rematch
+- Officer Jennys having the wrong speech colour
+- Fix Sun animation not showing up in battle
+- Fix Morrison having the incorrect team when doing his non league rematch in the postgame
+- Fix the battle against Alain instantly restarting when you lose to him at the Kalos League finals
+- If both parents had power items, both corresponding IVs are now passed down instead of just 1 of them
+- Fix Delia having the wrong sprite at the Alola League
+- Fix Gengar in Cerise's Lab not getting turned into an egg at a certain point during the Journeys arc
+- Fix being able to select other Pokémon other than Milcery for the chefs in Ballonlea Stadium
+- Fix being able to fish in unintended places (mainly puddles in towns) and not being able to fish on specific tiles
+- Fix an issue, where if you have an egg before having a Pokémon with an OW move, it would cause the wrong sprites to show up in the Ready Menu (the menu where you use your registered items)
+- Fix a visual glitch with wild Pokémon using U-turn and Volt Switch
+- Fix a visual glitch when the user misses a 2 turn move where it became semi-invulnerable (e.g. Fly, Dig)
+- Fix the stats screen not updating the colour of the stat names when changing a Pokémon's nature
+- Fix the game potentially crashing as the Masters 8 opening ceremony starts
+- Fix Rillaboom, Cinderace and Inteleon not being able to learn Frenzy Plant, Blast Burn and Hydro Cannon respectively
+- Fix Cramorant not changing form when using Dive
+- Fix Gastly having Cloyster's description in the Pokédex
+- Fix Vivillon's forms having another form's shiny icon
+- Fix graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x4)
+- Fix some nicknames being butchered because of Essentials (thank you Kraegon! x5). Achieved by having them be resized or truncated when they're too long
+- Fix the save file in the first save slot being the only one to able to overwrite game options - game options are now shared across all save files so now any save file can overwrite them! (thank you Kraegon x6!)
+- Fix a graphical issue where, if you were cycling before fishing, fishing after the first time wouldn't update the player's sprite properly (thank you Kay!)
+
+Grandeur Club Changes:
+- Added ??? challenge, which is only unlockable under certain conditions
+- Added Hisui and Galar as possible regions to challenge in Practice and Club
+- Items can be bought in bulk in the Vending Machine in the lobby
+- Virus codes have been adjusted to decrease IVs by 1 instead of setting them to 0
+- Changed certain Serperiors to have Contrary than Overgrow
+- Added a check to ensure that the player has a certain pass before being able to do certain battles
+- Fix Frontier trainers causing the player to black out when losing in Gauntlet Challenge
+- Fix certain instances of the Mayhem Challenge showing that the player obtained a key when they didn't
+- Overhauled the mechanics of Sync challenge:
+ - Damage taken by all Pokémon is reduced to 25% of its original value and adjusted trainers to use passives more effectively. This is to change it from being an OHKO or get OHKO'ed fest to more interesting battles where the gimmicks of every trainer can be showcased
+ - To accommodate for the above, a certain amount of HP and PP can be restored for every Pokémon in your party after every battle by talking to Nurse Joy once buffs have been unlocked
+ - New buffs have been added (last 3 require all initial buffs to be bought first):
+  - HP Recovery Lv. 1-3: Increase HP restored by Nurse Joy
+  - PP Recovery Lv. 1-3: Increase PP restored by Nurse Joy
+  - Status Recovery: Nurse Joy heals status conditions. Costs 3 energy
+  - Status Immunity: Your Pokémon are immune to status conditions. Costs 4 energy
+  - Interference Immunity: Your Pokémon are immune to flinching, being trapped or confused. Costs 3 energy
+  - Highest Vigilance: Your Pokémon won't receive critical hits for 999 turns (effectively the whole battle). Costs 3 energy
+ - The Vending Machine can no longer be used after doing the first battle in the challenge
+- More Sync and Titan challenge changes:
+ - Added a new Vending Machine in Sync and Titan challenges, which can give the opponent buffs to make the battle harder. In return, you gain more GC Credits if you complete the challenge. It can't be used after doing the first battle in the challenge.
+ - Fix stat buffs/debuffs for the opponents getting skipped in Sync and Titan challenge
+ - Fix various trainer moves having increased priority when they shouldn't
+ - Gave SS Blue, Leaf and Giovanni Trainer Moves
+ - SS Hau's Trainer Move now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
+ - SS Mina's Tapu Fini's Sea Deity Protect now only has 1 PP instead of 10 PP
+ - SS N's Black Kyurem's Resonating Noble Roar now only has 3 PP instead of 30 PP and can't be used before it uses Freeze Shock
+ - Added animations to B-Moves which correspond to their original move
+
+Misc.:
+- The Cable Club has been nuked as we don't want to fund the servers anymore
+- Put Muk upstairs in Oak's Lab rather than in the Corral to be more anime accurate
+- Made Lake of Rage bigger and changed the pathing of the shortcut on Route 205
+- Most trainers will now reserve their last Pokémon until the end of the battle
+- Rebalanced the battle against Eternamax Eternatus: It (and Meowth) will stay Dynamaxed for the entire battle, but it is now at level 40 (from 50)
+- Changed the title screen's BGM to the first anime opening theme!
+- Massively reduced the game's size by making use of ogg file metadata to loop BGM and to trim down on their length!
+
+
+********************************
+Version 3.6 Part 1.2 (17-2-2024)
+********************************
+Main Game Changes:
+- Pokémon that couldn't learn moves from dlc moves tutor are able to now
+- Fixed Future Sight causing an error message (though it didn't crash the game)
+- Fixed Wonder Trade crashing under certain circumstances
+- Fixed incorrect Game Corner Price being listed
+- Fixed Palkia spawning in Mt. Coronet
+- Fix an issue with Paul's teams getting mixed up in some scenarios
+- Fixed some collision issues in Fuchsia City, Wyndon and Galar Route 7
+- Fixed an issue where some healing items were healing different amounts based on whether they were in the used in battle or in the overworld
+- Removed the teleporter from the double battle room when doing the Hoenn League Rematch and added a check to the guard instead
+- Level of Champion Ash battles have been increased from 85 to 100
+
+Grandeur Club Changes:
+- Fixed rewards not being obtainable on Master Difficulty in some challenges
+- Fixed an issue where the whole team wouldn't be recorded sometimes in Gauntlet Challenge
+- Can't save in Gauntlet anymore
+- Gauntlet rewards now scale exponentially
+- Mayhem Challenge bags have been adjusted
+- Fixed an issue where the player could get stuck in a barrier in Mayhem
+- Added a surprise to the Vending Machine in the Lobby after beating Mayhem
+- Can't use items through Pokémon if items outside of battle have been disabled
+
+*******************************
+Version 3.6 Part 1.1 (4-2-2024)
+*******************************
+- Fixed missing animations caused by 3.6 Part 1
+- Brock being battled instead of Lt. Surge in Grandeur Club Gauntlet Challenge
+- Fixed Grandeur Club Challenge teams being mixed up
+- Fixed 3v6 battles occurring instead of 6v6 battles in Grandeur Club Challenge Master Difficulty
+
+*****************************
+Version 3.6 Part 1 (3-2-2024)
+*****************************
+- Added rematches to the rest of the leagues, including a Masters 8 rematch
+- The Dragon Pulse Move Tutor in Blackthorn City also teaches Dragon Dance now
+- Added a Move Tutor for Eruption in the Sinnoh League for Quilava
+- Added a Move Tutor for Cut on Route K11
+- Hapu (outside her home on Ancient Poni Path) acts as a Move Tutor for High Horsepower after beating her Grand Trial
+- Added a Move Tutor for the Isle of Armour DLC moves to the GC Lounge
+- Added credit-money exchange added to GC Lounge Vending Machine
+- Added a few trainers into Sync and Titan
+- Added Master Difficulty for Club, Sync, Titan and Duet
+- Rebalanced Mayhem rewards to compensate for the amount of time taken to complete it
+- Fixed Gauntlet crashing after getting to 50 trainers
+- Fixed an issue with Mayhem deleting the player's bag if they won on Ace difficulty
+- Fixed Sync and Titan crashing against Erika
+- Fixed an issue with GC Lounge BGM
+- Fixed an issue with Masters 8 crashing in certain scenarios
+- Fixed an issue with incorrect badges on the trainer card being shown in Azelea Town
+- Fixed an issue where a few Unovan towns not showing up on the town map at all
+- Updated graphics for many NPCs and trainers
+
+************************
+Version 3.5.1 (6-1-2024)
+************************
+- Fixed berries not being obtainable in certain maps
+- Fixed some missing collisions in Wyndon
+- Corrected Game Corner prices in the Alolan Game Corner
+
+************************
+Version 3.5 (31-12-2023)
+************************
+- Added a reward for completing the national dex
+- Added the Grandeur Club, which can be accessed by a separate teleporter upstairs in Oak's Lab in the postgame
+- Added the ability to rematch the Kanto League in the postgame
+- Kanto legendaries respawn (if they weren't caught before) if you beat the Kanto League in the post game
+- Added Wonder Trade to Pokémon Centers
+- Added a Quick Save Button (Left Alt by default)
+- Updated battle backgrounds
+- Updated art for the game which include but not limited to update sprites for existing characters, updated sprites for both Ash and "Leaf", new move animations
+- Fixed Hawlucha appearing too early in Oak's Lab
+- Fixed Hoopa not being able to to be obtained
+- Fixed Fly still being disabled when talking to the girl outside Mt. Coronet on Route 207
+- Fixed not being able to purchase items in the Veilstone Game Corner
+- Nerfed the Brilliant Judge
+- Fixed Kantonian Exeggutor and Sandslash spawning in Aether Paradise and Mount Lanakila Cave respectively; their Alolan forms now spawn in the respective areas
+- Blue Shellos spawns in Route 210 again
+- Fixed stats not going updating after using a Hyper Trainer (to fix the affected Pokémon in your party talk to the guy next to the Hyper Trainer)
+- Fixed Low Key Toxtricity not being obtainable
+- Fixed Safari Zone Galar being open too early
+- Fixed Olivia's Lycanroc not being in its Midday Form sometimes
+- Fixed being able to go up a cliff face on Route 7 in Galar
+- Fixed Milcery crashing the game
+- If the player's team hasn't been restored or Fly isn't working as intended, they can white out to fix it
+- Fixed the Galar Dex not working as intended for old save files; fix by going upstairs in Oak's lab
+- Fixed Zephyr Badge not showing up properly on the Trainer Card for old save files; fix by going upstairs in Oak's lab
+- Fixed instances where Ability Capsules would only work after a Pokémon evolves
+
+************************
+Version 3.4 (4-17-2023)
+************************
+- Ability Patch can now revert a Pokémon's Hidden Ability back to the ability at its first slot.
+- Flying is no longer disabled by talking to the girl with the Abra on Mt. Coronet.
+- The SS Anne Raticate for Butterfree return trade has been fixed.
+- The reward for showing a Seaking on Route 37 has been fixed to ask for the proper Pokémon.
+- Town map now works in Galar.
+- Team Rocket has wrong team at Route 222 has been corrected to the right team and fixed Jessie's postgame battle.
+- A Hyper Trainer has been added to the Rose of the Roselands hotel that will help you after defeating Leon.
+- Single strike/Rapid flow rocks are now in the correct order.
+Black Augaurite and Peat Block are fixed to work on Scyther and Ursaring respectively.
+- Sheer Force functions properly.
+- A sweet shop for Milcery's evolution are inside Ballonlea Stadium to purchase.
+- The Game Corner items have their prices balanced and added Ability Patch to the Hammerlock one for 5000 coins.
+- Vendor that sells Heart Scales in Seafolk Village now also sells Nectars for Oricorio.
+- Steel Beam move tutor has been added in Hammerlocke gym.
+- The Red Orb, Blue Orb (Route 124, postgame), DNA Splicers (Icirrus Cave, postgame), Kommonium Z (Vast Poni Canyon), Prison Bottle (Lumiose House), Zygarde Cube (Terminus Cave, postgame), N-Solarizer/N-Lunarizer (Alter of the Sunne, after catching Necrozma), Ultranecrozium Z (Ultra Deep Space, postgame) and Reins of Unity (Freezington, postgame) have been added.
+- Added Sweet Apple, Tart Apple, Galarica Cuff, and Galarica Wreath to the Stow-on-Side vendors.
+- Fixed Nature's Madness and some Legends Arceus moves that weren't working like they should've.
+- Vitamin Stat Cap no longer occurs.
+- Multiple issues with characters appearing too early in the plot have been fixed. Using Rotom Phone before Beartic now acts as an in built way to fix Misty not showing up on Kalos Route 8, Hatterene in the Glimwood Tangle, and Beartic on Route 216.
+
+************************
+Version 3.3 (3-24-2023)
+************************
+- Added the Galar region, completing Ash's journey across the anime.
+- Added new items the Game Corner to make each location unique.
+- Added Rotomi, which lets you access the PC from anywhere.
+- Poke Balls have been fixed to show the correct ball when Pokemon enter battle.
+- Multiple save files have been added.
+- New music has been added for Steven, Cynthia, and Jessie & James.
+- Environments have been added to allow Burmy to evolve into each form of Wormadam.
+- Movesets have been updated to be a combination of USUM and SWSH.
+- Overworld Pokémon have been added to every town.
+- Multiple visual glitches have been fixed.
+- Zen Mode, Hydration, and Solar Beam are now functioning properly.
+- Clicking F8 to take a screenshot no longer crashes the game.
+- A Move Tutor for Extreme Speed has been added at the Battle Pyramid.
+- Fixed black shadows appearing in some buildings.
+- Added a Teleport between Hau'oli City and Alola Route 1.
+- Added Larvitar and Solgaleo to Ash's postgame battle.
+- Added the Terracotta Contest.
+- New Ribbons have been included upon beating certain Trainers.
+- Hisiuan Pokemon have been added and can be accessed near the end of the Sinnoh journey.
+- Pikachu in a cap has been added at the player's house, which unlocks alongside the players outfits.
+- Postgame teams have been updated to Journeys teams and had their levels increased.
+
+************************
+Version 3.2 (8-15-2022)
+************************
+- Fixed all map issues caused by the overworld improvements for 3.1, including bridges that couldn't be crossed or Pokémon Center doors teleporting you above them.
+- Z-Moves are fixed to again be useable in battle. 
+- Alolan forms show up in the correct places instead of their regional counterparts.
+- Movesets are now a hybrid between USUM and SwSh movesets, so now Pokémon can learn moves from both games. If it learns a move in both games, it will learn the move at the lower level.
+- TM compatibility from 2.28 has been restored.
+- Some routes now have Berry Patches.
+- RKS System and Multi Attack use Arceus Plates to change type, like it did in 2.28 and before. 
+- Pikachu evolves into its Alolan Form in Alola, like Exeggcute and Cubone. 
+- The chance of encountering an Alolan Form outside of Alola has been reduced.
+- Some TMs have had their moves replaced.
+
+************************
+Version 3.1 (5-17-2022)
+************************
+- Ash's outfits now appear as intended in battle. 
+- Z-moves are now fixed so they can be used in battle again 
+- Added ability to use Fly in Kalos and Alola. 
+- Some Pokémon sprites have been improved, as well as sections of the overworld.
+- Added in the Cable Club, which allows for online battling and trading. This can be found in Driftveil City after beating the game.
+
+************************
+Version 3.0 (3-1-2022)
+************************
+- The game has been updated to Pokémon Essentials ver19.
+- Abilities and moves up to Gen 8 have been added.
