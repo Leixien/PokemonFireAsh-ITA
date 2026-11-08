@@ -2,10 +2,20 @@
 
 Traduzione italiana non ufficiale di **Pokémon Fire Ash 3.4** (fan game realizzato con Pokémon Essentials).
 
+> ⚠️ **La traduzione funziona solo con la versione 3.4.** I siti di download ora distribuiscono la
+> versione 3.7.1, che ha testi e script diversi: applicarci questa traduzione lascerebbe molti testi in
+> inglese e potrebbe causare problemi. Il patcher controlla la versione e si ferma se non è la 3.4.
+
 ## 📥 Come ottenere il gioco
 
-1. Scarica Pokemon Fire Ash 3.4 dal sito ufficiale: [DOWNLOAD](https://pokemerald.com/pokemon-fire-ash-download-v3-4-completed)
-2. Estrai il gioco in una cartella
+**Il modo più semplice:** questo repository contiene già **Pokémon Fire Ash 3.4 con la traduzione
+applicata**, nella cartella `Pokemon Fire Ash 3.4/Game`. Scarica il repository
+(pulsante **Code → Download ZIP** su GitHub, oppure `git clone`), estrai l'archivio e avvia
+`Pokemon Fire Ash 3.4/Game/Game.exe`.
+
+Se hai già una tua copia della **3.4** puoi invece applicarle la traduzione con uno dei metodi qui sotto.
+La pagina originale della 3.4 è [questa](https://pokemerald.com/pokemon-fire-ash-download-v3-4-completed/),
+ma ora rimanda alla 3.7.1.
 
 ## 🚀 Come installare la traduzione
 
@@ -32,8 +42,8 @@ dalla voce **Lingua** del menu iniziale. I salvataggi esistenti restano compatib
 
 ### Metodo manuale
 
-La cartella `Pokemon Fire Ash 3.4/Game` di questo repository contiene già il gioco con la traduzione applicata:
-copia `Data/italiano.dat`, `Data/english.dat` e `Data/Scripts.rxdata` nella cartella `Data` del tuo gioco.
+Copia `Data/italiano.dat`, `Data/english.dat` e `Data/Scripts.rxdata` dalla cartella
+`Pokemon Fire Ash 3.4/Game` di questo repository nella cartella `Data` della tua copia **3.4**.
 
 ## 📊 Stato della traduzione
 
