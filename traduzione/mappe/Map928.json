@@ -22,7 +22,7 @@
  {
   "id": "\\bWelcome to the Battle Royal Dome. Would you like to enter?",
   "en": "\\bWelcome to the Battle Royal Dome. Would you like to enter?",
-  "it": "\\bBenvenuto all'Arena Battle Royal. Vuoi partecipare?"
+  "it": "\\bBenvenuto all'Stadio Royale. Vuoi partecipare?"
  },
  {
   "id": "\\bWho do you want as your partner.",
@@ -52,7 +52,7 @@
  {
   "id": "\\bWelcome to the Battle Royal Dome. You must be \\PN. Are you ready?",
   "en": "\\bWelcome to the Battle Royal Dome. You must be \\PN. Are you ready?",
-  "it": "\\bBenvenuto all'Arena Battle Royal. Tu devi essere \\PN. Sei pronto?"
+  "it": "\\bBenvenuto all'Stadio Royale. Tu devi essere \\PN. Sei pronto?"
  },
  {
   "id": "\\PN teamed up with Royal!\\me[Item get]\\wtnp[40]",

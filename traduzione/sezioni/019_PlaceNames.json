@@ -1002,12 +1002,12 @@
  {
   "id": "Parfum Palace",
   "en": "Parfum Palace",
-  "it": "Palazzo Parfum"
+  "it": "Reggia Aurea"
  },
  {
   "id": "Cyllage City",
   "en": "Cyllage City",
-  "it": "Petroglifari"
+  "it": "Altoripoli"
  },
  {
   "id": "Route 10",
@@ -1022,7 +1022,7 @@
  {
   "id": "Reflection Cave",
   "en": "Reflection Cave",
-  "it": "Grotta Riflessi"
+  "it": "Grotta dei Riflessi"
  },
  {
   "id": "Shalour City",
@@ -1032,7 +1032,7 @@
  {
   "id": "Coumarine City",
   "en": "Coumarine City",
-  "it": "Batikopoli"
+  "it": "Temperopoli"
  },
  {
   "id": "Laverre City",
@@ -1047,7 +1047,7 @@
  {
   "id": "Frost Cavern",
   "en": "Frost Cavern",
-  "it": "Grotta Gelata"
+  "it": "Caverna Gelata"
  },
  {
   "id": "Anistar City",
@@ -1067,7 +1067,7 @@
  {
   "id": "Terminus Cave",
   "en": "Terminus Cave",
-  "it": "Grotta Capolinea"
+  "it": "Grotta Climax"
  },
  {
   "id": "Route 21",
@@ -1087,12 +1087,12 @@
  {
   "id": "Melemele Meadow",
   "en": "Melemele Meadow",
-  "it": "Prato di Mele Mele"
+  "it": "Prato Mele Mele"
  },
  {
   "id": "Iki Town",
   "en": "Iki Town",
-  "it": "Iki"
+  "it": "Lili"
  },
  {
   "id": "Hau'oli City",
@@ -1117,22 +1117,22 @@
  {
   "id": "Paniola Town",
   "en": "Paniola Town",
-  "it": "Paniola"
+  "it": "Ohana"
  },
  {
   "id": "Paniola Ranch",
   "en": "Paniola Ranch",
-  "it": "Ranch Paniola"
+  "it": "Fattoria Ohana"
  },
  {
   "id": "Brooklet Hill",
   "en": "Brooklet Hill",
-  "it": "Collina Ruscello"
+  "it": "Collina Scrosciante"
  },
  {
   "id": "Lush Jungle",
   "en": "Lush Jungle",
-  "it": "Foresta Ombrosa"
+  "it": "Giungla Ombrosa"
  },
  {
   "id": "Wela Volcano Park",
@@ -1142,12 +1142,12 @@
  {
   "id": "Royal Avenue",
   "en": "Royal Avenue",
-  "it": "Viale Reale"
+  "it": "Viale Royale"
  },
  {
   "id": "Ruins of Life",
   "en": "Ruins of Life",
-  "it": "Rovine della Vita"
+  "it": "Tempio della Vita"
  },
  {
   "id": "Aether Paradise",
@@ -1162,12 +1162,12 @@
  {
   "id": "Haina Desert",
   "en": "Haina Desert",
-  "it": "Deserto di Haina"
+  "it": "Deserto Haina"
  },
  {
   "id": "Ruins of Abundance",
   "en": "Ruins of Abundance",
-  "it": "Rovine dell'Abbondanza"
+  "it": "Tempio del Raccolto"
  },
  {
   "id": "Malie City",
@@ -1177,7 +1177,7 @@
  {
   "id": "Mount Hokulani",
   "en": "Mount Hokulani",
-  "it": "Monte Hokulani"
+  "it": "Picco Hokulani"
  },
  {
   "id": "Hokulani Observatory",
@@ -1197,27 +1197,27 @@
  {
   "id": "Seafolk Village",
   "en": "Seafolk Village",
-  "it": "Villaggio Marino"
+  "it": "Villaggio del Mare"
  },
  {
   "id": "Poni Wilds",
   "en": "Poni Wilds",
-  "it": "Lande di Poni"
+  "it": "Piana di Poni"
  },
  {
   "id": "Ancient Poni Path",
   "en": "Ancient Poni Path",
-  "it": "Antico Sentiero di Poni"
+  "it": "Via Antica di Poni"
  },
  {
   "id": "Poni Breaker Coast",
   "en": "Poni Breaker Coast",
-  "it": "Costa Frangiflutti di Poni"
+  "it": "Scogliera di Poni"
  },
  {
   "id": "Ruins of Hope",
   "en": "Ruins of Hope",
-  "it": "Rovine della Speranza"
+  "it": "Tempio del Passaggio"
  },
  {
   "id": "Manalo Stadium",
@@ -1227,17 +1227,17 @@
  {
   "id": "Vast Poni Canyon",
   "en": "Vast Poni Canyon",
-  "it": "Gran Canyon di Poni"
+  "it": "Canyon di Poni"
  },
  {
   "id": "Altar of the Sunne",
   "en": "Altar of the Sunne",
-  "it": "Altare del Sole"
+  "it": "Altare Solare"
  },
  {
   "id": "Thrifty Megamart",
   "en": "Thrifty Megamart",
-  "it": "Megamarket Parsimonia"
+  "it": "Supermarket Affaroni"
  },
  {
   "id": "Ultra Deep Space",
@@ -1347,7 +1347,7 @@
  {
   "id": "Iki Town?",
   "en": "Iki Town?",
-  "it": "Iki?"
+  "it": "Lili?"
  },
  {
   "id": "Aether Paradise?",

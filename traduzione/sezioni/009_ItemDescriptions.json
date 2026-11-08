@@ -2687,7 +2687,7 @@
  {
   "id": 538,
   "en": "An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.",
-  "it": "Strumento da far tenere a un Pokémon. Aumenta la Dif. Sp. con Psicocampo. Si può usare una volta sola."
+  "it": "Strumento da far tenere a un Pokémon. Aumenta la Dif. Sp. con Campo Psichico. Si può usare una volta sola."
  },
  {
   "id": 539,
@@ -4187,7 +4187,7 @@
  {
   "id": 838,
   "en": "A badge from the Cyllage Gym that proves you beat it. You obtained it from Grant.",
-  "it": "Medaglia della Palestra di Petroglifari che prova la tua vittoria. L'hai ottenuta da Lino."
+  "it": "Medaglia della Palestra di Altoripoli che prova la tua vittoria. L'hai ottenuta da Lino."
  },
  {
   "id": 839,
@@ -4197,7 +4197,7 @@
  {
   "id": 840,
   "en": "A badge from the Coumarine Gym that proves you beat it. You obtained it from Ramos.",
-  "it": "Medaglia della Palestra di Batikopoli che prova la tua vittoria. L'hai ottenuta da Amur."
+  "it": "Medaglia della Palestra di Temperopoli che prova la tua vittoria. L'hai ottenuta da Amur."
  },
  {
   "id": 841,
@@ -4397,7 +4397,7 @@
  {
   "id": 880,
   "en": "It converts Z-Power into crystals that upgrade Decidueye's Spirit Shackle to an exclusive Z-Move.",
-  "it": "Converte il Potere Z in cristalli che trasformano Cucitombra di Decidueye in una Mossa Z esclusiva."
+  "it": "Converte il Potere Z in cristalli che trasformano Cucitura d'Ombra di Decidueye in una Mossa Z esclusiva."
  },
  {
   "id": 881,
@@ -4407,7 +4407,7 @@
  {
   "id": 882,
   "en": "It converts Z-Power into crystals that upgrade Primarina's Sparkling Aria to an exclusive Z-Move.",
-  "it": "Converte il Potere Z in cristalli che trasformano Bollaria di Primarina in una Mossa Z esclusiva."
+  "it": "Converte il Potere Z in cristalli che trasformano Canto Effimero di Primarina in una Mossa Z esclusiva."
  },
  {
   "id": 883,
@@ -4432,7 +4432,7 @@
  {
   "id": 887,
   "en": "It converts Z-Power into crystals that upgrades Solgaleo's Sunsteel Strike to an exclusive Z-Move.",
-  "it": "Converte il Potere Z in cristalli che trasformano Meteoimpatto di Solgaleo in una Mossa Z esclusiva."
+  "it": "Converte il Potere Z in cristalli che trasformano Astrocarica di Solgaleo in una Mossa Z esclusiva."
  },
  {
   "id": 888,
@@ -4442,7 +4442,7 @@
  {
   "id": 889,
   "en": "It converts Z-Power into crystals that upgrade Marshadow's Spectral Thief to an exclusive Z-Move.",
-  "it": "Converte il Potere Z in cristalli che trasformano Furtombra di Marshadow in una Mossa Z esclusiva."
+  "it": "Converte il Potere Z in cristalli che trasformano Ombrafurto di Marshadow in una Mossa Z esclusiva."
  },
  {
   "id": 890,
@@ -4702,7 +4702,7 @@
  {
   "id": 992,
   "en": "An extention of the Rotom Phone. It allows you to access the PC from anywhere.",
-  "it": "Un'estensione del Rotom Phone. Permette di accedere al PC da qualsiasi luogo."
+  "it": "Un'estensione del Smart Rotom. Permette di accedere al PC da qualsiasi luogo."
  },
  {
   "id": 993,

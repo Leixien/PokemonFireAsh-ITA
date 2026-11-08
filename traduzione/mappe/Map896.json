@@ -22,27 +22,27 @@
  {
   "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki,Paniola,Cancel]",
   "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki,Paniola,Cancel]",
-  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki,Paniola,Annulla]"
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki,Ohana,Annulla]"
  },
  {
   "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Cancel]",
   "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Cancel]",
-  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Paniola,Royal,Annulla]"
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Ohana,Royal,Annulla]"
  },
  {
   "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Cancel]",
   "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Cancel]",
-  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Annulla]"
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Ohana,Royal,Tapu,Annulla]"
  },
  {
   "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Seafolk,Cancel]",
   "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Seafolk,Cancel]",
-  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Marino,Annulla]"
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Ohana,Royal,Tapu,Marino,Annulla]"
  },
  {
   "id": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Seafolk,Malie,Cancel]",
   "en": "\\rMy Ralts can Teleport you.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Seafolk,Malie,Cancel]",
-  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Paniola,Royal,Tapu,Marino,Malie,Annulla]"
+  "it": "\\rIl mio Ralts può teletrasportarti.\\ch[1,-1,Iki, Ohana,Royal,Tapu,Marino,Malie,Annulla]"
  },
  {
   "id": "\\bRalts",

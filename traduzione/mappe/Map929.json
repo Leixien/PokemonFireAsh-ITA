@@ -22,22 +22,22 @@
  {
   "id": "\\rMy Mr. Mime can Teleport you.\\ch[1,-1,Hau'oli, Iki,Paniola,Cancel]",
   "en": "\\rMy Mr. Mime can Teleport you.\\ch[1,-1,Hau'oli, Iki,Paniola,Cancel]",
-  "it": "\\rIl mio Mr. Mime può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Paniola,Annulla]"
+  "it": "\\rIl mio Mr. Mime può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Ohana,Annulla]"
  },
  {
   "id": "\\rMy Mr. Mime can Teleport you.\\ch[1,-1,Hau'oli, Iki,Paniola,Tapu,Cancel]",
   "en": "\\rMy Mr. Mime can Teleport you.\\ch[1,-1,Hau'oli, Iki,Paniola,Tapu,Cancel]",
-  "it": "\\rIl mio Mr. Mime può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Paniola,Tapu,Annulla]"
+  "it": "\\rIl mio Mr. Mime può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Ohana,Tapu,Annulla]"
  },
  {
   "id": "\\rMy Mr. Mime can Teleport you.\\ch[1,-1,Hau'oli, Iki,Paniola,Tapu,Seafolk,Cancel]",
   "en": "\\rMy Mr. Mime can Teleport you.\\ch[1,-1,Hau'oli, Iki,Paniola,Tapu,Seafolk,Cancel]",
-  "it": "\\rIl mio Mr. Mime può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Paniola,Tapu,Marino,Annulla]"
+  "it": "\\rIl mio Mr. Mime può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Ohana,Tapu,Marino,Annulla]"
  },
  {
   "id": "\\rMy Mr. Mime can Teleport you.\\ch[1,-1,Hau'oli, Iki,Paniola,Tapu,Seafolk,Malie,Cancel]",
   "en": "\\rMy Mr. Mime can Teleport you.\\ch[1,-1,Hau'oli, Iki,Paniola,Tapu,Seafolk,Malie,Cancel]",
-  "it": "\\rIl mio Mr. Mime può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Paniola,Tapu,Marino,Malie,Annulla]"
+  "it": "\\rIl mio Mr. Mime può teletrasportarti.\\ch[1,-1,Hau'oli, Iki,Ohana,Tapu,Marino,Malie,Annulla]"
  },
  {
   "id": "\\rMr. Mime",

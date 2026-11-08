@@ -17,27 +17,27 @@
  {
   "id": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli,Paniola, Cancel]",
   "en": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli,Paniola, Cancel]",
-  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli,Paniola, Annulla]"
+  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli,Ohana, Annulla]"
  },
  {
   "id": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli, Paniola,Royal,Cancel]",
   "en": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli, Paniola,Royal,Cancel]",
-  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli, Paniola,Viale Reale,Annulla]"
+  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli, Ohana,Viale Reale,Annulla]"
  },
  {
   "id": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli, Paniola,Royal,Tapu,Cancel]",
   "en": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli, Paniola,Royal,Tapu,Cancel]",
-  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli, Paniola,Viale Reale,Tapu,Annulla]"
+  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli, Ohana,Viale Reale,Tapu,Annulla]"
  },
  {
   "id": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli, Paniola,Royal,Tapu,Seafolk,Cancel]",
   "en": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli, Paniola,Royal,Tapu,Seafolk,Cancel]",
-  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli, Paniola,Viale Reale,Tapu,V. Marino,Annulla]"
+  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli, Ohana,Viale Reale,Tapu,V. Marino,Annulla]"
  },
  {
   "id": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli, Paniola,Royal,Tapu,Seafolk,Malie,Cancel]",
   "en": "\\rMy Gallade can Teleport you.\\ch[1,-1,Hau'oli, Paniola,Royal,Tapu,Seafolk,Malie,Cancel]",
-  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli, Paniola,Viale Reale,Tapu,V. Marino,Malie,Annulla]"
+  "it": "\\rIl mio Gallade può teletrasportarti.\\ch[1,-1,Hau'oli, Ohana,Viale Reale,Tapu,V. Marino,Malie,Annulla]"
  },
  {
   "id": "\\bGallade",

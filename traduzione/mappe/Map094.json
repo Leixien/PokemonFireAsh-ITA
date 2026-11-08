@@ -282,12 +282,12 @@
  {
   "id": "\\bLet's get you registed through your Rotom Phone.",
   "en": "\\bLet's get you registed through your Rotom Phone.",
-  "it": "\\bTi iscriviamo tramite il tuo Rotom Phone."
+  "it": "\\bTi iscriviamo tramite il tuo Smart Rotom."
  },
  {
   "id": "Rotom Phone: ...Registed: Trainer \\PN. Normal Class. Nearby opponent Visquez, located in the Vermilion City Gym, is ready for battle.",
   "en": "Rotom Phone: ...Registed: Trainer \\PN. Normal Class. Nearby opponent Visquez, located in the Vermilion City Gym, is ready for battle.",
-  "it": "Rotom Phone: ...Iscritto: Allenatore \\PN. Classe Normale. L'avversario più vicino, Visquez, si trova nella Palestra di Aranciopoli ed è pronto a lottare."
+  "it": "Smart Rotom: ...Iscritto: Allenatore \\PN. Classe Normale. L'avversario più vicino, Visquez, si trova nella Palestra di Aranciopoli ed è pronto a lottare."
  },
  {
   "id": "\\bGoh: Woah, you've already matched up with someone?",
@@ -322,7 +322,7 @@
  {
   "id": "Rotom Phone: Announcment. The World Coronation Series is hosting a Battle Festival Challenge in Shalour City in the Kalos region.",
   "en": "Rotom Phone: Announcment. The World Coronation Series is hosting a Battle Festival Challenge in Shalour City in the Kalos region.",
-  "it": "Rotom Phone: Annuncio. Le World Coronation Series ospitano una Sfida Festival della Lotta a Yantaropoli, nella regione di Kalos."
+  "it": "Smart Rotom: Annuncio. Le World Coronation Series ospitano una Sfida Festival della Lotta a Yantaropoli, nella regione di Kalos."
  },
  {
   "id": "\\bGoh: It's in Kalos. That's a great chance to catch some Kalos Pokémon. Should we go now?",
@@ -627,7 +627,7 @@
  {
   "id": "Rotom Phone: Announcment. New scheduled match for the World Coronation Series. The match will take place at the Kalos League against Drasna.",
   "en": "Rotom Phone: Announcment. New scheduled match for the World Coronation Series. The match will take place at the Kalos League against Drasna.",
-  "it": "Rotom Phone: Annuncio. Nuovo incontro in programma per le World Coronation Series. L'incontro si terrà alla Lega di Kalos contro Drasna."
+  "it": "Smart Rotom: Annuncio. Nuovo incontro in programma per le World Coronation Series. L'incontro si terrà alla Lega di Kalos contro Drasna."
  },
  {
   "id": "Gengar seems like it trusts you. Would you like to take it with you?",
@@ -842,7 +842,7 @@
  {
   "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Maike, located in Saffron City, is ready for battle.",
   "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Maike, located in Saffron City, is ready for battle.",
-  "it": "Rotom Phone: Annuncio. Nuovo avversario trovato per le World Coronation Series. Maike, a Zafferanopoli, è pronta a lottare."
+  "it": "Smart Rotom: Annuncio. Nuovo avversario trovato per le World Coronation Series. Maike, a Zafferanopoli, è pronta a lottare."
  },
  {
   "id": "Yes",

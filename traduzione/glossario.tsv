@@ -21,8 +21,8 @@ Types	Fairy	Folletto
 Moves	Megahorn	Megacorno
 Moves	Attack Order	Comandourto
 Moves	Bug Buzz	Ronzio
-Moves	First Impression	Primimpatto
-Moves	Pollen Puff	Pollinebomba
+Moves	First Impression	Schermaglia
+Moves	Pollen Puff	Sferapolline
 Moves	Leech Life	Sanguisuga
 Moves	Lunge	Assalto
 Moves	X-Scissor	Forbice X
@@ -36,30 +36,30 @@ Moves	Struggle Bug	Entomoblocco
 Moves	Fury Cutter	Tagliofuria
 Moves	Pin Missile	Missilspillo
 Moves	Twineedle	Doppio Ago
-Moves	Infestation	Infestazione
+Moves	Infestation	Assillo
 Moves	Defend Order	Comandoscudo
 Moves	Heal Order	Comandocura
-Moves	Powder	Polverone
+Moves	Powder	Pulviscoppio
 Moves	Quiver Dance	Eledanza
 Moves	Rage Powder	Polverabbia
 Moves	Spider Web	Ragnatela
 Moves	Sticky Web	Rete Vischiosa
 Moves	String Shot	Millebave
 Moves	Tail Glow	Codadiluce
-Moves	Skitter Smack	Assaltozampe
-Moves	Hyperspace Fury	Urtoscasso
+Moves	Skitter Smack	Strisciacolpo
+Moves	Hyperspace Fury	Urtodimensionale
 Moves	Foul Play	Ripicca
 Moves	Darkest Lariat	Braccioteso
-Moves	Night Daze	Urtonotturno
+Moves	Night Daze	Urtoscuro
 Moves	Crunch	Sgranocchio
 Moves	Dark Pulse	Neropulsar
-Moves	Throat Chop	Malagola
+Moves	Throat Chop	Colpo Infernale
 Moves	Night Slash	Nottesferza
 Moves	Sucker Punch	Sbigoattacco
 Moves	Knock Off	Privazione
 Moves	Assurance	Garanzia
 Moves	Bite	Morso
-Moves	Brutal Swing	Malacoda
+Moves	Brutal Swing	Vorticolpo
 Moves	Feint Attack	Finta
 Moves	Thief	Furto
 Moves	Snarl	Urlorabbia
@@ -67,7 +67,7 @@ Moves	Payback	Rivincita
 Moves	Pursuit	Inseguimento
 Moves	Beat Up	Picchiaduro
 Moves	Fling	Lancio
-Moves	Power Trip	Ondaboria
+Moves	Power Trip	Tracotanza
 Moves	Punishment	Punizione
 Moves	Dark Void	Vuototetro
 Moves	Embargo	Divieto
@@ -84,19 +84,19 @@ Moves	Taunt	Provocazione
 Moves	Topsy-Turvy	Sottosopra
 Moves	Torment	Attaccalite
 Moves	Jaw Lock	Morsostretto
-Moves	False Surrender	Finta Resa
+Moves	False Surrender	Supplicolpo
 Moves	Obstruct	Sbarramento
-Moves	Wicked Blow	Pugno Oscuro
+Moves	Wicked Blow	Pugnotenebra
 Moves	Lash Out	Sfogarabbia
-Moves	Fiery Wrath	Ira Ardente
+Moves	Fiery Wrath	Furia Ardente
 Moves	Roar of Time	Fragortempo
 Moves	Draco Meteor	Dragobolide
 Moves	Outrage	Oltraggio
 Moves	Clanging Scales	Clamorsquame
-Moves	Core Enforcer	Nucleoffesa
-Moves	Dragon Rush	Dragospintone
+Moves	Core Enforcer	Nucleocastigo
+Moves	Dragon Rush	Dragofuria
 Moves	Spacial Rend	Fendispazio
-Moves	Dragon Hammer	Martelldrago
+Moves	Dragon Hammer	Marteldrago
 Moves	Dragon Pulse	Dragopulsar
 Moves	Dragon Claw	Dragartigli
 Moves	Dragon Breath	Dragospiro
@@ -105,48 +105,48 @@ Moves	Dual Chop	Doppiocolpo
 Moves	Twister	Tornado
 Moves	Dragon Rage	Ira di Drago
 Moves	Dragon Dance	Dragodanza
-Moves	Breaking Swipe	Vibrospinta
+Moves	Breaking Swipe	Vastoimpatto
 Moves	Dragon Darts	Dragofrecce
 Moves	Dynamax Cannon	Cannone Dynamax
 Moves	Eternabeam	Raggio Infinito
-Moves	Clangorous Soul	Clamoranima
-Moves	Scale Shot	Squamaraffica
+Moves	Clangorous Soul	Dracofonia
+Moves	Scale Shot	Squamacolpo
 Moves	Dragon Energy	Dragoenergia
-Moves	Bolt Strike	Incrofulmine
+Moves	Bolt Strike	Lucesiluro
 Moves	Volt Tackle	Locomovolt
-Moves	Zap Cannon	Elettrocannone
+Moves	Zap Cannon	Falcecannone
 Moves	Thunder	Tuono
-Moves	Fusion Bolt	Lucesiluro
+Moves	Fusion Bolt	Incrotuono
 Moves	Plasma Fists	Pugni Plasma
 Moves	Thunderbolt	Fulmine
 Moves	Wild Charge	Sprizzalampo
 Moves	Discharge	Scarica
-Moves	Zing Zap	Scossaspina
+Moves	Zing Zap	Elettropizzico
 Moves	Thunder Punch	Tuonopugno
 Moves	Volt Switch	Invertivolt
 Moves	Parabolic Charge	Caricaparabola
 Moves	Spark	Scintilla
-Moves	Thunder Fang	Fulminzanna
+Moves	Thunder Fang	Fulmindenti
 Moves	Shock Wave	Ondashock
 Moves	Electroweb	Elettrotela
 Moves	Charge Beam	Raggioscossa
 Moves	Thunder Shock	Tuonoshock
-Moves	Nuzzle	Sfrega
+Moves	Nuzzle	Elettrococcola
 Moves	Electro Ball	Energisfera
-Moves	Charge	Caricaccumulo
-Moves	Eerie Impulse	Impulsostrano
+Moves	Charge	Sottocarica
+Moves	Eerie Impulse	Elettromistero
 Moves	Electric Terrain	Campo Elettrico
-Moves	Electrify	Elettrificazione
+Moves	Electrify	Elettrocontagio
 Moves	Ion Deluge	Pioggiaplasma
 Moves	Magnet Rise	Magnetascesa
-Moves	Magnetic Flux	Flusso Magnetico
+Moves	Magnetic Flux	Controllo Polare
 Moves	Thunder Wave	Tuononda
 Moves	Overdrive	Overdrive
 Moves	Aura Wheel	Ruota d'Aura
-Moves	Bolt Beak	Elettrobecco
-Moves	Rising Voltage	Alta Tensione
+Moves	Bolt Beak	Beccoshock
+Moves	Rising Voltage	Elettroimpennata
 Moves	Thunder Cage	Elettrogabbia
-Moves	Light of Ruin	Luce Rovinosa
+Moves	Light of Ruin	Luce Nefasta
 Moves	Fleur Cannon	Cannonfiore
 Moves	Moonblast	Forza Lunare
 Moves	Play Rough	Carineria
@@ -154,22 +154,22 @@ Moves	Dazzling Gleam	Magibrillio
 Moves	Draining Kiss	Assorbibacio
 Moves	Disarming Voice	Incantavoce
 Moves	Fairy Wind	Vento di Fata
-Moves	Aromatic Mist	Aromanebbia
+Moves	Aromatic Mist	Nebularoma
 Moves	Baby-Doll Eyes	Occhioni Teneri
 Moves	Charm	Fascino
 Moves	Crafty Shield	Truccodifesa
-Moves	Fairy Lock	Fatablocco
-Moves	Floral Healing	Curaflora
+Moves	Fairy Lock	Blocco Fatato
+Moves	Floral Healing	Cura Floreale
 Moves	Flower Shield	Fiordifesa
 Moves	Geomancy	Geocontrollo
 Moves	Misty Terrain	Campo Nebbioso
 Moves	Moonlight	Lucelunare
 Moves	Nature's Madness	Ira della Natura
 Moves	Sweet Kiss	Dolcebacio
-Moves	Spirit Break	Spiritoinfranto
+Moves	Spirit Break	Frantumanima
 Moves	Decorate	Decorazione
-Moves	Misty Explosion	Esplonebbia
-Moves	Strange Steam	Vaporestrano
+Moves	Misty Explosion	Nebbioscoppio
+Moves	Strange Steam	Vapore Incantato
 Moves	Focus Punch	Centripugno
 Moves	High Jump Kick	Calcinvolo
 Moves	Close Combat	Zuffa
@@ -210,21 +210,21 @@ Moves	Reversal	Contropiede
 Moves	Seismic Toss	Movimento Sismico
 Moves	Bulk Up	Granfisico
 Moves	Detect	Individua
-Moves	Mat Block	Tatamiparata
+Moves	Mat Block	Ribaltappeto
 Moves	Quick Guard	Anticipo
-Moves	Octolock	Octoblocco
-Moves	Meteor Assault	Meteorassalto
-Moves	No Retreat	Senza Ritorno
-Moves	Coaching	Incoraggiamento
-Moves	Body Press	Pressacorpo
-Moves	Thunderous Kick	Tuonocalcio
+Moves	Octolock	Tentacolock
+Moves	Meteor Assault	Sfolgorassalto
+Moves	No Retreat	Spalle al Muro
+Moves	Coaching	Coaching
+Moves	Body Press	Schiacciacorpo
+Moves	Thunderous Kick	Calcio Tonante
 Moves	V-create	Generatore V
 Moves	Blast Burn	Incendio
 Moves	Eruption	Eruzione
 Moves	Mind Blown	Sbalorditesta
 Moves	Shell Trap	Gusciotrappola
 Moves	Blue Flare	Fuocoblu
-Moves	Burn Up	Fiammafinale
+Moves	Burn Up	Ultima Fiamma
 Moves	Overheat	Vampata
 Moves	Flare Blitz	Fuococarica
 Moves	Fire Blast	Fuocobomba
@@ -232,12 +232,12 @@ Moves	Fusion Flare	Incrofiamma
 Moves	Inferno	Marchiatura
 Moves	Magma Storm	Magmaclisma
 Moves	Sacred Fire	Magifuoco
-Moves	Searing Shot	Bombafuoco
+Moves	Searing Shot	Sparafuoco
 Moves	Heat Wave	Ondacalda
 Moves	Flamethrower	Lanciafiamme
 Moves	Blaze Kick	Calciardente
-Moves	Fiery Dance	Fiammridanza
-Moves	Fire Lash	Frustafuoco
+Moves	Fiery Dance	Voldifuoco
+Moves	Fire Lash	Frusta di Fuoco
 Moves	Fire Pledge	Fiammapatto
 Moves	Lava Plume	Lavasbuffo
 Moves	Fire Punch	Fuocopugno
@@ -249,17 +249,17 @@ Moves	Incinerate	Bruciatutto
 Moves	Flame Charge	Nitrocarica
 Moves	Ember	Braciere
 Moves	Fire Spin	Turbofuoco
-Moves	Heat Crash	Pesocalore
+Moves	Heat Crash	Marchiafuoco
 Moves	Sunny Day	Giornodisole
 Moves	Will-O-Wisp	Fuocofatuo
-Moves	Pyro Ball	Palla Brace
-Moves	Burning Jealousy	Invidia Ardente
+Moves	Pyro Ball	Palla Infuocata
+Moves	Burning Jealousy	Fiamminvidia
 Moves	Sky Attack	Aeroattacco
 Moves	Brave Bird	Baldeali
 Moves	Dragon Ascent	Ascesa del Drago
 Moves	Hurricane	Tifone
 Moves	Aeroblast	Aerocolpo
-Moves	Beak Blast	Beccocannone
+Moves	Beak Blast	Cannonbecco
 Moves	Fly	Volo
 Moves	Bounce	Rimbalzo
 Moves	Drill Peck	Perforbecco
@@ -279,14 +279,14 @@ Moves	Feather Dance	Danzadipiume
 Moves	Mirror Move	Speculmossa
 Moves	Roost	Trespolo
 Moves	Tailwind	Ventoincoda
-Moves	Dual Wingbeat	Doppiala
+Moves	Dual Wingbeat	Doppia Ala
 Moves	Shadow Force	Oscurotuffo
 Moves	Moongeist Beam	Raggio d'Ombra
 Moves	Phantom Force	Spettrotuffo
-Moves	Spectral Thief	Furtombra
-Moves	Shadow Bone	Ossombra
+Moves	Spectral Thief	Ombrafurto
+Moves	Shadow Bone	Ossotetro
 Moves	Shadow Ball	Palla Ombra
-Moves	Spirit Shackle	Cucitombra
+Moves	Spirit Shackle	Cucitura d'Ombra
 Moves	Shadow Claw	Ombrartigli
 Moves	Hex	Sciagura
 Moves	Ominous Wind	Funestovento
@@ -303,10 +303,10 @@ Moves	Nightmare	Incubo
 Moves	Spite	Dispetto
 Moves	Trick-or-Treat	Halloween
 Moves	Poltergeist	Poltergeist
-Moves	Astral Barrage	Schiera Astrale
+Moves	Astral Barrage	Schegge Astrali
 Moves	Frenzy Plant	Radicalbero
 Moves	Leaf Storm	Verdebufera
-Moves	Solar Blade	Solarlama
+Moves	Solar Blade	Lama Solare
 Moves	Petal Dance	Petalodanza
 Moves	Power Whip	Vigorcolpo
 Moves	Seed Flare	Infuriaseme
@@ -319,8 +319,8 @@ Moves	Grass Pledge	Erbapatto
 Moves	Seed Bomb	Semebomba
 Moves	Giga Drain	Gigassorbimento
 Moves	Horn Leech	Legnicorno
-Moves	Trop Kick	Calcitropicale
-Moves	Leaf Tornado	Fogliavortice
+Moves	Trop Kick	Tropicalcio
+Moves	Leaf Tornado	Vorticerba
 Moves	Magical Leaf	Fogliamagica
 Moves	Needle Arm	Pugnospine
 Moves	Razor Leaf	Foglielama
@@ -339,57 +339,57 @@ Moves	Grassy Terrain	Campo Erboso
 Moves	Ingrain	Radicamento
 Moves	Leech Seed	Parassiseme
 Moves	Sleep Powder	Sonnifero
-Moves	Spiky Shield	Agoscudo
+Moves	Spiky Shield	Agodifesa
 Moves	Spore	Spora
-Moves	Strength Sap	Assorbilinfa
+Moves	Strength Sap	Assorbiforza
 Moves	Stun Spore	Paralizzante
 Moves	Synthesis	Sintesi
 Moves	Worry Seed	Affannoseme
-Moves	Branch Poke	Colpo di Ramo
+Moves	Branch Poke	Ramostoccata
 Moves	Drum Beating	Tamburattacco
-Moves	Grav Apple	Gravimela
-Moves	Apple Acid	Acidomela
+Moves	Grav Apple	Forza G
+Moves	Apple Acid	Acido Malico
 Moves	Snap Trap	Tagliola
-Moves	Grassy Glide	Erbascivolata
+Moves	Grassy Glide	Erboscivolata
 Moves	Jungle Healing	Giunglacura
-Moves	Precipice Blades	Lame Telluriche
+Moves	Precipice Blades	Spade Telluriche
 Moves	Earthquake	Terremoto
 Moves	High Horsepower	Forza Equina
 Moves	Earth Power	Geoforza
-Moves	Land's Wrath	Ira Terrena
+Moves	Land's Wrath	Forza Tellurica
 Moves	Thousand Arrows	Mille Frecce
 Moves	Thousand Waves	Mille Onde
 Moves	Dig	Fossa
 Moves	Drill Run	Giravvita
-Moves	Stomping Tantrum	Rabbiapesta
+Moves	Stomping Tantrum	Battipiedi
 Moves	Bone Club	Ossoclava
-Moves	Mud Bomb	Fangobomba
+Moves	Mud Bomb	Pantanobomba
 Moves	Bulldoze	Battiterra
 Moves	Mud Shot	Colpodifango
 Moves	Bonemerang	Ossomerang
 Moves	Sand Tomb	Sabbiotomba
 Moves	Bone Rush	Ossoraffica
-Moves	Mud-Slap	Fangata
+Moves	Mud-Slap	Fangosberla
 Moves	Fissure	Abisso
 Moves	Magnitude	Magnitudo
-Moves	Mud Sport	Fangosport
-Moves	Rototiller	Aratro
+Moves	Mud Sport	Fangata
+Moves	Rototiller	Aracampo
 Moves	Sand Attack	Turbosabbia
-Moves	Shore Up	Raccoglisabbia
+Moves	Shore Up	Sabbiaccumulo
 Moves	Spikes	Punte
 Moves	Scorching Sands	Sabbiardente
 Moves	Freeze Shock	Elettrogelo
-Moves	Ice Burn	Bruciagelo
+Moves	Ice Burn	Vampagelida
 Moves	Blizzard	Bora
 Moves	Ice Hammer	Martelgelo
 Moves	Ice Beam	Geloraggio
-Moves	Icicle Crash	Cascagelo
+Moves	Icicle Crash	Scagliagelo
 Moves	Ice Punch	Gelopugno
 Moves	Freeze-Dry	Liofilizzazione
 Moves	Aurora Beam	Raggiaurora
 Moves	Glaciate	Gelamondo
 Moves	Ice Fang	Gelodenti
-Moves	Avalanche	Valanga
+Moves	Avalanche	Slavina
 Moves	Frost Breath	Alitogelido
 Moves	Icy Wind	Ventogelato
 Moves	Ice Shard	Geloscheggia
@@ -411,7 +411,7 @@ Moves	Boomburst	Ondaboato
 Moves	Last Resort	Ultimascelta
 Moves	Skull Bash	Capocciata
 Moves	Double-Edge	Sdoppiatore
-Moves	Head Charge	Zuccata
+Moves	Head Charge	Ricciolata
 Moves	Mega Kick	Megacalcio
 Moves	Techno Blast	Tecnobotto
 Moves	Thrash	Colpo
@@ -419,7 +419,7 @@ Moves	Egg Bomb	Uovobomba
 Moves	Judgment	Giudizio
 Moves	Hyper Voice	Granvoce
 Moves	Multi-Attack	Multiattacco
-Moves	Revelation Dance	Danza Rivelatrice
+Moves	Revelation Dance	Mutadanza
 Moves	Rock Climb	Scalaroccia
 Moves	Take Down	Riduttore
 Moves	Uproar	Baraonda
@@ -463,7 +463,7 @@ Moves	Scratch	Graffio
 Moves	Tackle	Azione
 Moves	Double Hit	Doppiosmash
 Moves	Feint	Fintoattacco
-Moves	Tail Slap	Codaschiaffo
+Moves	Tail Slap	Spazzasberla
 Moves	Rage	Ira
 Moves	Rapid Spin	Rapigiro
 Moves	Spike Cannon	Sparalance
@@ -500,7 +500,7 @@ Moves	Bestow	Cediregalo
 Moves	Block	Blocco
 Moves	Camouflage	Camuffamento
 Moves	Captivate	Incanto
-Moves	Celebrate	Festeggiamento
+Moves	Celebrate	Auguri
 Moves	Confide	Confidenza
 Moves	Conversion	Conversione
 Moves	Conversion 2	Conversione2
@@ -510,19 +510,19 @@ Moves	Disable	Inibitore
 Moves	Double Team	Doppioteam
 Moves	Encore	Ripeti
 Moves	Endure	Resistenza
-Moves	Entrainment	Coinvolgimento
+Moves	Entrainment	Saltamicizia
 Moves	Flash	Flash
 Moves	Focus Energy	Focalenergia
 Moves	Follow Me	Sonoqui
 Moves	Foresight	Preveggenza
-Moves	Glare	Bagliore
+Moves	Glare	Sguardo Feroce
 Moves	Growl	Ruggito
 Moves	Growth	Crescita
-Moves	Happy Hour	Happy Hour
+Moves	Happy Hour	Cuccagna
 Moves	Harden	Rafforzatore
 Moves	Heal Bell	Rintoccasana
 Moves	Helping Hand	Altruismo
-Moves	Hold Hands	Manoinmano
+Moves	Hold Hands	Mano nella Mano
 Moves	Howl	Gridodilotta
 Moves	Laser Focus	Concentrazione
 Moves	Leer	Fulmisguardo
@@ -532,7 +532,7 @@ Moves	Lucky Chant	Fortuncanto
 Moves	Me First	Precedenza
 Moves	Mean Look	Malosguardo
 Moves	Metronome	Metronomo
-Moves	Milk Drink	Bevilatte
+Moves	Milk Drink	Buonlatte
 Moves	Mimic	Mimica
 Moves	Mind Reader	Leggimente
 Moves	Minimize	Minimizzato
@@ -547,7 +547,7 @@ Moves	Protect	Protezione
 Moves	Psych Up	Psicamisù
 Moves	Recover	Ripresa
 Moves	Recycle	Riciclo
-Moves	Reflect Type	Copiatipo
+Moves	Reflect Type	Riflettipo
 Moves	Refresh	Rinfrescata
 Moves	Roar	Boato
 Moves	Safeguard	Salvaguardia
@@ -555,7 +555,7 @@ Moves	Scary Face	Visotruce
 Moves	Screech	Stridio
 Moves	Sharpen	Affilatore
 Moves	Shell Smash	Gettaguscio
-Moves	Simple Beam	Semplicioraggio
+Moves	Simple Beam	Ondisinvolta
 Moves	Sing	Canto
 Moves	Sketch	Schizzo
 Moves	Slack Off	Pigro
@@ -572,7 +572,7 @@ Moves	Swallow	Introenergia
 Moves	Sweet Scent	Profumino
 Moves	Swords Dance	Danzaspada
 Moves	Tail Whip	Colpocoda
-Moves	Tearful Look	Lacrimucce
+Moves	Tearful Look	Occhionilucidi
 Moves	Teeter Dance	Strampadanza
 Moves	Tickle	Solletico
 Moves	Transform	Trasformazione
@@ -581,12 +581,12 @@ Moves	Wish	Desiderio
 Moves	Work Up	Cuordileone
 Moves	Yawn	Sbadiglio
 Moves	Court Change	Cambiocampo
-Moves	Stuff Cheeks	Rimpinzata
+Moves	Stuff Cheeks	Riempiguance
 Moves	Teatime	Ora del Tè
-Moves	Terrain Pulse	Campodiforza
-Moves	Belch	Sdegno
+Moves	Terrain Pulse	Campopulsar
+Moves	Belch	Rutto
 Moves	Gunk Shot	Sporcolancio
-Moves	Sludge Wave	Fanghonda
+Moves	Sludge Wave	Fangonda
 Moves	Sludge Bomb	Fangobomba
 Moves	Poison Jab	Velenpuntura
 Moves	Cross Poison	Velenocroce
@@ -599,7 +599,7 @@ Moves	Acid	Acido
 Moves	Acid Spray	Acidobomba
 Moves	Smog	Smog
 Moves	Poison Sting	Velenospina
-Moves	Acid Armor	Acidarmatura
+Moves	Acid Armor	Scudo Acido
 Moves	Baneful Bunker	Fortino
 Moves	Coil	Arrotola
 Moves	Gastro Acid	Gastroacido
@@ -611,8 +611,8 @@ Moves	Toxic Spikes	Fielepunte
 Moves	Toxic Thread	Velenotela
 Moves	Venom Drench	Velenotrappola
 Moves	Corrosive Gas	Gas Corrosivo
-Moves	Shell Side Arm	Conchilancio
-Moves	Prismatic Laser	Laser Prisma
+Moves	Shell Side Arm	Armaguscio
+Moves	Prismatic Laser	Prismalaser
 Moves	Psycho Boost	Psicoslancio
 Moves	Future Sight	Divinazione
 Moves	Synchronoise	Sincrumore
@@ -620,9 +620,9 @@ Moves	Dream Eater	Mangiasogni
 Moves	Photon Geyser	Geyser Fotonico
 Moves	Psystrike	Psicobotta
 Moves	Psychic	Psichico
-Moves	Psychic Fangs	Psicozanne
+Moves	Psychic Fangs	Psicozanna
 Moves	Extrasensory	Extrasenso
-Moves	Hyperspace Hole	Forolargo
+Moves	Hyperspace Hole	Forodimensionale
 Moves	Psyshock	Psicoshock
 Moves	Zen Headbutt	Cozzata Zen
 Moves	Luster Purge	Abbagliante
@@ -633,7 +633,7 @@ Moves	Heart Stamp	Cuorestampo
 Moves	Confusion	Confusione
 Moves	Stored Power	Veicolaforza
 Moves	Mirror Coat	Specchiovelo
-Moves	Psywave	Psicoonda
+Moves	Psywave	Psiconda
 Moves	Agility	Agilità
 Moves	Ally Switch	Cambiaposto
 Moves	Amnesia	Amnesia
@@ -644,12 +644,12 @@ Moves	Gravity	Gravità
 Moves	Guard Split	Paridifesa
 Moves	Guard Swap	Barattoscudo
 Moves	Heal Block	Anticura
-Moves	Heal Pulse	Pulsocura
+Moves	Heal Pulse	Ondasana
 Moves	Healing Wish	Curardore
 Moves	Heart Swap	Cuorbaratto
 Moves	Hypnosis	Ipnosi
 Moves	Imprison	Esclusiva
-Moves	Instruct	Comando
+Moves	Instruct	Imposizione
 Moves	Kinesis	Cinèsi
 Moves	Light Screen	Schermoluce
 Moves	Lunar Dance	Lunardanza
@@ -660,23 +660,23 @@ Moves	Miracle Eye	Miracolvista
 Moves	Power Split	Pariattacco
 Moves	Power Swap	Barattoforza
 Moves	Power Trick	Ingannoforza
-Moves	Psychic Terrain	Psicocampo
-Moves	Psycho Shift	Psicotrasfer
+Moves	Psychic Terrain	Campo Psichico
+Moves	Psycho Shift	Psicotransfer
 Moves	Reflect	Riflesso
 Moves	Rest	Riposo
 Moves	Role Play	Giocodiruolo
 Moves	Skill Swap	Baratto
-Moves	Speed Swap	Scambiavelocità
+Moves	Speed Swap	Velociscambio
 Moves	Telekinesis	Telecinesi
 Moves	Teleport	Teletrasporto
 Moves	Trick	Raggiro
 Moves	Trick Room	Distortozona
 Moves	Wonder Room	Mirabilzona
 Moves	Magic Powder	Magipolvere
-Moves	Expanding Force	Forzespansione
-Moves	Eerie Spell	Formula Arcana
+Moves	Expanding Force	Vastenergia
+Moves	Eerie Spell	Inquietantesimo
 Moves	Freezing Glare	Sguardo Gelido
-Moves	Head Smash	Capocciata
+Moves	Head Smash	Zuccata
 Moves	Rock Wrecker	Devastomasso
 Moves	Diamond Storm	Diamantempesta
 Moves	Stone Edge	Pietrataglio
@@ -686,25 +686,25 @@ Moves	Ancient Power	Forzantica
 Moves	Rock Tomb	Rocciotomba
 Moves	Rock Throw	Sassata
 Moves	Smack Down	Abbattimento
-Moves	Accelerock	Saltoroccia
+Moves	Accelerock	Rocciarapida
 Moves	Rollout	Rotolamento
 Moves	Rock Blast	Cadutamassi
 Moves	Rock Polish	Lucidatura
 Moves	Sandstorm	Terrempesta
 Moves	Stealth Rock	Levitoroccia
-Moves	Wide Guard	Ampioscudo
-Moves	Tar Shot	Catramonata
+Moves	Wide Guard	Bodyguard
+Moves	Tar Shot	Colpocatrame
 Moves	Meteor Beam	Raggiometeora
-Moves	Doom Desire	Desiofato
+Moves	Doom Desire	Obbliderio
 Moves	Iron Tail	Codacciaio
-Moves	Sunsteel Strike	Meteoimpatto
+Moves	Sunsteel Strike	Astrocarica
 Moves	Meteor Mash	Meteorpugno
-Moves	Anchor Shot	Ancorcolpo
+Moves	Anchor Shot	Colpo d'Ancora
 Moves	Flash Cannon	Cannonflash
 Moves	Iron Head	Metaltestata
-Moves	Smart Strike	Perforcorno
+Moves	Smart Strike	Sottilcorno
 Moves	Steel Wing	Alacciaio
-Moves	Double Iron Bash	Pugni Rotanti
+Moves	Double Iron Bash	Pugni Corazzati
 Moves	Mirror Shot	Cristalcolpo
 Moves	Magnet Bomb	Bombagnete
 Moves	Gear Grind	Ingracolpo
@@ -714,15 +714,15 @@ Moves	Gyro Ball	Vortexpalla
 Moves	Heavy Slam	Pesobomba
 Moves	Metal Burst	Metalscoppio
 Moves	Autotomize	Sganciapesi
-Moves	Gear Up	Ingranaggi
+Moves	Gear Up	Marciainpiù
 Moves	Iron Defense	Ferroscudo
 Moves	King's Shield	Scudo Reale
 Moves	Metal Sound	Ferrostrido
-Moves	Shift Gear	Marcia
-Moves	Behemoth Bash	Scudosolenne
-Moves	Behemoth Blade	Spadasolenne
-Moves	Steel Roller	Rulloduro
-Moves	Steel Beam	Raggiacciaio
+Moves	Shift Gear	Cambiomarcia
+Moves	Behemoth Bash	Colpo Maestoso
+Moves	Behemoth Blade	Taglio Maestoso
+Moves	Steel Roller	Ferrorullo
+Moves	Steel Beam	Raggio d'Acciaio
 Moves	Hydro Cannon	Idrocannone
 Moves	Water Spout	Zampillo
 Moves	Hydro Pump	Idropompa
@@ -731,9 +731,9 @@ Moves	Steam Eruption	Vaporscoppio
 Moves	Crabhammer	Martellata
 Moves	Aqua Tail	Idrondata
 Moves	Muddy Water	Fanghiglia
-Moves	Sparkling Aria	Bollaria
+Moves	Sparkling Aria	Canto Effimero
 Moves	Surf	Surf
-Moves	Liquidation	Acquadirompente
+Moves	Liquidation	Idrobreccia
 Moves	Dive	Sub
 Moves	Scald	Idrovampata
 Moves	Water Pledge	Acquapatto
@@ -751,68 +751,68 @@ Moves	Whirlpool	Mulinello
 Moves	Water Shuriken	Acqualame
 Moves	Aqua Ring	Acquanello
 Moves	Rain Dance	Pioggiadanza
-Moves	Soak	Inzuppata
+Moves	Soak	Inondazione
 Moves	Water Sport	Docciascudo
 Moves	Withdraw	Ritirata
 Moves	Snipe Shot	Tiromirato
-Moves	Fishious Rend	Branchiatesta
-Moves	Life Dew	Vitarugiada
+Moves	Fishious Rend	Branchiomorso
+Moves	Life Dew	Goccia Vitale
 Moves	Surging Strikes	Idroraffica
 Moves	Flip Turn	Virata
-Moves	Breakneck Blitz	Turbocarica Folle
-Moves	All-Out Pummeling	Pugni Senza Freni
-Moves	Supersonic Skystrike	Volo Supersonico
-Moves	Acid Downpour	Pioggia Acida
-Moves	Tectonic Rage	Ira Tettonica
-Moves	Continental Crush	Crollo Continentale
-Moves	Savage Spin-Out	Spirale Selvaggia
-Moves	Never-Ending Nightmare	Incubo Senza Fine
-Moves	Corkscrew Crash	Trivella Rovinosa
-Moves	Inferno Overdrive	Iperinferno
-Moves	Hydro Vortex	Idrovortice
-Moves	Bloom Doom	Fioritura Fatale
-Moves	Gigavolt Havoc	Gigavolt Devastante
-Moves	Shattered Psyche	Psiche Frantumata
-Moves	Subzero Slammer	Schianto Sottozero
-Moves	Devastating Drake	Drago Devastante
-Moves	Black Hole Eclipse	Eclissi Buco Nero
-Moves	Twinkle Tackle	Carica Scintillante
-Moves	Stoked Sparksurfer	Surf Elettrizzante
-Moves	Sinister Arrow Raid	Pioggia di Frecce
-Moves	Malicious Moonsault	Lunasalto Maligno
-Moves	Oceanic Operetta	Operetta Oceanica
-Moves	Extreme Evoboost	Evoboost Estremo
-Moves	Catastropika	Catastropika
-Moves	Pulverizing Pancake	Spianata Polverizzante
-Moves	Genesis Supernova	Supernova Genesi
-Moves	Guardian of Alola	Guardiano di Alola
-Moves	Soul-Stealing 7-Star Strike	Colpo Rubanima 7 Stelle
+Moves	Breakneck Blitz	Carica Travolgente
+Moves	All-Out Pummeling	Iperscarica Furiosa
+Moves	Supersonic Skystrike	Picchiata Devastante
+Moves	Acid Downpour	Acidiluvio Corrosivo
+Moves	Tectonic Rage	Furore della Terra
+Moves	Continental Crush	Gigamacigno Polverizzante
+Moves	Savage Spin-Out	Bozzolo Fatale
+Moves	Never-Ending Nightmare	Abbraccio Spettrale
+Moves	Corkscrew Crash	Spirale Perforante
+Moves	Inferno Overdrive	Fiammobomba Detonante
+Moves	Hydro Vortex	Idrovortice Abissale
+Moves	Bloom Doom	Floriscoppio Sfolgorante
+Moves	Gigavolt Havoc	Gigascarica Folgorante
+Moves	Shattered Psyche	Impatto Psicocinetico
+Moves	Subzero Slammer	Criodistruzione Polare
+Moves	Devastating Drake	Dragoschianto Finale
+Moves	Black Hole Eclipse	Buco Nero del Non Ritorno
+Moves	Twinkle Tackle	Astroimpatto Fatato
+Moves	Stoked Sparksurfer	Elettrosurf Folgorante
+Moves	Sinister Arrow Raid	Dardoassalto Spettrale
+Moves	Malicious Moonsault	Iperschianto delle Tenebre
+Moves	Oceanic Operetta	Sinfonia del Mare
+Moves	Extreme Evoboost	Potenziamento Eevolutivo
+Moves	Catastropika	Super Pikaboom
+Moves	Pulverizing Pancake	Adesso Faccio sul Serio
+Moves	Genesis Supernova	Supernova delle Origini
+Moves	Guardian of Alola	Collera del Guardiano
+Moves	Soul-Stealing 7-Star Strike	Colpo Eptastellare Rubanima
 Moves	10,000,000 Volt Tunderbolt	Fulmine da 10.000.000 Volt
-Moves	Clangorous Soulblaze	Fiammanima Fragorosa
-Moves	Menacing Moonraze Maelstrom	Vortice Lunafiamma
-Moves	Splintered Stormshards	Tempesta di Schegge
-Moves	Let's Snuggle Forever	Coccole Infinite
-Moves	Searing Sunraze Smash	Impatto Solarfiamma
-Moves	Light That Burns the Sky	Luce che Arde il Cielo
-Moves	Max Guard	Barriera Max
-Moves	Max Knuckle	Nocca Max
-Moves	Max Steelspike	Acciaiospina Max
-Moves	Max Ooze	Acido Max
-Moves	Max Quake	Sisma Max
-Moves	Max Airstream	Corrente Max
-Moves	Max Wyrmwind	Dragovento Max
-Moves	Max Phantasm	Spettro Max
-Moves	Max Flutterby	Svolazzo Max
-Moves	Max Darkness	Tenebre Max
-Moves	Max Strike	Attacco Max
-Moves	Max Flare	Fiammata Max
-Moves	Max Geyser	Geyser Max
-Moves	Max Hailstorm	Grandine Max
-Moves	Max Rockfall	Macigno Max
-Moves	Max Overgrowth	Vegetazione Max
-Moves	Max Lightning	Fulmine Max
-Moves	Max Starfall	Stelle Max
-Moves	Max Mindstorm	Psicoattacco Max
+Moves	Clangorous Soulblaze	Dracofonia Divampante
+Moves	Menacing Moonraze Maelstrom	Deflagrazione Lunare
+Moves	Splintered Stormshards	Litotempesta Radiale
+Moves	Let's Snuggle Forever	Dolcesacco di Botte
+Moves	Searing Sunraze Smash	Supercollisione Solare
+Moves	Light That Burns the Sky	Fotodistruzione Apocalittica
+Moves	Max Guard	Dynabarriera
+Moves	Max Knuckle	Dynapugno
+Moves	Max Steelspike	Dynametallo
+Moves	Max Ooze	Dynacorrosione
+Moves	Max Quake	Dynasisma
+Moves	Max Airstream	Dynajet
+Moves	Max Wyrmwind	Dynadragone
+Moves	Max Phantasm	Dynavuoto
+Moves	Max Flutterby	Dynainsetto
+Moves	Max Darkness	Dynatenebre
+Moves	Max Strike	Dynattacco
+Moves	Max Flare	Dynafiammata
+Moves	Max Geyser	Dynaflusso
+Moves	Max Hailstorm	Dynagelo
+Moves	Max Rockfall	Dynamacigno
+Moves	Max Overgrowth	Dynaflora
+Moves	Max Lightning	Dynasaetta
+Moves	Max Starfall	Dynafata
+Moves	Max Mindstorm	Dynapsiche
 Moves	G-Max Vine Lash	Gigafrustata
 Moves	G-Max Wildfire	Gigarogo
 Moves	G-Max Cannonade	Gigacannonata
@@ -846,30 +846,30 @@ Moves	G-Max Cuddle	Gigabbraccio
 Moves	G-Max Meltdown	Gigafusione
 Moves	G-Max One Blow	Gigacolpo Unico
 Moves	G-Max Rapid Flow	Gigacolpo Fluido
-Moves	Dire Claw	Funestartigli
-Moves	Psyshield Bash	Psicoscudo
-Moves	Power Shift	Invertiforza
-Moves	Stone Axe	Asciapietra
-Moves	Springtide Storm	Bufera Primaverile
+Moves	Dire Claw	Artigli Fatali
+Moves	Psyshield Bash	Barrierassalto
+Moves	Power Shift	Scambioforza
+Moves	Stone Axe	Rocciascure
+Moves	Springtide Storm	Tempesta Zefirea
 Moves	Mystical Power	Forza Mistica
-Moves	Raging Fury	Furibondo
+Moves	Raging Fury	Ira Furente
 Moves	Wave Crash	Ondaschianto
-Moves	Chloroblast	Clorobomba
-Moves	Mountain Gale	Ventomontano
+Moves	Chloroblast	Clorofillaser
+Moves	Mountain Gale	Soffio d'Iceberg
 Moves	Victory Dance	Danzavittoria
-Moves	Headlong Rush	Sfondamento
-Moves	Barb Barrage	Spinaraffica
-Moves	Esper Wing	Psicoala
-Moves	Bitter Malice	Rancore Amaro
-Moves	Shelter	Rifugio
-Moves	Triple Arrows	Triplofreccia
-Moves	Infernal Parade	Parata Infernale
-Moves	Ceaseless Edge	Lamincessante
-Moves	Bleakwind Storm	Ventotetro
-Moves	Wildbolt Storm	Fulminbufera
-Moves	Sandsear Storm	Sabbiardente
-Moves	Lunar Blessing	Lunabenedizione
-Moves	Take Heart	Animoforza
+Moves	Headlong Rush	Scontro Frontale
+Moves	Barb Barrage	Mille Fielespine
+Moves	Esper Wing	Ali d'Aura
+Moves	Bitter Malice	Livore
+Moves	Shelter	Barricata
+Moves	Triple Arrows	Triplodardo
+Moves	Infernal Parade	Corteo Spettrale
+Moves	Ceaseless Edge	Lama Milleflutti
+Moves	Bleakwind Storm	Tempesta Boreale
+Moves	Wildbolt Storm	Tempesta Tonante
+Moves	Sandsear Storm	Tempesta Ardente
+Moves	Lunar Blessing	Invocaluna
+Moves	Take Heart	Baldimpulso
 Items	Repel	Repellente
 Items	Super Repel	Superrepellente
 Items	Max Repel	Repellente Max
@@ -902,44 +902,44 @@ Items	Dome Fossil	Domofossile
 Items	Old Amber	Ambra Antica
 Items	Root Fossil	Radifossile
 Items	Claw Fossil	Fossilunghia
-Items	Skull Fossil	Fossiltesta
+Items	Skull Fossil	Fossilcranio
 Items	Armor Fossil	Fossilscudo
-Items	Cover Fossil	Fossilcoperchio
+Items	Cover Fossil	Fossiltappo
 Items	Plume Fossil	Fossilpiuma
-Items	Pretty Feather	Piuma Bella
+Items	Pretty Feather	Piumabella
 Items	Tiny Mushroom	Minifungo
 Items	Big Mushroom	Grande Fungo
-Items	Balm Mushroom	Fungo Balsamico
+Items	Balm Mushroom	Profumfungo
 Items	Pearl	Perla
 Items	Big Pearl	Grande Perla
-Items	Pearl String	Filo di Perle
-Items	Stardust	Polvere Stella
+Items	Pearl String	Trittiperla
+Items	Stardust	Polvostella
 Items	Star Piece	Pezzo Stella
 Items	Comet Shard	Pezzo Cometa
 Items	Nugget	Pepita
-Items	Big Nugget	Pepitone
+Items	Big Nugget	Granpepita
 Items	Heart Scale	Squama Cuore
-Items	Slowpoke Tail	Codaslowpoke
+Items	Slowpoke Tail	Coda Slowpoke
 Items	Rare Bone	Osso Raro
-Items	Relic Copper	Rame Antico
-Items	Relic Silver	Argento Antico
-Items	Relic Gold	Oro Antico
-Items	Relic Vase	Vaso Antico
-Items	Relic Band	Bracciale Antico
-Items	Relic Statue	Statua Antica
-Items	Relic Crown	Corona Antica
-Items	Growth Mulch	Fertilcrescita
-Items	Damp Mulch	Fertilumido
-Items	Stable Mulch	Fertilstabile
+Items	Relic Copper	Soldantico
+Items	Relic Silver	Ducatantico
+Items	Relic Gold	Doblonantico
+Items	Relic Vase	Vasantico
+Items	Relic Band	Bracciantico
+Items	Relic Statue	Statuantica
+Items	Relic Crown	Coronantica
+Items	Growth Mulch	Fertilrapido
+Items	Damp Mulch	Fertilidro
+Items	Stable Mulch	Fertilsaldo
 Items	Gooey Mulch	Fertilcolla
 Items	Shoal Salt	Sale Ondoso
-Items	Shoal Shell	Conchiglia Ondosa
-Items	Odd Keystone	Roccia Speciale
+Items	Shoal Shell	Gusciondoso
+Items	Odd Keystone	Roccianima
 Items	Air Balloon	Palloncino
 Items	Bright Powder	Luminpolvere
 Items	Eviolite	Evolcondensa
 Items	Float Stone	Pietralieve
-Items	Destiny Knot	Nastrodestino
+Items	Destiny Knot	Destincomune
 Items	Rocky Helmet	Bitorzolelmo
 Items	Eject Button	Pulsantefuga
 Items	Red Card	Cartelrosso
@@ -959,21 +959,21 @@ Items	Smooth Rock	Roccialiscia
 Items	Icy Rock	Rocciafredda
 Items	Light Clay	Creta Luce
 Items	Grip Claw	Presartigli
-Items	Binding Band	Fascia Legante
+Items	Binding Band	Legafascia
 Items	Big Root	Granradice
 Items	Black Sludge	Fangopece
 Items	Leftovers	Avanzi
 Items	Shell Bell	Conchinella
 Items	Mental Herb	Mentalerba
 Items	White Herb	Erbachiara
-Items	Power Herb	Erbavigore
+Items	Power Herb	Vigorerba
 Items	Absorb Bulb	Bulbo
 Items	Cell Battery	Ricaripila
 Items	Life Orb	Assorbisfera
 Items	Expert Belt	Abilcintura
-Items	Metronome	Metronomo
+Items	Metronome	Plessimetro
 Items	Muscle Band	Muscolbanda
-Items	Wise Glasses	Saggiolenti
+Items	Wise Glasses	Saviocchiali
 Items	Razor Claw	Affilartigli
 Items	Scope Lens	Mirino
 Items	Wide Lens	Grandelente
@@ -997,16 +997,16 @@ Items	Power Lens	Vigorlente
 Items	Power Band	Vigorbanda
 Items	Power Anklet	Vigorgliera
 Items	Lax Incense	Distraroma
-Items	Full Incense	Gonfiaroma
+Items	Full Incense	Gonfioaroma
 Items	Luck Incense	Fortunaroma
 Items	Pure Incense	Puroaroma
 Items	Sea Incense	Marearoma
 Items	Wave Incense	Ondaroma
 Items	Rose Incense	Rosaroma
 Items	Odd Incense	Bizzoaroma
-Items	Rock Incense	Rocciaroma
+Items	Rock Incense	Roccioaroma
 Items	Charcoal	Carbonella
-Items	Mystic Water	Acqua Mistica
+Items	Mystic Water	Acqua Magica
 Items	Magnet	Calamita
 Items	Miracle Seed	Miracolseme
 Items	Never-Melt Ice	Gelomai
@@ -1018,7 +1018,7 @@ Items	Twisted Spoon	Cucchiaio Torto
 Items	Silver Powder	Argenpolvere
 Items	Hard Stone	Pietradura
 Items	Spell Tag	Spettrotarga
-Items	Dragon Fang	Dente di Drago
+Items	Dragon Fang	Dentedidrago
 Items	Black Glasses	Occhialineri
 Items	Metal Coat	Metalcoperta
 Items	Silk Scarf	Sciarpa Seta
@@ -1060,10 +1060,10 @@ Items	Lucky Punch	Fortunpugno
 Items	Metal Powder	Metalpolvere
 Items	Quick Powder	Velopolvere
 Items	Thick Club	Ossospesso
-Items	Leek	Porro
+Items	Leek	Gambo
 Items	Soul Dew	Cuorugiada
 Items	Deep Sea Tooth	Dente Abissi
-Items	Deep Sea Scale	Squama Abissi
+Items	Deep Sea Scale	Squamabissi
 Items	Adamant Orb	Adamasfera
 Items	Lustrous Orb	Splendisfera
 Items	Griseous Orb	Grigiosfera
@@ -1075,7 +1075,7 @@ Items	Everstone	Pietrastante
 Items	Dragon Scale	Squama Drago
 Items	Upgrade	Upgrade
 Items	Dubious Disc	Dubbiodisco
-Items	Protector	Protettore
+Items	Protector	Copertura
 Items	Electirizer	Elettritore
 Items	Magmarizer	Magmatore
 Items	Reaper Cloth	Terrorpanno
@@ -1091,7 +1091,7 @@ Items	Super Potion	Superpozione
 Items	Hyper Potion	Iperpozione
 Items	Max Potion	Pozione Max
 Items	Full Restore	Ricarica Totale
-Items	Sacred Ash	Cenere Magica
+Items	Sacred Ash	Ceneremagica
 Items	Awakening	Sveglia
 Items	Antidote	Antidoto
 Items	Burn Heal	Antiscottatura
@@ -1103,7 +1103,7 @@ Items	Old Gateau	Dolce Gateau
 Items	Casteliacone	Conostropoli
 Items	Revive	Revitalizzante
 Items	Max Revive	Revitalizzante Max
-Items	Berry Juice	Succo di Bacca
+Items	Berry Juice	Succodibacca
 Items	Rage Candy Bar	Iramella
 Items	Sweet Heart	Dolcecuore
 Items	Fresh Water	Acqua Fresca
@@ -1128,10 +1128,10 @@ Items	Zinc	Zinco
 Items	Carbos	Carburante
 Items	Health Feather	Piumsalute
 Items	Muscle Feather	Piumpotenza
-Items	Resist Feather	Piumtenacia
+Items	Resist Feather	Piumtutela
 Items	Genius Feather	Piumingegno
 Items	Clever Feather	Piumintuito
-Items	Swift Feather	Piumvelocità
+Items	Swift Feather	Piumreazione
 Items	Rare Candy	Caramella Rara
 Items	Master Ball	Master Ball
 Items	Ultra Ball	Ultra Ball
@@ -1288,17 +1288,17 @@ Items	Cornn Berry	Baccavena
 Items	Magost Berry	Baccagostan
 Items	Rabuta Berry	Baccambutan
 Items	Nomel Berry	Baccalemon
-Items	Spelon Berry	Baccapuccia
+Items	Spelon Berry	Baccamelos
 Items	Pamtre Berry	Baccapalma
-Items	Watmel Berry	Baccocomero
+Items	Watmel Berry	Baccacomero
 Items	Durin Berry	Baccadurian
 Items	Belue Berry	Baccartillo
 Items	Occa Berry	Baccacao
 Items	Passho Berry	Baccapasflo
 Items	Wacan Berry	Baccaparmen
 Items	Rindo Berry	Baccarindo
-Items	Yache Berry	Baccamarena
-Items	Chople Berry	Baccapepe
+Items	Yache Berry	Baccamoya
+Items	Chople Berry	Baccarosmel
 Items	Kebia Berry	Baccakebia
 Items	Shuca Berry	Baccanaca
 Items	Coba Berry	Baccababa
@@ -1307,14 +1307,14 @@ Items	Tanga Berry	Baccaitan
 Items	Charti Berry	Baccaciofo
 Items	Kasib Berry	Baccacitrus
 Items	Haban Berry	Baccahaban
-Items	Colbur Berry	Baccaxantha
+Items	Colbur Berry	Baccaxan
 Items	Babiri Berry	Baccababiri
 Items	Chilan Berry	Baccacinlan
 Items	Liechi Berry	Baccalici
 Items	Ganlon Berry	Baccalongan
 Items	Salac Berry	Baccasalak
 Items	Petaya Berry	Baccapitaya
-Items	Apicot Berry	Baccaricot
+Items	Apicot Berry	Baccacocca
 Items	Lansat Berry	Baccalangsa
 Items	Starf Berry	Baccambola
 Items	Enigma Berry	Baccaenigma
@@ -1335,43 +1335,43 @@ Items	Sea Ruby Badge	Medaglia Rubino Marino
 Items	Spike Shell Badge	Medaglia Conchiglia Spinosa
 Items	Jade Star Badge	Medaglia Stella di Giada
 Items	X Attack	Attacco X
-Items	X Attack 2	Attacco X 2
-Items	X Attack 3	Attacco X 3
-Items	X Attack 6	Attacco X 6
+Items	X Attack 2	Attacco X-2
+Items	X Attack 3	Attacco X-3
+Items	X Attack 6	Attacco X-6
 Items	X Defense	Difesa X
-Items	X Defense 2	Difesa X 2
-Items	X Defense 3	Difesa X 3
-Items	X Defense 6	Difesa X 6
+Items	X Defense 2	Difesa X-2
+Items	X Defense 3	Difesa X-3
+Items	X Defense 6	Difesa X-6
 Items	X Sp. Atk	Att. Speciale X
-Items	X Sp. Atk 2	Att. Speciale X 2
-Items	X Sp. Atk 3	Att. Speciale X 3
-Items	X Sp. Atk 6	Att. Speciale X 6
+Items	X Sp. Atk 2	Att. Sp. X-2
+Items	X Sp. Atk 3	Att. Sp. X-3
+Items	X Sp. Atk 6	Att. Sp. X-6
 Items	X Sp. Def	Dif. Speciale X
-Items	X Sp. Def 2	Dif. Speciale X 2
-Items	X Sp. Def 3	Dif. Speciale X 3
-Items	X Sp. Def 6	Dif. Speciale X 6
+Items	X Sp. Def 2	Dif. Spec. X-2
+Items	X Sp. Def 3	Dif. Spec. X-3
+Items	X Sp. Def 6	Dif. Spec. X-6
 Items	X Speed	Velocità X
-Items	X Speed 2	Velocità X 2
-Items	X Speed 3	Velocità X 3
-Items	X Speed 6	Velocità X 6
+Items	X Speed 2	Velocità X-2
+Items	X Speed 3	Velocità X-3
+Items	X Speed 6	Velocità X-6
 Items	X Accuracy	Precisione X
-Items	X Accuracy 2	Precisione X 2
-Items	X Accuracy 3	Precisione X 3
-Items	X Accuracy 6	Precisione X 6
+Items	X Accuracy 2	Precisione X-2
+Items	X Accuracy 3	Precisione X-3
+Items	X Accuracy 6	Precisione X-6
 Items	Dire Hit	Supercolpo
 Items	Dire Hit 2	Supercolpo 2
 Items	Dire Hit 3	Supercolpo 3
 Items	Guard Spec.	Superguardia
 Items	Reset Urge	Ripristino
-Items	Ability Urge	Usabilità
-Items	Item Urge	Usastrumento
-Items	Item Drop	Lasciastrumento
+Items	Ability Urge	Chiamabilità
+Items	Item Urge	Chiamoggetto
+Items	Item Drop	Lascioggetto
 Items	Blue Flute	Flauto Blu
 Items	Yellow Flute	Flauto Giallo
 Items	Red Flute	Flauto Rosso
 Items	Poké Doll	Poké Bambola
 Items	Fluffy Tail	Coda Skitty
-Items	Poké Toy	Poké Giocattolo
+Items	Poké Toy	Pokégingillo
 Items	Bicycle	Bicicletta
 Items	Old Rod	Amo Vecchio
 Items	Good Rod	Amo Buono
@@ -1385,12 +1385,12 @@ Items	Coin Case	Salvadanaio
 Items	Soot Sack	Sacco Cenere
 Items	Silph Scope	Spettrosonda
 Items	Devon Scope	Devonscopio
-Items	Squirt Bottle	Spruzzino
+Items	Squirt Bottle	Annaffiatoio
 Items	Sprayduck	Sprayduck
-Items	Wailmer Pail	Annaffiatoio
+Items	Wailmer Pail	Vaso Wailmer
 Items	Gracidea	Gracidea
 Items	Aurora Ticket	Biglietto Aurora
-Items	Old Sea Map	Mappa Antica
+Items	Old Sea Map	Mappa Stinta
 Items	DNA Splicers	Cuneo DNA
 Items	Reveal Glass	Verispecchio
 Items	Oval Charm	Ovamuleto
@@ -1405,7 +1405,7 @@ Items	Purple Nectar	Nettare Viola
 Items	Assault Vest	Corpetto Assalto
 Items	Safety Goggles	Visierantisabbia
 Items	Protective Pads	Smorzaurti
-Items	Terrain Extender	Fertilterreno
+Items	Terrain Extender	Fissacampo
 Items	Electric Seed	Elettroseme
 Items	Psychic Seed	Psicoseme
 Items	Misty Seed	Nebbiaseme
@@ -1413,7 +1413,7 @@ Items	Grassy Seed	Erbaseme
 Items	Luminous Moss	Muschioluce
 Items	Snowball	Palla di Neve
 Items	Weakness Policy	Vulneropolizza
-Items	Adrenaline Orb	Adrenalsfera
+Items	Adrenaline Orb	Fifasfera
 Items	Pixie Plate	Lastraspiritello
 Items	Fairy Gem	Bijoufolletto
 Items	Fire Memory	ROM Fuoco
@@ -1480,16 +1480,16 @@ Items	Abomasite	Abomasnowite
 Items	Galladite	Galladite
 Items	Audinite	Audinite
 Items	Diancite	Diancite
-Items	Red Orb	Sfera Rossa
-Items	Blue Orb	Sfera Blu
+Items	Red Orb	Gemma rossa
+Items	Blue Orb	Gemma blu
 Items	Whipped Dream	Dolcespuma
 Items	Sachet	Bustina Aromi
-Items	Lumiose Galette	Galletta di Luminopoli
-Items	Shalour Sable	Sablé di Yantaropoli
-Items	Big Malasada	Malasada Gigante
+Items	Lumiose Galette	Pan di Lumi
+Items	Shalour Sable	Yantafrollino
+Items	Big Malasada	Malasada maxi
 Items	Ability Capsule	Capsula Abilità
 Items	Dream Ball	Dream Ball
-Items	Beast Ball	Beast Ball
+Items	Beast Ball	UC Ball
 Items	TM95	MT95
 Items	TM96	MT96
 Items	TM97	MT97
@@ -1498,10 +1498,10 @@ Items	TM99	MT99
 Items	Roseli Berry	Baccarcadè
 Items	Kee Berry	Baccalighia
 Items	Maranga Berry	Baccapane
-Items	Sprinklotad	Sprinklotad
+Items	Sprinklotad	Irrigalotad
 Items	Prison Bottle	Vaso del Vincolo
-Items	N-Solarizer	Necrosol
-Items	N-Lunarizer	Necroluna
+Items	N-Solarizer	Necrosolix
+Items	N-Lunarizer	Necrolunix
 Items	Mega Ring	Megacerchio
 Items	Bottle Cap	Tappo d'Argento
 Items	Gold Bottle Cap	Tappo d'Oro
@@ -1527,45 +1527,45 @@ Items	Jolly Mint	Menta Allegra
 Items	Naive Mint	Menta Ingenua
 Items	Serious Mint	Menta Seria
 Items	Blunder Policy	Fiascopolizza
-Items	Eject Pack	Pacco Fuga
+Items	Eject Pack	Zainofuga
 Items	Heavy-Duty Boots	Scarponi Robusti
-Items	Room Service	Servizio in Camera
+Items	Room Service	Distorservizio
 Items	Throat Spray	Spray Gola
-Items	Utility Umbrella	Ombrello Utile
-Items	Exp. Candy XS	Caramella Esp. XS
-Items	Exp. Candy S	Caramella Esp. S
-Items	Exp. Candy M	Caramella Esp. M
-Items	Exp. Candy L	Caramella Esp. L
-Items	Exp. Candy XL	Caramella Esp. XL
+Items	Utility Umbrella	Superombrello
+Items	Exp. Candy XS	Caram. Esp. XS
+Items	Exp. Candy S	Caram. Esp. S
+Items	Exp. Candy M	Caram. Esp. M
+Items	Exp. Candy L	Caram. Esp. L
+Items	Exp. Candy XL	Caram. Esp. XL
 Items	Ability Patch	Cerotto Abilità
-Items	Pewter Crunchies	Croccante di Plumbeopoli
-Items	Max Honey	Miele Max
-Items	Max Mushrooms	Fungo Dynamax
-Items	Galarica Cuff	Bracciale Galarnoce
-Items	Galarica Wreath	Ghirlanda Galarnoce
+Items	Pewter Crunchies	Plumbeosalatini
+Items	Max Honey	Mielemax
+Items	Max Mushrooms	Fungomax
+Items	Galarica Cuff	Fascia Galarnoce
+Items	Galarica Wreath	Corona Galarnoce
 Items	Meltan Candy	Caramella Meltan
-Items	Sweet Apple	Mela Dolce
-Items	Tart Apple	Mela Aspra
+Items	Sweet Apple	Dolcepomo
+Items	Tart Apple	Aspropomo
 Items	Cracked Pot	Teiera Rotta
 Items	Chipped Pot	Teiera Crepata
-Items	Strawberry Sweet	Bonbon Fragola
-Items	Love Sweet	Bonbon Cuore
-Items	Berry Sweet	Bonbon Bacca
-Items	Clover Sweet	Bonbon Trifoglio
-Items	Flower Sweet	Bonbon Fiore
-Items	Star Sweet	Bonbon Stella
-Items	Ribbon Sweet	Bonbon Fiocco
-Items	Fossilized Bird	Fossiluccello
-Items	Fossilized Fish	Fossilpesce
-Items	Fossilized Drake	Fossildrago
-Items	Fossilized Dino	Fossilsauro
+Items	Strawberry Sweet	Bonbonfragola
+Items	Love Sweet	Bonboncuore
+Items	Berry Sweet	Bonbonbosco
+Items	Clover Sweet	Bonbonfoglio
+Items	Flower Sweet	Bonbonfiore
+Items	Star Sweet	Bonbonstella
+Items	Ribbon Sweet	Bonbonfiocco
+Items	Fossilized Bird	Ornitofossile
+Items	Fossilized Fish	Ittiofossile
+Items	Fossilized Drake	Dracofossile
+Items	Fossilized Dino	Plesiofossile
 Items	Rusted Shield	Scudo Rovinato
 Items	Rusted Sword	Spada Rovinata
 Items	Reins of Unity	Briglie Legame
 Items	Rotom Catalogue	Catalogo Rotom
 Items	EXP Charm	Esperienzamuleto
 Items	Catching Charm	Catturamuleto
-Items	Pokémon Box Link	Link Box Pokémon
+Items	Pokémon Box Link	Box Pokémon
 Items	TR00	DT00
 Items	TR01	DT01
 Items	TR02	DT02
@@ -1722,44 +1722,44 @@ Items	Ability Symbol	Simbolo Abilità
 Items	Brave Symbol	Simbolo Coraggio
 Items	Rocket Ball	Rocket Ball
 Items	Z-Ring	Cerchio Z
-Items	Z-Power Ring	Cerchio Z Power
+Items	Z-Power Ring	Supercerchio Z
 Items	Dynamax Band	Polsino Dynamax
 Items	Normalium Z	Normium Z
-Items	Fightinium Z	Lottium Z
+Items	Fightinium Z	Luctium Z
 Items	Flyinium Z	Volantium Z
-Items	Poisonium Z	Velenium Z
+Items	Poisonium Z	Venenium Z
 Items	Groundium Z	Terrium Z
-Items	Rockium Z	Roccium Z
-Items	Buginium Z	Coleottium Z
-Items	Ghostium Z	Spettrium Z
-Items	Steelium Z	Acciaium Z
-Items	Firium Z	Fuocium Z
-Items	Waterium Z	Acquium Z
-Items	Grassium Z	Erbium Z
-Items	Electrium Z	Elettrium Z
+Items	Rockium Z	Petrium Z
+Items	Buginium Z	Insectium Z
+Items	Ghostium Z	Spectrium Z
+Items	Steelium Z	Metallium Z
+Items	Firium Z	Pirium Z
+Items	Waterium Z	Idrium Z
+Items	Grassium Z	Herbium Z
+Items	Electrium Z	Electrium Z
 Items	Psychium Z	Psichium Z
-Items	Icium Z	Ghiaccium Z
-Items	Dragonium Z	Dragonium Z
-Items	Darkinium Z	Buium Z
-Items	Fairium Z	Follettium Z
-Items	Pikanium Z	Pikanium Z
-Items	Pikashunium Z	Pikashunium Z
-Items	Aloraichium Z	Aloraichium Z
+Items	Icium Z	Glacium Z
+Items	Dragonium Z	Draconium Z
+Items	Darkinium Z	Obscurium Z
+Items	Fairium Z	Follectium Z
+Items	Pikanium Z	Pikacium Z
+Items	Pikashunium Z	Ashpikacium Z
+Items	Aloraichium Z	Aloraicium Z
 Items	Eevium Z	Eevium Z
-Items	Snorlium Z	Snorlium Z
+Items	Snorlium Z	Snorlactium Z
 Items	Mewnium Z	Mewnium Z
-Items	Decidium Z	Decidium Z
-Items	Incinium Z	Incinium Z
-Items	Primarium Z	Primarium Z
-Items	Lycanium Z	Lycanium Z
-Items	Mimikium Z	Mimikium Z
+Items	Decidium Z	Deciduenium Z
+Items	Incinium Z	Incineronium Z
+Items	Primarium Z	Primarinium Z
+Items	Lycanium Z	Lycanrochium Z
+Items	Mimikium Z	Mimikyum Z
 Items	Kommonium Z	Kommonium Z
-Items	Tapunium Z	Tapunium Z
+Items	Tapunium Z	Tapium Z
 Items	Solganium Z	Solgaleium Z
 Items	Lunalium Z	Lunalium Z
 Items	Marshadium Z	Marshadium Z
 Items	Ultranecrozium Z	Ultranecrozium Z
-Items	Wishing Piece	Pezzo Desiderio
+Items	Wishing Piece	Desioblocco
 Items	Dynamax Candy	Caramella Dynamax
 Items	Dynamax Candy XL	Caramella Dynamax XL
 Items	Max Soup	Zuppa Max
@@ -1804,12 +1804,12 @@ Items	TM133	MT133
 Items	TM134	MT134
 Items	TM135	MT135
 Items	Dragon Scroll	Rotolo del Drago
-Items	Rotom Phone	Rotom Phone
-Items	Black Augurite	Pietrascura
+Items	Rotom Phone	Smart Rotom
+Items	Black Augurite	Augite nera
 Items	Peat Block	Blocco di Torba
-Items	Blank Plate	Lastravuota
+Items	Blank Plate	Lastraripristino
 Items	Rotomi	Rotomi
-Items	Zygarde Cube	Cubo Zygarde
+Items	Zygarde Cube	Teca Zygarde
 Abilities	Stench	Tanfo
 Abilities	Drizzle	Piovischio
 Abilities	Speed Boost	Acceleratore
@@ -1828,7 +1828,7 @@ Abilities	Insomnia	Insonnia
 Abilities	Color Change	Cambiacolore
 Abilities	Immunity	Immunità
 Abilities	Flash Fire	Fuocardore
-Abilities	Shield Dust	Polvscudo
+Abilities	Shield Dust	Polvoscudo
 Abilities	Own Tempo	Mente Locale
 Abilities	Suction Cups	Ventose
 Abilities	Intimidate	Prepotenza
@@ -1836,7 +1836,7 @@ Abilities	Shadow Tag	Pedinombra
 Abilities	Rough Skin	Cartavetro
 Abilities	Wonder Guard	Magidifesa
 Abilities	Levitate	Levitazione
-Abilities	Effect Spore	Spargispore
+Abilities	Effect Spore	Spargispora
 Abilities	Synchronize	Sincronismo
 Abilities	Clear Body	Corpochiaro
 Abilities	Natural Cure	Alternacura
@@ -1950,7 +1950,7 @@ Abilities	Toxic Boost	Velenimpeto
 Abilities	Flare Boost	Bruciaimpeto
 Abilities	Harvest	Coglibacche
 Abilities	Telepathy	Telepatia
-Abilities	Moody	Lunatico
+Abilities	Moody	Altalena
 Abilities	Overcoat	Copricapo
 Abilities	Poison Touch	Velentocco
 Abilities	Regenerator	Rigenergia
@@ -1964,7 +1964,7 @@ Abilities	Infiltrator	Intrapasso
 Abilities	Mummy	Mummia
 Abilities	Moxie	Arroganza
 Abilities	Justified	Giustizia
-Abilities	Rattled	Coniglietto
+Abilities	Rattled	Paura
 Abilities	Magic Bounce	Magispecchio
 Abilities	Sap Sipper	Mangiaerba
 Abilities	Prankster	Burla
@@ -1976,16 +1976,16 @@ Abilities	Turboblaze	Piroturbina
 Abilities	Teravolt	Teravolt
 Abilities	Aroma Veil	Aromavelo
 Abilities	Flower Veil	Fiorvelo
-Abilities	Cheek Pouch	Guanciale
+Abilities	Cheek Pouch	Guancegonfie
 Abilities	Protean	Mutatipo
 Abilities	Fur Coat	Foltopelo
 Abilities	Magician	Prestigiatore
 Abilities	Bulletproof	Antiproiettile
 Abilities	Competitive	Tenacia
-Abilities	Strong Jaw	Mascelleforti
+Abilities	Strong Jaw	Ferromascella
 Abilities	Refrigerate	Pellegelo
 Abilities	Sweet Veil	Dolcevelo
-Abilities	Stance Change	Cambiatattica
+Abilities	Stance Change	Accendilotta
 Abilities	Gale Wings	Aliraffica
 Abilities	Mega Launcher	Megalancio
 Abilities	Grass Pelt	Peloderba
@@ -1994,88 +1994,88 @@ Abilities	Tough Claws	Unghiedure
 Abilities	Pixilate	Pellefolletto
 Abilities	Gooey	Viscosità
 Abilities	Aerilate	Pellecielo
-Abilities	Parental Bond	Amore Filiale
+Abilities	Parental Bond	Amorefiliale
 Abilities	Dark Aura	Auratetra
 Abilities	Fairy Aura	Aurafolletto
 Abilities	Aura Break	Frangiaura
 Abilities	Primordial Sea	Mare Primordiale
 Abilities	Desolate Land	Terra Estrema
 Abilities	Delta Stream	Flusso Delta
-Abilities	Stamina	Resistenza
+Abilities	Stamina	Sopportazione
 Abilities	Wimp Out	Fuggifuggi
-Abilities	Emergency Exit	Esodo
+Abilities	Emergency Exit	Passoindietro
 Abilities	Water Compaction	Idrorinforzo
 Abilities	Merciless	Spietatezza
-Abilities	Shields Down	Scudo Limite
-Abilities	Stakeout	Pedinamento
+Abilities	Shields Down	Scudosoglia
+Abilities	Stakeout	Sorveglianza
 Abilities	Water Bubble	Bolladacqua
-Abilities	Steelworker	Metallurgia
+Abilities	Steelworker	Tempracciaio
 Abilities	Berserk	Furore
 Abilities	Slush Rush	Spalaneve
-Abilities	Long Reach	Distanza
+Abilities	Long Reach	Distacco
 Abilities	Liquid Voice	Idrovoce
-Abilities	Triage	Primocura
+Abilities	Triage	Primacura
 Abilities	Galvanize	Pellelettro
-Abilities	Surge Surfer	Surfaonda
+Abilities	Surge Surfer	Codasurf
 Abilities	Schooling	Banco
-Abilities	Disguise	Fantoccio
+Abilities	Disguise	Fantasmanto
 Abilities	Battle Bond	Morfosintonia
-Abilities	Power Construct	Sciamefficienza
+Abilities	Power Construct	Sciamefusione
 Abilities	Corrosion	Corrosione
-Abilities	Comatose	Dormiveglia
+Abilities	Comatose	Sonno Assoluto
 Abilities	Queenly Majesty	Regalità
-Abilities	Innards Out	Sputaviscere
-Abilities	Dancer	Ballerino
+Abilities	Innards Out	Espellinterno
+Abilities	Dancer	Sincrodanza
 Abilities	Battery	Batteria
 Abilities	Fluffy	Morbidone
-Abilities	Dazzling	Abbagliante
-Abilities	Soul-Heart	Animacuore
-Abilities	Tangling Hair	Riccioli
-Abilities	Receiver	Ricevitore
-Abilities	Power of Alchemy	Alchimia
-Abilities	Beast Boost	Ultraimpulso
-Abilities	RKS System	Sistema RKS
+Abilities	Dazzling	Corposgargiante
+Abilities	Soul-Heart	Cuoreanima
+Abilities	Tangling Hair	Boccolidoro
+Abilities	Receiver	Ricezione
+Abilities	Power of Alchemy	Forza Chimica
+Abilities	Beast Boost	Ultraboost
+Abilities	RKS System	Sistema Primevo
 Abilities	Electric Surge	Elettrogenesi
 Abilities	Psychic Surge	Psicogenesi
 Abilities	Misty Surge	Nebbiogenesi
 Abilities	Grassy Surge	Erbogenesi
-Abilities	Full Metal Body	Metalcorpo
-Abilities	Shadow Shield	Spettroscudo
-Abilities	Prism Armor	Prismguscio
-Abilities	Neuroforce	Neuroforza
+Abilities	Full Metal Body	Metalprotezione
+Abilities	Shadow Shield	Spettroguardia
+Abilities	Prism Armor	Scudoprisma
+Abilities	Neuroforce	Cerebroforza
 Abilities	Ball Fetch	Raccattapalle
 Abilities	Cotton Down	Lanugine
 Abilities	Dauntless Shield	Scudo Saldo
-Abilities	Gorilla Tactics	Tattica Gorilla
+Abilities	Gorilla Tactics	Vigorilla
 Abilities	Gulp Missile	Inghiottimissile
-Abilities	Hunger Switch	Pancia Vuota
+Abilities	Hunger Switch	Pancialterna
 Abilities	Ice Face	Gelofaccia
-Abilities	Ice Scales	Squamagelo
+Abilities	Ice Scales	Geloscaglie
 Abilities	Intrepid Sword	Spada Indomita
 Abilities	Libero	Libero
 Abilities	Mimicry	Mimetismo
-Abilities	Mirror Armor	Specchiarmatura
+Abilities	Mirror Armor	Blindospecchio
 Abilities	Neutralizing Gas	Gas Reagente
-Abilities	Pastel Veil	Velopastello
+Abilities	Pastel Veil	Pastelvelo
 Abilities	Perish Body	Ultimotocco
-Abilities	Power Spot	Fulcro
-Abilities	Propeller Tail	Elicaudale
+Abilities	Power Spot	Fonte Energetica
+Abilities	Propeller Tail	Elicopinna
 Abilities	Punk Rock	Punk Rock
 Abilities	Ripen	Maturazione
 Abilities	Sand Spit	Sputasabbia
-Abilities	Screen Cleaner	Antibarriere
-Abilities	Stalwart	Fermezza
-Abilities	Steam Engine	Vapormotore
+Abilities	Screen Cleaner	Annullabarriere
+Abilities	Stalwart	Volontà di Ferro
+Abilities	Steam Engine	Vapormacchina
 Abilities	Steely Spirit	Spiritoferreo
 Abilities	Wandering Spirit	Anima Errante
-Abilities	Unseen Fist	Pugnoinvisibile
+Abilities	Unseen Fist	Pugni Invisibili
 Abilities	Quick Draw	Colpolesto
-Abilities	Curious Medicine	Medicina Bizzarra
+Abilities	Curious Medicine	Stranofarmaco
 Abilities	Transistor	Transistor
-Abilities	Dragon's Maw	Fauci di Drago
-Abilities	Chilling Neigh	Nitrito Gelido
-Abilities	Grim Neigh	Nitrito Funesto
-Abilities	As One	Unione Equina
+Abilities	Dragon's Maw	Dragomascelle
+Abilities	Chilling Neigh	Nitrito Bianco
+Abilities	Grim Neigh	Nitrito Nero
+Abilities	As One	Sintonia Equina
 TrainerTypes	Pokémon Trainer	Allenatore
 TrainerTypes	Pokémon Coordinator	Coordinatore
 TrainerTypes	Rival	Rivale
@@ -2367,54 +2367,54 @@ PlaceNames	Icirrus Cave	Grotta Mistralopoli
 PlaceNames	Lumiose City	Luminopoli
 PlaceNames	Santalune City	Novartopoli
 PlaceNames	Camphrier Town	Castel Vanità
-PlaceNames	Parfum Palace	Palazzo Parfum
-PlaceNames	Cyllage City	Petroglifari
+PlaceNames	Parfum Palace	Reggia Aurea
+PlaceNames	Cyllage City	Altoripoli
 PlaceNames	Route 10	Percorso 10
 PlaceNames	Geosenge Town	Cromleburgo
-PlaceNames	Reflection Cave	Grotta Riflessi
+PlaceNames	Reflection Cave	Grotta dei Riflessi
 PlaceNames	Shalour City	Yantaropoli
-PlaceNames	Coumarine City	Batikopoli
+PlaceNames	Coumarine City	Temperopoli
 PlaceNames	Laverre City	Romantopoli
 PlaceNames	Dendemille Town	Frescovilla
-PlaceNames	Frost Cavern	Grotta Gelata
+PlaceNames	Frost Cavern	Caverna Gelata
 PlaceNames	Anistar City	Fluxopoli
 PlaceNames	Anistar Sundial	Meridiana di Fluxopoli
 PlaceNames	Couriway Town	Ponte Mosaico
-PlaceNames	Terminus Cave	Grotta Capolinea
+PlaceNames	Terminus Cave	Grotta Climax
 PlaceNames	Route 21	Percorso 21
 PlaceNames	Snowbelle City	Fractalopoli
 PlaceNames	Melemele Forest	Bosco di Mele Mele
-PlaceNames	Melemele Meadow	Prato di Mele Mele
-PlaceNames	Iki Town	Iki
+PlaceNames	Melemele Meadow	Prato Mele Mele
+PlaceNames	Iki Town	Lili
 PlaceNames	Hau'oli City	Hau'oli
 PlaceNames	Verdant Cavern	Grotta Sottobosco
 PlaceNames	Hau'oli Outskirts	Periferia di Hau'oli
 PlaceNames	Ten Carat Hill	Collina Diecicarati
-PlaceNames	Paniola Town	Paniola
-PlaceNames	Paniola Ranch	Ranch Paniola
-PlaceNames	Brooklet Hill	Collina Ruscello
-PlaceNames	Lush Jungle	Foresta Ombrosa
+PlaceNames	Paniola Town	Ohana
+PlaceNames	Paniola Ranch	Fattoria Ohana
+PlaceNames	Brooklet Hill	Collina Scrosciante
+PlaceNames	Lush Jungle	Giungla Ombrosa
 PlaceNames	Wela Volcano Park	Parco Vulcano Wela
-PlaceNames	Royal Avenue	Viale Reale
-PlaceNames	Ruins of Life	Rovine della Vita
+PlaceNames	Royal Avenue	Viale Royale
+PlaceNames	Ruins of Life	Tempio della Vita
 PlaceNames	Aether Paradise	Paradiso Aether
 PlaceNames	Tapu Village	Villaggio Tapu
-PlaceNames	Haina Desert	Deserto di Haina
-PlaceNames	Ruins of Abundance	Rovine dell'Abbondanza
+PlaceNames	Haina Desert	Deserto Haina
+PlaceNames	Ruins of Abundance	Tempio del Raccolto
 PlaceNames	Malie City	Malie
-PlaceNames	Mount Hokulani	Monte Hokulani
+PlaceNames	Mount Hokulani	Picco Hokulani
 PlaceNames	Hokulani Observatory	Osservatorio di Hokulani
 PlaceNames	Mount Lanakila	Monte Lanakila
 PlaceNames	Mount Lanakila Cave	Grotta del Monte Lanakila
-PlaceNames	Seafolk Village	Villaggio Marino
-PlaceNames	Poni Wilds	Lande di Poni
-PlaceNames	Ancient Poni Path	Antico Sentiero di Poni
-PlaceNames	Poni Breaker Coast	Costa Frangiflutti di Poni
-PlaceNames	Ruins of Hope	Rovine della Speranza
+PlaceNames	Seafolk Village	Villaggio del Mare
+PlaceNames	Poni Wilds	Piana di Poni
+PlaceNames	Ancient Poni Path	Via Antica di Poni
+PlaceNames	Poni Breaker Coast	Scogliera di Poni
+PlaceNames	Ruins of Hope	Tempio del Passaggio
 PlaceNames	Manalo Stadium	Stadio Manalo
-PlaceNames	Vast Poni Canyon	Gran Canyon di Poni
-PlaceNames	Altar of the Sunne	Altare del Sole
-PlaceNames	Thrifty Megamart	Megamarket Parsimonia
+PlaceNames	Vast Poni Canyon	Canyon di Poni
+PlaceNames	Altar of the Sunne	Altare Solare
+PlaceNames	Thrifty Megamart	Supermarket Affaroni
 PlaceNames	Ultra Deep Space	Ultraspazio Profondo
 PlaceNames	Ultra Ruin	Ultrarovine
 PlaceNames	Pallet Town?	Biancavilla?
@@ -2436,7 +2436,7 @@ PlaceNames	Aspertia City?	Alisopoli?
 PlaceNames	Virbank City?	Virbopoli?
 PlaceNames	Geosenge Town?	Cromleburgo?
 PlaceNames	Shalour City?	Yantaropoli?
-PlaceNames	Iki Town?	Iki?
+PlaceNames	Iki Town?	Lili?
 PlaceNames	Aether Paradise?	Paradiso Aether?
 MapNames	Intro	Intro
 MapNames	Lappet Town	Lappet Town
@@ -3152,7 +3152,7 @@ MapNames	Lumiose City	Luminopoli
 MapNames	Lumiose House	Casa di Luminopoli
 MapNames	Lumiose Pokémon Center	Centro Pokémon di Luminopoli
 MapNames	Professor Sycamore's Lab	Laboratorio del Prof. Platan
-MapNames	Lumiose Gate	Varco di Luminopoli
+MapNames	Lumiose Gate	Varco Luminopoli
 MapNames	Santalune City	Novartopoli
 MapNames	Santalune House	Casa di Novartopoli
 MapNames	Santalune Pokémon Center	Centro Pokémon di Novartopoli
@@ -3160,37 +3160,37 @@ MapNames	Santalune Gym	Palestra di Novartopoli
 MapNames	Camphrier Town	Castel Vanità
 MapNames	Camphrier House	Casa di Castel Vanità
 MapNames	Camphrier Pokémon Center	Centro Pokémon di Castel Vanità
-MapNames	Parfum Palace	Palazzo Parfum
+MapNames	Parfum Palace	Reggia Aurea
 MapNames	Route 7 Day Care	Pensione del Percorso 7
-MapNames	Cyllage City	Petroglifari
-MapNames	Cyllage House	Casa di Petroglifari
-MapNames	Cyllage Pokémon Center	Centro Pokémon di Petroglifari
-MapNames	Cyllage Gym	Palestra di Petroglifari
+MapNames	Cyllage City	Altoripoli
+MapNames	Cyllage House	Casa di Altoripoli
+MapNames	Cyllage Pokémon Center	Centro Pokémon di Altoripoli
+MapNames	Cyllage Gym	Palestra di Altoripoli
 MapNames	Geosenge Town	Cromleburgo
 MapNames	Geosenge House	Casa di Cromleburgo
 MapNames	Geosenge Pokémon Center	Centro Pokémon di Cromleburgo
-MapNames	Reflection Cave	Grotta Riflessi
+MapNames	Reflection Cave	Grotta dei Riflessi
 MapNames	Shalour City	Yantaropoli
 MapNames	Shalour House	Casa di Yantaropoli
 MapNames	Shalour Pokémon Center	Centro Pokémon di Yantaropoli
 MapNames	Shalour Gym	Palestra di Yantaropoli
-MapNames	Coumarine City	Batikopoli
-MapNames	Coumarine House	Casa di Batikopoli
-MapNames	Coumarine Pokémon Center	Centro Pokémon di Batikopoli
-MapNames	Coumarine Gym	Palestra di Batikopoli
+MapNames	Coumarine City	Temperopoli
+MapNames	Coumarine House	Casa di Temperopoli
+MapNames	Coumarine Pokémon Center	Centro Pokémon di Temperopoli
+MapNames	Coumarine Gym	Palestra di Temperopoli
 MapNames	Lumiose Gym	Palestra di Luminopoli
 MapNames	Laverre City	Romantopoli
 MapNames	Laverre House	Casa di Romantopoli
 MapNames	Laverre Pokémon Fan Club	Fan Club Pokémon di Romantopoli
-MapNames	Poké Ball Factory	Fabbrica di Poké Ball
+MapNames	Poké Ball Factory	Fabbrica Poké Ball
 MapNames	Laverre Pokémon Center	Centro Pokémon di Romantopoli
 MapNames	Laverre Gym	Palestra di Romantopoli
 MapNames	Dendemille Town	Frescovilla
 MapNames	Dendemille House	Casa di Frescovilla
 MapNames	Dendemille Pokémon Center	Centro Pokémon di Frescovilla
-MapNames	Frost Cavern 1F	Grotta Gelata 1P
-MapNames	Frost Cavern 2F	Grotta Gelata 2P
-MapNames	Frost Cavern 3F	Grotta Gelata 3P
+MapNames	Frost Cavern 1F	Caverna Gelata 1P
+MapNames	Frost Cavern 2F	Caverna Gelata 2P
+MapNames	Frost Cavern 3F	Caverna Gelata 3P
 MapNames	Anistar City	Fluxopoli
 MapNames	Anistar House	Casa di Fluxopoli
 MapNames	Anistar Pokémon Center	Centro Pokémon di Fluxopoli
@@ -3201,7 +3201,7 @@ MapNames	Couriway Town	Ponte Mosaico
 MapNames	Couriway House	Casa di Ponte Mosaico
 MapNames	Couriway Pokémon Center	Centro Pokémon di Ponte Mosaico
 MapNames	Route 21	Percorso 21
-MapNames	Terminus Cave	Grotta Capolinea
+MapNames	Terminus Cave	Grotta Climax
 MapNames	Snowbelle City	Fractalopoli
 MapNames	Snowbelle House	Casa di Fractalopoli
 MapNames	Snowbelle Gym	Palestra di Fractalopoli
@@ -3233,48 +3233,48 @@ MapNames	Hau'oli Pokémon Center	Centro Pokémon di Hau'oli
 MapNames	Hau'oli Outskirts	Periferia di Hau'oli
 MapNames	Hau'oli Shopping Mall	Centro Commerciale Hau'oli
 MapNames	Hau'oli Tunnel	Tunnel di Hau'oli
-MapNames	Iki Town	Iki
+MapNames	Iki Town	Lili
 MapNames	Iki House	Casa di Iki
 MapNames	Iki Pokémon Center	Centro Pokémon di Iki
 MapNames	Verdant Cavern	Grotta Sottobosco
-MapNames	Paniola Town	Paniola
-MapNames	Paniola Ranch	Ranch Paniola
-MapNames	Paniola House	Casa di Paniola
-MapNames	Paniola Pokémon Center	Centro Pokémon di Paniola
-MapNames	Melemele Meadow	Prato di Mele Mele
-MapNames	Brooklet Hill	Collina Ruscello
+MapNames	Paniola Town	Ohana
+MapNames	Paniola Ranch	Fattoria Ohana
+MapNames	Paniola House	Casa di Ohana
+MapNames	Paniola Pokémon Center	Centro Pokémon di Ohana
+MapNames	Melemele Meadow	Prato Mele Mele
+MapNames	Brooklet Hill	Collina Scrosciante
 MapNames	Wela Volcano Park	Parco Vulcano Wela
-MapNames	Lush Jungle	Foresta Ombrosa
-MapNames	Ruins of Life	Rovine della Vita
+MapNames	Lush Jungle	Giungla Ombrosa
+MapNames	Ruins of Life	Tempio della Vita
 MapNames	Aether Paradise	Paradiso Aether
 MapNames	Ten Carat Hill	Collina Diecicarati
-MapNames	Vast Poni Canyon	Gran Canyon di Poni
-MapNames	Altar of the Sunne	Altare del Sole
+MapNames	Vast Poni Canyon	Canyon di Poni
+MapNames	Altar of the Sunne	Altare Solare
 MapNames	Ultra Deep Space	Ultraspazio Profondo
 MapNames	Mount Lanakila	Monte Lanakila
-MapNames	Iki Town-Sun	Iki-Sole
+MapNames	Iki Town-Sun	Lili-Sole
 MapNames	Aether Paradise-Moon	Paradiso Aether-Luna
-MapNames	Royal Avenue	Viale Reale
+MapNames	Royal Avenue	Viale Royale
 MapNames	Royal House	Casa del Viale Reale
 MapNames	Royal Pokémon Center	Centro Pokémon del Viale Reale
-MapNames	Battle Royal Dome	Arena Battle Royal
+MapNames	Battle Royal Dome	Stadio Royale
 MapNames	Tapu Village	Villaggio Tapu
 MapNames	Tapu House	Casa del Villaggio Tapu
 MapNames	Tapu Pokémon Center	Centro Pokémon del Villaggio Tapu
-MapNames	Thrifty Megamart	Megamarket Parsimonia
-MapNames	Haina Desert	Deserto di Haina
-MapNames	Ruins of Abundance	Rovine dell'Abbondanza
+MapNames	Thrifty Megamart	Supermarket Affaroni
+MapNames	Haina Desert	Deserto Haina
+MapNames	Ruins of Abundance	Tempio del Raccolto
 MapNames	Mount Lanakila Cave	Grotta del Monte Lanakila
-MapNames	Mount Hokulani	Monte Hokulani
+MapNames	Mount Hokulani	Picco Hokulani
 MapNames	Ultra Ruin	Ultrarovine
 MapNames	Safari Zone Alola	Zona Safari di Alola
-MapNames	Seafolk Village	Villaggio Marino
-MapNames	Poni Wilds	Lande di Poni
+MapNames	Seafolk Village	Villaggio del Mare
+MapNames	Poni Wilds	Piana di Poni
 MapNames	Seafolk House	Casa del Villaggio Marino
 MapNames	Seafolk Pokémon Center	Centro Pokémon del Villaggio Marino
-MapNames	Ancient Poni Path	Antico Sentiero di Poni
-MapNames	Poni Breaker Coast	Costa Frangiflutti di Poni
-MapNames	Ruins of Hope	Rovine della Speranza
+MapNames	Ancient Poni Path	Via Antica di Poni
+MapNames	Poni Breaker Coast	Scogliera di Poni
+MapNames	Ruins of Hope	Tempio del Passaggio
 MapNames	Malie City	Malie
 MapNames	Malie House	Casa di Malie
 MapNames	Malie Pokémon Center	Centro Pokémon di Malie
@@ -3315,7 +3315,7 @@ Kinds	Lizard	Lucertola
 Kinds	Flame	Fiamma
 Kinds	Tiny Turtle	Tartaghina
 Kinds	Turtle	Tartaruga
-Kinds	Shellfish	Molluscoide
+Kinds	Shellfish	Crostaceo
 Kinds	Worm	Baco
 Kinds	Cocoon	Bozzolo
 Kinds	Butterfly	Farfalla
@@ -3327,7 +3327,7 @@ Kinds	Mouse	Topo
 Kinds	Beak	Becco
 Kinds	Snake	Serpente
 Kinds	Cobra	Cobra
-Kinds	Poison Pin	Velenspina
+Kinds	Poison Pin	Velenago
 Kinds	Drill	Trapano
 Kinds	Fairy	Fata
 Kinds	Fox	Volpe
@@ -3337,30 +3337,30 @@ Kinds	Weed	Malerba
 Kinds	Flower	Fiore
 Kinds	Mushroom	Fungo
 Kinds	Insect	Insetto
-Kinds	Poison Moth	Falena Veleno
+Kinds	Poison Moth	Velentarma
 Kinds	Mole	Talpa
 Kinds	Scratch Cat	Graffimiao
-Kinds	Classy Cat	Gatto Fine
-Kinds	Duck	Papera
-Kinds	Pig Monkey	Suinoscimmia
+Kinds	Classy Cat	Nobilgatto
+Kinds	Duck	Papero
+Kinds	Pig Monkey	Suinpanzé
 Kinds	Puppy	Cagnolino
 Kinds	Legendary	Leggenda
 Kinds	Tadpole	Girino
 Kinds	Psi	Psico
-Kinds	Superpower	Superforza
-Kinds	Flycatcher	Pigliamosche
+Kinds	Superpower	Megaforza
+Kinds	Flycatcher	Moschivoro
 Kinds	Jellyfish	Medusa
 Kinds	Rock	Roccia
-Kinds	Megaton	Megaton
+Kinds	Megaton	Megatone
 Kinds	Fire Horse	Cavalfuoco
 Kinds	Dopey	Ronfone
 Kinds	Hermit Crab	Paguro
 Kinds	Magnet	Calamita
-Kinds	Wild Duck	Anatra
-Kinds	Twin Bird	Uccellodue
-Kinds	Triple Bird	Uccellotre
+Kinds	Wild Duck	Selvanatra
+Kinds	Twin Bird	Biuccello
+Kinds	Triple Bird	Triuccello
 Kinds	Sea Lion	Otaria
-Kinds	Sludge	Fango
+Kinds	Sludge	Melma
 Kinds	Bivalve	Bivalve
 Kinds	Gas	Gas
 Kinds	Shadow	Ombra
@@ -3368,28 +3368,28 @@ Kinds	Rock Snake	Serpesasso
 Kinds	Hypnosis	Ipnosi
 Kinds	River Crab	Granchio
 Kinds	Pincer	Chela
-Kinds	Ball	Palla
+Kinds	Ball	Ball
 Kinds	Egg	Uovo
-Kinds	Coconut	Cocco
+Kinds	Coconut	Nocecocco
 Kinds	Lonely	Solitario
-Kinds	Bone Keeper	Custodossa
-Kinds	Kicking	Calciatore
-Kinds	Punching	Tiratore
-Kinds	Licking	Leccalecca
-Kinds	Poison Gas	Velenogas
-Kinds	Spikes	Punte
-Kinds	Vine	Vite
+Kinds	Bone Keeper	Guardaossi
+Kinds	Kicking	Tiracalci
+Kinds	Punching	Tirapugni
+Kinds	Licking	Linguaccia
+Kinds	Poison Gas	Velenuvola
+Kinds	Spikes	Punzoni
+Kinds	Vine	Liana
 Kinds	Parent	Genitore
 Kinds	Dragon	Drago
-Kinds	Goldfish	Pesce Rosso
-Kinds	Star Shape	Stellaforme
+Kinds	Goldfish	Pescerosso
+Kinds	Star Shape	Stella
 Kinds	Mysterious	Misterioso
 Kinds	Barrier	Barriera
 Kinds	Mantis	Mantide
 Kinds	Human Shape	Umanoide
 Kinds	Electric	Elettrico
 Kinds	Spitfire	Sputafuoco
-Kinds	Stag Beetle	Cervovolante
+Kinds	Stag Beetle	Cervolante
 Kinds	Wild Bull	Torobrado
 Kinds	Fish	Pesce
 Kinds	Atrocious	Atroce
@@ -3397,569 +3397,569 @@ Kinds	Transport	Trasporto
 Kinds	Transform	Mutante
 Kinds	Evolution	Evoluzione
 Kinds	Bubble Jet	Bollajet
-Kinds	Lightning	Fulmine
+Kinds	Lightning	Luminoso
 Kinds	Virtual	Virtuale
 Kinds	Spiral	Spirale
 Kinds	Fossil	Fossile
-Kinds	Sleeping	Dormiglione
+Kinds	Sleeping	Sonno
 Kinds	Freeze	Gelo
 Kinds	Genetic	Genetico
-Kinds	New Species	Nuova Specie
+Kinds	New Species	Novaspecie
 Kinds	Leaf	Foglia
-Kinds	Herb	Erba
-Kinds	Fire Mouse	Topofuoco
+Kinds	Herb	Erbe
+Kinds	Fire Mouse	Fuocotopo
 Kinds	Volcano	Vulcano
-Kinds	Big Jaw	Granmascella
-Kinds	Scout	Esploratore
-Kinds	Long Body	Corpolungo
+Kinds	Big Jaw	Mascellone
+Kinds	Scout	Esplorante
+Kinds	Long Body	Lungocorpo
 Kinds	Owl	Gufo
-Kinds	Five Star	Cinquestelle
-Kinds	String Spit	Sputafilo
-Kinds	Long Leg	Gambelunghe
+Kinds	Five Star	Pentastra
+Kinds	String Spit	Tela
+Kinds	Long Leg	Lungazampa
 Kinds	Angler	Pescatore
 Kinds	Light	Luce
-Kinds	Tiny Mouse	Topolino
-Kinds	Spike Ball	Pallaspina
+Kinds	Tiny Mouse	Topino
+Kinds	Spike Ball	Pallapunte
 Kinds	Happiness	Felicità
-Kinds	Mystic	Mistico
+Kinds	Mystic	Magico
 Kinds	Wool	Lana
 Kinds	Aqua Mouse	Acquatopo
-Kinds	Aqua Rabbit	Acquaconiglio
+Kinds	Aqua Rabbit	Acquniglio
 Kinds	Imitation	Imitazione
 Kinds	Frog	Rana
-Kinds	Cottonweed	Batuffolo
-Kinds	Long Tail	Codalunga
+Kinds	Cottonweed	Gramigna
+Kinds	Long Tail	Lungacoda
 Kinds	Sun	Sole
-Kinds	Clear Wing	Alitrasparenti
-Kinds	Water Fish	Pesceacqua
+Kinds	Clear Wing	Alachiara
+Kinds	Water Fish	Acquapesce
 Kinds	Moonlight	Lucelunare
 Kinds	Darkness	Oscurità
-Kinds	Royal	Regale
-Kinds	Screech	Strillo
+Kinds	Royal	Reale
+Kinds	Screech	Strido
 Kinds	Symbol	Simbolo
-Kinds	Patient	Paziente
-Kinds	Long Neck	Collolungo
+Kinds	Patient	Pazienza
+Kinds	Long Neck	Lungocollo
 Kinds	Bagworm	Larva
-Kinds	Land Snake	Serpeterra
+Kinds	Land Snake	Terraserpe
 Kinds	FlyScorpion	Scorpiovolo
-Kinds	Iron Snake	Serpeferro
+Kinds	Iron Snake	Ferroserpe
 Kinds	Mold	Muffa
 Kinds	Single Horn	Monocorno
-Kinds	Sharp Claw	Artiglio
+Kinds	Sharp Claw	Lamartigli
 Kinds	Little Bear	Orsetto
 Kinds	Hibernator	Letargo
 Kinds	Lava	Lava
 Kinds	Pig	Maiale
 Kinds	Swine	Suino
 Kinds	Coral	Corallo
-Kinds	Jet	Getto
+Kinds	Jet	Jet
 Kinds	Delivery	Consegna
 Kinds	Kite	Aquilone
-Kinds	Armor Bird	Uccelcorazza
+Kinds	Armor Bird	Armuccello
 Kinds	Dark	Buio
-Kinds	Long Nose	Nasolungo
-Kinds	Armor	Corazza
-Kinds	Big Horn	Corna
+Kinds	Long Nose	Nasone
+Kinds	Armor	Armatura
+Kinds	Big Horn	Grancorno
 Kinds	Painter	Pittore
-Kinds	Scuffle	Zuffa
+Kinds	Scuffle	Baruffa
 Kinds	Handstand	Verticale
 Kinds	Kiss	Bacio
-Kinds	Live Coal	Bracia
-Kinds	Milk Cow	Muccalatte
+Kinds	Live Coal	Carbonvivo
+Kinds	Milk Cow	Bovino
 Kinds	Thunder	Tuono
 Kinds	Aurora	Aurora
-Kinds	Rock Skin	Pelleroccia
-Kinds	Hard Shell	Corazzadura
+Kinds	Rock Skin	Peldisasso
+Kinds	Hard Shell	Guscioduro
 Kinds	Diving	Immersione
 Kinds	Rainbow	Arcobaleno
-Kinds	Time Travel	Viaggiatempo
+Kinds	Time Travel	Tempovia
 Kinds	Wood Gecko	Legnogeco
 Kinds	Forest	Foresta
 Kinds	Chick	Pulcino
-Kinds	Young Fowl	Pollastro
+Kinds	Young Fowl	Rampollo
 Kinds	Blaze	Vampe
-Kinds	Mud Fish	Pescefango
+Kinds	Mud Fish	Fango Pesce
 Kinds	Bite	Morso
 Kinds	TinyRaccoon	Procioncino
-Kinds	Rushing	Scattante
+Kinds	Rushing	Sfrecciante
 Kinds	Water Weed	Alga
-Kinds	Jolly	Allegro
+Kinds	Jolly	Giocoso
 Kinds	Carefree	Spensierato
 Kinds	Acorn	Ghianda
-Kinds	Wily	Furbo
-Kinds	Wicked	Malvagio
+Kinds	Wily	Scaltro
+Kinds	Wicked	Burbero
 Kinds	TinySwallow	Rondinella
 Kinds	Swallow	Rondine
 Kinds	Seagull	Gabbiano
-Kinds	Water Bird	Uccelacqua
-Kinds	Feeling	Sentimento
+Kinds	Water Bird	Alacquatico
+Kinds	Feeling	Sensazione
 Kinds	Emotion	Emozione
 Kinds	Embrace	Abbraccio
-Kinds	Pond Skater	Pattinatore
-Kinds	Eyeball	Bulbo
-Kinds	Slacker	Pigrone
-Kinds	Wild Monkey	Scimmia
-Kinds	Lazy	Fannullone
-Kinds	Trainee	Apprendista
+Kinds	Pond Skater	Sfiorapozze
+Kinds	Eyeball	Occhi
+Kinds	Slacker	Ozioso
+Kinds	Wild Monkey	Indocile
+Kinds	Lazy	Pigrizia
+Kinds	Trainee	Novizio
 Kinds	Ninja	Ninja
-Kinds	Shed	Muta
+Kinds	Shed	Cambiapelle
 Kinds	Whisper	Sussurro
-Kinds	Big Voice	Granvoce
-Kinds	Loud Noise	Rumore
-Kinds	Guts	Fegato
-Kinds	Arm Thrust	Spintone
+Kinds	Big Voice	Vocione
+Kinds	Loud Noise	Fragore
+Kinds	Guts	Coraggio
+Kinds	Arm Thrust	Sberletese
 Kinds	Polka Dot	Pois
 Kinds	Compass	Bussola
-Kinds	Kitten	Gattino
-Kinds	Prim	Raffinato
-Kinds	Deceiver	Ingannatore
-Kinds	Iron Armor	Ferrocorazza
+Kinds	Kitten	Micio
+Kinds	Prim	Finezza
+Kinds	Deceiver	Inganno
+Kinds	Iron Armor	Corazza
 Kinds	Meditate	Meditazione
-Kinds	Discharge	Scarica
-Kinds	Cheering	Tifo
+Kinds	Discharge	Scossa
+Kinds	Cheering	Incitamento
 Kinds	Firefly	Lucciola
 Kinds	Thorn	Spina
 Kinds	Stomach	Stomaco
-Kinds	Poison Bag	Sacco Veleno
-Kinds	Savage	Selvaggio
+Kinds	Poison Bag	Velenosacco
+Kinds	Savage	Feroce
 Kinds	Brutal	Brutale
-Kinds	Ball Whale	Balenapalla
-Kinds	Float Whale	Balenafluttua
+Kinds	Ball Whale	Balenottero
+Kinds	Float Whale	Megabalena
 Kinds	Numb	Torpore
 Kinds	Eruption	Eruzione
 Kinds	Coal	Carbone
-Kinds	Bounce	Rimbalzo
-Kinds	Manipulate	Manipolatore
-Kinds	Spot Panda	Panda Macchie
+Kinds	Bounce	Molla
+Kinds	Manipulate	Raggiro
+Kinds	Spot Panda	Macchipanda
 Kinds	Ant Pit	Trappola
 Kinds	Vibration	Vibrazione
 Kinds	Cactus	Cactus
-Kinds	Scarecrow	Spaventapasseri
-Kinds	Cotton Bird	Uccelcotone
+Kinds	Scarecrow	Spavento
+Kinds	Cotton Bird	Alidicotone
 Kinds	Humming	Canterino
-Kinds	Cat Ferret	Gattofuretto
-Kinds	Fang Snake	Serpezanne
+Kinds	Cat Ferret	Furogatto
+Kinds	Fang Snake	Zannaserpe
 Kinds	Meteorite	Meteorite
-Kinds	Whiskers	Baffi
-Kinds	Ruffian	Furfante
+Kinds	Whiskers	Baffetti
+Kinds	Ruffian	Birbone
 Kinds	Rogue	Canaglia
-Kinds	Clay Doll	Bambolotto
-Kinds	Sea Lily	Giglio Marino
-Kinds	Barnacle	Cirripede
-Kinds	Old Shrimp	Gamberetto
-Kinds	Plate	Piastra
+Kinds	Clay Doll	Argilla
+Kinds	Sea Lily	Fiordimare
+Kinds	Barnacle	Lepade
+Kinds	Old Shrimp	Primaceo
+Kinds	Plate	Piastre
 Kinds	Tender	Tenerezza
 Kinds	Weather	Meteo
 Kinds	Color Swap	Mutacolore
-Kinds	Puppet	Burattino
+Kinds	Puppet	Pupazzo
 Kinds	Marionette	Marionetta
 Kinds	Requiem	Requiem
-Kinds	Beckon	Richiamo
+Kinds	Beckon	Ipnosguardo
 Kinds	Fruit	Frutto
-Kinds	Wind Chime	Campanello
-Kinds	Disaster	Disastro
-Kinds	Bright	Splendore
-Kinds	Snow Hat	Cappuccio
-Kinds	Face	Faccia
-Kinds	Clap	Battimani
-Kinds	Ball Roll	Rotolapalla
-Kinds	Ice Break	Rompighiaccio
+Kinds	Wind Chime	Vencampana
+Kinds	Disaster	Catastrofe
+Kinds	Bright	Brillante
+Kinds	Snow Hat	Cappelneve
+Kinds	Face	Tuttomuso
+Kinds	Clap	Rotolante
+Kinds	Ball Roll	Rotapalla
+Kinds	Ice Break	Spaccagelo
 Kinds	Deep Sea	Abissi
-Kinds	South Sea	Mare del Sud
+Kinds	South Sea	Sudmarino
 Kinds	Longevity	Longevità
-Kinds	Rendezvous	Appuntamento
-Kinds	Rock Head	Testaroccia
+Kinds	Rendezvous	Rendezvous
+Kinds	Rock Head	Rocciotesta
 Kinds	Endurance	Resistenza
-Kinds	Iron Ball	Palla di Ferro
-Kinds	Iron Claw	Artiglio Ferro
-Kinds	Iron Leg	Gamba Ferro
-Kinds	Rock Peak	Picco Roccia
+Kinds	Iron Ball	Ferrosfera
+Kinds	Iron Claw	Ferrunghia
+Kinds	Iron Leg	Ferrarto
+Kinds	Rock Peak	Picco
 Kinds	Iceberg	Iceberg
 Kinds	Iron	Ferro
 Kinds	Eon	Eone
-Kinds	Sea Basin	Bacino Marino
+Kinds	Sea Basin	Oceano
 Kinds	Continent	Continente
-Kinds	Sky High	Cielo Alto
+Kinds	Sky High	Stratosfera
 Kinds	Wish	Desiderio
 Kinds	DNA	DNA
 Kinds	Tiny Leaf	Fogliolina
 Kinds	Grove	Boschetto
 Kinds	Chimp	Scimpanzé
-Kinds	Playful	Giocoso
+Kinds	Playful	Briccone
 Kinds	Penguin	Pinguino
 Kinds	Emperor	Imperatore
 Kinds	Starling	Storno
-Kinds	Predator	Predatore
-Kinds	Plump Mouse	Topopaffuto
+Kinds	Predator	Rapace
+Kinds	Plump Mouse	Topaffuto
 Kinds	Beaver	Castoro
 Kinds	Cricket	Grillo
-Kinds	Flash	Lampo
-Kinds	Spark	Scintilla
-Kinds	Gleam Eyes	Occhi Luce
+Kinds	Flash	Baleno
+Kinds	Spark	Favilla
+Kinds	Gleam Eyes	Occhiluce
 Kinds	Bud	Germoglio
-Kinds	Bouquet	Bouquet
-Kinds	Head Butt	Testata
-Kinds	Shield	Scudo
+Kinds	Bouquet	Floreale
+Kinds	Head Butt	Cranioso
+Kinds	Shield	Schermo
 Kinds	Moth	Falena
 Kinds	Tiny Bee	Apetta
 Kinds	Beehive	Alveare
-Kinds	EleSquirrel	Elescoiattolo
-Kinds	Sea Weasel	Donnola Marina
+Kinds	EleSquirrel	Elescoiatto
+Kinds	Sea Weasel	Maridonnola
 Kinds	Cherry	Ciliegia
-Kinds	Blossom	Fioritura
-Kinds	Sea Slug	Lumacamare
+Kinds	Blossom	Bocciolo
+Kinds	Sea Slug	Lumacomare
 Kinds	Blimp	Dirigibile
 Kinds	Rabbit	Coniglio
-Kinds	Magical	Magico
-Kinds	Big Boss	Gran Capo
-Kinds	Catty	Gattesco
-Kinds	Tiger Cat	Gattigre
-Kinds	Bell	Campana
-Kinds	Skunk	Puzzola
+Kinds	Magical	Stregone
+Kinds	Big Boss	Grancapo
+Kinds	Catty	Felide
+Kinds	Tiger Cat	Gattotigre
+Kinds	Bell	Sonaglio
+Kinds	Skunk	Moffetta
 Kinds	Bronze	Bronzo
-Kinds	Bronze Bell	Campana Bronzo
+Kinds	Bronze Bell	Squibronzo
 Kinds	Bonsai	Bonsai
 Kinds	Mime	Mimo
-Kinds	Playhouse	Casetta
-Kinds	Music Note	Nota
+Kinds	Playhouse	Ovettino
+Kinds	Music Note	Musicale
 Kinds	Forbidden	Proibito
 Kinds	Land Shark	Squaloterra
-Kinds	Cave	Caverna
+Kinds	Cave	Grotta
 Kinds	Mach	Mach
-Kinds	Big Eater	Mangione
+Kinds	Big Eater	Ghiottone
 Kinds	Emanation	Emanazione
 Kinds	Aura	Aura
-Kinds	Hippo	Ippopotamo
-Kinds	Heavyweight	Peso Massimo
+Kinds	Hippo	Ippo
+Kinds	Heavyweight	Grandepeso
 Kinds	Scorpion	Scorpione
 Kinds	Ogre Scorp	Scorpiorco
-Kinds	Toxic Mouth	Boccatossica
-Kinds	Bug Catcher	Pigliainsetti
+Kinds	Toxic Mouth	Inveieleno
+Kinds	Bug Catcher	Insettivoro
 Kinds	Wing Fish	Pescealato
 Kinds	Neon	Neon
-Kinds	Frost Tree	Albero Gelo
-Kinds	Magnet Area	Area Magnete
-Kinds	Thunderbolt	Fulmine Puro
-Kinds	Blast	Esplosione
-Kinds	Jubilee	Giubilo
-Kinds	Ogre Darner	Orcolibellula
-Kinds	Verdant	Verdeggiante
-Kinds	Fresh Snow	Neve Fresca
+Kinds	Frost Tree	Albergelo
+Kinds	Magnet Area	Magnetico
+Kinds	Thunderbolt	Saetta
+Kinds	Blast	Esplosivo
+Kinds	Jubilee	Festa
+Kinds	Ogre Darner	Libellorco
+Kinds	Verdant	Rigoglioso
+Kinds	Fresh Snow	Nevefresca
 Kinds	Fang Scorp	Scorpizanne
-Kinds	Twin Tusk	Doppia Zanna
+Kinds	Twin Tusk	Duezanne
 Kinds	Blade	Lama
-Kinds	Gripper	Prensile
-Kinds	Snow Land	Terra Nevosa
+Kinds	Gripper	Pinza
+Kinds	Snow Land	Suolnevoso
 Kinds	Plasma	Plasma
-Kinds	Knowledge	Saggezza
+Kinds	Knowledge	Sapienza
 Kinds	Willpower	Volontà
-Kinds	Temporal	Temporale
-Kinds	Spatial	Spaziale
-Kinds	Lava Dome	Cupola Lava
+Kinds	Temporal	Tempo
+Kinds	Spatial	Spazio
+Kinds	Lava Dome	Cratere
 Kinds	Colossal	Colossale
-Kinds	Renegade	Rinnegato
-Kinds	Lunar	Lunare
-Kinds	Sea Drifter	Vagamare
-Kinds	Seafaring	Marinaro
-Kinds	Pitch-Black	Nero Pece
+Kinds	Renegade	Ribelle
+Kinds	Lunar	Falcato
+Kinds	Sea Drifter	Oceanbondo
+Kinds	Seafaring	Oceandante
+Kinds	Pitch-Black	Neropesto
 Kinds	Gratitude	Gratitudine
-Kinds	Alpha	Alfa
+Kinds	Alpha	Primevo
 Kinds	Victory	Vittoria
-Kinds	Grass Snake	Serpe Erba
+Kinds	Grass Snake	Serperba
 Kinds	Regal	Regale
 Kinds	Fire Pig	Suinfuoco
-Kinds	Mega Fire Pig	Megasuinfuoco
+Kinds	Mega Fire Pig	Suincendio
 Kinds	Sea Otter	Lontra
-Kinds	Discipline	Disciplina
-Kinds	Formidable	Formidabile
-Kinds	Lookout	Vedetta
-Kinds	Loyal Dog	Cane Fedele
-Kinds	Big-Hearted	Generoso
-Kinds	Devious	Subdolo
-Kinds	Cruel	Crudele
-Kinds	Grass Monkey	Scimmierba
-Kinds	Thorn Monkey	Scimmispina
-Kinds	High Temp	Altatemp
-Kinds	Ember	Tizzone
-Kinds	Spray	Spruzzo
-Kinds	Geyser	Geyser
-Kinds	Dream Eater	Mangiasogni
-Kinds	Drowsing	Sonnolento
-Kinds	Tiny Pigeon	Piccioncino
-Kinds	Wild Pigeon	Piccione
-Kinds	Proud	Orgoglioso
-Kinds	Electrified	Elettrizzato
-Kinds	Mantle	Mantello
+Kinds	Discipline	Apprendista
+Kinds	Formidable	Dignità
+Kinds	Lookout	Sentinella
+Kinds	Loyal Dog	Fedeltà
+Kinds	Big-Hearted	Generosità
+Kinds	Devious	Furbizia
+Kinds	Cruel	Sanguefreddo
+Kinds	Grass Monkey	Scimperba
+Kinds	Thorn Monkey	Spinpanzé
+Kinds	High Temp	Testacalda
+Kinds	Ember	Sfavillante
+Kinds	Spray	Annaffiatore
+Kinds	Geyser	Spruzzacqua
+Kinds	Dream Eater	Divorasogni
+Kinds	Drowsing	Dormiveglia
+Kinds	Tiny Pigeon	Piccione
+Kinds	Wild Pigeon	Granpiccione
+Kinds	Proud	Orgoglio
+Kinds	Electrified	Caricavolt
+Kinds	Mantle	Placca
 Kinds	Ore	Minerale
-Kinds	Compressed	Compresso
-Kinds	Courting	Corteggiatore
-Kinds	Subterrene	Sotterraneo
-Kinds	Hearing	Udito
-Kinds	Muscular	Muscoloso
+Kinds	Compressed	Pressionalta
+Kinds	Courting	Cercamore
+Kinds	Subterrene	Sottoterra
+Kinds	Hearing	Ascolto
+Kinds	Muscular	Forzaimmane
 Kinds	Judo	Judo
 Kinds	Karate	Karate
-Kinds	Sewing	Sartoria
-Kinds	Leaf-Wrapped	Fogliavvolto
-Kinds	Nurturing	Premuroso
-Kinds	Centipede	Centopiedi
-Kinds	Curlipede	Arrotolato
-Kinds	Megapede	Megapiede
-Kinds	Cotton Puff	Batuffolo Cotone
-Kinds	Windveiled	Ventovelato
-Kinds	Bulb	Bulbo
-Kinds	Flowering	Fiorito
-Kinds	Hostile	Ostile
-Kinds	Desert Croc	Cocco Deserto
-Kinds	Intimidation	Intimidazione
-Kinds	Zen Charm	Zen
-Kinds	Blazing	Ardente
-Kinds	Rock Inn	Rocciatana
-Kinds	Stone Home	Casa Pietra
-Kinds	Shedding	Muta
-Kinds	Hoodlum	Teppista
-Kinds	Avianoid	Aviforme
-Kinds	Spirit	Spirito
-Kinds	Coffin	Sarcofago
-Kinds	Prototurtle	Prototarta
-Kinds	First Bird	Primo Uccello
-Kinds	Trash Bag	Sacchetto
-Kinds	Trash Heap	Cumulo Rifiuti
-Kinds	Tricky Fox	Volpe Furba
-Kinds	Illusion Fox	Volpillusione
+Kinds	Sewing	Grancucito
+Kinds	Leaf-Wrapped	Coprifoglia
+Kinds	Nurturing	Balia
+Kinds	Centipede	Centipede
+Kinds	Curlipede	Rotopede
+Kinds	Megapede	Megapede
+Kinds	Cotton Puff	Cotonpalla
+Kinds	Windveiled	Spiffero
+Kinds	Bulb	Radice
+Kinds	Flowering	Fiorfronzolo
+Kinds	Hostile	Irruenza
+Kinds	Desert Croc	Sabbiadrillo
+Kinds	Intimidation	Minaccia
+Kinds	Zen Charm	Daruma
+Kinds	Blazing	Altefiamme
+Kinds	Rock Inn	Pietracasa
+Kinds	Stone Home	Scogliocasa
+Kinds	Shedding	Mutapelle
+Kinds	Hoodlum	Furfante
+Kinds	Avianoid	Pseuduccello
+Kinds	Spirit	Fatuanima
+Kinds	Coffin	Bara
+Kinds	Prototurtle	Ancestruga
+Kinds	First Bird	Paleouccello
+Kinds	Trash Bag	Spazzatura
+Kinds	Trash Heap	Discarica
+Kinds	Tricky Fox	Malavolpe
+Kinds	Illusion Fox	Mutevolpe
 Kinds	Chinchilla	Cincillà
 Kinds	Scarf	Sciarpa
-Kinds	Fixation	Fissazione
-Kinds	Astral Body	Corpo Astrale
+Kinds	Fixation	Fissosguardo
+Kinds	Astral Body	Corpoceleste
 Kinds	Cell	Cellula
-Kinds	Mitosis	Mitosi
-Kinds	Multiplying	Moltiplicazione
-Kinds	White Bird	Uccello Bianco
-Kinds	Icy Snow	Neve Gelata
-Kinds	Snowstorm	Tormenta
+Kinds	Mitosis	Scissione
+Kinds	Multiplying	Espansione
+Kinds	White Bird	Biancuccello
+Kinds	Icy Snow	Geloneve
+Kinds	Snowstorm	Bufera
 Kinds	Season	Stagione
-Kinds	Sky Squirrel	Scoiattolo Volante
-Kinds	Clamping	Morsa
-Kinds	Cavalry	Cavalleria
+Kinds	Sky Squirrel	Petauro
+Kinds	Clamping	Addentatore
+Kinds	Cavalry	Cavaliere
 Kinds	Floating	Fluttuante
-Kinds	Caring	Premura
-Kinds	Attaching	Aggancio
-Kinds	EleSpider	Eleragno
-Kinds	Thorn Seed	Semespina
-Kinds	Thorn Pod	Baccello Spina
+Kinds	Caring	Assistenza
+Kinds	Attaching	Appiccicante
+Kinds	EleSpider	Elettroragno
+Kinds	Thorn Seed	Spinaseme
+Kinds	Thorn Pod	Spinasfere
 Kinds	Gear	Ingranaggio
-Kinds	EleFish	Elepesce
-Kinds	Cerebral	Cerebrale
+Kinds	EleFish	Elettropesce
+Kinds	Cerebral	Cervello
 Kinds	Candle	Candela
-Kinds	Lamp	Lampada
-Kinds	Luring	Adescamento
+Kinds	Lamp	Lanterna
+Kinds	Luring	Attiranime
 Kinds	Tusk	Zanna
 Kinds	Axe Jaw	Mascellascia
 Kinds	Chill	Freddo
-Kinds	Freezing	Congelamento
-Kinds	Crystallizing	Cristallizzazione
-Kinds	Snail	Lumaca
-Kinds	Shell Out	Senzaguscio
+Kinds	Freezing	Glaciale
+Kinds	Crystallizing	Cristallo
+Kinds	Snail	Lumachina
+Kinds	Shell Out	Sgusciato
 Kinds	Trap	Trappola
-Kinds	Martial Arts	Arti Marziali
-Kinds	Automaton	Automa
-Kinds	Sharp Blade	Lama Affilata
-Kinds	Sword Blade	Spadalama
-Kinds	Bash Buffalo	Bufalo
+Kinds	Martial Arts	Marziale
+Kinds	Automaton	Statuanimata
+Kinds	Sharp Blade	Lamaffilata
+Kinds	Sword Blade	Fildilama
+Kinds	Bash Buffalo	Sfondatoro
 Kinds	Eaglet	Aquilotto
-Kinds	Valiant	Valoroso
+Kinds	Valiant	Baldanza
 Kinds	Diapered	Pannolino
-Kinds	Bone Vulture	Avvoltoio
+Kinds	Bone Vulture	Ossaquila
 Kinds	Anteater	Formichiere
-Kinds	Iron Ant	Formica Ferro
-Kinds	Irate	Furioso
+Kinds	Iron Ant	Ferformica
+Kinds	Irate	Impeto
 Kinds	Torch	Torcia
-Kinds	Iron Will	Volontà Ferrea
-Kinds	Cavern	Grotta
+Kinds	Iron Will	Metalcuore
+Kinds	Cavern	Caverna
 Kinds	Grassland	Prateria
-Kinds	Cyclone	Ciclone
-Kinds	Bolt Strike	Saetta
-Kinds	Vast White	Bianco Immenso
-Kinds	Deep Black	Nero Profondo
-Kinds	Abundance	Abbondanza
+Kinds	Cyclone	Turbinio
+Kinds	Bolt Strike	Fulminante
+Kinds	Vast White	Bianco Verità
+Kinds	Deep Black	Nero Ideale
+Kinds	Abundance	Fertilità
 Kinds	Boundary	Confine
 Kinds	Colt	Puledro
 Kinds	Melody	Melodia
 Kinds	Paleozoic	Paleozoico
 Kinds	Spiky Nut	Riccio
 Kinds	Spiky Armor	Corazzaspina
-Kinds	Bubble Frog	Rana Bolla
-Kinds	Digging	Scavatore
+Kinds	Bubble Frog	Schiumorana
+Kinds	Digging	Scavabuche
 Kinds	Tiny Robin	Pettirosso
-Kinds	Scorching	Rovente
-Kinds	Scatterdust	Spargipolvere
-Kinds	Scale	Scaglia
+Kinds	Scorching	Ardifiamma
+Kinds	Scatterdust	Tirascaglie
+Kinds	Scale	Farfascaglia
 Kinds	Lion Cub	Leoncino
-Kinds	Single Bloom	Bocciolo
+Kinds	Single Bloom	Monofiore
 Kinds	Garden	Giardino
 Kinds	Mount	Cavalcatura
-Kinds	Daunting	Temibile
+Kinds	Daunting	Occhiotruce
 Kinds	Poodle	Barboncino
-Kinds	Restraint	Restrizione
-Kinds	Constraint	Costrizione
-Kinds	Sword	Spada
-Kinds	Royal Sword	Spada Regale
+Kinds	Restraint	Moderazione
+Kinds	Constraint	Temperanza
+Kinds	Sword	Armabianca
+Kinds	Royal Sword	Spadareale
 Kinds	Perfume	Profumo
 Kinds	Fragrance	Fragranza
-Kinds	Cotton Candy	Zucchero Filato
-Kinds	Meringue	Meringa
-Kinds	Revolving	Rotante
-Kinds	Overturning	Ribaltamento
-Kinds	Two-Handed	Due Mani
-Kinds	Collective	Collettivo
-Kinds	Mock Kelp	Finta Alga
-Kinds	Water Gun	Pistolacqua
-Kinds	Howitzer	Obice
+Kinds	Cotton Candy	Zuccherino
+Kinds	Meringue	Panna
+Kinds	Revolving	Volteggio
+Kinds	Overturning	Giravolta
+Kinds	Two-Handed	Bimano
+Kinds	Collective	Aggregato
+Kinds	Mock Kelp	Similalga
+Kinds	Water Gun	Zampillo
+Kinds	Howitzer	Acqualancio
 Kinds	Generator	Generatore
-Kinds	Royal Heir	Erede Reale
-Kinds	Despot	Despota
+Kinds	Royal Heir	Principino
+Kinds	Despot	Tiranno
 Kinds	Tundra	Tundra
-Kinds	Intertwining	Intreccio
-Kinds	Wrestling	Lottatore
+Kinds	Intertwining	Legame
+Kinds	Wrestling	Lottalibera
 Kinds	Antenna	Antenna
-Kinds	Jewel	Gioiello
+Kinds	Jewel	Gemma
 Kinds	Soft Tissue	Mollusco
 Kinds	Key Ring	Portachiavi
 Kinds	Stump	Ceppo
-Kinds	Elder Tree	Albero Antico
+Kinds	Elder Tree	Alberantico
 Kinds	Pumpkin	Zucca
-Kinds	Ice Chunk	Gelocubo
-Kinds	Sound Wave	Onda Sonora
-Kinds	Life	Vita
+Kinds	Ice Chunk	Ghiacciolo
+Kinds	Sound Wave	Ondasonora
+Kinds	Life	Creazione
 Kinds	Destruction	Distruzione
-Kinds	Order	Ordine
-Kinds	Mischief	Dispetto
+Kinds	Order	Equilibrio
+Kinds	Mischief	Birba
 Kinds	Steam	Vapore
-Kinds	Grass Quill	Penna Erba
-Kinds	Blade Quill	Penna Lama
-Kinds	Arrow Quill	Penna Freccia
-Kinds	Fire Cat	Gatto Fuoco
-Kinds	Heel	Scorretto
-Kinds	Pop Star	Popstar
+Kinds	Grass Quill	Aliderba
+Kinds	Blade Quill	Piumaffilata
+Kinds	Arrow Quill	Alifreccia
+Kinds	Fire Cat	Pirofelino
+Kinds	Heel	Colpibassi
+Kinds	Pop Star	Pop Star
 Kinds	Soloist	Solista
 Kinds	Woodpecker	Picchio
-Kinds	Bugle Beak	Becco Tromba
+Kinds	Bugle Beak	Trombecco
 Kinds	Cannon	Cannone
-Kinds	Loitering	Bighellone
-Kinds	Stakeout	Appostamento
-Kinds	Larva	Larva
+Kinds	Loitering	Pattuglia
+Kinds	Stakeout	Sorveglianza
+Kinds	Larva	Coleolarva
 Kinds	Battery	Batteria
-Kinds	Boxing	Pugilato
-Kinds	Woolly Crab	Granchio Lana
+Kinds	Boxing	Pugile
+Kinds	Woolly Crab	Peligranchio
 Kinds	Dancing	Danza
 Kinds	Bee Fly	Bombilide
 Kinds	Wolf	Lupo
 Kinds	Small Fry	Pesciolino
-Kinds	Brutal Star	Stella Brutale
-Kinds	Donkey	Asino
-Kinds	Draft Horse	Cavallo da Tiro
-Kinds	Water Bubble	Bolla d'Acqua
-Kinds	Sickle Grass	Falciaerba
-Kinds	Bloom Sickle	Falciafiore
-Kinds	Illuminating	Luminoso
-Kinds	Toxic Lizard	Lucertossica
-Kinds	Flailing	Dimenante
-Kinds	Strong Arm	Braccioforte
-Kinds	Posy Picker	Coglifiori
+Kinds	Brutal Star	Stellatroce
+Kinds	Donkey	Ciuconiglio
+Kinds	Draft Horse	Fortequino
+Kinds	Water Bubble	Bolladacqua
+Kinds	Sickle Grass	Mantiderba
+Kinds	Bloom Sickle	Mantifiore
+Kinds	Illuminating	Luminescenza
+Kinds	Toxic Lizard	Lucertossina
+Kinds	Flailing	Bizzoso
+Kinds	Strong Arm	Fortebraccio
+Kinds	Posy Picker	Ghirlanda
 Kinds	Sage	Saggio
-Kinds	Teamwork	Lavoro di Squadra
-Kinds	Turn Tail	Fuggifuggi
-Kinds	Hard Scale	Scaglia Dura
-Kinds	Sand Heap	Mucchiosabbia
-Kinds	Sand Castle	Castellosabbia
+Kinds	Teamwork	Giocosquadra
+Kinds	Turn Tail	Lestopode
+Kinds	Hard Scale	Blindato
+Kinds	Sand Heap	Montesabbia
+Kinds	Sand Castle	Castelsabbia
 Kinds	Sea Cucumber	Oloturia
-Kinds	Synthetic	Sintetico
+Kinds	Synthetic	Multigene
 Kinds	Meteor	Meteora
 Kinds	Blast Turtle	Tartabomba
-Kinds	Roly-Poly	Rotolone
-Kinds	Disguise	Travestimento
-Kinds	Gnash Teeth	Digrignante
-Kinds	Placid	Placido
-Kinds	Sea Creeper	Alga Marina
-Kinds	Scaly	Squamoso
-Kinds	Land Spirit	Spirito Terra
+Kinds	Roly-Poly	Ricciopalla
+Kinds	Disguise	Fantasmanto
+Kinds	Gnash Teeth	Sfregadenti
+Kinds	Placid	Tuttacalma
+Kinds	Sea Creeper	Brandellalga
+Kinds	Scaly	Squama
+Kinds	Land Spirit	Nume Locale
 Kinds	Nebula	Nebulosa
 Kinds	Protostar	Protostella
-Kinds	Sunne	Sole
-Kinds	Moone	Luna
+Kinds	Sunne	Solare
+Kinds	Moone	Lunare
 Kinds	Parasite	Parassita
-Kinds	Swollen	Gonfio
-Kinds	Lissome	Flessuoso
-Kinds	Glowing	Luminescente
-Kinds	Launch	Lancio
-Kinds	Drawn Sword	Spadasguainata
-Kinds	Junkivore	Mangiarifiuti
+Kinds	Swollen	Gonfiacorpo
+Kinds	Lissome	Leggiadria
+Kinds	Glowing	Luminaria
+Kinds	Launch	Decollo
+Kinds	Drawn Sword	Spadatratta
+Kinds	Junkivore	Divoratutto
 Kinds	Prism	Prisma
 Kinds	Artificial	Artificiale
-Kinds	Gloomdweller	Abitaombra
+Kinds	Gloomdweller	Vivinombra
 Kinds	Rampart	Bastione
-Kinds	Fireworks	Fuochi d'Artificio
-Kinds	Thunderclap	Tuonoforte
+Kinds	Fireworks	Pirotecnico
+Kinds	Thunderclap	Fulmirapido
 Kinds	Hex Nut	Bullone
 Kinds	Beat	Ritmo
-Kinds	Drummer	Batterista
-Kinds	Striker	Attaccante
-Kinds	Water Lizard	Lucertola Acqua
-Kinds	Secret Agent	Agente Segreto
-Kinds	Cheeky	Sfacciato
-Kinds	Greedy	Avido
+Kinds	Drummer	Percussione
+Kinds	Striker	Cannoniere
+Kinds	Water Lizard	Acquacertola
+Kinds	Secret Agent	Agente
+Kinds	Cheeky	Guancepiene
+Kinds	Greedy	Ingordigia
 Kinds	Raven	Corvo
 Kinds	Radome	Radome
 Kinds	Seven Spot	Settepunti
-Kinds	Cotton Bloom	Fiorcotone
+Kinds	Cotton Bloom	Cotofronzolo
 Kinds	Sheep	Pecora
 Kinds	Snapping	Mordace
 Kinds	Dog	Cane
-Kinds	Apple Core	Torsolo
-Kinds	Apple Wing	Alimela
-Kinds	Apple Nectar	Nettaremela
-Kinds	Sand Snake	Serpe Sabbia
-Kinds	Gulp	Inghiotti
+Kinds	Apple Core	Pomicolo
+Kinds	Apple Wing	Pomivolo
+Kinds	Apple Nectar	Pomisucco
+Kinds	Sand Snake	Sabbiaserpe
+Kinds	Gulp	Inghiottone
 Kinds	Rush	Carica
 Kinds	Skewer	Spiedo
-Kinds	Baby	Neonato
+Kinds	Baby	Bebè
 Kinds	Punk	Punk
-Kinds	Radiator	Radiatore
-Kinds	Tantrum	Capriccio
+Kinds	Radiator	Termogeno
+Kinds	Tantrum	Bizze
 Kinds	Jujitsu	Jujitsu
-Kinds	Black Tea	Tè Nero
-Kinds	Calm	Calmo
-Kinds	Serene	Sereno
-Kinds	Silent	Silenzioso
+Kinds	Black Tea	Tè
+Kinds	Calm	Calma
+Kinds	Serene	Quiete
+Kinds	Silent	Silenzio
 Kinds	Bulk Up	Granfisico
-Kinds	Blocking	Blocco
+Kinds	Blocking	Bloccaggio
 Kinds	Viking	Vichingo
 Kinds	Comedian	Comico
 Kinds	Grudge	Rancore
-Kinds	Cream	Panna
-Kinds	Formation	Formazione
-Kinds	Sea Urchin	Riccio di Mare
-Kinds	Frost Moth	Falena Gelo
-Kinds	Big Rock	Granmasso
-Kinds	Two-Sided	Doppia Faccia
-Kinds	Copperderm	Pelle Rame
-Kinds	Alloy	Lega
-Kinds	Lingering	Persistente
-Kinds	Caretaker	Custode
+Kinds	Cream	Pannafresca
+Kinds	Formation	Schieramento
+Kinds	Sea Urchin	Echino
+Kinds	Frost Moth	Gelofalena
+Kinds	Big Rock	Megalito
+Kinds	Two-Sided	Doppiafaccia
+Kinds	Copperderm	Bronzofante
+Kinds	Alloy	Metallolega
+Kinds	Lingering	Risentimento
+Kinds	Caretaker	Sostegno
 Kinds	Stealth	Furtivo
 Kinds	Warrior	Guerriero
-Kinds	Gigantic	Gigantesco
-Kinds	Wushu	Wushu
-Kinds	Rogue Monkey	Scimmia Ladra
+Kinds	Gigantic	Gigante
+Kinds	Wushu	Kung Fu
+Kinds	Rogue Monkey	Scimmialigna
 Kinds	Electron	Elettrone
-Kinds	Dragon Orb	Sfera Drago
-Kinds	Wild Horse	Cavallo Brado
-Kinds	Swift Horse	Cavallo Rapido
+Kinds	Dragon Orb	Dracosfera
+Kinds	Wild Horse	Furiequino
+Kinds	Swift Horse	Sveltequino
 Kinds	King	Re
-Kinds	Axe	Ascia
+Kinds	Axe	Scure
 Kinds	Peat	Torba
-Kinds	Big Fish	Pesce Grosso
-Kinds	Free Climb	Arrampicata
-Kinds	Pin Cluster	Grappolaspine
+Kinds	Big Fish	Pescegrosso
+Kinds	Free Climb	Scalata
+Kinds	Pin Cluster	Spinoso
 Kinds	Love-Hate	Amoreodio
 Kinds	Unique Horn	Corno Unico
 Kinds	Sphere	Sfera

@@ -2532,7 +2532,7 @@
  {
   "id": "{1} can't use {2} because of Throat Chop!",
   "en": "{1} can't use {2} because of Throat Chop!",
-  "it": "{1} non può usare {2} a causa di Malagola!"
+  "it": "{1} non può usare {2} a causa di Colpo Infernale!"
  },
  {
   "id": "{1} allows the use of only {2}!",
@@ -2652,7 +2652,7 @@
  {
   "id": "Wide Guard protected {1}!",
   "en": "Wide Guard protected {1}!",
-  "it": "Ampioscudo ha protetto {1}!"
+  "it": "Bodyguard ha protetto {1}!"
  },
  {
   "id": "Quick Guard protected {1}!",
@@ -2782,17 +2782,17 @@
  {
   "id": "Its disguise served it as a decoy!",
   "en": "Its disguise served it as a decoy!",
-  "it": "Il suo Fantoccio ha fatto da esca!"
+  "it": "Il suo Fantasmanto ha fatto da esca!"
  },
  {
   "id": "{1}'s disguise served it as a decoy!",
   "en": "{1}'s disguise served it as a decoy!",
-  "it": "Il Fantoccio di {1} ha fatto da esca!"
+  "it": "Il Fantasmanto di {1} ha fatto da esca!"
  },
  {
   "id": "{1}'s disguise was busted!",
   "en": "{1}'s disguise was busted!",
-  "it": "Il Fantoccio di {1} è stato smascherato!"
+  "it": "Il Fantasmanto di {1} è stato smascherato!"
  },
  {
   "id": "{1} endured the hit!",
@@ -2837,7 +2837,7 @@
  {
   "id": "{1} became fully charged due to its Power Herb!",
   "en": "{1} became fully charged due to its Power Herb!",
-  "it": "{1} si è caricato completamente grazie all'Erbavigore!"
+  "it": "{1} si è caricato completamente grazie all'Vigorerba!"
  },
  {
   "id": "{1} began charging up!",
@@ -3592,7 +3592,7 @@
  {
   "id": "{1} chose Doom Desire as its destiny!",
   "en": "{1} chose Doom Desire as its destiny!",
-  "it": "{1} ha scelto Desiofato come suo destino!"
+  "it": "{1} ha scelto Obbliderio come suo destino!"
  },
  {
   "id": "{1} foresaw an attack!",
@@ -4847,7 +4847,7 @@
  {
   "id": "The effects of Mud Sport have faded.",
   "en": "The effects of Mud Sport have faded.",
-  "it": "Gli effetti di Fangosport sono svaniti."
+  "it": "Gli effetti di Fangata sono svaniti."
  },
  {
   "id": "Wonder Room wore off, and Defense and Sp. Def stats returned to normal!",
@@ -16392,12 +16392,12 @@
  {
   "id": "Want to throw in a Wishing Piece?",
   "en": "Want to throw in a Wishing Piece?",
-  "it": "Vuoi gettare un Pezzo Desiderio?"
+  "it": "Vuoi gettare un Desioblocco?"
  },
  {
   "id": "You threw a Wishing Piece into the den!",
   "en": "You threw a Wishing Piece into the den!",
-  "it": "Hai gettato un Pezzo Desiderio nella tana!"
+  "it": "Hai gettato un Desioblocco nella tana!"
  },
  {
   "id": "But you don't have any Wishing Pieces...",

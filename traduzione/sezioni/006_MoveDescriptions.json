@@ -2502,7 +2502,7 @@
  {
   "id": 501,
   "en": "Using Happy Hour doubles the amount of prize money received after battle.",
-  "it": "Usando Happy Hour, il denaro ricevuto a fine lotta raddoppia."
+  "it": "Usando Cuccagna, il denaro ricevuto a fine lotta raddoppia."
  },
  {
   "id": 502,
@@ -3277,7 +3277,7 @@
  {
   "id": 656,
   "en": "Attacks with its psychic power. Power increases and damages all opponents on Psychic Terrain.",
-  "it": "Attacca con i poteri psichici. Su Psicocampo diventa più potente e colpisce tutti i nemici."
+  "it": "Attacca con i poteri psichici. Su Campo Psichico diventa più potente e colpisce tutti i nemici."
  },
  {
   "id": 657,
@@ -3972,7 +3972,7 @@
  {
   "id": 1053,
   "en": "A Psychic-type attack Dynamax Pokémon use. Sets Psychic Terrain for five turns.",
-  "it": "Attacco di tipo Psico dei Pokémon Dynamax. Attiva Psicocampo per cinque turni."
+  "it": "Attacco di tipo Psico dei Pokémon Dynamax. Attiva Campo Psichico per cinque turni."
  },
  {
   "id": 1054,
@@ -4132,12 +4132,12 @@
  {
   "id": 1085,
   "en": "A G-Max Move used by G-Max Urshifu. This single-strike move can ignore Max Guard.",
-  "it": "Mossa Gigamax di Urshifu Gigamax. Questo colpo singolo può superare Barriera Max."
+  "it": "Mossa Gigamax di Urshifu Gigamax. Questo colpo singolo può superare Dynabarriera."
  },
  {
   "id": 1086,
   "en": "A G-Max Move used by G-Max Urshifu. This rapid-strike move can ignore Max Guard.",
-  "it": "Mossa Gigamax di Urshifu Gigamax. Questo colpo multiplo può superare Barriera Max."
+  "it": "Mossa Gigamax di Urshifu Gigamax. Questo colpo multiplo può superare Dynabarriera."
  },
  {
   "id": 1087,

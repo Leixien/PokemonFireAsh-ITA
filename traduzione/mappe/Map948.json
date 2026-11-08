@@ -37,7 +37,7 @@
  {
   "id": "Rotom Dex: Maybe we should ask someone in Seafolk Village about the Island Kahuna.",
   "en": "Rotom Dex: Maybe we should ask someone in Seafolk Village about the Island Kahuna.",
-  "it": "Rotom Dex: Forse dovremmo chiedere a qualcuno del Villaggio Marino del Kahuna dell'isola."
+  "it": "Rotom Dex: Forse dovremmo chiedere a qualcuno del Villaggio del Mare del Kahuna dell'isola."
  },
  {
   "id": "\\rHapu: I'm a little busy right now. Come back later.",
@@ -72,12 +72,12 @@
  {
   "id": "\\bI was going to check out Vast Poni Canyon on the boat over there. Go on ahead. I'll catch up with you.",
   "en": "\\bI was going to check out Vast Poni Canyon on the boat over there. Go on ahead. I'll catch up with you.",
-  "it": "\\bStavo per andare a dare un'occhiata al Gran Canyon di Poni con quella barca laggiù. Vai pure avanti. Ti raggiungo."
+  "it": "\\bStavo per andare a dare un'occhiata al Canyon di Poni con quella barca laggiù. Vai pure avanti. Ti raggiungo."
  },
  {
   "id": "\\bGladion: I was going to check out Vast Poni Canyon on the boat over there. Go on ahead. I'll catch up with you.",
   "en": "\\bGladion: I was going to check out Vast Poni Canyon on the boat over there. Go on ahead. I'll catch up with you.",
-  "it": "\\bIridio: Stavo per andare a dare un'occhiata al Gran Canyon di Poni con quella barca laggiù. Vai pure avanti. Ti raggiungo."
+  "it": "\\bIridio: Stavo per andare a dare un'occhiata al Canyon di Poni con quella barca laggiù. Vai pure avanti. Ti raggiungo."
  },
  {
   "id": "\\bTupp: Yo, these radishes are going to be great for luring in all the Oricorio.",
@@ -117,7 +117,7 @@
  {
   "id": "Vast Poni Canyon",
   "en": "Vast Poni Canyon",
-  "it": "Gran Canyon di Poni"
+  "it": "Canyon di Poni"
  },
  {
   "id": "Exit",

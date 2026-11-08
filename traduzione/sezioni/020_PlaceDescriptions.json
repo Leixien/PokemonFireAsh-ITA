@@ -407,12 +407,12 @@
  {
   "id": "Cyllage Gym",
   "en": "Cyllage Gym",
-  "it": "Palestra di Petroglifari"
+  "it": "Palestra di Altoripoli"
  },
  {
   "id": "Reflection Cave",
   "en": "Reflection Cave",
-  "it": "Grotta Riflessi"
+  "it": "Grotta dei Riflessi"
  },
  {
   "id": "Shalour Gym",
@@ -422,7 +422,7 @@
  {
   "id": "Coumarine Gym",
   "en": "Coumarine Gym",
-  "it": "Palestra di Batikopoli"
+  "it": "Palestra di Temperopoli"
  },
  {
   "id": "Laverre Gym",
@@ -432,7 +432,7 @@
  {
   "id": "Frost Cavern",
   "en": "Frost Cavern",
-  "it": "Grotta Gelata"
+  "it": "Caverna Gelata"
  },
  {
   "id": "Anistar Gym",
@@ -447,7 +447,7 @@
  {
   "id": "Terminus Cave",
   "en": "Terminus Cave",
-  "it": "Grotta Capolinea"
+  "it": "Grotta Climax"
  },
  {
   "id": "Snowbelle Gym",
@@ -467,7 +467,7 @@
  {
   "id": "Melemele Meadow",
   "en": "Melemele Meadow",
-  "it": "Prato di Mele Mele"
+  "it": "Prato Mele Mele"
  },
  {
   "id": "Shopping Mall",
@@ -482,17 +482,17 @@
  {
   "id": "Paniola Ranch",
   "en": "Paniola Ranch",
-  "it": "Ranch Paniola"
+  "it": "Fattoria Ohana"
  },
  {
   "id": "Brooklet Hill",
   "en": "Brooklet Hill",
-  "it": "Collina Ruscello"
+  "it": "Collina Scrosciante"
  },
  {
   "id": "Lush Jungle",
   "en": "Lush Jungle",
-  "it": "Foresta Ombrosa"
+  "it": "Giungla Ombrosa"
  },
  {
   "id": "Wela Volcano Park",
@@ -502,12 +502,12 @@
  {
   "id": "Battle Royal Dome",
   "en": "Battle Royal Dome",
-  "it": "Arena Battle Royal"
+  "it": "Stadio Royale"
  },
  {
   "id": "Ruins of Abundance",
   "en": "Ruins of Abundance",
-  "it": "Rovine dell'Abbondanza"
+  "it": "Tempio del Raccolto"
  },
  {
   "id": "Kantonian Gym",
@@ -527,7 +527,7 @@
  {
   "id": "Ruins of Hope",
   "en": "Ruins of Hope",
-  "it": "Rovine della Speranza"
+  "it": "Tempio del Passaggio"
  },
  {
   "id": "Alola Pokemon League",
@@ -537,11 +537,11 @@
  {
   "id": "Altar of the Sunne",
   "en": "Altar of the Sunne",
-  "it": "Altare del Sole"
+  "it": "Altare Solare"
  },
  {
   "id": "Thrifty Megamart",
   "en": "Thrifty Megamart",
-  "it": "Megamarket Parsimonia"
+  "it": "Supermarket Affaroni"
  }
 ]

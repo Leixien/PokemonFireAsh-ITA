@@ -25,8 +25,8 @@ REGOLE = [
     (r"Verdanturf", r"Brunifoglia", "Mentania"),
     (r"Game Corner", r"Sala Giochi", "Casinò"),
     (r"Contest Hall", r"Salone Gare", "Sala Gare"),
-    (r"Royal Avenue", r"Viale Royal", "Viale Reale"),
-    (r"Poni Breaker Coast", r"Costa Frangente di Poni", "Costa Frangiflutti di Poni"),
+    (r"Royal Avenue", r"Viale (Reale|Royal)\b", "Viale Royale"),
+    (r"Poni Breaker Coast", r"Costa (Frangente|Frangiflutti) di Poni", "Scogliera di Poni"),
     (r"Melemele", r"Melemele", "Mele Mele"),
     (r"Masked Royal", r"Royal Mascherato", "Reale Mascherato"),
     # anime / WCS
@@ -52,23 +52,29 @@ REGOLE = [
 
 # Citta' di Kalos: applicate solo se la frase inglese ne nomina una sola,
 # perche' le traduzioni errate si scambiano tra loro.
+# Nomi ufficiali (fonte: PokeAPI, lingua italiana).
 KALOS = {
-    "Camphrier": (r"Romantopoli", "Castel Vanità"),
-    "Coumarine": (r"Altoripoli|Fluxopoli", "Batikopoli"),
-    "Laverre": (r"Batikopoli", "Romantopoli"),
-    "Anistar": (r"Temperopoli", "Fluxopoli"),
-    "Geosenge": (r"Cromleckburgo|Petroglifari", "Cromleburgo"),
-    "Parfum Palace": (r"Palazzo Fragranza", "Palazzo Parfum"),
+    "Camphrier": "Castel Vanità", "Cyllage": "Altoripoli", "Ambrette": "Petroglifari",
+    "Shalour": "Yantaropoli", "Coumarine": "Temperopoli", "Laverre": "Romantopoli",
+    "Anistar": "Fluxopoli", "Kiloude": "Batikopoli", "Geosenge": "Cromleburgo",
+    "Snowbelle": "Fractalopoli", "Dendemille": "Frescovilla", "Couriway": "Ponte Mosaico",
+}
+KALOS_IT = re.compile(r"Castel Vanità|Altoripoli|Petroglifari|Yantaropoli|Temperopoli|Romantopoli|"
+                      r"Fluxopoli|Batikopoli|Cromleckburgo|Cromleburgo|Fractalopoli|Frescovilla")
+EXTRA = {
+    "Parfum Palace": (r"Palazzo (Parfum|Fragranza)", "Reggia Aurea"),
     "Battle Arena": (r"Arena Lotta", "Dojo Lotta"),
 }
 
 
 def kalos(en, it):
     hits = [k for k in KALOS if k in en]
-    if len(hits) != 1:
-        return it
-    pat, sost = KALOS[hits[0]]
-    return re.sub(pat, sost, it)
+    if len(hits) == 1:
+        it = KALOS_IT.sub(KALOS[hits[0]], it)
+    for k, (pat, sost) in EXTRA.items():
+        if k in en:
+            it = re.sub(pat, sost, it)
+    return it
 
 
 ACC = str.maketrans("àèéìòù", "ÀÈÉÌÒÙ")
