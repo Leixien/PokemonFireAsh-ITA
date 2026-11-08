@@ -10,6 +10,11 @@
   "it": "Paradiso Aether"
  },
  {
+  "id": "You are about to enter a battle with an Ultra Beast that will be unobtainable until the post game if it is not caught here. Save?",
+  "en": "You are about to enter a battle with an Ultra Beast that will be unobtainable until the post game if it is not caught here. Save?",
+  "it": "Stai per affrontare un'Ultracreatura che, se non la catturi qui, non sarà ottenibile fino al post-game. Vuoi salvare?"
+ },
+ {
   "id": "\\bFaba: Good, you brought the Cosmog. While I have learned a lot more about it I sadly have to keep it to myself. And take it for myself. Hand it over!",
   "en": "\\bFaba: Good, you brought the Cosmog. While I have learned a lot more about it I sadly have to keep it to myself. And take it for myself. Hand it over!",
   "it": "\\bVicio: Bene, hai portato il Cosmog. Anche se ho scoperto molto di più su di lui, purtroppo devo tenerlo per me. E prenderlo per me. Consegnamelo!"
@@ -23,5 +28,15 @@
   "id": "Exit",
   "en": "Exit",
   "it": "Esci"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
  }
 ]

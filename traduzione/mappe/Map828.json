@@ -20,14 +20,9 @@
   "it": "\\rLa Palestra si trova dentro l'Albero della Promessa. Mi sembra adatto per un Capopalestra di tipo Erba."
  },
  {
-  "id": "\\bI wish we would get rid of the railway and just walk across town like most towns.",
-  "en": "\\bI wish we would get rid of the railway and just walk across town like most towns.",
-  "it": "\\bVorrei che togliessero la ferrovia e che si attraversasse la città a piedi, come nella maggior parte dei posti."
- },
- {
-  "id": "\\rRoute 13 is a harsh desert. How that can be so close I have no idea.",
-  "en": "\\rRoute 13 is a harsh desert. How that can be so close I have no idea.",
-  "it": "\\rIl Percorso 13 è un deserto inospitale. Non ho idea di come possa essere così vicino."
+  "id": "\\rSnivy",
+  "en": "\\rSnivy",
+  "it": "\\rSnivy"
  },
  {
   "id": "Coumarine City Pokémon Gym Leader:\\nRamos",
@@ -40,9 +35,19 @@
   "it": "La vecchia pianta è ancora in fiore!"
  },
  {
-  "id": "\\rSnivy",
-  "en": "\\rSnivy",
-  "it": "\\rSnivy"
+  "id": "\\rRoute 13 is a harsh desert. How that can be so close I have no idea.",
+  "en": "\\rRoute 13 is a harsh desert. How that can be so close I have no idea.",
+  "it": "\\rIl Percorso 13 è un deserto inospitale. Non ho idea di come possa essere così vicino."
+ },
+ {
+  "id": "\\bI wish we would get rid of the railway and just walk across town like most towns.",
+  "en": "\\bI wish we would get rid of the railway and just walk across town like most towns.",
+  "it": "\\bVorrei che togliessero la ferrovia e che si attraversasse la città a piedi, come nella maggior parte dei posti."
+ },
+ {
+  "id": "\\bThis place is too nice. Help me spread some crap around.",
+  "en": "\\bThis place is too nice. Help me spread some crap around.",
+  "it": "\\bQuesto posto è troppo bello. Aiutami a spargere un po' di schifezze in giro."
  },
  {
   "id": "\\bClemont: I've finally caught up to you. I wanted to tell you that the Lumiose Gym is almost finished with the repairs.",
@@ -65,9 +70,14 @@
   "it": "\\bClemont: Credo di aver capito cosa devo fare per prepararmi alla nostra sfida in Palestra. Ci vediamo a Luminopoli."
  },
  {
-  "id": "\\bThis place is too nice. Help me spread some crap around.",
-  "en": "\\bThis place is too nice. Help me spread some crap around.",
-  "it": "\\bQuesto posto è troppo bello. Aiutami a spargere un po' di schifezze in giro."
+  "id": "\\bNido",
+  "en": "\\bNido",
+  "it": "\\bNido"
+ },
+ {
+  "id": "Coumarine City\\nThe city where bay and butte are bound.",
+  "en": "Coumarine City\\nThe city where bay and butte are bound.",
+  "it": "Temperopoli\\nLa città dove baia e altura si incontrano."
  },
  {
   "id": "\\bMy late friend gave this to me. I can't carry it any longer though. I need to move on.",
@@ -78,16 +88,6 @@
   "id": "\\bHis memory will last for me.",
   "en": "\\bHis memory will last for me.",
   "it": "\\bIl suo ricordo resterà con me."
- },
- {
-  "id": "Coumarine City\\nThe city where bay and butte are bound.",
-  "en": "Coumarine City\\nThe city where bay and butte are bound.",
-  "it": "Temperopoli\\nLa città dove baia e altura si incontrano."
- },
- {
-  "id": "\\bNido",
-  "en": "\\bNido",
-  "it": "\\bNido"
  },
  {
   "id": "\\rBonnie: Hi \\PN.",

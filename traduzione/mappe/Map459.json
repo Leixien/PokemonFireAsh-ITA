@@ -1,10 +1,5 @@
 [
  {
-  "id": "Pacifidlog Town\\nWhere the morning sun smiles upon the waters.",
-  "en": "Pacifidlog Town\\nWhere the morning sun smiles upon the waters.",
-  "it": "Orocea\\nDove il sole del mattino sorride sulle acque."
- },
- {
   "id": "\\bI sometimes stop here on my way to visit Wynaut.",
   "en": "\\bI sometimes stop here on my way to visit Wynaut.",
   "it": "\\bA volte mi fermo qui quando vado a trovare Wynaut."
@@ -15,14 +10,14 @@
   "it": "\\bCi ho messo tanto a rimettermi in sesto."
  },
  {
+  "id": "Pacifidlog Town\\nWhere the morning sun smiles upon the waters.",
+  "en": "Pacifidlog Town\\nWhere the morning sun smiles upon the waters.",
+  "it": "Orocea\\nDove il sole del mattino sorride sulle acque."
+ },
+ {
   "id": "Pacifidlog Pokémon Contest Hall",
   "en": "Pacifidlog Pokémon Contest Hall",
   "it": "Sala Gare Pokémon di Orocea"
- },
- {
-  "id": "\\bWhere would you like to go?",
-  "en": "\\bWhere would you like to go?",
-  "it": "\\bDove vorresti andare?"
  },
  {
   "id": "\\bI'm entering the Contest.",
@@ -35,9 +30,9 @@
   "it": "\\bHo proprio bisogno di un fiocco."
  },
  {
-  "id": "\\bI was so excited watching that last concert. It was magical.",
-  "en": "\\bI was so excited watching that last concert. It was magical.",
-  "it": "\\bEro così emozionato a guardare l'ultimo concerto. È stato magico."
+  "id": "\\bWhere would you like to go?",
+  "en": "\\bWhere would you like to go?",
+  "it": "\\bDove vorresti andare?"
  },
  {
   "id": "\\rDon't talk to my boyfriend.",
@@ -48,6 +43,11 @@
   "id": "\\rSorry. I can get jealous sometimes.",
   "en": "\\rSorry. I can get jealous sometimes.",
   "it": "\\rScusa. A volte divento gelosa."
+ },
+ {
+  "id": "\\bI was so excited watching that last concert. It was magical.",
+  "en": "\\bI was so excited watching that last concert. It was magical.",
+  "it": "\\bEro così emozionato a guardare l'ultimo concerto. È stato magico."
  },
  {
   "id": "\\bSpheal",

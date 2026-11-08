@@ -64,3 +64,11 @@ Termini scelti senza certezza che siano quelli ufficiali italiani. Da verificare
 - Testi con interpolazione Ruby (`#{...}`) non sono traducibili tramite messages.dat.
 - Da verificare in gioco: lunghezza dei testi nei menu/finestre (l'italiano è più lungo), scelte `\ch[...]` lunghe.
 - Refusi dell'originale mantenuti: `\Pn` minuscolo, `/PN` al posto di `\PN`.
+
+## Versione 3.7.1 (testi nuovi)
+- Contenuti originali tradotti liberamente: ~200 mosse e ~150 abilità inventate, nuove classi di allenatori, mosse sincro in stile Pokémon Masters.
+- Termini Pokémon Masters scelti: Mossa Allenatore, Mossa B, Mossa Sync, Passiva/Passiva Master, Zona <tipo>, Cura Graduale, Sygna Suit (invariato).
+- Grandeur Club: Sfida Club/Allenamento/Resistenza/Caos/Sync/Duetto/dei Titani, Crediti GC, Scambio Prodigioso.
+- Personaggi lasciati in inglese per mancanza di riscontro: Hilbert, Hilda, Nate, Rosa, Hugh, Cheryl, Buck, Marley, Melony, Gordie, Thorton, Dahlia, Ingo, Emmet, Raihan, personaggi di Leggende Arceus.
+- Nomi Mega di Masters (Megaguanto, Megafascino, Megaspilla, Megapendente, Megancora, Megaocchiali) da verificare.
+- Luoghi di Galar lasciati in inglese (PokeAPI non ha i nomi italiani di Galar).

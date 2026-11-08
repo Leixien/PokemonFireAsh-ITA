@@ -1,10 +1,5 @@
 [
  {
-  "id": "\\bRaichu!",
-  "en": "\\bRaichu!",
-  "it": "\\bRaichu!"
- },
- {
   "id": "\\rDo you know how to find hidden items?",
   "en": "\\rDo you know how to find hidden items?",
   "it": "\\rSai come trovare gli strumenti nascosti?"
@@ -18,6 +13,11 @@
   "id": "\\rYou could also use an Item Finder.",
   "en": "\\rYou could also use an Item Finder.",
   "it": "\\rPuoi anche usare un Cercaoggetti."
+ },
+ {
+  "id": "\\bRaichu!",
+  "en": "\\bRaichu!",
+  "it": "\\bRaichu!"
  },
  {
   "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
@@ -80,16 +80,6 @@
   "it": "\\bNon avrei mai pensato di perdere. Bel lavoro."
  },
  {
-  "id": "\\rI'm always trying to make the best snacks. Please try some.",
-  "en": "\\rI'm always trying to make the best snacks. Please try some.",
-  "it": "\\rCerco sempre di preparare gli spuntini migliori. Assaggiane un po', ti prego."
- },
- {
-  "id": "\\rSugar and I will be here if you want to visit.",
-  "en": "\\rSugar and I will be here if you want to visit.",
-  "it": "\\rIo e Sugar saremo qui, se vuoi passare a trovarci."
- },
- {
   "id": "\\rI need to get away for a while.",
   "en": "\\rI need to get away for a while.",
   "it": "\\rHo bisogno di staccare per un po'."
@@ -98,6 +88,16 @@
   "id": "\\rI know town is close, but it feels nice to be here.",
   "en": "\\rI know town is close, but it feels nice to be here.",
   "it": "\\rLo so che la città è vicina, ma qui si sta bene."
+ },
+ {
+  "id": "\\rI'm always trying to make the best snacks. Please try some.",
+  "en": "\\rI'm always trying to make the best snacks. Please try some.",
+  "it": "\\rCerco sempre di preparare gli spuntini migliori. Assaggiane un po', ti prego."
+ },
+ {
+  "id": "\\rSugar and I will be here if you want to visit.",
+  "en": "\\rSugar and I will be here if you want to visit.",
+  "it": "\\rIo e Sugar saremo qui, se vuoi passare a trovarci."
  },
  {
   "id": "\\rYou'll need at least two Pokémon if you want to battle us.",

@@ -5,14 +5,14 @@
   "it": "\\rQuesta foresta un tempo era fatta di alberi giganti. Ne abbiamo fatto la nostra casa e viviamo in armonia con lei."
  },
  {
-  "id": "\\rPonyta",
-  "en": "\\rPonyta",
-  "it": "\\rPonyta"
- },
- {
   "id": "Ballonlea\\nA charming town where the people make their homes among the trunks of the towering trees.",
   "en": "Ballonlea\\nA charming town where the people make their homes among the trunks of the towering trees.",
   "it": "Ballonlea\\nUn paese incantevole dove la gente vive tra i tronchi di alberi altissimi."
+ },
+ {
+  "id": "\\rPonyta",
+  "en": "\\rPonyta",
+  "it": "\\rPonyta"
  },
  {
   "id": "\\rOpal is a good Gym Leader. I think she's ready to retire though.",
@@ -38,6 +38,11 @@
   "id": "\\bOpal makes cake that is out of this world.",
   "en": "\\bOpal makes cake that is out of this world.",
   "it": "\\bOpal fa delle torte fuori dal mondo."
+ },
+ {
+  "id": "Rotom Phone: Announcement. New scheduled match for the World Coronation Series. The match will take place in the Stow-on-Side Gym against Bea.",
+  "en": "Rotom Phone: Announcement. New scheduled match for the World Coronation Series. The match will take place in the Stow-on-Side Gym against Bea.",
+  "it": "Smart Rotom: Annuncio. Nuovo incontro in programma per le World Coronation Series. L'incontro si terrà nella Palestra di Stow-on-Side contro Fabia."
  },
  {
   "id": "\\bCilan: \\PN. What a wonderful surprise.",
@@ -68,6 +73,16 @@
   "id": "\\bCilan: I'd say we're ready. Let's head in.",
   "en": "\\bCilan: I'd say we're ready. Let's head in.",
   "it": "\\bSpighetto: Direi che siamo pronti. Entriamo."
+ },
+ {
+  "id": "Ballonlea Pokémon Gym Leader:\\nOpal",
+  "en": "Ballonlea Pokémon Gym Leader:\\nOpal",
+  "it": "Capopalestra della Palestra Pokémon di Ballonlea:\\nOpal"
+ },
+ {
+  "id": "The master of a fantastic theater!",
+  "en": "The master of a fantastic theater!",
+  "it": "La maestra di un teatro fantastico!"
  },
  {
   "id": "\\rOpal: You lack pink.",
@@ -143,16 +158,6 @@
   "id": "\\rOpal: You have pink in your heart after all.",
   "en": "\\rOpal: You have pink in your heart after all.",
   "it": "\\rOpal: Dopotutto hai del rosa nel cuore."
- },
- {
-  "id": "Ballonlea Pokémon Gym Leader:\\nOpal",
-  "en": "Ballonlea Pokémon Gym Leader:\\nOpal",
-  "it": "Capopalestra della Palestra Pokémon di Ballonlea:\\nOpal"
- },
- {
-  "id": "The master of a fantastic theater!",
-  "en": "The master of a fantastic theater!",
-  "it": "La maestra di un teatro fantastico!"
  },
  {
   "id": "Pink",

@@ -10,6 +10,16 @@
   "it": "\\bCongratulazioni per aver superato le Eliminatorie. \\nLa tua prossima lotta sarà quella del Girone."
  },
  {
+  "id": "\\bYes! Let's go!",
+  "en": "\\bYes! Let's go!",
+  "it": "\\bSì! Andiamo!"
+ },
+ {
+  "id": "\\bCongratulations on making it through the elimination round. \\nYour next battle will be the Round Robin event and you're allowed battle the trainers you're matched up with in any order you'd like.",
+  "en": "\\bCongratulations on making it through the elimination round. \\nYour next battle will be the Round Robin event and you're allowed battle the trainers you're matched up with in any order you'd like.",
+  "it": "\\bCongratulazioni per aver superato la fase eliminatoria. \\nLa tua prossima lotta sarà il Girone e puoi sfidare gli Allenatori che ti sono stati assegnati nell'ordine che preferisci."
+ },
+ {
   "id": "\\rGood luck!",
   "en": "\\rGood luck!",
   "it": "\\rBuona fortuna!"
@@ -20,6 +30,11 @@
   "it": "\\rBel lavoro."
  },
  {
+  "id": "\\bYou tried your best.",
+  "en": "\\bYou tried your best.",
+  "it": "\\bHai fatto del tuo meglio."
+ },
+ {
   "id": "\\bI can't afford to lose already.",
   "en": "\\bI can't afford to lose already.",
   "it": "\\bNon posso permettermi di perdere già adesso."
@@ -28,5 +43,15 @@
   "id": "\\bI don't want to give up already...",
   "en": "\\bI don't want to give up already...",
   "it": "\\bNon voglio arrendermi così presto..."
+ },
+ {
+  "id": "\\bYou again? I just recently found out that Furret isn't actually a ground type...",
+  "en": "\\bYou again? I just recently found out that Furret isn't actually a ground type...",
+  "it": "\\bAncora tu? Ho appena scoperto che Furret in realtà non è di tipo Terra..."
+ },
+ {
+  "id": "\\bHeh, even if Furret isn't a ground type, so what?",
+  "en": "\\bHeh, even if Furret isn't a ground type, so what?",
+  "it": "\\bEh, anche se Furret non è di tipo Terra, che importa?"
  }
 ]

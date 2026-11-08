@@ -1,15 +1,5 @@
 [
  {
-  "id": "\\bThe ship is not ready yet. Come back later.",
-  "en": "\\bThe ship is not ready yet. Come back later.",
-  "it": "\\bLa nave non è ancora pronta. Torna più tardi."
- },
- {
-  "id": "\\bThe ship is currently under repair. Come back later.",
-  "en": "\\bThe ship is currently under repair. Come back later.",
-  "it": "\\bLa nave è in riparazione. Torna più tardi."
- },
- {
   "id": "\\rBulbasaur",
   "en": "\\rBulbasaur",
   "it": "\\rBulbasaur"
@@ -595,9 +585,19 @@
   "it": "\\rMachop"
  },
  {
+  "id": "\\bThe ship is not ready yet. Come back later.",
+  "en": "\\bThe ship is not ready yet. Come back later.",
+  "it": "\\bLa nave non è ancora pronta. Torna più tardi."
+ },
+ {
   "id": "\\bEnjoy your cruise!",
   "en": "\\bEnjoy your cruise!",
   "it": "\\bBuona crociera!"
+ },
+ {
+  "id": "\\bThe ship is currently under repair. Come back later.",
+  "en": "\\bThe ship is currently under repair. Come back later.",
+  "it": "\\bLa nave è in riparazione. Torna più tardi."
  },
  {
   "id": "\\bGoh: There's a trading event going on in the Pokémon Center. I'm debating if it's worth trading one of mine away.",
@@ -695,6 +695,11 @@
   "it": "Olivinopoli"
  },
  {
+  "id": "Hoenn",
+  "en": "Hoenn",
+  "it": "Hoenn"
+ },
+ {
   "id": "Littleroot",
   "en": "Littleroot",
   "it": "Albanova"
@@ -703,6 +708,11 @@
   "id": "Sinnoh",
   "en": "Sinnoh",
   "it": "Sinnoh"
+ },
+ {
+  "id": "Route 202",
+  "en": "Route 202",
+  "it": "Percorso 202"
  },
  {
   "id": "Hoenn Battle Frontier",

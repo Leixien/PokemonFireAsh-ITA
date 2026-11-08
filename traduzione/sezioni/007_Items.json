@@ -4753,5 +4753,145 @@
   "id": 1002,
   "en": "Zygarde Cube",
   "it": "Teca Zygarde"
+ },
+ {
+  "id": 1003,
+  "en": "Intensity Tonic",
+  "it": "Tonico Intensità"
+ },
+ {
+  "id": 1004,
+  "en": "Vigor Serum",
+  "it": "Siero Vigore"
+ },
+ {
+  "id": 1005,
+  "en": "Dense Extract",
+  "it": "Estratto Denso"
+ },
+ {
+  "id": 1006,
+  "en": "Hidden Stimulant",
+  "it": "Stimolante Celato"
+ },
+ {
+  "id": 1007,
+  "en": "Apex Vaccine",
+  "it": "Vaccino Apice"
+ },
+ {
+  "id": 1008,
+  "en": "Bolt Brew",
+  "it": "Infuso Fulmine"
+ },
+ {
+  "id": 1009,
+  "en": "DNA Code: Breath",
+  "it": "Codice DNA: Respiro"
+ },
+ {
+  "id": 1010,
+  "en": "DNA Code: Grim",
+  "it": "Codice DNA: Cupo"
+ },
+ {
+  "id": 1011,
+  "en": "DNA Code: Wall",
+  "it": "Codice DNA: Muro"
+ },
+ {
+  "id": 1012,
+  "en": "DNA Code: Storm",
+  "it": "Codice DNA: Tempesta"
+ },
+ {
+  "id": 1013,
+  "en": "DNA Code: Dome",
+  "it": "Codice DNA: Cupola"
+ },
+ {
+  "id": 1014,
+  "en": "DNA Code: Shine",
+  "it": "Codice DNA: Splendore"
+ },
+ {
+  "id": 1015,
+  "en": "DNA Code: Luck",
+  "it": "Codice DNA: Fortuna"
+ },
+ {
+  "id": 1016,
+  "en": "Grandeur Club Pad",
+  "it": "Pad del Grandeur Club"
+ },
+ {
+  "id": 1017,
+  "en": "Crit Claw",
+  "it": "Artiglio Critico"
+ },
+ {
+  "id": 1018,
+  "en": "Life Orb",
+  "it": "Assorbisfera"
+ },
+ {
+  "id": 1019,
+  "en": "Legend Plate",
+  "it": "Lastraleggenda"
+ },
+ {
+  "id": 1020,
+  "en": "Lucarionite",
+  "it": "Lucarite"
+ },
+ {
+  "id": 1021,
+  "en": "Virus Code: Breathtaker",
+  "it": "Codice Virus: Soffocante"
+ },
+ {
+  "id": 1022,
+  "en": "Virus Code: Frailty",
+  "it": "Codice Virus: Gracilità"
+ },
+ {
+  "id": 1023,
+  "en": "Virus Code: Fragility",
+  "it": "Codice Virus: Fragilità"
+ },
+ {
+  "id": 1024,
+  "en": "Virus Code: Distortion",
+  "it": "Codice Virus: Distorsione"
+ },
+ {
+  "id": 1025,
+  "en": "Virus Code: Nihility",
+  "it": "Codice Virus: Nullità"
+ },
+ {
+  "id": 1026,
+  "en": "Virus Code: Dull",
+  "it": "Codice Virus: Ottusità"
+ },
+ {
+  "id": 1027,
+  "en": "VIP Backstage Pass",
+  "it": "Pass VIP Backstage"
+ },
+ {
+  "id": 1028,
+  "en": "Grandeur Club Staff Pass",
+  "it": "Pass Staff Grandeur Club"
+ },
+ {
+  "id": 1029,
+  "en": "Shiny Spray",
+  "it": "Spray Cromatico"
+ },
+ {
+  "id": 1030,
+  "en": "Common Candy",
+  "it": "Caramella Comune"
  }
 ]

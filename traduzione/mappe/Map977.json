@@ -1,13 +1,13 @@
 [
  {
-  "id": "\\rMarnie: I'm rooting for you.",
-  "en": "\\rMarnie: I'm rooting for you.",
-  "it": "\\rMary: Faccio il tifo per te."
- },
- {
   "id": "Spikemuth Pokémon Gym Leader:\\nPiers",
   "en": "Spikemuth Pokémon Gym Leader:\\nPiers",
   "it": "Capopalestra di Spikemuth:\\nGinepro"
+ },
+ {
+  "id": "\\rMarnie: I'm rooting for you.",
+  "en": "\\rMarnie: I'm rooting for you.",
+  "it": "\\rMary: Faccio il tifo per te."
  },
  {
   "id": "\\bMiss Marnie is the best.",
@@ -20,6 +20,11 @@
   "it": "\\bSpikemuth diventerà famosa quando la signorina Mary vincerà."
  },
  {
+  "id": "\\bObstagoon",
+  "en": "\\bObstagoon",
+  "it": "\\bObstagoon"
+ },
+ {
   "id": "\\bPiers uses Dark type Pokémon. They are weak aganst the Bug, Fighting, and Fairy types.",
   "en": "\\bPiers uses Dark type Pokémon. They are weak aganst the Bug, Fighting, and Fairy types.",
   "it": "\\bGinepro usa Pokémon di tipo Buio. Sono deboli contro i tipi Coleottero, Lotta e Folletto."
@@ -30,29 +35,24 @@
   "it": "\\bSono forti contro Psico e Spettro.  Anche le mosse di tipo Spettro e Buio non fanno molti danni. In più sono immuni al tipo Psico."
  },
  {
-  "id": "\\bObstagoon",
-  "en": "\\bObstagoon",
-  "it": "\\bObstagoon"
- },
- {
   "id": "\\bToxtricity!",
   "en": "\\bToxtricity!",
   "it": "\\bToxtricity!"
  },
  {
+  "id": "\\rYou're not as good as Miss Marnie.",
+  "en": "\\rYou're not as good as Miss Marnie.",
+  "it": "\\rNon sei al livello di Miss Mary."
+ },
+ {
+  "id": "\\rYou'll never beat her.",
+  "en": "\\rYou'll never beat her.",
+  "it": "\\rNon la batterai mai."
+ },
+ {
   "id": "\\rLinoone",
   "en": "\\rLinoone",
   "it": "\\rLinoone"
- },
- {
-  "id": "\\bYou're not as good as Miss Marnie.",
-  "en": "\\bYou're not as good as Miss Marnie.",
-  "it": "\\bNon sei brava come la signorina Mary."
- },
- {
-  "id": "\\bYou'll never beat her.",
-  "en": "\\bYou'll never beat her.",
-  "it": "\\bNon la batterai mai."
  },
  {
   "id": "\\bYou think you're good enough.",
@@ -65,6 +65,11 @@
   "it": "\\bNon ti credo."
  },
  {
+  "id": "\\bRilla",
+  "en": "\\bRilla",
+  "it": "\\bRilla"
+ },
+ {
   "id": "\\bGet out of our town.",
   "en": "\\bGet out of our town.",
   "it": "\\bVattene dalla nostra città."
@@ -75,11 +80,6 @@
   "it": "\\bTu non sei dei nostri."
  },
  {
-  "id": "\\bRilla",
-  "en": "\\bRilla",
-  "it": "\\bRilla"
- },
- {
   "id": "\\bWho are you?",
   "en": "\\bWho are you?",
   "it": "\\bChi sei?"
@@ -88,11 +88,6 @@
   "id": "\\bHow are you so strong?",
   "en": "\\bHow are you so strong?",
   "it": "\\bCome fai a essere così forte?"
- },
- {
-  "id": "Spikemuth\\nThis rocking town has a punk vibe and streets crammed with shops lined up cheek by jowl.",
-  "en": "Spikemuth\\nThis rocking town has a punk vibe and streets crammed with shops lined up cheek by jowl.",
-  "it": "Spikemuth\\nQuesta città rock ha un'anima punk e strade gremite di negozi stipati uno accanto all'altro."
  },
  {
   "id": "\\bPiers: Hey there. We don't see many visitors around here. I'm Piers, the Gym Leader of this town.",
@@ -118,6 +113,11 @@
   "id": "\\bPiers: I see you came back. Thanks to your battle, people from all over have been stopping by.",
   "en": "\\bPiers: I see you came back. Thanks to your battle, people from all over have been stopping by.",
   "it": "\\bGinepro: Vedo che sei tornato. Grazie alla tua lotta, qui passa gente da ogni dove."
+ },
+ {
+  "id": "Spikemuth\\nThis rocking town has a punk vibe and streets crammed with shops lined up cheek by jowl.",
+  "en": "Spikemuth\\nThis rocking town has a punk vibe and streets crammed with shops lined up cheek by jowl.",
+  "it": "Spikemuth\\nQuesta città rock ha un'anima punk e strade gremite di negozi stipati uno accanto all'altro."
  },
  {
   "id": "\\bYou're weak.",

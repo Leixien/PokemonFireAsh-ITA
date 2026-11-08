@@ -5,14 +5,14 @@
   "it": "\\bPronto ad andare alla Meridiana di Fluxopoli?"
  },
  {
-  "id": "\\bOlympia is a master of Psychic types. Winning against her is impossible.",
-  "en": "\\bOlympia is a master of Psychic types. Winning against her is impossible.",
-  "it": "\\bOlympia è una maestra dei tipi Psico. Batterla è impossibile."
- },
- {
   "id": "...",
   "en": "...",
   "it": "..."
+ },
+ {
+  "id": "\\bOlympia is a master of Psychic types. Winning against her is impossible.",
+  "en": "\\bOlympia is a master of Psychic types. Winning against her is impossible.",
+  "it": "\\bOlympia è una maestra dei tipi Psico. Batterla è impossibile."
  },
  {
   "id": "\\bOlympia said she was waiting at the Anistar Sundial for a Trainer. The gym is closed until then.",
@@ -20,19 +20,14 @@
   "it": "\\bOlympia ha detto che aspettava un Allenatore alla Meridiana di Fluxopoli. Fino ad allora la Palestra resta chiusa."
  },
  {
-  "id": "\\rWill my lover ever return to me?",
-  "en": "\\rWill my lover ever return to me?",
-  "it": "\\rIl mio amato tornerà mai da me?"
- },
- {
   "id": "\\rAudino",
   "en": "\\rAudino",
   "it": "\\rAudino"
  },
  {
-  "id": "\\bOlympia is not ready for you to leave.",
-  "en": "\\bOlympia is not ready for you to leave.",
-  "it": "\\bOlympia non è pronta a lasciarti andare."
+  "id": "\\rWill my lover ever return to me?",
+  "en": "\\rWill my lover ever return to me?",
+  "it": "\\rIl mio amato tornerà mai da me?"
  },
  {
   "id": "\\bWild Pokémon annoy you, don't they? Of course they do!",
@@ -43,6 +38,11 @@
   "id": "\\bSave yourself some time and use it.",
   "en": "\\bSave yourself some time and use it.",
   "it": "\\bRisparmia un po' di tempo e usalo."
+ },
+ {
+  "id": "\\bOlympia is not ready for you to leave.",
+  "en": "\\bOlympia is not ready for you to leave.",
+  "it": "\\bOlympia non è pronta a lasciarti andare."
  },
  {
   "id": "Anistar City\\nThe starry city marking the hours.",
@@ -80,14 +80,14 @@
   "it": "\\rTi permetterà di far megaevolvere un Audino."
  },
  {
-  "id": "\\bOlympia has been warning of some dangerous event in the future. I'm a little worried.",
-  "en": "\\bOlympia has been warning of some dangerous event in the future. I'm a little worried.",
-  "it": "\\bAstra continua a mettere in guardia su un evento pericoloso nel futuro. Sono un po' preoccupato."
- },
- {
   "id": "\\bSolosis",
   "en": "\\bSolosis",
   "it": "\\bSolosis"
+ },
+ {
+  "id": "\\bOlympia has been warning of some dangerous event in the future. I'm a little worried.",
+  "en": "\\bOlympia has been warning of some dangerous event in the future. I'm a little worried.",
+  "it": "\\bAstra continua a mettere in guardia su un evento pericoloso nel futuro. Sono un po' preoccupato."
  },
  {
   "id": "Yes",

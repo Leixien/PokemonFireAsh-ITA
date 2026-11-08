@@ -230,6 +230,11 @@
   "it": "\\rEhm, ti serve qualcosa? Che tipo strano..."
  },
  {
+  "id": "\\bI wanted to enter the contest. I got too scared in the end...",
+  "en": "\\bI wanted to enter the contest. I got too scared in the end...",
+  "it": "\\bVolevo partecipare alla Gara. Alla fine mi sono fatto prendere dalla paura..."
+ },
+ {
   "id": "\\bI've seen your performance. This should be easy.",
   "en": "\\bI've seen your performance. This should be easy.",
   "it": "\\bHo visto la tua esibizione. Sarà una passeggiata."
@@ -245,16 +250,6 @@
   "it": "\\rGrazie per aver partecipato. Accetta questo come premio di partecipazione."
  },
  {
-  "id": "\\bI wanted to enter the contest. I got too scared in the end...",
-  "en": "\\bI wanted to enter the contest. I got too scared in the end...",
-  "it": "\\bVolevo partecipare alla Gara. Alla fine mi sono fatto prendere dalla paura..."
- },
- {
-  "id": "\\bThe contest lets you use the ribbon in any region. What a lucky item that is to have.",
-  "en": "\\bThe contest lets you use the ribbon in any region.  What a lucky item that is to have.",
-  "it": "\\bIl fiocco della Gara si può usare in qualsiasi regione. Che fortuna averne uno."
- },
- {
   "id": "\\bAh, \\PN, a pleasure to meet you again. Perhaps we have time for a quick battle.",
   "en": "\\bAh, \\PN, a pleasure to meet you again. Perhaps we have time for a quick battle.",
   "it": "\\bAh, \\PN, che piacere rivederti. Forse abbiamo tempo per una lotta veloce."
@@ -263,6 +258,11 @@
   "id": "\\bWish me luck in the Contest. I will hopefully see you at the Sinnoh League.",
   "en": "\\bWish me luck in the Contest. I will hopefully see you at the Sinnoh League.",
   "it": "\\bAugurami buona fortuna per la Gara. Spero di rivederti alla Lega di Sinnoh."
+ },
+ {
+  "id": "\\bThe contest lets you use the ribbon in any region. What a lucky item that is to have.",
+  "en": "\\bThe contest lets you use the ribbon in any region.  What a lucky item that is to have.",
+  "it": "\\bIl fiocco della Gara si può usare in qualsiasi regione. Che fortuna averne uno."
  },
  {
   "id": "Yes",

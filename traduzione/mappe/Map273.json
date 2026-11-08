@@ -5,16 +5,6 @@
   "it": "\\bSlo!!"
  },
  {
-  "id": "\\bKurt has been making Apricorns for decades.",
-  "en": "\\bKurt has been making Apricorns for decades.",
-  "it": "\\bKurt crea Ball dalle Ghicocche da decenni."
- },
- {
-  "id": "\\bBring him some Apricorns if you want special balls to help in your capturing.",
-  "en": "\\bBring him some Apricorns if you want special balls to help in your capturing.",
-  "it": "\\bPortagli qualche Ghicocca se vuoi delle Ball speciali che ti aiutino nelle catture."
- },
- {
   "id": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Cancel]",
   "en": "\\rMy Slowpoke can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Cancel]",
   "it": "\\rIl mio Slowpoke può teletrasportarti.\\ch[1,-1,Fiorpescopoli, Violapoli,Annulla]"
@@ -113,6 +103,16 @@
   "id": "\\rChansey",
   "en": "\\rChansey",
   "it": "\\rChansey"
+ },
+ {
+  "id": "\\bKurt has been making Apricorns for decades.",
+  "en": "\\bKurt has been making Apricorns for decades.",
+  "it": "\\bKurt crea Ball dalle Ghicocche da decenni."
+ },
+ {
+  "id": "\\bBring him some Apricorns if you want special balls to help in your capturing.",
+  "en": "\\bBring him some Apricorns if you want special balls to help in your capturing.",
+  "it": "\\bPortagli qualche Ghicocca se vuoi delle Ball speciali che ti aiutino nelle catture."
  },
  {
   "id": "Yes",

@@ -759,6 +759,102 @@ Moves	Fishious Rend	Branchiomorso
 Moves	Life Dew	Goccia Vitale
 Moves	Surging Strikes	Idroraffica
 Moves	Flip Turn	Virata
+Moves	Dire Claw	Artigli Fatali
+Moves	Psyshield Bash	Barrierassalto
+Moves	Power Shift	Scambioforza
+Moves	Stone Axe	Rocciascure
+Moves	Springtide Storm	Tempesta Zefirea
+Moves	Mystical Power	Forza Mistica
+Moves	Raging Fury	Ira Furente
+Moves	Wave Crash	Ondaschianto
+Moves	Chloroblast	Clorofillaser
+Moves	Mountain Gale	Soffio d'Iceberg
+Moves	Victory Dance	Danzavittoria
+Moves	Headlong Rush	Scontro Frontale
+Moves	Barb Barrage	Mille Fielespine
+Moves	Esper Wing	Ali d'Aura
+Moves	Bitter Malice	Livore
+Moves	Shelter	Barricata
+Moves	Triple Arrows	Triplodardo
+Moves	Infernal Parade	Corteo Spettrale
+Moves	Ceaseless Edge	Lama Milleflutti
+Moves	Bleakwind Storm	Tempesta Boreale
+Moves	Wildbolt Storm	Tempesta Tonante
+Moves	Sandsear Storm	Tempesta Ardente
+Moves	Lunar Blessing	Invocaluna
+Moves	Take Heart	Baldimpulso
+Moves	Trailblaze	Apripista
+Moves	Pounce	Balzo
+Moves	Ice Spinner	Vortighiaccio
+Moves	Chilling Water	Doccia Fredda
+Moves	1000000 Sever	1000000 Tagli
+Moves	Disarm	Disarmo
+Moves	Bloodshed Joust	Giostra Cruenta
+Moves	Conqueor's Aura	Aura del Conquistatore
+Moves	Tainted Flakes	Fiocchi Infetti
+Moves	Cryo Cage	Criogabbia
+Moves	Glacial Road	Via Glaciale
+Moves	Hunger Times	Tempi di Fame
+Moves	Negation: Physical	Negazione: Fisica
+Moves	Negation: Special	Negazione: Speciale
+Moves	Negation: Status	Negazione: Stato
+Moves	UUDDLRLRBAS	UUDDLRLRBAS
+Moves	Stormcall Blitz	Assalto Tempesta
+Moves	Roaring Torrents	Torrenti Ruggenti
+Moves	Doomsfall	Caduta Fatale
+Moves	Blue Barrage	Raffica Blu
+Moves	Draconic Fume	Fumo Draconico
+Moves	Forbidden Cry	Grido Proibito
+Moves	Black Plague	Peste Nera
+Moves	Burial Ground	Cimitero
+Moves	Life Force Nuke	Bomba Vitale
+Moves	Phalanx Seal	Sigillo Falange
+Moves	Devil's Room	Stanza del Diavolo
+Moves	Tera Scramble	Teramischia
+Moves	World-Ending Judgment	Giudizio Finale
+Moves	Ghostly Stealth Rock	Levitoroccia Spettrale
+Moves	Multi-Coloured Spikes	Punte Multicolori
+Moves	Giga Explosion	Gigaesplosione
+Moves	Spirit Bomb Aura Sphere	Genkidama Forzasfera
+Moves	G-Max Aura Sphere	G-Max Forzasfera
+Moves	Z Aura Sphere	Forzasfera Z
+Moves	Dismantle	Smantella
+Moves	Cleave	Fendente
+Moves	Hollow Purple Spacial Rend	Viola Cavo Fendispazio
+Moves	GG Giga Impact	GG Gigaimpatto
+Moves	Roar of Za Warudo's Time	Fragortempo Za Warudo
+Moves	Singularity Point	Punto di Singolarità
+Moves	Infinite Extreme Speed	Extrarapido Infinito
+Moves	Heavenly Dash	Scatto Celeste
+Moves	Crazy Diamond	Crazy Diamond
+Moves	The Hand	The Hand
+Moves	Heaven's Door	Heaven's Door
+Moves	S. Heart Attack	S. Heart Attack
+Moves	Purple Haze	Purple Haze
+Moves	White Album	White Album
+Moves	Metallica	Metallica
+Moves	Notorious B.I.G.	Notorious B.I.G.
+Moves	Love Train	Love Train
+Moves	Ball Breaker	Ball Breaker
+Moves	Silent Way	Silent Way
+Moves	Scary Monster	Scary Monster
+Moves	Speed King	Speed King
+Moves	Fun Fun Fun	Fun Fun Fun
+Moves	Soft & Wet	Soft & Wet
+Moves	Vitamin C	Vitamin C
+Moves	Normal Wish	Desiderio Normale
+Moves	Ice Wish	Desiderio Ghiaccio
+Moves	Fighting Wish	Desiderio Lotta
+Moves	Poison Wish	Desiderio Veleno
+Moves	Ground Wish	Desiderio Terra
+Moves	Flying Wish	Desiderio Volante
+Moves	Bug Wish	Desiderio Coleottero
+Moves	Rock Wish	Desiderio Roccia
+Moves	Ghost Wish	Desiderio Spettro
+Moves	Dragon Wish	Desiderio Drago
+Moves	Dark Wish	Desiderio Buio
+Moves	Steel Wish	Desiderio Acciaio
+Moves	Fairy Wish	Desiderio Folletto
 Moves	Breakneck Blitz	Carica Travolgente
 Moves	All-Out Pummeling	Iperscarica Furiosa
 Moves	Supersonic Skystrike	Picchiata Devastante
@@ -846,30 +942,147 @@ Moves	G-Max Cuddle	Gigabbraccio
 Moves	G-Max Meltdown	Gigafusione
 Moves	G-Max One Blow	Gigacolpo Unico
 Moves	G-Max Rapid Flow	Gigacolpo Fluido
-Moves	Dire Claw	Artigli Fatali
-Moves	Psyshield Bash	Barrierassalto
-Moves	Power Shift	Scambioforza
-Moves	Stone Axe	Rocciascure
-Moves	Springtide Storm	Tempesta Zefirea
-Moves	Mystical Power	Forza Mistica
-Moves	Raging Fury	Ira Furente
-Moves	Wave Crash	Ondaschianto
-Moves	Chloroblast	Clorofillaser
-Moves	Mountain Gale	Soffio d'Iceberg
-Moves	Victory Dance	Danzavittoria
-Moves	Headlong Rush	Scontro Frontale
-Moves	Barb Barrage	Mille Fielespine
-Moves	Esper Wing	Ali d'Aura
-Moves	Bitter Malice	Livore
-Moves	Shelter	Barricata
-Moves	Triple Arrows	Triplodardo
-Moves	Infernal Parade	Corteo Spettrale
-Moves	Ceaseless Edge	Lama Milleflutti
-Moves	Bleakwind Storm	Tempesta Boreale
-Moves	Wildbolt Storm	Tempesta Tonante
-Moves	Sandsear Storm	Tempesta Ardente
-Moves	Lunar Blessing	Invocaluna
-Moves	Take Heart	Baldimpulso
+Moves	Rock-Solid Finisher!	Finale di Roccia!
+Moves	Go with the Flow!	Segui la Corrente!
+Moves	Soak up the Sun!	Goditi il Sole!
+Moves	My Destiny!	Il Mio Destino!
+Moves	Spark of Victory!	Scintilla di Vittoria!
+Moves	Believe!	Credici!
+Moves	This is it!	Ci Siamo!
+Moves	Voice of the Forest!	Voce della Foresta!
+Moves	Spring of Knowledge!	Fonte di Sapere!
+Moves	I Won't Leave You!	Non Ti Lascerò!
+Moves	Flying Free!	Volo Libero!
+Moves	Fired Up!	Carichissimo!
+Moves	Try This!	Prova Questa!
+Moves	Attack!	All'Attacco!
+Moves	Faster!	Più Veloce!
+Moves	Defend!	In Difesa!
+Moves	I Won't Fall Behind!	Non Resterò Indietro!
+Moves	Perpetual Nightmare!	Incubo Eterno!
+Moves	Eyes on the Prize!	Occhi sul Premio!
+Moves	Show Me Your Secrets!	Svelami i Segreti!
+Moves	It Won't End Here!	Non Finisce Qui!
+Moves	Sweet Dreams!	Sogni d'Oro!
+Moves	Breathtaking!	Mozzafiato!
+Moves	Sink or Swim!	O la Va o la Spacca!
+Moves	For the Win!	Per la Vittoria!
+Moves	Perfect Aim!	Mira Perfetta!
+Moves	My Formula!	La Mia Formula!
+Moves	Poison on Stage!	Veleno in Scena!
+Moves	Feel Our Feelings!	Senti il Nostro Cuore!
+Moves	Greater Heights!	Sempre Più in Alto!
+Moves	The Curtain Rises!	Si Alza il Sipario!
+Moves	Blazing Belief!	Fede Ardente!
+Moves	Luminous Love!	Amore Luminoso!
+Moves	Maximum Power!	Potenza Massima!
+Moves	Cast the Line!	Lancia la Lenza!
+Moves	Now I'm Angry!	Ora Sono Arrabbiato!
+Moves	Pretty as a Painting!	Bello come un Quadro!
+Moves	My Soul is Shaking!	L'Anima Mi Trema!
+Moves	Eternal Power!	Potere Eterno!
+Moves	The Show Begins!	Che lo Show Abbia Inizio!
+Moves	The Train is Leaving!	Il Treno Parte!
+Moves	Aim for Victory!	Punta alla Vittoria!
+Moves	World of Pain!	Mondo di Dolore!
+Moves	Endless Ambition!	Ambizione Infinita!
+Moves	To the Top!	Fino in Cima!
+Moves	Mega Healing!	Megacura!
+Moves	Flow Like Water!	Fluisci come l'Acqua!
+Moves	Shining Moonlight!	Chiaro di Luna Splendente!
+Moves	Truth Will Prevail!	La Verità Vincerà!
+Moves	Sky High!	Alle Stelle!
+Moves	Best Friends!	Migliori Amici!
+Moves	Ready for Takeoff!	Pronti al Decollo!
+Moves	Can't Be Tamed!	Indomabile!
+Moves	Glory of Tommorow!	Gloria del Domani!
+Moves	Glory of Understanding!	Gloria della Comprensione!
+Moves	Triumphant Spirit!	Spirito Trionfante!
+Moves	Triumphant Research!	Ricerca Trionfante!
+Moves	Triumphant Tenacity!	Tenacia Trionfante!
+Moves	Glory of the Winning Path!	Gloria della Via Vincente!
+Moves	Glory of the Flame!	Gloria della Fiamma!
+Moves	Glory of Leadership!	Gloria del Comando!
+Moves	Glory of the Challenge!	Gloria della Sfida!
+Moves	Ode to Glory!	Ode alla Gloria!
+Moves	Eyes on Glory!	Occhi sulla Gloria!
+Moves	Thoughts of Glory	Pensieri di Gloria
+Moves	First Step to Glory	Primo Passo verso la Gloria
+Moves	Starry Sky of Glory	Cielo Stellato di Gloria
+Moves	Blue Sky of Glory	Cielo Azzurro di Gloria
+Moves	Sunward Glory	Gloria Solare
+Moves	Moonlit Glory	Gloria Lunare
+Moves	Superior Aura Sphere	Forzasfera Superiore
+Moves	Origin Volt Tackle	Locomovolt Originale
+Moves	Ultimate Dazzling Gleam	Magibrillio Supremo
+Moves	Resonating Noble Roar	Urlo Risonante
+Moves	Pink Diamond Storm	Diamantempesta Rosa
+Moves	Heat Hydro Pump	Idropompa Ardente
+Moves	Wild Electroweb	Elettrotela Selvaggia
+Moves	Neo Psycho Cut	Neo Psicotaglio
+Moves	Unbreakable Swords Dance	Danzaspada Infrangibile
+Moves	Sea Deity Protect	Protezione Dio del Mare
+Moves	Crushing Triple Axel	Triplo Axel Schiacciante
+Moves	Frenzied Sludge Wave	Fangonda Frenetica
+Moves	Sorrowful Echos Overdrive	Overdrive dell'Eco Dolente
+Moves	Piercing Fleur Cannon	Cannonfiore Perforante
+Moves	Rising Flames Hex	Sciagura delle Fiamme Ascendenti
+Moves	Descending Lightning Wild Charge	Sprizzalampo del Fulmine Discendente
+Moves	Guzzling Swallow	Introenergia Ingorda
+Moves	Gorging Crunch	Sgranocchio Vorace
+Moves	Boundless Quick Attack	Attacco Rapido Illimitato
+Moves	Transformational Double Team	Doppioteam Trasformista
+Moves	Fierce Fiery Wrath	Furia Ardente Feroce
+Moves	Roaring Thunderous Kick	Calcio Tonante Ruggente
+Moves	Intimidating Freezing Glare	Sguardo Gelido Intimidatorio
+Moves	Frozen Wings Ice Beam	Geloraggio delle Ali Gelate
+Moves	Thundering Wings Roost	Trespolo delle Ali Tonanti
+Moves	Fiery Wings Flare Blitz	Fuococarica delle Ali Ardenti
+Moves	Dark Black Outrage	Oltraggio Nero Tenebra
+Moves	Relic Song of Wonder	Cantoantico Meraviglioso
+Moves	Massive Rock Slide	Frana Colossale
+Moves	Black Gale Bleakwind Storm	Tempesta Boreale Bufera Nera
+Moves	White Light Sacred Sword	Spadasolenne Luce Bianca
+Moves	Blue Origin Pulse	Primopulsar Blu
+Moves	Red Precipice Blades	Spade Telluriche Rosse
+Moves	Solar Sunsteel Strike	Astrocarica Solare
+Moves	Lunar Moongeist Beam	Raggio d'Ombra Lunare
+Moves	Greatest Battle!	La Lotta Suprema!
+Moves	We're the Strongest!	Siamo i Più Forti!
+Moves	Let's Get Serious!	Facciamo sul Serio!
+Moves	Passion Ablaze!	Passione Ardente!
+Moves	Behold My Love!	Ammira il Mio Amore!
+Moves	We Are One!	Siamo Una Cosa Sola!
+Moves	Pure and Strong!	Puro e Forte!
+Moves	Shining Soul!	Anima Splendente!
+Moves	I'll Tell You!	Te lo Dico Io!
+Moves	Rock-Hard Bond!	Legame di Roccia!
+Moves	Endure and Attack!	Resisti e Attacca!
+Moves	Almighty Rending Earthquake	Terremoto Squarciante Onnipotente
+Moves	Catacylsmic Divine Earthquake	Terremoto Divino Cataclismico
+Moves	Almighty Flash Bullet Punch	Pugnoscarica Lampo Onnipotente
+Moves	Polished Steel Divine Meteor Mash	Meteorpugno Divino d'Acciaio Lucente
+Moves	Almighty Roar Hyper Beam	Iper Raggio Ruggito Onnipotente
+Moves	Heroic Ascension Divine Outrage	Oltraggio Divino Ascesa Eroica
+Moves	Almighty Fire Blast	Fuocobomba Onnipotente
+Moves	Fiery Determination Divine Fire Blast	Fuocobomba Divino Volontà Ardente
+Moves	Almighty Obsidian Night Daze	Urtoscuro Ossidiana Onnipotente
+Moves	Shape-Shifting Divine Night Daze	Urtoscuro Divino Mutaforma
+Moves	Almighty Sun Hyper Beam	Iper Raggio Solare Onnipotente
+Moves	Unmatched Talent Divine Bug Buzz	Ronzio Divino Talento Unico
+Moves	Almighty Skies Sacred Fire	Magifuoco dei Cieli Onnipotente
+Moves	Golden Rule Divine Sacred Fire	Magifuoco Divino Regola d'Oro
+Moves	Almighty Seas Aeroblast	Aerocolpo dei Mari Onnipotente
+Moves	Silver Torrents Divine Aeroblast	Aerocolpo Divino Torrenti d'Argento
+Moves	Sacred Hurricane	Tifone Sacro
+Moves	Almighty Air Slash	Eterelama Onnipotente
+Moves	Blue Beyond the Clouds Almighty Hurricane	Tifone Onnipotente Azzurro oltre le Nubi
+Moves	Almighty Rock Slide	Frana Onnipotente
+Moves	Almighty Stone Edge	Pietrataglio Onnipotente
+Moves	Unbreakable Loyalty Divine Rock Slide	Frana Divina Lealtà Infrangibile
+Moves	Almighty Bubble Beam	Bollaraggio Onnipotente
+Moves	Almighty Hydro Pump	Idropompa Onnipotente
+Moves	Piercing Droplets Divine Bubble Beam	Bollaraggio Divino Gocce Perforanti
 Items	Repel	Repellente
 Items	Super Repel	Superrepellente
 Items	Max Repel	Repellente Max
@@ -1810,6 +2023,32 @@ Items	Peat Block	Blocco di Torba
 Items	Blank Plate	Lastraripristino
 Items	Rotomi	Rotomi
 Items	Zygarde Cube	Teca Zygarde
+Items	Intensity Tonic	Tonico Intensità
+Items	Vigor Serum	Siero Vigore
+Items	Dense Extract	Estratto Denso
+Items	Hidden Stimulant	Stimolante Celato
+Items	Apex Vaccine	Vaccino Apice
+Items	Bolt Brew	Infuso Fulmine
+Items	DNA Code: Breath	Codice DNA: Respiro
+Items	DNA Code: Grim	Codice DNA: Cupo
+Items	DNA Code: Wall	Codice DNA: Muro
+Items	DNA Code: Storm	Codice DNA: Tempesta
+Items	DNA Code: Dome	Codice DNA: Cupola
+Items	DNA Code: Shine	Codice DNA: Splendore
+Items	DNA Code: Luck	Codice DNA: Fortuna
+Items	Grandeur Club Pad	Pad del Grandeur Club
+Items	Crit Claw	Artiglio Critico
+Items	Legend Plate	Lastraleggenda
+Items	Virus Code: Breathtaker	Codice Virus: Soffocante
+Items	Virus Code: Frailty	Codice Virus: Gracilità
+Items	Virus Code: Fragility	Codice Virus: Fragilità
+Items	Virus Code: Distortion	Codice Virus: Distorsione
+Items	Virus Code: Nihility	Codice Virus: Nullità
+Items	Virus Code: Dull	Codice Virus: Ottusità
+Items	VIP Backstage Pass	Pass VIP Backstage
+Items	Grandeur Club Staff Pass	Pass Staff Grandeur Club
+Items	Shiny Spray	Spray Cromatico
+Items	Common Candy	Caramella Comune
 Abilities	Stench	Tanfo
 Abilities	Drizzle	Piovischio
 Abilities	Speed Boost	Acceleratore
@@ -2076,6 +2315,161 @@ Abilities	Dragon's Maw	Dragomascelle
 Abilities	Chilling Neigh	Nitrito Bianco
 Abilities	Grim Neigh	Nitrito Nero
 Abilities	As One	Sintonia Equina
+Abilities	Cynthia's Aura	Aura di Camilla
+Abilities	Scorching Touch	Tocco Rovente
+Abilities	Fairy Kingdom	Regno Fatato
+Abilities	Lightning Legs	Gambe Fulminee
+Abilities	Conniving Wings	Ali Subdole
+Abilities	Good as Gold	Corpo Aureo
+Abilities	Chivalrous Will	Spirito Cavalleresco
+Abilities	Diamond Skin	Pelle di Diamante
+Abilities	Destiny Reaping	Mietidestino
+Abilities	Weather Havoc	Caos Meteo
+Abilities	Looming Frailty	Fragilità Incombente
+Abilities	Focus Will	Volontà Focus
+Abilities	Awaken	Risveglio
+Abilities	Phoenix Revival	Rinascita Fenice
+Abilities	Phoenix Release	Rilascio Fenice
+Abilities	King of Space	Re dello Spazio
+Abilities	Infinite Space	Spazio Infinito
+Abilities	Mountain Crusher	Frantumamonti
+Abilities	Life Sucker	Succhiavita
+Abilities	Bites the Dust	Bites the Dust
+Abilities	Epitaph	Epitaph
+Abilities	Time Acceleration	Accelera Tempo
+Abilities	Parallel Protection	Protezione Parallela
+Abilities	Calamatic Misfortune	Sventura Calamitosa
+Abilities	Earth of Sinnoh	Terra di Sinnoh
+Abilities	Draco of Johto	Drago di Johto
+Abilities	Iron of Hoenn	Ferro di Hoenn
+Abilities	Flame of Galar	Fiamma di Galar
+Abilities	Dread of Unova	Terrore di Unima
+Abilities	Insect of Unova	Insetto di Unima
+Abilities	Flame of Johto	Fiamma di Johto
+Abilities	Sky of Johto	Cielo di Johto
+Abilities	Sky of Kanto	Cielo di Kanto
+Abilities	Stone of Kanto	Pietra di Kanto
+Abilities	Splash of Kanto	Spruzzo di Kanto
+Abilities	Active Healing	Cura Attiva
+Abilities	Brawn Gain	Più Forza
+Abilities	Shielding Strikes	Colpi Scudo
+Abilities	Mind Swell	Mente Ampia
+Abilities	Acumen	Acume
+Abilities	Fleet Feet	Piè Veloce
+Abilities	Precision Gain	Più Precisione
+Abilities	Shifty Striker	Colpitore Furtivo
+Abilities	Eagle Eye	Occhio d'Aquila
+Abilities	Beef Up	Muscoli Su
+Abilities	Toughen Up	Corazza Su
+Abilities	Soup Up	Mente Su
+Abilities	Tighten Up	Guardia Su
+Abilities	Look Alive	Scatto Su
+Abilities	Fierce Entry	Entrata Feroce
+Abilities	Sentry Entry	Entrata Sentinella
+Abilities	Grand Entry	Entrata Grandiosa
+Abilities	Wise Entry	Entrata Saggia
+Abilities	Speedy Entry	Entrata Rapida
+Abilities	Pinpoint Entry	Entrata Precisa
+Abilities	Agile Entry	Entrata Agile
+Abilities	Terrify	Terrorizza
+Abilities	Enfeeble	Indebolisci
+Abilities	Discourage	Scoraggia
+Abilities	Befuddle	Confondi
+Abilities	Trip Wire	Sgambetto
+Abilities	Bedazzle	Abbaglia
+Abilities	Impose	Imponi
+Abilities	Simple Setup	Preparazione Semplice
+Abilities	Sunburst	Raggiera Solare
+Abilities	Donwpour	Acquazzone
+Abilities	Conductive Plant	Pianta Conduttiva
+Abilities	Verdant Turf	Prato Verdeggiante
+Abilities	Weird Stasis	Stasi Strana
+Abilities	Passion Aura	Aura Passione
+Abilities	Cold Front	Fronte Freddo
+Abilities	Sand Kicker	Calciasabbia
+Abilities	Wasteland	Terra Desolata
+Abilities	Down to Earth	Coi Piedi a Terra
+Abilities	Landing Pad	Piattaforma
+Abilities	Wonder World	Mondo Meraviglia
+Abilities	Climb To Edge	Scalata al Limite
+Abilities	Haunted Falling	Caduta Infestata
+Abilities	Draco Domain	Dominio Draco
+Abilities	Umbral Call	Richiamo Umbratile
+Abilities	Iron Surroundings	Ambiente Ferroso
+Abilities	Ethereal Entrance	Entrata Eterea
+Abilities	Honing Hit	Colpo Affinato
+Abilities	Seeking Hit	Colpo Cercatore
+Abilities	Extend Range	Portata Estesa
+Abilities	Efficient Healer	Guaritore Efficiente
+Abilities	Brock's Grit	Grinta di Brock
+Abilities	Misty's Flow	Flusso di Misty
+Abilities	Erika's Growth	Crescita di Erika
+Abilities	Red's Destiny	Destino di Red
+Abilities	Red's Fighting Spirit	Spirito Combattivo di Red
+Abilities	Blue's Triumph	Trionfo di Blu
+Abilities	Leaf's Tenacity	Tenacia di Leaf
+Abilities	Giovanni's Cunning	Astuzia di Giovanni
+Abilities	Morty's Future	Futuro di Angelo
+Abilities	Ethan's Shining Soul	Anima Splendente di Ethan
+Abilities	Lyra's Time	Tempo di Lyra
+Abilities	Kris's Clarity	Lucidità di Kris
+Abilities	Silver's Bond	Legame di Silver
+Abilities	Brendan's Good Times	Bei Tempi di Brendan
+Abilities	May's Blaze	Fiamma di Vera
+Abilities	Wally's Challenge	Sfida di Wally
+Abilities	Steven's Balance	Equilibrio di Rocco
+Abilities	Steven's Attack	Attacco di Rocco
+Abilities	Steven's Defense	Difesa di Rocco
+Abilities	Steven's Speed	Velocità di Rocco
+Abilities	Cyrus's Ideals	Ideali di Cyrus
+Abilities	Cynthia's Heartbeat	Battito di Camilla
+Abilities	Cynthia's Renegade	Ribelle di Camilla
+Abilities	Dawn's Protection	Protezione di Lucinda
+Abilities	Elesa's Dazzle	Abbaglio di Camelia
+Abilities	Grimsley's Gambit	Azzardo di Mirton
+Abilities	Hilbert's Plan	Piano di Hilbert
+Abilities	Hilda's Victory	Vittoria di Hilda
+Abilities	N's Formula	Formula di N
+Abilities	Serena's Enforcement	Fermezza di Serena
+Abilities	Korrina's Shroud	Velo di Ornella
+Abilities	Diantha's Nobility	Nobiltà di Diantha
+Abilities	Lusamine's Love	Amore di Samina
+Abilities	Melemele Ocean Breeze	Brezza Marina di Mele Mele
+Abilities	Akala Ocean Breeze	Brezza Marina di Akala
+Abilities	Ula'ula Ocean Breeze	Brezza Marina di Ula Ula
+Abilities	Gladion's Soul	Anima di Iridio
+Abilities	Leon's Eternity	Eternità di Dandel
+Abilities	Pier's Melancholy	Malinconia di Ginepro
+Abilities	Roxie's Jam	Concerto di Velia
+Abilities	Ingo's Arrival	Arrivo di Ingo
+Abilities	Emmet's Departure	Partenza di Emmet
+Abilities	Giovanni's Greed	Avidità di Giovanni
+Abilities	Gloria's Strikes	Colpi di Gloria
+Abilities	Lillie's Hope	Speranza di Lylia
+Abilities	N's Truth	Verità di N
+Abilities	Steven's Ascent	Ascesa di Rocco
+Abilities	May's Friendship	Amicizia di Vera
+Abilities	Skyla's Takeoff	Decollo di Anemone
+Abilities	Raihan's Rampage	Furia di Raihan
+Abilities	Serena's Vividness	Vivacità di Serena
+Abilities	Serena's Seriousness	Serietà di Serena
+Abilities	Calem's Calmness	Calma di Calem
+Abilities	Calem's Stoicness	Stoicismo di Calem
+Abilities	Marnie's Distaste	Disgusto di Mary
+Abilities	Hop's Perseverance	Perseveranza di Hop
+Abilities	Bede's Intimidation	Intimidazione di Beet
+Abilities	Red's Raging Silence	Silenzio Furioso di Red
+Abilities	Leaf's Burning Love	Amore Ardente di Leaf
+Abilities	Blue's Leadership	Comando di Blu
+Abilities	Nate's Resonating Will	Volontà Risonante di Nate
+Abilities	Rosa's Melody	Melodia di Rosa
+Abilities	Silver's Destructive Instinct	Istinto Distruttivo di Silver
+Abilities	Cheren's Teachings	Insegnamenti di Komor
+Abilities	Bianca's New Path	Nuova Strada di Belle
+Abilities	May's Blue Blessing	Benedizione Blu di Vera
+Abilities	Brendan's Red Hype	Carica Rossa di Brendan
+Abilities	Elio's Gentle Power	Forza Gentile di Elio
+Abilities	Selene's Continuous Warmth	Calore Costante di Selene
 TrainerTypes	Pokémon Trainer	Allenatore
 TrainerTypes	Pokémon Coordinator	Coordinatore
 TrainerTypes	Rival	Rivale
@@ -2138,7 +2532,6 @@ TrainerTypes	Palace Maven	Guru Palazzo
 TrainerTypes	Salon Maiden	Dama Salone
 TrainerTypes	Pyramid King	Re Piramide
 TrainerTypes	Tower Tycoon	Magnate Torre
-TrainerTypes	Connoisseur	Intenditore
 TrainerTypes	Subway Boss	Capo Metrò
 TrainerTypes	Team Plasma	Team Plasma
 TrainerTypes	Sky Trainer	Aviallenatore
@@ -2158,6 +2551,222 @@ TrainerTypes	Dynamax Pokémon	Pokémon Dynamax
 TrainerTypes	Chairman	Presidente
 TrainerTypes	Legendary Pokémon	Pokémon leggendario
 TrainerTypes	Team Yell	Team Yell
+TrainerTypes	Baseball Fan	Tifoso di Baseball
+TrainerTypes	Aether Branch Chief	Capo Sezione Aether
+TrainerTypes	Golfer	Golfista
+TrainerTypes	Gigantamax Pokémon	Pokémon Gigamax
+TrainerTypes	Eternamax	Dynamax Infinito
+TrainerTypes	Roaring Fighter	Combattente Ruggente
+TrainerTypes	Compassionate Lassie	Ragazza Compassionevole
+TrainerTypes	Harsh Elder	Anziano Severo
+TrainerTypes	Draco Descendant	Discendente Draco
+TrainerTypes	Masked Magician	Mago Mascherato
+TrainerTypes	Elusive Jonin	Jonin Sfuggente
+TrainerTypes	Mighty Brute	Bruto Possente
+TrainerTypes	Dominant Lady	Dama Dominante
+TrainerTypes	Majestic Champion	Campione Maestoso
+TrainerTypes	Adventurous Lass	Pupa Avventurosa
+TrainerTypes	Cold Juvenile	Giovane Freddo
+TrainerTypes	Capable Lad	Ragazzo Capace
+TrainerTypes	Talented Damsel	Damigella Talentuosa
+TrainerTypes	Disciplined Scholar	Studioso Disciplinato
+TrainerTypes	Raging Surfer	Surfista Furioso
+TrainerTypes	Jolly Senior	Anziano Allegro
+TrainerTypes	Spirited Gal	Ragazza Grintosa
+TrainerTypes	Stern Man	Uomo Severo
+TrainerTypes	Confident Femme	Donna Sicura
+TrainerTypes	Inseparable Twins	Gemelli Inseparabili
+TrainerTypes	Exquisite Mentor	Mentore Raffinato
+TrainerTypes	Upbeat Punk	Punk Gioioso
+TrainerTypes	Blithe Whisperer	Sussurratore Gaio
+TrainerTypes	Posh Milady	Milady Snob
+TrainerTypes	Seasoned Captain	Capitano Esperto
+TrainerTypes	Respected Gent	Signore Rispettato
+TrainerTypes	Flamboyant Artisan	Artigiano Eccentrico
+TrainerTypes	Sickly Youth	Giovane Malaticcio
+TrainerTypes	Rad Cutie	Tipa Tosta
+TrainerTypes	Remarkable Dude	Tipo Notevole
+TrainerTypes	Hardworking Miner	Minatore Laborioso
+TrainerTypes	Cheery Trekker	Escursionista Allegro
+TrainerTypes	Passionate Athlete	Atleta Appassionato
+TrainerTypes	Torrential Wrestler	Lottatore Torrenziale
+TrainerTypes	Stylish Senorita	Senorita Elegante
+TrainerTypes	Sturdy Pitman	Scavatore Robusto
+TrainerTypes	Dreamy Sheila	Ragazza Sognante
+TrainerTypes	Shining Star	Stella Splendente
+TrainerTypes	Prideful Challenger	Sfidante Orgoglioso
+TrainerTypes	Observant Matron	Matrona Attenta
+TrainerTypes	Blazing Afro	Afro Fiammante
+TrainerTypes	Avid Reader	Lettore Avido
+TrainerTypes	Venerable Mythologist	Mitologo Venerabile
+TrainerTypes	Health Specialist	Specialista PS
+TrainerTypes	Power Specialist	Specialista Forza
+TrainerTypes	Attack Specialist	Specialista Attacco
+TrainerTypes	Defense Specialist	Specialista Difesa
+TrainerTypes	Speed Specialist	Specialista Velocità
+TrainerTypes	Hyperactive Hotshot	Asso Iperattivo
+TrainerTypes	Stellar Seeker	Cercatore Stellare
+TrainerTypes	Phenomenal Visionary	Visionario Fenomenale
+TrainerTypes	Conscientious Connoisseur	Intenditore Scrupoloso
+TrainerTypes	Hotheaded Epicurean	Buongustaio Focoso
+TrainerTypes	Esteemed Sommelier	Sommelier Stimato
+TrainerTypes	Inquisitive Archaeologist	Archeologo Curioso
+TrainerTypes	Premier Artist	Artista di Punta
+TrainerTypes	Dazzling Supermodel	Top Model Abbagliante
+TrainerTypes	Underground Boss	Boss del Sottosuolo
+TrainerTypes	Watchful Pilot	Pilota Vigile
+TrainerTypes	Fervent Actor	Attore Fervente
+TrainerTypes	Spartan Mayor	Sindaco Spartano
+TrainerTypes	Focused Teacher	Insegnante Attento
+TrainerTypes	Starlet Bassist	Bassista Stellina
+TrainerTypes	Carefree Diver	Sub Spensierato
+TrainerTypes	Horror Writer	Scrittore Horror
+TrainerTypes	Street Fighter	Lottatore di Strada
+TrainerTypes	Fallen Gambler	Giocatore Caduto
+TrainerTypes	Sleepy Princess	Principessa Assonnata
+TrainerTypes	Wandering Hermit	Eremita Errante
+TrainerTypes	Young Contender	Giovane Sfidante
+TrainerTypes	Chosen Child	Bambino Prescelto
+TrainerTypes	Goodhearted Klutz	Imbranato di Buon Cuore
+TrainerTypes	Zealous Teen	Adolescente Zelante
+TrainerTypes	Cheerful Chick	Ragazza Solare
+TrainerTypes	Faithful Buddy	Amico Fedele
+TrainerTypes	Ardent Babe	Pupa Ardente
+TrainerTypes	Valiant Buck	Giovane Valoroso
+TrainerTypes	Keen-eyed Photographer	Fotografo Acuto
+TrainerTypes	Collected Climber	Scalatore Pacato
+TrainerTypes	Adorable Skater	Skater Adorabile
+TrainerTypes	Calm Gardener	Giardiniere Calmo
+TrainerTypes	Inventive Genius	Genio Inventivo
+TrainerTypes	Sophisticated Fashionista	Fashionista Sofisticata
+TrainerTypes	Starlight Teller	Lettrice di Stelle
+TrainerTypes	Cool Chief	Capo Cool
+TrainerTypes	Shady Reporter	Reporter Losco
+TrainerTypes	Distinguished Chef	Chef Rinomato
+TrainerTypes	Honorable Knight	Cavaliere d'Onore
+TrainerTypes	Composed Guru	Guru Composto
+TrainerTypes	Grand Duchess	Granduchessa
+TrainerTypes	Energetic Tween	Ragazzino Energico
+TrainerTypes	Chummy Dancer	Ballerino Amichevole
+TrainerTypes	Tiny Collector	Piccolo Collezionista
+TrainerTypes	Chic Diva	Diva Chic
+TrainerTypes	Dapper Guy	Tipo Elegante
+TrainerTypes	Mystery Magician	Mago Misterioso
+TrainerTypes	Dignified Prince	Principe Dignitoso
+TrainerTypes	Timid Fisher	Pescatore Timido
+TrainerTypes	Vehement Folk	Tipo Veemente
+TrainerTypes	Peculiar Cook	Cuoco Bizzarro
+TrainerTypes	Bright Mechanic	Meccanico Brillante
+TrainerTypes	Aspiring Painter	Aspirante Pittore
+TrainerTypes	Lonely Herder	Pastore Solitario
+TrainerTypes	Lazy Officer	Agente Pigro
+TrainerTypes	Smiling Orphan	Orfano Sorridente
+TrainerTypes	Sassy Jeweler	Gioielliera Sfacciata
+TrainerTypes	Humble Golfer	Golfista Umile
+TrainerTypes	Geeky Whiz	Genietto Nerd
+TrainerTypes	Undaunted Kahuna	Kahuna Impavido
+TrainerTypes	Big-hearted Boy	Ragazzo Generoso
+TrainerTypes	Twinkle Girl	Ragazza Scintillante
+TrainerTypes	Secret Enforcer	Esecutore Segreto
+TrainerTypes	Sunshine Explorer	Esploratore Solare
+TrainerTypes	Moonlight Adventurer	Avventuriera Lunare
+TrainerTypes	Tower Baron	Barone Torre
+TrainerTypes	Mill Analyst	Analista Mulino
+TrainerTypes	Arcade Star	Stella Arcade
+TrainerTypes	Castle Valet	Valletto Castello
+TrainerTypes	Hall Matron	Matrona Sala
+TrainerTypes	Innovative Pioneer	Pioniere Innovativo
+TrainerTypes	Kanto Professor	Prof. di Kanto
+TrainerTypes	Johto Professor	Prof. di Johto
+TrainerTypes	Hoenn Professor	Prof. di Hoenn
+TrainerTypes	Sinnoh Professor	Prof. di Sinnoh
+TrainerTypes	Unova Professor	Prof. di Unima
+TrainerTypes	Kalos Professor	Prof. di Kalos
+TrainerTypes	Alola Professor	Prof. di Alola
+TrainerTypes	Professor Assistant	Assistente Prof.
+TrainerTypes	Calculative Zealot	Fanatico Calcolatore
+TrainerTypes	Impassioned Extremist	Estremista Appassionato
+TrainerTypes	Nihilistic Boss	Capo Nichilista
+TrainerTypes	Manipulative Founder	Fondatore Manipolatore
+TrainerTypes	Delusional King	Re Illuso
+TrainerTypes	Misanthropic Visionary	Visionario Misantropo
+TrainerTypes	Monomaniacal President	Presidente Ossessiva
+TrainerTypes	Rebellious Leader	Leader Ribelle
+TrainerTypes	Idealistic Chairman	Presidente Idealista
+TrainerTypes	Headstrong Breeder	Allevatore Testardo
+TrainerTypes	Tomboyish Mermaid	Sirena Maschiaccio
+TrainerTypes	Lightning Lieutenant	Tenente Fulmine
+TrainerTypes	Serene Florist	Fioraia Serena
+TrainerTypes	Gifted Mistress	Dama Dotata
+TrainerTypes	Shadow Disciple	Discepola dell'Ombra
+TrainerTypes	Hotheaded Quizmaster	Quizmaster Focoso
+TrainerTypes	Secret Mastermind	Mente Segreta
+TrainerTypes	Calculated Madame	Madame Calcolatrice
+TrainerTypes	Kantonian Rockstar	Rockstar di Kanto
+TrainerTypes	Cantankerous Granny	Nonna Scorbutica
+TrainerTypes	Excellent Trainer	Allenatore Eccellente
+TrainerTypes	Egotistic Chap	Tipo Egocentrico
+TrainerTypes	Ditsy Miss	Signorina Svampita
+TrainerTypes	Silent Ace	Asso Silenzioso
+TrainerTypes	Elegant Keeper	Custode Elegante
+TrainerTypes	Keen Researcher	Ricercatore Acuto
+TrainerTypes	Incredible Beauty	Bellezza Incredibile
+TrainerTypes	Mystic Seer	Veggente Mistica
+TrainerTypes	Clan Leader	Capoclan
+TrainerTypes	Survey Member	Squadra Indagini
+TrainerTypes	Masked Eccentric	Eccentrico Mascherato
+TrainerTypes	Vivacious Filly	Puledra Vivace
+TrainerTypes	Proud Telekineticist	Telecineta Fiero
+TrainerTypes	Stoic Prodigy	Prodigio Stoico
+TrainerTypes	Arrogant Brat	Moccioso Arrogante
+TrainerTypes	Wise Ninja	Ninja Saggio
+TrainerTypes	Distrustful Carline	Ragazza Diffidente
+TrainerTypes	Fortune Sister	Sorella Fortuna
+TrainerTypes	Cryptic Dame	Dama Enigmatica
+TrainerTypes	Cocky Brawn	Muscoloso Spavaldo
+TrainerTypes	Fervent Bonnie	Bella Fervente
+TrainerTypes	Refined Crusher	Lottatore Raffinato
+TrainerTypes	Earnest Youngster	Giovane Sincero
+TrainerTypes	Soft-spoken Swole	Palestrato Pacato
+TrainerTypes	Resolute Veteran	Veterano Risoluto
+TrainerTypes	Clan Head	Capo del Clan
+TrainerTypes	Vainglorious Pop	Papà Vanaglorioso
+TrainerTypes	Hisui Professor	Prof. di Hisui
+TrainerTypes	Unbeatable Champ	Campione Imbattibile
+TrainerTypes	Brilliant Bronco	Puledro Brillante
+TrainerTypes	Galar Professor	Prof. di Galar
+TrainerTypes	Altruistic Romp	Monello Altruista
+TrainerTypes	Popular Kid	Ragazzo Popolare
+TrainerTypes	Haughty Slick	Furbo Altezzoso
+TrainerTypes	Big-hearted Coach	Coach Generoso
+TrainerTypes	Gentle Farmer	Contadino Gentile
+TrainerTypes	Dojo Master	Maestro del Dojo
+TrainerTypes	Indomitable Superstar	Superstar Indomita
+TrainerTypes	Psychotic Secretary	Segretaria Psicotica
+TrainerTypes	Pink Wizard	Mago Rosa
+TrainerTypes	Stunning Grace	Grazia Stupenda
+TrainerTypes	Enthusiastic Expeditor	Spedizioniere Entusiasta
+TrainerTypes	Rockin' Singer	Cantante Rock
+TrainerTypes	Professional Tamer	Domatore Professionista
+TrainerTypes	Playful Adolescence	Adolescenza Giocosa
+TrainerTypes	Dynamic Bairn	Bimbo Dinamico
+TrainerTypes	Malicious Worshipper	Adoratore Malvagio
+TrainerTypes	Amnestic Warden	Guardiano Amnesico
+TrainerTypes	Fiery Trainer	Allenatore Focoso
+TrainerTypes	Grandeur Club Mastermind	Mente del Grandeur Club
+TrainerTypes	Grandeur Club Vice	Vice del Grandeur Club
+TrainerTypes	Sygna Suit	Sygna Suit
+TrainerTypes	Grandeur Club Administrator	Superiore Grandeur Club
+TrainerTypes	Grandeur Club Employee	Impiegato Grandeur Club
+TrainerTypes	Sygna Suit (Thunderbolt)	Sygna Suit (Fulmine)
+TrainerTypes	Sygna Suit (Renegade)	Sygna Suit (Ribelle)
+TrainerTypes	Sygna Suit (Aura)	Sygna Suit (Aura)
+TrainerTypes	Sygna Suit (Ultra)	Sygna Suit (Ultra)
+TrainerTypes	Dojo Uniform	Divisa del Dojo
+TrainerTypes	Anniversary (2021)	Anniversario (2021)
+TrainerTypes	Anniversary (2022)	Anniversario (2022)
+TrainerTypes	Neo Champion	Neo Campione
+TrainerTypes	Arc Suit	Tuta Arc
 RegionNames	Kanto	Kanto
 RegionNames	Johto	Johto
 RegionNames	Hoenn	Hoenn
@@ -2166,91 +2775,96 @@ RegionNames	Unova	Unima
 RegionNames	Kalos	Kalos
 RegionNames	Alola	Alola
 RegionNames	Galar	Galar
+RegionNames	Hisui	Hisui
 RegionNames	Unknown	Sconosciuto
+PlaceNames	Route 45	Percorso 45
 PlaceNames	Indigo Plateau	Altopiano Blu
 PlaceNames	Route 22	Percorso 22
 PlaceNames	Route 26	Percorso 26
-PlaceNames	Battle Tower	Torre Lotta
+PlaceNames	Metallica Island	Isola Metallica
 PlaceNames	Battle Pyramid	Piramide Lotta
 PlaceNames	Pewter City	Plumbeopoli
 PlaceNames	Route 2	Percorso 2
 PlaceNames	Viridian Forest	Bosco Smeraldo
 PlaceNames	Viridian City	Smeraldopoli
 PlaceNames	Route 1	Percorso 1
+PlaceNames	Cinnabar Island	Isola Cannella
 PlaceNames	Route 3	Percorso 3
 PlaceNames	Pallet Town	Biancavilla
-PlaceNames	Gringey City Power Plant	Centrale Elettrica di Gringey City
+PlaceNames	Cinnabar Volcano	Vulcano di Cannella
+PlaceNames	Route 16	Percorso 16
 PlaceNames	Route 17	Percorso 17
 PlaceNames	Route 18	Percorso 18
 PlaceNames	Mt. Moon	Monte Luna
-PlaceNames	Route 16	Percorso 16
-PlaceNames	Route 19	Percorso 19
-PlaceNames	Battle Factory	Fabbrica Lotta
-PlaceNames	Route 4	Percorso 4
 PlaceNames	Celadon City	Azzurropoli
-PlaceNames	Fuchsia City	Fucsiapoli
-PlaceNames	Battle Arena	Dojo Lotta
-PlaceNames	Cerulean City	Celestopoli
 PlaceNames	Hidden Village	Villaggio Nascosto
 PlaceNames	Route 7	Percorso 7
-PlaceNames	Route 5	Percorso 5
+PlaceNames	Seafoam Islands	Isole Spumarine
+PlaceNames	Battle Factory	Fabbrica Lotta
+PlaceNames	Route 4	Percorso 4
+PlaceNames	Battle Arena	Dojo Lotta
+PlaceNames	Battle Pike	Serpe Lotta
+PlaceNames	Fuchsia City	Fucsiapoli
+PlaceNames	Route 19	Percorso 19
+PlaceNames	Route 20	Percorso 20
+PlaceNames	Cerulean City	Celestopoli
 PlaceNames	Saffron City	Zafferanopoli
+PlaceNames	Vermillion City	Aranciopoli
+PlaceNames	Route 15	Percorso 15
+PlaceNames	Route 5	Percorso 5
 PlaceNames	Route 24	Percorso 24
 PlaceNames	Route 25	Percorso 25
-PlaceNames	Vermillion City	Aranciopoli
-PlaceNames	Route 8	Percorso 8
 PlaceNames	Route 11	Percorso 11
-PlaceNames	Cinnabar Island	Isola Cannella
-PlaceNames	Route 15	Percorso 15
-PlaceNames	Battle Dome	Cupola Lotta
+PlaceNames	Route 8	Percorso 8
+PlaceNames	Route 10	Percorso 10
 PlaceNames	Route 14	Percorso 14
-PlaceNames	Cinnabar Volcano	Vulcano di Cannella
 PlaceNames	Route 13	Percorso 13
 PlaceNames	Lavender Town	Lavandonia
 PlaceNames	Route 12	Percorso 12
-PlaceNames	Metallica Island	Isola Metallica
 PlaceNames	Cianwood City	Fiorlisopoli
-PlaceNames	Route 39	Percorso 39
+PlaceNames	Red Rock Isle	Isola Roccia Rossa
+PlaceNames	Yellow Rock Isle	Isola Roccia Gialla
+PlaceNames	Ogi Isle	Isola Ogi
 PlaceNames	Olivine City	Olivinopoli
+PlaceNames	Blue Rock Isle	Isola Roccia Blu
+PlaceNames	Route 39	Percorso 39
 PlaceNames	Route 38	Percorso 38
-PlaceNames	Pokemon Swap Meet	Mercatino Pokémon
-PlaceNames	Ecruteak City	Amarantopoli
-PlaceNames	Route 35	Percorso 35
 PlaceNames	Goldenrod City	Fiordoropoli
+PlaceNames	Pokemon Swap Meet	Mercatino Pokémon
+PlaceNames	Route 35	Percorso 35
 PlaceNames	Route 34	Percorso 34
 PlaceNames	Ilex Forest	Bosco di Lecci
-PlaceNames	Route 37	Percorso 37
+PlaceNames	National Park	Parco Nazionale
+PlaceNames	Ecruteak City	Amarantopoli
 PlaceNames	Route 36	Percorso 36
-PlaceNames	Route 42	Percorso 42
-PlaceNames	Ruins of Alph	Rovine d'Alfa
 PlaceNames	Azalea Town	Azalina
+PlaceNames	Route 37	Percorso 37
+PlaceNames	Ruins of Alph	Rovine d'Alfa
+PlaceNames	Route 33	Percorso 33
+PlaceNames	Route 42	Percorso 42
 PlaceNames	Violet City	Violapoli
 PlaceNames	Route 32	Percorso 32
 PlaceNames	Charicific Valley	Valle Charicifica
-PlaceNames	Route 33	Percorso 33
+PlaceNames	Route 30	Percorso 30
 PlaceNames	Lake of Rage	Lago d'Ira
 PlaceNames	Route 43	Percorso 43
-PlaceNames	Route 30	Percorso 30
 PlaceNames	Cherrygrove City	Fiorpescopoli
 PlaceNames	Mahogany Town	Mogania
+PlaceNames	Route 44	Percorso 44
 PlaceNames	Route 29 Forest	Bosco del Percorso 29
 PlaceNames	Route 29	Percorso 29
-PlaceNames	Route 44	Percorso 44
-PlaceNames	Dragon Holy Land	Terra Sacra dei Draghi
 PlaceNames	Dragon`s Den	Tana del Drago
-PlaceNames	Blackthorn City	Ebanopoli
 PlaceNames	Ice Cave	Grotta Ghiacciata
+PlaceNames	Blackthorn City	Ebanopoli
 PlaceNames	New Bark Town	Borgo Foglianova
 PlaceNames	Silver Conference	Conferenza Argento
-PlaceNames	Route 45	Percorso 45
 PlaceNames	Littleroot Town	Albanova
 PlaceNames	Route 101	Percorso 101
 PlaceNames	Oldale Town	Solarosa
 PlaceNames	Route 102	Percorso 102
 PlaceNames	Petalburg City	Petalipoli
-PlaceNames	Route104	Percorso 104
-PlaceNames	Petalburg Woods	Bosco Petalo
 PlaceNames	Route 104	Percorso 104
+PlaceNames	Petalburg Woods	Bosco Petalo
 PlaceNames	Rustboro City	Ferrugipoli
 PlaceNames	Dewford Town	Bluruvia
 PlaceNames	Granite Cave	Grotta Pietrosa
@@ -2280,12 +2894,12 @@ PlaceNames	Izabe Island (Purika)	Isola Izabe (Purika)
 PlaceNames	Izabe Forest	Bosco di Izabe
 PlaceNames	Izabe Island (Riyado)	Isola Izabe (Riyado)
 PlaceNames	Izabe Desert	Deserto di Izabe
-PlaceNames	Izabe Cave	Grotta di Izabe
 PlaceNames	Izabe Island (Cerosi)	Isola Izabe (Cerosi)
 PlaceNames	Sootopolis City	Ceneride
 PlaceNames	Pacifidlog Town	Orocea
 PlaceNames	Hoenn Pokemon League	Lega Pokémon di Hoenn
 PlaceNames	Ever Grande Conference	Conferenza Iridopoli
+PlaceNames	Hoenn Battle Frontier	Parco Lotta di Hoenn
 PlaceNames	Route 202	Percorso 202
 PlaceNames	Sandgem Town	Sabbiafine
 PlaceNames	Route 201	Percorso 201
@@ -2293,11 +2907,9 @@ PlaceNames	Lake Verity	Lago Verità
 PlaceNames	Twinleaf Town	Duefoglie
 PlaceNames	Jubilife City	Giubilopoli
 PlaceNames	Route 203	Percorso 203
-PlaceNames	Oreburgh Gate	Varco Mineropoli
 PlaceNames	Oreburgh City	Mineropoli
 PlaceNames	Oreburgh Mine	Miniera di Mineropoli
 PlaceNames	Route 204	Percorso 204
-PlaceNames	Ravaged Path	Via Dissestata
 PlaceNames	Floaroma Town	Floraria
 PlaceNames	Floaroma Meadow	Prato Floraria
 PlaceNames	Route 205	Percorso 205
@@ -2309,7 +2921,6 @@ PlaceNames	Mt. Coronet	Monte Corona
 PlaceNames	Hearthome City	Cuoripoli
 PlaceNames	Route 209	Percorso 209
 PlaceNames	Solaceon Town	Flemminia
-PlaceNames	Solaceon Ruins	Rovine di Flemminia
 PlaceNames	Route 210 (South)	Percorso 210 (Sud)
 PlaceNames	Route 215	Percorso 215
 PlaceNames	Veilstone City	Rupepoli
@@ -2331,8 +2942,9 @@ PlaceNames	Lake Acuity	Lago Arguzia
 PlaceNames	Snowpoint City	Nevepoli
 PlaceNames	Route 222	Percorso 222
 PlaceNames	Sunnyshore City	Arenipoli
-PlaceNames	Lily of the Valley Island	Isola Mughetto
-PlaceNames	Sinnoh Pokemon League	Lega Pokémon di Sinnoh
+PlaceNames	Sinnoh Pokémon League	Lega Pokémon di Sinnoh
+PlaceNames	Route 229	Percorso 229
+PlaceNames	Resort Area	Area Svago
 PlaceNames	Nuvema Town	Soffiolieve
 PlaceNames	Accumula Town	Quattroventi
 PlaceNames	Striaton City	Levantopoli
@@ -2343,8 +2955,11 @@ PlaceNames	Pinwheel Forest	Bosco Girandola
 PlaceNames	Skyarrow Bridge	Ponte Freccialuce
 PlaceNames	Castelia City	Austropoli
 PlaceNames	Club Battle	Club Battle
+PlaceNames	Desert Resort	Deserto della Quiete
 PlaceNames	Nimbasa City	Sciroccopoli
+PlaceNames	Driftveil Drawbridge	Ponte Levatoio Libecciopoli
 PlaceNames	Driftveil City	Libecciopoli
+PlaceNames	Milos Island	Isola Milos
 PlaceNames	Route 6	Percorso 6
 PlaceNames	Mistralton Cave	Grotta Ponentopoli
 PlaceNames	Chargestone Cave	Grotta Pietrelettrica
@@ -2353,23 +2968,21 @@ PlaceNames	Mistralton Tower	Torre Ponentopoli
 PlaceNames	Clubsplosion	Clubsplosion
 PlaceNames	Twist Mountain	Monte Vite
 PlaceNames	Icirrus City	Mistralopoli
+PlaceNames	Icirrus Cave	Grotta Mistralopoli
 PlaceNames	Route 9	Percorso 9
 PlaceNames	Virbank City	Virbopoli
 PlaceNames	Undella Town	Spiraria
 PlaceNames	Undella Bay	Baia Spiraria
 PlaceNames	Opelucid City	Boreduopoli
 PlaceNames	Vetress City	Vetress City
-PlaceNames	Route 20	Percorso 20
+PlaceNames	Pledge Grove	Bosco Promessa
 PlaceNames	Aspertia City	Alisopoli
 PlaceNames	White Ruins	Rovine Bianche
-PlaceNames	Pledge Grove	Bosco Promessa
-PlaceNames	Icirrus Cave	Grotta Mistralopoli
 PlaceNames	Lumiose City	Luminopoli
 PlaceNames	Santalune City	Novartopoli
 PlaceNames	Camphrier Town	Castel Vanità
 PlaceNames	Parfum Palace	Reggia Aurea
 PlaceNames	Cyllage City	Altoripoli
-PlaceNames	Route 10	Percorso 10
 PlaceNames	Geosenge Town	Cromleburgo
 PlaceNames	Reflection Cave	Grotta dei Riflessi
 PlaceNames	Shalour City	Yantaropoli
@@ -2415,29 +3028,6 @@ PlaceNames	Manalo Stadium	Stadio Manalo
 PlaceNames	Vast Poni Canyon	Canyon di Poni
 PlaceNames	Altar of the Sunne	Altare Solare
 PlaceNames	Thrifty Megamart	Supermarket Affaroni
-PlaceNames	Ultra Deep Space	Ultraspazio Profondo
-PlaceNames	Ultra Ruin	Ultrarovine
-PlaceNames	Pallet Town?	Biancavilla?
-PlaceNames	Viridian Gym?	Palestra di Smeraldopoli?
-PlaceNames	Indigo Plateau?	Altopiano Blu?
-PlaceNames	Viridian Forest?	Bosco Smeraldo?
-PlaceNames	New Bark Town?	Borgo Foglianova?
-PlaceNames	Viridian City?	Smeraldopoli?
-PlaceNames	Ecruteak City?	Amarantopoli?
-PlaceNames	Slateport City?	Porto Selcepoli?
-PlaceNames	Littleroot Town?	Albanova?
-PlaceNames	Battle Tower?	Torre Lotta?
-PlaceNames	Iron Island?	Isola Ferrosa?
-PlaceNames	Pastoria City?	Pratopoli?
-PlaceNames	Mt. Coronet?	Monte Corona?
-PlaceNames	Unova Pokemon League?	Lega Pokémon di Unima?
-PlaceNames	Nimbasa City?	Sciroccopoli?
-PlaceNames	Aspertia City?	Alisopoli?
-PlaceNames	Virbank City?	Virbopoli?
-PlaceNames	Geosenge Town?	Cromleburgo?
-PlaceNames	Shalour City?	Yantaropoli?
-PlaceNames	Iki Town?	Lili?
-PlaceNames	Aether Paradise?	Paradiso Aether?
 MapNames	Intro	Intro
 MapNames	Lappet Town	Lappet Town
 MapNames	\PN's house	Casa di \PN
@@ -2552,7 +3142,7 @@ MapNames	Laverre Scarf Shop	Negozio di Sciarpe di Romantopoli
 MapNames	Saffron City	Zafferanopoli
 MapNames	Saffron House	Casa di Zafferanopoli
 MapNames	Saffron Pokémon Center	Centro Pokémon di Zafferanopoli
-MapNames	Cable Club	Cable Club
+MapNames	Grandeur Club	Grandeur Club
 MapNames	Silph Co.	Silph S.p.A.
 MapNames	Magnet Train	Treno Magnetico
 MapNames	Saffron Gym	Palestra di Zafferanopoli
@@ -2560,7 +3150,7 @@ MapNames	Lavender Town	Lavandonia
 MapNames	Zarude's Den	Tana di Zarude
 MapNames	Lavender House	Casa di Lavandonia
 MapNames	Lavender Pokémon Center	Centro Pokémon di Lavandonia
-MapNames	EXAMPLE MAP	MAPPA DI ESEMPIO
+MapNames	SECRET PEAK	PICCO SEGRETO
 MapNames	Route 38	Percorso 38
 MapNames	Pokémon Tower 1F	Torre Pokémon 1P
 MapNames	Pokémon Tower 2F	Torre Pokémon 2P
@@ -2569,6 +3159,7 @@ MapNames	Pokémon Tower 4F	Torre Pokémon 4P
 MapNames	Pokémon Tower 5F	Torre Pokémon 5P
 MapNames	Pokémon Tower 6F	Torre Pokémon 6P
 MapNames	Pokémon Tower 7F	Torre Pokémon 7P
+MapNames	GRANDEUR LOUNGE	LOUNGE GRANDEUR
 MapNames	Celadon City	Azzurropoli
 MapNames	Celadon House	Casa di Azzurropoli
 MapNames	Celadon Pokémon Center	Centro Pokémon di Azzurropoli
@@ -2626,6 +3217,7 @@ MapNames	Valencia Pokémon Center	Centro Pokémon di Valencia
 MapNames	Tangelo Island	Isola Tangelo
 MapNames	Tangelo House	Casa di Tangelo
 MapNames	Tangelo Pokémon Center	Centro Pokémon di Tangelo
+MapNames	STAGE	PALCO
 MapNames	Mikan Island	Isola Mikan
 MapNames	Mikan House	Casa di Mikan
 MapNames	Mikan Pokémon Center	Centro Pokémon di Mikan
@@ -2647,7 +3239,7 @@ MapNames	Trovita Pokémon Center	Centro Pokémon di Trovita
 MapNames	Trovita Gym	Palestra di Trovita
 MapNames	Ascorbia Island	Isola Ascorbia
 MapNames	Ascorbia House	Casa di Ascorbia
-MapNames	Ascrobia Pokémon Center	Centro Pokémon di Ascorbia
+MapNames	Ascorbia Pokémon Center	Centro Pokémon di Ascorbia
 MapNames	Kumquat Island	Isola Kumquat
 MapNames	Kumquat Pokémon Center	Centro Pokémon di Kumquat
 MapNames	Kumquat House	Casa di Kumquat
@@ -2799,7 +3391,7 @@ MapNames	Route 111	Percorso 111
 MapNames	Mirage Kingdom	Regno Miraggio
 MapNames	Route 111 House	Casa del Percorso 111
 MapNames	Route 113	Percorso 113
-MapNames	Fallabor Town	Mentania
+MapNames	Fallarbor Town	Brunifoglia
 MapNames	Fallarbor House	Casa di Brunifoglia
 MapNames	Fallarbor Pokémon Center	Centro Pokémon di Brunifoglia
 MapNames	Route 10	Percorso 10
@@ -2826,7 +3418,7 @@ MapNames	Lilycove City	Porto Alghepoli
 MapNames	Lilycove House	Casa di Porto Alghepoli
 MapNames	Lilycove Pokémon Center	Centro Pokémon di Porto Alghepoli
 MapNames	Lilycove Contest	Gara di Porto Alghepoli
-MapNames	Weather Instiitute	Istituto Meteo
+MapNames	Weather Institute	Istituto Meteo
 MapNames	Lilycove Dept. 1F	Centro Comm. Porto Alghepoli 1P
 MapNames	Lilycove Dept. 2F	Centro Comm. Porto Alghepoli 2P
 MapNames	Lilycove Dept. 3F	Centro Comm. Porto Alghepoli 3P
@@ -2952,7 +3544,7 @@ MapNames	Solaceon Ruins	Rovine di Flemminia
 MapNames	Route 210	Percorso 210
 MapNames	Route 210 House	Casa del Percorso 210
 MapNames	Route 215	Percorso 215
-MapNames	Route 215 gate	Varco del Percorso 215
+MapNames	Route 215 Gate	Varco del Percorso 215
 MapNames	Veilstone City	Rupepoli
 MapNames	Veilstone House	Casa di Rupepoli
 MapNames	Veilstone Pokémon Center	Centro Pokémon di Rupepoli
@@ -3078,7 +3670,7 @@ MapNames	Mistralton Pokémon Center	Centro Pokémon di Ponentopoli
 MapNames	Mistralton Gym	Palestra di Ponentopoli
 MapNames	Route 7 House	Casa del Percorso 7
 MapNames	Clubsplosion	Clubsplosion
-MapNames	Clubsplosion  Room	Sala Clubsplosion
+MapNames	Clubsplosion Room	Sala Clubsplosion
 MapNames	Mistralton Tower 1F	Torre di Ponentopoli 1P
 MapNames	Mistralton Tower 2F	Torre di Ponentopoli 2P
 MapNames	Mistralton Tower 3F	Torre di Ponentopoli 3P
@@ -3310,6 +3902,9 @@ MapNames	Professor Magnolia's Lab	Laboratorio della Prof. Magnolia
 MapNames	Split-Decision Ruins	Rovine del Bivio
 MapNames	Mt. Coronet - Past	Monte Corona - Passato
 MapNames	Route 20 Cave	Grotta del Percorso 20
+MapNames	Alternate Universe	Universo Alternativo
+MapNames	Wyndon?	Wyndon?
+MapNames	Wyndon Stadium?	Stadio di Wyndon?
 Kinds	Seed	Seme
 Kinds	Lizard	Lucertola
 Kinds	Flame	Fiamma
@@ -4049,6 +4644,8 @@ FormNames	Mega Kangaskhan	Mega Kangaskhan
 FormNames	Mega Pinsir	Mega Pinsir
 FormNames	Mega Gyarados	Mega Gyarados
 FormNames	Mega Aerodactyl	Mega Aerodactyl
+FormNames	Sphere Mode	Modalità Sfera
+FormNames	Immortal Phoenix	Fenice Immortale
 FormNames	Mega Mewtwo X	Mega Mewtwo X
 FormNames	Mega Mewtwo Y	Mega Mewtwo Y
 FormNames	Spiky-Eared	Orecchio Spinoso
@@ -4120,6 +4717,7 @@ FormNames	East Sea	Mare Est
 FormNames	Mega Lopunny	Mega Lopunny
 FormNames	Mega Garchomp	Mega Garchomp
 FormNames	Mega Lucario	Mega Lucario
+FormNames	Luc-ker's Lucario	Lucario di Luc-ker
 FormNames	Mega Abomasnow	Mega Abomasnow
 FormNames	Mega Gallade	Mega Gallade
 FormNames	Heat Rotom	Rotom Calore
@@ -4128,6 +4726,7 @@ FormNames	Frost Rotom	Rotom Gelo
 FormNames	Fan Rotom	Rotom Vortice
 FormNames	Mow Rotom	Rotom Taglio
 FormNames	Origin Forme	Forma Originale
+FormNames	Luc-ker's Regigigas	Regigigas di Luc-ker
 FormNames	Sky Forme	Forma Cielo
 FormNames	Fighting Type	Tipo Lotta
 FormNames	Flying Type	Tipo Volante
@@ -4263,6 +4862,12 @@ FormNames	Crowned Shield	Re degli Scudi
 FormNames	Rapid Strike Style	Stile Pluricolpo
 FormNames	Ice Rider	Cavaliere Glaciale
 FormNames	Shadow Rider	Cavaliere Spettrale
+FormNames	War	Guerra
+FormNames	Famine	Carestia
+FormNames	Death	Morte
+FormNames	Disaster	Catastrofe
+FormNames	Pestilence	Pestilenza
+FormNames	Holocaust	Olocausto
 RibbonNames	Cool Ribbon	Fiocco Classe
 RibbonNames	Cool Ribbon Super	Fiocco Classe Super
 RibbonNames	Cool Ribbon Hyper	Fiocco Classe Iper

@@ -1,13 +1,13 @@
 [
  {
-  "id": "\\rThe firefighting event looks fun.",
-  "en": "\\rThe firefighting event looks fun.",
-  "it": "\\rLa gara antincendio sembra divertente."
- },
- {
   "id": "\\bWartortle!",
   "en": "\\bWartortle!",
   "it": "\\bWartortle!"
+ },
+ {
+  "id": "\\rThe firefighting event looks fun.",
+  "en": "\\rThe firefighting event looks fun.",
+  "it": "\\rLa gara antincendio sembra divertente."
  },
  {
   "id": "\\bI'm looking for a Ninetales.",
@@ -53,11 +53,6 @@
   "id": "\\bYou got a good deal.",
   "en": "\\bYou got a good deal.",
   "it": "\\bHai fatto un buon affare."
- },
- {
-  "id": "\\rThey advise people to stand back from this.",
-  "en": "\\rThey advise people to stand back from this.",
-  "it": "\\rConsigliano alla gente di stare lontana da qui."
  },
  {
   "id": "\\bCaptain Aidan: \\PN. What are you doing here?",
@@ -215,6 +210,16 @@
   "it": "\\bVuoi riprenderti anche l'altro?"
  },
  {
+  "id": "\\rThey advise people to stand back from this.",
+  "en": "\\rThey advise people to stand back from this.",
+  "it": "\\rConsigliano alla gente di stare lontana da qui."
+ },
+ {
+  "id": "\\rWartortle!",
+  "en": "\\rWartortle!",
+  "it": "\\rWartortle!"
+ },
+ {
   "id": "\\bI'm looking for a Teddiursa.",
   "en": "\\bI'm looking for a Teddiursa.",
   "it": "\\bSto cercando un Teddiursa."
@@ -245,9 +250,9 @@
   "it": "\\bOttimo scambio."
  },
  {
-  "id": "\\rWartortle!",
-  "en": "\\rWartortle!",
-  "it": "\\rWartortle!"
+  "id": "\\bI traded and got a Lickitung! This is the best day ever!",
+  "en": "\\bI traded and got a Lickitung! This is the best day ever!",
+  "it": "\\bHo fatto uno scambio e ho avuto un Lickitung! È il giorno più bello della mia vita!"
  },
  {
   "id": "\\bI can teach your Pokémon a move.",
@@ -263,16 +268,6 @@
   "id": "\\bCome back anytime!",
   "en": "\\bCome back anytime!",
   "it": "\\bTorna quando vuoi!"
- },
- {
-  "id": "\\bI traded and got a Lickitung! This is the best day ever!",
-  "en": "\\bI traded and got a Lickitung! This is the best day ever!",
-  "it": "\\bHo fatto uno scambio e ho avuto un Lickitung! È il giorno più bello della mia vita!"
- },
- {
-  "id": "\\bSuch a festive time, isn't it?",
-  "en": "\\bSuch a festive time, isn't it?",
-  "it": "\\bChe periodo di festa, vero?"
  },
  {
   "id": "\\bWelcome to the Tauros competition, where you face last year's champion in a battle.",
@@ -330,9 +325,9 @@
   "it": "\\bÈ stata una gran lotta. Mi prenderò cura di Tauros."
  },
  {
-  "id": "\\bI want to win the prize for the competition.",
-  "en": "\\bI want to win the prize for the competition.",
-  "it": "\\bVoglio vincere il premio della gara."
+  "id": "\\bSuch a festive time, isn't it?",
+  "en": "\\bSuch a festive time, isn't it?",
+  "it": "\\bChe periodo di festa, vero?"
  },
  {
   "id": "\\bI'm looking for a Tauros.",
@@ -360,9 +355,9 @@
   "it": "\\PN ha scambiato Tauros con Rhyhorn!"
  },
  {
-  "id": "\\rI wish I had a Tauros so I could enter.",
-  "en": "\\rI wish I had a Tauros so I could enter.",
-  "it": "\\rVorrei avere un Tauros per poter partecipare."
+  "id": "\\bI want to win the prize for the competition.",
+  "en": "\\bI want to win the prize for the competition.",
+  "it": "\\bVoglio vincere il premio della gara."
  },
  {
   "id": "\\rI'm looking for a Corsola.",
@@ -410,9 +405,9 @@
   "it": "\\rIl mio nuovo Corsola è fantastico!"
  },
  {
-  "id": "\\bHave you checked out the vendors?",
-  "en": "\\bHave you checked out the vendors?",
-  "it": "\\bHai dato un'occhiata alle bancarelle?"
+  "id": "\\rI wish I had a Tauros so I could enter.",
+  "en": "\\rI wish I had a Tauros so I could enter.",
+  "it": "\\rVorrei avere un Tauros per poter partecipare."
  },
  {
   "id": "\\bI'm looking for a Butterfree.",
@@ -445,14 +440,14 @@
   "it": "\\bGrazie ancora."
  },
  {
+  "id": "\\bHave you checked out the vendors?",
+  "en": "\\bHave you checked out the vendors?",
+  "it": "\\bHai dato un'occhiata alle bancarelle?"
+ },
+ {
   "id": "\\bMy mom gave me money to buy as much as I want!",
   "en": "\\bMy mom gave me money to buy as much as I want!",
   "it": "\\bLa mamma mi ha dato i soldi per comprare tutto quello che voglio!"
- },
- {
-  "id": "\\bWanna trade? Wait. I changed my mind.",
-  "en": "\\bWanna trade? Wait. I changed my mind.",
-  "it": "\\bTi va uno scambio? Anzi no. Ho cambiato idea."
  },
  {
   "id": "\\rI'm looking for a Mankey.",
@@ -483,6 +478,11 @@
   "id": "\\rI love my new Pokémon!",
   "en": "\\rI love my new Pokémon!",
   "it": "\\rAdoro il mio nuovo Pokémon!"
+ },
+ {
+  "id": "\\bWanna trade? Wait. I changed my mind.",
+  "en": "\\bWanna trade? Wait. I changed my mind.",
+  "it": "\\bTi va uno scambio? Anzi no. Ho cambiato idea."
  },
  {
   "id": "Yes",

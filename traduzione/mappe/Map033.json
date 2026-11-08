@@ -30,6 +30,21 @@
   "it": "\\bOttimo lavoro alla Lega, \\PN!"
  },
  {
+  "id": "\\bPsst. I've got a sweet deal for you, Orange League Champ.",
+  "en": "\\bPsst. I've got a sweet deal for you, Orange League Champ.",
+  "it": "\\bPsst. Ho un affare d'oro per te, Campione della Lega Orange."
+ },
+ {
+  "id": "\\bFor 50 per piece, these candies will give your Pokémon 10 levels each, trust me!",
+  "en": "\\bFor 50 per piece, these candies will give your Pokémon 10 levels each, trust me!",
+  "it": "\\bA 50 l'una, queste caramelle faranno salire i tuoi Pokémon di 10 livelli ciascuna, fidati!"
+ },
+ {
+  "id": "\\bTalk to me again if you'd like some, hehe.",
+  "en": "\\bTalk to me again if you'd like some, hehe.",
+  "it": "\\bParlami di nuovo se ne vuoi qualcuna, eheh."
+ },
+ {
   "id": "\\bProfessor Oak focuses on Pokémon and human relationships in his research.",
   "en": "\\bProfessor Oak focuses on Pokémon and human relationships in his research.",
   "it": "\\bNelle sue ricerche il Professor Oak si concentra sul rapporto tra Pokémon ed esseri umani."
@@ -55,9 +70,14 @@
   "it": "\\rPidgeot"
  },
  {
-  "id": "\\bFeeling slow? Press the 'F7' key.",
-  "en": "\\bFeeling slow? Press the 'F7' key.",
-  "it": "\\bTi senti lento? Premi il tasto 'F7'."
+  "id": "\\bFeeling slow? Press the 'F' or 'F7' key.",
+  "en": "\\bFeeling slow? Press the 'F' or 'F7' key.",
+  "it": "\\bTi senti lento? Premi il tasto 'F' o 'F7'."
+ },
+ {
+  "id": "\\bWant to save faster? Press the left 'Alt' key.",
+  "en": "\\bWant to save faster? Press the left 'Alt' key.",
+  "it": "\\bVuoi salvare più in fretta? Premi il tasto 'Alt' sinistro."
  },
  {
   "id": "\\PN's house",
@@ -255,9 +275,9 @@
   "it": "\\rNon uscire. Là fuori ci sono Pokémon selvatici."
  },
  {
-  "id": "\\rHi \\Pn, how is it going?",
-  "en": "\\rHi \\Pn, how is it going?",
-  "it": "\\rCiao \\Pn, come va?"
+  "id": "\\rHi \\PN, how is it going?",
+  "en": "\\rHi \\PN, how is it going?",
+  "it": "\\rCiao \\PN, come va?"
  },
  {
   "id": "Professor Oak's Lab",

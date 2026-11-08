@@ -1,10 +1,5 @@
 [
  {
-  "id": "It's a book. The title is <i>The Charizard of Oz</i>.",
-  "en": "It's a book. The title is <i>The Charizard of Oz</i>.",
-  "it": "È un libro. Il titolo è <i>Il Charizard di Oz</i>."
- },
- {
   "id": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
   "en": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
   "it": "\\bEhm...\\nAh, sì, sono il Cancellamosse."
@@ -65,19 +60,19 @@
   "it": "\\b\\v[3] ha dimenticato completamente \\v[4]."
  },
  {
-  "id": "\\bRoark is strong. He uses Rock types!",
-  "en": "\\bRoark is strong. He uses Rock types!",
-  "it": "\\bPedro è forte. Usa i tipi Roccia!"
+  "id": "It's a book. The title is <i>The Charizard of Oz</i>.",
+  "en": "It's a book. The title is <i>The Charizard of Oz</i>.",
+  "it": "È un libro. Il titolo è <i>Il Charizard di Oz</i>."
  },
  {
-  "id": "\\bWelcome to the Canalave City Library. Fell free to look around.",
-  "en": "\\bWelcome to the Canalave City Library. Fell free to look around.",
+  "id": "\\bWelcome to the Canalave City Library. Feel free to look around.",
+  "en": "\\bWelcome to the Canalave City Library. Feel free to look around.",
   "it": "\\bBenvenuto alla Biblioteca di Canalipoli. Sentiti libero di dare un'occhiata."
  },
  {
-  "id": "\\rByron is strong. He uses Steel types!",
-  "en": "\\rByron is strong. He uses Steel types!",
-  "it": "\\rFerruccio è forte. Usa i tipi Acciaio!"
+  "id": "\\bRoark is strong. He uses Rock types!",
+  "en": "\\bRoark is strong. He uses Rock types!",
+  "it": "\\bPedro è forte. Usa i tipi Roccia!"
  },
  {
   "id": "\\rDawn: You made it.",
@@ -85,19 +80,14 @@
   "it": "\\rLucinda: Ce l'hai fatta."
  },
  {
+  "id": "\\rByron is strong. He uses Steel types!",
+  "en": "\\rByron is strong. He uses Steel types!",
+  "it": "\\rFerruccio è forte. Usa i tipi Acciaio!"
+ },
+ {
   "id": "It's a book. The title is <i>Detective Pikachu</i>.",
   "en": "It's a book. The title is <i>Detective Pikachu</i>.",
   "it": "È un libro. Il titolo è <i>Detective Pikachu</i>."
- },
- {
-  "id": "It's a book. The title is <i>Zubatman vs. Spinarakman: the Crossover</i>.",
-  "en": "It's a book. The title is <i>Zubatman vs. Spinarakman: the Crossover</i>.",
-  "it": "È un libro. Il titolo è <i>Zubatman contro Spinarakman: il crossover</i>."
- },
- {
-  "id": "\\bThe kids can't decide who the best Gym Leader is. I prefer Jasmine to be honest.",
-  "en": "\\bThe kids can't decide who the best Gym Leader is. I prefer Jasmine to be honest.",
-  "it": "\\bI ragazzi non riescono a decidere chi sia il Capopalestra migliore. A essere sincero, io preferisco Jasmine."
  },
  {
   "id": "A bunch of books. Best to leave them alone.",
@@ -105,9 +95,19 @@
   "it": "Un mucchio di libri. Meglio lasciarli stare."
  },
  {
-  "id": "\\rWho are you? Have you no respect for privacy. Kids these days...",
-  "en": "\\rWho are you? Have you no respect for privacy.  Kids these days...",
-  "it": "\\rChi sei? Non hai rispetto per la privacy? I ragazzi d'oggi..."
+  "id": "\\bThe kids can't decide who the best Gym Leader is. I prefer Jasmine to be honest.",
+  "en": "\\bThe kids can't decide who the best Gym Leader is. I prefer Jasmine to be honest.",
+  "it": "\\bI ragazzi non riescono a decidere chi sia il Capopalestra migliore. A essere sincero, io preferisco Jasmine."
+ },
+ {
+  "id": "It's a book. The title is <i>Zubatman vs. Spinarakman: the Crossover</i>.",
+  "en": "It's a book. The title is <i>Zubatman vs. Spinarakman: the Crossover</i>.",
+  "it": "È un libro. Il titolo è <i>Zubatman contro Spinarakman: il crossover</i>."
+ },
+ {
+  "id": "\\bGoh: The history here is incredible. I'd like to try out some of their technology.",
+  "en": "\\bGoh: The history here is incredible. I'd like to try out some of their technology.",
+  "it": "\\bGoh: La storia di questo posto è incredibile. Mi piacerebbe provare un po' della loro tecnologia."
  },
  {
   "id": "\\bWait, what? Why do you assume I use birds?",
@@ -115,9 +115,9 @@
   "it": "\\bAspetta, cosa? Perché dai per scontato che io usi gli uccelli?"
  },
  {
-  "id": "\\bGoh: The history here is incredible. I'd like to try out some of their technology.",
-  "en": "\\bGoh: The history here is incredible. I'd like to try out some of their technology.",
-  "it": "\\bGoh: La storia di questo posto è incredibile. Mi piacerebbe provare un po' della loro tecnologia."
+  "id": "\\rWho are you? Have you no respect for privacy. Kids these days...",
+  "en": "\\rWho are you? Have you no respect for privacy.  Kids these days...",
+  "it": "\\rChi sei? Non hai rispetto per la privacy? I ragazzi d'oggi..."
  },
  {
   "id": "\\bCan't find any books you like? Maybe this will satisfy you better.",

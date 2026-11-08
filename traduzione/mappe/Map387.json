@@ -1,148 +1,13 @@
 [
  {
-  "id": "Graveler",
-  "en": "Graveler",
-  "it": "Graveler"
- },
- {
-  "id": "\\rWhenever I visit I get carried away and buy too much.",
-  "en": "\\rWhenever I visit I get carried away and buy too much.",
-  "it": "\\rOgni volta che vengo mi faccio prendere la mano e compro troppo."
- },
- {
   "id": "\\bBa..gon",
   "en": "\\bBa..gon",
   "it": "\\bBa..gon"
  },
  {
-  "id": "\\bThe beam from the lighthouse reaches for dozens of miles.",
-  "en": "\\bThe beam from the lighthouse reaches for dozens of miles.",
-  "it": "\\bIl raggio del faro arriva a decine di chilometri di distanza."
- },
- {
-  "id": "\\bI wonder if the light bothers any sea Pokémon?",
-  "en": "\\bI wonder if the light bothers any sea Pokémon?",
-  "it": "\\bChissà se la luce dà fastidio ai Pokémon marini?"
- },
- {
-  "id": "\\bBoy am I tired. I came all the way Mauville City.",
-  "en": "\\bBoy am I tired. I came all the way Mauville City.",
-  "it": "\\bAccidenti, che stanchezza. Sono venuto fin qui da Ciclamipoli."
- },
- {
-  "id": "\\bIf I had known this city was so big I would have brought my bike.",
-  "en": "\\bIf I had known this city was so big I would have brought my bike.",
-  "it": "\\bSe avessi saputo che questa città era così grande, mi sarei portato la bici."
- },
- {
-  "id": "\\bChime chime",
-  "en": "\\bChime chime",
-  "it": "\\bChime chime"
- },
- {
-  "id": "\\bHey! Go support my girlfriend at the Pokémon Contest!",
-  "en": "\\bHey! Go support my girlfriend at the Pokémon Contest!",
-  "it": "\\bEhi! Vai a fare il tifo per la mia ragazza alla Gara Pokémon!"
- },
- {
-  "id": "\\bI can't believe she lost...",
-  "en": "\\bI can't believe she lost...",
-  "it": "\\bNon posso credere che abbia perso..."
- },
- {
-  "id": "\\bThe sea is just so vast...",
-  "en": "\\bThe sea is just so vast...",
-  "it": "\\bIl mare è così vasto..."
- },
- {
-  "id": "Slateport Harbor",
-  "en": "Slateport Harbor",
-  "it": "Porto di Porto Selcepoli"
- },
- {
-  "id": "Enjoy a delightful cruise on the ferry S.S. Tidal",
-  "en": "Enjoy a delightful cruise on the ferry S.S. Tidal",
-  "it": "Goditi una piacevole crociera sul traghetto M/N Marea"
- },
- {
-  "id": "\\bSealeo",
-  "en": "\\bSealeo",
-  "it": "\\bSealeo"
- },
- {
-  "id": "\\bWhen you sink a man-made object into the sea to make a habitat it's called an artifical reef.",
-  "en": "\\bWhen you sink a man-made object into the sea to make a habitat it's called an artifical reef.",
-  "it": "\\bQuando si affonda un oggetto artificiale in mare per creare un habitat, si parla di barriera artificiale."
- },
- {
-  "id": "\\bWe are not ready to ship off yet. Hold off a little bit.",
-  "en": "\\bWe are not ready to ship off yet. Hold off a little bit.",
-  "it": "\\bNon siamo ancora pronti a salpare. Pazienta un pochino."
- },
- {
-  "id": "\\bStoutland",
-  "en": "\\bStoutland",
-  "it": "\\bStoutland"
- },
- {
-  "id": "Stern's Shipyard",
-  "en": "Stern's Shipyard",
-  "it": "Cantiere di Remo"
- },
- {
-  "id": "Slateport Pokémon Contest Hall",
-  "en": "Slateport Pokémon Contest Hall",
-  "it": "Sala Gare Pokémon di Porto Selcepoli"
- },
- {
-  "id": "\\bI'm sorry, but only employees are allowed to enter. Company rule.",
-  "en": "\\bI'm sorry, but only employees are allowed to enter.  Company rule.",
-  "it": "\\bMi dispiace, ma possono entrare solo i dipendenti. Regola aziendale."
- },
- {
   "id": "\\bI can't wait to get older and enter some Contests!",
   "en": "\\bI can't wait to get older and enter some Contests!",
   "it": "\\bNon vedo l'ora di crescere e partecipare alle Gare!"
- },
- {
-  "id": "\\rWhen the water is clean, the fruits of bountiful harvest gather.",
-  "en": "\\rWhen the water is clean, the fruits of bountiful harvest gather.",
-  "it": "\\rQuando l'acqua è pulita, si raccolgono i frutti di un raccolto abbondante."
- },
- {
-  "id": "\\rAnd when people gather, a market for exchange soon starts.",
-  "en": "\\rAnd when people gather, a market for exchange soon starts.",
-  "it": "\\rE quando le persone si radunano, presto nasce un mercato di scambi."
- },
- {
-  "id": "\\rThis is how a town is formed.",
-  "en": "\\rThis is how a town is formed.",
-  "it": "\\rÈ così che nasce una città."
- },
- {
-  "id": "\\bTime to get ready for my Contest. You'll do.",
-  "en": "\\bTime to get ready for my Contest. You'll do.",
-  "it": "\\bÈ ora di prepararmi per la mia Gara. Tu andrai benissimo."
- },
- {
-  "id": "\\bThe ribbon is mine.",
-  "en": "\\bThe ribbon is mine.",
-  "it": "\\bIl fiocco è mio."
- },
- {
-  "id": "\\bIf you want to change the name of your Pokémon, get the Name Rater to do it. He lives in this town somewhere.",
-  "en": "\\bIf you want to change the name of your Pokémon, get the Name Rater to do it. He lives in this town somewhere.",
-  "it": "\\bSe vuoi cambiare il nome del tuo Pokémon, fallo fare al Giudice dei Nomi. Vive da qualche parte in questa città."
- },
- {
-  "id": "\\bDon't get in our way.",
-  "en": "\\bDon't get in our way.",
-  "it": "\\bNon metterti in mezzo."
- },
- {
-  "id": "\\bYou won't make it.",
-  "en": "\\bYou won't make it.",
-  "it": "\\bNon ce la farai."
  },
  {
   "id": "\\rWhen I was a child, I visited the museum often.",
@@ -155,9 +20,124 @@
   "it": "\\rDopo aver visto le esposizioni, sognavo i misteri del mare."
  },
  {
+  "id": "\\bThe sea is just so vast...",
+  "en": "\\bThe sea is just so vast...",
+  "it": "\\bIl mare è così vasto..."
+ },
+ {
+  "id": "\\bChime chime",
+  "en": "\\bChime chime",
+  "it": "\\bChime chime"
+ },
+ {
+  "id": "\\bIf you want to change the name of your Pokémon, get the Name Rater to do it. He lives in this town somewhere.",
+  "en": "\\bIf you want to change the name of your Pokémon, get the Name Rater to do it. He lives in this town somewhere.",
+  "it": "\\bSe vuoi cambiare il nome del tuo Pokémon, fallo fare al Giudice dei Nomi. Vive da qualche parte in questa città."
+ },
+ {
+  "id": "The endless sea substains all life.\\nOceanic Museum",
+  "en": "The endless sea substains all life.\\nOceanic Museum",
+  "it": "Il mare infinito sostiene ogni forma di vita.\\nMuseo Oceanografico"
+ },
+ {
+  "id": "\\bBoy am I tired. I came all the way Mauville City.",
+  "en": "\\bBoy am I tired. I came all the way Mauville City.",
+  "it": "\\bAccidenti, che stanchezza. Sono venuto fin qui da Ciclamipoli."
+ },
+ {
+  "id": "\\bIf I had known this city was so big I would have brought my bike.",
+  "en": "\\bIf I had known this city was so big I would have brought my bike.",
+  "it": "\\bSe avessi saputo che questa città era così grande, mi sarei portato la bici."
+ },
+ {
+  "id": "\\bWhen you sink a man-made object into the sea to make a habitat it's called an artifical reef.",
+  "en": "\\bWhen you sink a man-made object into the sea to make a habitat it's called an artifical reef.",
+  "it": "\\bQuando si affonda un oggetto artificiale in mare per creare un habitat, si parla di barriera artificiale."
+ },
+ {
+  "id": "\\bTime to get ready for my Contest. You'll do.",
+  "en": "\\bTime to get ready for my Contest. You'll do.",
+  "it": "\\bÈ ora di prepararmi per la mia Gara. Tu andrai benissimo."
+ },
+ {
+  "id": "\\bThe ribbon is mine.",
+  "en": "\\bThe ribbon is mine.",
+  "it": "\\bIl fiocco è mio."
+ },
+ {
+  "id": "\\bSealeo",
+  "en": "\\bSealeo",
+  "it": "\\bSealeo"
+ },
+ {
   "id": "\\rAny Pokémon you get in a trade can't have its nickname changed.",
   "en": "\\rAny Pokémon you get in a trade can't have its nickname changed.",
   "it": "\\rA un Pokémon ottenuto tramite scambio non si può cambiare il soprannome."
+ },
+ {
+  "id": "Slateport City\\nThe port where people and Pokémon cross paths with nature.",
+  "en": "Slateport City\\nThe port where people and Pokémon cross paths with nature.",
+  "it": "Porto Selcepoli\\nIl porto dove persone e Pokémon incontrano la natura."
+ },
+ {
+  "id": "Slateport Harbor",
+  "en": "Slateport Harbor",
+  "it": "Porto di Porto Selcepoli"
+ },
+ {
+  "id": "Enjoy a delightful cruise on the ferry S.S. Tidal",
+  "en": "Enjoy a delightful cruise on the ferry S.S. Tidal",
+  "it": "Goditi una piacevole crociera sul traghetto M/N Marea"
+ },
+ {
+  "id": "Stern's Shipyard",
+  "en": "Stern's Shipyard",
+  "it": "Cantiere di Remo"
+ },
+ {
+  "id": "\\bDon't get in our way.",
+  "en": "\\bDon't get in our way.",
+  "it": "\\bNon metterti in mezzo."
+ },
+ {
+  "id": "\\bYou won't make it.",
+  "en": "\\bYou won't make it.",
+  "it": "\\bNon ce la farai."
+ },
+ {
+  "id": "\\rWhenever I visit I get carried away and buy too much.",
+  "en": "\\rWhenever I visit I get carried away and buy too much.",
+  "it": "\\rOgni volta che vengo mi faccio prendere la mano e compro troppo."
+ },
+ {
+  "id": "\\bHey! Go support my girlfriend at the Pokémon Contest!",
+  "en": "\\bHey! Go support my girlfriend at the Pokémon Contest!",
+  "it": "\\bEhi! Vai a fare il tifo per la mia ragazza alla Gara Pokémon!"
+ },
+ {
+  "id": "\\bI can't believe she lost...",
+  "en": "\\bI can't believe she lost...",
+  "it": "\\bNon posso credere che abbia perso..."
+ },
+ {
+  "id": "\\bStoutland",
+  "en": "\\bStoutland",
+  "it": "\\bStoutland"
+ },
+ {
+  "id": "Slateport Market\\nUnique items found nowhere else!",
+  "en": "Slateport Market\\nUnique items found nowhere else!",
+  "it": "Mercato di Porto Selcepoli\\nStrumenti unici che non troverai altrove!"
+ },
+ {
+  "id": "\\bWe are not ready to ship off yet. Hold off a little bit.",
+  "en": "\\bWe are not ready to ship off yet. Hold off a little bit.",
+  "it": "\\bNon siamo ancora pronti a salpare. Pazienta un pochino."
+ },
+ {
+  "id": "\\bI'm sorry, but only employees are allowed to enter. Company rule.",
+  "en": "\\bI'm sorry, but only employees are allowed to enter.  Company rule.",
+  "it": "\\bMi dispiace, ma possono entrare solo i dipendenti. Regola aziendale."
  },
  {
   "id": "\\bTabitha: You want to stop us from taking the rock sample? You are very misinformed to think you can do so.",
@@ -175,14 +155,29 @@
   "it": "\\bNon intralciare il Team Magma."
  },
  {
-  "id": "The endless sea substains all life.\\nOceanic Museum",
-  "en": "The endless sea substains all life.\\nOceanic Museum",
-  "it": "Il mare infinito sostiene ogni forma di vita.\\nMuseo Oceanografico"
+  "id": "Graveler",
+  "en": "Graveler",
+  "it": "Graveler"
  },
  {
-  "id": "Slateport Market\\nUnique items found nowhere else!",
-  "en": "Slateport Market\\nUnique items found nowhere else!",
-  "it": "Mercato di Porto Selcepoli\\nStrumenti unici che non troverai altrove!"
+  "id": "Slateport Pokémon Contest Hall",
+  "en": "Slateport Pokémon Contest Hall",
+  "it": "Sala Gare Pokémon di Porto Selcepoli"
+ },
+ {
+  "id": "\\rWhen the water is clean, the fruits of bountiful harvest gather.",
+  "en": "\\rWhen the water is clean, the fruits of bountiful harvest gather.",
+  "it": "\\rQuando l'acqua è pulita, si raccolgono i frutti di un raccolto abbondante."
+ },
+ {
+  "id": "\\rAnd when people gather, a market for exchange soon starts.",
+  "en": "\\rAnd when people gather, a market for exchange soon starts.",
+  "it": "\\rE quando le persone si radunano, presto nasce un mercato di scambi."
+ },
+ {
+  "id": "\\rThis is how a town is formed.",
+  "en": "\\rThis is how a town is formed.",
+  "it": "\\rÈ così che nasce una città."
  },
  {
   "id": "\\bThink you can take me?",
@@ -195,8 +190,13 @@
   "it": "\\bNon importa. Il capo ti farà fuori."
  },
  {
-  "id": "Slateport City\\nThe port where people and Pokémon cross paths with nature.",
-  "en": "Slateport City\\nThe port where people and Pokémon cross paths with nature.",
-  "it": "Porto Selcepoli\\nIl porto dove persone e Pokémon incontrano la natura."
+  "id": "\\bThe beam from the lighthouse reaches for dozens of miles.",
+  "en": "\\bThe beam from the lighthouse reaches for dozens of miles.",
+  "it": "\\bIl raggio del faro arriva a decine di chilometri di distanza."
+ },
+ {
+  "id": "\\bI wonder if the light bothers any sea Pokémon?",
+  "en": "\\bI wonder if the light bothers any sea Pokémon?",
+  "it": "\\bChissà se la luce dà fastidio ai Pokémon marini?"
  }
 ]

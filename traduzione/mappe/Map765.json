@@ -35,16 +35,6 @@
   "it": "\\bMeowth: E più forti che mai!"
  },
  {
-  "id": "\\bSome villans tried turning my Haxorus against me.",
-  "en": "\\bSome villans tried turning my Haxorus against me.",
-  "it": "\\bDei malviventi hanno cercato di mettere il mio Haxorus contro di me."
- },
- {
-  "id": "\\bThe nerve of some people. What if someone got hurt?",
-  "en": "\\bThe nerve of some people. What if someone got hurt?",
-  "it": "\\bChe faccia tosta, certa gente. E se qualcuno si fosse fatto male?"
- },
- {
   "id": "\\bN: Your Pokémon... their voices are so pure. Are you not a Trainer?",
   "en": "\\bN: Your Pokémon... their voices are so pure. Are you not a Trainer?",
   "it": "\\bN: I tuoi Pokémon... le loro voci sono così pure. Non sei un Allenatore?"
@@ -58,6 +48,16 @@
   "id": "\\bNo, it cannot be so simple, but you have given me a lot to think about.",
   "en": "\\bNo, it cannot be so simple, but you have given me a lot to think about.",
   "it": "\\bNo, non può essere così semplice, ma mi hai dato molto su cui riflettere."
+ },
+ {
+  "id": "\\bSome villans tried turning my Haxorus against me.",
+  "en": "\\bSome villans tried turning my Haxorus against me.",
+  "it": "\\bDei malviventi hanno cercato di mettere il mio Haxorus contro di me."
+ },
+ {
+  "id": "\\bThe nerve of some people. What if someone got hurt?",
+  "en": "\\bThe nerve of some people. What if someone got hurt?",
+  "it": "\\bChe faccia tosta, certa gente. E se qualcuno si fosse fatto male?"
  },
  {
   "id": "\\rI just started my journey.",

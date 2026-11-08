@@ -17,7 +17,7 @@
  {
   "id": "\\rI can never stop a trainer from getting to Ramos.",
   "en": "\\rI can never stop a trainer from getting to Ramos.",
-  "it": "\\rNon riesco mai a impedire a un Allenatore di arrivare da Ramos."
+  "it": "\\rNon riesco mai a impedire a un Allenatore di arrivare da Amur."
  },
  {
   "id": "\\bRamos: Welcome to my gym. I hope you enjoyed the nature as you came here. There won't be any time to look now that you've come to me.",
@@ -52,17 +52,17 @@
  {
   "id": "\\rI was supposed to be the champion. I was going to challenge Ramos after this...",
   "en": "\\rI was supposed to be the champion. I was going to challenge Ramos after this...",
-  "it": "\\rIl campione dovevo essere io. Dopo questa avrei sfidato Ramos..."
+  "it": "\\rIl campione dovevo essere io. Dopo questa avrei sfidato Amur..."
  },
  {
-  "id": "\\bRamos uses Grass type Pokémon. They are weak aganst the Bug, Fire, Poison, Flying, and Ice types.",
-  "en": "\\bRamos uses Grass type Pokémon. They are weak aganst the Bug, Fire, Poison, Flying, and Ice types.",
+  "id": "\\bRamos uses Grass type Pokémon. They are weak against the Bug, Fire, Poison, Flying, and Ice types.",
+  "en": "\\bRamos uses Grass type Pokémon. They are weak against the Bug, Fire, Poison, Flying, and Ice types.",
   "it": "\\bRamos usa Pokémon di tipo Erba. Sono deboli contro i tipi Coleottero, Fuoco, Veleno, Volante e Ghiaccio."
  },
  {
-  "id": "\\bThey are strong against Water, Ground, and Rock. Electirc, Grass, Ground, and Water moves also don't do much damage.",
-  "en": "\\bThey are strong against Water, Ground, and Rock.  Electirc, Grass, Ground, and Water moves also don't do much damage.",
-  "it": "\\bSono forti contro Acqua, Terra e Roccia. Anche le mosse di tipo Elettro, Erba, Terra e Acqua non fanno loro molti danni."
+  "id": "\\bThey are strong against Water, Ground, and Rock. Electric, Grass, Ground, and Water moves also don't do much damage.",
+  "en": "\\bThey are strong against Water, Ground, and Rock.  Electric, Grass, Ground, and Water moves also don't do much damage.",
+  "it": "\\bSono forti contro Acqua, Terra e Roccia.  Anche le mosse di tipo Elettro, Erba, Terra e Acqua non fanno molti danni."
  },
  {
   "id": "\\bDidn't think you would challenge me.",

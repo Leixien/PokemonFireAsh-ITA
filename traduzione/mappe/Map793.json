@@ -1,8 +1,8 @@
 [
  {
-  "id": "\\bThere is a power outage coming from that way. I'm sorry but you can't pass right now.",
-  "en": "\\bThere is a power outage coming from that way. I'm sorry but you can't pass right now.",
-  "it": "\\bDa quella parte c'è un blackout. Mi dispiace, ma al momento non puoi passare."
+  "id": "\\rThere is a power outage coming from that way. I'm sorry but you can't pass right now.",
+  "en": "\\rThere is a power outage coming from that way. I'm sorry but you can't pass right now.",
+  "it": "\\rC'è un blackout che proviene da quella parte. Mi dispiace, ma ora non puoi passare."
  },
  {
   "id": "\\bFro?",
@@ -65,9 +65,9 @@
   "it": "Erboristeria"
  },
  {
-  "id": "\\bThis area is the source of the power outage. I'm sorry but you can't pass right now.",
-  "en": "\\bThis area is the source of the power outage. I'm sorry but you can't pass right now.",
-  "it": "\\bÈ da questa zona che parte il blackout. Mi dispiace, ma al momento non puoi passare."
+  "id": "\\rThis area is the source of the power outage. I'm sorry but you can't pass right now.",
+  "en": "\\rThis area is the source of the power outage. I'm sorry but you can't pass right now.",
+  "it": "\\rQuest'area è l'origine del blackout. Mi dispiace, ma ora non puoi passare."
  },
  {
   "id": "\\rArcanine",
@@ -125,14 +125,9 @@
   "it": "La porta è chiusa a chiave."
  },
  {
-  "id": "Rotom Phone: Incoming call from Goh:",
-  "en": "Rotom Phone: Incoming call from Goh:",
-  "it": "Smart Rotom: chiamata in arrivo da Goh:"
- },
- {
-  "id": "\\bGoh: \\PN, your match was amazing! It inspired me to go out and get an Altaria of my own. I bet I can find one in Lilycove City.",
-  "en": "\\bGoh: \\PN, your match was amazing! It inspired me to go out and get an Altaria of my own. I bet I can find one in Lilycove City.",
-  "it": "\\bGoh: \\PN, il tuo incontro è stato fantastico! Mi ha ispirato ad andare a prendermi un Altaria tutto mio. Scommetto che posso trovarne uno a Porto Alghepoli."
+  "id": "\\rWe look forward to seeing you rematch the Kalos League, Monarch \\PN.",
+  "en": "\\rWe look forward to seeing you rematch the Kalos League, Monarch \\PN.",
+  "it": "\\rNon vediamo l'ora di vederti affrontare di nuovo la Lega di Kalos, Monarca \\PN."
  },
  {
   "id": "\\rI wonder what caused the power failures.",
@@ -155,9 +150,19 @@
   "it": "\\bSappi che saremo sempre a tua disposizione, se mai avessi bisogno di noi."
  },
  {
-  "id": "\\bThe league is being set up right now. Come back later.",
-  "en": "\\bThe league is being set up right now. Come back later.",
-  "it": "\\bLa Lega è in fase di allestimento. Torna più tardi."
+  "id": "Rotom Phone: Incoming call from Goh:",
+  "en": "Rotom Phone: Incoming call from Goh:",
+  "it": "Smart Rotom: chiamata in arrivo da Goh:"
+ },
+ {
+  "id": "\\bGoh: \\PN, your match was amazing! It inspired me to go out and get an Altaria of my own. I bet I can find one in Lilycove City.",
+  "en": "\\bGoh: \\PN, your match was amazing! It inspired me to go out and get an Altaria of my own. I bet I can find one in Lilycove City.",
+  "it": "\\bGoh: \\PN, il tuo incontro è stato fantastico! Mi ha ispirato ad andare a prendermi un Altaria tutto mio. Scommetto che posso trovarne uno a Porto Alghepoli."
+ },
+ {
+  "id": "\\rThe league is being set up right now. Come back later.",
+  "en": "\\rThe league is being set up right now. Come back later.",
+  "it": "\\rLa Lega è in allestimento proprio ora. Torna più tardi."
  },
  {
   "id": "\\bClemont: I've been waiting for you \\PN. Let me give you one last battle before you start the league.",
@@ -175,14 +180,14 @@
   "it": "\\rClem: SÌÌ! Buona fortuna."
  },
  {
-  "id": "\\bThe Lumiose Conference is done. Come back next year.",
-  "en": "\\bThe Lumiose Conference is done. Come back next year.",
-  "it": "\\bLa Conferenza di Luminopoli è terminata. Torna l'anno prossimo."
+  "id": "\\rThe Lumiose Conference is done. Come back next year.",
+  "en": "\\rThe Lumiose Conference is done. Come back next year.",
+  "it": "\\rLa Conferenza di Luminopoli è terminata. Torna l'anno prossimo."
  },
  {
-  "id": "\\bAre you \\PN? Gym Leader Clemont told me you should stop and see him. The stadium is still being set up so you won't miss your match.",
-  "en": "\\bAre you \\PN? Gym Leader Clemont told me you should stop and see him. The stadium is still being set up so you won't miss your match.",
-  "it": "\\bSei tu \\PN? Il Capopalestra Lem mi ha detto che dovresti passare a trovarlo. Lo stadio è ancora in allestimento, quindi non perderai il tuo incontro."
+  "id": "\\rAre you \\PN? Gym Leader Clemont told me you should stop and see him. The stadium is still being set up so you won't miss your match.",
+  "en": "\\rAre you \\PN? Gym Leader Clemont told me you should stop and see him. The stadium is still being set up so you won't miss your match.",
+  "it": "\\rSei tu \\PN? Il Capopalestra Lem mi ha detto che dovresti passare a trovarlo. Lo stadio è ancora in allestimento, quindi non perderai il tuo incontro."
  },
  {
   "id": "\\bClemont: Hello there. Did you want to go into the gym? I'm sorry but I'm having some problems with the gym right now.",
@@ -225,16 +230,6 @@
   "it": "\\bLem: Io e Clem partiremo per un viaggio mentre la Palestra viene riparata. Speriamo di rivederti presto."
  },
  {
-  "id": "\\bAlain: I don't know what's next for you \\PN, but I think I'm going to visit Professor Sycamore before heading out again.",
-  "en": "\\bAlain: I don't know what's next for you \\PN, but I think I'm going to visit Professor Sycamore before heading out again.",
-  "it": "\\bAlan: Non so cosa ti aspetti adesso, \\PN, ma credo che andrò a trovare il Professor Platan prima di ripartire."
- },
- {
-  "id": "\\bYou have a professor you talk with, don't you? Why don't you go visit him?",
-  "en": "\\bYou have a professor you talk with, don't you?  Why don't you go visit him?",
-  "it": "\\bAnche tu hai un professore con cui parli, vero?  Perché non vai a trovarlo?"
- },
- {
   "id": "\\bI'm one of the lens brothers. Good job finding me.",
   "en": "\\bI'm one of the lens brothers. Good job finding me.",
   "it": "\\bSono uno dei fratelli dell'obiettivo. Bravo, mi hai trovato."
@@ -245,14 +240,14 @@
   "it": "\\bVedi se riesci a trovare i miei fratelli."
  },
  {
-  "id": "Lumiose City Pokémon Gym Leader:\\nClemont",
-  "en": "Lumiose City Pokémon Gym Leader:\\nClemont",
-  "it": "Capopalestra di Luminopoli:\\nLem"
+  "id": "\\bAlain: I don't know what's next for you \\PN, but I think I'm going to visit Professor Sycamore before heading out again.",
+  "en": "\\bAlain: I don't know what's next for you \\PN, but I think I'm going to visit Professor Sycamore before heading out again.",
+  "it": "\\bAlan: Non so cosa ti aspetti adesso, \\PN, ma credo che andrò a trovare il Professor Platan prima di ripartire."
  },
  {
-  "id": "The inventor lighting up the world.",
-  "en": "The inventor lighting up the world.",
-  "it": "L'inventore che illumina il mondo."
+  "id": "\\bYou have a professor you talk with, don't you? Why don't you go visit him?",
+  "en": "\\bYou have a professor you talk with, don't you?  Why don't you go visit him?",
+  "it": "\\bAnche tu hai un professore con cui parli, vero?  Perché non vai a trovarlo?"
  },
  {
   "id": "\\rBonnie: I hope you're right, big brother.",
@@ -265,6 +260,16 @@
   "it": "\\rClem: Viaggiare sarà divertentissimo! Non vedo l'ora di partire."
  },
  {
+  "id": "Lumiose City Pokémon Gym Leader:\\nClemont",
+  "en": "Lumiose City Pokémon Gym Leader:\\nClemont",
+  "it": "Capopalestra di Luminopoli:\\nLem"
+ },
+ {
+  "id": "The inventor lighting up the world.",
+  "en": "The inventor lighting up the world.",
+  "it": "L'inventore che illumina il mondo."
+ },
+ {
   "id": "\\rAlexa: Ah, hello \\PN. Have you found my sister yet?",
   "en": "\\rAlexa: Ah, hello \\PN. Have you found my sister yet?",
   "it": "\\rAlexa: Ah, ciao \\PN. Hai già trovato mia sorella?"
@@ -273,11 +278,6 @@
   "id": "Lumiose City\\nThe City of Light",
   "en": "Lumiose City\\nThe City of Light",
   "it": "Luminopoli\\nLa Città della Luce"
- },
- {
-  "id": "\\rBonnie: Good luck \\PN.",
-  "en": "\\rBonnie: Good luck \\PN.",
-  "it": "\\rClem: Buona fortuna, \\PN."
  },
  {
   "id": "\\bI came to challenge the Lumiose Gym.",
@@ -290,24 +290,14 @@
   "it": "\\bChe lotta! Spero di guadagnarmi la medaglia."
  },
  {
+  "id": "\\rBonnie: Good luck \\PN.",
+  "en": "\\rBonnie: Good luck \\PN.",
+  "it": "\\rClem: Buona fortuna, \\PN."
+ },
+ {
   "id": "\\bThis town is too big. I can never get anywhere on time.",
   "en": "\\bThis town is too big. I can never get anywhere on time.",
   "it": "\\bQuesta città è troppo grande. Non riesco mai ad arrivare in tempo da nessuna parte."
- },
- {
-  "id": "\\bCome for my dance moves, stay for the battle.",
-  "en": "\\bCome for my dance moves, stay for the battle.",
-  "it": "\\bVieni per i miei passi di danza, resta per la lotta."
- },
- {
-  "id": "\\bYou can stay and watch me dance.",
-  "en": "\\bYou can stay and watch me dance.",
-  "it": "\\bPuoi restare a guardarmi ballare."
- },
- {
-  "id": "\\rWhat should I go shopping for?",
-  "en": "\\rWhat should I go shopping for?",
-  "it": "\\rCosa dovrei andare a comprare?"
  },
  {
   "id": "\\rFletchling",
@@ -325,14 +315,19 @@
   "it": "\\rTalonflame"
  },
  {
-  "id": "Lysandre Café",
-  "en": "Lysandre Café",
-  "it": "Café Elisio"
+  "id": "\\rWhat should I go shopping for?",
+  "en": "\\rWhat should I go shopping for?",
+  "it": "\\rCosa dovrei andare a comprare?"
  },
  {
-  "id": "\\bThe gym here is located at the top of the tower. It's our pride and joy.",
-  "en": "\\bThe gym here is located at the top of the tower. It's our pride and joy.",
-  "it": "\\bLa Palestra di questa città si trova in cima alla torre. È il nostro orgoglio."
+  "id": "\\bCome for my dance moves, stay for the battle.",
+  "en": "\\bCome for my dance moves, stay for the battle.",
+  "it": "\\bVieni per i miei passi di danza, resta per la lotta."
+ },
+ {
+  "id": "\\bYou can stay and watch me dance.",
+  "en": "\\bYou can stay and watch me dance.",
+  "it": "\\bPuoi restare a guardarmi ballare."
  },
  {
   "id": "\\bYou seem strong. Beat my son and I'll give you something nice.",
@@ -348,6 +343,16 @@
   "id": "\\bKeep growing stronger kid.",
   "en": "\\bKeep growing stronger kid.",
   "it": "\\bContinua a diventare più forte, ragazzo."
+ },
+ {
+  "id": "\\bThe gym here is located at the top of the tower. It's our pride and joy.",
+  "en": "\\bThe gym here is located at the top of the tower. It's our pride and joy.",
+  "it": "\\bLa Palestra di questa città si trova in cima alla torre. È il nostro orgoglio."
+ },
+ {
+  "id": "Lysandre Café",
+  "en": "Lysandre Café",
+  "it": "Café Elisio"
  },
  {
   "id": "Yes",

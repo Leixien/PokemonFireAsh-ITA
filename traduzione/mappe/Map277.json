@@ -35,16 +35,6 @@
   "it": "Vuoi portarlo con te?"
  },
  {
-  "id": "\\rMeet the great and powerful.",
-  "en": "\\rMeet the great and powerful.",
-  "it": "\\rEcco a voi il grande e potente."
- },
- {
-  "id": "\\rStop by and see my show later.",
-  "en": "\\rStop by and see my show later.",
-  "it": "\\rPassa a vedere il mio spettacolo più tardi."
- },
- {
   "id": "\\bThis place is paradise.",
   "en": "\\bThis place is paradise.",
   "it": "\\bQuesto posto è un paradiso."
@@ -60,6 +50,26 @@
   "it": "\\bGli insetti qui sono meravigliosi."
  },
  {
+  "id": "\\rMeet the great and powerful.",
+  "en": "\\rMeet the great and powerful.",
+  "it": "\\rEcco a voi il grande e potente."
+ },
+ {
+  "id": "\\rStop by and see my show later.",
+  "en": "\\rStop by and see my show later.",
+  "it": "\\rPassa a vedere il mio spettacolo più tardi."
+ },
+ {
+  "id": "\\bOh, please listen to me this time.",
+  "en": "\\bOh, please listen to me this time.",
+  "it": "\\bOh, ti prego, stavolta ascoltami."
+ },
+ {
+  "id": "\\bHave you found any charcoal?",
+  "en": "\\bHave you found any charcoal?",
+  "it": "\\bHai trovato della carbonella?"
+ },
+ {
   "id": "\\bNoctowl",
   "en": "\\bNoctowl",
   "it": "\\bNoctowl"
@@ -73,16 +83,6 @@
   "id": "The Pokémon Boxes are full and can't accept any more!",
   "en": "The Pokémon Boxes are full and can't accept any more!",
   "it": "I Box Pokémon sono pieni e non possono accoglierne altri!"
- },
- {
-  "id": "\\bOh, please listen to me this time.",
-  "en": "\\bOh, please listen to me this time.",
-  "it": "\\bOh, ti prego, stavolta ascoltami."
- },
- {
-  "id": "\\bHave you found any charcoal?",
-  "en": "\\bHave you found any charcoal?",
-  "it": "\\bHai trovato della carbonella?"
  },
  {
   "id": "\\bShiny Pokémon are Pokémon of a different color.",

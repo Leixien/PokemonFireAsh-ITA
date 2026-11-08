@@ -1,53 +1,53 @@
 [
  {
-  "id": "\\bAre you \\PN? Someone was talking about you earlier. They seemed a bit upset about something.",
-  "en": "\\bAre you \\PN? Someone was talking about you earlier. They seemed a bit upset about something.",
-  "it": "\\bSei \\PN? Poco fa qualcuno parlava di te. Sembrava un po' arrabbiato per qualcosa."
+  "id": "\\rAre you \\PN? Someone was talking about you earlier. They seemed a bit upset about something.",
+  "en": "\\rAre you \\PN? Someone was talking about you earlier. They seemed a bit upset about something.",
+  "it": "\\rSei tu \\PN? Prima qualcuno parlava di te. Sembrava un po' arrabbiato per qualcosa."
  },
  {
-  "id": "\\bHave a great day.",
-  "en": "\\bHave a great day.",
-  "it": "\\bBuona giornata."
+  "id": "\\rHave a great day.",
+  "en": "\\rHave a great day.",
+  "it": "\\rBuona giornata."
  },
  {
-  "id": "\\bYou're a Trainer right? I'm not supposed to let you pass, but if you can beat Sabrina I'll let it slide.",
-  "en": "\\bYou're a Trainer right? I'm not supposed to let you pass, but if you can beat Sabrina I'll let it slide.",
-  "it": "\\bSei un Allenatore, vero? Non dovrei lasciarti passare, ma se riesci a battere Sabrina chiuderò un occhio."
+  "id": "\\rYou're a Trainer right? I'm not supposed to let you pass, but if you can beat Sabrina I'll let it slide.",
+  "en": "\\rYou're a Trainer right? I'm not supposed to let you pass, but if you can beat Sabrina I'll let it slide.",
+  "it": "\\rSei un Allenatore, vero? Non dovrei farti passare, ma se riesci a battere Sabrina chiuderò un occhio."
  },
  {
-  "id": "\\bI'm sorry, but I can't let you pass. Gym Leader's orders.",
-  "en": "\\bI'm sorry, but I can't let you pass. Gym Leader's orders.",
-  "it": "\\bMi dispiace, ma non posso lasciarti passare. Ordini della Capopalestra."
+  "id": "\\rSorry, you can't enter Cycle Road without a Bicycle.",
+  "en": "\\rSorry, you can't enter Cycle Road without a Bicycle.",
+  "it": "\\rMi dispiace, non puoi entrare nella Pista Ciclabile senza una Bicicletta."
  },
  {
-  "id": "\\bSorry, you can't enter Cycle Road without a Bicycle.",
-  "en": "\\bSorry, you can't enter Cycle Road without a Bicycle.",
-  "it": "\\bMi spiace, non puoi entrare nella Pista Ciclabile senza una Bicicletta."
+  "id": "\\rCycling Road is a great ride.",
+  "en": "\\rCycling Road is a great ride.",
+  "it": "\\rLa Pista Ciclabile è fantastica da percorrere."
  },
  {
-  "id": "\\bCycling Road is a great ride.",
-  "en": "\\bCycling Road is a great ride.",
-  "it": "\\bLa Pista Ciclabile è un percorso fantastico."
+  "id": "\\rI'm sorry, but I can't let you pass. Gym Leader's orders.",
+  "en": "\\rI'm sorry, but I can't let you pass. Gym Leader's orders.",
+  "it": "\\rMi dispiace, ma non posso farti passare. Ordini del Capopalestra."
  },
  {
-  "id": "\\bI'm sorry, but I can't let you pass. There seems to be an evil organization blocking the waterways. The police are trying their best to take care of it.",
-  "en": "\\bI'm sorry, but I can't let you pass. There seems to be an evil organization blocking the waterways. The police are trying their best to take care of it.",
-  "it": "\\bMi dispiace, ma non posso lasciarti passare. Sembra che un'organizzazione malvagia stia bloccando i corsi d'acqua. La polizia sta facendo del suo meglio per risolvere la cosa."
+  "id": "\\rI'm sorry, but I can't let you pass. There seems to be an evil organization blocking the waterways. The police are trying their best to take care of it.",
+  "en": "\\rI'm sorry, but I can't let you pass. There seems to be an evil organization blocking the waterways. The police are trying their best to take care of it.",
+  "it": "\\rMi dispiace, ma non posso farti passare. Pare che un'organizzazione malvagia stia bloccando i corsi d'acqua. La polizia sta facendo del suo meglio per risolvere la situazione."
  },
  {
-  "id": "\\bThis path is currently under construction.",
-  "en": "\\bThis path is currently under construction.",
-  "it": "\\bQuesto sentiero è attualmente in costruzione."
+  "id": "\\rThis path is currently under construction.",
+  "en": "\\rThis path is currently under construction.",
+  "it": "\\rQuesto sentiero è attualmente in costruzione."
  },
  {
-  "id": "\\bDown this path is the Battle Dome.",
-  "en": "\\bDown this path is the Battle Dome.",
-  "it": "\\bPercorrendo questo sentiero si arriva alla Cupola Lotta."
+  "id": "\\rDown this path is the Battle Dome.",
+  "en": "\\rDown this path is the Battle Dome.",
+  "it": "\\rIn fondo a questo sentiero c'è la Cupola Lotta."
  },
  {
-  "id": "\\bThis bridge is being repaired right now. Come back later.",
-  "en": "\\bThis bridge is being repaired right now. Come back later.",
-  "it": "\\bQuesto ponte è in riparazione. Torna più tardi."
+  "id": "\\rThis bridge is being repaired right now. Come back later.",
+  "en": "\\rThis bridge is being repaired right now. Come back later.",
+  "it": "\\rQuesto ponte è in riparazione. Torna più tardi."
  },
  {
   "id": "\\bI'm looking for a Slowbro.",
@@ -150,14 +150,19 @@
   "it": "\\bMi sto godendo un giro rilassante sulla mia bici nuova con la mia ragazza."
  },
  {
-  "id": "\\bThis route is currently under construction.",
-  "en": "\\bThis route is currently under construction.",
-  "it": "\\bQuesto percorso è attualmente in costruzione."
+  "id": "\\bCycling Road is a great ride.",
+  "en": "\\bCycling Road is a great ride.",
+  "it": "\\bLa Pista Ciclabile è un percorso fantastico."
  },
  {
-  "id": "\\bHave a great day!",
-  "en": "\\bHave a great day!",
-  "it": "\\bBuona giornata!"
+  "id": "\\rThis route is currently under construction.",
+  "en": "\\rThis route is currently under construction.",
+  "it": "\\rQuesto percorso è attualmente in costruzione."
+ },
+ {
+  "id": "\\rHave a great day!",
+  "en": "\\rHave a great day!",
+  "it": "\\rBuona giornata!"
  },
  {
   "id": "Yes",

@@ -1,25 +1,5 @@
 [
  {
-  "id": "\\bMy Spheal won't listen.",
-  "en": "\\bMy Spheal won't listen.",
-  "it": "\\bIl mio Spheal non mi ascolta."
- },
- {
-  "id": "\\bWe need to work together.",
-  "en": "\\bWe need to work together.",
-  "it": "\\bDobbiamo collaborare."
- },
- {
-  "id": "\\rThis place is so beautiful. It's nice to take a break from the city.",
-  "en": "\\rThis place is so beautiful. It's nice to take a break from the city.",
-  "it": "\\rQuesto posto è bellissimo. È bello staccare un po' dalla città."
- },
- {
-  "id": "\\rDon't forget to slow down and relax every now and then.",
-  "en": "\\rDon't forget to slow down and relax every now and then.",
-  "it": "\\rNon dimenticare di rallentare e rilassarti ogni tanto."
- },
- {
   "id": "\\bThe grass is too random here.",
   "en": "\\bThe grass is too random here.",
   "it": "\\bL'erba qui è troppo casuale."
@@ -30,14 +10,44 @@
   "it": "\\bUff, quest'erba è ruvida."
  },
  {
+  "id": "\\bWhat are you looking at?",
+  "en": "\\bWhat are you looking at?",
+  "it": "\\bChe hai da guardare?"
+ },
+ {
+  "id": "\\bIsn't the water beautiful?",
+  "en": "\\bIsn't the water beautiful?",
+  "it": "\\bNon è bellissima l'acqua?"
+ },
+ {
   "id": "\\bI wanna get a Voltorb. Are there any here?",
   "en": "\\bI wanna get a Voltorb. Are there any here?",
   "it": "\\bVoglio prendere un Voltorb. Ce ne sono da queste parti?"
  },
  {
+  "id": "\\bI can cheer you on.",
+  "en": "\\bI can cheer you on.",
+  "it": "\\bPosso fare il tifo per te."
+ },
+ {
+  "id": "\\bI'm cheering you on!",
+  "en": "\\bI'm cheering you on!",
+  "it": "\\bFaccio il tifo per te!"
+ },
+ {
   "id": "\\rThe flowers here are lovely. I could stay here forever.",
   "en": "\\rThe flowers here are lovely. I could stay here forever.",
   "it": "\\rI fiori qui sono deliziosi. Potrei restare qui per sempre."
+ },
+ {
+  "id": "\\bI already know who wins.",
+  "en": "\\bI already know who wins.",
+  "it": "\\bSo già chi vince."
+ },
+ {
+  "id": "\\bI wonder why I challenged you?",
+  "en": "\\bI wonder why I challenged you?",
+  "it": "\\bChissà perché ti ho sfidato?"
  },
  {
   "id": "\\bHi there. I'm the Trick Master.",
@@ -90,6 +100,16 @@
   "it": "\\bCon l'Amo Buono puoi pescare Pokémon migliori."
  },
  {
+  "id": "\\bMy Spheal won't listen.",
+  "en": "\\bMy Spheal won't listen.",
+  "it": "\\bIl mio Spheal non mi ascolta."
+ },
+ {
+  "id": "\\bWe need to work together.",
+  "en": "\\bWe need to work together.",
+  "it": "\\bDobbiamo collaborare."
+ },
+ {
   "id": "\\rHave you seen a Jigglypuff?",
   "en": "\\rHave you seen a Jigglypuff?",
   "it": "\\rHai visto un Jigglypuff?"
@@ -100,34 +120,14 @@
   "it": "\\rIl mio Whismur ci sente poco."
  },
  {
-  "id": "\\bWhat are you looking at?",
-  "en": "\\bWhat are you looking at?",
-  "it": "\\bChe hai da guardare?"
+  "id": "\\rThis place is so beautiful. It's nice to take a break from the city.",
+  "en": "\\rThis place is so beautiful. It's nice to take a break from the city.",
+  "it": "\\rQuesto posto è bellissimo. È bello staccare un po' dalla città."
  },
  {
-  "id": "\\bIsn't the water beautiful?",
-  "en": "\\bIsn't the water beautiful?",
-  "it": "\\bNon è bellissima l'acqua?"
- },
- {
-  "id": "\\bI can cheer you on.",
-  "en": "\\bI can cheer you on.",
-  "it": "\\bPosso fare il tifo per te."
- },
- {
-  "id": "\\bI'm cheering you on!",
-  "en": "\\bI'm cheering you on!",
-  "it": "\\bFaccio il tifo per te!"
- },
- {
-  "id": "\\bI already know who wins.",
-  "en": "\\bI already know who wins.",
-  "it": "\\bSo già chi vince."
- },
- {
-  "id": "\\bI wonder why I challenged you?",
-  "en": "\\bI wonder why I challenged you?",
-  "it": "\\bChissà perché ti ho sfidato?"
+  "id": "\\rDon't forget to slow down and relax every now and then.",
+  "en": "\\rDon't forget to slow down and relax every now and then.",
+  "it": "\\rNon dimenticare di rallentare e rilassarti ogni tanto."
  },
  {
   "id": "Trubbish",

@@ -10,6 +10,11 @@
   "it": "\\rChe Allenatore forte. Te lo meriti."
  },
  {
+  "id": "\\rOh, you haven't defeated Gardenia? Come back when you have.",
+  "en": "\\rOh, you haven't defeated Gardenia? Come back when you have.",
+  "it": "\\rOh, non hai ancora battuto Gardenia? Torna quando l'avrai fatto."
+ },
+ {
   "id": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. Want to be teleported to Hearthome City?",
   "en": "\\rHello. The cave is dangerous so I'm using my Abra to teleport people past it. Want to be teleported to Hearthome City?",
   "it": "\\rCiao. La grotta è pericolosa, quindi uso il mio Abra per teletrasportare la gente oltre. Vuoi essere teletrasportato a Cuoripoli?"
@@ -75,6 +80,21 @@
   "it": "\\bAvrei dovuto batterti."
  },
  {
+  "id": "\\bA gate opened up here after a battle from Dialga and Palkia. It has strange Pokémon inside it.",
+  "en": "\\bA gate opened up here after a battle from Dialga and Palkia. It has strange Pokémon inside it.",
+  "it": "\\bQui si è aperto un varco dopo una lotta tra Dialga e Palkia. Dentro ci sono strani Pokémon."
+ },
+ {
+  "id": "\\bA Trainer?",
+  "en": "\\bA Trainer?",
+  "it": "\\bUn Allenatore?"
+ },
+ {
+  "id": "\\bDon't forget to rest up.",
+  "en": "\\bDon't forget to rest up.",
+  "it": "\\bNon dimenticare di riposarti."
+ },
+ {
   "id": "\\rCynthia: Hello there. My name is Cynthia. I'm the Sinnoh League Champion. What's your name?",
   "en": "\\rCynthia: Hello there. My name is Cynthia. I'm the Sinnoh League Champion. What's your name?",
   "it": "\\rCamilla: Salve. Mi chiamo Camilla. Sono la Campionessa della Lega di Sinnoh. Tu come ti chiami?"
@@ -93,21 +113,6 @@
   "id": "\\rUntil next time. I'm looking forward to seeing how you do in the league.",
   "en": "\\rUntil next time. I'm looking forward to seeing how you do in the league.",
   "it": "\\rAlla prossima. Non vedo l'ora di vedere come te la caverai nella Lega."
- },
- {
-  "id": "\\bA Trainer?",
-  "en": "\\bA Trainer?",
-  "it": "\\bUn Allenatore?"
- },
- {
-  "id": "\\bDon't forget to rest up.",
-  "en": "\\bDon't forget to rest up.",
-  "it": "\\bNon dimenticare di riposarti."
- },
- {
-  "id": "\\bA gate opened up here after a battle from Dialga and Palkia. It has strange Pokémon inside it.",
-  "en": "\\bA gate opened up here after a battle from Dialga and Palkia. It has strange Pokémon inside it.",
-  "it": "\\bQui si è aperto un varco dopo una lotta tra Dialga e Palkia. Dentro ci sono strani Pokémon."
  },
  {
   "id": "\\rDo you enjoy mountain climbing too?",

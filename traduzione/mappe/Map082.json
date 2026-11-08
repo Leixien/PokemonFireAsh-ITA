@@ -25,14 +25,14 @@
   "it": "\\rOltre a essere un Capopalestra, Brock si occupa anche dei suoi nove fratelli più piccoli."
  },
  {
-  "id": "\\bThis path is currently under construction.",
-  "en": "\\bThis path is currently under construction.",
-  "it": "\\bQuesto sentiero è attualmente in costruzione."
+  "id": "\\rThis path is currently under construction.",
+  "en": "\\rThis path is currently under construction.",
+  "it": "\\rQuesto sentiero è attualmente in costruzione."
  },
  {
-  "id": "\\bThis path leads to the Battle Pyramid. Only Trainers who have beat the six other Frontiers may go here.",
-  "en": "\\bThis path leads to the Battle Pyramid. Only Trainers who have beat the six other Frontiers may go here.",
-  "it": "\\bQuesto sentiero porta alla Piramide Lotta. Solo gli Allenatori che hanno superato le altre sei strutture del Parco Lotta possono entrare."
+  "id": "\\rThis path leads to the Battle Pyramid. Only Trainers who have beat the six other Frontiers may go here.",
+  "en": "\\rThis path leads to the Battle Pyramid. Only Trainers who have beat the six other Frontiers may go here.",
+  "it": "\\rQuesto sentiero porta alla Piramide Lotta. Possono accedervi solo gli Allenatori che hanno superato le altre sei strutture del Parco Lotta."
  },
  {
   "id": "Brock's house",
@@ -60,9 +60,9 @@
   "it": "Smart Rotom: In base ai risultati, ora sei al posto 978 della classifica. Sei entrato nella Classe Super."
  },
  {
-  "id": "Announcment. New opponent found for the World Coronation Series. Bea, located in Cianwood City, is ready for battle.",
-  "en": "Announcment. New opponent found for the World Coronation Series. Bea, located in Cianwood City, is ready for battle.",
-  "it": "Annuncio. Trovato un nuovo avversario per il World Coronation Series. Fabia, che si trova a Fiorlisopoli, è pronta a lottare."
+  "id": "Announcement. New opponent found for the World Coronation Series. Bea, located in Cianwood City, is ready for battle.",
+  "en": "Announcement. New opponent found for the World Coronation Series. Bea, located in Cianwood City, is ready for battle.",
+  "it": "Annuncio. Trovato un nuovo avversario per il World Coronation Series. Fabia, a Fiorlisopoli, è pronta per la lotta."
  },
  {
   "id": "\\bPity. I'm happy someone advanced to the next rank though.",
@@ -110,9 +110,9 @@
   "it": "\\bSpruzzo Repellente per tenere i Pokémon selvatici fuori dal mio giardino!"
  },
  {
-  "id": "\\bDown this path is the Battle Pyramid.",
-  "en": "\\bDown this path is the Battle Pyramid.",
-  "it": "\\bPercorrendo questo sentiero si arriva alla Piramide Lotta."
+  "id": "\\rDown this path is the Battle Pyramid.",
+  "en": "\\rDown this path is the Battle Pyramid.",
+  "it": "\\rIn fondo a questo sentiero c'è la Piramide Lotta."
  },
  {
   "id": "\\bThere aren't many serious Pokémon Trainers here.",

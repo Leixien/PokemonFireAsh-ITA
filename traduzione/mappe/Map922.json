@@ -1,5 +1,10 @@
 [
  {
+  "id": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "en": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "it": "Stai per affrontare un Pokémon leggendario che, se non lo catturi qui, non sarà ottenibile fino al post-game. Vuoi salvare?"
+ },
+ {
   "id": "\\bGladion: Looks like it worked, but it didn't fix the issue. Let's see if it will help us now.",
   "en": "\\bGladion: Looks like it worked, but it didn't fix the issue. Let's see if it will help us now.",
   "it": "\\bIridio: Sembra che abbia funzionato, ma non ha risolto il problema. Vediamo se ora ci aiuterà."
@@ -13,6 +18,11 @@
   "id": "\\rLillie: Nebby evolved again! It can take us to where mother is.",
   "en": "\\rLillie: Nebby evolved again! It can take us to where mother is.",
   "it": "\\rLylia: Nebby si è evoluto di nuovo! Può portarci dov'è la mamma."
+ },
+ {
+  "id": "Would you like to take Solgaleo with you?",
+  "en": "Would you like to take Solgaleo with you?",
+  "it": "Vuoi portare Solgaleo con te?"
  },
  {
   "id": "\\bGladion: If this Pokémon can get us to where we need to go I say we do it.",
@@ -33,11 +43,6 @@
   "id": "Rotom Dex: Nebby wants us to be prepared. When you're ready to go, talk with it again.",
   "en": "Rotom Dex: Nebby wants us to be prepared. When you're ready to go, talk with it again.",
   "it": "Rotom Dex: Nebby vuole che siamo preparati. Quando sei pronto a partire, parlagli di nuovo."
- },
- {
-  "id": "Would you like to take Solgaleo with you?",
-  "en": "Would you like to take Solgaleo with you?",
-  "it": "Vuoi portare Solgaleo con te?"
  },
  {
   "id": "Solgaleo went into the portal ahead of you.",

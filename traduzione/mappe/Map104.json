@@ -15,11 +15,6 @@
   "it": "\\bSquirtle"
  },
  {
-  "id": "The Squirtle refuses to let you pass.",
-  "en": "The Squirtle refuses to let you pass.",
-  "it": "Lo Squirtle si rifiuta di farti passare."
- },
- {
   "id": "\\bLet me test my skill.",
   "en": "\\bLet me test my skill.",
   "it": "\\bFammi mettere alla prova la mia abilità."
@@ -28,6 +23,11 @@
   "id": "\\bIs my Pokémon weak, or is it me?",
   "en": "\\bIs my Pokémon weak, or is it me?",
   "it": "\\bÈ debole il mio Pokémon, o sono io?"
+ },
+ {
+  "id": "The Squirtle refuses to let you pass.",
+  "en": "The Squirtle refuses to let you pass.",
+  "it": "Lo Squirtle si rifiuta di farti passare."
  },
  {
   "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
@@ -45,9 +45,9 @@
   "it": "\\rAlmeno ho ancora Bob."
  },
  {
-  "id": "\\rThe Squirle here are a bunch of mischief Pokémon abonded by their Trainers.",
-  "en": "\\rThe Squirle here are a bunch of mischief Pokémon abonded by their Trainers.",
-  "it": "\\rGli Squirtle di qui sono una banda di Pokémon dispettosi abbandonati dai loro Allenatori."
+  "id": "\\rThe Squirle here are a bunch of mischievous Pokémon abandoned by their Trainers.",
+  "en": "\\rThe Squirle here are a bunch of mischievous Pokémon abandoned by their Trainers.",
+  "it": "\\rGli Squirtle qui sono un branco di Pokémon dispettosi abbandonati dai loro Allenatori."
  },
  {
   "id": "\\rThank you for helping out this town. I would like you to have this.",

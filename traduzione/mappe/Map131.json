@@ -15,16 +15,6 @@
   "it": "\\rMia figlia è così egocentrica. Ha solo pochi amici."
  },
  {
-  "id": "\\bI've been waiting for you.",
-  "en": "\\bI've been waiting for you.",
-  "it": "\\bTi stavo aspettando."
- },
- {
-  "id": "\\bTM29 is Psychic.\\nIt's an attack that may lower the target's special defense.",
-  "en": "\\bTM29 is Psychic.\\nIt's an attack that may lower the target's special defense.",
-  "it": "\\bLa MT29 è Psichico.\\nÈ un attacco che può ridurre la Difesa Speciale del bersaglio."
- },
- {
   "id": "\\bMy daughter likes to mimic people. Its rather vexing.",
   "en": "\\bMy daughter likes to mimic people. Its rather vexing.",
   "it": "\\bA mia figlia piace imitare la gente. È piuttosto irritante."
@@ -33,6 +23,16 @@
   "id": "\\bHer nickname has earned her the nickname Copycat around here.",
   "en": "\\bHer nickname has earned her the nickname Copycat around here.",
   "it": "\\bPer questo da queste parti si è guadagnata il soprannome di Copiona."
+ },
+ {
+  "id": "\\bI've been waiting for you.",
+  "en": "\\bI've been waiting for you.",
+  "it": "\\bTi stavo aspettando."
+ },
+ {
+  "id": "\\bTM29 is Psychic.\\nIt's an attack that may lower the target's special defense.",
+  "en": "\\bTM29 is Psychic.\\nIt's an attack that may lower the target's special defense.",
+  "it": "\\bLa MT29 è Psichico.\\nÈ un attacco che può ridurre la Difesa Speciale del bersaglio."
  },
  {
   "id": "\\rHello! I'm Copycat!",

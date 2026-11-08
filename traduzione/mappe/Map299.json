@@ -1,13 +1,13 @@
 [
  {
-  "id": "\\bHoot",
-  "en": "\\bHoot",
-  "it": "\\bHoot"
- },
- {
   "id": "Kimono Dance Theater",
   "en": "Kimono Dance Theater",
   "it": "Teatro di Danza Kimono"
+ },
+ {
+  "id": "\\bHoot",
+  "en": "\\bHoot",
+  "it": "\\bHoot"
  },
  {
   "id": "\\bAhhh...the Kimono girls are so cute.",
@@ -25,6 +25,11 @@
   "it": "\\bUn giorno lo vedrò."
  },
  {
+  "id": "Ecruteak City\\nA Historical City!",
+  "en": "Ecruteak City\\nA Historical City!",
+  "it": "Amarantopoli\\nCittà dalla storia antica!"
+ },
+ {
   "id": "\\bLegends say that Ho-Oh used to come to this tower. It was burned down in greed and it hasn't come since.",
   "en": "\\bLegends say that Ho-Oh used to come to this tower. It was burned down in greed and it hasn't come since.",
   "it": "\\bLa leggenda narra che Ho-Oh si posasse su questa torre. Fu bruciata per avidità e da allora non è più tornato."
@@ -35,29 +40,9 @@
   "it": "\\bLa leggenda racconta anche che Ho-Oh creò dei potenti cani che ora vagano per la regione."
  },
  {
-  "id": "Ecruteak City\\nA Historical City!",
-  "en": "Ecruteak City\\nA Historical City!",
-  "it": "Amarantopoli\\nCittà dalla storia antica!"
- },
- {
   "id": "\\bCubone",
   "en": "\\bCubone",
   "it": "\\bCubone"
- },
- {
-  "id": "\\bMorty isn't at the Gym? Aw this sucks.",
-  "en": "\\bMorty isn't at the Gym? Aw this sucks.",
-  "it": "\\bAngelo non è in Palestra? Uffa, che sfortuna."
- },
- {
-  "id": "Ecruteak Pokémon Gym Leader: \\nMorty",
-  "en": "Ecruteak Pokémon Gym Leader: \\nMorty",
-  "it": "Capopalestra di Amarantopoli: \\nAngelo"
- },
- {
-  "id": "The Mystic Seer of the Future",
-  "en": "The Mystic Seer of the Future",
-  "it": "Il mistico veggente del futuro"
  },
  {
   "id": "\\bI'm sorry, but I can't let you pass. A Pokémon race is going on and it can't be interrupted.",
@@ -80,9 +65,19 @@
   "it": "\\bÈ solo un piccolo intoppo. Un giorno troverò Suicune."
  },
  {
-  "id": "\\rMismagius",
-  "en": "\\rMismagius",
-  "it": "\\rMismagius"
+  "id": "Ecruteak Pokémon Gym Leader: \\nMorty",
+  "en": "Ecruteak Pokémon Gym Leader: \\nMorty",
+  "it": "Capopalestra di Amarantopoli: \\nAngelo"
+ },
+ {
+  "id": "The Mystic Seer of the Future",
+  "en": "The Mystic Seer of the Future",
+  "it": "Il mistico veggente del futuro"
+ },
+ {
+  "id": "\\bMorty isn't at the Gym? Aw this sucks.",
+  "en": "\\bMorty isn't at the Gym? Aw this sucks.",
+  "it": "\\bAngelo non è in Palestra? Uffa, che sfortuna."
  },
  {
   "id": "\\bI'm sorry. But you are not allowed inside this sacred space.",
@@ -90,9 +85,9 @@
   "it": "\\bMi dispiace, ma non ti è permesso entrare in questo luogo sacro."
  },
  {
-  "id": "\\rThe Kimono Girls each use an Eevee form.",
-  "en": "\\rThe Kimono Girls each use an Eevee form.",
-  "it": "\\rOgnuna delle Ragazze Kimono usa una forma di Eevee."
+  "id": "\\rMismagius",
+  "en": "\\rMismagius",
+  "it": "\\rMismagius"
  },
  {
   "id": "Bell Tower",
@@ -100,19 +95,24 @@
   "it": "Torre Campana"
  },
  {
+  "id": "\\rThe Kimono Girls each use an Eevee form.",
+  "en": "\\rThe Kimono Girls each use an Eevee form.",
+  "it": "\\rOgnuna delle Ragazze Kimono usa una forma di Eevee."
+ },
+ {
   "id": "\\rDespite the new tower, Ho-Oh hasn't shown up.",
   "en": "\\rDespite the new tower, Ho-Oh hasn't shown up.",
   "it": "\\rNonostante la nuova torre, Ho-Oh non si è fatto vedere."
  },
  {
-  "id": "\\bI saw Ho-Oh when I was younger. I've been trying to find it again with my grandson.",
-  "en": "\\bI saw Ho-Oh when I was younger. I've been trying to find it again with my grandson.",
-  "it": "\\bHo visto Ho-Oh quando ero più giovane. Sto cercando di ritrovarlo insieme a mio nipote."
- },
- {
   "id": "Burned Tower",
   "en": "Burned Tower",
   "it": "Torre Bruciata"
+ },
+ {
+  "id": "\\bI saw Ho-Oh when I was younger. I've been trying to find it again with my grandson.",
+  "en": "\\bI saw Ho-Oh when I was younger. I've been trying to find it again with my grandson.",
+  "it": "\\bHo visto Ho-Oh quando ero più giovane. Sto cercando di ritrovarlo insieme a mio nipote."
  },
  {
   "id": "\\bMorty is so cool!",

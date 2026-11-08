@@ -30,6 +30,11 @@
   "it": "\\bSwellow"
  },
  {
+  "id": "Professor Birch's Lab",
+  "en": "Professor Birch's Lab",
+  "it": "Laboratorio del Prof. Birch"
+ },
+ {
   "id": "\\bHold on. My friend is trying to catch a Pokémon. You're gonna scare it away.",
   "en": "\\bHold on. My friend is trying to catch a Pokémon.  You're gonna scare it away.",
   "it": "\\bAspetta. Il mio amico sta cercando di catturare un Pokémon.  Così lo farai scappare."
@@ -40,19 +45,14 @@
   "it": "\\bNon l'ha catturato, quindi immagino tu possa passare."
  },
  {
-  "id": "Professor Birch's Lab",
-  "en": "Professor Birch's Lab",
-  "it": "Laboratorio del Prof. Birch"
+  "id": "\\bWelcome. Where would you like to go?",
+  "en": "\\bWelcome. Where would you like to go?",
+  "it": "\\bBenvenuto. Dove vorresti andare?"
  },
  {
   "id": "\\bZangoose",
   "en": "\\bZangoose",
   "it": "\\bZangoose"
- },
- {
-  "id": "\\bWelcome. Where would you like to go?",
-  "en": "\\bWelcome. Where would you like to go?",
-  "it": "\\bBenvenuto. Dove vorresti andare?"
  },
  {
   "id": "\\bYou're from Kanto? Welcome.",
@@ -78,5 +78,10 @@
   "id": "Exit",
   "en": "Exit",
   "it": "Esci"
+ },
+ {
+  "id": "Ever Grande",
+  "en": "Ever Grande",
+  "it": "Iridopoli"
  }
 ]

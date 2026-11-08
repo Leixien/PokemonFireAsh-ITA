@@ -75,6 +75,11 @@
   "it": "\\bScizor!"
  },
  {
+  "id": "Meloetta stays, waiting for the day you will accept it.",
+  "en": "Meloetta stays, waiting for the day you will accept it.",
+  "it": "Meloetta resta qui, in attesa del giorno in cui lo accoglierai."
+ },
+ {
   "id": "\\bSlow down child. Relax and enjoy the view.",
   "en": "\\bSlow down child. Relax and enjoy the view.",
   "it": "\\bRallenta, ragazzo. Rilassati e goditi il panorama."
@@ -95,11 +100,6 @@
   "it": "Villa di Camilla"
  },
  {
-  "id": "Pokémon World Tournament Junior Cup",
-  "en": "Pokémon World Tournament Junior Cup",
-  "it": "Coppa Junior del Pokémon World Tournament"
- },
- {
   "id": "\\rWant to learn Relic Song?",
   "en": "\\rWant to learn Relic Song?",
   "it": "\\rVuoi imparare Cantoantico?"
@@ -108,6 +108,11 @@
   "id": "\\rCome back anytime!",
   "en": "\\rCome back anytime!",
   "it": "\\rTorna quando vuoi!"
+ },
+ {
+  "id": "Pokémon World Tournament Junior Cup",
+  "en": "Pokémon World Tournament Junior Cup",
+  "it": "Coppa Junior del Pokémon World Tournament"
  },
  {
   "id": "Yes",

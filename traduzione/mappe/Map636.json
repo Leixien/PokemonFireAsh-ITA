@@ -15,6 +15,11 @@
   "it": "\\bVuoi far evolvere il tuo Milcery in un Alcremie Lattecrema Vaniglia?"
  },
  {
+  "id": "\\bMaybe next time, then.",
+  "en": "\\bMaybe next time, then.",
+  "it": "\\bAllora sarà per la prossima volta."
+ },
+ {
   "id": "\\bAlright, let's give it a quick clockwise spin...",
   "en": "\\bAlright, let's give it a quick clockwise spin...",
   "it": "\\bBene, facciamogli fare una piroetta rapida in senso orario..."
@@ -125,9 +130,9 @@
   "it": "\\rOpal: Vedo che sei proprio un bravo lottatore. Bene, è tutto.  Sgombrate."
  },
  {
-  "id": "\\bGoh: That was...interesting.",
-  "en": "\\bGoh: That was...interesting. ",
-  "it": "\\bGoh: È stato...interessante. "
+  "id": "\\bGoh: That was... interesting.",
+  "en": "\\bGoh: That was... interesting. ",
+  "it": "\\bGoh: È stato... interessante. "
  },
  {
   "id": "\\bRanked third: The heir to Hoenn's Devon Corporation and Champion of Hoenn, Competitor Steven!",

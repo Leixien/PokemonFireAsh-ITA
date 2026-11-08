@@ -10,6 +10,11 @@
   "it": "\\bSi dice che sia la più forte di tutti i Capipalestra di Johto."
  },
  {
+  "id": "\\bBecause of Clair I gave up trying to make it to the Johto League this year. I just can't win.",
+  "en": "\\bBecause of Clair I gave up trying to make it to the Johto League this year. I just can't win.",
+  "it": "\\bPer colpa di Sandra ho rinunciato ad arrivare alla Lega di Johto quest'anno. Non riesco proprio a vincere."
+ },
+ {
   "id": "\\rMy Arcanine can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Azalea,Goldenrod,Ecruteak,Olivine,Cianwood, Mahogany,Cancel]",
   "en": "\\rMy Arcanine can Teleport you.\\ch[1,-1,Cherrygrove, Violet,Azalea,Goldenrod,Ecruteak,Olivine,Cianwood, Mahogany,Cancel]",
   "it": "\\rIl mio Arcanine può teletrasportarti.\\ch[1,-1,Fiorpescopoli, Violapoli,Azalina,Fiordoropoli,Amarantopoli,Olivinopoli,Fiorlisopoli, Mogania,Annulla]"
@@ -88,11 +93,6 @@
   "id": "\\rChansey",
   "en": "\\rChansey",
   "it": "\\rChansey"
- },
- {
-  "id": "\\bBecause of Clair I gave up trying to make it to the Johto League this year. I just can't win.",
-  "en": "\\bBecause of Clair I gave up trying to make it to the Johto League this year. I just can't win.",
-  "it": "\\bPer colpa di Sandra ho rinunciato ad arrivare alla Lega di Johto quest'anno. Non riesco proprio a vincere."
  },
  {
   "id": "Yes",

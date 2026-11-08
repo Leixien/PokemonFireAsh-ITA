@@ -40,6 +40,11 @@
   "it": "\\bTorna quando vuoi!"
  },
  {
+  "id": "\\bI'm in the middle of a battle. Leave me alone.",
+  "en": "\\bI'm in the middle of a battle. Leave me alone.",
+  "it": "\\bSono nel bel mezzo di una lotta. Lasciami in pace."
+ },
+ {
   "id": "\\bI just evolved my Magby. You have to see it.",
   "en": "\\bI just evolved my Magby. You have to see it.",
   "it": "\\bHo appena fatto evolvere il mio Magby. Devi vederlo."
@@ -50,14 +55,19 @@
   "it": "\\bÈ emozionante far evolvere un Pokémon."
  },
  {
-  "id": "\\bI'm in the middle of a battle. Leave me alone.",
-  "en": "\\bI'm in the middle of a battle. Leave me alone.",
-  "it": "\\bSono nel bel mezzo di una lotta. Lasciami in pace."
+  "id": "\\rThe Silver Conference is over. Come again next year.",
+  "en": "\\rThe Silver Conference is over. Come again next year.",
+  "it": "\\rLa Conferenza Argento è finita. Torna l'anno prossimo."
  },
  {
-  "id": "\\bThe Silver Conference is over. Come again next year.",
-  "en": "\\bThe Silver Conference is over. Come again next year.",
-  "it": "\\bLa Conferenza Argento è finita. Torna l'anno prossimo."
+  "id": "\\rWe look forward to seeing you rematch the Silver League, Monarch \\PN.",
+  "en": "\\rWe look forward to seeing you rematch the Silver League, Monarch \\PN.",
+  "it": "\\rNon vediamo l'ora di vederti sfidare di nuovo la Lega Argento, Monarca \\PN."
+ },
+ {
+  "id": "\\rMachoke",
+  "en": "\\rMachoke",
+  "it": "\\rMachoke"
  },
  {
   "id": "\\bBe careful. There is an Egg nearby.",
@@ -68,11 +78,6 @@
   "id": "\\bYou can take the Egg. I'm sure you'll be a good Trainer.",
   "en": "\\bYou can take the Egg. I'm sure you'll be a good Trainer.",
   "it": "\\bPuoi prendere l'Uovo. Sono sicuro che sarai un bravo Allenatore."
- },
- {
-  "id": "\\rMachoke",
-  "en": "\\rMachoke",
-  "it": "\\rMachoke"
  },
  {
   "id": "It's a Pokémon Egg. Would you like to take it with you?",
@@ -95,6 +100,11 @@
   "it": "Fai spazio nella tua squadra e torna qui."
  },
  {
+  "id": "\\bUgh. What should I do?",
+  "en": "\\bUgh. What should I do?",
+  "it": "\\bUff. Cosa dovrei fare?"
+ },
+ {
   "id": "\\rEver want to meet a king?",
   "en": "\\rEver want to meet a king?",
   "it": "\\rHai mai desiderato incontrare un re?"
@@ -103,11 +113,6 @@
   "id": "\\rI'm letting Arthur go. He's too good to be tied down.",
   "en": "\\rI'm letting Arthur go. He's too good to be tied down.",
   "it": "\\rLascio andare Arthur. È troppo in gamba per restare legato a qualcuno."
- },
- {
-  "id": "\\bUgh. What should I do?",
-  "en": "\\bUgh. What should I do?",
-  "it": "\\bUff. Cosa dovrei fare?"
  },
  {
   "id": "\\bI plan on being a Gym Leader one day.",

@@ -1,43 +1,13 @@
 [
  {
-  "id": "\\bMy Pokémon are cooler!",
-  "en": "\\bMy Pokémon are cooler!",
-  "it": "\\bI miei Pokémon sono più forti!"
+  "id": "\\bAre you trying to get in the forest?",
+  "en": "\\bAre you trying to get in the forest?",
+  "it": "\\bStai cercando di entrare nel bosco?"
  },
  {
-  "id": "\\bBeautifly are much better due to their beauty.",
-  "en": "\\bBeautifly are much better due to their beauty.",
-  "it": "\\bI Beautifly sono molto meglio per la loro bellezza."
- },
- {
-  "id": "Weather Institute",
-  "en": "Weather Institute",
-  "it": "Istituto Meteo"
- },
- {
-  "id": "\\bDustox are much better due to their strength.",
-  "en": "\\bDustox are much better due to their strength.",
-  "it": "\\bI Dustox sono molto meglio per la loro forza."
- },
- {
-  "id": "\\bHmm... let's battle!",
-  "en": "\\bHmm... let's battle!",
-  "it": "\\bMmh... lottiamo!"
- },
- {
-  "id": "\\bI need something better.",
-  "en": "\\bI need something better.",
-  "it": "\\bMi serve qualcosa di meglio."
- },
- {
-  "id": "\\bI need a break.",
-  "en": "\\bI need a break.",
-  "it": "\\bHo bisogno di una pausa."
- },
- {
-  "id": "\\bI just can't win today.",
-  "en": "\\bI just can't win today.",
-  "it": "\\bOggi proprio non riesco a vincere."
+  "id": "\\bBe careful in forests.",
+  "en": "\\bBe careful in forests.",
+  "it": "\\bFai attenzione nei boschi."
  },
  {
   "id": "\\bI can control the weather. Which weather would you like to see?\\ch[1,-1,None,Rain,Storm, Snow,Sandstorm,Sunny,Heavy Rain,Blizzard]",
@@ -50,74 +20,14 @@
   "it": "\\bNon è incredibile cosa riesce a fare la scienza?"
  },
  {
-  "id": "\\bHey! Be careful.",
-  "en": "\\bHey! Be careful.",
-  "it": "\\bEhi! Fai attenzione."
+  "id": "\\bHmm... let's battle!",
+  "en": "\\bHmm... let's battle!",
+  "it": "\\bMmh... lottiamo!"
  },
  {
-  "id": "\\bDon't fall in.",
-  "en": "\\bDon't fall in.",
-  "it": "\\bNon cadere dentro."
- },
- {
-  "id": "\\rI'm studying archaeology.",
-  "en": "\\rI'm studying archaeology.",
-  "it": "\\rStudio archeologia."
- },
- {
-  "id": "\\rMy parents don't want me to be an archaeologist.",
-  "en": "\\rMy parents don't want me to be an archaeologist.",
-  "it": "\\rI miei genitori non vogliono che diventi archeologa."
- },
- {
-  "id": "\\bI've spent years looking for a Whiscash.",
-  "en": "\\bI've spent years looking for a Whiscash.",
-  "it": "\\bHo passato anni a cercare un Whiscash."
- },
- {
-  "id": "\\bI'm not dead yet. I'll get Nero one day.",
-  "en": "\\bI'm not dead yet. I'll get Nero one day.",
-  "it": "\\bNon sono ancora morto. Un giorno prenderò Nero."
- },
- {
-  "id": "\\bBehold the advantage of bug and water!",
-  "en": "\\bBehold the advantage of bug and water!",
-  "it": "\\bAmmira il vantaggio di Coleottero e Acqua!"
- },
- {
-  "id": "\\bI can't believe my plan failed.",
-  "en": "\\bI can't believe my plan failed.",
-  "it": "\\bNon ci credo che il mio piano è fallito."
- },
- {
-  "id": "\\rHave you heard of a Coordinator named May?",
-  "en": "\\rHave you heard of a Coordinator named May?",
-  "it": "\\rHai sentito parlare di una Coordinatrice di nome Vera?"
- },
- {
-  "id": "\\rI helped train her for a Contest before matching up against her. She's quite good.",
-  "en": "\\rI helped train her for a Contest before matching up against her. She's quite good.",
-  "it": "\\rL'ho aiutata ad allenarsi per una Gara prima di sfidarla. È davvero brava."
- },
- {
-  "id": "\\bAre you trying to get in the forest?",
-  "en": "\\bAre you trying to get in the forest?",
-  "it": "\\bStai cercando di entrare nel bosco?"
- },
- {
-  "id": "\\bBe careful in forests.",
-  "en": "\\bBe careful in forests.",
-  "it": "\\bFai attenzione nei boschi."
- },
- {
-  "id": "\\bI wonder what you will send out.",
-  "en": "\\bI wonder what you will send out.",
-  "it": "\\bChissà cosa manderai in campo."
- },
- {
-  "id": "\\bI'm always on the hunt for more Pokémon.",
-  "en": "\\bI'm always on the hunt for more Pokémon.",
-  "it": "\\bSono sempre a caccia di altri Pokémon."
+  "id": "\\bI need something better.",
+  "en": "\\bI need something better.",
+  "it": "\\bMi serve qualcosa di meglio."
  },
  {
   "id": "\\bMy Tropius. When will it return?",
@@ -130,14 +40,14 @@
   "it": "\\bForse un giorno tornerà."
  },
  {
-  "id": "\\bIsn't it wonderful outside?",
-  "en": "\\bIsn't it wonderful outside?",
-  "it": "\\bNon è meraviglioso stare all'aperto?"
+  "id": "\\bI need a break.",
+  "en": "\\bI need a break.",
+  "it": "\\bHo bisogno di una pausa."
  },
  {
-  "id": "\\bI don't even care about the loss. Just looking at this view makes me so happy.",
-  "en": "\\bI don't even care about the loss. Just looking at this view makes me so happy.",
-  "it": "\\bLa sconfitta non mi interessa nemmeno. Mi basta guardare questo panorama per essere felice."
+  "id": "\\bI just can't win today.",
+  "en": "\\bI just can't win today.",
+  "it": "\\bOggi proprio non riesco a vincere."
  },
  {
   "id": "\\rThat pose. It's perfect!",
@@ -148,5 +58,95 @@
   "id": "\\rI need to restart my painting.",
   "en": "\\rI need to restart my painting.",
   "it": "\\rDevo ricominciare il mio dipinto."
+ },
+ {
+  "id": "\\bI wonder what you will send out.",
+  "en": "\\bI wonder what you will send out.",
+  "it": "\\bChissà cosa manderai in campo."
+ },
+ {
+  "id": "\\bI'm always on the hunt for more Pokémon.",
+  "en": "\\bI'm always on the hunt for more Pokémon.",
+  "it": "\\bSono sempre a caccia di altri Pokémon."
+ },
+ {
+  "id": "\\bI've spent years looking for a Whiscash.",
+  "en": "\\bI've spent years looking for a Whiscash.",
+  "it": "\\bHo passato anni a cercare un Whiscash."
+ },
+ {
+  "id": "\\bI'm not dead yet. I'll get Nero one day.",
+  "en": "\\bI'm not dead yet. I'll get Nero one day.",
+  "it": "\\bNon sono ancora morto. Un giorno prenderò Nero."
+ },
+ {
+  "id": "\\bHey! Be careful.",
+  "en": "\\bHey! Be careful.",
+  "it": "\\bEhi! Fai attenzione."
+ },
+ {
+  "id": "\\bDon't fall in.",
+  "en": "\\bDon't fall in.",
+  "it": "\\bNon cadere dentro."
+ },
+ {
+  "id": "\\bIsn't it wonderful outside?",
+  "en": "\\bIsn't it wonderful outside?",
+  "it": "\\bNon è meraviglioso stare all'aperto?"
+ },
+ {
+  "id": "\\bI don't even care about the loss. Just looking at this view makes me so happy.",
+  "en": "\\bI don't even care about the loss. Just looking at this view makes me so happy.",
+  "it": "\\bLa sconfitta non mi interessa nemmeno. Mi basta guardare questo panorama per essere felice."
+ },
+ {
+  "id": "Weather Institute",
+  "en": "Weather Institute",
+  "it": "Istituto Meteo"
+ },
+ {
+  "id": "\\rHave you heard of a Coordinator named May?",
+  "en": "\\rHave you heard of a Coordinator named May?",
+  "it": "\\rHai sentito parlare di una Coordinatrice di nome Vera?"
+ },
+ {
+  "id": "\\rI helped train her for a Contest before matching up against her. She's quite good.",
+  "en": "\\rI helped train her for a Contest before matching up against her. She's quite good.",
+  "it": "\\rL'ho aiutata ad allenarsi per una Gara prima di sfidarla. È davvero brava."
+ },
+ {
+  "id": "\\rI'm studying archaeology.",
+  "en": "\\rI'm studying archaeology.",
+  "it": "\\rStudio archeologia."
+ },
+ {
+  "id": "\\rMy parents don't want me to be an archaeologist.",
+  "en": "\\rMy parents don't want me to be an archaeologist.",
+  "it": "\\rI miei genitori non vogliono che diventi archeologa."
+ },
+ {
+  "id": "\\bMy Pokémon are cooler!",
+  "en": "\\bMy Pokémon are cooler!",
+  "it": "\\bI miei Pokémon sono più forti!"
+ },
+ {
+  "id": "\\bBeautifly are much better due to their beauty.",
+  "en": "\\bBeautifly are much better due to their beauty.",
+  "it": "\\bI Beautifly sono molto meglio per la loro bellezza."
+ },
+ {
+  "id": "\\bBehold the advantage of bug and water!",
+  "en": "\\bBehold the advantage of bug and water!",
+  "it": "\\bAmmira il vantaggio di Coleottero e Acqua!"
+ },
+ {
+  "id": "\\bI can't believe my plan failed.",
+  "en": "\\bI can't believe my plan failed.",
+  "it": "\\bNon ci credo che il mio piano è fallito."
+ },
+ {
+  "id": "\\bDustox are much better due to their strength.",
+  "en": "\\bDustox are much better due to their strength.",
+  "it": "\\bI Dustox sono molto meglio per la loro forza."
  }
 ]

@@ -15,11 +15,6 @@
   "it": "\\bKangaskhan"
  },
  {
-  "id": "\\bRaichu",
-  "en": "\\bRaichu",
-  "it": "\\bRaichu"
- },
- {
   "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Exit]",
   "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Exit]",
   "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Esci]"
@@ -38,6 +33,11 @@
   "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Ascorbia,Kumquat,Pummelo,Exit]",
   "en": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Seven Grapefruit,Ascorbia,Kumquat,Pummelo,Exit]",
   "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Sette Grapefruit,Ascorbia,Kumquat,Pummelo,Esci]"
+ },
+ {
+  "id": "\\bRaichu",
+  "en": "\\bRaichu",
+  "it": "\\bRaichu"
  },
  {
   "id": "\\rLorelei: Hello there. I guess you're here for the gym? You're a bit too confident by the looks of it. Let me knock you down a peg.",

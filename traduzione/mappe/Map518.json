@@ -10,16 +10,6 @@
   "it": "\\rSei stato alla torre? Io cerco di evitarla."
  },
  {
-  "id": "\\bHiya!",
-  "en": "\\bHiya!",
-  "it": "\\bHiya!"
- },
- {
-  "id": "\\bShould I get a Fighting-type? My sister says it would suit me.",
-  "en": "\\bShould I get a Fighting-type? My sister says it would suit me.",
-  "it": "\\bDovrei prendere un tipo Lotta? Mia sorella dice che mi si addice."
- },
- {
   "id": "\\bLooking to cross Rock Tunnel?",
   "en": "\\bLooking to cross Rock Tunnel?",
   "it": "\\bVuoi attraversare il Tunnel Roccioso?"
@@ -30,9 +20,14 @@
   "it": "\\bContinua a camminare."
  },
  {
-  "id": "\\bGurdurr",
-  "en": "\\bGurdurr",
-  "it": "\\bGurdurr"
+  "id": "\\bHiya!",
+  "en": "\\bHiya!",
+  "it": "\\bHiya!"
+ },
+ {
+  "id": "\\bShould I get a Fighting-type? My sister says it would suit me.",
+  "en": "\\bShould I get a Fighting-type? My sister says it would suit me.",
+  "it": "\\bDovrei prendere un tipo Lotta? Mia sorella dice che mi si addice."
  },
  {
   "id": "\\bClefairy",
@@ -40,14 +35,19 @@
   "it": "\\bClefairy"
  },
  {
-  "id": "\\bWhat a nice day it is. Remember to keep training.",
-  "en": "\\bWhat a nice day it is. Remember to keep training.",
-  "it": "\\bChe bella giornata. Ricordati di continuare ad allenarti."
+  "id": "\\bGurdurr",
+  "en": "\\bGurdurr",
+  "it": "\\bGurdurr"
  },
  {
   "id": "Rock Tunnel",
   "en": "Rock Tunnel",
   "it": "Tunnel Roccioso"
+ },
+ {
+  "id": "\\bWhat a nice day it is. Remember to keep training.",
+  "en": "\\bWhat a nice day it is. Remember to keep training.",
+  "it": "\\bChe bella giornata. Ricordati di continuare ad allenarti."
  },
  {
   "id": "\\bShow me your team.",
@@ -58,16 +58,6 @@
   "id": "\\bYou've traveled far, haven't you?",
   "en": "\\bYou've traveled far, haven't you?",
   "it": "\\bHai viaggiato tanto, vero?"
- },
- {
-  "id": "\\bAre you a fan of farmwork?",
-  "en": "\\bAre you a fan of farmwork?",
-  "it": "\\bTi piace il lavoro nei campi?"
- },
- {
-  "id": "\\bI used to study under Professor Cerise.",
-  "en": "\\bI used to study under Professor Cerise.",
-  "it": "\\bUn tempo studiavo sotto la guida della Professoressa Cerise."
  },
  {
   "id": "\\bI'm waiting for a match in the World Coronation Series.",
@@ -113,6 +103,16 @@
   "id": "\\bDon't get too cocky.",
   "en": "\\bDon't get too cocky.",
   "it": "\\bNon montarti la testa."
+ },
+ {
+  "id": "\\bAre you a fan of farmwork?",
+  "en": "\\bAre you a fan of farmwork?",
+  "it": "\\bTi piace il lavoro nei campi?"
+ },
+ {
+  "id": "\\bI used to study under Professor Cerise.",
+  "en": "\\bI used to study under Professor Cerise.",
+  "it": "\\bUn tempo studiavo sotto la guida della Professoressa Cerise."
  },
  {
   "id": "\\bTime for some training.",

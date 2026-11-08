@@ -5,14 +5,14 @@
   "it": "\\rSwine"
  },
  {
-  "id": "\\rI don't dare go out into the Crown Tundra anymore. I heard about a scary Pokémon that lives in it.",
-  "en": "\\rI don't dare go out into the Crown Tundra anymore. I heard about a scary Pokémon that lives in it.",
-  "it": "\\rNon oso più avventurarmi nella Landa Corona. Ho sentito parlare di un Pokémon spaventoso che ci vive."
- },
- {
   "id": "\\bVanillish",
   "en": "\\bVanillish",
   "it": "\\bVanillish"
+ },
+ {
+  "id": "\\rI don't dare go out into the Crown Tundra anymore. I heard about a scary Pokémon that lives in it.",
+  "en": "\\rI don't dare go out into the Crown Tundra anymore. I heard about a scary Pokémon that lives in it.",
+  "it": "\\rNon oso più avventurarmi nella Landa Corona. Ho sentito parlare di un Pokémon spaventoso che ci vive."
  },
  {
   "id": "\\rDon't stay outside too long. You'll catch a cold.",
@@ -20,14 +20,14 @@
   "it": "\\rNon stare fuori troppo a lungo. Ti prenderai un raffreddore."
  },
  {
-  "id": "It's an old statue. The words are impossible to read.",
-  "en": "It's an old statue. The words are impossible to read.",
-  "it": "È una vecchia statua. Le scritte sono illeggibili."
- },
- {
   "id": "\\bCorviknight",
   "en": "\\bCorviknight",
   "it": "\\bCorviknight"
+ },
+ {
+  "id": "It's an old statue. The words are impossible to read.",
+  "en": "It's an old statue. The words are impossible to read.",
+  "it": "È una vecchia statua. Le scritte sono illeggibili."
  },
  {
   "id": "\\bGrowing food out here isn't easy. It's an all day project.",

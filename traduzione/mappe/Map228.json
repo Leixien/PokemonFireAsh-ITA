@@ -1,8 +1,23 @@
 [
  {
-  "id": "\\bDue to a loss of supply from a Snorlax we need to pick faster than ever.",
-  "en": "\\bDue to a loss of supply from a Snorlax we need to pick faster than ever.",
-  "it": "\\bA causa delle scorte perse per colpa di uno Snorlax, dobbiamo raccogliere più in fretta che mai."
+  "id": "\\bThe islands to the east of us were hit pretty hard.",
+  "en": "\\bThe islands to the east of us were hit pretty hard.",
+  "it": "\\bLe isole a est di qui sono state colpite duramente."
+ },
+ {
+  "id": "\\bThere's no grapefruits left over there.",
+  "en": "\\bThere's no grapefruits left over there.",
+  "it": "\\bLaggiù non sono rimasti più pompelmi."
+ },
+ {
+  "id": "\\bLook at what happened to all our grapefruits when a Snorlax came.",
+  "en": "\\bLook at what happened to all our grapefruits when a Snorlax came.",
+  "it": "\\bGuarda cos'è successo a tutti i nostri pompelmi quando è arrivato uno Snorlax."
+ },
+ {
+  "id": "\\bWant to help me pick some?",
+  "en": "\\bWant to help me pick some?",
+  "it": "\\bVuoi aiutarmi a raccoglierne un po'?"
  },
  {
   "id": "\\bWe found this when we were picking. We don't need it though.",
@@ -15,9 +30,14 @@
   "it": "\\bOra devo raccogliere più in fretta. Parlare con te mi ha fatto perdere tempo."
  },
  {
-  "id": "\\bWant to help me pick some?",
-  "en": "\\bWant to help me pick some?",
-  "it": "\\bVuoi aiutarmi a raccoglierne un po'?"
+  "id": "\\rWe just picked some grapefruits here yesterday.",
+  "en": "\\rWe just picked some grapefruits here yesterday.",
+  "it": "\\rProprio ieri abbiamo raccolto dei pompelmi qui."
+ },
+ {
+  "id": "\\bWhat will happen if this keeps going?",
+  "en": "\\bWhat will happen if this keeps going?",
+  "it": "\\bCosa succederà se continua così?"
  },
  {
   "id": "\\bDodrio",
@@ -25,24 +45,39 @@
   "it": "\\bDodrio"
  },
  {
-  "id": "\\bThere's a rampant Snorlax this way. It's best to stay back.",
-  "en": "\\bThere's a rampant Snorlax this way. It's best to stay back.",
-  "it": "\\bDa questa parte c'è uno Snorlax scatenato. Meglio stare alla larga."
+  "id": "\\rThere's a rampant Snorlax this way. It's best to stay back.",
+  "en": "\\rThere's a rampant Snorlax this way. It's best to stay back.",
+  "it": "\\rDa questa parte c'è uno Snorlax scatenato. È meglio stare alla larga."
  },
  {
-  "id": "\\bSnorlax is strong. Be careful.",
-  "en": "\\bSnorlax is strong. Be careful.",
-  "it": "\\bSnorlax è forte. Fai attenzione."
- },
- {
-  "id": "\\bGood job on stopping Snorlax.",
-  "en": "\\bGood job on stopping Snorlax.",
-  "it": "\\bOttimo lavoro con Snorlax."
+  "id": "\\rThese are the Seven Grapefruit Islands. You can tell by the name that they grow grapefruits here.",
+  "en": "\\rThese are the Seven Grapefruit Islands. You can tell by the name that they grow grapefruits here.",
+  "it": "\\rQueste sono le Sette Isole Grapefruit. Dal nome si capisce che qui si coltivano pompelmi."
  },
  {
   "id": "\\bDonphan",
   "en": "\\bDonphan",
   "it": "\\bDonphan"
+ },
+ {
+  "id": "\\bDue to a loss of supply from a Snorlax we need to pick faster than ever.",
+  "en": "\\bDue to a loss of supply from a Snorlax we need to pick faster than ever.",
+  "it": "\\bA causa delle scorte perse per colpa di uno Snorlax, dobbiamo raccogliere più in fretta che mai."
+ },
+ {
+  "id": "... The Snorlax is fast asleep.",
+  "en": "... The Snorlax is fast asleep.",
+  "it": "... Lo Snorlax dorme profondamente."
+ },
+ {
+  "id": "Would you like to take Snorlax with you?",
+  "en": "Would you like to take Snorlax with you?",
+  "it": "Vuoi portare Snorlax con te?"
+ },
+ {
+  "id": "\\bI decided to stop here before going to the Navel Gym.",
+  "en": "\\bI decided to stop here before going to the Navel Gym.",
+  "it": "\\bHo deciso di fermarmi qui prima di andare alla Palestra di Navel."
  },
  {
   "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel,Exit]",
@@ -70,49 +105,14 @@
   "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Tangelo,Mikan,Navel, Trovita,Ascorbia,Kumquat,Pummelo,Esci]"
  },
  {
-  "id": "\\rWe just picked some grapefruits here yesterday.",
-  "en": "\\rWe just picked some grapefruits here yesterday.",
-  "it": "\\rProprio ieri abbiamo raccolto dei pompelmi qui."
+  "id": "\\rSnorlax is strong. Be careful.",
+  "en": "\\rSnorlax is strong. Be careful.",
+  "it": "\\rSnorlax è forte. Fai attenzione."
  },
  {
-  "id": "\\rThese are the Seven Grapefruit Islands. You can tell by the name that they grow grapefruits here.",
-  "en": "\\rThese are the Seven Grapefruit Islands. You can tell by the name that they grow grapefruits here.",
-  "it": "\\rQueste sono le Sette Isole Grapefruit. Dal nome si capisce che qui si coltivano pompelmi."
- },
- {
-  "id": "\\bWhat will happen if this keeps going?",
-  "en": "\\bWhat will happen if this keeps going?",
-  "it": "\\bCosa succederà se continua così?"
- },
- {
-  "id": "\\bLook at what happened to all our grapefruits when a Snorlax came.",
-  "en": "\\bLook at what happened to all our grapefruits when a Snorlax came.",
-  "it": "\\bGuarda cos'è successo a tutti i nostri pompelmi quando è arrivato uno Snorlax."
- },
- {
-  "id": "\\bI decided to stop here before going to the Navel Gym.",
-  "en": "\\bI decided to stop here before going to the Navel Gym.",
-  "it": "\\bHo deciso di fermarmi qui prima di andare alla Palestra di Navel."
- },
- {
-  "id": "\\bThe islands to the east of us were hit pretty hard.",
-  "en": "\\bThe islands to the east of us were hit pretty hard.",
-  "it": "\\bLe isole a est di qui sono state colpite duramente."
- },
- {
-  "id": "\\bThere's no grapefruits left over there.",
-  "en": "\\bThere's no grapefruits left over there.",
-  "it": "\\bLaggiù non sono rimasti più pompelmi."
- },
- {
-  "id": "... The Snorlax is fast asleep.",
-  "en": "... The Snorlax is fast asleep.",
-  "it": "... Lo Snorlax dorme profondamente."
- },
- {
-  "id": "Would you like to take Snorlax with you?",
-  "en": "Would you like to take Snorlax with you?",
-  "it": "Vuoi portare Snorlax con te?"
+  "id": "\\rGood job on stopping Snorlax.",
+  "en": "\\rGood job on stopping Snorlax.",
+  "it": "\\rOttimo lavoro, hai fermato Snorlax."
  },
  {
   "id": "Yes",

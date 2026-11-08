@@ -25,16 +25,6 @@
   "it": "È una roccia dall'aspetto robusto."
  },
  {
-  "id": "\\rI couldn't handle the Battle Tower at first.",
-  "en": "\\rI couldn't handle the Battle Tower at first.",
-  "it": "\\rAll'inizio la Torre Lotta era troppo per me."
- },
- {
-  "id": "\\rThe Battle Tower is straight forward. Go in and battle your way up.",
-  "en": "\\rThe Battle Tower is straight forward. Go in and battle your way up.",
-  "it": "\\rLa Torre Lotta è semplice. Entri e ti fai strada fino in cima lottando."
- },
- {
   "id": "\\rIs there a Contest nearby?",
   "en": "\\rIs there a Contest nearby?",
   "it": "\\rC'è una Gara qui vicino?"
@@ -43,6 +33,16 @@
   "id": "\\rI'm going to a Contest soon.",
   "en": "\\rI'm going to a Contest soon.",
   "it": "\\rTra poco parteciperò a una Gara."
+ },
+ {
+  "id": "\\rI couldn't handle the Battle Tower at first.",
+  "en": "\\rI couldn't handle the Battle Tower at first.",
+  "it": "\\rAll'inizio la Torre Lotta era troppo per me."
+ },
+ {
+  "id": "\\rThe Battle Tower is straight forward. Go in and battle your way up.",
+  "en": "\\rThe Battle Tower is straight forward. Go in and battle your way up.",
+  "it": "\\rLa Torre Lotta è semplice. Entri e ti fai strada fino in cima lottando."
  },
  {
   "id": "\\bI'm trying to fish here.",
@@ -65,16 +65,6 @@
   "it": "\\bNon voglio una rivincita. Scordatelo."
  },
  {
-  "id": "\\v[1] has changed to have increased speed!",
-  "en": "\\v[1] has changed to have increased speed!",
-  "it": "\\v[1] è cambiato e ora ha una velocità maggiore!"
- },
- {
-  "id": "It's a smooth-looking rock.",
-  "en": "It's a smooth-looking rock.",
-  "it": "È una roccia dall'aspetto liscio."
- },
- {
   "id": "\\bLet me guess. The Battle Tower?",
   "en": "\\bLet me guess. The Battle Tower?",
   "it": "\\bFammi indovinare. La Torre Lotta?"
@@ -85,9 +75,14 @@
   "it": "\\bHo già battuto la Torre."
  },
  {
-  "id": "Battle Tower \\nLeader:\\nSalon Maiden Anabel",
-  "en": "Battle Tower \\nLeader:\\nSalon Maiden Anabel",
-  "it": "Torre Lotta \\nAsso:\\nDama Salone Anabel"
+  "id": "\\v[1] has changed to have increased speed!",
+  "en": "\\v[1] has changed to have increased speed!",
+  "it": "\\v[1] è cambiato e ora ha una velocità maggiore!"
+ },
+ {
+  "id": "It's a smooth-looking rock.",
+  "en": "It's a smooth-looking rock.",
+  "it": "È una roccia dall'aspetto liscio."
  },
  {
   "id": "\\rTake me on. Now!",
@@ -100,14 +95,9 @@
   "it": "\\rAvrei dovuto ricavarci qualcosa. E invece niente. Mi sento vuota."
  },
  {
-  "id": "\\v[1] has changed to have superior stats for attacking!",
-  "en": "\\v[1] has changed to have superior stats for attacking!",
-  "it": "\\v[1] è cambiato e ora ha statistiche superiori in attacco!"
- },
- {
-  "id": "It's a vicious-looking rock.",
-  "en": "It's a vicious-looking rock.",
-  "it": "È una roccia dall'aspetto minaccioso."
+  "id": "Battle Tower \\nLeader:\\nSalon Maiden Anabel",
+  "en": "Battle Tower \\nLeader:\\nSalon Maiden Anabel",
+  "it": "Torre Lotta \\nAsso:\\nDama Salone Anabel"
  },
  {
   "id": "\\bHow you doing?",
@@ -120,24 +110,14 @@
   "it": "\\bHai già tutti quei Simboli?"
  },
  {
-  "id": "\\bYou look strong. Let's battle.",
-  "en": "\\bYou look strong. Let's battle.",
-  "it": "\\bSembri forte. Lottiamo."
+  "id": "\\v[1] has changed to have superior stats for attacking!",
+  "en": "\\v[1] has changed to have superior stats for attacking!",
+  "it": "\\v[1] è cambiato e ora ha statistiche superiori in attacco!"
  },
  {
-  "id": "\\bI want to get stronger. I'll be a champion one day.",
-  "en": "\\bI want to get stronger. I'll be a champion one day.",
-  "it": "\\bVoglio diventare più forte. Un giorno sarò un campione."
- },
- {
-  "id": "\\bI found this in the grass. I was hoping it would help me fish, but it doesn't. You want it?",
-  "en": "\\bI found this in the grass. I was hoping it would help me fish, but it doesn't. You want it?",
-  "it": "\\bL'ho trovato nell'erba. Speravo mi aiutasse a pescare, ma non serve a niente. Lo vuoi?"
- },
- {
-  "id": "\\bBad luck for me I guess.",
-  "en": "\\bBad luck for me I guess.",
-  "it": "\\bChe sfortuna, direi."
+  "id": "It's a vicious-looking rock.",
+  "en": "It's a vicious-looking rock.",
+  "it": "È una roccia dall'aspetto minaccioso."
  },
  {
   "id": "\\bI keep hearing crying.",
@@ -150,14 +130,24 @@
   "it": "\\bForse me lo sto immaginando."
  },
  {
-  "id": "\\v[1] has changed to have balanced stats!",
-  "en": "\\v[1] has changed to have balanced stats!",
-  "it": "\\v[1] è cambiato e ora ha statistiche equilibrate!"
+  "id": "\\bI found this in the grass. I was hoping it would help me fish, but it doesn't. You want it?",
+  "en": "\\bI found this in the grass. I was hoping it would help me fish, but it doesn't. You want it?",
+  "it": "\\bL'ho trovato nell'erba. Speravo mi aiutasse a pescare, ma non serve a niente. Lo vuoi?"
  },
  {
-  "id": "It's a regular-looking rock.",
-  "en": "It's a regular-looking rock.",
-  "it": "È una roccia dall'aspetto comune."
+  "id": "\\bBad luck for me I guess.",
+  "en": "\\bBad luck for me I guess.",
+  "it": "\\bChe sfortuna, direi."
+ },
+ {
+  "id": "\\bYou look strong. Let's battle.",
+  "en": "\\bYou look strong. Let's battle.",
+  "it": "\\bSembri forte. Lottiamo."
+ },
+ {
+  "id": "\\bI want to get stronger. I'll be a champion one day.",
+  "en": "\\bI want to get stronger. I'll be a champion one day.",
+  "it": "\\bVoglio diventare più forte. Un giorno sarò un campione."
  },
  {
   "id": "\\bCan you handle this?",
@@ -170,9 +160,19 @@
   "it": "\\bBuona fortuna."
  },
  {
-  "id": "\\bJames: I can't believe out luck. The boss is going to love us for this.",
-  "en": "\\bJames: I can't believe out luck. The boss is going to love us for this.",
-  "it": "\\bJames: Non posso credere alla nostra fortuna. Il capo ci adorerà per questo."
+  "id": "\\v[1] has changed to have balanced stats!",
+  "en": "\\v[1] has changed to have balanced stats!",
+  "it": "\\v[1] è cambiato e ora ha statistiche equilibrate!"
+ },
+ {
+  "id": "It's a regular-looking rock.",
+  "en": "It's a regular-looking rock.",
+  "it": "È una roccia dall'aspetto comune."
+ },
+ {
+  "id": "\\bJames: I can't believe our luck. The boss is going to love us for this.",
+  "en": "\\bJames: I can't believe our luck. The boss is going to love us for this.",
+  "it": "\\bJames: Non ci credo, che fortuna. Il capo ci adorerà per questo."
  },
  {
   "id": "\\rJessie: We need to capture it first. Hurry, freeze it more so it can't move.",
@@ -190,14 +190,9 @@
   "it": "\\bWobbuffet!"
  },
  {
-  "id": "\\rI'm ready to go. Are you ready to go?",
-  "en": "\\rI'm ready to go. Are you ready to go?",
-  "it": "\\rIo sono pronta a partire. Tu sei pronto?"
- },
- {
-  "id": "\\rGood job, Trainer.",
-  "en": "\\rGood job, Trainer.",
-  "it": "\\rBel lavoro, Allenatore."
+  "id": "\\rLatias!",
+  "en": "\\rLatias!",
+  "it": "\\rLatias!"
  },
  {
   "id": "\\rPrepare to have your face marked.",
@@ -210,9 +205,14 @@
   "it": "\\rCos'altro posso fare per divertirmi?"
  },
  {
-  "id": "\\rLatias!",
-  "en": "\\rLatias!",
-  "it": "\\rLatias!"
+  "id": "\\rI'm ready to go. Are you ready to go?",
+  "en": "\\rI'm ready to go. Are you ready to go?",
+  "it": "\\rIo sono pronta a partire. Tu sei pronto?"
+ },
+ {
+  "id": "\\rGood job, Trainer.",
+  "en": "\\rGood job, Trainer.",
+  "it": "\\rBel lavoro, Allenatore."
  },
  {
   "id": "Yes",

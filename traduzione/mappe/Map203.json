@@ -1,13 +1,13 @@
 [
  {
-  "id": "\\bHey there. Nice to meet you. Let's both do our best okay?",
-  "en": "\\bHey there. Nice to meet you. Let's both do our best okay?",
-  "it": "\\bEhi, ciao. Piacere di conoscerti. Diamo entrambi il massimo, ok?"
+  "id": "\\bRitchie: Hey there. Nice to meet you. Let's both do our best okay?",
+  "en": "\\bRitchie: Hey there. Nice to meet you. Let's both do our best okay?",
+  "it": "\\bRitchie: Ehi, ciao. Piacere di conoscerti. Diamo entrambi il massimo, ok?"
  },
  {
-  "id": "\\bI can't believe how that went.",
-  "en": "\\bI can't believe how that went.",
-  "it": "\\bNon ci posso credere che sia andata così."
+  "id": "\\bRitchie: I can't believe how that went.",
+  "en": "\\bRitchie: I can't believe how that went.",
+  "it": "\\bRitchie: Non posso credere a com'è andata."
  },
  {
   "id": "\\bYou placed in the Top 16 this year. Come back next year to try again. Thank you for competing.",
@@ -18,5 +18,80 @@
   "id": "\\bOh you're \\PN, are you not? Professor Oak himself was rooting for you. Why don't you go tell him how you did?",
   "en": "\\bOh you're \\PN, are you not? Professor Oak himself was rooting for you. Why don't you go tell him how you did?",
   "it": "\\bOh, tu sei \\PN, giusto? Il Professor Oak in persona faceva il tifo per te. Perché non vai a raccontargli com'è andata?"
+ },
+ {
+  "id": "\\bRitchie: Hey \\PN. Nice that you didn't keep me waiting this time!",
+  "en": "\\bRitchie: Hey \\PN. Nice that you didn't keep me waiting this time!",
+  "it": "\\bRitchie: Ehi \\PN. Che bello che stavolta non mi hai fatto aspettare!"
+ },
+ {
+  "id": "\\bYour next match will be held in the Indigo Stadium again whenever you are ready.",
+  "en": "\\bYour next match will be held in the Indigo Stadium again whenever you are ready.",
+  "it": "\\bIl tuo prossimo incontro si terrà di nuovo allo Stadio Indaco, quando sarai pronto."
+ },
+ {
+  "id": "\\rAww, I was hoping to face Ritchie again. But then again, you're the Monarch now.",
+  "en": "\\rAww, I was hoping to face Ritchie again. But then again, you're the Monarch now.",
+  "it": "\\rUff, speravo di affrontare di nuovo Ritchie. Ma d'altronde ora sei tu il Monarca."
+ },
+ {
+  "id": "\\rAs expected of the Monarch.",
+  "en": "\\rAs expected of the Monarch.",
+  "it": "\\rCome ci si aspetta dal Monarca."
+ },
+ {
+  "id": "\\bYour next match will be a full battle, held in the Indigo Stadium again whenever you are ready.",
+  "en": "\\bYour next match will be a full battle, held in the Indigo Stadium again whenever you are ready.",
+  "it": "\\bIl tuo prossimo incontro sarà una lotta completa, e si terrà di nuovo allo Stadio Indaco, quando sarai pronto."
+ },
+ {
+  "id": "\\rYes! Well done, Venusaur!",
+  "en": "\\rYes! Well done, Venusaur!",
+  "it": "\\rSì! Ben fatto, Venusaur!"
+ },
+ {
+  "id": "\\bHarrison: Good to see you again. Let's see if I can beat you again, even if you're the Monarch now.",
+  "en": "\\bHarrison: Good to see you again. Let's see if I can beat you again, even if you're the Monarch now.",
+  "it": "\\bHarrison: Che piacere rivederti. Vediamo se riesco a batterti di nuovo, anche se ora sei il Monarca."
+ },
+ {
+  "id": "\\bYou did good. Good luck with the finals.",
+  "en": "\\bYou did good. Good luck with the finals.",
+  "it": "\\bHai fatto un bel lavoro. Buona fortuna per la finale."
+ },
+ {
+  "id": "\\bYou did good.",
+  "en": "\\bYou did good.",
+  "it": "\\bTe la sei cavata bene."
+ },
+ {
+  "id": "\\bGary: Well \\PN, looks like we finally get to battle it out in the finals, unlike our first time here.",
+  "en": "\\bGary: Well \\PN, looks like we finally get to battle it out in the finals, unlike our first time here.",
+  "it": "\\bGary: Bene \\PN, a quanto pare finalmente ce la vediamo in finale, a differenza della prima volta che siamo stati qui."
+ },
+ {
+  "id": "\\bI had some time off from research and heard you were going to challenge the Indigo League again, so I thought, why not?",
+  "en": "\\bI had some time off from research and heard you were going to challenge the Indigo League again, so I thought, why not?",
+  "it": "\\bAvevo un po' di tempo libero dalla ricerca e ho sentito che avresti sfidato di nuovo la Lega Indaco, così ho pensato: perché no?"
+ },
+ {
+  "id": "\\bMay the best Trainer win, which will be me, of course. Even if you're now the Monarch!",
+  "en": "\\bMay the best Trainer win, which will be me, of course. Even if you're now the Monarch!",
+  "it": "\\bChe vinca l'Allenatore migliore, cioè io, ovviamente. Anche se ora sei il Monarca!"
+ },
+ {
+  "id": "\\bGood game, \\PN.",
+  "en": "\\bGood game, \\PN.",
+  "it": "\\bBella partita, \\PN."
+ },
+ {
+  "id": "\\bGary: Well played, \\PN. You deserve this win.",
+  "en": "\\bGary: Well played, \\PN. You deserve this win.",
+  "it": "\\bGary: Ben giocato, \\PN. Ti meriti questa vittoria."
+ },
+ {
+  "id": "\\bCongratulations on winning the Indigo League!",
+  "en": "\\bCongratulations on winning the Indigo League!",
+  "it": "\\bCongratulazioni per aver vinto la Lega Indaco!"
  }
 ]

@@ -1,15 +1,5 @@
 [
  {
-  "id": "\\bWere you avoiding me?",
-  "en": "\\bWere you avoiding me?",
-  "it": "\\bMi stavi evitando?"
- },
- {
-  "id": "\\bI'm glad you stopped by.",
-  "en": "\\bI'm glad you stopped by.",
-  "it": "\\bSono contento che tu sia passato."
- },
- {
   "id": "\\bNothing can hide from me.",
   "en": "\\bNothing can hide from me.",
   "it": "\\bNulla può nascondersi da me."
@@ -18,6 +8,16 @@
   "id": "\\bI guess I was wrong.",
   "en": "\\bI guess I was wrong.",
   "it": "\\bA quanto pare mi sbagliavo."
+ },
+ {
+  "id": "\\bWere you avoiding me?",
+  "en": "\\bWere you avoiding me?",
+  "it": "\\bMi stavi evitando?"
+ },
+ {
+  "id": "\\bI'm glad you stopped by.",
+  "en": "\\bI'm glad you stopped by.",
+  "it": "\\bSono contento che tu sia passato."
  },
  {
   "id": "\\bNeed any help?",
@@ -30,16 +30,6 @@
   "it": "\\bPattuglio questa zona."
  },
  {
-  "id": "\\rI will be the best detective.",
-  "en": "\\rI will be the best detective.",
-  "it": "\\rSarò la migliore detective."
- },
- {
-  "id": "\\rMaybe not.",
-  "en": "\\rMaybe not.",
-  "it": "\\rO forse no."
- },
- {
   "id": "\\rCan you help me?",
   "en": "\\rCan you help me?",
   "it": "\\rMi puoi aiutare?"
@@ -50,6 +40,16 @@
   "it": "\\rDruddigon e io stiamo meglio."
  },
  {
+  "id": "\\rI will be the best detective.",
+  "en": "\\rI will be the best detective.",
+  "it": "\\rSarò la migliore detective."
+ },
+ {
+  "id": "\\rMaybe not.",
+  "en": "\\rMaybe not.",
+  "it": "\\rO forse no."
+ },
+ {
   "id": "\\bPalpitoad",
   "en": "\\bPalpitoad",
   "it": "\\bPalpitoad"
@@ -58,6 +58,26 @@
   "id": "Would you like to take Palpitoad with you?",
   "en": "Would you like to take Palpitoad with you?",
   "it": "Vuoi portare Palpitoad con te?"
+ },
+ {
+  "id": "\\rI hope you don't have any Dragons.",
+  "en": "\\rI hope you don't have any Dragons.",
+  "it": "\\rSpero che tu non abbia Pokémon Drago."
+ },
+ {
+  "id": "\\rDon't lose. If I can't win you might as well.",
+  "en": "\\rDon't lose. If I can't win you might as well.",
+  "it": "\\rNon perdere. Se non posso vincere io, tanto vale che vinca tu."
+ },
+ {
+  "id": "\\bI can grant you a wish.",
+  "en": "\\bI can grant you a wish.",
+  "it": "\\bPosso esaudire un tuo desiderio."
+ },
+ {
+  "id": "\\bUm, ignore that while I leave.",
+  "en": "\\bUm, ignore that while I leave.",
+  "it": "\\bEhm, fai finta di niente mentre me ne vado."
  },
  {
   "id": "Would you like to take it with you?",
@@ -75,26 +95,6 @@
   "it": "I Box Pokémon sono pieni e non possono accoglierne altri!"
  },
  {
-  "id": "\\bI can grant you a wish.",
-  "en": "\\bI can grant you a wish.",
-  "it": "\\bPosso esaudire un tuo desiderio."
- },
- {
-  "id": "\\bUm, ignore that while I leave.",
-  "en": "\\bUm, ignore that while I leave.",
-  "it": "\\bEhm, fai finta di niente mentre me ne vado."
- },
- {
-  "id": "\\rI hope you don't have any Dragons.",
-  "en": "\\rI hope you don't have any Dragons.",
-  "it": "\\rSpero che tu non abbia Pokémon Drago."
- },
- {
-  "id": "\\rDon't lose. If I can't win you might as well.",
-  "en": "\\rDon't lose. If I can't win you might as well.",
-  "it": "\\rNon perdere. Se non posso vincere io, tanto vale che vinca tu."
- },
- {
   "id": "\\bA wanderer.",
   "en": "\\bA wanderer.",
   "it": "\\bUn viandante."
@@ -103,26 +103,6 @@
   "id": "\\bNot used to seeing people come out here. Not since the road was finished.",
   "en": "\\bNot used to seeing people come out here. Not since the road was finished.",
   "it": "\\bNon sono abituato a vedere gente da queste parti. Non da quando hanno finito la strada."
- },
- {
-  "id": "\\bRoggenrola",
-  "en": "\\bRoggenrola",
-  "it": "\\bRoggenrola"
- },
- {
-  "id": "Would you like to take Roggenrola with you?",
-  "en": "Would you like to take Roggenrola with you?",
-  "it": "Vuoi portare Roggenrola con te?"
- },
- {
-  "id": "\\bHi, I'm Andrew.",
-  "en": "\\bHi, I'm Andrew.",
-  "it": "\\bCiao, sono Andrew."
- },
- {
-  "id": "\\bI love meeting new people.",
-  "en": "\\bI love meeting new people.",
-  "it": "\\bAdoro conoscere gente nuova."
  },
  {
   "id": "\\rMy Purrloin keeps getting into trouble.",
@@ -135,6 +115,26 @@
   "it": "\\rScusa per il disturbo. Sa essere proprio una peste."
  },
  {
+  "id": "\\bHi, I'm Andrew.",
+  "en": "\\bHi, I'm Andrew.",
+  "it": "\\bCiao, sono Andrew."
+ },
+ {
+  "id": "\\bI love meeting new people.",
+  "en": "\\bI love meeting new people.",
+  "it": "\\bAdoro conoscere gente nuova."
+ },
+ {
+  "id": "\\bRoggenrola",
+  "en": "\\bRoggenrola",
+  "it": "\\bRoggenrola"
+ },
+ {
+  "id": "Would you like to take Roggenrola with you?",
+  "en": "Would you like to take Roggenrola with you?",
+  "it": "Vuoi portare Roggenrola con te?"
+ },
+ {
   "id": "\\bCan you say my name?",
   "en": "\\bCan you say my name?",
   "it": "\\bSai dire il mio nome?"
@@ -143,6 +143,16 @@
   "id": "\\bThe Club Battle is nearby.",
   "en": "\\bThe Club Battle is nearby.",
   "it": "\\bIl Club Battle è qui vicino."
+ },
+ {
+  "id": "\\bTrip: Still here to get in my way?",
+  "en": "\\bTrip: Still here to get in my way?",
+  "it": "\\bTrip: Sei ancora qui a intralciarmi?"
+ },
+ {
+  "id": "\\bTrip: Don't even try and enter the Club Battle with those moves. I'm going to win it anyways.",
+  "en": "\\bTrip: Don't even try and enter the Club Battle with those moves. I'm going to win it anyways.",
+  "it": "\\bTrip: Non provare nemmeno a partecipare al Club Battle con quelle mosse. Tanto vincerò io."
  },
  {
   "id": "\\bWhat are you doing!?",
@@ -165,16 +175,6 @@
   "it": "\\bIl Club Battle è finito? Ero così preso a convincere la gente a iscriversi che mi sono dimenticato di iscrivermi io..."
  },
  {
-  "id": "\\bTrip: Still here to get in my way?",
-  "en": "\\bTrip: Still here to get in my way?",
-  "it": "\\bTrip: Sei ancora qui a intralciarmi?"
- },
- {
-  "id": "\\bTrip: Don't even try and enter the Club Battle with those moves. I'm going to win it anyways.",
-  "en": "\\bTrip: Don't even try and enter the Club Battle with those moves. I'm going to win it anyways.",
-  "it": "\\bTrip: Non provare nemmeno a partecipare al Club Battle con quelle mosse. Tanto vincerò io."
- },
- {
   "id": "\\bAnd... action!",
   "en": "\\bAnd... action!",
   "it": "\\bE... azione!"
@@ -185,11 +185,6 @@
   "it": "\\bAdoro girare film."
  },
  {
-  "id": "\\bThere was a cave-in. This area is unsafe.",
-  "en": "\\bThere was a cave-in. This area is unsafe.",
-  "it": "\\bC'è stato un crollo. Questa zona non è sicura."
- },
- {
   "id": "\\bStay clear of here.",
   "en": "\\bStay clear of here.",
   "it": "\\bStai alla larga da qui."
@@ -198,6 +193,11 @@
   "id": "\\bWild Pokémon are tough here. Take it easy.",
   "en": "\\bWild Pokémon are tough here. Take it easy.",
   "it": "\\bI Pokémon selvatici qui sono forti. Vacci piano."
+ },
+ {
+  "id": "\\rThere was a cave-in. This area is unsafe.",
+  "en": "\\rThere was a cave-in. This area is unsafe.",
+  "it": "\\rC'è stato un crollo. Quest'area non è sicura."
  },
  {
   "id": "Yes",

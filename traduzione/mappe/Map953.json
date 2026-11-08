@@ -1,13 +1,23 @@
 [
  {
+  "id": "\\rEh, you'll never read this.",
+  "en": "\\rEh, you'll never read this.",
+  "it": "\\rEh, tanto non leggerai mai questo."
+ },
+ {
   "id": "\\bEevee",
   "en": "\\bEevee",
   "it": "\\bEevee"
  },
  {
-  "id": "\\rEh, you'll never read this.",
-  "en": "\\rEh, you'll never read this.",
-  "it": "\\rEh, tanto non leggerai mai questo."
+  "id": "Item Shop.\\nWe have something for anyone!",
+  "en": "Item Shop.\\nWe have something for anyone!",
+  "it": "Negozio di Strumenti.\\nAbbiamo qualcosa per tutti!"
+ },
+ {
+  "id": "\\rI hate when it rains. My hair gets all wet.",
+  "en": "\\rI hate when it rains. My hair gets all wet.",
+  "it": "\\rOdio quando piove. Mi si bagnano tutti i capelli."
  },
  {
   "id": "\\bSorry, are my Eevee blocking the way?",
@@ -30,14 +40,9 @@
   "it": "\\bSplashy, Flamey, Zappy, impegnatevi e diventate più forti."
  },
  {
-  "id": "\\rI hate when it rains. My hair gets all wet.",
-  "en": "\\rI hate when it rains. My hair gets all wet.",
-  "it": "\\rOdio quando piove. Mi si bagnano tutti i capelli."
- },
- {
-  "id": "Item Shop.\\nWe have something for anyone!",
-  "en": "Item Shop.\\nWe have something for anyone!",
-  "it": "Negozio di Strumenti.\\nAbbiamo qualcosa per tutti!"
+  "id": "\\bSailors only kid.",
+  "en": "\\bSailors only kid.",
+  "it": "\\bSolo marinai, ragazzino."
  },
  {
   "id": "Malie City\\nEnjoy the enticing Eastern influence.",
@@ -45,29 +50,14 @@
   "it": "Malie\\nLasciati incantare dal fascino d'Oriente."
  },
  {
-  "id": "\\bSailors only kid.",
-  "en": "\\bSailors only kid.",
-  "it": "\\bSolo marinai, ragazzino."
- },
- {
-  "id": "\\rHave you tried the gym out? It's a one-of-a-kind experience.",
-  "en": "\\rHave you tried the gym out? It's a one-of-a-kind experience.",
-  "it": "\\rHai già provato la Palestra? È un'esperienza unica nel suo genere."
- },
- {
   "id": "\\bLarvitar",
   "en": "\\bLarvitar",
   "it": "\\bLarvitar"
  },
  {
-  "id": "\\bAre you liking the city?",
-  "en": "\\bAre you liking the city?",
-  "it": "\\bTi piace la città?"
- },
- {
-  "id": "\\bDo you like it even more now?",
-  "en": "\\bDo you like it even more now?",
-  "it": "\\bE adesso ti piace ancora di più?"
+  "id": "\\rHave you tried the gym out? It's a one-of-a-kind experience.",
+  "en": "\\rHave you tried the gym out? It's a one-of-a-kind experience.",
+  "it": "\\rHai già provato la Palestra? È un'esperienza unica nel suo genere."
  },
  {
   "id": "\\rI'm looking for a Pancham.",
@@ -115,14 +105,29 @@
   "it": "\\rAdoro il mio nuovo Pokémon!"
  },
  {
-  "id": "\\rFroslass",
-  "en": "\\rFroslass",
-  "it": "\\rFroslass"
+  "id": "\\bAre you liking the city?",
+  "en": "\\bAre you liking the city?",
+  "it": "\\bTi piace la città?"
+ },
+ {
+  "id": "\\bDo you like it even more now?",
+  "en": "\\bDo you like it even more now?",
+  "it": "\\bE adesso ti piace ancora di più?"
  },
  {
   "id": "\\rThis town is inspired off of some town in a far away land. I'm sure you've never heard of it.",
   "en": "\\rThis town is inspired off of some town in a far away land. I'm sure you've never heard of it.",
   "it": "\\rQuesta città si ispira a una città di una terra lontana. Sono sicura che non ne hai mai sentito parlare."
+ },
+ {
+  "id": "\\rFroslass",
+  "en": "\\rFroslass",
+  "it": "\\rFroslass"
+ },
+ {
+  "id": "\\rEevee",
+  "en": "\\rEevee",
+  "it": "\\rEevee"
  },
  {
   "id": "\\rWant to learn Sucker Punch?",
@@ -133,11 +138,6 @@
   "id": "\\rCome back anytime!",
   "en": "\\rCome back anytime!",
   "it": "\\rTorna quando vuoi!"
- },
- {
-  "id": "\\rEevee",
-  "en": "\\rEevee",
-  "it": "\\rEevee"
  },
  {
   "id": "Alolan Pokémon Gym Leader: \\nRyuki",

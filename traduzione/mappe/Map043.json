@@ -25,14 +25,19 @@
   "it": "\\bPer la precisione, cerco esperti di lotte Pokémon."
  },
  {
-  "id": "\\bAgatha here is a memebr of the Elite Four. If you can beat her I'll invite you to participate in something grand.",
-  "en": "\\bAgatha here is a memebr of the Elite Four. If you can beat her I'll invite you to participate in something grand.",
-  "it": "\\bAgatha qui è un membro dei Superquattro. Se riesci a batterla, ti inviterò a partecipare a qualcosa di grandioso."
+  "id": "\\bAgatha here is a member of the Elite Four. If you can beat her I'll invite you to participate in something grand.",
+  "en": "\\bAgatha here is a member of the Elite Four. If you can beat her I'll invite you to participate in something grand.",
+  "it": "\\bAgatha è un membro dei Superquattro. Se riesci a batterla, ti inviterò a partecipare a qualcosa di grandioso."
  },
  {
   "id": "\\bScott: The Battle Frontier is made up of seven strong Trainers across Kanto. Can you beat them all?",
   "en": "\\bScott: The Battle Frontier is made up of seven strong Trainers across Kanto. Can you beat them all?",
   "it": "\\bScott: Il Parco Lotta è composto da sette Allenatori fortissimi sparsi per Kanto. Riuscirai a batterli tutti?"
+ },
+ {
+  "id": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "en": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "it": "Stai per affrontare un Pokémon leggendario che, se non lo catturi qui, non sarà ottenibile fino al post-game. Vuoi salvare?"
  },
  {
   "id": "Viridian Gym",

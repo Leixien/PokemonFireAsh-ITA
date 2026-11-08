@@ -10,8 +10,8 @@
   "it": "\\rGalar ha così tanto da offrire. Vorrei che più persone la visitassero."
  },
  {
-  "id": "\\bWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wyndon,Exit]",
-  "en": "\\bWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wyndon,Exit]",
-  "it": "\\bDove vorresti andare?\\ch[1,-1,Zafferanopoli, Fiordoropoli,Freezington,Wyndon,Esci]"
+  "id": "\\rWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wyndon,Exit]",
+  "en": "\\rWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wyndon,Exit]",
+  "it": "\\rDove vuoi andare?\\ch[1,-1,Zafferanopoli, Fiordoropoli,Freezington,Wyndon,Esci]"
  }
 ]

@@ -165,6 +165,11 @@
   "it": "\\bLa foresta fa paura. Qui possono entrare solo gli studenti."
  },
  {
+  "id": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "en": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "it": "Stai per affrontare un Pokémon leggendario che, se non lo catturi qui, non sarà ottenibile fino al post-game. Vuoi salvare?"
+ },
+ {
   "id": "\\bIlima: Thanks for your help. I didn't really need it, but it's nice to see an act of kindness. I'm a graduate of this school. I came back to speak with Kukui.",
   "en": "\\bIlima: Thanks for your help. I didn't really need it, but it's nice to see an act of kindness. I'm a graduate of this school. I came back to speak with Kukui.",
   "it": "\\bIlima: Grazie per l'aiuto. Non ne avevo davvero bisogno, ma è bello vedere un gesto gentile. Mi sono diplomato in questa scuola. Sono tornato per parlare con Kukui."
@@ -310,9 +315,9 @@
   "it": "Rotom Dex: ...Ho appena ricevuto un messaggio dal professore. Dice di andare a scuola per una sorpresa."
  },
  {
-  "id": "Rotom Dex: ...Wait, did you here that in the school? Head back inside.",
-  "en": "Rotom Dex: ...Wait, did you here that in the school?  Head back inside.",
-  "it": "Rotom Dex: ...Aspetta, hai sentito quel rumore nella scuola?  Torna dentro."
+  "id": "Rotom Dex: ...Wait, did you hear that in the school? Head back inside.",
+  "en": "Rotom Dex: ...Wait, did you hear that in the school?  Head back inside.",
+  "it": "Rotom Dex: ...Aspetta, hai sentito quel rumore nella scuola?  Torniamo dentro."
  },
  {
   "id": "Rotom Dex: I just received word of another Ultra Beast being spotted. Let's head to Route 3.",
@@ -395,11 +400,6 @@
   "it": "Diecicarati"
  },
  {
-  "id": "Hau'oli City",
-  "en": "Hau'oli City",
-  "it": "Hau'oli"
- },
- {
   "id": "Yes",
   "en": "Yes",
   "it": "Sì"
@@ -408,5 +408,15 @@
   "id": "No",
   "en": "No",
   "it": "No"
+ },
+ {
+  "id": "Hau'oli City",
+  "en": "Hau'oli City",
+  "it": "Hau'oli"
+ },
+ {
+  "id": "Manalo Stadium",
+  "en": "Manalo Stadium",
+  "it": "Stadio Manalo"
  }
 ]

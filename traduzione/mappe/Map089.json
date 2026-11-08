@@ -1,13 +1,13 @@
 [
  {
-  "id": "Bike Shop\\nGrass and caves handled easily!",
-  "en": "Bike Shop\\nGrass and caves handled easily!",
-  "it": "Negozio di bici\\nErba e grotte? Nessun problema!"
- },
- {
   "id": "\\bGloom",
   "en": "\\bGloom",
   "it": "\\bGloom"
+ },
+ {
+  "id": "Bike Shop\\nGrass and caves handled easily!",
+  "en": "Bike Shop\\nGrass and caves handled easily!",
+  "it": "Negozio di bici\\nErba e grotte? Nessun problema!"
  },
  {
   "id": "\\rWe will have this fixed in no time.",
@@ -30,14 +30,14 @@
   "it": "\\bCollezionare, lottare... È una vita dura."
  },
  {
-  "id": "\\rNidoran",
-  "en": "\\rNidoran",
-  "it": "\\rNidoran"
- },
- {
   "id": "\\bYou're making an encyclopedia on Pokémon? That sounds amusing.",
   "en": "\\bYou're making an encyclopedia on Pokémon? That sounds amusing.",
   "it": "\\bStai compilando un'enciclopedia sui Pokémon? Sembra divertente."
+ },
+ {
+  "id": "\\rNidoran",
+  "en": "\\rNidoran",
+  "it": "\\rNidoran"
  },
  {
   "id": "Cerulean City Pokémon Gym Leader: \\nMisty",
@@ -50,11 +50,6 @@
   "it": "La sirena maschiaccio!"
  },
  {
-  "id": "\\bNidoran",
-  "en": "\\bNidoran",
-  "it": "\\bNidoran"
- },
- {
   "id": "\\rHave you ever had trouble fighting because your Pokémon was unevolved? Try this out if you do.",
   "en": "\\rHave you ever had trouble fighting because your Pokémon was unevolved? Try this out if you do.",
   "it": "\\rHai mai avuto difficoltà a lottare perché il tuo Pokémon non era evoluto? Se è così, prova questo."
@@ -63,6 +58,11 @@
   "id": "\\rAn Eviolite raises the Defenses of an unevolved Pokémon.",
   "en": "\\rAn Eviolite raises the Defenses of an unevolved Pokémon.",
   "it": "\\rL'Evolcondensa aumenta la Difesa e la Difesa Speciale di un Pokémon non evoluto."
+ },
+ {
+  "id": "\\bNidoran",
+  "en": "\\bNidoran",
+  "it": "\\bNidoran"
  },
  {
   "id": "\\rSlowbro! Use Sonic Boom!",
@@ -80,6 +80,11 @@
   "it": "\\rAndiamo, Slowbro, stai attento!"
  },
  {
+  "id": "Cerulean City\\nA Mysterious, Blue Aura Surrounds It.",
+  "en": "Cerulean City\\nA Mysterious, Blue Aura Surrounds It.",
+  "it": "Celestopoli\\nUn'aura blu e misteriosa la circonda."
+ },
+ {
   "id": "\\bWe will have this fixed in no time.",
   "en": "\\bWe will have this fixed in no time.",
   "it": "\\bLo sistemeremo in un attimo."
@@ -88,11 +93,6 @@
   "id": "\\bWe did it.",
   "en": "\\bWe did it.",
   "it": "\\bCe l'abbiamo fatta."
- },
- {
-  "id": "Cerulean City\\nA Mysterious, Blue Aura Surrounds It.",
-  "en": "Cerulean City\\nA Mysterious, Blue Aura Surrounds It.",
-  "it": "Celestopoli\\nUn'aura blu e misteriosa la circonda."
  },
  {
   "id": "Slowbro turned away...",

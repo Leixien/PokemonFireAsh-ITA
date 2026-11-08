@@ -75,18 +75,18 @@
   "it": "\\rSpero che tu abbia successo!"
  },
  {
-  "id": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Pastoria,Cancel]",
-  "en": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Pastoria,Cancel]",
+  "id": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Pastoria,Cancel]",
+  "en": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Pastoria,Cancel]",
   "it": "\\rIl mio Mag può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Cuoripoli, Flemminia,Rupepoli,Pratopoli,Annulla]"
  },
  {
-  "id": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Pastoria,Snowpoint,Cancel]",
-  "en": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Pastoria,Snowpoint,Cancel]",
+  "id": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Pastoria,Snowpoint,Cancel]",
+  "en": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Pastoria,Snowpoint,Cancel]",
   "it": "\\rIl mio Mag può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Cuoripoli, Flemminia,Rupepoli,Pratopoli,Nevepoli,Annulla]"
  },
  {
-  "id": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Snowpoint,Sunnyshore,Cancel]",
-  "en": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Snowpoint,Sunnyshore,Cancel]",
+  "id": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Snowpoint,Sunnyshore,Cancel]",
+  "en": "\\rMy Mag can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Snowpoint,Sunnyshore,Cancel]",
   "it": "\\rIl mio Mag può teletrasportarti.\\ch[1,-1,Sabbiafine,Giubilopoli, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Nevepoli,Arenipoli,Annulla]"
  },
  {

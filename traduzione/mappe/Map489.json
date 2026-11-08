@@ -25,6 +25,11 @@
   "it": "\\rHo tutta la fortuna del mondo. Questa lotta sarà facile."
  },
  {
+  "id": "\\bNot so lucky, huh?",
+  "en": "\\bNot so lucky, huh?",
+  "it": "\\bNon così fortunata, eh?"
+ },
+ {
   "id": "\\rNurse Joy: You should take a break.",
   "en": "\\rNurse Joy: You should take a break.",
   "it": "\\rInfermiera Joy: Dovresti prenderti una pausa."
@@ -38,11 +43,6 @@
   "id": "\\rFirst, you should restore your Pokémon to full health.",
   "en": "\\rFirst, you should restore your Pokémon to full health.",
   "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
- },
- {
-  "id": "\\bNot so lucky, huh?",
-  "en": "\\bNot so lucky, huh?",
-  "it": "\\bNon così fortunata, eh?"
  },
  {
   "id": "\\bNot your lucky day.",

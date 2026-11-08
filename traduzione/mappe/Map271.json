@@ -5,14 +5,14 @@
   "it": "\\bSlo!!"
  },
  {
-  "id": "\\rSlopoke!!",
-  "en": "\\rSlopoke!!",
-  "it": "\\rSlopoke!!"
- },
- {
   "id": "Slowpoke Well",
   "en": "Slowpoke Well",
   "it": "Pozzo Slowpoke"
+ },
+ {
+  "id": "\\rSlopoke!!",
+  "en": "\\rSlopoke!!",
+  "it": "\\rSlopoke!!"
  },
  {
   "id": "\\bSlopoke",
@@ -20,14 +20,14 @@
   "it": "\\bSlopoke"
  },
  {
-  "id": "There are no apricorns.",
-  "en": "There are no apricorns.",
-  "it": "Non ci sono Ghicocche."
- },
- {
   "id": "\\bWe honor the Slowpoke that live here.",
   "en": "\\bWe honor the Slowpoke that live here.",
   "it": "\\bOnoriamo gli Slowpoke che vivono qui."
+ },
+ {
+  "id": "There are no apricorns.",
+  "en": "There are no apricorns.",
+  "it": "Non ci sono Ghicocche."
  },
  {
   "id": "\\rSlo...",
@@ -40,24 +40,19 @@
   "it": "Azalina\\nDove si vive felici insieme ai Pokémon"
  },
  {
-  "id": "\\r...poke",
-  "en": "\\r...poke",
-  "it": "\\r...poke"
- },
- {
   "id": "Kurt's house",
   "en": "Kurt's house",
   "it": "Casa di Kurt"
  },
  {
-  "id": "\\bKurt makes the most unique balls.",
-  "en": "\\bKurt makes the most unique balls.",
-  "it": "\\bKurt crea le Ball più originali che ci siano."
+  "id": "\\r...poke",
+  "en": "\\r...poke",
+  "it": "\\r...poke"
  },
  {
-  "id": "\\bHe made me a Level Ball out of a Red Apricorn.",
-  "en": "\\bHe made me a Level Ball out of a Red Apricorn.",
-  "it": "\\bMi ha fatto una Level Ball con una Ghicocca Rossa."
+  "id": "\\bWe're mining Charcoal right now. Come back later.",
+  "en": "\\bWe're mining Charcoal right now. Come back later.",
+  "it": "\\bStiamo estraendo Carbonella in questo momento. Torna più tardi."
  },
  {
   "id": "Azalea Pokémon Gym Leader: \\nBugsy",
@@ -70,19 +65,19 @@
   "it": "L'enciclopedia ambulante dei Pokémon Coleottero!"
  },
  {
-  "id": "\\bWe're mining Charcoal right now. Come back later.",
-  "en": "\\bWe're mining Charcoal right now. Come back later.",
-  "it": "\\bStiamo estraendo Carbonella in questo momento. Torna più tardi."
+  "id": "\\bKurt makes the most unique balls.",
+  "en": "\\bKurt makes the most unique balls.",
+  "it": "\\bKurt crea le Ball più originali che ci siano."
+ },
+ {
+  "id": "\\bHe made me a Level Ball out of a Red Apricorn.",
+  "en": "\\bHe made me a Level Ball out of a Red Apricorn.",
+  "it": "\\bMi ha fatto una Level Ball con una Ghicocca Rossa."
  },
  {
   "id": "\\rSlo!!",
   "en": "\\rSlo!!",
   "it": "\\rSlo!!"
- },
- {
-  "id": "\\rMany years ago a Slowpoke yawned and ended a drought. We have honored them ever since.",
-  "en": "\\rMany years ago a Slowpoke yawned and ended a drought. We have honored them ever since.",
-  "it": "\\rMolti anni fa uno Slowpoke sbadigliò e mise fine a una siccità. Da allora li onoriamo."
  },
  {
   "id": "\\bBrock: Hey \\PN! You came to visit Kurt too? I got a Heavy and Fast Ball from him.",
@@ -98,6 +93,11 @@
   "id": "\\bBrock: Kurt gave me some great balls. As a Breeder this is going to help me big time.",
   "en": "\\bBrock: Kurt gave me some great balls. As a Breeder this is going to help me big time.",
   "it": "\\bBrock: Kurt mi ha dato delle Ball fantastiche. Da Allevatore, mi saranno di grande aiuto."
+ },
+ {
+  "id": "\\rMany years ago a Slowpoke yawned and ended a drought. We have honored them ever since.",
+  "en": "\\rMany years ago a Slowpoke yawned and ended a drought. We have honored them ever since.",
+  "it": "\\rMolti anni fa uno Slowpoke sbadigliò e mise fine a una siccità. Da allora li onoriamo."
  },
  {
   "id": "\\bPoke!!",

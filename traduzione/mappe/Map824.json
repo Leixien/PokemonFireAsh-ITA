@@ -40,9 +40,9 @@
   "it": "\\bNiente male. Davvero niente male."
  },
  {
-  "id": "\\bThe World Coronation Series is the pinacle of a Trainer's goal. Who even cares about badges?",
-  "en": "\\bThe World Coronation Series is the pinacle of a Trainer's goal. Who even cares about badges?",
-  "it": "\\bLe World Coronation Series sono il traguardo più alto per un Allenatore. Chi se ne importa delle Medaglie?"
+  "id": "\\bBulbasaur",
+  "en": "\\bBulbasaur",
+  "it": "\\bBulbasaur"
  },
  {
   "id": "\\bGrandma says she once saw a Gardevoir evolve, but that's just impossible.",
@@ -50,9 +50,9 @@
   "it": "\\bLa nonna dice di aver visto una volta un Gardevoir evolversi, ma è semplicemente impossibile."
  },
  {
-  "id": "\\bBulbasaur",
-  "en": "\\bBulbasaur",
-  "it": "\\bBulbasaur"
+  "id": "\\bThe World Coronation Series is the pinacle of a Trainer's goal. Who even cares about badges?",
+  "en": "\\bThe World Coronation Series is the pinacle of a Trainer's goal. Who even cares about badges?",
+  "it": "\\bLe World Coronation Series sono il traguardo più alto per un Allenatore. Chi se ne importa delle Medaglie?"
  },
  {
   "id": "\\rKorrina: \\PN! You're competing too! That's awesome. I'm at rank 1,001, so my next win will get me into the Great Class.",
@@ -75,9 +75,9 @@
   "it": "\\rKorrina: Continua così."
  },
  {
-  "id": "\\rI missed the deadline to compete. I'm so upset.",
-  "en": "\\rI missed the deadline to compete. I'm so upset.",
-  "it": "\\rHo mancato la scadenza per partecipare. Sono così arrabbiata."
+  "id": "\\rCharizard",
+  "en": "\\rCharizard",
+  "it": "\\rCharizard"
  },
  {
   "id": "\\rI swear Gardevoir evolved. Right before my eyes it did.",
@@ -85,9 +85,9 @@
   "it": "\\rTi giuro che Gardevoir si è evoluto. Proprio davanti ai miei occhi."
  },
  {
-  "id": "\\rCharizard",
-  "en": "\\rCharizard",
-  "it": "\\rCharizard"
+  "id": "\\rI missed the deadline to compete. I'm so upset.",
+  "en": "\\rI missed the deadline to compete. I'm so upset.",
+  "it": "\\rHo mancato la scadenza per partecipare. Sono così arrabbiata."
  },
  {
   "id": "\\bPokémon know how to use berries. That means if you let them hold onto them they will use it in battle without your command.",
@@ -95,24 +95,14 @@
   "it": "\\bI Pokémon sanno come usare le bacche. Quindi, se gliele fai tenere, le useranno in lotta senza che tu glielo ordini."
  },
  {
-  "id": "\\bTropius",
-  "en": "\\bTropius",
-  "it": "\\bTropius"
- },
- {
   "id": "\\bWartorle",
   "en": "\\bWartorle",
   "it": "\\bWartortle"
  },
  {
-  "id": "\\bWhat are you doing in my house?! Take this and leave!",
-  "en": "\\bWhat are you doing in my house?! Take this and leave!",
-  "it": "\\bChe ci fai in casa mia?! Prendi questo e vattene!"
- },
- {
-  "id": "\\bDon't let the move go to waste.",
-  "en": "\\bDon't let the move go to waste.",
-  "it": "\\bNon sprecare questa mossa."
+  "id": "\\bTropius",
+  "en": "\\bTropius",
+  "it": "\\bTropius"
  },
  {
   "id": "\\rI'm here to increase my rank.",
@@ -130,24 +120,14 @@
   "it": "\\rBel lavoro."
  },
  {
-  "id": "\\bThe World Coronation Series is currently in the Masters stage. Come back during next season.",
-  "en": "\\bThe World Coronation Series is currently in the Masters stage. Come back during next season.",
-  "it": "\\bLe World Coronation Series sono attualmente nella fase Master. Torna durante la prossima stagione."
+  "id": "\\bWhat are you doing in my house?! Take this and leave!",
+  "en": "\\bWhat are you doing in my house?! Take this and leave!",
+  "it": "\\bChe ci fai in casa mia?! Prendi questo e vattene!"
  },
  {
-  "id": "\\bThe World Coronation Series is setting up. Come back later.",
-  "en": "\\bThe World Coronation Series is setting up. Come back later.",
-  "it": "\\bLe World Coronation Series sono in fase di allestimento. Torna più tardi."
- },
- {
-  "id": "\\bThrough here you battle multiple Trainers in the World Coronation Series. Are you ready?",
-  "en": "\\bThrough here you battle multiple Trainers in the World Coronation Series. Are you ready?",
-  "it": "\\bDa qui affronterai diversi Allenatori delle World Coronation Series. Sei pronto?"
- },
- {
-  "id": "\\bThe festival is over. Come back another time.",
-  "en": "\\bThe festival is over. Come back another time.",
-  "it": "\\bIl festival è finito. Torna un'altra volta."
+  "id": "\\bDon't let the move go to waste.",
+  "en": "\\bDon't let the move go to waste.",
+  "it": "\\bNon sprecare questa mossa."
  },
  {
   "id": "\\bI've found an item that will be amazing for everyone.",
@@ -168,6 +148,26 @@
   "id": "\\bWhy are you in here? Get out!",
   "en": "\\bWhy are you in here? Get out!",
   "it": "\\bChe ci fai qui dentro? Fuori!"
+ },
+ {
+  "id": "\\bThe World Coronation Series is currently in the Masters stage. Come back during next season.",
+  "en": "\\bThe World Coronation Series is currently in the Masters stage. Come back during next season.",
+  "it": "\\bLe World Coronation Series sono attualmente nella fase Master. Torna durante la prossima stagione."
+ },
+ {
+  "id": "\\bThe World Coronation Series is setting up. Come back later.",
+  "en": "\\bThe World Coronation Series is setting up. Come back later.",
+  "it": "\\bLe World Coronation Series sono in fase di allestimento. Torna più tardi."
+ },
+ {
+  "id": "\\bThrough here you battle multiple Trainers in the World Coronation Series. Are you ready?",
+  "en": "\\bThrough here you battle multiple Trainers in the World Coronation Series. Are you ready?",
+  "it": "\\bDa qui affronterai diversi Allenatori delle World Coronation Series. Sei pronto?"
+ },
+ {
+  "id": "\\bThe festival is over. Come back another time.",
+  "en": "\\bThe festival is over. Come back another time.",
+  "it": "\\bIl festival è finito. Torna un'altra volta."
  },
  {
   "id": "Yes",

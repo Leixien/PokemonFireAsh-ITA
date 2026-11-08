@@ -20,14 +20,14 @@
   "it": "\\rTorna quando vuoi!"
  },
  {
-  "id": "\\bScizor",
-  "en": "\\bScizor",
-  "it": "\\bScizor"
- },
- {
   "id": "\\rMy grandfather will raise your Pokémon right.",
   "en": "\\rMy grandfather will raise your Pokémon right.",
   "it": "\\rMio nonno crescerà i tuoi Pokémon come si deve."
+ },
+ {
+  "id": "\\bScizor",
+  "en": "\\bScizor",
+  "it": "\\bScizor"
  },
  {
   "id": "\\bWant something useful?",
@@ -43,6 +43,26 @@
   "id": "\\bHello. I take care of the mansion. Have you happened to see a man with blue hair? I'm looking for him.",
   "en": "\\bHello. I take care of the mansion. Have you happened to see a man with blue hair? I'm looking for him.",
   "it": "\\bSalve. Mi occupo della villa. Hai per caso visto un uomo con i capelli blu? Lo sto cercando."
+ },
+ {
+  "id": "\\bMeowth: The twerp?",
+  "en": "\\bMeowth: The twerp?",
+  "it": "\\bMeowth: Il moccioso?"
+ },
+ {
+  "id": "\\rJessie: What are you doing here?",
+  "en": "\\rJessie: What are you doing here?",
+  "it": "\\rJessie: Che ci fai qui?"
+ },
+ {
+  "id": "\\bJames: It doesn't matter! Twerp, hurry up and fight us. We need to blast off.",
+  "en": "\\bJames: It doesn't matter! Twerp, hurry up and fight us. We need to blast off.",
+  "it": "\\bJames: Non importa! Moccioso, sbrigati e lotta con noi. Dobbiamo spiccare il volo."
+ },
+ {
+  "id": "\\bWobbuffet!",
+  "en": "\\bWobbuffet!",
+  "it": "\\bWobbuffet!"
  },
  {
   "id": "\\bMcCann: Hello there. Would you like me to train one of your Pokémon?",
@@ -170,34 +190,14 @@
   "it": "\\bVuoi riprenderti anche l'altro?"
  },
  {
-  "id": "\\bMeowth: The twerp?",
-  "en": "\\bMeowth: The twerp?",
-  "it": "\\bMeowth: Il moccioso?"
- },
- {
-  "id": "\\rJessie: What are you doing here?",
-  "en": "\\rJessie: What are you doing here?",
-  "it": "\\rJessie: Che ci fai qui?"
- },
- {
-  "id": "\\bJames: It doesn't matter! Twerp, hurry up and fight us. We need to blast off.",
-  "en": "\\bJames: It doesn't matter! Twerp, hurry up and fight us. We need to blast off.",
-  "it": "\\bJames: Non importa! Moccioso, sbrigati e lotta con noi. Dobbiamo spiccare il volo."
- },
- {
-  "id": "\\bWobbuffet!",
-  "en": "\\bWobbuffet!",
-  "it": "\\bWobbuffet!"
- },
- {
-  "id": "\\rWhere is my fiancée?",
-  "en": "\\rWhere is my fiancée?",
+  "id": "\\rWhere is my fiancé?",
+  "en": "\\rWhere is my fiancé?",
   "it": "\\rDov'è il mio fidanzato?"
  },
  {
-  "id": "\\rMy fiancée is stubborn. He can't run from me forever though.",
-  "en": "\\rMy fiancée is stubborn. He can't run from me forever though.",
-  "it": "\\rIl mio fidanzato è testardo. Ma non può scappare da me per sempre."
+  "id": "\\rMy fiancé is stubborn. He can't run from me forever though.",
+  "en": "\\rMy fiancé is stubborn. He can't run from me forever though.",
+  "it": "\\rIl mio fidanzato è testardo. Ma non potrà scappare da me per sempre."
  },
  {
   "id": "Yes",

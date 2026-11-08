@@ -20,16 +20,6 @@
   "it": "\\bProprio non riesco a vincere."
  },
  {
-  "id": "\\rGet away from the grass.",
-  "en": "\\rGet away from the grass.",
-  "it": "\\rAllontanati dall'erba."
- },
- {
-  "id": "\\rStay out of the grass.",
-  "en": "\\rStay out of the grass.",
-  "it": "\\rStai fuori dall'erba."
- },
- {
   "id": "\\bI found this while fishing, but I don't need it.",
   "en": "\\bI found this while fishing, but I don't need it.",
   "it": "\\bHo trovato questo mentre pescavo, ma non mi serve."
@@ -38,6 +28,16 @@
   "id": "\\bFeel free to keep it.",
   "en": "\\bFeel free to keep it.",
   "it": "\\bTienilo pure."
+ },
+ {
+  "id": "\\rGet away from the grass.",
+  "en": "\\rGet away from the grass.",
+  "it": "\\rAllontanati dall'erba."
+ },
+ {
+  "id": "\\rStay out of the grass.",
+  "en": "\\rStay out of the grass.",
+  "it": "\\rStai fuori dall'erba."
  },
  {
   "id": "\\bSnorlax can cause so many problems.",
@@ -70,16 +70,6 @@
   "it": "\\rOh, se solo nevicasse."
  },
  {
-  "id": "\\bGotta keep up the flow.",
-  "en": "\\bGotta keep up the flow.",
-  "it": "\\bDevo mantenere il ritmo."
- },
- {
-  "id": "\\bCommon keep training.",
-  "en": "\\bCommon keep training.",
-  "it": "\\bForza, continua ad allenarti."
- },
- {
   "id": "\\rTime to shine, my pretties.",
   "en": "\\rTime to shine, my pretties.",
   "it": "\\rÈ ora di brillare, miei tesorini."
@@ -88,6 +78,16 @@
   "id": "\\rAren't you sweet?",
   "en": "\\rAren't you sweet?",
   "it": "\\rNon sei un tesoro?"
+ },
+ {
+  "id": "\\bGotta keep up the flow.",
+  "en": "\\bGotta keep up the flow.",
+  "it": "\\bDevo mantenere il ritmo."
+ },
+ {
+  "id": "\\bCommon keep training.",
+  "en": "\\bCommon keep training.",
+  "it": "\\bForza, continua ad allenarti."
  },
  {
   "id": "\\bThat's my treasure over there.",

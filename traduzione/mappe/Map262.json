@@ -1,13 +1,13 @@
 [
  {
-  "id": "There are no apricorns.",
-  "en": "There are no apricorns.",
-  "it": "Non ci sono Ghicocche."
- },
- {
   "id": "Sprout Tower",
   "en": "Sprout Tower",
   "it": "Torre Sprout"
+ },
+ {
+  "id": "There are no apricorns.",
+  "en": "There are no apricorns.",
+  "it": "Non ci sono Ghicocche."
  },
  {
   "id": "\\rHello. Let us have a lovely battle.",
@@ -25,14 +25,14 @@
   "it": "\\rOggi salto la scuola."
  },
  {
-  "id": "\\bSomeone is attacking Sprout Tower. I need to ask Falkner for help. But what if he's too busy? I'm so nervous.",
-  "en": "\\bSomeone is attacking Sprout Tower. I need to ask Falkner for help. But what if he's too busy? I'm so nervous.",
-  "it": "\\bQualcuno sta attaccando la Torre Sprout. Devo chiedere aiuto a Valerio. Ma se fosse troppo impegnato? Sono così agitato."
- },
- {
   "id": "Violet City\\nThe City of Nostalgic Scents",
   "en": "Violet City\\nThe City of Nostalgic Scents",
   "it": "Violapoli\\nLa città dai profumi nostalgici"
+ },
+ {
+  "id": "\\bSomeone is attacking Sprout Tower. I need to ask Falkner for help. But what if he's too busy? I'm so nervous.",
+  "en": "\\bSomeone is attacking Sprout Tower. I need to ask Falkner for help. But what if he's too busy? I'm so nervous.",
+  "it": "\\bQualcuno sta attaccando la Torre Sprout. Devo chiedere aiuto a Valerio. Ma se fosse troppo impegnato? Sono così agitato."
  },
  {
   "id": "\\bDon't bother me, I'm trying to get a Marill.",
@@ -60,6 +60,11 @@
   "it": "\\rHai battuto tutte le Palestre di Kanto? Wow."
  },
  {
+  "id": "\\bMagby",
+  "en": "\\bMagby",
+  "it": "\\bMagby"
+ },
+ {
   "id": "Violet City Pokémon Gym Leader: \\nFalkner",
   "en": "Violet City Pokémon Gym Leader: \\nFalkner",
   "it": "Capopalestra di Violapoli: \\nValerio"
@@ -70,9 +75,9 @@
   "it": "L'elegante maestro dei Pokémon Volante!"
  },
  {
-  "id": "\\bMagby",
-  "en": "\\bMagby",
-  "it": "\\bMagby"
+  "id": "...\\n\\bYou caught me off guard.",
+  "en": "...\\n\\bYou caught me off guard.",
+  "it": "...\\n\\bMi hai colto alla sprovvista."
  },
  {
   "id": "\\bI'll reach the top.",
@@ -83,10 +88,5 @@
   "id": "\\bUgh. I guess I'll accept my place.",
   "en": "\\bUgh. I guess I'll accept my place.",
   "it": "\\bUff. Credo che dovrò accettare il mio posto."
- },
- {
-  "id": "...\\n\\bYou caught me off guard.",
-  "en": "...\\n\\bYou caught me off guard.",
-  "it": "...\\n\\bMi hai colto alla sprovvista."
  }
 ]

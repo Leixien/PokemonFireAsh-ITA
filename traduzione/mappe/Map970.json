@@ -80,6 +80,11 @@
   "it": "\\bIl Team Galassia avrà successo."
  },
  {
+  "id": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "en": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "it": "Stai per affrontare un Pokémon leggendario che, se non lo catturi qui, non sarà ottenibile fino al post-game. Vuoi salvare?"
+ },
+ {
   "id": "\\bSaturn: Again and again we run into each other. That stops today.",
   "en": "\\bSaturn: Again and again we run into each other.  That stops today.",
   "it": "\\bSaturno: Ci incontriamo di continuo.  Oggi questa storia finisce."
@@ -133,5 +138,15 @@
   "id": "\\rDawn: No need to worry.",
   "en": "\\rDawn: No need to worry.",
   "it": "\\rLucinda: Non c'è da preoccuparsi."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
  }
 ]

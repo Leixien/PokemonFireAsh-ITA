@@ -10,16 +10,6 @@
   "it": "Vuoi portare Gligar con te?"
  },
  {
-  "id": "\\rGive me some money.",
-  "en": "\\rGive me some money.",
-  "it": "\\rDammi un po' di soldi."
- },
- {
-  "id": "\\rI'm so broke now.",
-  "en": "\\rI'm so broke now.",
-  "it": "\\rOra sono al verde."
- },
- {
   "id": "\\bTraining in the rain builds endurance.",
   "en": "\\bTraining in the rain builds endurance.",
   "it": "\\bAllenarsi sotto la pioggia fortifica la resistenza."
@@ -28,6 +18,16 @@
   "id": "\\bNever stop trying.",
   "en": "\\bNever stop trying.",
   "it": "\\bNon smettere mai di provarci."
+ },
+ {
+  "id": "\\rGive me some money.",
+  "en": "\\rGive me some money.",
+  "it": "\\rDammi un po' di soldi."
+ },
+ {
+  "id": "\\rI'm so broke now.",
+  "en": "\\rI'm so broke now.",
+  "it": "\\rOra sono al verde."
  },
  {
   "id": "\\bNobody ever stops to talk with me. Let me share something with you as appreciation.",
@@ -50,16 +50,6 @@
   "it": "\\bBuona fortuna!"
  },
  {
-  "id": "\\bOne, two, one, two!",
-  "en": "\\bOne, two, one, two!",
-  "it": "\\bUno, due, uno, due!"
- },
- {
-  "id": "\\bCan't keep still. Must keep going.",
-  "en": "\\bCan't keep still. Must keep going.",
-  "it": "\\bNon riesco a stare fermo. Devo continuare."
- },
- {
   "id": "\\bLovely day for a hike, wouldn't you say?",
   "en": "\\bLovely day for a hike, wouldn't you say?",
   "it": "\\bBella giornata per un'escursione, non trovi?"
@@ -68,6 +58,16 @@
   "id": "\\bGreat battle. Good luck with the rest.",
   "en": "\\bGreat battle. Good luck with the rest.",
   "it": "\\bGran bella lotta. Buona fortuna con il resto."
+ },
+ {
+  "id": "\\bOne, two, one, two!",
+  "en": "\\bOne, two, one, two!",
+  "it": "\\bUno, due, uno, due!"
+ },
+ {
+  "id": "\\bCan't keep still. Must keep going.",
+  "en": "\\bCan't keep still. Must keep going.",
+  "it": "\\bNon riesco a stare fermo. Devo continuare."
  },
  {
   "id": "\\bYou again?",
@@ -80,16 +80,6 @@
   "it": "\\bMale. Dobbiamo scappare."
  },
  {
-  "id": "\\bHmm. An easy challenge.",
-  "en": "\\bHmm. An easy challenge.",
-  "it": "\\bMmm. Una sfida facile."
- },
- {
-  "id": "\\bI still can't believe I lost.",
-  "en": "\\bI still can't believe I lost.",
-  "it": "\\bAncora non posso credere di aver perso."
- },
- {
   "id": "\\bCan you keep up?",
   "en": "\\bCan you keep up?",
   "it": "\\bRiesci a starmi dietro?"
@@ -98,6 +88,16 @@
   "id": "\\bYou impress me with your speed.",
   "en": "\\bYou impress me with your speed.",
   "it": "\\bLa tua velocità mi impressiona."
+ },
+ {
+  "id": "\\bHmm. An easy challenge.",
+  "en": "\\bHmm. An easy challenge.",
+  "it": "\\bMmm. Una sfida facile."
+ },
+ {
+  "id": "\\bI still can't believe I lost.",
+  "en": "\\bI still can't believe I lost.",
+  "it": "\\bAncora non posso credere di aver perso."
  },
  {
   "id": "\\rThis time your Pokémon are ours.",

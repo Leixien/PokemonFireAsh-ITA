@@ -15,11 +15,6 @@
   "it": "\\bWatchog"
  },
  {
-  "id": "\\rGoldeen",
-  "en": "\\rGoldeen",
-  "it": "\\rGoldeen"
- },
- {
   "id": "\\bWe aren't taking any passengers right now. Sorry.",
   "en": "\\bWe aren't taking any passengers right now. Sorry.",
   "it": "\\bAl momento non accettiamo passeggeri. Mi dispiace."
@@ -30,6 +25,11 @@
   "it": "\\bBenvenuto. Dove vorresti andare?"
  },
  {
+  "id": "\\rGoldeen",
+  "en": "\\rGoldeen",
+  "it": "\\rGoldeen"
+ },
+ {
   "id": "\\rLillie: Everyone else already left to explore. I guess I'll just look around town. There are no Pokémon after all.",
   "en": "\\rLillie: Everyone else already left to explore. I guess I'll just look around town. There are no Pokémon after all.",
   "it": "\\rLylia: Gli altri sono già andati in esplorazione. Credo che farò un giro in città. Dopotutto qui non ci sono Pokémon."
@@ -38,6 +38,11 @@
   "id": "\\bHave you been to the ranch? They have all kinds of cool things there.",
   "en": "\\bHave you been to the ranch? They have all kinds of cool things there.",
   "it": "\\bSei stato al ranch? Hanno un sacco di cose forti lì."
+ },
+ {
+  "id": "\\bKiawe: I'll meet you at the ranch.",
+  "en": "\\bKiawe: I'll meet you at the ranch.",
+  "it": "\\bKiawe: Ci vediamo al ranch."
  },
  {
   "id": "\\bKukui: There you are \\PN. I figured a good trial for you to attempt would be the one at Brooklet Hill.",
@@ -60,24 +65,19 @@
   "it": "\\bKukui: Allora hai superato la tua prova? Direi che il nostro viaggio finisce qui. Ci vediamo a casa."
  },
  {
-  "id": "\\bKiawe: I'll meet you at the ranch.",
-  "en": "\\bKiawe: I'll meet you at the ranch.",
-  "it": "\\bKiawe: Ci vediamo al ranch."
- },
- {
   "id": "\\rWant a fishing tip? Go pay someone to do it for you.",
   "en": "\\rWant a fishing tip? Go pay someone to do it for you.",
   "it": "\\rVuoi un consiglio sulla pesca? Paga qualcuno che lo faccia al posto tuo."
  },
  {
-  "id": "Paniola Town\\nThe town we developed with our Pokémon.",
-  "en": "Paniola Town\\nThe town we developed with our Pokémon.",
-  "it": "Ohana\\nLa città che abbiamo costruito con i nostri Pokémon."
- },
- {
   "id": "\\rMil!",
   "en": "\\rMil!",
   "it": "\\rMil!"
+ },
+ {
+  "id": "Paniola Town\\nThe town we developed with our Pokémon.",
+  "en": "Paniola Town\\nThe town we developed with our Pokémon.",
+  "it": "Ohana\\nLa città che abbiamo costruito con i nostri Pokémon."
  },
  {
   "id": "Hau'oli",

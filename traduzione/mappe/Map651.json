@@ -1,5 +1,15 @@
 [
  {
+  "id": "\\bTrip: Oh me? I was just trying to figure out what to do now. I guess you can distract me.",
+  "en": "\\bTrip: Oh me? I was just trying to figure out what to do now. I guess you can distract me.",
+  "it": "\\bTrip: Chi, io? Stavo solo cercando di capire cosa fare adesso. Vabbè, puoi distrarmi tu."
+ },
+ {
+  "id": "\\bTrip: What should I do now?",
+  "en": "\\bTrip: What should I do now?",
+  "it": "\\bTrip: Cosa dovrei fare adesso?"
+ },
+ {
   "id": "\\bPidove",
   "en": "\\bPidove",
   "it": "\\bPidove"
@@ -20,16 +30,6 @@
   "it": "\\rStar"
  },
  {
-  "id": "\\bTrip: Oh me? I was just trying to figure out what to do now. I guess you can distract me.",
-  "en": "\\bTrip: Oh me? I was just trying to figure out what to do now. I guess you can distract me.",
-  "it": "\\bTrip: Chi, io? Stavo solo cercando di capire cosa fare adesso. Vabbè, puoi distrarmi tu."
- },
- {
-  "id": "\\bTrip: What should I do now?",
-  "en": "\\bTrip: What should I do now?",
-  "it": "\\bTrip: Cosa dovrei fare adesso?"
- },
- {
   "id": "\\bProfessor Juniper focuses on the origins of Pokémon.",
   "en": "\\bProfessor Juniper focuses on the origins of Pokémon.",
   "it": "\\bLa Professoressa Aralia studia le origini dei Pokémon."
@@ -40,14 +40,14 @@
   "it": "Casa di Trip"
  },
  {
-  "id": "The door is locked.",
-  "en": "The door is locked.",
-  "it": "La porta è chiusa a chiave."
- },
- {
   "id": "\\rI want to leave on a journey someday. Trip is a lucky boy.",
   "en": "\\rI want to leave on a journey someday. Trip is a lucky boy.",
   "it": "\\rUn giorno voglio partire per un viaggio anch'io. Trip è un ragazzo fortunato."
+ },
+ {
+  "id": "The door is locked.",
+  "en": "The door is locked.",
+  "it": "La porta è chiusa a chiave."
  },
  {
   "id": "\\rBianca: I'm so sorry. I thought you wanted to battle. Oh, wait. You do?",
@@ -85,14 +85,14 @@
   "it": "\\bTrip: Come immaginavo, non c'era molto da imparare da te. Fossi in te tornerei a casa finché sei in tempo."
  },
  {
-  "id": "Nuvema Town Blimp Service",
-  "en": "Nuvema Town Blimp Service",
-  "it": "Servizio Dirigibili di Soffiolieve"
- },
- {
   "id": "Nuvema Town\\nThe Start of Something Big!",
   "en": "Nuvema Town\\nThe Start of Something Big!",
   "it": "Soffiolieve\\nL'inizio di qualcosa di grande!"
+ },
+ {
+  "id": "Nuvema Town Blimp Service",
+  "en": "Nuvema Town Blimp Service",
+  "it": "Servizio Dirigibili di Soffiolieve"
  },
  {
   "id": "Professor Juniper's Lab",

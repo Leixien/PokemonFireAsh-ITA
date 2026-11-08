@@ -10,6 +10,11 @@
   "it": "La benedetta domatrice di draghi!"
  },
  {
+  "id": "\\rChar!",
+  "en": "\\rChar!",
+  "it": "\\rChar!"
+ },
+ {
   "id": "\\bIf you go through the Dragon's Den you will end up at the Dragon's Holy Land.",
   "en": "\\bIf you go through the Dragon's Den you will end up at the Dragon's Holy Land.",
   "it": "\\bSe attraversi la Tana del Drago arriverai alla Terra Sacra del Drago."
@@ -20,9 +25,9 @@
   "it": "\\bAnche se non a tutti è permesso andarci."
  },
  {
-  "id": "\\rChar!",
-  "en": "\\rChar!",
-  "it": "\\rChar!"
+  "id": "\\rGible",
+  "en": "\\rGible",
+  "it": "\\rGible"
  },
  {
   "id": "\\rI came a long way, but I finally got my Slowbro the move I wanted.",
@@ -30,19 +35,9 @@
   "it": "\\rHo fatto tanta strada, ma alla fine ho fatto imparare al mio Slowbro la mossa che volevo."
  },
  {
-  "id": "\\rGible",
-  "en": "\\rGible",
-  "it": "\\rGible"
- },
- {
-  "id": "\\bThe Ice Cave is a good place to train our dragons.",
-  "en": "\\bThe Ice Cave is a good place to train our dragons.",
-  "it": "\\bLa Grotta Ghiacciata è un buon posto per allenare i nostri draghi."
- },
- {
-  "id": "\\rI'd like to teach you Dragon Pulse.",
-  "en": "\\rI'd like to teach you Dragon Pulse.",
-  "it": "\\rVorrei insegnarti Dragopulsar."
+  "id": "\\rI'd like to teach one of your Pokémon Dragon Dance or Dragon Pulse.",
+  "en": "\\rI'd like to teach one of your Pokémon Dragon Dance or Dragon Pulse.",
+  "it": "\\rVorrei insegnare a uno dei tuoi Pokémon Dragodanza o Dragopulsar."
  },
  {
   "id": "\\rWhich Pokémon would you like me to teach?",
@@ -55,9 +50,19 @@
   "it": "\\rTorna quando vuoi!"
  },
  {
-  "id": "Blackthorn City\\nA Quiet Mountain Retreat.",
-  "en": "Blackthorn City\\nA Quiet Mountain Retreat.",
-  "it": "Ebanopoli\\nUn tranquillo rifugio di montagna."
+  "id": "\\bThe Ice Cave is a good place to train our dragons.",
+  "en": "\\bThe Ice Cave is a good place to train our dragons.",
+  "it": "\\bLa Grotta Ghiacciata è un buon posto per allenare i nostri draghi."
+ },
+ {
+  "id": "\\bHey there. I found this in the cave. Want it?",
+  "en": "\\bHey there. I found this in the cave. Want it?",
+  "it": "\\bEhi, ciao. Ho trovato questo nella grotta. Lo vuoi?"
+ },
+ {
+  "id": "\\bI'm not sure what it does if I'm being honest.",
+  "en": "\\bI'm not sure what it does if I'm being honest.",
+  "it": "\\bA essere sincero, non so bene a cosa serva."
  },
  {
   "id": "\\bI'm so sorry. My Charizard just won't listen.",
@@ -70,14 +75,9 @@
   "it": "\\bAbbiamo costruito un sentiero che attraversa le montagne. Ora è facile e veloce scendere a valle e risalire."
  },
  {
-  "id": "\\bHey there. I found this in the cave. Want it?",
-  "en": "\\bHey there. I found this in the cave. Want it?",
-  "it": "\\bEhi, ciao. Ho trovato questo nella grotta. Lo vuoi?"
- },
- {
-  "id": "\\bI'm not sure what it does if I'm being honest.",
-  "en": "\\bI'm not sure what it does if I'm being honest.",
-  "it": "\\bA essere sincero, non so bene a cosa serva."
+  "id": "Blackthorn City\\nA Quiet Mountain Retreat.",
+  "en": "Blackthorn City\\nA Quiet Mountain Retreat.",
+  "it": "Ebanopoli\\nUn tranquillo rifugio di montagna."
  },
  {
   "id": "\\rLiza: Hello again \\PN. Nice to see you.",
@@ -210,9 +210,9 @@
   "it": "\\rVuoi riprenderti anche l'altro?"
  },
  {
-  "id": "Move House",
-  "en": "Move House",
-  "it": "Casa delle Mosse"
+  "id": "\\bTini",
+  "en": "\\bTini",
+  "it": "\\bTini"
  },
  {
   "id": "\\bChar!",
@@ -220,9 +220,24 @@
   "it": "\\bChar!"
  },
  {
-  "id": "\\bTini",
-  "en": "\\bTini",
-  "it": "\\bTini"
+  "id": "Move House",
+  "en": "Move House",
+  "it": "Casa delle Mosse"
+ },
+ {
+  "id": "Dragon Dance",
+  "en": "Dragon Dance",
+  "it": "Dragodanza"
+ },
+ {
+  "id": "Dragon Pulse",
+  "en": "Dragon Pulse",
+  "it": "Dragopulsar"
+ },
+ {
+  "id": "Neither",
+  "en": "Neither",
+  "it": "Nessuna"
  },
  {
   "id": "Yes",

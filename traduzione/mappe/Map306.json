@@ -45,6 +45,11 @@
   "it": "\\bMi dispiace..."
  },
  {
+  "id": "There are no apricorns.",
+  "en": "There are no apricorns.",
+  "it": "Non ci sono Ghicocche."
+ },
+ {
   "id": "\\rYou look strong.",
   "en": "\\rYou look strong.",
   "it": "\\rSembri forte."
@@ -53,11 +58,6 @@
   "id": "\\rMy Rhydon is the best.",
   "en": "\\rMy Rhydon is the best.",
   "it": "\\rIl mio Rhydon è il migliore."
- },
- {
-  "id": "There are no apricorns.",
-  "en": "There are no apricorns.",
-  "it": "Non ci sono Ghicocche."
  },
  {
   "id": "\\bMy Fearow is ready.",

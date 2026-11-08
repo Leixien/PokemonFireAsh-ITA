@@ -1,5 +1,25 @@
 [
  {
+  "id": "\\rWailmer",
+  "en": "\\rWailmer",
+  "it": "\\rWailmer"
+ },
+ {
+  "id": "The Wailmer will not move.",
+  "en": "The Wailmer will not move.",
+  "it": "Il Wailmer non si muove."
+ },
+ {
+  "id": "\\bLook at what I fished up.",
+  "en": "\\bLook at what I fished up.",
+  "it": "\\bGuarda cosa ho pescato."
+ },
+ {
+  "id": "\\bCome back anytime. I may find more.",
+  "en": "\\bCome back anytime. I may find more.",
+  "it": "\\bTorna quando vuoi. Potrei trovare altro."
+ },
+ {
   "id": "\\bI trained under Falkner.",
   "en": "\\bI trained under Falkner.",
   "it": "\\bMi sono allenato con Valerio."
@@ -15,24 +35,14 @@
   "it": "\\bNon mi sono allenato abbastanza."
  },
  {
-  "id": "\\bLook at what I fished up.",
-  "en": "\\bLook at what I fished up.",
-  "it": "\\bGuarda cosa ho pescato."
+  "id": "\\rCare to see my team?",
+  "en": "\\rCare to see my team?",
+  "it": "\\rTi va di vedere la mia squadra?"
  },
  {
-  "id": "\\bCome back anytime. I may find more.",
-  "en": "\\bCome back anytime. I may find more.",
-  "it": "\\bTorna quando vuoi. Potrei trovare altro."
- },
- {
-  "id": "\\rWailmer",
-  "en": "\\rWailmer",
-  "it": "\\rWailmer"
- },
- {
-  "id": "The Wailmer will not move.",
-  "en": "The Wailmer will not move.",
-  "it": "Il Wailmer non si muove."
+  "id": "\\rHave a good day.",
+  "en": "\\rHave a good day.",
+  "it": "\\rBuona giornata."
  },
  {
   "id": "\\bReady for a battle?",
@@ -45,14 +55,14 @@
   "it": "\\bIn passato ho liberato molti Pokémon. Ognuno di loro meritava di trovare la propria strada."
  },
  {
-  "id": "\\rCare to see my team?",
-  "en": "\\rCare to see my team?",
-  "it": "\\rTi va di vedere la mia squadra?"
+  "id": "Would you like to try pulling it out?",
+  "en": "Would you like to try pulling it out?",
+  "it": "Vuoi provare a tirarlo fuori?"
  },
  {
-  "id": "\\rHave a good day.",
-  "en": "\\rHave a good day.",
-  "it": "\\rBuona giornata."
+  "id": "The Wailmer was freed.",
+  "en": "The Wailmer was freed.",
+  "it": "Il Wailmer è stato liberato."
  },
  {
   "id": "\\bLogic is the best way to win.",
@@ -70,24 +80,14 @@
   "it": "\\bCredo che ripenserò alla mia strategia."
  },
  {
-  "id": "Would you like to try pulling it out?",
-  "en": "Would you like to try pulling it out?",
-  "it": "Vuoi provare a tirarlo fuori?"
+  "id": "\\bHi there. It's been ages since someone has talked to me. Thank you.",
+  "en": "\\bHi there. It's been ages since someone has talked to me. Thank you.",
+  "it": "\\bCiao. È da secoli che nessuno mi rivolge la parola. Grazie."
  },
  {
-  "id": "The Wailmer was freed.",
-  "en": "The Wailmer was freed.",
-  "it": "Il Wailmer è stato liberato."
- },
- {
-  "id": "\\rHow do we reach space?",
-  "en": "\\rHow do we reach space?",
-  "it": "\\rCome si arriva nello spazio?"
- },
- {
-  "id": "\\rI know Pokémon live up there. What are they doing?",
-  "en": "\\rI know Pokémon live up there. What are they doing?",
-  "it": "\\rSo che lassù vivono dei Pokémon. Chissà cosa fanno?"
+  "id": "\\bDon't be a stranger.",
+  "en": "\\bDon't be a stranger.",
+  "it": "\\bFatti vedere ogni tanto."
  },
  {
   "id": "\\bCatch anything good?",
@@ -105,14 +105,14 @@
   "it": "\\bHo poche alternative."
  },
  {
-  "id": "\\bHi there. It's been ages since someone has talked to me. Thank you.",
-  "en": "\\bHi there. It's been ages since someone has talked to me. Thank you.",
-  "it": "\\bCiao. È da secoli che nessuno mi rivolge la parola. Grazie."
+  "id": "\\rHow do we reach space?",
+  "en": "\\rHow do we reach space?",
+  "it": "\\rCome si arriva nello spazio?"
  },
  {
-  "id": "\\bDon't be a stranger.",
-  "en": "\\bDon't be a stranger.",
-  "it": "\\bFatti vedere ogni tanto."
+  "id": "\\rI know Pokémon live up there. What are they doing?",
+  "en": "\\rI know Pokémon live up there. What are they doing?",
+  "it": "\\rSo che lassù vivono dei Pokémon. Chissà cosa fanno?"
  },
  {
   "id": "\\rI bet you thought there was something back here.",
@@ -123,16 +123,6 @@
   "id": "\\rI beat you to it though!",
   "en": "\\rI beat you to it though!",
   "it": "\\rMa ti ho battuto sul tempo!"
- },
- {
-  "id": "\\rRespect is a hard thing to come by.",
-  "en": "\\rRespect is a hard thing to come by.",
-  "it": "\\rIl rispetto è una cosa difficile da guadagnare."
- },
- {
-  "id": "\\rPerhaps it's through our actions.",
-  "en": "\\rPerhaps it's through our actions.",
-  "it": "\\rForse lo si ottiene con le azioni."
  },
  {
   "id": "\\bI'm trying to fish.",
@@ -150,14 +140,19 @@
   "it": "\\bNon ci sono molti pesci in questa zona."
  },
  {
-  "id": "\\rWhat's the rush?",
-  "en": "\\rWhat's the rush?",
-  "it": "\\rChe fretta c'è?"
+  "id": "\\rRespect is a hard thing to come by.",
+  "en": "\\rRespect is a hard thing to come by.",
+  "it": "\\rIl rispetto è una cosa difficile da guadagnare."
  },
  {
-  "id": "\\rIt's good to slow down. Use a Lagging Tail for that.",
-  "en": "\\rIt's good to slow down. Use a Lagging Tail for that.",
-  "it": "\\rÈ bello rallentare. Usa una Rallentocoda per farlo."
+  "id": "\\rPerhaps it's through our actions.",
+  "en": "\\rPerhaps it's through our actions.",
+  "it": "\\rForse lo si ottiene con le azioni."
+ },
+ {
+  "id": "\\bYou can jump over the ledge from this side.",
+  "en": "\\bYou can jump over the ledge from this side.",
+  "it": "\\bDa questo lato puoi saltare giù dalla sporgenza."
  },
  {
   "id": "\\bI need a break.",
@@ -175,9 +170,14 @@
   "it": "\\bVorrei avere una buona canna."
  },
  {
-  "id": "\\bYou can jump over the ledge from this side.",
-  "en": "\\bYou can jump over the ledge from this side.",
-  "it": "\\bDa questo lato puoi saltare giù dalla sporgenza."
+  "id": "\\rWhat's the rush?",
+  "en": "\\rWhat's the rush?",
+  "it": "\\rChe fretta c'è?"
+ },
+ {
+  "id": "\\rIt's good to slow down. Use a Lagging Tail for that.",
+  "en": "\\rIt's good to slow down. Use a Lagging Tail for that.",
+  "it": "\\rÈ bello rallentare. Usa una Rallentocoda per farlo."
  },
  {
   "id": "\\bLet's go.",

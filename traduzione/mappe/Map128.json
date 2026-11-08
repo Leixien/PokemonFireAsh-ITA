@@ -20,16 +20,6 @@
   "it": "\\bI videogiochi e i Pokémon sono come le noccioline! Non riesco a smettere!"
  },
  {
-  "id": "\\bI want to try out a battle strategy.",
-  "en": "\\bI want to try out a battle strategy.",
-  "it": "\\bVoglio provare una strategia di lotta."
- },
- {
-  "id": "\\bI am better at school than this!",
-  "en": "\\bI am better at school than this!",
-  "it": "\\bA scuola sono più bravo che in questo!"
- },
- {
   "id": "\\rYou look cute.",
   "en": "\\rYou look cute.",
   "it": "\\rSei carino."
@@ -38,6 +28,16 @@
   "id": "\\rSaffron City is west of here.",
   "en": "\\rSaffron City is west of here.",
   "it": "\\rZafferanopoli è a ovest di qui."
+ },
+ {
+  "id": "\\bI want to try out a battle strategy.",
+  "en": "\\bI want to try out a battle strategy.",
+  "it": "\\bVoglio provare una strategia di lotta."
+ },
+ {
+  "id": "\\bI am better at school than this!",
+  "en": "\\bI am better at school than this!",
+  "it": "\\bA scuola sono più bravo che in questo!"
  },
  {
   "id": "\\bI can never lose with this plan.",
@@ -55,16 +55,6 @@
   "it": "\\bPrima Grimer... e... e... poi..."
  },
  {
-  "id": "\\bLet's try our luck.",
-  "en": "\\bLet's try our luck.",
-  "it": "\\bTentiamo la fortuna."
- },
- {
-  "id": "\\bThings didn't work today.",
-  "en": "\\bThings didn't work today.",
-  "it": "\\bOggi non è andata."
- },
- {
   "id": "\\bMy Koffing is tough.",
   "en": "\\bMy Koffing is tough.",
   "it": "\\bIl mio Koffing è tosto."
@@ -73,6 +63,16 @@
   "id": "\\bI was planning on getting some fresh air for a change.",
   "en": "\\bI was planning on getting some fresh air for a change.",
   "it": "\\bAvevo in programma di prendere un po' d'aria fresca, tanto per cambiare."
+ },
+ {
+  "id": "\\bLet's try our luck.",
+  "en": "\\bLet's try our luck.",
+  "it": "\\bTentiamo la fortuna."
+ },
+ {
+  "id": "\\bThings didn't work today.",
+  "en": "\\bThings didn't work today.",
+  "it": "\\bOggi non è andata."
  },
  {
   "id": "\\rYou'll need at least two Pokémon if you want to battle us.",

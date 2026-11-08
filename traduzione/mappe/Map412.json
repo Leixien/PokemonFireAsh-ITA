@@ -10,16 +10,6 @@
   "it": "\\bSparisci."
  },
  {
-  "id": "\\bGoh: That Zapdos was far too strong. I need to get stronger if I want to catch every Pokémon.",
-  "en": "\\bGoh: That Zapdos was far too strong. I need to get stronger if I want to catch every Pokémon.",
-  "it": "\\bGoh: Quello Zapdos era fin troppo forte. Devo diventare più forte se voglio catturare tutti i Pokémon."
- },
- {
-  "id": "\\bThanks for helping me. Come on, let's get out of here.",
-  "en": "\\bThanks for helping me. Come on, let's get out of here.",
-  "it": "\\bGrazie per avermi aiutato. Dai, andiamocene da qui."
- },
- {
   "id": "\\bWhat's going on?",
   "en": "\\bWhat's going on?",
   "it": "\\bChe succede?"
@@ -28,6 +18,16 @@
   "id": "\\bToday needs to end already.",
   "en": "\\bToday needs to end already.",
   "it": "\\bNon vedo l'ora che finisca questa giornata."
+ },
+ {
+  "id": "\\bGoh: That Zapdos was far too strong. I need to get stronger if I want to catch every Pokémon.",
+  "en": "\\bGoh: That Zapdos was far too strong. I need to get stronger if I want to catch every Pokémon.",
+  "it": "\\bGoh: Quello Zapdos era fin troppo forte. Devo diventare più forte se voglio catturare tutti i Pokémon."
+ },
+ {
+  "id": "\\bThanks for helping me. Come on, let's get out of here.",
+  "en": "\\bThanks for helping me. Come on, let's get out of here.",
+  "it": "\\bGrazie per avermi aiutato. Dai, andiamocene da qui."
  },
  {
   "id": "\\bHaha!",
@@ -60,14 +60,14 @@
   "it": "\\bDevo tornare al lavoro."
  },
  {
-  "id": "\\bGet out of here.",
-  "en": "\\bGet out of here.",
-  "it": "\\bVattene da qui."
- },
- {
   "id": "\\bGoh: I still need your help.",
   "en": "\\bGoh: I still need your help.",
   "it": "\\bGoh: Ho ancora bisogno del tuo aiuto."
+ },
+ {
+  "id": "\\bGet out of here.",
+  "en": "\\bGet out of here.",
+  "it": "\\bVattene da qui."
  },
  {
   "id": "\\bWhat are you doing in here?",
@@ -78,16 +78,6 @@
   "id": "\\bDon't get lost.",
   "en": "\\bDon't get lost.",
   "it": "\\bNon perderti."
- },
- {
-  "id": "\\bSorry?",
-  "en": "\\bSorry?",
-  "it": "\\bCome, scusa?"
- },
- {
-  "id": "\\bHow did you find your way back here?",
-  "en": "\\bHow did you find your way back here?",
-  "it": "\\bCome hai fatto a ritrovare la strada fin qui?"
  },
  {
   "id": "\\bGoh: You're here. Help me find that Zapdos.",
@@ -103,6 +93,16 @@
   "id": "\\bThat's alright. We can wait a little bit.",
   "en": "\\bThat's alright. We can wait a little bit.",
   "it": "\\bNessun problema. Possiamo aspettare un pochino."
+ },
+ {
+  "id": "\\bSorry?",
+  "en": "\\bSorry?",
+  "it": "\\bCome, scusa?"
+ },
+ {
+  "id": "\\bHow did you find your way back here?",
+  "en": "\\bHow did you find your way back here?",
+  "it": "\\bCome hai fatto a ritrovare la strada fin qui?"
  },
  {
   "id": "\\bHow did kids get in here?",

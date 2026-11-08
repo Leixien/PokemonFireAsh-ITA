@@ -10,64 +10,64 @@
   "it": "\\rStudio tanto, ma non basta per vincere."
  },
  {
-  "id": "\\bWe hope you'll take part in a Bug-Catching Contest in the future!",
-  "en": "\\bWe hope you'll take part in a Bug-Catching Contest in the future!",
-  "it": "\\bSperiamo che parteciperai a una Gara di Cattura Insetti in futuro!"
+  "id": "\\rWe hope you'll take part in a Bug-Catching Contest in the future!",
+  "en": "\\rWe hope you'll take part in a Bug-Catching Contest in the future!",
+  "it": "\\rSperiamo che parteciperai a una Gara Pigliamosche in futuro!"
  },
  {
-  "id": "\\bToday's \\v[1].",
-  "en": "\\bToday's \\v[1].",
-  "it": "\\bOggi è \\v[1]."
+  "id": "\\rToday's \\v[1].",
+  "en": "\\rToday's \\v[1].",
+  "it": "\\rOggi è \\v[1]."
  },
  {
-  "id": "\\bThat means the Bug-Catching Contest is on today.",
-  "en": "\\bThat means the Bug-Catching Contest is on today.",
-  "it": "\\bQuindi oggi si tiene la Gara di Cattura Insetti."
+  "id": "\\rThat means the Bug-Catching Contest is on today.",
+  "en": "\\rThat means the Bug-Catching Contest is on today.",
+  "it": "\\rQuindi oggi si tiene la Gara Pigliamosche."
  },
  {
-  "id": "\\bThe rules are simple.",
-  "en": "\\bThe rules are simple.",
-  "it": "\\bLe regole sono semplici."
+  "id": "\\rThe rules are simple.",
+  "en": "\\rThe rules are simple.",
+  "it": "\\rLe regole sono semplici."
  },
  {
-  "id": "\\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.",
-  "en": "\\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.",
-  "it": "\\bUsando uno dei tuoi Pokémon, cattura un Pokémon di tipo Coleottero che verrà giudicato."
+  "id": "\\rUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.",
+  "en": "\\rUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.",
+  "it": "\\rUsando uno dei tuoi Pokémon, cattura un Pokémon di tipo Coleottero da far giudicare."
  },
  {
-  "id": "\\bWould you like to give it a try?",
-  "en": "\\bWould you like to give it a try?",
-  "it": "\\bVuoi provare?"
+  "id": "\\rWould you like to give it a try?",
+  "en": "\\rWould you like to give it a try?",
+  "it": "\\rVuoi provare?"
  },
  {
-  "id": "\\bSorry, your PC boxes are full.",
-  "en": "\\bSorry, your PC boxes are full.",
-  "it": "\\bMi dispiace, i tuoi Box del PC sono pieni."
+  "id": "\\rSorry, your PC boxes are full.",
+  "en": "\\rSorry, your PC boxes are full.",
+  "it": "\\rMi dispiace, i Box del tuo PC sono pieni."
  },
  {
-  "id": "\\bYou are only allowed to take 1 Pokémon into the Contest.",
-  "en": "\\bYou are only allowed to take 1 Pokémon into the Contest.",
-  "it": "\\bPuoi portare solo 1 Pokémon alla Gara."
+  "id": "\\rYou are only allowed to take 1 Pokémon into the Contest.",
+  "en": "\\rYou are only allowed to take 1 Pokémon into the Contest.",
+  "it": "\\rPuoi portare con te solo 1 Pokémon nella Gara."
  },
  {
-  "id": "\\bPlease choose which Pokémon you want to enter with.",
-  "en": "\\bPlease choose which Pokémon you want to enter with.",
-  "it": "\\bScegli con quale Pokémon vuoi partecipare."
+  "id": "\\rPlease choose which Pokémon you want to enter with.",
+  "en": "\\rPlease choose which Pokémon you want to enter with.",
+  "it": "\\rScegli il Pokémon con cui vuoi partecipare."
  },
  {
-  "id": "\\bOK. We hope you'll take part in the future.",
-  "en": "\\bOK. We hope you'll take part in the future.",
-  "it": "\\bOK. Speriamo che parteciperai in futuro."
+  "id": "\\rOK. We hope you'll take part in the future.",
+  "en": "\\rOK. We hope you'll take part in the future.",
+  "it": "\\rVa bene. Speriamo che parteciperai in futuro."
  },
  {
-  "id": "\\bYou will be entering with \\v[2], then.",
-  "en": "\\bYou will be entering with \\v[2], then.",
-  "it": "\\bParteciperai con \\v[2], allora."
+  "id": "\\rYou will be entering with \\v[2], then.",
+  "en": "\\rYou will be entering with \\v[2], then.",
+  "it": "\\rAllora parteciperai con \\v[2]."
  },
  {
-  "id": "\\bWe'll hold your other Pokémon while you compete.",
-  "en": "\\bWe'll hold your other Pokémon while you compete.",
-  "it": "\\bTerremo noi gli altri tuoi Pokémon mentre gareggi."
+  "id": "\\rWe'll hold your other Pokémon while you compete.",
+  "en": "\\rWe'll hold your other Pokémon while you compete.",
+  "it": "\\rTerremo noi gli altri tuoi Pokémon mentre gareggi."
  },
  {
   "id": "\\PN's Pokémon were left with the Contest Helper.\\se[Pkmn exp full]\\wtnp[20]",
@@ -75,9 +75,9 @@
   "it": "\\PN ha lasciato i suoi Pokémon all'assistente della Gara.\\se[Pkmn exp full]\\wtnp[20]"
  },
  {
-  "id": "\\bHere are the Sport Balls for the Contest.",
-  "en": "\\bHere are the Sport Balls for the Contest.",
-  "it": "\\bEcco le Gara Ball per la Gara."
+  "id": "\\rHere are the Sport Balls for the Contest.",
+  "en": "\\rHere are the Sport Balls for the Contest.",
+  "it": "\\rEcco le Gara Ball per la Gara."
  },
  {
   "id": "\\PN received 20 Sport Balls.\\me[Item get]\\wtnp[40]",
@@ -85,54 +85,54 @@
   "it": "\\PN ha ricevuto 20 Gara Ball.\\me[Item get]\\wtnp[40]"
  },
  {
-  "id": "\\bThe person who gets the strongest bug Pokémon is the winner.",
-  "en": "\\bThe person who gets the strongest bug Pokémon is the winner.",
-  "it": "\\bVince chi cattura il Pokémon Coleottero più forte."
+  "id": "\\rThe person who gets the strongest bug Pokémon is the winner.",
+  "en": "\\rThe person who gets the strongest bug Pokémon is the winner.",
+  "it": "\\rVince chi cattura il Pokémon Coleottero più forte."
  },
  {
-  "id": "\\bYou have 20 minutes.",
-  "en": "\\bYou have 20 minutes.",
-  "it": "\\bHai 20 minuti."
+  "id": "\\rYou have 20 minutes.",
+  "en": "\\rYou have 20 minutes.",
+  "it": "\\rHai 20 minuti."
  },
  {
-  "id": "\\bIf you run out of Sport Balls, you're done.",
-  "en": "\\bIf you run out of Sport Balls, you're done.",
-  "it": "\\bSe finisci le Gara Ball, hai finito."
+  "id": "\\rIf you run out of Sport Balls, you're done.",
+  "en": "\\rIf you run out of Sport Balls, you're done.",
+  "it": "\\rSe finisci le Gara Ball, la tua gara è finita."
  },
  {
-  "id": "\\bYou can keep the last Pokémon you catch as your own.",
-  "en": "\\bYou can keep the last Pokémon you catch as your own.",
-  "it": "\\bPuoi tenere l'ultimo Pokémon che catturi."
+  "id": "\\rYou can keep the last Pokémon you catch as your own.",
+  "en": "\\rYou can keep the last Pokémon you catch as your own.",
+  "it": "\\rPuoi tenere l'ultimo Pokémon che catturi."
  },
  {
-  "id": "\\bGo out and catch the strongest Bug-type Pokémon you can find!",
-  "en": "\\bGo out and catch the strongest Bug-type Pokémon you can find!",
-  "it": "\\bVai e cattura il Pokémon di tipo Coleottero più forte che riesci a trovare!"
+  "id": "\\rGo out and catch the strongest Bug-type Pokémon you can find!",
+  "en": "\\rGo out and catch the strongest Bug-type Pokémon you can find!",
+  "it": "\\rVai e cattura il Pokémon di tipo Coleottero più forte che riesci a trovare!"
  },
  {
-  "id": "\\bWe hold contests regularly in the Park. You should give it a shot.",
-  "en": "\\bWe hold contests regularly in the Park.  You should give it a shot.",
-  "it": "\\bOrganizziamo regolarmente delle gare nel Parco. Dovresti provare."
+  "id": "\\rWe hold contests regularly in the Park. You should give it a shot.",
+  "en": "\\rWe hold contests regularly in the Park. You should give it a shot.",
+  "it": "\\rOrganizziamo regolarmente delle gare nel Parco. Dovresti provarci."
  },
  {
-  "id": "\\bYou still have some time left. Do you want to finish now?",
-  "en": "\\bYou still have some time left. Do you want to finish now?",
-  "it": "\\bTi resta ancora un po' di tempo. Vuoi finire adesso?"
+  "id": "\\rYou still have some time left. Do you want to finish now?",
+  "en": "\\rYou still have some time left. Do you want to finish now?",
+  "it": "\\rTi resta ancora un po' di tempo. Vuoi terminare adesso?"
  },
  {
-  "id": "\\bPlease wait here for the announcement of the winners.",
-  "en": "\\bPlease wait here for the announcement of the winners.",
-  "it": "\\bAttendi qui l'annuncio dei vincitori."
+  "id": "\\rPlease wait here for the announcement of the winners.",
+  "en": "\\rPlease wait here for the announcement of the winners.",
+  "it": "\\rAspetta qui l'annuncio dei vincitori."
  },
  {
-  "id": "\\bOK. Please go back outside and finish up.",
-  "en": "\\bOK. Please go back outside and finish up.",
-  "it": "\\bOK. Torna fuori e finisci."
+  "id": "\\rOK. Please go back outside and finish up.",
+  "en": "\\rOK. Please go back outside and finish up.",
+  "it": "\\rVa bene. Torna fuori e finisci la gara."
  },
  {
-  "id": "\\bWe will now judge the Pokémon you've caught.",
-  "en": "\\bWe will now judge the Pokémon you've caught.",
-  "it": "\\bOra giudicheremo i Pokémon che avete catturato."
+  "id": "\\rWe will now judge the Pokémon you've caught.",
+  "en": "\\rWe will now judge the Pokémon you've caught.",
+  "it": "\\rOra giudicheremo i Pokémon che avete catturato."
  },
  {
   "id": "......\\wt[10]\\n......",
@@ -140,64 +140,64 @@
   "it": "......\\wt[10]\\n......"
  },
  {
-  "id": "\\bWe have chosen the winners!\\nAre you ready for this?",
-  "en": "\\bWe have chosen the winners!\\nAre you ready for this?",
-  "it": "\\bAbbiamo scelto i vincitori!\\nSiete pronti?"
+  "id": "\\rWe have chosen the winners!\\nAre you ready for this?",
+  "en": "\\rWe have chosen the winners!\\nAre you ready for this?",
+  "it": "\\rAbbiamo scelto i vincitori!\\nSiete pronti?"
  },
  {
-  "id": "\\bPlacing third is \\v[1], who caught a writhing \\v[2]!",
-  "en": "\\bPlacing third is \\v[1], who caught a writhing \\v[2]!",
-  "it": "\\bAl terzo posto c'è \\v[1], che ha catturato un \\v[2] che si contorce!"
+  "id": "\\rPlacing third is \\v[1], who caught a writhing \\v[2]!",
+  "en": "\\rPlacing third is \\v[1], who caught a writhing \\v[2]!",
+  "it": "\\rAl terzo posto c'è \\v[1], che ha catturato un guizzante \\v[2]!"
  },
  {
-  "id": "\\bThe score was \\v[3] points!",
-  "en": "\\bThe score was \\v[3] points!",
-  "it": "\\bIl punteggio è di \\v[3] punti!"
+  "id": "\\rThe score was \\v[3] points!",
+  "en": "\\rThe score was \\v[3] points!",
+  "it": "\\rIl punteggio è di \\v[3] punti!"
  },
  {
-  "id": "\\bPlacing second is \\v[1], who caught a wriggling \\v[2]!",
-  "en": "\\bPlacing second is \\v[1], who caught a wriggling \\v[2]!",
-  "it": "\\bAl secondo posto c'è \\v[1], che ha catturato un \\v[2] che si dimena!"
+  "id": "\\rPlacing second is \\v[1], who caught a wriggling \\v[2]!",
+  "en": "\\rPlacing second is \\v[1], who caught a wriggling \\v[2]!",
+  "it": "\\rAl secondo posto c'è \\v[1], che ha catturato un frenetico \\v[2]!"
  },
  {
-  "id": "\\bThis Bug-Catching Contest winner is...",
-  "en": "\\bThis Bug-Catching Contest winner is...",
-  "it": "\\bIl vincitore di questa Gara di Cattura Insetti è..."
+  "id": "\\rThis Bug-Catching Contest winner is...",
+  "en": "\\rThis Bug-Catching Contest winner is...",
+  "it": "\\rIl vincitore di questa Gara Pigliamosche è..."
  },
  {
-  "id": "\\b\\v[1], who caught a whopping \\v[2]!",
-  "en": "\\b\\v[1], who caught a whopping \\v[2]!",
-  "it": "\\b\\v[1], che ha catturato un enorme \\v[2]!"
+  "id": "\\r\\v[1], who caught a whopping \\v[2]!",
+  "en": "\\r\\v[1], who caught a whopping \\v[2]!",
+  "it": "\\r\\v[1], che ha catturato uno straordinario \\v[2]!"
  },
  {
-  "id": "\\me[Bug contest 1st]\\b\\PN, the First Place finisher, wins the \\v[3]!",
-  "en": "\\me[Bug contest 1st]\\b\\PN, the First Place finisher, wins the \\v[3]!",
-  "it": "\\me[Bug contest 1st]\\b\\PN, al primo posto, vince \\v[3]!"
+  "id": "\\me[Bug contest 1st]\\r\\PN, the First Place finisher, wins the \\v[3]!",
+  "en": "\\me[Bug contest 1st]\\r\\PN, the First Place finisher, wins the \\v[3]!",
+  "it": "\\me[Bug contest 1st]\\r\\PN, primo classificato, vince il premio: \\v[3]!"
  },
  {
-  "id": "\\me[Bug contest 1st]\\b\\PN, the First Place finisher, wins the Sun Stone!",
-  "en": "\\me[Bug contest 1st]\\b\\PN, the First Place finisher, wins the Sun Stone!",
-  "it": "\\me[Bug contest 1st]\\b\\PN, al primo posto, vince la Pietrasolare!"
+  "id": "\\me[Bug contest 1st]\\r\\PN, the First Place finisher, wins the Sun Stone!",
+  "en": "\\me[Bug contest 1st]\\r\\PN, the First Place finisher, wins the Sun Stone!",
+  "it": "\\me[Bug contest 1st]\\r\\PN, primo classificato, vince una Pietrasolare!"
  },
  {
-  "id": "\\me[Bug contest 2nd]\\b\\PN, the Second Place finisher, wins the Everstone!",
-  "en": "\\me[Bug contest 2nd]\\b\\PN, the Second Place finisher, wins the Everstone!",
-  "it": "\\me[Bug contest 2nd]\\b\\PN, al secondo posto, vince la Pietrastante!"
+  "id": "\\me[Bug contest 2nd]\\r\\PN, the Second Place finisher, wins the Everstone!",
+  "en": "\\me[Bug contest 2nd]\\r\\PN, the Second Place finisher, wins the Everstone!",
+  "it": "\\me[Bug contest 2nd]\\r\\PN, secondo classificato, vince una Pietrastante!"
  },
  {
-  "id": "\\me[Bug contest 3rd]\\b\\PN, the Third Place finisher, wins the Sitrus Berry!",
-  "en": "\\me[Bug contest 3rd]\\b\\PN, the Third Place finisher, wins the Sitrus Berry!",
-  "it": "\\me[Bug contest 3rd]\\b\\PN, al terzo posto, vince la Baccacedro!"
+  "id": "\\me[Bug contest 3rd]\\r\\PN, the Third Place finisher, wins the Sitrus Berry!",
+  "en": "\\me[Bug contest 3rd]\\r\\PN, the Third Place finisher, wins the Sitrus Berry!",
+  "it": "\\me[Bug contest 3rd]\\r\\PN, terzo classificato, vince una Baccacedro!"
  },
  {
-  "id": "\\bEveryone else gets a Shed Shell as a consolation prize!",
-  "en": "\\bEveryone else gets a Shed Shell as a consolation prize!",
-  "it": "\\bTutti gli altri ricevono un Disfoguscio come premio di consolazione!"
+  "id": "\\rEveryone else gets a Shed Shell as a consolation prize!",
+  "en": "\\rEveryone else gets a Shed Shell as a consolation prize!",
+  "it": "\\rTutti gli altri ricevono un Disfoguscio come premio di consolazione!"
  },
  {
-  "id": "\\bWe'll return the Pokémon we kept for you. Here you go!\\se[Pkmn exp full]",
-  "en": "\\bWe'll return the Pokémon we kept for you. Here you go!\\se[Pkmn exp full]",
-  "it": "\\bEcco i Pokémon che abbiamo custodito per te!\\se[Pkmn exp full]"
+  "id": "\\rWe'll return the Pokémon we kept for you. Here you go!\\se[Pkmn exp full]",
+  "en": "\\rWe'll return the Pokémon we kept for you. Here you go!\\se[Pkmn exp full]",
+  "it": "\\rTi restituiamo i Pokémon che abbiamo custodito per te. Ecco qui!\\se[Pkmn exp full]"
  },
  {
   "id": "\\rYou again. I hope you're ready. I'm a lot stronger now.",

@@ -1,13 +1,13 @@
 [
  {
-  "id": "Fennel and Amanitha's house",
-  "en": "Fennel and Amanitha's house",
-  "it": "Casa di Fennel e Amanitha"
- },
- {
   "id": "\\bYamask",
   "en": "\\bYamask",
   "it": "\\bYamask"
+ },
+ {
+  "id": "Fennel and Amanitha's house",
+  "en": "Fennel and Amanitha's house",
+  "it": "Casa di Fennel e Amanitha"
  },
  {
   "id": "\\rThey used to study dreams at the dreamyard. An accident happened some time ago and no one has gone back.",
@@ -15,14 +15,14 @@
   "it": "\\rUn tempo al Cantiere dei Sogni studiavano i sogni. Qualche tempo fa c'è stato un incidente e da allora nessuno ci è più tornato."
  },
  {
-  "id": "\\bThe Gym here is very unique. It focuses on three different types instead of one.",
-  "en": "\\bThe Gym here is very unique. It focuses on three different types instead of one.",
-  "it": "\\bLa Palestra di qui è davvero unica. Si concentra su tre tipi diversi invece che su uno solo."
- },
- {
   "id": "\\bMunna",
   "en": "\\bMunna",
   "it": "\\bMunna"
+ },
+ {
+  "id": "\\bThe Gym here is very unique. It focuses on three different types instead of one.",
+  "en": "\\bThe Gym here is very unique. It focuses on three different types instead of one.",
+  "it": "\\bLa Palestra di qui è davvero unica. Si concentra su tre tipi diversi invece che su uno solo."
  },
  {
   "id": "\\bAll I have is a Petilil, a Grass type. Which leader should I battle?",
@@ -60,16 +60,6 @@
   "it": "\\bVengo qui quando ho bisogno di schiarirmi le idee."
  },
  {
-  "id": "Striaton City Pokémon Gym Leaders:\\nCilan, Chili, and Cress",
-  "en": "Striaton City Pokémon Gym Leaders:\\nCilan, Chili, and Cress",
-  "it": "Capipalestra della Palestra Pokémon di Levantopoli:\\nSpighetto, Maisello e Maisello"
- },
- {
-  "id": "Triple Trouble!",
-  "en": "Triple Trouble!",
-  "it": "Triplo guaio!"
- },
- {
   "id": "\\bDon't tell anyone. It's hard to find these. Go away and you can have one.",
   "en": "\\bDon't tell anyone. It's hard to find these. Go away and you can have one.",
   "it": "\\bNon dirlo a nessuno. È difficile trovarle. Vattene e te ne do una."
@@ -80,14 +70,19 @@
   "it": "\\bNon fare la spia."
  },
  {
+  "id": "Striaton City Pokémon Gym Leaders:\\nCilan, Chili, and Cress",
+  "en": "Striaton City Pokémon Gym Leaders:\\nCilan, Chili, and Cress",
+  "it": "Capipalestra della Palestra Pokémon di Levantopoli:\\nSpighetto, Maisello e Maisello"
+ },
+ {
+  "id": "Triple Trouble!",
+  "en": "Triple Trouble!",
+  "it": "Triplo guaio!"
+ },
+ {
   "id": "\\bI want to go back inside!",
   "en": "\\bI want to go back inside!",
   "it": "\\bVoglio tornare dentro!"
- },
- {
-  "id": "Striaton City\\nThree Stand Together as One!",
-  "en": "Striaton City\\nThree Stand Together as One!",
-  "it": "Levantopoli\\nTre uniti come uno solo!"
  },
  {
   "id": "\\bCilan: Ah, the flavor of home is something one can never replicate. It's always good to remember your roots.",
@@ -110,14 +105,19 @@
   "it": "\\bSpighetto: Giudico tutti i tuoi Pokémon compagni eccellenti per te."
  },
  {
-  "id": "Dreamyard to the right. Proceed with caution.",
-  "en": "Dreamyard to the right. Proceed with caution.",
-  "it": "Cantiere dei Sogni a destra. Procedere con cautela."
+  "id": "Striaton City\\nThree Stand Together as One!",
+  "en": "Striaton City\\nThree Stand Together as One!",
+  "it": "Levantopoli\\nTre uniti come uno solo!"
  },
  {
   "id": "\\rWe need to spend more time outside. It's healthy.",
   "en": "\\rWe need to spend more time outside. It's healthy.",
   "it": "\\rDovremmo passare più tempo all'aperto. Fa bene alla salute."
+ },
+ {
+  "id": "Dreamyard to the right. Proceed with caution.",
+  "en": "Dreamyard to the right. Proceed with caution.",
+  "it": "Cantiere dei Sogni a destra. Procedere con cautela."
  },
  {
   "id": "Cilan",

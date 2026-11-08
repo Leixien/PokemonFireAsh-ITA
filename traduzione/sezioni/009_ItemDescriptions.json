@@ -1886,8 +1886,8 @@
  },
  {
   "id": 378,
-  "en": "The user creates a substitute for itself using some of its HP. The substitute serves as the user's decoy.",
-  "it": "Chi la usa crea un sostituto di sé sacrificando alcuni PS. Il sostituto fa da esca."
+  "en": "The user creates a substitute for itself using some of its HP, serving as its decoy.",
+  "it": "Il Pokémon usa parte dei propri PS per creare un sostituto che gli faccia da esca."
  },
  {
   "id": 379,
@@ -3341,7 +3341,7 @@
  },
  {
   "id": 669,
-  "en": "Pewter City’s famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.",
+  "en": "Pewter City's famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.",
   "it": "Il famoso snack croccante di Plumbeopoli. Cura tutti i problemi di stato di un Pokémon."
  },
  {
@@ -4753,5 +4753,145 @@
   "id": 1002,
   "en": "An item in which Zygarde Cores and Cells are gathered. You can also use it to change Zygarde's forms.",
   "it": "Un oggetto in cui si raccolgono i Nuclei e le Cellule di Zygarde. Serve anche a cambiare la forma di Zygarde."
+ },
+ {
+  "id": 1003,
+  "en": "A secret tonic for Pokémon in need of vitality. It raises the base HP of a single Pokémon significantly.",
+  "it": "Un tonico segreto per Pokémon bisognosi di vitalità. Aumenta notevolmente i PS base di un Pokémon."
+ },
+ {
+  "id": 1004,
+  "en": "A secret serum for Pokémon who loves to get physical. It raises the base Attack stat significantly.",
+  "it": "Un siero segreto per Pokémon che amano lo scontro fisico. Aumenta notevolmente l'Attacco base."
+ },
+ {
+  "id": 1005,
+  "en": "A secret extract for Pokémon that never backs down. It raises the base Defense stat significantly.",
+  "it": "Un estratto segreto per Pokémon che non si tirano mai indietro. Aumenta notevolmente la Difesa base."
+ },
+ {
+  "id": 1006,
+  "en": "A secret stimulant for Pokémon holding untapped potentials. It raises the base Sp. Attack stat significantly.",
+  "it": "Uno stimolante segreto per Pokémon dal potenziale inespresso. Aumenta notevolmente l'Attacco Speciale base."
+ },
+ {
+  "id": 1007,
+  "en": "A secret vaccine for Pokémon with relentless spirit. It raises the base Sp. Defense stat significantly.",
+  "it": "Un vaccino segreto per Pokémon dallo spirito inarrestabile. Aumenta notevolmente la Difesa Speciale base."
+ },
+ {
+  "id": 1008,
+  "en": "A secret brew for Pokémon brimming with energy. It raises the base Speed stat significantly.",
+  "it": "Un infuso segreto per Pokémon traboccanti di energia. Aumenta notevolmente la Velocità base."
+ },
+ {
+  "id": 1009,
+  "en": "A set of genetic code that containing the basis of life. It raises the IV of HP of a single Pokémon.",
+  "it": "Un codice genetico che racchiude le basi della vita. Aumenta l'IV dei PS di un Pokémon."
+ },
+ {
+  "id": 1010,
+  "en": "A set of genetic code that heightens muscular limits. It raises the IV of Attack of a single Pokémon.",
+  "it": "Un codice genetico che innalza i limiti muscolari. Aumenta l'IV dell'Attacco di un Pokémon."
+ },
+ {
+  "id": 1011,
+  "en": "A set of genetic code that strengthens body endurance. It raises the IV of Defense of a single Pokémon.",
+  "it": "Un codice genetico che rafforza la resistenza fisica. Aumenta l'IV della Difesa di un Pokémon."
+ },
+ {
+  "id": 1012,
+  "en": "A set of genetic code that unlocks innate powers. It raises the IV of Sp. Attack of a single Pokémon.",
+  "it": "Un codice genetico che sblocca poteri innati. Aumenta l'IV dell'Attacco Speciale di un Pokémon."
+ },
+ {
+  "id": 1013,
+  "en": "A set of genetic code that promotes tenacious will. It raises the IV of Sp. Defense of a single Pokémon.",
+  "it": "Un codice genetico che favorisce una volontà tenace. Aumenta l'IV della Difesa Speciale di un Pokémon."
+ },
+ {
+  "id": 1014,
+  "en": "A set of genetic code that boost senses and mobility. It raises the IV of Speed of a single Pokémon.",
+  "it": "Un codice genetico che potenzia sensi e mobilità. Aumenta l'IV della Velocità di un Pokémon."
+ },
+ {
+  "id": 1015,
+  "en": "A set of genetic code that gives random empowerment. It raises the IV of a random stat of a single Pokémon.",
+  "it": "Un codice genetico che conferisce un potenziamento casuale. Aumenta l'IV di una statistica casuale di un Pokémon."
+ },
+ {
+  "id": 1016,
+  "en": "A digital pad showing your achievements in the Grandeur Club.",
+  "it": "Un tablet digitale che mostra i tuoi traguardi nel Grandeur Club."
+ },
+ {
+  "id": 1017,
+  "en": "A Pokémon holding this item will always land critical hits under normal circumstances.",
+  "it": "Se tenuto da un Pokémon, gli fa mettere sempre a segno brutti colpi in condizioni normali."
+ },
+ {
+  "id": 1018,
+  "en": "An item to be held by a Pokémon. It boosts the power of moves, but at the cost of 1 HP on each hit.",
+  "it": "Strumento da far tenere a un Pokémon. Potenzia le mosse, ma costa 1 PS a ogni colpo."
+ },
+ {
+  "id": 1019,
+  "en": "A stone tablet to be held by a certain Pokémon. It grants the holder the power of every type there is.",
+  "it": "Una tavola di pietra da far tenere a un certo Pokémon. Gli conferisce il potere di tutti i tipi esistenti."
+ },
+ {
+  "id": 1020,
+  "en": "One of a variety of mysterious Mega Stones. Have Lucario hold it, and it will enter battle Mega Evolved.",
+  "it": "Una delle misteriose Megapietre. Se tenuta da Lucario, gli permette di entrare in lotta già megaevoluto."
+ },
+ {
+  "id": 1021,
+  "en": "A set of genetic code that reduces life energy. It sets the IV of HP of a single Pokémon to 0.",
+  "it": "Un codice genetico che riduce l'energia vitale. Azzera l'IV dei PS di un Pokémon."
+ },
+ {
+  "id": 1022,
+  "en": "A set of genetic code that resets muscular limits. It sets the IV of Attack of a single Pokémon to 0.",
+  "it": "Un codice genetico che azzera i limiti muscolari. Azzera l'IV dell'Attacco di un Pokémon."
+ },
+ {
+  "id": 1023,
+  "en": "A set of genetic code that resets body endurance. It sets the IV of Defense of a single Pokémon to 0.",
+  "it": "Un codice genetico che annulla la resistenza fisica. Azzera l'IV della Difesa di un Pokémon."
+ },
+ {
+  "id": 1024,
+  "en": "A set of genetic code that seals innate powers. It sets the IV of Sp. Attack of a single Pokémon to 0.",
+  "it": "Un codice genetico che sigilla i poteri innati. Azzera l'IV dell'Attacco Speciale di un Pokémon."
+ },
+ {
+  "id": 1025,
+  "en": "A set of genetic code that discourages tenacious will. It sets the IV of Sp. Defense of a single Pokémon to 0.",
+  "it": "Un codice genetico che fiacca la volontà tenace. Azzera l'IV della Difesa Speciale di un Pokémon."
+ },
+ {
+  "id": 1026,
+  "en": "A set of genetic code that dulls senses and mobility. It sets the IV of Speed of a single Pokémon to 0.",
+  "it": "Un codice genetico che intorpidisce sensi e mobilità. Azzera l'IV della Velocità di un Pokémon."
+ },
+ {
+  "id": 1027,
+  "en": "A backstage pass to meet and greet one of the developers behind Grandeur Club.",
+  "it": "Un pass per il backstage per incontrare uno degli sviluppatori del Grandeur Club."
+ },
+ {
+  "id": 1028,
+  "en": "An anonymous card tag for identification purposes in Grandeur Club. How did you get your hands on this?",
+  "it": "Un cartellino anonimo di riconoscimento del Grandeur Club. Come hai fatto a procurartelo?"
+ },
+ {
+  "id": 1029,
+  "en": "A one-time use spray can to make a Pokémon become shiny.",
+  "it": "Una bomboletta spray monouso che rende cromatico un Pokémon."
+ },
+ {
+  "id": 1030,
+  "en": "A regular piece of candy packed with sugar. It lowers the level of a single Pokémon by one.",
+  "it": "Una normale caramella piena di zucchero. Fa scendere di un livello un Pokémon."
  }
 ]

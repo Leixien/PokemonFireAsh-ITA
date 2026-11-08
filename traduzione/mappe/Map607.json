@@ -60,6 +60,11 @@
   "it": "\\rOh, lo so io. C'è un'anziana signora che vive sul Percorso 210. Le dirò che stai arrivando. Può insegnarti una speciale mossa di tipo Drago."
  },
  {
+  "id": "\\rApart from that, you're off to challenge Fantina right? All the best.",
+  "en": "\\rApart from that, you're off to challenge Fantina right? All the best.",
+  "it": "\\rA parte questo, stai andando a sfidare Fannie, giusto? In bocca al lupo."
+ },
+ {
   "id": "\\rThe ruins are quite damaged from your battle. We need time to repair them.",
   "en": "\\rThe ruins are quite damaged from your battle. We need time to repair them.",
   "it": "\\rLe rovine sono piuttosto danneggiate dalla vostra lotta. Ci serve tempo per ripararle."
@@ -105,6 +110,11 @@
   "it": "Sala delle Gare Pokémon di Memoride"
  },
  {
+  "id": "\\bAbra",
+  "en": "\\bAbra",
+  "it": "\\bAbra"
+ },
+ {
   "id": "\\rWelcome to Celestic Town! May your stay here be informative.",
   "en": "\\rWelcome to Celestic Town! May your stay here be informative.",
   "it": "\\rBenvenuto a Memoride! Spero che il tuo soggiorno qui sia istruttivo."
@@ -118,5 +128,35 @@
   "id": "\\bMove along.",
   "en": "\\bMove along.",
   "it": "\\bCircolare."
+ },
+ {
+  "id": "\\bHello there. Want my Abra to take you somewhere?",
+  "en": "\\bHello there. Want my Abra to take you somewhere?",
+  "it": "\\bSalve. Vuoi che il mio Abra ti porti da qualche parte?"
+ },
+ {
+  "id": "\\bIf you ever feel like it.",
+  "en": "\\bIf you ever feel like it.",
+  "it": "\\bQuando ne hai voglia."
+ },
+ {
+  "id": "Twinleaf",
+  "en": "Twinleaf",
+  "it": "Duefoglie"
+ },
+ {
+  "id": "Veilstone",
+  "en": "Veilstone",
+  "it": "Rupepoli"
+ },
+ {
+  "id": "Valor Lakefront",
+  "en": "Valor Lakefront",
+  "it": "Riva Lago Valore"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
  }
 ]

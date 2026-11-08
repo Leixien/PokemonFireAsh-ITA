@@ -1,15 +1,5 @@
 [
  {
-  "id": "\\rI'm so tired.",
-  "en": "\\rI'm so tired.",
-  "it": "\\rSono stanchissima."
- },
- {
-  "id": "\\rWhatever. I'm going to take a nap.",
-  "en": "\\rWhatever. I'm going to take a nap.",
-  "it": "\\rFa niente. Vado a schiacciare un pisolino."
- },
- {
   "id": "\\bCheck out this rare Pokémon that I got.",
   "en": "\\bCheck out this rare Pokémon that I got.",
   "it": "\\bGuarda che Pokémon raro che ho preso."
@@ -20,19 +10,14 @@
   "it": "\\bL'hai fatto scappare. Ora devo aspettare che torni."
  },
  {
-  "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
-  "en": "\\rYou'll need at least two Pokémon if you want to battle us.",
-  "it": "\\rTi servono almeno due Pokémon se vuoi sfidarci."
+  "id": "\\rI'm so tired.",
+  "en": "\\rI'm so tired.",
+  "it": "\\rSono stanchissima."
  },
  {
-  "id": "\\rAh, looks like a challenging Trainer. Ready, Kent?",
-  "en": "\\rAh, looks like a challenging Trainer. Ready, Kent?",
-  "it": "\\rAh, sembra un Allenatore impegnativo. Pronto, Kent?"
- },
- {
-  "id": "\\rAt least I still have Kent.",
-  "en": "\\rAt least I still have Kent.",
-  "it": "\\rAlmeno ho ancora Kent."
+  "id": "\\rWhatever. I'm going to take a nap.",
+  "en": "\\rWhatever. I'm going to take a nap.",
+  "it": "\\rFa niente. Vado a schiacciare un pisolino."
  },
  {
   "id": "\\rThis canyon has inspired me.",
@@ -50,14 +35,19 @@
   "it": "\\rTorna quando vuoi!"
  },
  {
-  "id": "\\bYour attempt to stop us ends here.",
-  "en": "\\bYour attempt to stop us ends here.",
-  "it": "\\bIl tuo tentativo di fermarci finisce qui."
+  "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\rYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\rTi servono almeno due Pokémon se vuoi sfidarci."
  },
  {
-  "id": "\\bRetreat might be our best option.",
-  "en": "\\bRetreat might be our best option.",
-  "it": "\\bLa ritirata potrebbe essere la nostra opzione migliore."
+  "id": "\\rAh, looks like a challenging Trainer. Ready, Kent?",
+  "en": "\\rAh, looks like a challenging Trainer. Ready, Kent?",
+  "it": "\\rAh, sembra un Allenatore impegnativo. Pronto, Kent?"
+ },
+ {
+  "id": "\\rAt least I still have Kent.",
+  "en": "\\rAt least I still have Kent.",
+  "it": "\\rAlmeno ho ancora Kent."
  },
  {
   "id": "\\bThis place gives off a magnetic field.",
@@ -68,6 +58,16 @@
   "id": "\\bPokémon like Charjabug evolve when they are around here.",
   "en": "\\bPokémon like Charjabug evolve when they are around here.",
   "it": "\\bPokémon come Charjabug si evolvono quando si trovano da queste parti."
+ },
+ {
+  "id": "\\bYour attempt to stop us ends here.",
+  "en": "\\bYour attempt to stop us ends here.",
+  "it": "\\bIl tuo tentativo di fermarci finisce qui."
+ },
+ {
+  "id": "\\bRetreat might be our best option.",
+  "en": "\\bRetreat might be our best option.",
+  "it": "\\bLa ritirata potrebbe essere la nostra opzione migliore."
  },
  {
   "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
@@ -85,6 +85,16 @@
   "it": "\\bResta con me, Aimee."
  },
  {
+  "id": "\\bHere for some fun?",
+  "en": "\\bHere for some fun?",
+  "it": "\\bSei qui per divertirti un po'?"
+ },
+ {
+  "id": "\\bBetter get back to it.",
+  "en": "\\bBetter get back to it.",
+  "it": "\\bMeglio tornare al lavoro."
+ },
+ {
   "id": "\\rThe boss gave us an assignment. We're completing it.",
   "en": "\\rThe boss gave us an assignment. We're completing it.",
   "it": "\\rIl capo ci ha affidato un incarico. E lo porteremo a termine."
@@ -95,14 +105,9 @@
   "it": "\\rGrr, dobbiamo riprovarci un'altra volta."
  },
  {
-  "id": "\\bHere for some fun?",
-  "en": "\\bHere for some fun?",
-  "it": "\\bSei qui per divertirti un po'?"
- },
- {
-  "id": "\\bBetter get back to it.",
-  "en": "\\bBetter get back to it.",
-  "it": "\\bMeglio tornare al lavoro."
+  "id": "Type: Null seems to want to go with you. Will you take it?",
+  "en": "Type: Null seems to want to go with you. Will you take it?",
+  "it": "Sembra che Tipo Zero voglia venire con te. Lo prendi?"
  },
  {
   "id": "\\bDid you see the kids that came through here already?",
@@ -115,16 +120,6 @@
   "it": "\\bVedo che hai fretta."
  },
  {
-  "id": "Type: Null seems to want to go with you. Will you take it?",
-  "en": "Type: Null seems to want to go with you. Will you take it?",
-  "it": "Sembra che Tipo Zero voglia venire con te. Lo prendi?"
- },
- {
-  "id": "\\bWelcome. Where would you like to go?",
-  "en": "\\bWelcome. Where would you like to go?",
-  "it": "\\bBenvenuto. Dove vorresti andare?"
- },
- {
   "id": "\\bSo... you finally came.",
   "en": "\\bSo... you finally came.",
   "it": "\\bE così... finalmente sei venuto."
@@ -135,14 +130,9 @@
   "it": "\\bFinalmente posso tornare a casa. Grazie."
  },
  {
-  "id": "\\bSolgaleo and Lunala will be ours.",
-  "en": "\\bSolgaleo and Lunala will be ours.",
-  "it": "\\bSolgaleo e Lunala saranno nostri."
- },
- {
-  "id": "\\bShould I retreat?",
-  "en": "\\bShould I retreat?",
-  "it": "\\bDovrei ritirarmi?"
+  "id": "\\bWelcome. Where would you like to go?",
+  "en": "\\bWelcome. Where would you like to go?",
+  "it": "\\bBenvenuto. Dove vorresti andare?"
  },
  {
   "id": "\\rHi!",
@@ -155,9 +145,14 @@
   "it": "\\rArrivederci."
  },
  {
-  "id": "\\bBring a Charjabug here sometime. It might cause something special to happen.",
-  "en": "\\bBring a Charjabug here sometime. It might cause something special to happen.",
-  "it": "\\bPorta qui un Charjabug, prima o poi. Potrebbe succedere qualcosa di speciale."
+  "id": "\\bSolgaleo and Lunala will be ours.",
+  "en": "\\bSolgaleo and Lunala will be ours.",
+  "it": "\\bSolgaleo e Lunala saranno nostri."
+ },
+ {
+  "id": "\\bShould I retreat?",
+  "en": "\\bShould I retreat?",
+  "it": "\\bDovrei ritirarmi?"
  },
  {
   "id": "\\bKukui: Everyone else already went ahead. I'll stay here just in case.",
@@ -165,14 +160,9 @@
   "it": "\\bKukui: Gli altri sono già andati avanti. Io resto qui, non si sa mai."
  },
  {
-  "id": "\\rInterference?",
-  "en": "\\rInterference?",
-  "it": "\\rUn'interferenza?"
- },
- {
-  "id": "\\rI was assigned to something special. To lose like this...",
-  "en": "\\rI was assigned to something special. To lose like this...",
-  "it": "\\rMi era stato affidato qualcosa di speciale. Perdere così..."
+  "id": "\\bBring a Charjabug here sometime. It might cause something special to happen.",
+  "en": "\\bBring a Charjabug here sometime. It might cause something special to happen.",
+  "it": "\\bPorta qui un Charjabug, prima o poi. Potrebbe succedere qualcosa di speciale."
  },
  {
   "id": "\\rShowdown time.",
@@ -185,14 +175,14 @@
   "it": "\\rScusa, eri davvero troppo bravo."
  },
  {
-  "id": "\\rHold that pose.",
-  "en": "\\rHold that pose.",
-  "it": "\\rTieni quella posa."
+  "id": "\\rInterference?",
+  "en": "\\rInterference?",
+  "it": "\\rUn'interferenza?"
  },
  {
-  "id": "\\rYour form is amazing.",
-  "en": "\\rYour form is amazing.",
-  "it": "\\rLa tua forma è incredibile."
+  "id": "\\rI was assigned to something special. To lose like this...",
+  "en": "\\rI was assigned to something special. To lose like this...",
+  "it": "\\rMi era stato affidato qualcosa di speciale. Perdere così..."
  },
  {
   "id": "\\bSophocles: \\PN, you're just in time to see my new Vikavolt.",
@@ -208,6 +198,16 @@
   "id": "\\bShe's in the Poni Wilds at the beach.",
   "en": "\\bShe's in the Poni Wilds at the beach.",
   "it": "\\bÈ nelle Piana di Poni, sulla spiaggia."
+ },
+ {
+  "id": "\\rHold that pose.",
+  "en": "\\rHold that pose.",
+  "it": "\\rTieni quella posa."
+ },
+ {
+  "id": "\\rYour form is amazing.",
+  "en": "\\rYour form is amazing.",
+  "it": "\\rLa tua forma è incredibile."
  },
  {
   "id": "Yes",

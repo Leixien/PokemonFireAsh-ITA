@@ -45,14 +45,14 @@
   "it": "\\rHapu: Adesso sono un po' impegnata. Torna più tardi."
  },
  {
-  "id": "\\rYou dare cross my path?",
-  "en": "\\rYou dare cross my path?",
-  "it": "\\rOsi incrociare il mio cammino?"
+  "id": "\\rHapu: Hey \\PN. Want to learn High Horsepower?",
+  "en": "\\rHapu: Hey \\PN. Want to learn High Horsepower?",
+  "it": "\\rHapu: Ehi, \\PN. Vuoi imparare Forza Equina?"
  },
  {
-  "id": "\\rPurely luck.",
-  "en": "\\rPurely luck.",
-  "it": "\\rPura fortuna."
+  "id": "\\rAlright, back to work for me.",
+  "en": "\\rAlright, back to work for me.",
+  "it": "\\rBene, io torno al lavoro."
  },
  {
   "id": "\\rMallow: I finished my new recipe. Now that I'm done I can help you get ready for your trial.",
@@ -63,6 +63,16 @@
   "id": "\\rMallow: I think you're going to do great.",
   "en": "\\rMallow: I think you're going to do great.",
   "it": "\\rIbis: Secondo me andrai alla grande."
+ },
+ {
+  "id": "\\rYou dare cross my path?",
+  "en": "\\rYou dare cross my path?",
+  "it": "\\rOsi incrociare il mio cammino?"
+ },
+ {
+  "id": "\\rPurely luck.",
+  "en": "\\rPurely luck.",
+  "it": "\\rPura fortuna."
  },
  {
   "id": "\\bGladion: I hear you're also looking for the Island Kuhuna. Let's face each other first to see if we're even ready.",

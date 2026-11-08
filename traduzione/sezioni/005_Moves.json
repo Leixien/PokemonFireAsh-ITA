@@ -3705,6 +3705,496 @@
   "it": "Virata"
  },
  {
+  "id": 742,
+  "en": "Dire Claw",
+  "it": "Artigli Fatali"
+ },
+ {
+  "id": 743,
+  "en": "Psyshield Bash",
+  "it": "Barrierassalto"
+ },
+ {
+  "id": 744,
+  "en": "Power Shift",
+  "it": "Scambioforza"
+ },
+ {
+  "id": 745,
+  "en": "Stone Axe",
+  "it": "Rocciascure"
+ },
+ {
+  "id": 746,
+  "en": "Springtide Storm",
+  "it": "Tempesta Zefirea"
+ },
+ {
+  "id": 747,
+  "en": "Mystical Power",
+  "it": "Forza Mistica"
+ },
+ {
+  "id": 748,
+  "en": "Raging Fury",
+  "it": "Ira Furente"
+ },
+ {
+  "id": 749,
+  "en": "Wave Crash",
+  "it": "Ondaschianto"
+ },
+ {
+  "id": 750,
+  "en": "Chloroblast",
+  "it": "Clorofillaser"
+ },
+ {
+  "id": 751,
+  "en": "Mountain Gale",
+  "it": "Soffio d'Iceberg"
+ },
+ {
+  "id": 752,
+  "en": "Victory Dance",
+  "it": "Danzavittoria"
+ },
+ {
+  "id": 753,
+  "en": "Headlong Rush",
+  "it": "Scontro Frontale"
+ },
+ {
+  "id": 754,
+  "en": "Barb Barrage",
+  "it": "Mille Fielespine"
+ },
+ {
+  "id": 755,
+  "en": "Esper Wing",
+  "it": "Ali d'Aura"
+ },
+ {
+  "id": 756,
+  "en": "Bitter Malice",
+  "it": "Livore"
+ },
+ {
+  "id": 757,
+  "en": "Shelter",
+  "it": "Barricata"
+ },
+ {
+  "id": 758,
+  "en": "Triple Arrows",
+  "it": "Triplodardo"
+ },
+ {
+  "id": 759,
+  "en": "Infernal Parade",
+  "it": "Corteo Spettrale"
+ },
+ {
+  "id": 760,
+  "en": "Ceaseless Edge",
+  "it": "Lama Milleflutti"
+ },
+ {
+  "id": 761,
+  "en": "Bleakwind Storm",
+  "it": "Tempesta Boreale"
+ },
+ {
+  "id": 762,
+  "en": "Wildbolt Storm",
+  "it": "Tempesta Tonante"
+ },
+ {
+  "id": 763,
+  "en": "Sandsear Storm",
+  "it": "Tempesta Ardente"
+ },
+ {
+  "id": 764,
+  "en": "Lunar Blessing",
+  "it": "Invocaluna"
+ },
+ {
+  "id": 765,
+  "en": "Take Heart",
+  "it": "Baldimpulso"
+ },
+ {
+  "id": 766,
+  "en": "Trailblaze",
+  "it": "Apripista"
+ },
+ {
+  "id": 767,
+  "en": "Pounce",
+  "it": "Balzo"
+ },
+ {
+  "id": 768,
+  "en": "Ice Spinner",
+  "it": "Vortighiaccio"
+ },
+ {
+  "id": 769,
+  "en": "Chilling Water",
+  "it": "Doccia Fredda"
+ },
+ {
+  "id": 900,
+  "en": "1000000 Sever",
+  "it": "1000000 Tagli"
+ },
+ {
+  "id": 901,
+  "en": "Disarm",
+  "it": "Disarmo"
+ },
+ {
+  "id": 902,
+  "en": "Bloodshed Joust",
+  "it": "Giostra Cruenta"
+ },
+ {
+  "id": 903,
+  "en": "Conqueor's Aura",
+  "it": "Aura del Conquistatore"
+ },
+ {
+  "id": 904,
+  "en": "Tainted Flakes",
+  "it": "Fiocchi Infetti"
+ },
+ {
+  "id": 905,
+  "en": "Cryo Cage",
+  "it": "Criogabbia"
+ },
+ {
+  "id": 906,
+  "en": "Glacial Road",
+  "it": "Via Glaciale"
+ },
+ {
+  "id": 907,
+  "en": "Hunger Times",
+  "it": "Tempi di Fame"
+ },
+ {
+  "id": 908,
+  "en": "Negation: Physical",
+  "it": "Negazione: Fisica"
+ },
+ {
+  "id": 909,
+  "en": "Negation: Special",
+  "it": "Negazione: Speciale"
+ },
+ {
+  "id": 910,
+  "en": "Negation: Status",
+  "it": "Negazione: Stato"
+ },
+ {
+  "id": 911,
+  "en": "UUDDLRLRBAS",
+  "it": "UUDDLRLRBAS"
+ },
+ {
+  "id": 912,
+  "en": "Stormcall Blitz",
+  "it": "Assalto Tempesta"
+ },
+ {
+  "id": 913,
+  "en": "Roaring Torrents",
+  "it": "Torrenti Ruggenti"
+ },
+ {
+  "id": 914,
+  "en": "Doomsfall",
+  "it": "Caduta Fatale"
+ },
+ {
+  "id": 915,
+  "en": "Blue Barrage",
+  "it": "Raffica Blu"
+ },
+ {
+  "id": 916,
+  "en": "Draconic Fume",
+  "it": "Fumo Draconico"
+ },
+ {
+  "id": 917,
+  "en": "Forbidden Cry",
+  "it": "Grido Proibito"
+ },
+ {
+  "id": 918,
+  "en": "Black Plague",
+  "it": "Peste Nera"
+ },
+ {
+  "id": 919,
+  "en": "Burial Ground",
+  "it": "Cimitero"
+ },
+ {
+  "id": 920,
+  "en": "Life Force Nuke",
+  "it": "Bomba Vitale"
+ },
+ {
+  "id": 921,
+  "en": "Phalanx Seal",
+  "it": "Sigillo Falange"
+ },
+ {
+  "id": 922,
+  "en": "Devil's Room",
+  "it": "Stanza del Diavolo"
+ },
+ {
+  "id": 923,
+  "en": "Tera Scramble",
+  "it": "Teramischia"
+ },
+ {
+  "id": 930,
+  "en": "World-Ending Judgment",
+  "it": "Giudizio Finale"
+ },
+ {
+  "id": 931,
+  "en": "Ghostly Stealth Rock",
+  "it": "Levitoroccia Spettrale"
+ },
+ {
+  "id": 932,
+  "en": "Multi-Coloured Spikes",
+  "it": "Punte Multicolori"
+ },
+ {
+  "id": 933,
+  "en": "Giga Explosion",
+  "it": "Gigaesplosione"
+ },
+ {
+  "id": 934,
+  "en": "Spirit Bomb Aura Sphere",
+  "it": "Genkidama Forzasfera"
+ },
+ {
+  "id": 935,
+  "en": "G-Max Aura Sphere",
+  "it": "G-Max Forzasfera"
+ },
+ {
+  "id": 936,
+  "en": "Z Aura Sphere",
+  "it": "Forzasfera Z"
+ },
+ {
+  "id": 937,
+  "en": "Dismantle",
+  "it": "Smantella"
+ },
+ {
+  "id": 938,
+  "en": "Cleave",
+  "it": "Fendente"
+ },
+ {
+  "id": 939,
+  "en": "Hollow Purple Spacial Rend",
+  "it": "Viola Cavo Fendispazio"
+ },
+ {
+  "id": 940,
+  "en": "GG Giga Impact",
+  "it": "GG Gigaimpatto"
+ },
+ {
+  "id": 945,
+  "en": "Roar of Za Warudo's Time",
+  "it": "Fragortempo Za Warudo"
+ },
+ {
+  "id": 946,
+  "en": "Roar of Time",
+  "it": "Fragortempo"
+ },
+ {
+  "id": 947,
+  "en": "Steel Beam",
+  "it": "Raggio d'Acciaio"
+ },
+ {
+  "id": 948,
+  "en": "Singularity Point",
+  "it": "Punto di Singolarità"
+ },
+ {
+  "id": 949,
+  "en": "Infinite Extreme Speed",
+  "it": "Extrarapido Infinito"
+ },
+ {
+  "id": 950,
+  "en": "Heavenly Dash",
+  "it": "Scatto Celeste"
+ },
+ {
+  "id": 951,
+  "en": "Crazy Diamond",
+  "it": "Crazy Diamond"
+ },
+ {
+  "id": 952,
+  "en": "The Hand",
+  "it": "The Hand"
+ },
+ {
+  "id": 953,
+  "en": "Heaven's Door",
+  "it": "Heaven's Door"
+ },
+ {
+  "id": 954,
+  "en": "S. Heart Attack",
+  "it": "S. Heart Attack"
+ },
+ {
+  "id": 955,
+  "en": "Purple Haze",
+  "it": "Purple Haze"
+ },
+ {
+  "id": 956,
+  "en": "White Album",
+  "it": "White Album"
+ },
+ {
+  "id": 957,
+  "en": "Metallica",
+  "it": "Metallica"
+ },
+ {
+  "id": 958,
+  "en": "Notorious B.I.G.",
+  "it": "Notorious B.I.G."
+ },
+ {
+  "id": 959,
+  "en": "Love Train",
+  "it": "Love Train"
+ },
+ {
+  "id": 960,
+  "en": "Ball Breaker",
+  "it": "Ball Breaker"
+ },
+ {
+  "id": 961,
+  "en": "Silent Way",
+  "it": "Silent Way"
+ },
+ {
+  "id": 962,
+  "en": "Scary Monster",
+  "it": "Scary Monster"
+ },
+ {
+  "id": 963,
+  "en": "Speed King",
+  "it": "Speed King"
+ },
+ {
+  "id": 964,
+  "en": "Fun Fun Fun",
+  "it": "Fun Fun Fun"
+ },
+ {
+  "id": 965,
+  "en": "Soft & Wet",
+  "it": "Soft & Wet"
+ },
+ {
+  "id": 966,
+  "en": "Vitamin C",
+  "it": "Vitamin C"
+ },
+ {
+  "id": 987,
+  "en": "Normal Wish",
+  "it": "Desiderio Normale"
+ },
+ {
+  "id": 988,
+  "en": "Ice Wish",
+  "it": "Desiderio Ghiaccio"
+ },
+ {
+  "id": 989,
+  "en": "Fighting Wish",
+  "it": "Desiderio Lotta"
+ },
+ {
+  "id": 990,
+  "en": "Poison Wish",
+  "it": "Desiderio Veleno"
+ },
+ {
+  "id": 991,
+  "en": "Ground Wish",
+  "it": "Desiderio Terra"
+ },
+ {
+  "id": 992,
+  "en": "Flying Wish",
+  "it": "Desiderio Volante"
+ },
+ {
+  "id": 993,
+  "en": "Bug Wish",
+  "it": "Desiderio Coleottero"
+ },
+ {
+  "id": 994,
+  "en": "Rock Wish",
+  "it": "Desiderio Roccia"
+ },
+ {
+  "id": 995,
+  "en": "Ghost Wish",
+  "it": "Desiderio Spettro"
+ },
+ {
+  "id": 996,
+  "en": "Dragon Wish",
+  "it": "Desiderio Drago"
+ },
+ {
+  "id": 997,
+  "en": "Dark Wish",
+  "it": "Desiderio Buio"
+ },
+ {
+  "id": 998,
+  "en": "Steel Wish",
+  "it": "Desiderio Acciaio"
+ },
+ {
+  "id": 999,
+  "en": "Fairy Wish",
+  "it": "Desiderio Folletto"
+ },
+ {
   "id": 1000,
   "en": "Breakneck Blitz",
   "it": "Carica Travolgente"
@@ -4140,123 +4630,718 @@
   "it": "Gigacolpo Fluido"
  },
  {
-  "id": 1087,
-  "en": "Dire Claw",
-  "it": "Artigli Fatali"
- },
- {
-  "id": 1088,
-  "en": "Psyshield Bash",
-  "it": "Barrierassalto"
- },
- {
-  "id": 1089,
-  "en": "Power Shift",
-  "it": "Scambioforza"
- },
- {
-  "id": 1090,
-  "en": "Stone Axe",
-  "it": "Rocciascure"
- },
- {
-  "id": 1091,
-  "en": "Springtide Storm",
-  "it": "Tempesta Zefirea"
- },
- {
-  "id": 1092,
-  "en": "Mystical Power",
-  "it": "Forza Mistica"
- },
- {
-  "id": 1093,
-  "en": "Raging Fury",
-  "it": "Ira Furente"
- },
- {
-  "id": 1094,
-  "en": "Wave Crash",
-  "it": "Ondaschianto"
- },
- {
-  "id": 1095,
-  "en": "Chloroblast",
-  "it": "Clorofillaser"
- },
- {
-  "id": 1096,
-  "en": "Mountain Gale",
-  "it": "Soffio d'Iceberg"
- },
- {
-  "id": 1097,
-  "en": "Victory Dance",
-  "it": "Danzavittoria"
- },
- {
-  "id": 1098,
-  "en": "Headlong Rush",
-  "it": "Scontro Frontale"
- },
- {
-  "id": 1099,
-  "en": "Barb Barrage",
-  "it": "Mille Fielespine"
- },
- {
   "id": 1100,
-  "en": "Esper Wing",
-  "it": "Ali d'Aura"
+  "en": "Rock-Solid Finisher!",
+  "it": "Finale di Roccia!"
  },
  {
   "id": 1101,
-  "en": "Bitter Malice",
-  "it": "Livore"
+  "en": "Go with the Flow!",
+  "it": "Segui la Corrente!"
  },
  {
   "id": 1102,
-  "en": "Shelter",
-  "it": "Barricata"
+  "en": "Soak up the Sun!",
+  "it": "Goditi il Sole!"
  },
  {
   "id": 1103,
-  "en": "Triple Arrows",
-  "it": "Triplodardo"
+  "en": "My Destiny!",
+  "it": "Il Mio Destino!"
  },
  {
   "id": 1104,
-  "en": "Infernal Parade",
-  "it": "Corteo Spettrale"
+  "en": "Spark of Victory!",
+  "it": "Scintilla di Vittoria!"
  },
  {
   "id": 1105,
-  "en": "Ceaseless Edge",
-  "it": "Lama Milleflutti"
+  "en": "Believe!",
+  "it": "Credici!"
  },
  {
   "id": 1106,
-  "en": "Bleakwind Storm",
-  "it": "Tempesta Boreale"
+  "en": "This is it!",
+  "it": "Ci Siamo!"
  },
  {
   "id": 1107,
-  "en": "Wildbolt Storm",
-  "it": "Tempesta Tonante"
+  "en": "Voice of the Forest!",
+  "it": "Voce della Foresta!"
  },
  {
   "id": 1108,
-  "en": "Sandsear Storm",
-  "it": "Tempesta Ardente"
+  "en": "Spring of Knowledge!",
+  "it": "Fonte di Sapere!"
  },
  {
   "id": 1109,
-  "en": "Lunar Blessing",
-  "it": "Invocaluna"
+  "en": "I Won't Leave You!",
+  "it": "Non Ti Lascerò!"
  },
  {
   "id": 1110,
-  "en": "Take Heart",
-  "it": "Baldimpulso"
+  "en": "Flying Free!",
+  "it": "Volo Libero!"
+ },
+ {
+  "id": 1111,
+  "en": "Fired Up!",
+  "it": "Carichissimo!"
+ },
+ {
+  "id": 1112,
+  "en": "Try This!",
+  "it": "Prova Questa!"
+ },
+ {
+  "id": 1113,
+  "en": "Attack!",
+  "it": "All'Attacco!"
+ },
+ {
+  "id": 1114,
+  "en": "Faster!",
+  "it": "Più Veloce!"
+ },
+ {
+  "id": 1115,
+  "en": "Defend!",
+  "it": "In Difesa!"
+ },
+ {
+  "id": 1116,
+  "en": "I Won't Fall Behind!",
+  "it": "Non Resterò Indietro!"
+ },
+ {
+  "id": 1117,
+  "en": "Perpetual Nightmare!",
+  "it": "Incubo Eterno!"
+ },
+ {
+  "id": 1118,
+  "en": "Eyes on the Prize!",
+  "it": "Occhi sul Premio!"
+ },
+ {
+  "id": 1119,
+  "en": "Show Me Your Secrets!",
+  "it": "Svelami i Segreti!"
+ },
+ {
+  "id": 1120,
+  "en": "It Won't End Here!",
+  "it": "Non Finisce Qui!"
+ },
+ {
+  "id": 1121,
+  "en": "Sweet Dreams!",
+  "it": "Sogni d'Oro!"
+ },
+ {
+  "id": 1122,
+  "en": "Breathtaking!",
+  "it": "Mozzafiato!"
+ },
+ {
+  "id": 1123,
+  "en": "Sink or Swim!",
+  "it": "O la Va o la Spacca!"
+ },
+ {
+  "id": 1124,
+  "en": "For the Win!",
+  "it": "Per la Vittoria!"
+ },
+ {
+  "id": 1125,
+  "en": "Perfect Aim!",
+  "it": "Mira Perfetta!"
+ },
+ {
+  "id": 1126,
+  "en": "My Formula!",
+  "it": "La Mia Formula!"
+ },
+ {
+  "id": 1127,
+  "en": "Poison on Stage!",
+  "it": "Veleno in Scena!"
+ },
+ {
+  "id": 1128,
+  "en": "Feel Our Feelings!",
+  "it": "Senti il Nostro Cuore!"
+ },
+ {
+  "id": 1129,
+  "en": "Greater Heights!",
+  "it": "Sempre Più in Alto!"
+ },
+ {
+  "id": 1130,
+  "en": "The Curtain Rises!",
+  "it": "Si Alza il Sipario!"
+ },
+ {
+  "id": 1131,
+  "en": "Blazing Belief!",
+  "it": "Fede Ardente!"
+ },
+ {
+  "id": 1132,
+  "en": "Luminous Love!",
+  "it": "Amore Luminoso!"
+ },
+ {
+  "id": 1133,
+  "en": "Maximum Power!",
+  "it": "Potenza Massima!"
+ },
+ {
+  "id": 1134,
+  "en": "Cast the Line!",
+  "it": "Lancia la Lenza!"
+ },
+ {
+  "id": 1135,
+  "en": "Now I'm Angry!",
+  "it": "Ora Sono Arrabbiato!"
+ },
+ {
+  "id": 1136,
+  "en": "Pretty as a Painting!",
+  "it": "Bello come un Quadro!"
+ },
+ {
+  "id": 1137,
+  "en": "My Soul is Shaking!",
+  "it": "L'Anima Mi Trema!"
+ },
+ {
+  "id": 1138,
+  "en": "Eternal Power!",
+  "it": "Potere Eterno!"
+ },
+ {
+  "id": 1139,
+  "en": "The Show Begins!",
+  "it": "Che lo Show Abbia Inizio!"
+ },
+ {
+  "id": 1140,
+  "en": "The Train is Leaving!",
+  "it": "Il Treno Parte!"
+ },
+ {
+  "id": 1141,
+  "en": "Aim for Victory!",
+  "it": "Punta alla Vittoria!"
+ },
+ {
+  "id": 1142,
+  "en": "World of Pain!",
+  "it": "Mondo di Dolore!"
+ },
+ {
+  "id": 1143,
+  "en": "Endless Ambition!",
+  "it": "Ambizione Infinita!"
+ },
+ {
+  "id": 1144,
+  "en": "To the Top!",
+  "it": "Fino in Cima!"
+ },
+ {
+  "id": 1145,
+  "en": "Mega Healing!",
+  "it": "Megacura!"
+ },
+ {
+  "id": 1146,
+  "en": "Flow Like Water!",
+  "it": "Fluisci come l'Acqua!"
+ },
+ {
+  "id": 1147,
+  "en": "Shining Moonlight!",
+  "it": "Chiaro di Luna Splendente!"
+ },
+ {
+  "id": 1148,
+  "en": "Truth Will Prevail!",
+  "it": "La Verità Vincerà!"
+ },
+ {
+  "id": 1149,
+  "en": "Sky High!",
+  "it": "Alle Stelle!"
+ },
+ {
+  "id": 1150,
+  "en": "Best Friends!",
+  "it": "Migliori Amici!"
+ },
+ {
+  "id": 1151,
+  "en": "Ready for Takeoff!",
+  "it": "Pronti al Decollo!"
+ },
+ {
+  "id": 1152,
+  "en": "Can't Be Tamed!",
+  "it": "Indomabile!"
+ },
+ {
+  "id": 1153,
+  "en": "Glory of Tommorow!",
+  "it": "Gloria del Domani!"
+ },
+ {
+  "id": 1154,
+  "en": "Glory of Understanding!",
+  "it": "Gloria della Comprensione!"
+ },
+ {
+  "id": 1155,
+  "en": "Triumphant Spirit!",
+  "it": "Spirito Trionfante!"
+ },
+ {
+  "id": 1156,
+  "en": "Triumphant Research!",
+  "it": "Ricerca Trionfante!"
+ },
+ {
+  "id": 1157,
+  "en": "Triumphant Tenacity!",
+  "it": "Tenacia Trionfante!"
+ },
+ {
+  "id": 1158,
+  "en": "Glory of the Winning Path!",
+  "it": "Gloria della Via Vincente!"
+ },
+ {
+  "id": 1159,
+  "en": "Glory of the Flame!",
+  "it": "Gloria della Fiamma!"
+ },
+ {
+  "id": 1160,
+  "en": "Glory of Leadership!",
+  "it": "Gloria del Comando!"
+ },
+ {
+  "id": 1161,
+  "en": "Glory of the Challenge!",
+  "it": "Gloria della Sfida!"
+ },
+ {
+  "id": 1162,
+  "en": "Ode to Glory!",
+  "it": "Ode alla Gloria!"
+ },
+ {
+  "id": 1163,
+  "en": "Eyes on Glory!",
+  "it": "Occhi sulla Gloria!"
+ },
+ {
+  "id": 1164,
+  "en": "Thoughts of Glory",
+  "it": "Pensieri di Gloria"
+ },
+ {
+  "id": 1165,
+  "en": "First Step to Glory",
+  "it": "Primo Passo verso la Gloria"
+ },
+ {
+  "id": 1166,
+  "en": "Starry Sky of Glory",
+  "it": "Cielo Stellato di Gloria"
+ },
+ {
+  "id": 1167,
+  "en": "Blue Sky of Glory",
+  "it": "Cielo Azzurro di Gloria"
+ },
+ {
+  "id": 1168,
+  "en": "Sunward Glory",
+  "it": "Gloria Solare"
+ },
+ {
+  "id": 1169,
+  "en": "Moonlit Glory",
+  "it": "Gloria Lunare"
+ },
+ {
+  "id": 1200,
+  "en": "Superior Aura Sphere",
+  "it": "Forzasfera Superiore"
+ },
+ {
+  "id": 1201,
+  "en": "Origin Volt Tackle",
+  "it": "Locomovolt Originale"
+ },
+ {
+  "id": 1202,
+  "en": "Ultimate Dazzling Gleam",
+  "it": "Magibrillio Supremo"
+ },
+ {
+  "id": 1203,
+  "en": "Techno Blast",
+  "it": "Tecnobotto"
+ },
+ {
+  "id": 1204,
+  "en": "Resonating Noble Roar",
+  "it": "Urlo Risonante"
+ },
+ {
+  "id": 1205,
+  "en": "Pink Diamond Storm",
+  "it": "Diamantempesta Rosa"
+ },
+ {
+  "id": 1206,
+  "en": "Heat Hydro Pump",
+  "it": "Idropompa Ardente"
+ },
+ {
+  "id": 1207,
+  "en": "Wild Electroweb",
+  "it": "Elettrotela Selvaggia"
+ },
+ {
+  "id": 1208,
+  "en": "Neo Psycho Cut",
+  "it": "Neo Psicotaglio"
+ },
+ {
+  "id": 1209,
+  "en": "Unbreakable Swords Dance",
+  "it": "Danzaspada Infrangibile"
+ },
+ {
+  "id": 1210,
+  "en": "Sea Deity Protect",
+  "it": "Protezione Dio del Mare"
+ },
+ {
+  "id": 1211,
+  "en": "Crushing Triple Axel",
+  "it": "Triplo Axel Schiacciante"
+ },
+ {
+  "id": 1212,
+  "en": "Frenzied Sludge Wave",
+  "it": "Fangonda Frenetica"
+ },
+ {
+  "id": 1213,
+  "en": "Sorrowful Echos Overdrive",
+  "it": "Overdrive dell'Eco Dolente"
+ },
+ {
+  "id": 1214,
+  "en": "Piercing Fleur Cannon",
+  "it": "Cannonfiore Perforante"
+ },
+ {
+  "id": 1215,
+  "en": "Rising Flames Hex",
+  "it": "Sciagura delle Fiamme Ascendenti"
+ },
+ {
+  "id": 1216,
+  "en": "Descending Lightning Wild Charge",
+  "it": "Sprizzalampo del Fulmine Discendente"
+ },
+ {
+  "id": 1217,
+  "en": "Stockpile",
+  "it": "Accumulo"
+ },
+ {
+  "id": 1218,
+  "en": "Guzzling Swallow",
+  "it": "Introenergia Ingorda"
+ },
+ {
+  "id": 1219,
+  "en": "Gorging Crunch",
+  "it": "Sgranocchio Vorace"
+ },
+ {
+  "id": 1250,
+  "en": "Boundless Quick Attack",
+  "it": "Attacco Rapido Illimitato"
+ },
+ {
+  "id": 1251,
+  "en": "Transformational Double Team",
+  "it": "Doppioteam Trasformista"
+ },
+ {
+  "id": 1252,
+  "en": "Fierce Fiery Wrath",
+  "it": "Furia Ardente Feroce"
+ },
+ {
+  "id": 1253,
+  "en": "Roaring Thunderous Kick",
+  "it": "Calcio Tonante Ruggente"
+ },
+ {
+  "id": 1254,
+  "en": "Intimidating Freezing Glare",
+  "it": "Sguardo Gelido Intimidatorio"
+ },
+ {
+  "id": 1255,
+  "en": "Frozen Wings Ice Beam",
+  "it": "Geloraggio delle Ali Gelate"
+ },
+ {
+  "id": 1256,
+  "en": "Thundering Wings Roost",
+  "it": "Trespolo delle Ali Tonanti"
+ },
+ {
+  "id": 1257,
+  "en": "Fiery Wings Flare Blitz",
+  "it": "Fuococarica delle Ali Ardenti"
+ },
+ {
+  "id": 1258,
+  "en": "Dark Black Outrage",
+  "it": "Oltraggio Nero Tenebra"
+ },
+ {
+  "id": 1259,
+  "en": "Relic Song of Wonder",
+  "it": "Cantoantico Meraviglioso"
+ },
+ {
+  "id": 1260,
+  "en": "Massive Rock Slide",
+  "it": "Frana Colossale"
+ },
+ {
+  "id": 1261,
+  "en": "Black Gale Bleakwind Storm",
+  "it": "Tempesta Boreale Bufera Nera"
+ },
+ {
+  "id": 1262,
+  "en": "White Light Sacred Sword",
+  "it": "Spadasolenne Luce Bianca"
+ },
+ {
+  "id": 1263,
+  "en": "Blue Origin Pulse",
+  "it": "Primopulsar Blu"
+ },
+ {
+  "id": 1264,
+  "en": "Red Precipice Blades",
+  "it": "Spade Telluriche Rosse"
+ },
+ {
+  "id": 1265,
+  "en": "Solar Sunsteel Strike",
+  "it": "Astrocarica Solare"
+ },
+ {
+  "id": 1266,
+  "en": "Lunar Moongeist Beam",
+  "it": "Raggio d'Ombra Lunare"
+ },
+ {
+  "id": 1300,
+  "en": "Greatest Battle!",
+  "it": "La Lotta Suprema!"
+ },
+ {
+  "id": 1301,
+  "en": "We're the Strongest!",
+  "it": "Siamo i Più Forti!"
+ },
+ {
+  "id": 1302,
+  "en": "Let's Get Serious!",
+  "it": "Facciamo sul Serio!"
+ },
+ {
+  "id": 1303,
+  "en": "Passion Ablaze!",
+  "it": "Passione Ardente!"
+ },
+ {
+  "id": 1304,
+  "en": "Behold My Love!",
+  "it": "Ammira il Mio Amore!"
+ },
+ {
+  "id": 1305,
+  "en": "We Are One!",
+  "it": "Siamo Una Cosa Sola!"
+ },
+ {
+  "id": 1306,
+  "en": "Pure and Strong!",
+  "it": "Puro e Forte!"
+ },
+ {
+  "id": 1307,
+  "en": "Shining Soul!",
+  "it": "Anima Splendente!"
+ },
+ {
+  "id": 1308,
+  "en": "I'll Tell You!",
+  "it": "Te lo Dico Io!"
+ },
+ {
+  "id": 1309,
+  "en": "Rock-Hard Bond!",
+  "it": "Legame di Roccia!"
+ },
+ {
+  "id": 1310,
+  "en": "Endure and Attack!",
+  "it": "Resisti e Attacca!"
+ },
+ {
+  "id": 1320,
+  "en": "Almighty Rending Earthquake",
+  "it": "Terremoto Squarciante Onnipotente"
+ },
+ {
+  "id": 1321,
+  "en": "Catacylsmic Divine Earthquake",
+  "it": "Terremoto Divino Cataclismico"
+ },
+ {
+  "id": 1322,
+  "en": "Almighty Flash Bullet Punch",
+  "it": "Pugnoscarica Lampo Onnipotente"
+ },
+ {
+  "id": 1323,
+  "en": "Polished Steel Divine Meteor Mash",
+  "it": "Meteorpugno Divino d'Acciaio Lucente"
+ },
+ {
+  "id": 1324,
+  "en": "Almighty Roar Hyper Beam",
+  "it": "Iper Raggio Ruggito Onnipotente"
+ },
+ {
+  "id": 1325,
+  "en": "Heroic Ascension Divine Outrage",
+  "it": "Oltraggio Divino Ascesa Eroica"
+ },
+ {
+  "id": 1326,
+  "en": "Almighty Fire Blast",
+  "it": "Fuocobomba Onnipotente"
+ },
+ {
+  "id": 1327,
+  "en": "Fiery Determination Divine Fire Blast",
+  "it": "Fuocobomba Divino Volontà Ardente"
+ },
+ {
+  "id": 1328,
+  "en": "Almighty Obsidian Night Daze",
+  "it": "Urtoscuro Ossidiana Onnipotente"
+ },
+ {
+  "id": 1329,
+  "en": "Shape-Shifting Divine Night Daze",
+  "it": "Urtoscuro Divino Mutaforma"
+ },
+ {
+  "id": 1330,
+  "en": "Almighty Sun Hyper Beam",
+  "it": "Iper Raggio Solare Onnipotente"
+ },
+ {
+  "id": 1331,
+  "en": "Unmatched Talent Divine Bug Buzz",
+  "it": "Ronzio Divino Talento Unico"
+ },
+ {
+  "id": 1332,
+  "en": "Almighty Skies Sacred Fire",
+  "it": "Magifuoco dei Cieli Onnipotente"
+ },
+ {
+  "id": 1333,
+  "en": "Golden Rule Divine Sacred Fire",
+  "it": "Magifuoco Divino Regola d'Oro"
+ },
+ {
+  "id": 1334,
+  "en": "Almighty Seas Aeroblast",
+  "it": "Aerocolpo dei Mari Onnipotente"
+ },
+ {
+  "id": 1335,
+  "en": "Silver Torrents Divine Aeroblast",
+  "it": "Aerocolpo Divino Torrenti d'Argento"
+ },
+ {
+  "id": 1336,
+  "en": "Sacred Hurricane",
+  "it": "Tifone Sacro"
+ },
+ {
+  "id": 1337,
+  "en": "Almighty Air Slash",
+  "it": "Eterelama Onnipotente"
+ },
+ {
+  "id": 1338,
+  "en": "Blue Beyond the Clouds Almighty Hurricane",
+  "it": "Tifone Onnipotente Azzurro oltre le Nubi"
+ },
+ {
+  "id": 1339,
+  "en": "Almighty Rock Slide",
+  "it": "Frana Onnipotente"
+ },
+ {
+  "id": 1340,
+  "en": "Almighty Stone Edge",
+  "it": "Pietrataglio Onnipotente"
+ },
+ {
+  "id": 1341,
+  "en": "Unbreakable Loyalty Divine Rock Slide",
+  "it": "Frana Divina Lealtà Infrangibile"
+ },
+ {
+  "id": 1342,
+  "en": "Almighty Bubble Beam",
+  "it": "Bollaraggio Onnipotente"
+ },
+ {
+  "id": 1343,
+  "en": "Almighty Hydro Pump",
+  "it": "Idropompa Onnipotente"
+ },
+ {
+  "id": 1344,
+  "en": "Piercing Droplets Divine Bubble Beam",
+  "it": "Bollaraggio Divino Gocce Perforanti"
  }
 ]

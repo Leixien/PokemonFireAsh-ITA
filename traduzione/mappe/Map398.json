@@ -55,9 +55,9 @@
   "it": "\\bWalter: Wahaha. Sei diventato forte. Continua così."
  },
  {
-  "id": "\\bWattson uses Electric type Pokémon. They are weak aganst only the Ground type.",
-  "en": "\\bWattson uses Electric type Pokémon. They are weak aganst only the Ground type.",
-  "it": "\\bWalter usa Pokémon di tipo Elettro. Sono deboli soltanto contro il tipo Terra."
+  "id": "\\bWattson uses Electric type Pokémon. They are weak against only the Ground type.",
+  "en": "\\bWattson uses Electric type Pokémon. They are weak against only the Ground type.",
+  "it": "\\bWalter usa Pokémon di tipo Elettro. Sono deboli solo contro il tipo Terra."
  },
  {
   "id": "\\bThey are strong against Flying and Water. Flying, Electric, and Steel moves also don't do much damage.",

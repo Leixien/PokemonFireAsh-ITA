@@ -10,14 +10,14 @@
   "it": "In costruzione."
  },
  {
-  "id": "\\rI can't wait to start my own journey one day.",
-  "en": "\\rI can't wait to start my own journey one day.",
-  "it": "\\rNon vedo l'ora di iniziare un giorno il mio viaggio."
- },
- {
   "id": "\\bBoldore",
   "en": "\\bBoldore",
   "it": "\\bBoldore"
+ },
+ {
+  "id": "\\rI can't wait to start my own journey one day.",
+  "en": "\\rI can't wait to start my own journey one day.",
+  "it": "\\rNon vedo l'ora di iniziare un giorno il mio viaggio."
  },
  {
   "id": "Aspertia City\\nA city that reaches for the sky.",
@@ -25,9 +25,9 @@
   "it": "Alisopoli\\nUna città che si protende verso il cielo."
  },
  {
-  "id": "\\bEveryone is helping out to get the gym ready.",
-  "en": "\\bEveryone is helping out to get the gym ready.",
-  "it": "\\bTutti stanno dando una mano per preparare la Palestra."
+  "id": "\\bEkans",
+  "en": "\\bEkans",
+  "it": "\\bEkans"
  },
  {
   "id": "\\bThis leads to the White Ruins. Only Cheren can say who goes here.",
@@ -35,14 +35,9 @@
   "it": "\\bDi qui si va alle Rovine Bianche. Solo Komor può decidere chi entra."
  },
  {
-  "id": "\\bEkans",
-  "en": "\\bEkans",
-  "it": "\\bEkans"
- },
- {
-  "id": "\\bThe White Ruins is near here. Only powerful Trainers are allowed to enter.",
-  "en": "\\bThe White Ruins is near here. Only powerful Trainers are allowed to enter.",
-  "it": "\\bLe Rovine Bianche sono qui vicino. Solo gli Allenatori forti possono entrare."
+  "id": "\\bEveryone is helping out to get the gym ready.",
+  "en": "\\bEveryone is helping out to get the gym ready.",
+  "it": "\\bTutti stanno dando una mano per preparare la Palestra."
  },
  {
   "id": "\\rAlexa: Ah, hello there. Are you one of the natives?",
@@ -75,14 +70,19 @@
   "it": "\\rAlexa: Io ora torno a casa. Ti consiglierei di fare lo stesso."
  },
  {
-  "id": "\\bYou look strong. Maybe you can go battle Cheren for me. He needs some practice.",
-  "en": "\\bYou look strong. Maybe you can go battle Cheren for me. He needs some practice.",
-  "it": "\\bSembri forte. Magari puoi andare a sfidare Komor al posto mio. Ha bisogno di fare pratica."
+  "id": "\\bThe White Ruins is near here. Only powerful Trainers are allowed to enter.",
+  "en": "\\bThe White Ruins is near here. Only powerful Trainers are allowed to enter.",
+  "it": "\\bLe Rovine Bianche sono qui vicino. Solo gli Allenatori forti possono entrare."
  },
  {
   "id": "\\rKrabby",
   "en": "\\rKrabby",
   "it": "\\rKrabby"
+ },
+ {
+  "id": "\\bYou look strong. Maybe you can go battle Cheren for me. He needs some practice.",
+  "en": "\\bYou look strong. Maybe you can go battle Cheren for me. He needs some practice.",
+  "it": "\\bSembri forte. Magari puoi andare a sfidare Komor al posto mio. Ha bisogno di fare pratica."
  },
  {
   "id": "\\rWant to learn Secret Sword?",
@@ -98,11 +98,6 @@
   "id": "\\bI heard Cheren said you could enter. Good luck.",
   "en": "\\bI heard Cheren said you could enter. Good luck.",
   "it": "\\bHo sentito che Komor ti ha dato il permesso di entrare. Buona fortuna."
- },
- {
-  "id": "\\bWe are finally getting a gym leader! The tourists are going to be coming any day now.",
-  "en": "\\bWe are finally getting a gym leader! The tourists are going to be coming any day now.",
-  "it": "\\bFinalmente avremo un Capopalestra! I turisti arriveranno da un giorno all'altro."
  },
  {
   "id": "\\rAh, there you are! My husband was looking for you.",
@@ -220,9 +215,9 @@
   "it": "\\rVuoi riprenderti anche l'altro?"
  },
  {
-  "id": "\\rYou've already entered the league? You're a special Trainer alright.",
-  "en": "\\rYou've already entered the league? You're a special Trainer alright.",
-  "it": "\\rSei già entrato nella Lega? Sei proprio un Allenatore speciale."
+  "id": "\\bWe are finally getting a gym leader! The tourists are going to be coming any day now.",
+  "en": "\\bWe are finally getting a gym leader! The tourists are going to be coming any day now.",
+  "it": "\\bFinalmente avremo un Capopalestra! I turisti arriveranno da un giorno all'altro."
  },
  {
   "id": "\\bAh, it's you!",
@@ -333,6 +328,11 @@
   "id": "\\bThe two seem to get along very well.",
   "en": "\\bThe two seem to get along very well.",
   "it": "\\bQuei due sembrano andare molto d'accordo."
+ },
+ {
+  "id": "\\rYou've already entered the league? You're a special Trainer alright.",
+  "en": "\\rYou've already entered the league? You're a special Trainer alright.",
+  "it": "\\rSei già entrato nella Lega? Sei proprio un Allenatore speciale."
  },
  {
   "id": "Yes",

@@ -1,8 +1,8 @@
 [
  {
-  "id": "\\bThe Kanto Grand Festival is going to be held here. Come back later when we are set up.",
-  "en": "\\bThe Kanto Grand Festival is going to be held here.  Come back later when we are set up.",
-  "it": "\\bIl Grand Festival di Kanto si terrà qui.  Torna più tardi, quando avremo finito di allestire."
+  "id": "\\rThe Kanto Grand Festival is going to be held here. Come back later when we are set up.",
+  "en": "\\rThe Kanto Grand Festival is going to be held here.  Come back later when we are set up.",
+  "it": "\\rQui si terrà il Grand Festival di Kanto.  Torna più tardi, quando avremo finito di allestire."
  },
  {
   "id": "\\bButterfree, this is not the time! Calm down.",
@@ -18,6 +18,11 @@
   "id": "\\bA word of advice: don't focus on just one type. Try using multiple types to ensure a victory.",
   "en": "\\bA word of advice: don't focus on just one type. Try using multiple types to ensure a victory.",
   "it": "\\bUn consiglio: non concentrarti su un solo tipo. Prova a usare tipi diversi per assicurarti la vittoria."
+ },
+ {
+  "id": "\\bJames: Welcome to our shop.",
+  "en": "\\bJames: Welcome to our shop.",
+  "it": "\\bJames: Benvenuti nel nostro negozio."
  },
  {
   "id": "\\bBrock: Hey \\PN! I heard you got eight badges, so I came to support you. You've been doing great advancing through the matches.",
@@ -46,8 +51,8 @@
  },
  {
   "id": "\\bBrock: There! \\v[2] looks a lot better now!",
-  "en": "\\bBrock: There!  \\v[2] looks a lot better now!",
-  "it": "\\bBrock: Ecco fatto!  \\v[2] ha un aspetto molto migliore ora!"
+  "en": "\\bBrock: There! \\v[2] looks a lot better now!",
+  "it": "\\bBrock: Ecco! \\v[2] sta molto meglio adesso!"
  },
  {
   "id": "\\bBrock: Hey \\PN. You here to support May too?",
@@ -60,14 +65,14 @@
   "it": "\\bSono qui anche per Solidad. Siamo cresciuti entrambi a Plumbeopoli."
  },
  {
-  "id": "\\bJames: Welcome to our shop.",
-  "en": "\\bJames: Welcome to our shop.",
-  "it": "\\bJames: Benvenuti nel nostro negozio."
- },
- {
   "id": "\\bI only got 7 badges. I decided to come anyways.",
   "en": "\\bI only got 7 badges. I decided to come anyways.",
   "it": "\\bHo ottenuto solo 7 medaglie. Ho deciso di venire comunque."
+ },
+ {
+  "id": "\\rJessie: How can we help you?",
+  "en": "\\rJessie: How can we help you?",
+  "it": "\\rJessie: Come possiamo aiutarti?"
  },
  {
   "id": "\\bGary: So I lost in my fourth match. These Trainers are so tough they have to be cheating.",
@@ -85,11 +90,6 @@
   "it": "\\bAh, giusto. Il tuo amico ti sta cercando. È qui da qualche parte."
  },
  {
-  "id": "\\rJessie: How can we help you?",
-  "en": "\\rJessie: How can we help you?",
-  "it": "\\rJessie: Come possiamo aiutarti?"
- },
- {
   "id": "\\bHead south to find some strong Pokémon to fight.",
   "en": "\\bHead south to find some strong Pokémon to fight.",
   "it": "\\bVai a sud per trovare Pokémon forti da affrontare."
@@ -105,14 +105,14 @@
   "it": "\\rQuel negozio mi sembra... così vuoto. \\nTu che ne pensi?"
  },
  {
-  "id": "\\bThe Indigo League is done. Come back next year.",
-  "en": "\\bThe Indigo League is done. Come back next year.",
-  "it": "\\bLa Lega Indaco è finita. Torna l'anno prossimo."
- },
- {
   "id": "\\rAll these items are good, but they cost so much...",
   "en": "\\rAll these items are good, but they cost so much...",
   "it": "\\rQuesti strumenti sono tutti buoni, ma costano così tanto..."
+ },
+ {
+  "id": "\\bThe Indigo League is done. Come back next year.",
+  "en": "\\bThe Indigo League is done. Come back next year.",
+  "it": "\\bLa Lega Indaco è finita. Torna l'anno prossimo."
  },
  {
   "id": "\\rFree Free",

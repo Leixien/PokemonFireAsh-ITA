@@ -1,8 +1,8 @@
 [
  {
-  "id": "\\bStay out of our way.",
-  "en": "\\bStay out of our way.",
-  "it": "\\bTogliti di mezzo."
+  "id": "\\bStay away from my house. You just can't go in cause you want to!",
+  "en": "\\bStay away from my house. You just can't go in cause you want to!",
+  "it": "\\bStai lontano da casa mia. Non puoi entrare solo perché ti va!"
  },
  {
   "id": "\\rI wish we would turn that mountain into something useful. We could build a headquarters on it or something.",
@@ -10,9 +10,24 @@
   "it": "\\rVorrei che trasformassimo quella montagna in qualcosa di utile. Potremmo costruirci sopra un quartier generale o qualcosa del genere."
  },
  {
-  "id": "\\bStay away from my house. You just can't go in cause you want to!",
-  "en": "\\bStay away from my house. You just can't go in cause you want to!",
-  "it": "\\bStai lontano da casa mia. Non puoi entrare solo perché ti va!"
+  "id": "\\bStay out of our way.",
+  "en": "\\bStay out of our way.",
+  "it": "\\bTogliti di mezzo."
+ },
+ {
+  "id": "\\bChatot",
+  "en": "\\bChatot",
+  "it": "\\bChatot"
+ },
+ {
+  "id": "\\bHonchkrow",
+  "en": "\\bHonchkrow",
+  "it": "\\bHonchkrow"
+ },
+ {
+  "id": "Game Corner\\nThe playground for grown-ups!",
+  "en": "Game Corner\\nThe playground for grown-ups!",
+  "it": "Casinò\\nIl parco giochi per adulti!"
  },
  {
   "id": "Veilstone City Pokémon Gym Leader:\\nMaylene",
@@ -25,29 +40,24 @@
   "it": "Il genio scalzo della Lotta!"
  },
  {
-  "id": "Game Corner\\nThe playground for grown-ups!",
-  "en": "Game Corner\\nThe playground for grown-ups!",
-  "it": "Casinò\\nIl parco giochi per adulti!"
- },
- {
-  "id": "\\bHonchkrow",
-  "en": "\\bHonchkrow",
-  "it": "\\bHonchkrow"
- },
- {
-  "id": "\\bChatot",
-  "en": "\\bChatot",
-  "it": "\\bChatot"
- },
- {
   "id": "\\bHi. Welcome to Veilstone City.",
   "en": "\\bHi. Welcome to Veilstone City.",
   "it": "\\bCiao. Benvenuto a Rupepoli."
  },
  {
-  "id": "\\bGulpin",
-  "en": "\\bGulpin",
-  "it": "\\bGulpin"
+  "id": "\\bURSA!!!",
+  "en": "\\bURSA!!!",
+  "it": "\\bURSA!!!"
+ },
+ {
+  "id": "Veilstone City\\nHewn from Rock",
+  "en": "Veilstone City\\nHewn from Rock",
+  "it": "Rupepoli\\nScolpita nella roccia"
+ },
+ {
+  "id": "\\bThis city is striving to become the best. We have so much already.",
+  "en": "\\bThis city is striving to become the best. We have so much already.",
+  "it": "\\bQuesta città punta a diventare la migliore. Abbiamo già così tanto."
  },
  {
   "id": "\\bSaturn: Oh, someone decided to stand up to us?",
@@ -65,24 +75,24 @@
   "it": "\\bSaturno: Per ora ci ritiriamo. La Chiave Lancia ci indicherà altri luoghi d'interesse. "
  },
  {
-  "id": "\\bThis city is striving to become the best. We have so much already.",
-  "en": "\\bThis city is striving to become the best. We have so much already.",
-  "it": "\\bQuesta città punta a diventare la migliore. Abbiamo già così tanto."
- },
- {
-  "id": "Veilstone City\\nHewn from Rock",
-  "en": "Veilstone City\\nHewn from Rock",
-  "it": "Rupepoli\\nScolpita nella roccia"
- },
- {
-  "id": "\\bURSA!!!",
-  "en": "\\bURSA!!!",
-  "it": "\\bURSA!!!"
+  "id": "\\bGulpin",
+  "en": "\\bGulpin",
+  "it": "\\bGulpin"
  },
  {
   "id": "\\bI'm trying to work. Please don't bother me.",
   "en": "\\bI'm trying to work. Please don't bother me.",
   "it": "\\bSto cercando di lavorare. Non disturbarmi, per favore."
+ },
+ {
+  "id": "\\bI think the machines are rigged. I can never win anything so they must be.",
+  "en": "\\bI think the machines are rigged. I can never win anything so they must be.",
+  "it": "\\bSecondo me le macchinette sono truccate. Non vinco mai niente, quindi devono esserlo per forza."
+ },
+ {
+  "id": "\\bLook, this is important to me, okay?",
+  "en": "\\bLook, this is important to me, okay?",
+  "it": "\\bSenti, per me è importante, ok?"
  },
  {
   "id": "\\bWe are justice.",
@@ -95,29 +105,14 @@
   "it": "\\bDovrei andarmene prima che sia troppo tardi."
  },
  {
-  "id": "\\bLook, this is important to me, okay?",
-  "en": "\\bLook, this is important to me, okay?",
-  "it": "\\bSenti, per me è importante, ok?"
+  "id": "\\bHello there. Want my Abra to take you somewhere?",
+  "en": "\\bHello there. Want my Abra to take you somewhere?",
+  "it": "\\bSalve. Vuoi che il mio Abra ti porti da qualche parte?"
  },
  {
-  "id": "\\bI think the machines are rigged. I can never win anything so they must be.",
-  "en": "\\bI think the machines are rigged. I can never win anything so they must be.",
-  "it": "\\bSecondo me le macchinette sono truccate. Non vinco mai niente, quindi devono esserlo per forza."
- },
- {
-  "id": "\\bYou won't stop us.",
-  "en": "\\bYou won't stop us.",
-  "it": "\\bNon ci fermerai."
- },
- {
-  "id": "\\bGet lost.",
-  "en": "\\bGet lost.",
-  "it": "\\bSparisci."
- },
- {
-  "id": "\\rYou want to challenge the gym? Haha, good luck. She is better than you would think.",
-  "en": "\\rYou want to challenge the gym? Haha, good luck.  She is better than you would think.",
-  "it": "\\rVuoi sfidare la Palestra? Ahah, buona fortuna. È più forte di quanto pensi."
+  "id": "\\bIf you ever feel like it.",
+  "en": "\\bIf you ever feel like it.",
+  "it": "\\bQuando ne hai voglia."
  },
  {
   "id": "\\bPaul: Come for a rematch? Let's see what you've learned.",
@@ -130,6 +125,31 @@
   "it": "\\bPaul: Mi sto allenando per riuscire a battere Brandon. Devo tornare al lavoro."
  },
  {
+  "id": "\\rYou want to challenge the gym? Haha, good luck. She is better than you would think.",
+  "en": "\\rYou want to challenge the gym? Haha, good luck.  She is better than you would think.",
+  "it": "\\rVuoi sfidare la Palestra? Ahah, buona fortuna. È più forte di quanto pensi."
+ },
+ {
+  "id": "\\bYou won't stop us.",
+  "en": "\\bYou won't stop us.",
+  "it": "\\bNon ci fermerai."
+ },
+ {
+  "id": "\\bGet lost.",
+  "en": "\\bGet lost.",
+  "it": "\\bSparisci."
+ },
+ {
+  "id": "Find what you need at the Veilstone Dept. Store!",
+  "en": "Find what you need at the Veilstone Dept. Store!",
+  "it": "Trova ciò che ti serve al Centro Commerciale di Rupepoli!"
+ },
+ {
+  "id": "\\bReggie is our local breeder. He can train even the most stubborn of personalities.",
+  "en": "\\bReggie is our local breeder. He can train even the most stubborn of personalities.",
+  "it": "\\bReggie è l'allevatore del posto. Riesce ad allenare anche i caratteri più testardi."
+ },
+ {
   "id": "\\bNot happening.",
   "en": "\\bNot happening.",
   "it": "\\bNon se ne parla."
@@ -140,29 +160,9 @@
   "it": "\\bTrionferemo."
  },
  {
-  "id": "\\bReggie is our local breeder. He can train even the most stubborn of personalities.",
-  "en": "\\bReggie is our local breeder. He can train even the most stubborn of personalities.",
-  "it": "\\bReggie è l'allevatore del posto. Riesce ad allenare anche i caratteri più testardi."
- },
- {
-  "id": "Find what you need at the Veilstone Dept. Store!",
-  "en": "Find what you need at the Veilstone Dept. Store!",
-  "it": "Trova ciò che ti serve al Centro Commerciale di Rupepoli!"
- },
- {
-  "id": "\\bMagmortar",
-  "en": "\\bMagmortar",
-  "it": "\\bMagmortar"
- },
- {
-  "id": "\\bMaylene recently suffered a tough defeat to a Trainer named Paul. He said some pretty harsh things to her and she hasn't been normal since.",
-  "en": "\\bMaylene recently suffered a tough defeat to a Trainer named Paul. He said some pretty harsh things to her and she hasn't been normal since.",
-  "it": "\\bMaylene ha subito di recente una dura sconfitta da un Allenatore di nome Paul. Le ha detto cose piuttosto cattive e da allora non è più la stessa."
- },
- {
-  "id": "\\bMaylene seems to be doing better now.",
-  "en": "\\bMaylene seems to be doing better now.",
-  "it": "\\bSembra che ora Maylene stia meglio."
+  "id": "\\bAbra",
+  "en": "\\bAbra",
+  "it": "\\bAbra"
  },
  {
   "id": "\\bElectabuzz",
@@ -175,9 +175,29 @@
   "it": "\\bElectivire"
  },
  {
+  "id": "\\bMaylene recently suffered a tough defeat to a Trainer named Paul. He said some pretty harsh things to her and she hasn't been normal since.",
+  "en": "\\bMaylene recently suffered a tough defeat to a Trainer named Paul. He said some pretty harsh things to her and she hasn't been normal since.",
+  "it": "\\bMaylene ha subito di recente una dura sconfitta da un Allenatore di nome Paul. Le ha detto cose piuttosto cattive e da allora non è più la stessa."
+ },
+ {
+  "id": "\\bMaylene seems to be doing better now.",
+  "en": "\\bMaylene seems to be doing better now.",
+  "it": "\\bSembra che ora Maylene stia meglio."
+ },
+ {
+  "id": "\\bMagmortar",
+  "en": "\\bMagmortar",
+  "it": "\\bMagmortar"
+ },
+ {
   "id": "\\rMy friend went on a journey some time ago. I hope they are doing okay.",
   "en": "\\rMy friend went on a journey some time ago. I hope they are doing okay.",
   "it": "\\rUna persona a me cara è partita per un viaggio tempo fa. Spero che stia bene."
+ },
+ {
+  "id": "\\bTorterra",
+  "en": "\\bTorterra",
+  "it": "\\bTorterra"
  },
  {
   "id": "\\bI'm sorry but Maylene is not taking any challenges right now.",
@@ -200,8 +220,23 @@
   "it": "\\rCi vediamo in giro. Ciao, \\PN."
  },
  {
-  "id": "\\bTorterra",
-  "en": "\\bTorterra",
-  "it": "\\bTorterra"
+  "id": "Twinleaf",
+  "en": "Twinleaf",
+  "it": "Duefoglie"
+ },
+ {
+  "id": "Valor Lakefront",
+  "en": "Valor Lakefront",
+  "it": "Riva Lago Valore"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Celestic",
+  "en": "Celestic",
+  "it": "Memoride"
  }
 ]

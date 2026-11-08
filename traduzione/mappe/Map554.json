@@ -85,8 +85,8 @@
   "it": "\\rAlakazam, ti prego, ascoltami."
  },
  {
-  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Cancel]",
-  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Cancel]",
+  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Cancel]",
+  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Cancel]",
   "it": "\\rIl mio Alakazam può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Annulla]"
  },
  {
@@ -100,18 +100,18 @@
   "it": "\\rIl mio Alakazam può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Flemminia, Rupepoli,Pratopoli,Annulla]"
  },
  {
-  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Cancel]",
-  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Cancel]",
+  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Cancel]",
+  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Cancel]",
   "it": "\\rIl mio Alakazam può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Flemminia,Rupepoli, Pratopoli,Canalipoli,Annulla]"
  },
  {
-  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Cancel]",
-  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Cancel]",
+  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Cancel]",
+  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Cancel]",
   "it": "\\rIl mio Alakazam può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Flemminia,Rupepoli, Pratopoli,Canalipoli,Nevepoli,Annulla]"
  },
  {
-  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
-  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
+  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
+  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Solaceon,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
   "it": "\\rIl mio Alakazam può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Flemminia,Rupepoli, Pratopoli,Canalipoli,Nevepoli,Arenipoli,Annulla]"
  },
  {

@@ -1,25 +1,5 @@
 [
  {
-  "id": "\\bHeading to Lush Jungle?",
-  "en": "\\bHeading to Lush Jungle?",
-  "it": "\\bStai andando alla Giungla Ombrosa?"
- },
- {
-  "id": "\\bMaybe the volcano? I hear they have good fire types there.",
-  "en": "\\bMaybe the volcano? I hear they have good fire types there.",
-  "it": "\\bO forse al vulcano? Ho sentito che lì ci sono buoni Pokémon di tipo Fuoco."
- },
- {
-  "id": "\\rI need a break.",
-  "en": "\\rI need a break.",
-  "it": "\\rHo bisogno di una pausa."
- },
- {
-  "id": "\\rI said I needed a break so you battle me? Where do you come from to think that's okay?",
-  "en": "\\rI said I needed a break so you battle me? Where do you come from to think that's okay?",
-  "it": "\\rHo detto che mi serviva una pausa e tu mi sfidi? Ma da dove vieni per pensare che vada bene?"
- },
- {
   "id": "\\rI need to get ready for Lush Jungle.",
   "en": "\\rI need to get ready for Lush Jungle.",
   "it": "\\rDevo prepararmi per la Giungla Ombrosa."
@@ -40,14 +20,14 @@
   "it": "\\bI fossili sono incredibili. Pensare che possiamo riportare in vita Pokémon estinti. "
  },
  {
-  "id": "\\bLovely day out.",
-  "en": "\\bLovely day out.",
-  "it": "\\bChe bella giornata."
+  "id": "\\rPicnicker Kiana here!",
+  "en": "\\rPicnicker Kiana here!",
+  "it": "\\rSono la Campeggiatrice Kiana!"
  },
  {
-  "id": "\\bThe sea is calming to me.",
-  "en": "\\bThe sea is calming to me.",
-  "it": "\\bIl mare mi calma."
+  "id": "\\rMaybe I should get a second one.",
+  "en": "\\rMaybe I should get a second one.",
+  "it": "\\rForse dovrei prenderne un secondo."
  },
  {
   "id": "\\bKeep it classy.",
@@ -60,16 +40,6 @@
   "it": "\\bGran bella lotta. Buona fortuna con il resto."
  },
  {
-  "id": "\\rPicnicker Kiana here!",
-  "en": "\\rPicnicker Kiana here!",
-  "it": "\\rSono la Campeggiatrice Kiana!"
- },
- {
-  "id": "\\rMaybe I should get a second one.",
-  "en": "\\rMaybe I should get a second one.",
-  "it": "\\rForse dovrei prenderne un secondo."
- },
- {
   "id": "\\bGood luck.",
   "en": "\\bGood luck.",
   "it": "\\bBuona fortuna."
@@ -78,5 +48,35 @@
   "id": "\\bI didn't lose. Not in spirit at least.",
   "en": "\\bI didn't lose. Not in spirit at least.",
   "it": "\\bNon ho perso. Almeno non nello spirito."
+ },
+ {
+  "id": "\\bLovely day out.",
+  "en": "\\bLovely day out.",
+  "it": "\\bChe bella giornata."
+ },
+ {
+  "id": "\\bThe sea is calming to me.",
+  "en": "\\bThe sea is calming to me.",
+  "it": "\\bIl mare mi calma."
+ },
+ {
+  "id": "\\bHeading to Lush Jungle?",
+  "en": "\\bHeading to Lush Jungle?",
+  "it": "\\bStai andando alla Giungla Ombrosa?"
+ },
+ {
+  "id": "\\bMaybe the volcano? I hear they have good fire types there.",
+  "en": "\\bMaybe the volcano? I hear they have good fire types there.",
+  "it": "\\bO forse al vulcano? Ho sentito che lì ci sono buoni Pokémon di tipo Fuoco."
+ },
+ {
+  "id": "\\rI need a break.",
+  "en": "\\rI need a break.",
+  "it": "\\rHo bisogno di una pausa."
+ },
+ {
+  "id": "\\rI said I needed a break so you battle me? Where do you come from to think that's okay?",
+  "en": "\\rI said I needed a break so you battle me? Where do you come from to think that's okay?",
+  "it": "\\rHo detto che mi serviva una pausa e tu mi sfidi? Ma da dove vieni per pensare che vada bene?"
  }
 ]

@@ -1,13 +1,13 @@
 [
  {
-  "id": "\\rChansey",
-  "en": "\\rChansey",
-  "it": "\\rChansey"
- },
- {
   "id": "\\bShould I use my Water type? Or should I use my Dark type?",
   "en": "\\bShould I use my Water type? Or should I use my Dark type?",
   "it": "\\bDovrei usare il mio tipo Acqua? O il mio tipo Buio?"
+ },
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
  },
  {
   "id": "\\bThis is the Ever Grande Stadium 3.",
@@ -33,6 +33,11 @@
   "id": "\\bForget about the battles. Do you see everything they are selling here?",
   "en": "\\bForget about the battles. Do you see everything they are selling here?",
   "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
+ },
+ {
+  "id": "\\rAltaria!!",
+  "en": "\\rAltaria!!",
+  "it": "\\rAltaria!!"
  },
  {
   "id": "\\rHello. Here you can register for the Ever Grande Conference.",
@@ -70,9 +75,24 @@
   "it": "\\rTi sei già iscritto."
  },
  {
-  "id": "\\rAltaria!!",
-  "en": "\\rAltaria!!",
-  "it": "\\rAltaria!!"
+  "id": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Ever Grande Conference? It might be too easy for you...",
+  "en": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Ever Grande Conference? It might be too easy for you...",
+  "it": "\\rOh, ma quello è il Monarca \\PN? Sei sicuro di volerti iscrivere alla Conferenza Iridopoli? Potrebbe essere troppo facile per te..."
+ },
+ {
+  "id": "\\rOk then... well, the format's the same as last year, though you might face some different people this year.",
+  "en": "\\rOk then... well, the format's the same as last year, though you might face some different people this year.",
+  "it": "\\rVa bene... allora, il formato è lo stesso dell'anno scorso, anche se quest'anno potresti affrontare avversari diversi."
+ },
+ {
+  "id": "\\rYour first battle will be the elimination battles. Good luck! Though you probably won't need it...",
+  "en": "\\rYour first battle will be the elimination battles. Good luck! Though you probably won't need it...",
+  "it": "\\rIl tuo primo incontro saranno le eliminatorie. Buona fortuna! Anche se probabilmente non ti servirà..."
+ },
+ {
+  "id": "\\bMy Charizard and I are gonna sweep this.",
+  "en": "\\bMy Charizard and I are gonna sweep this.",
+  "it": "\\bIo e il mio Charizard faremo piazza pulita."
  },
  {
   "id": "\\bThis is the Elimination Rounds.",
@@ -95,14 +115,14 @@
   "it": "\\bMolto bene."
  },
  {
-  "id": "\\bMy Charizard and I are gonna sweep this.",
-  "en": "\\bMy Charizard and I are gonna sweep this.",
-  "it": "\\bIo e il mio Charizard faremo piazza pulita."
- },
- {
   "id": "\\rDrop out now because we will be the winners.",
   "en": "\\rDrop out now because we will be the winners.",
   "it": "\\rRitirati subito, perché i vincitori saremo noi."
+ },
+ {
+  "id": "\\bChar!!!",
+  "en": "\\bChar!!!",
+  "it": "\\bChar!!!"
  },
  {
   "id": "\\bThis is the Doubles stage.",
@@ -115,9 +135,9 @@
   "it": "\\bQuesta sarà una lotta in doppio. Sei pronto?"
  },
  {
-  "id": "\\bChar!!!",
-  "en": "\\bChar!!!",
-  "it": "\\bChar!!!"
+  "id": "\\bYou'll need at least two Pokémon if you want to proceed.",
+  "en": "\\bYou'll need at least two Pokémon if you want to proceed.",
+  "it": "\\bTi servono almeno due Pokémon se vuoi proseguire."
  },
  {
   "id": "\\rHello, and welcome to the Pokémon Center.",
@@ -190,14 +210,14 @@
   "it": "\\bSono venuto a vedere mio fratello gareggiare."
  },
  {
-  "id": "\\bThis is the Ever Grande Stadium 1.",
-  "en": "\\bThis is the Ever Grande Stadium 1.",
-  "it": "\\bQuesto è lo Stadio 1 di Iridopoli."
- },
- {
   "id": "\\bThis is the Ever Grande Stadium 2.",
   "en": "\\bThis is the Ever Grande Stadium 2.",
   "it": "\\bQuesto è lo Stadio 2 di Iridopoli."
+ },
+ {
+  "id": "\\bThis is the Ever Grande Stadium 1.",
+  "en": "\\bThis is the Ever Grande Stadium 1.",
+  "it": "\\bQuesto è lo Stadio 1 di Iridopoli."
  },
  {
   "id": "Yes",

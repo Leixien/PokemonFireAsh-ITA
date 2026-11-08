@@ -50,16 +50,6 @@
   "it": "\\rBasta che fai in fretta."
  },
  {
-  "id": "\\bI can keep winning.",
-  "en": "\\bI can keep winning.",
-  "it": "\\bPosso continuare a vincere."
- },
- {
-  "id": "\\bNo, that's not right.",
-  "en": "\\bNo, that's not right.",
-  "it": "\\bNo, non è giusto."
- },
- {
   "id": "\\bI've never been able to catch more than one.",
   "en": "\\bI've never been able to catch more than one.",
   "it": "\\bNon sono mai riuscito a catturarne più di uno."
@@ -68,6 +58,16 @@
   "id": "\\bPerhaps one day.",
   "en": "\\bPerhaps one day.",
   "it": "\\bForse un giorno."
+ },
+ {
+  "id": "\\bI can keep winning.",
+  "en": "\\bI can keep winning.",
+  "it": "\\bPosso continuare a vincere."
+ },
+ {
+  "id": "\\bNo, that's not right.",
+  "en": "\\bNo, that's not right.",
+  "it": "\\bNo, non è giusto."
  },
  {
   "id": "\\rI'm so bored.",

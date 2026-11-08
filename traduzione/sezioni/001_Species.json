@@ -4831,43 +4831,43 @@
  },
  {
   "id": 967,
-  "en": "Mewtwo",
-  "it": "Mewtwo"
+  "en": "Moltres",
+  "it": "Moltres"
  },
  {
   "id": 968,
+  "en": "Moltres",
+  "it": "Moltres"
+ },
+ {
+  "id": 969,
   "en": "Mewtwo",
   "it": "Mewtwo"
  },
  {
-  "id": 969,
+  "id": 970,
+  "en": "Mewtwo",
+  "it": "Mewtwo"
+ },
+ {
+  "id": 971,
   "en": "Typhlosion",
   "it": "Typhlosion"
  },
  {
-  "id": 970,
+  "id": 972,
   "en": "Pichu",
   "it": "Pichu"
  },
  {
-  "id": 971,
+  "id": 973,
   "en": "Ampharos",
   "it": "Ampharos"
  },
  {
-  "id": 972,
+  "id": 974,
   "en": "Slowking",
   "it": "Slowking"
- },
- {
-  "id": 973,
-  "en": "Unown",
-  "it": "Unown"
- },
- {
-  "id": 974,
-  "en": "Unown",
-  "it": "Unown"
  },
  {
   "id": 975,
@@ -4996,123 +4996,123 @@
  },
  {
   "id": 1000,
+  "en": "Unown",
+  "it": "Unown"
+ },
+ {
+  "id": 1001,
+  "en": "Unown",
+  "it": "Unown"
+ },
+ {
+  "id": 1002,
   "en": "Steelix",
   "it": "Steelix"
  },
  {
-  "id": 1001,
+  "id": 1003,
   "en": "Qwilfish",
   "it": "Qwilfish"
  },
  {
-  "id": 1002,
+  "id": 1004,
   "en": "Scizor",
   "it": "Scizor"
  },
  {
-  "id": 1003,
+  "id": 1005,
   "en": "Heracross",
   "it": "Heracross"
  },
  {
-  "id": 1004,
+  "id": 1006,
   "en": "Sneasel",
   "it": "Sneasel"
  },
  {
-  "id": 1005,
+  "id": 1007,
   "en": "Corsola",
   "it": "Corsola"
  },
  {
-  "id": 1006,
+  "id": 1008,
   "en": "Houndoom",
   "it": "Houndoom"
  },
  {
-  "id": 1007,
+  "id": 1009,
   "en": "Tyranitar",
   "it": "Tyranitar"
  },
  {
-  "id": 1008,
+  "id": 1010,
   "en": "Sceptile",
   "it": "Sceptile"
  },
  {
-  "id": 1009,
+  "id": 1011,
   "en": "Blaziken",
   "it": "Blaziken"
  },
  {
-  "id": 1010,
+  "id": 1012,
   "en": "Swampert",
   "it": "Swampert"
  },
  {
-  "id": 1011,
+  "id": 1013,
   "en": "Zigzagoon",
   "it": "Zigzagoon"
  },
  {
-  "id": 1012,
+  "id": 1014,
   "en": "Linoone",
   "it": "Linoone"
  },
  {
-  "id": 1013,
+  "id": 1015,
   "en": "Gardevoir",
   "it": "Gardevoir"
  },
  {
-  "id": 1014,
+  "id": 1016,
   "en": "Sableye",
   "it": "Sableye"
  },
  {
-  "id": 1015,
+  "id": 1017,
   "en": "Mawile",
   "it": "Mawile"
  },
  {
-  "id": 1016,
+  "id": 1018,
   "en": "Aggron",
   "it": "Aggron"
  },
  {
-  "id": 1017,
+  "id": 1019,
   "en": "Medicham",
   "it": "Medicham"
  },
  {
-  "id": 1018,
+  "id": 1020,
   "en": "Manectric",
   "it": "Manectric"
  },
  {
-  "id": 1019,
+  "id": 1021,
   "en": "Sharpedo",
   "it": "Sharpedo"
  },
  {
-  "id": 1020,
+  "id": 1022,
   "en": "Camerupt",
   "it": "Camerupt"
  },
  {
-  "id": 1021,
+  "id": 1023,
   "en": "Altaria",
   "it": "Altaria"
- },
- {
-  "id": 1022,
-  "en": "Castform",
-  "it": "Castform"
- },
- {
-  "id": 1023,
-  "en": "Castform",
-  "it": "Castform"
  },
  {
   "id": 1024,
@@ -5121,63 +5121,63 @@
  },
  {
   "id": 1025,
+  "en": "Castform",
+  "it": "Castform"
+ },
+ {
+  "id": 1026,
+  "en": "Castform",
+  "it": "Castform"
+ },
+ {
+  "id": 1027,
   "en": "Banette",
   "it": "Banette"
  },
  {
-  "id": 1026,
+  "id": 1028,
   "en": "Absol",
   "it": "Absol"
  },
  {
-  "id": 1027,
+  "id": 1029,
   "en": "Glalie",
   "it": "Glalie"
  },
  {
-  "id": 1028,
+  "id": 1030,
   "en": "Salamence",
   "it": "Salamence"
  },
  {
-  "id": 1029,
+  "id": 1031,
   "en": "Metagross",
   "it": "Metagross"
  },
  {
-  "id": 1030,
+  "id": 1032,
   "en": "Latias",
   "it": "Latias"
  },
  {
-  "id": 1031,
+  "id": 1033,
   "en": "Latios",
   "it": "Latios"
  },
  {
-  "id": 1032,
+  "id": 1034,
   "en": "Kyogre",
   "it": "Kyogre"
  },
  {
-  "id": 1033,
+  "id": 1035,
   "en": "Groudon",
   "it": "Groudon"
  },
  {
-  "id": 1034,
+  "id": 1036,
   "en": "Rayquaza",
   "it": "Rayquaza"
- },
- {
-  "id": 1035,
-  "en": "Deoxys",
-  "it": "Deoxys"
- },
- {
-  "id": 1036,
-  "en": "Deoxys",
-  "it": "Deoxys"
  },
  {
   "id": 1037,
@@ -5186,78 +5186,78 @@
  },
  {
   "id": 1038,
-  "en": "Burmy",
-  "it": "Burmy"
+  "en": "Deoxys",
+  "it": "Deoxys"
  },
  {
   "id": 1039,
+  "en": "Deoxys",
+  "it": "Deoxys"
+ },
+ {
+  "id": 1040,
   "en": "Burmy",
   "it": "Burmy"
  },
  {
-  "id": 1040,
-  "en": "Wormadam",
-  "it": "Wormadam"
- },
- {
   "id": 1041,
-  "en": "Wormadam",
-  "it": "Wormadam"
+  "en": "Burmy",
+  "it": "Burmy"
  },
  {
   "id": 1042,
+  "en": "Wormadam",
+  "it": "Wormadam"
+ },
+ {
+  "id": 1043,
+  "en": "Wormadam",
+  "it": "Wormadam"
+ },
+ {
+  "id": 1044,
   "en": "Cherrim",
   "it": "Cherrim"
  },
  {
-  "id": 1043,
+  "id": 1045,
   "en": "Shellos",
   "it": "Shellos"
  },
  {
-  "id": 1044,
+  "id": 1046,
   "en": "Gastrodon",
   "it": "Gastrodon"
  },
  {
-  "id": 1045,
+  "id": 1047,
   "en": "Lopunny",
   "it": "Lopunny"
  },
  {
-  "id": 1046,
+  "id": 1048,
   "en": "Garchomp",
   "it": "Garchomp"
  },
  {
-  "id": 1047,
+  "id": 1049,
   "en": "Lucario",
   "it": "Lucario"
  },
  {
-  "id": 1048,
+  "id": 1050,
+  "en": "Lucario",
+  "it": "Lucario"
+ },
+ {
+  "id": 1051,
   "en": "Abomasnow",
   "it": "Abomasnow"
  },
  {
-  "id": 1049,
+  "id": 1052,
   "en": "Gallade",
   "it": "Gallade"
- },
- {
-  "id": 1050,
-  "en": "Rotom",
-  "it": "Rotom"
- },
- {
-  "id": 1051,
-  "en": "Rotom",
-  "it": "Rotom"
- },
- {
-  "id": 1052,
-  "en": "Rotom",
-  "it": "Rotom"
  },
  {
   "id": 1053,
@@ -5271,43 +5271,43 @@
  },
  {
   "id": 1055,
+  "en": "Rotom",
+  "it": "Rotom"
+ },
+ {
+  "id": 1056,
+  "en": "Rotom",
+  "it": "Rotom"
+ },
+ {
+  "id": 1057,
+  "en": "Rotom",
+  "it": "Rotom"
+ },
+ {
+  "id": 1058,
   "en": "Dialga",
   "it": "Dialga"
  },
  {
-  "id": 1056,
+  "id": 1059,
   "en": "Palkia",
   "it": "Palkia"
  },
  {
-  "id": 1057,
+  "id": 1060,
+  "en": "Regigigas",
+  "it": "Regigigas"
+ },
+ {
+  "id": 1061,
   "en": "Giratina",
   "it": "Giratina"
  },
  {
-  "id": 1058,
+  "id": 1062,
   "en": "Shaymin",
   "it": "Shaymin"
- },
- {
-  "id": 1059,
-  "en": "Arceus",
-  "it": "Arceus"
- },
- {
-  "id": 1060,
-  "en": "Arceus",
-  "it": "Arceus"
- },
- {
-  "id": 1061,
-  "en": "Arceus",
-  "it": "Arceus"
- },
- {
-  "id": 1062,
-  "en": "Arceus",
-  "it": "Arceus"
  },
  {
   "id": 1063,
@@ -5381,198 +5381,198 @@
  },
  {
   "id": 1077,
+  "en": "Arceus",
+  "it": "Arceus"
+ },
+ {
+  "id": 1078,
+  "en": "Arceus",
+  "it": "Arceus"
+ },
+ {
+  "id": 1079,
+  "en": "Arceus",
+  "it": "Arceus"
+ },
+ {
+  "id": 1080,
+  "en": "Arceus",
+  "it": "Arceus"
+ },
+ {
+  "id": 1081,
   "en": "Samurott",
   "it": "Samurott"
  },
  {
-  "id": 1078,
+  "id": 1082,
   "en": "Audino",
   "it": "Audino"
  },
  {
-  "id": 1079,
+  "id": 1083,
   "en": "Lilligant",
   "it": "Lilligant"
  },
  {
-  "id": 1080,
+  "id": 1084,
   "en": "Basculin",
   "it": "Basculin"
  },
  {
-  "id": 1081,
+  "id": 1085,
   "en": "Basculin",
   "it": "Basculin"
  },
  {
-  "id": 1082,
+  "id": 1086,
   "en": "Darumaka",
   "it": "Darumaka"
  },
  {
-  "id": 1083,
+  "id": 1087,
   "en": "Darmanitan",
   "it": "Darmanitan"
  },
  {
-  "id": 1084,
+  "id": 1088,
   "en": "Darmanitan",
   "it": "Darmanitan"
  },
  {
-  "id": 1085,
+  "id": 1089,
   "en": "Darmanitan",
   "it": "Darmanitan"
  },
  {
-  "id": 1086,
+  "id": 1090,
   "en": "Yamask",
   "it": "Yamask"
  },
  {
-  "id": 1087,
+  "id": 1091,
   "en": "Zorua",
   "it": "Zorua"
  },
  {
-  "id": 1088,
+  "id": 1092,
   "en": "Zoroark",
   "it": "Zoroark"
  },
  {
-  "id": 1089,
-  "en": "Deerling",
-  "it": "Deerling"
- },
- {
-  "id": 1090,
-  "en": "Deerling",
-  "it": "Deerling"
- },
- {
-  "id": 1091,
-  "en": "Deerling",
-  "it": "Deerling"
- },
- {
-  "id": 1092,
-  "en": "Sawsbuck",
-  "it": "Sawsbuck"
- },
- {
   "id": 1093,
-  "en": "Sawsbuck",
-  "it": "Sawsbuck"
+  "en": "Deerling",
+  "it": "Deerling"
  },
  {
   "id": 1094,
+  "en": "Deerling",
+  "it": "Deerling"
+ },
+ {
+  "id": 1095,
+  "en": "Deerling",
+  "it": "Deerling"
+ },
+ {
+  "id": 1096,
   "en": "Sawsbuck",
   "it": "Sawsbuck"
  },
  {
-  "id": 1095,
+  "id": 1097,
+  "en": "Sawsbuck",
+  "it": "Sawsbuck"
+ },
+ {
+  "id": 1098,
+  "en": "Sawsbuck",
+  "it": "Sawsbuck"
+ },
+ {
+  "id": 1099,
   "en": "Stunfisk",
   "it": "Stunfisk"
  },
  {
-  "id": 1096,
+  "id": 1100,
   "en": "Braviary",
   "it": "Braviary"
  },
  {
-  "id": 1097,
+  "id": 1101,
   "en": "Tornadus",
   "it": "Tornadus"
  },
  {
-  "id": 1098,
+  "id": 1102,
   "en": "Thundurus",
   "it": "Thundurus"
  },
  {
-  "id": 1099,
+  "id": 1103,
   "en": "Landorus",
   "it": "Landorus"
  },
  {
-  "id": 1100,
-  "en": "Kyurem",
-  "it": "Kyurem"
- },
- {
-  "id": 1101,
-  "en": "Kyurem",
-  "it": "Kyurem"
- },
- {
-  "id": 1102,
-  "en": "Kyurem",
-  "it": "Kyurem"
- },
- {
-  "id": 1103,
-  "en": "Kyurem",
-  "it": "Kyurem"
- },
- {
   "id": 1104,
+  "en": "Kyurem",
+  "it": "Kyurem"
+ },
+ {
+  "id": 1105,
+  "en": "Kyurem",
+  "it": "Kyurem"
+ },
+ {
+  "id": 1106,
+  "en": "Kyurem",
+  "it": "Kyurem"
+ },
+ {
+  "id": 1107,
+  "en": "Kyurem",
+  "it": "Kyurem"
+ },
+ {
+  "id": 1108,
   "en": "Keldeo",
   "it": "Keldeo"
  },
  {
-  "id": 1105,
+  "id": 1109,
   "en": "Meloetta",
   "it": "Meloetta"
  },
  {
-  "id": 1106,
-  "en": "Genesect",
-  "it": "Genesect"
- },
- {
-  "id": 1107,
-  "en": "Genesect",
-  "it": "Genesect"
- },
- {
-  "id": 1108,
-  "en": "Genesect",
-  "it": "Genesect"
- },
- {
-  "id": 1109,
-  "en": "Genesect",
-  "it": "Genesect"
- },
- {
   "id": 1110,
-  "en": "Greninja",
-  "it": "Greninja"
+  "en": "Genesect",
+  "it": "Genesect"
  },
  {
   "id": 1111,
+  "en": "Genesect",
+  "it": "Genesect"
+ },
+ {
+  "id": 1112,
+  "en": "Genesect",
+  "it": "Genesect"
+ },
+ {
+  "id": 1113,
+  "en": "Genesect",
+  "it": "Genesect"
+ },
+ {
+  "id": 1114,
   "en": "Greninja",
   "it": "Greninja"
  },
  {
-  "id": 1112,
-  "en": "Vivillon",
-  "it": "Vivillon"
- },
- {
-  "id": 1113,
-  "en": "Vivillon",
-  "it": "Vivillon"
- },
- {
-  "id": 1114,
-  "en": "Vivillon",
-  "it": "Vivillon"
- },
- {
   "id": 1115,
-  "en": "Vivillon",
-  "it": "Vivillon"
+  "en": "Greninja",
+  "it": "Greninja"
  },
  {
   "id": 1116,
@@ -5651,43 +5651,43 @@
  },
  {
   "id": 1131,
-  "en": "Flabébé",
-  "it": "Flabébé"
+  "en": "Vivillon",
+  "it": "Vivillon"
  },
  {
   "id": 1132,
-  "en": "Flabébé",
-  "it": "Flabébé"
+  "en": "Vivillon",
+  "it": "Vivillon"
  },
  {
   "id": 1133,
-  "en": "Flabébé",
-  "it": "Flabébé"
+  "en": "Vivillon",
+  "it": "Vivillon"
  },
  {
   "id": 1134,
+  "en": "Vivillon",
+  "it": "Vivillon"
+ },
+ {
+  "id": 1135,
   "en": "Flabébé",
   "it": "Flabébé"
  },
  {
-  "id": 1135,
-  "en": "Floette",
-  "it": "Floette"
- },
- {
   "id": 1136,
-  "en": "Floette",
-  "it": "Floette"
+  "en": "Flabébé",
+  "it": "Flabébé"
  },
  {
   "id": 1137,
-  "en": "Floette",
-  "it": "Floette"
+  "en": "Flabébé",
+  "it": "Flabébé"
  },
  {
   "id": 1138,
-  "en": "Floette",
-  "it": "Floette"
+  "en": "Flabébé",
+  "it": "Flabébé"
  },
  {
   "id": 1139,
@@ -5696,43 +5696,43 @@
  },
  {
   "id": 1140,
-  "en": "Florges",
-  "it": "Florges"
+  "en": "Floette",
+  "it": "Floette"
  },
  {
   "id": 1141,
-  "en": "Florges",
-  "it": "Florges"
+  "en": "Floette",
+  "it": "Floette"
  },
  {
   "id": 1142,
-  "en": "Florges",
-  "it": "Florges"
+  "en": "Floette",
+  "it": "Floette"
  },
  {
   "id": 1143,
+  "en": "Floette",
+  "it": "Floette"
+ },
+ {
+  "id": 1144,
   "en": "Florges",
   "it": "Florges"
  },
  {
-  "id": 1144,
-  "en": "Furfrou",
-  "it": "Furfrou"
- },
- {
   "id": 1145,
-  "en": "Furfrou",
-  "it": "Furfrou"
+  "en": "Florges",
+  "it": "Florges"
  },
  {
   "id": 1146,
-  "en": "Furfrou",
-  "it": "Furfrou"
+  "en": "Florges",
+  "it": "Florges"
  },
  {
   "id": 1147,
-  "en": "Furfrou",
-  "it": "Furfrou"
+  "en": "Florges",
+  "it": "Florges"
  },
  {
   "id": 1148,
@@ -5761,148 +5761,148 @@
  },
  {
   "id": 1153,
+  "en": "Furfrou",
+  "it": "Furfrou"
+ },
+ {
+  "id": 1154,
+  "en": "Furfrou",
+  "it": "Furfrou"
+ },
+ {
+  "id": 1155,
+  "en": "Furfrou",
+  "it": "Furfrou"
+ },
+ {
+  "id": 1156,
+  "en": "Furfrou",
+  "it": "Furfrou"
+ },
+ {
+  "id": 1157,
   "en": "Meowstic",
   "it": "Meowstic"
  },
  {
-  "id": 1154,
+  "id": 1158,
   "en": "Aegislash",
   "it": "Aegislash"
  },
  {
-  "id": 1155,
+  "id": 1159,
   "en": "Sliggoo",
   "it": "Sliggoo"
  },
  {
-  "id": 1156,
+  "id": 1160,
   "en": "Goodra",
   "it": "Goodra"
  },
  {
-  "id": 1157,
-  "en": "Pumpkaboo",
-  "it": "Pumpkaboo"
- },
- {
-  "id": 1158,
-  "en": "Pumpkaboo",
-  "it": "Pumpkaboo"
- },
- {
-  "id": 1159,
-  "en": "Pumpkaboo",
-  "it": "Pumpkaboo"
- },
- {
-  "id": 1160,
-  "en": "Gourgeist",
-  "it": "Gourgeist"
- },
- {
   "id": 1161,
-  "en": "Gourgeist",
-  "it": "Gourgeist"
+  "en": "Pumpkaboo",
+  "it": "Pumpkaboo"
  },
  {
   "id": 1162,
+  "en": "Pumpkaboo",
+  "it": "Pumpkaboo"
+ },
+ {
+  "id": 1163,
+  "en": "Pumpkaboo",
+  "it": "Pumpkaboo"
+ },
+ {
+  "id": 1164,
   "en": "Gourgeist",
   "it": "Gourgeist"
  },
  {
-  "id": 1163,
+  "id": 1165,
+  "en": "Gourgeist",
+  "it": "Gourgeist"
+ },
+ {
+  "id": 1166,
+  "en": "Gourgeist",
+  "it": "Gourgeist"
+ },
+ {
+  "id": 1167,
   "en": "Avalugg",
   "it": "Avalugg"
  },
  {
-  "id": 1164,
+  "id": 1168,
   "en": "Xerneas",
   "it": "Xerneas"
  },
  {
-  "id": 1165,
+  "id": 1169,
   "en": "Zygarde",
   "it": "Zygarde"
  },
  {
-  "id": 1166,
+  "id": 1170,
   "en": "Zygarde",
   "it": "Zygarde"
  },
  {
-  "id": 1167,
+  "id": 1171,
   "en": "Zygarde",
   "it": "Zygarde"
  },
  {
-  "id": 1168,
+  "id": 1172,
   "en": "Diancie",
   "it": "Diancie"
  },
  {
-  "id": 1169,
+  "id": 1173,
   "en": "Hoopa",
   "it": "Hoopa"
  },
  {
-  "id": 1170,
+  "id": 1174,
   "en": "Decidueye",
   "it": "Decidueye"
  },
  {
-  "id": 1171,
+  "id": 1175,
   "en": "Oricorio",
   "it": "Oricorio"
  },
  {
-  "id": 1172,
+  "id": 1176,
   "en": "Oricorio",
   "it": "Oricorio"
  },
  {
-  "id": 1173,
+  "id": 1177,
   "en": "Oricorio",
   "it": "Oricorio"
  },
  {
-  "id": 1174,
+  "id": 1178,
   "en": "Rockruff",
   "it": "Rockruff"
  },
  {
-  "id": 1175,
-  "en": "Lycanroc",
-  "it": "Lycanroc"
- },
- {
-  "id": 1176,
-  "en": "Lycanroc",
-  "it": "Lycanroc"
- },
- {
-  "id": 1177,
-  "en": "Wishiwashi",
-  "it": "Wishiwashi"
- },
- {
-  "id": 1178,
-  "en": "Silvally",
-  "it": "Silvally"
- },
- {
   "id": 1179,
-  "en": "Silvally",
-  "it": "Silvally"
+  "en": "Lycanroc",
+  "it": "Lycanroc"
  },
  {
   "id": 1180,
-  "en": "Silvally",
-  "it": "Silvally"
+  "en": "Lycanroc",
+  "it": "Lycanroc"
  },
  {
   "id": 1181,
-  "en": "Silvally",
-  "it": "Silvally"
+  "en": "Wishiwashi",
+  "it": "Wishiwashi"
  },
  {
   "id": 1182,
@@ -5976,23 +5976,23 @@
  },
  {
   "id": 1196,
-  "en": "Minior",
-  "it": "Minior"
+  "en": "Silvally",
+  "it": "Silvally"
  },
  {
   "id": 1197,
-  "en": "Minior",
-  "it": "Minior"
+  "en": "Silvally",
+  "it": "Silvally"
  },
  {
   "id": 1198,
-  "en": "Minior",
-  "it": "Minior"
+  "en": "Silvally",
+  "it": "Silvally"
  },
  {
   "id": 1199,
-  "en": "Minior",
-  "it": "Minior"
+  "en": "Silvally",
+  "it": "Silvally"
  },
  {
   "id": 1200,
@@ -6011,78 +6011,78 @@
  },
  {
   "id": 1203,
+  "en": "Minior",
+  "it": "Minior"
+ },
+ {
+  "id": 1204,
+  "en": "Minior",
+  "it": "Minior"
+ },
+ {
+  "id": 1205,
+  "en": "Minior",
+  "it": "Minior"
+ },
+ {
+  "id": 1206,
+  "en": "Minior",
+  "it": "Minior"
+ },
+ {
+  "id": 1207,
   "en": "Mimikyu",
   "it": "Mimikyu"
  },
  {
-  "id": 1204,
-  "en": "Necrozma",
-  "it": "Necrozma"
- },
- {
-  "id": 1205,
-  "en": "Necrozma",
-  "it": "Necrozma"
- },
- {
-  "id": 1206,
-  "en": "Necrozma",
-  "it": "Necrozma"
- },
- {
-  "id": 1207,
-  "en": "Necrozma",
-  "it": "Necrozma"
- },
- {
   "id": 1208,
+  "en": "Necrozma",
+  "it": "Necrozma"
+ },
+ {
+  "id": 1209,
+  "en": "Necrozma",
+  "it": "Necrozma"
+ },
+ {
+  "id": 1210,
+  "en": "Necrozma",
+  "it": "Necrozma"
+ },
+ {
+  "id": 1211,
+  "en": "Necrozma",
+  "it": "Necrozma"
+ },
+ {
+  "id": 1212,
   "en": "Magearna",
   "it": "Magearna"
  },
  {
-  "id": 1209,
+  "id": 1213,
   "en": "Cramorant",
   "it": "Cramorant"
  },
  {
-  "id": 1210,
+  "id": 1214,
   "en": "Cramorant",
   "it": "Cramorant"
  },
  {
-  "id": 1211,
+  "id": 1215,
   "en": "Toxtricity",
   "it": "Toxtricity"
  },
  {
-  "id": 1212,
+  "id": 1216,
   "en": "Sinistea",
   "it": "Sinistea"
  },
  {
-  "id": 1213,
+  "id": 1217,
   "en": "Polteageist",
   "it": "Polteageist"
- },
- {
-  "id": 1214,
-  "en": "Alcremie",
-  "it": "Alcremie"
- },
- {
-  "id": 1215,
-  "en": "Alcremie",
-  "it": "Alcremie"
- },
- {
-  "id": 1216,
-  "en": "Alcremie",
-  "it": "Alcremie"
- },
- {
-  "id": 1217,
-  "en": "Alcremie",
-  "it": "Alcremie"
  },
  {
   "id": 1218,
@@ -6376,52 +6376,102 @@
  },
  {
   "id": 1276,
+  "en": "Alcremie",
+  "it": "Alcremie"
+ },
+ {
+  "id": 1277,
+  "en": "Alcremie",
+  "it": "Alcremie"
+ },
+ {
+  "id": 1278,
+  "en": "Alcremie",
+  "it": "Alcremie"
+ },
+ {
+  "id": 1279,
+  "en": "Alcremie",
+  "it": "Alcremie"
+ },
+ {
+  "id": 1280,
   "en": "Eiscue",
   "it": "Eiscue"
  },
  {
-  "id": 1277,
+  "id": 1281,
   "en": "Indeedee",
   "it": "Indeedee"
  },
  {
-  "id": 1278,
+  "id": 1282,
   "en": "Morpeko",
   "it": "Morpeko"
  },
  {
-  "id": 1279,
+  "id": 1283,
   "en": "Zacian",
   "it": "Zacian"
  },
  {
-  "id": 1280,
+  "id": 1284,
   "en": "Zamazenta",
   "it": "Zamazenta"
  },
  {
-  "id": 1281,
+  "id": 1285,
   "en": "Urshifu",
   "it": "Urshifu"
  },
  {
-  "id": 1282,
+  "id": 1286,
   "en": "Calyrex",
   "it": "Calyrex"
  },
  {
-  "id": 1283,
+  "id": 1287,
   "en": "Calyrex",
   "it": "Calyrex"
  },
  {
-  "id": 1284,
+  "id": 1288,
   "en": "Basculegion",
   "it": "Basculegion"
  },
  {
-  "id": 1285,
+  "id": 1289,
   "en": "Enamorus",
   "it": "Enamorus"
+ },
+ {
+  "id": 1290,
+  "en": "Sirfetch'd",
+  "it": "Sirfetch'd"
+ },
+ {
+  "id": 1291,
+  "en": "Muk",
+  "it": "Muk"
+ },
+ {
+  "id": 1292,
+  "en": "Mewtwo",
+  "it": "Mewtwo"
+ },
+ {
+  "id": 1293,
+  "en": "Tyranitar",
+  "it": "Tyranitar"
+ },
+ {
+  "id": 1294,
+  "en": "Charizard",
+  "it": "Charizard"
+ },
+ {
+  "id": 1295,
+  "en": "Lucario",
+  "it": "Lucario"
  }
 ]

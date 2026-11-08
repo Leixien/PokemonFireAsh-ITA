@@ -40,9 +40,9 @@
   "it": "\\bSono nervosissimo. Cosa dovrei usare?"
  },
  {
-  "id": "\\bThe Indigo League is done. Come back next year.",
-  "en": "\\bThe Indigo League is done. Come back next year.",
-  "it": "\\bLa Lega Indaco è finita. Torna l'anno prossimo."
+  "id": "\\rThe Indigo League is done. Come back next year.",
+  "en": "\\rThe Indigo League is done. Come back next year.",
+  "it": "\\rLa Lega Indaco è finita. Torna l'anno prossimo."
  },
  {
   "id": "\\bGood luck. You'll need it.",
@@ -60,14 +60,14 @@
   "it": "\\bSono sicuro che c'è un modo per farcela."
  },
  {
-  "id": "\\bThis is the path to the Johto region. It is a dangerous path, so we advise people to stay away during the League.",
-  "en": "\\bThis is the path to the Johto region. It is a dangerous path, so we advise people to stay away during the League.",
-  "it": "\\bQuesta è la strada per la regione di Johto. È pericolosa, quindi durante la Lega consigliamo di starne lontani."
+  "id": "\\rThis is the path to the Johto region. It is a dangerous path, so we advise people to stay away during the League.",
+  "en": "\\rThis is the path to the Johto region. It is a dangerous path, so we advise people to stay away during the League.",
+  "it": "\\rQuesta è la strada per la regione di Johto. È un percorso pericoloso, quindi durante la Lega consigliamo a tutti di starne lontani."
  },
  {
-  "id": "\\bThis is the border between Kanto and Johto.",
-  "en": "\\bThis is the border between Kanto and Johto.",
-  "it": "\\bQuesto è il confine tra Kanto e Johto."
+  "id": "\\rThis is the border between Kanto and Johto.",
+  "en": "\\rThis is the border between Kanto and Johto.",
+  "it": "\\rQuesto è il confine tra Kanto e Johto."
  },
  {
   "id": "\\bThe rules here used to be really complex. Due to too many complaints they were changed.",
@@ -93,6 +93,11 @@
   "id": "\\bCome back anytime!",
   "en": "\\bCome back anytime!",
   "it": "\\bTorna quando vuoi!"
+ },
+ {
+  "id": "\\rWe look forward to seeing you rematch the Indigo League, Monarch \\PN.",
+  "en": "\\rWe look forward to seeing you rematch the Indigo League, Monarch \\PN.",
+  "it": "\\rNon vediamo l'ora di vederti sfidare di nuovo la Lega Indaco, Monarca \\PN."
  },
  {
   "id": "You got your Frontier Pass back!",

@@ -13,5 +13,20 @@
   "id": "\\bCongratulations on winning your first match.\\nYour next battle will be on to the right.",
   "en": "\\bCongratulations on winning your first match.\\nYour next battle will be on to the right.",
   "it": "\\bCongratulazioni per aver vinto il tuo primo incontro.\\nLa tua prossima lotta si terrà sulla destra."
+ },
+ {
+  "id": "\\rI hope you're not going to battle me with a Dragon. That would be disappointing.",
+  "en": "\\rI hope you're not going to battle me with a Dragon. That would be disappointing.",
+  "it": "\\rSpero che tu non voglia sfidarmi con un Drago. Sarebbe deludente."
+ },
+ {
+  "id": "\\rHmph.",
+  "en": "\\rHmph.",
+  "it": "\\rHmph."
+ },
+ {
+  "id": "\\rDon't lose. If I can't win you might as well this time.",
+  "en": "\\rDon't lose. If I can't win you might as well this time.",
+  "it": "\\rNon perdere. Se non posso vincere io, stavolta almeno vinci tu."
  }
 ]

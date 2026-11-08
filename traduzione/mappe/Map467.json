@@ -5,8 +5,18 @@
   "it": "\\rPensi di potermi battere? Te lo scordi."
  },
  {
-  "id": "\\bCongratulations on making it to the top 32. \\nYour next battle will be the Top 16.",
-  "en": "\\bCongratulations on making it to the top 32. \\nYour next battle will be the Top 16.",
-  "it": "\\bCongratulazioni per aver raggiunto la Top 32. \\nIl tuo prossimo incontro sarà nella Top 16."
+  "id": "\\bCongratulations on making it to the Top 32. \\nYour next battle will be the Top 16.",
+  "en": "\\bCongratulations on making it to the Top 32. \\nYour next battle will be the Top 16.",
+  "it": "\\bCongratulazioni per essere arrivato nella Top 32. \\nIl tuo prossimo incontro sarà nella Top 16."
+ },
+ {
+  "id": "\\rYou think you can beat me again? Fat chance.",
+  "en": "\\rYou think you can beat me again? Fat chance.",
+  "it": "\\rPensi di potermi battere di nuovo? Te lo scordi."
+ },
+ {
+  "id": "\\bCongratulations on making it to the Top 8. \\nYour next battle will be the Top 4.",
+  "en": "\\bCongratulations on making it to the Top 8. \\nYour next battle will be the Top 4.",
+  "it": "\\bCongratulazioni per essere arrivato nella Top 8. \\nIl tuo prossimo incontro sarà nella Top 4."
  }
 ]

@@ -20,9 +20,9 @@
   "it": "\\rHo appena ricevuto una chiamata da una ragazza di nome Vera che ti cercava. Ha detto di raggiungerla a Orocea il prima possibile."
  },
  {
-  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Oldale, Petalburg,Rustboro,Dewford,Slateport,Mauville, Fallabor,Lavaridge,Fortre,Lilycove,Mossdeep,Cancel]",
-  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Oldale, Petalburg,Rustboro,Dewford,Slateport,Mauville, Fallabor,Lavaridge,Fortre,Lilycove,Mossdeep,Cancel]",
-  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Solarosa, Petalipoli,Ferrugipoli,Bluruvia,Porto Selcepoli,Ciclamipoli, Mentania,Cuordilava,Forestopoli,Porto Alghepoli,Verdeazzupoli,Annulla]"
+  "id": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Oldale, Petalburg,Rustboro,Dewford,Slateport,Mauville, Fallabor,Lavaridge,Fortree,Lilycove,Mossdeep,Cancel]",
+  "en": "\\rMy Gardevoir can Teleport you.\\ch[1,-1,Oldale, Petalburg,Rustboro,Dewford,Slateport,Mauville, Fallabor,Lavaridge,Fortree,Lilycove,Mossdeep,Cancel]",
+  "it": "\\rIl mio Gardevoir può teletrasportarti.\\ch[1,-1,Solarosa, Petalipoli,Ferrugipoli,Bluruvia,Porto Selcepoli,Ciclamipoli, Brunifoglia,Cuordilava,Forestopoli,Porto Alghepoli,Verdeazzupoli,Annulla]"
  },
  {
   "id": "\\rDo you think Wallace or Juan is better?",

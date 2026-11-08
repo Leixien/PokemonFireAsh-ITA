@@ -1,33 +1,43 @@
 [
  {
-  "id": "\\bHello \\PN. I can change your Rotom to a different form.",
-  "en": "\\bHello \\PN. I can change your Rotom to a different form.",
-  "it": "\\bCiao \\PN. Posso cambiare la forma del tuo Rotom."
+  "id": "It's a place to change clothes. Too bad you don't have any extras right now.",
+  "en": "It's a place to change clothes. Too bad you don't have any extras right now.",
+  "it": "È un posto dove cambiarsi d'abito. Peccato che al momento tu non ne abbia altri."
  },
  {
-  "id": "\\bWould you like to change Rotom?",
-  "en": "\\bWould you like to change Rotom?",
-  "it": "\\bVuoi cambiare la forma di Rotom?"
+  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Cancel]",
+  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Cancel]",
+  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Annulla]"
  },
  {
-  "id": "\\v[1] has changed to Frost Rotom!",
-  "en": "\\v[1] has changed to Frost Rotom!",
-  "it": "\\v[1] si è trasformato in Rotom Gelo!"
+  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Cancel]",
+  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Cancel]",
+  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Annulla]"
  },
  {
-  "id": "\\v[1] has changed to Fan Rotom!",
-  "en": "\\v[1] has changed to Fan Rotom!",
-  "it": "\\v[1] si è trasformato in Rotom Vortice!"
+  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Cancel]",
+  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Cancel]",
+  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unima, Annulla]"
  },
  {
-  "id": "\\v[1] has changed to Mow Rotom!",
-  "en": "\\v[1] has changed to Mow Rotom!",
-  "it": "\\v[1] si è trasformato in Rotom Taglio!"
+  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Cancel]",
+  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Cancel]",
+  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unima, Kalos, Annulla]"
  },
  {
-  "id": "\\bIf you ever want to change Rotom to a different form come back and see me.",
-  "en": "\\bIf you ever want to change Rotom to a different form come back and see me.",
-  "it": "\\bSe mai vorrai cambiare la forma di Rotom, torna a trovarmi."
+  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Cancel]",
+  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Cancel]",
+  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unima, Kalos, Alola, Annulla]"
+ },
+ {
+  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Cancel]",
+  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Cancel]",
+  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unima, Kalos, Alola, Galar, Annulla]"
+ },
+ {
+  "id": "\\bVeno",
+  "en": "\\bVeno",
+  "it": "\\bVeno"
  },
  {
   "id": "It's a list of your accomplishments. It's empty right now.",
@@ -38,31 +48,6 @@
   "id": "Lumiose Conference Placement for \\PN:\\nRunner up",
   "en": "Lumiose Conference Placement for \\PN:\\nRunner up",
   "it": "Piazzamento di \\PN alla Conferenza di Luminopoli:\\nSecondo posto"
- },
- {
-  "id": "\\bVeno",
-  "en": "\\bVeno",
-  "it": "\\bVeno"
- },
- {
-  "id": "\\bProfessor Oak is the leading expert in Pokémon.",
-  "en": "\\bProfessor Oak is the leading expert in Pokémon.",
-  "it": "\\bIl Professor Oak è il massimo esperto di Pokémon."
- },
- {
-  "id": "\\bAh, Professor Oak told you to speak with me. We recently acquired this, and would like you to have it.",
-  "en": "\\bAh, Professor Oak told you to speak with me. We recently acquired this, and would like you to have it.",
-  "it": "\\bAh, il Professor Oak ti ha detto di parlare con me. Abbiamo appena ricevuto questo e vorremmo che lo avessi tu."
- },
- {
-  "id": "\\bThat's a Shiny Charm. It will increase your chances of finding a Shiny Pokémon.",
-  "en": "\\bThat's a Shiny Charm. It will increase your chances of finding a Shiny Pokémon.",
-  "it": "\\bÈ un Cromamuleto. Aumenterà le tue probabilità di trovare un Pokémon cromatico."
- },
- {
-  "id": "Your Pokémon were fully healed.",
-  "en": "Your Pokémon were fully healed.",
-  "it": "I tuoi Pokémon sono stati curati completamente."
  },
  {
   "id": "It's a place to change caps for Pikachu. Too bad you don't have any extras right now.",
@@ -100,44 +85,24 @@
   "it": "\\v[1] si è trasformato in Pikachu Berretto Mondiale!"
  },
  {
-  "id": "It's a place to change clothes. Too bad you don't have any extras right now.",
-  "en": "It's a place to change clothes. Too bad you don't have any extras right now.",
-  "it": "È un posto dove cambiarsi d'abito. Peccato che al momento tu non ne abbia altri."
+  "id": "Your Pokémon were fully healed.",
+  "en": "Your Pokémon were fully healed.",
+  "it": "I tuoi Pokémon sono stati curati completamente."
  },
  {
-  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Cancel]",
-  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Cancel]",
-  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Annulla]"
+  "id": "\\bProfessor Oak is the leading expert in Pokémon.",
+  "en": "\\bProfessor Oak is the leading expert in Pokémon.",
+  "it": "\\bIl Professor Oak è il massimo esperto di Pokémon."
  },
  {
-  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Cancel]",
-  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Cancel]",
-  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Annulla]"
+  "id": "\\bAh, Professor Oak told you to speak with me. We recently acquired this, and would like you to have it.",
+  "en": "\\bAh, Professor Oak told you to speak with me. We recently acquired this, and would like you to have it.",
+  "it": "\\bAh, il Professor Oak ti ha detto di parlare con me. Abbiamo appena ricevuto questo e vorremmo che lo avessi tu."
  },
  {
-  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Cancel]",
-  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Cancel]",
-  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unima, Annulla]"
- },
- {
-  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Cancel]",
-  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Cancel]",
-  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unima, Kalos, Annulla]"
- },
- {
-  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Cancel]",
-  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Cancel]",
-  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unima, Kalos, Alola, Annulla]"
- },
- {
-  "id": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Cancel]",
-  "en": "Which outfit would you like?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Cancel]",
-  "it": "Quale completo vuoi indossare?\\ch[1,1,Kanto/Johto, Hoenn, Sinnoh, Unima, Kalos, Alola, Galar, Annulla]"
- },
- {
-  "id": "Ever Grande Placement for \\PN:\\nTop 8",
-  "en": "Ever Grande Placement for \\PN:\\nTop 8",
-  "it": "Piazzamento di \\PN a Iridopoli:\\nTop 8"
+  "id": "\\bThat's a Shiny Charm. It will increase your chances of finding a Shiny Pokémon.",
+  "en": "\\bThat's a Shiny Charm. It will increase your chances of finding a Shiny Pokémon.",
+  "it": "\\bÈ un Cromamuleto. Aumenterà le tue probabilità di trovare un Pokémon cromatico."
  },
  {
   "id": "\\bScyther...",
@@ -145,9 +110,19 @@
   "it": "\\bScyther..."
  },
  {
-  "id": "World Coronation Series Placement for \\PN: \\nMonarch",
-  "en": "World Coronation Series Placement for \\PN: \\nMonarch",
-  "it": "Piazzamento di \\PN alle World Coronation Series: \\nMonarca"
+  "id": "Ever Grande Placement for \\PN:\\nTop 8",
+  "en": "Ever Grande Placement for \\PN:\\nTop 8",
+  "it": "Piazzamento di \\PN a Iridopoli:\\nTop 8"
+ },
+ {
+  "id": "It's a place to change into your special clothes. Too bad you don't have any extras right now.",
+  "en": "It's a place to change into your special clothes. Too bad you don't have any extras right now.",
+  "it": "È un posto dove indossare i tuoi abiti speciali. Peccato che al momento tu non ne abbia altri."
+ },
+ {
+  "id": "Which outfit would you like?\\ch[1,1,Rookie, Cancel]",
+  "en": "Which outfit would you like?\\ch[1,1,Rookie, Cancel]",
+  "it": "Quale abito vuoi indossare?\\ch[1,1,Principiante, Annulla]"
  },
  {
   "id": "\\bTracey: Hi \\PN. Can you believe I get to work for Professor Oak?!",
@@ -160,9 +135,9 @@
   "it": "\\bTracey: Pronto per la rivincita?"
  },
  {
-  "id": "Battle Frontier Status for \\PN:\\nFrontier Brain candidate",
-  "en": "Battle Frontier Status for \\PN:\\nFrontier Brain candidate",
-  "it": "Stato di \\PN al Parco Lotta:\\nCandidato Asso Lotta"
+  "id": "World Coronation Series Placement for \\PN: \\nMonarch",
+  "en": "World Coronation Series Placement for \\PN: \\nMonarch",
+  "it": "Piazzamento di \\PN alle World Coronation Series: \\nMonarca"
  },
  {
   "id": "\\rMarill",
@@ -170,9 +145,9 @@
   "it": "\\rMarill"
  },
  {
-  "id": "Indigo League Placement for \\PN:\\nTop 16",
-  "en": "Indigo League Placement for \\PN:\\nTop 16",
-  "it": "Piazzamento di \\PN alla Lega Indaco:\\nTop 16"
+  "id": "Battle Frontier Status for \\PN:\\nFrontier Brain candidate",
+  "en": "Battle Frontier Status for \\PN:\\nFrontier Brain candidate",
+  "it": "Stato di \\PN al Parco Lotta:\\nCandidato Asso Lotta"
  },
  {
   "id": "\\rHello, \\PN. Gary already left for the lab 2 hours ago. Hurry up!",
@@ -188,6 +163,16 @@
   "id": "\\rEnjoying your adventure? Cherish your time with Pikachu.",
   "en": "\\rEnjoying your adventure? Cherish your time with Pikachu.",
   "it": "\\rTi stai godendo l'avventura? Fai tesoro del tempo che passi con Pikachu."
+ },
+ {
+  "id": "Indigo League Placement for \\PN:\\nTop 16",
+  "en": "Indigo League Placement for \\PN:\\nTop 16",
+  "it": "Piazzamento di \\PN alla Lega Indaco:\\nTop 16"
+ },
+ {
+  "id": "Lily of the Valley Placement for \\PN:\\nTop 4",
+  "en": "Lily of the Valley Placement for \\PN:\\nTop 4",
+  "it": "Piazzamento di \\PN alla Conferenza Giglio della Valle:\\nTop 4"
  },
  {
   "id": "Where would you like to go?\\ch[1,-1,Orange,Cancel]",
@@ -230,9 +215,14 @@
   "it": "Dove vuoi andare?\\ch[1,-1,Orange, Johto,Hoenn,Sinnoh,Unima,Kalos,Alola,Galar,Annulla]"
  },
  {
-  "id": "Lily of the Valley Placement for \\PN:\\nTop 4",
-  "en": "Lily of the Valley Placement for \\PN:\\nTop 4",
-  "it": "Piazzamento di \\PN alla Conferenza Giglio della Valle:\\nTop 4"
+  "id": "Manalo Conference Placement for \\PN:\\nWinner",
+  "en": "Manalo Conference Placement for \\PN:\\nWinner",
+  "it": "Piazzamento di \\PN alla Conferenza Manalo:\\nVincitore"
+ },
+ {
+  "id": "Orange League Placement for \\PN:\\nWinner",
+  "en": "Orange League Placement for \\PN:\\nWinner",
+  "it": "Piazzamento di \\PN alla Lega Orange:\\nVincitore"
  },
  {
   "id": "\\rOh... Are you all right? Well, you'll have better luck this time.",
@@ -255,14 +245,9 @@
   "it": "\\rMamma: \\PN, era ora che ti facessi vivo. Mimey ci ha fatto vincere una vacanza ad Alola! Andiamo subito a Smeraldopoli."
  },
  {
-  "id": "Orange League Placement for \\PN:\\nWinner",
-  "en": "Orange League Placement for \\PN:\\nWinner",
-  "it": "Piazzamento di \\PN alla Lega Orange:\\nVincitore"
- },
- {
-  "id": "Manalo Conference Placement for \\PN:\\nWinner",
-  "en": "Manalo Conference Placement for \\PN:\\nWinner",
-  "it": "Piazzamento di \\PN alla Conferenza Manalo:\\nVincitore"
+  "id": "Vetress Conference Placement for \\PN:\\nTop 8",
+  "en": "Vetress Conference Placement for \\PN:\\nTop 8",
+  "it": "Piazzamento di \\PN alla Conferenza Vetress:\\nTop 8"
  },
  {
   "id": "\\rMom: \\PN, you're late! Hurry over to Professor Oak to get your first Pokémon.",
@@ -270,54 +255,19 @@
   "it": "\\rMamma: \\PN, sei in ritardo! Corri dal Professor Oak a prendere il tuo primo Pokémon. "
  },
  {
-  "id": "Vetress Conference Placement for \\PN:\\nTop 8",
-  "en": "Vetress Conference Placement for \\PN:\\nTop 8",
-  "it": "Piazzamento di \\PN alla Conferenza Vetress:\\nTop 8"
- },
- {
-  "id": "\\v[1] has changed to Rotom!",
-  "en": "\\v[1] has changed to Rotom!",
-  "it": "\\v[1] si è trasformato in Rotom!"
- },
- {
-  "id": "\\v[1] has changed to Heat Rotom!",
-  "en": "\\v[1] has changed to Heat Rotom!",
-  "it": "\\v[1] si è trasformato in Rotom Calore!"
- },
- {
-  "id": "\\v[1] has changed to Wash Rotom!",
-  "en": "\\v[1] has changed to Wash Rotom!",
-  "it": "\\v[1] si è trasformato in Rotom Lavaggio!"
- },
- {
   "id": "Silver Conference Placement for \\PN:\\nTop 8",
   "en": "Silver Conference Placement for \\PN:\\nTop 8",
   "it": "Piazzamento di \\PN alla Conferenza Argento:\\nTop 8"
  },
  {
-  "id": "\\rJessie: Haha! I bet you never expected to find us here.",
-  "en": "\\rJessie: Haha! I bet you never expected to find us here.",
-  "it": "\\rJessie: Ah ah! Scommetto che non ti aspettavi di trovarci qui."
+  "id": "\\bHey \\PN. Here's an item you can use to change Rotom's form.",
+  "en": "\\bHey \\PN. Here's an item you can use to change Rotom's form.",
+  "it": "\\bEhi \\PN. Ecco uno strumento che puoi usare per cambiare la forma di Rotom."
  },
  {
-  "id": "\\bJames: Now that you're off guard your Pokémon will be easy to take.",
-  "en": "\\bJames: Now that you're off guard your Pokémon will be easy to take.",
-  "it": "\\bJames: Ora che sei impreparato, rubare i tuoi Pokémon sarà un gioco da ragazzi."
- },
- {
-  "id": "\\bMeowth: Hand them over twerp.",
-  "en": "\\bMeowth: Hand them over twerp.",
-  "it": "\\bMeowth: Consegnaceli, moccioso."
- },
- {
-  "id": "\\bWobbuffet!",
-  "en": "\\bWobbuffet!",
-  "it": "\\bWobbuffet!"
- },
- {
-  "id": "\\bMr. Mime",
-  "en": "\\bMr. Mime",
-  "it": "\\bMr. Mime"
+  "id": "\\bUse it well!",
+  "en": "\\bUse it well!",
+  "it": "\\bUsalo bene!"
  },
  {
   "id": "\\v[1] has taken off its cap.",
@@ -340,29 +290,39 @@
   "it": "\\v[1] si è trasformato in Pikachu Berretto Sinnoh!"
  },
  {
-  "id": "Frost",
-  "en": "Frost",
-  "it": "Gelo"
+  "id": "\\bMr. Mime",
+  "en": "\\bMr. Mime",
+  "it": "\\bMr. Mime"
  },
  {
-  "id": "Fan",
-  "en": "Fan",
-  "it": "Vortice"
+  "id": "\\rJessie: Haha! I bet you never expected to find us here.",
+  "en": "\\rJessie: Haha! I bet you never expected to find us here.",
+  "it": "\\rJessie: Ah ah! Scommetto che non ti aspettavi di trovarci qui."
  },
  {
-  "id": "Mow",
-  "en": "Mow",
-  "it": "Taglio"
+  "id": "\\bJames: Now that you're off guard your Pokémon will be easy to take.",
+  "en": "\\bJames: Now that you're off guard your Pokémon will be easy to take.",
+  "it": "\\bJames: Ora che sei impreparato, rubare i tuoi Pokémon sarà un gioco da ragazzi."
  },
  {
-  "id": "Cancel",
-  "en": "Cancel",
-  "it": "Annulla"
+  "id": "\\bMeowth: Hand them over twerp.",
+  "en": "\\bMeowth: Hand them over twerp.",
+  "it": "\\bMeowth: Consegnaceli, moccioso."
+ },
+ {
+  "id": "\\bWobbuffet!",
+  "en": "\\bWobbuffet!",
+  "it": "\\bWobbuffet!"
  },
  {
   "id": "Unova Cap",
   "en": "Unova Cap",
   "it": "Berretto Unima"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
  },
  {
   "id": "Kalos Cap",
@@ -378,21 +338,6 @@
   "id": "World Cap",
   "en": "World Cap",
   "it": "Berretto Mondiale"
- },
- {
-  "id": "Normal",
-  "en": "Normal",
-  "it": "Normale"
- },
- {
-  "id": "Heat",
-  "en": "Heat",
-  "it": "Calore"
- },
- {
-  "id": "Wash",
-  "en": "Wash",
-  "it": "Lavaggio"
  },
  {
   "id": "Capless",

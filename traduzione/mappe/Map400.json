@@ -15,11 +15,6 @@
   "it": "\\bTogepi"
  },
  {
-  "id": "\\rThis is the Mirage Kingdom. We are a small group that worship the Togepi family.",
-  "en": "\\rThis is the Mirage Kingdom. We are a small group that worship the Togepi family.",
-  "it": "\\rQuesto è il Regno Miraggio. Siamo un piccolo gruppo che venera la famiglia dei Togepi."
- },
- {
   "id": "\\rMisty: \\PN, what are you doing here?",
   "en": "\\rMisty: \\PN, what are you doing here?",
   "it": "\\rMisty: \\PN, che ci fai qui?"
@@ -40,9 +35,9 @@
   "it": "\\rMisty: Mi mancherà Togetic."
  },
  {
-  "id": "\\rDon't you just love how peaceful they are?",
-  "en": "\\rDon't you just love how peaceful they are?",
-  "it": "\\rNon ti piace quanto sono tranquilli?"
+  "id": "\\rThis is the Mirage Kingdom. We are a small group that worship the Togepi family.",
+  "en": "\\rThis is the Mirage Kingdom. We are a small group that worship the Togepi family.",
+  "it": "\\rQuesto è il Regno Miraggio. Siamo un piccolo gruppo che venera la famiglia dei Togepi."
  },
  {
   "id": "\\bWe don't let many people do this but your Pokémon seem to care a lot for you.",
@@ -63,6 +58,11 @@
   "id": "\\bBe sure to raise it with lots of love.",
   "en": "\\bBe sure to raise it with lots of love.",
   "it": "\\bMi raccomando, crescilo con tanto amore."
+ },
+ {
+  "id": "\\rDon't you just love how peaceful they are?",
+  "en": "\\rDon't you just love how peaceful they are?",
+  "it": "\\rNon ti piace quanto sono tranquilli?"
  },
  {
   "id": "\\bThe king and queen live in the palace up there.",

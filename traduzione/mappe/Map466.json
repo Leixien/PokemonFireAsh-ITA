@@ -5,13 +5,118 @@
   "it": "\\bTi servono almeno due Pokémon se vuoi sfidarmi."
  },
  {
+  "id": "\\bYou don't stand a chance.",
+  "en": "\\bYou don't stand a chance.",
+  "it": "\\bNon hai speranze."
+ },
+ {
+  "id": "\\bCongratulations on making it through the Doubles round. \\nYour next battle will be another Doubles battle.",
+  "en": "\\bCongratulations on making it through the Doubles round. \\nYour next battle will be another Doubles battle.",
+  "it": "\\bCongratulazioni per aver superato il turno delle lotte in doppio. \\nIl tuo prossimo incontro sarà un'altra lotta in doppio."
+ },
+ {
+  "id": "\\rYou'll need at least two Pokémon if you want to battle me.",
+  "en": "\\rYou'll need at least two Pokémon if you want to battle me.",
+  "it": "\\rTi servono almeno due Pokémon se vuoi sfidarmi."
+ },
+ {
+  "id": "\\rGood luck to you.",
+  "en": "\\rGood luck to you.",
+  "it": "\\rBuona fortuna."
+ },
+ {
+  "id": "\\bCongratulations on making it through the Doubles battle. \\nYour next battle will be another Double battle.",
+  "en": "\\bCongratulations on making it through the Doubles battle. \\nYour next battle will be another Double battle.",
+  "it": "\\bCongratulazioni per aver superato la lotta in doppio. \\nIl tuo prossimo incontro sarà un'altra lotta in doppio."
+ },
+ {
   "id": "\\bThink you're prepared?",
   "en": "\\bThink you're prepared?",
   "it": "\\bPensi di essere preparato?"
  },
  {
+  "id": "\\bCongratulations on making it through the Doubles round. \\nYour next battle will be the Top 8.",
+  "en": "\\bCongratulations on making it through the Doubles round. \\nYour next battle will be the Top 8.",
+  "it": "\\bCongratulazioni per aver superato il turno delle lotte in doppio. \\nIl tuo prossimo incontro sarà nella Top 8."
+ },
+ {
   "id": "\\bCongratulations on making it through the Doubles round. \\nYour next battle will be the Top 32.",
   "en": "\\bCongratulations on making it through the Doubles round. \\nYour next battle will be the Top 32.",
   "it": "\\bCongratulazioni per aver superato il turno delle lotte in doppio. \\nIl tuo prossimo incontro sarà nella Top 32."
+ },
+ {
+  "id": "\\bYou don't stand a chance, even if you're the Monarch.",
+  "en": "\\bYou don't stand a chance, even if you're the Monarch.",
+  "it": "\\bNon hai speranze, anche se sei il Monarca."
+ },
+ {
+  "id": "\\bForgive me... your Pokémon work very well together.",
+  "en": "\\bForgive me... your Pokémon work very well together.",
+  "it": "\\bPerdonami... i tuoi Pokémon lavorano davvero bene insieme."
+ },
+ {
+  "id": "\\bTold you!",
+  "en": "\\bTold you!",
+  "it": "\\bTe l'avevo detto!"
+ },
+ {
+  "id": "\\rGood luck to you again?",
+  "en": "\\rGood luck to you again?",
+  "it": "\\rTi auguro di nuovo buona fortuna?"
+ },
+ {
+  "id": "\\rYeah, you really didn't need it.",
+  "en": "\\rYeah, you really didn't need it.",
+  "it": "\\rGià, proprio non ti serviva."
+ },
+ {
+  "id": "\\rOops, looks like you're having a bad day or something.",
+  "en": "\\rOops, looks like you're having a bad day or something.",
+  "it": "\\rUps, sembra che tu stia avendo una giornataccia o qualcosa del genere."
+ },
+ {
+  "id": "\\bThink you're prepared, Monarch?",
+  "en": "\\bThink you're prepared, Monarch?",
+  "it": "\\bPensi di essere pronto, Monarca?"
+ },
+ {
+  "id": "\\bLooks like I couldn't conduct my victory this time.",
+  "en": "\\bLooks like I couldn't conduct my victory this time.",
+  "it": "\\bA quanto pare stavolta non sono riuscito a dirigere la mia vittoria."
+ },
+ {
+  "id": "\\bThank you for allowing me to have my best performance ever, Monarch.",
+  "en": "\\bThank you for allowing me to have my best performance ever, Monarch.",
+  "it": "\\bGrazie per avermi permesso di dare la miglior esibizione della mia vita, Monarca."
+ },
+ {
+  "id": "\\bIt's an honour to have the opportunity to spar with you, Monarch.",
+  "en": "\\bIt's an honour to have the opportunity to spar with you, Monarch.",
+  "it": "\\bÈ un onore avere l'occasione di misurarmi con te, Monarca."
+ },
+ {
+  "id": "\\bI concede defeat.",
+  "en": "\\bI concede defeat.",
+  "it": "\\bMi arrendo."
+ },
+ {
+  "id": "\\bThanks for the battle.",
+  "en": "\\bThanks for the battle.",
+  "it": "\\bGrazie per la lotta."
+ },
+ {
+  "id": "\\bYou're going down, Monarch!",
+  "en": "\\bYou're going down, Monarch!",
+  "it": "\\bTi farò a pezzi, Monarca!"
+ },
+ {
+  "id": "\\bUgh... I'll beat you next time!",
+  "en": "\\bUgh... I'll beat you next time!",
+  "it": "\\bUffa... la prossima volta ti batterò!"
+ },
+ {
+  "id": "\\bBarely a challenge compared to Tyson.",
+  "en": "\\bBarely a challenge compared to Tyson.",
+  "it": "\\bA malapena una sfida in confronto a Tyson."
  }
 ]

@@ -15,14 +15,19 @@
   "it": "\\bNon ci credo, ho perso un'altra Gara... Come farò mai ad avere successo?"
  },
  {
-  "id": "\\rI can pass on Dragon Ascent to you.",
-  "en": "\\rI can pass on Dragon Ascent to you.",
-  "it": "\\rPosso insegnarti Ascesa del Drago."
+  "id": "\\rLong have I waited for Rayquaza to appear.",
+  "en": "\\rLong have I waited for Rayquaza to appear.",
+  "it": "\\rHo atteso a lungo che comparisse Rayquaza."
  },
  {
-  "id": "\\rWhich Pokémon would you like me to teach?",
-  "en": "\\rWhich Pokémon would you like me to teach?",
-  "it": "\\rA quale Pokémon vuoi che la insegni?"
+  "id": "\\rThat's it! Let me teach it Dragon Ascent...",
+  "en": "\\rThat's it! Let me teach it Dragon Ascent...",
+  "it": "\\rEcco! Gli insegnerò Ascesa del Drago..."
+ },
+ {
+  "id": "\\rIf you ever find it come show me.",
+  "en": "\\rIf you ever find it come show me.",
+  "it": "\\rSe mai lo trovi, vieni a mostrarmelo."
  },
  {
   "id": "\\rCome back anytime!",

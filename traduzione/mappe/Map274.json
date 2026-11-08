@@ -50,6 +50,166 @@
   "it": "\\bDa oggi sono solo uno sfidante come tanti. Farò un sacco di lotte e diventerò ancora più forte! Rifacciamolo prima o poi."
  },
  {
+  "id": "\\bLance: We meet again under less dangerous circumstances, \\PN.",
+  "en": "\\bLance: We meet again under less dangerous circumstances, \\PN.",
+  "it": "\\bLance: Ci rincontriamo in circostanze meno pericolose, \\PN."
+ },
+ {
+  "id": "\\bLet me show you what a real Dragon Master's capable of.",
+  "en": "\\bLet me show you what a real Dragon Master's capable of.",
+  "it": "\\bLascia che ti mostri di cosa è capace un vero Maestro dei Draghi."
+ },
+ {
+  "id": "\\bLance: We meet again under less dangerous circumstances, Monarch \\PN.",
+  "en": "\\bLance: We meet again under less dangerous circumstances, Monarch \\PN.",
+  "it": "\\bLance: Ci rincontriamo in circostanze meno pericolose, Monarca \\PN."
+ },
+ {
+  "id": "\\bLet me test my skills against you to see if I'm worthy of being the Monarch!",
+  "en": "\\bLet me test my skills against you to see if I'm worthy of being the Monarch!",
+  "it": "\\bLascia che metta alla prova le mie abilità contro di te, per vedere se sono degno di essere il Monarca!"
+ },
+ {
+  "id": "\\bLance: I'm impressed. You're deserving of the being the Monarch.",
+  "en": "\\bLance: I'm impressed. You're deserving of the being the Monarch.",
+  "it": "\\bLance: Sono colpito. Meriti di essere il Monarca."
+ },
+ {
+  "id": "\\bLance: Not bad at all, \\PN.",
+  "en": "\\bLance: Not bad at all, \\PN.",
+  "it": "\\bLance: Niente male, \\PN."
+ },
+ {
+  "id": "\\bSteven: We battle again in the first round, \\PN.",
+  "en": "\\bSteven: We battle again in the first round, \\PN.",
+  "it": "\\bRocco: Ci affrontiamo di nuovo al primo turno, \\PN."
+ },
+ {
+  "id": "\\bSteven: We battle again in the first round, Monarch \\PN.",
+  "en": "\\bSteven: We battle again in the first round, Monarch \\PN.",
+  "it": "\\bRocco: Ci affrontiamo di nuovo al primo turno, Monarca \\PN."
+ },
+ {
+  "id": "\\bI've been waiting for the opportunity to go all out against you again. I won't lose!",
+  "en": "\\bI've been waiting for the opportunity to go all out against you again. I won't lose!",
+  "it": "\\bAspettavo l'occasione di dare di nuovo il massimo contro di te. Non perderò!"
+ },
+ {
+  "id": "\\bSteven: I couldn't have asked for a better battle. Good luck in the semi-finals, even if you won't need it.",
+  "en": "\\bSteven: I couldn't have asked for a better battle. Good luck in the semi-finals, even if you won't need it.",
+  "it": "\\bRocco: Non avrei potuto chiedere una lotta migliore. Buona fortuna in semifinale, anche se non ne avrai bisogno."
+ },
+ {
+  "id": "\\bSteven: I couldn't have asked for a better battle.",
+  "en": "\\bSteven: I couldn't have asked for a better battle.",
+  "it": "\\bRocco: Non avrei potuto chiedere una lotta migliore."
+ },
+ {
+  "id": "\\rIris: Hi \\PN! Glad we get to battle each other, unlike our first time here. Just know that I'll be going all out, so you'd better do the same!",
+  "en": "\\rIris: Hi \\PN! Glad we get to battle each other, unlike our first time here. Just know that I'll be going all out, so you'd better do the same!",
+  "it": "\\rIris: Ciao \\PN! Sono contenta che possiamo lottare l'una contro l'altro, a differenza della prima volta qui. Sappi che darò il massimo, quindi faresti meglio a fare lo stesso!"
+ },
+ {
+  "id": "\\rIris: You're still so strong... I'll be cheering for you!",
+  "en": "\\rIris: You're still so strong... I'll be cheering for you!",
+  "it": "\\rIris: Sei ancora fortissimo... Farò il tifo per te!"
+ },
+ {
+  "id": "\\rIris: Yay! You'd better be rooting for me!",
+  "en": "\\rIris: Yay! You'd better be rooting for me!",
+  "it": "\\rIris: Evviva! Faresti meglio a fare il tifo per me!"
+ },
+ {
+  "id": "\\rCynthia: Good to see you, \\PN.",
+  "en": "\\rCynthia: Good to see you, \\PN.",
+  "it": "\\rCamilla: Che piacere vederti, \\PN."
+ },
+ {
+  "id": "\\rCynthia: Good to see you, Monarch \\PN.",
+  "en": "\\rCynthia: Good to see you, Monarch \\PN.",
+  "it": "\\rCamilla: Che piacere vederti, Monarca \\PN."
+ },
+ {
+  "id": "\\rI know how much you've improved from when we first met and that it's enough to defeat me even if I'm fully prepared.",
+  "en": "\\rI know how much you've improved from when we first met and that it's enough to defeat me even if I'm fully prepared.",
+  "it": "\\rSo quanto sei migliorato da quando ci siamo conosciuti e che basta per sconfiggermi anche se sono preparata al massimo."
+ },
+ {
+  "id": "\\rThat's why I won't be holding back anything!",
+  "en": "\\rThat's why I won't be holding back anything!",
+  "it": "\\rPer questo non mi tratterrò affatto!"
+ },
+ {
+  "id": "\\rNot even my full power was enough... you're a truly impressive trainer, \\PN.",
+  "en": "\\rNot even my full power was enough... you're a truly impressive trainer, \\PN.",
+  "it": "\\rNemmeno tutta la mia forza è bastata... sei un Allenatore davvero straordinario, \\PN."
+ },
+ {
+  "id": "\\rThat really could've gone either way. I'm amazed how you could grow even more from our last battle, \\PN.",
+  "en": "\\rThat really could've gone either way. I'm amazed how you could grow even more from our last battle, \\PN.",
+  "it": "\\rAvrebbe potuto finire in entrambi i modi. Mi stupisce che tu sia riuscito a crescere ancora dalla nostra ultima lotta, \\PN."
+ },
+ {
+  "id": "\\bAlain: Even if you're not the Monarch anymore, I know that you're an opponent that's not to be underestimated.",
+  "en": "\\bAlain: Even if you're not the Monarch anymore, I know that you're an opponent that's not to be underestimated.",
+  "it": "\\bAlain: Anche se non sei più il Monarca, so che sei un avversario da non sottovalutare."
+ },
+ {
+  "id": "\\bAlain: I didn't think I'd fight you as the current Monarch, \\PN.",
+  "en": "\\bAlain: I didn't think I'd fight you as the current Monarch, \\PN.",
+  "it": "\\bAlain: Non pensavo di affrontarti mentre sei il Monarca in carica, \\PN."
+ },
+ {
+  "id": "\\bNot much else to say. Give me an even more intense battle than the Kalos League finals!",
+  "en": "\\bNot much else to say. Give me an even more intense battle than the Kalos League finals!",
+  "it": "\\bNon c'è molto altro da dire. Dammi una lotta ancora più intensa della finale della Lega di Kalos!"
+ },
+ {
+  "id": "\\bAlain: As I'd expect from you. Stand proud \\PN, you're strong.",
+  "en": "\\bAlain: As I'd expect from you. Stand proud \\PN, you're strong.",
+  "it": "\\bAlain: Proprio come mi aspettavo da te. Sii fiero, \\PN, sei forte."
+ },
+ {
+  "id": "\\bAlain: Hah... that was a very narrow victory. Great battle, \\PN. I'll be looking forward to our rematch.",
+  "en": "\\bAlain: Hah... that was a very narrow victory. Great battle, \\PN. I'll be looking forward to our rematch.",
+  "it": "\\bAlain: Uff... è stata una vittoria di misura. Gran bella lotta, \\PN. Non vedo l'ora della rivincita."
+ },
+ {
+  "id": "\\rDiantha: Hey \\PN. I've been looking forward to the day we would have an official full battle.",
+  "en": "\\rDiantha: Hey \\PN. I've been looking forward to the day we would have an official full battle.",
+  "it": "\\rDiantha: Ciao \\PN. Aspettavo il giorno in cui avremmo fatto una lotta completa ufficiale."
+ },
+ {
+  "id": "\\rI know how strong you are, so don't hold anything back so I can do the same!",
+  "en": "\\rI know how strong you are, so don't hold anything back so I can do the same!",
+  "it": "\\rSo quanto sei forte, quindi non trattenerti, così potrò fare lo stesso!"
+ },
+ {
+  "id": "\\rDiantha: You're even stronger than when we last battled. Let's have another battle soon.",
+  "en": "\\rDiantha: You're even stronger than when we last battled. Let's have another battle soon.",
+  "it": "\\rDiantha: Sei ancora più forte dell'ultima volta che abbiamo lottato. Facciamo un'altra lotta presto."
+ },
+ {
+  "id": "\\rDiantha: I couldn't have won without going all out. You're a truly strong trainer, \\PN.",
+  "en": "\\rDiantha: I couldn't have won without going all out. You're a truly strong trainer, \\PN.",
+  "it": "\\rDiantha: Non avrei potuto vincere senza dare il massimo. Sei un Allenatore davvero forte, \\PN."
+ },
+ {
+  "id": "\\bLeon: At long last, we're here again. It's Champion time!",
+  "en": "\\bLeon: At long last, we're here again. It's Champion time!",
+  "it": "\\bDandel: Finalmente, eccoci di nuovo qui. È l'ora del Campione!"
+ },
+ {
+  "id": "\\bLet's do this again some time.",
+  "en": "\\bLet's do this again some time.",
+  "it": "\\bRifacciamolo qualche volta."
+ },
+ {
+  "id": "\\bLeon: Excellent battle. Let's do this again some time.",
+  "en": "\\bLeon: Excellent battle. Let's do this again some time.",
+  "it": "\\bDandel: Lotta eccellente. Rifacciamolo qualche volta."
+ },
+ {
   "id": "\\rMarnie: There you are. I'm glad you were able to make it. I'm sorry if my fans caused any problems.",
   "en": "\\rMarnie: There you are. I'm glad you were able to make it. I'm sorry if my fans caused any problems.",
   "it": "\\rMary: Eccoti. Sono contenta che tu sia riuscito a venire. Scusa se i miei fan ti hanno creato problemi."

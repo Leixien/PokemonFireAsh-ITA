@@ -1,15 +1,5 @@
 [
  {
-  "id": "\\bExploud",
-  "en": "\\bExploud",
-  "it": "\\bExploud"
- },
- {
-  "id": "\\bWelcome!",
-  "en": "\\bWelcome!",
-  "it": "\\bBenvenuto!"
- },
- {
   "id": "Hearthome City Pokémon Gym Leader:\\nFantina",
   "en": "Hearthome City Pokémon Gym Leader:\\nFantina",
   "it": "Capopalestra della Palestra Pokémon di Cuoripoli:\\nFannie"
@@ -20,24 +10,14 @@
   "it": "L'affascinante ballerina dall'animo intenso!"
  },
  {
-  "id": "\\bChimchar?",
-  "en": "\\bChimchar?",
-  "it": "\\bChimchar?"
+  "id": "\\bWelcome!",
+  "en": "\\bWelcome!",
+  "it": "\\bBenvenuto!"
  },
  {
-  "id": "Would you like to take Chimchar with you?",
-  "en": "Would you like to take Chimchar with you?",
-  "it": "Vuoi portare Chimchar con te?"
- },
- {
-  "id": "\\bChar...",
-  "en": "\\bChar...",
-  "it": "\\bChar..."
- },
- {
-  "id": "Chimchar walked off for the forest...",
-  "en": "Chimchar walked off for the forest...",
-  "it": "Chimchar si è allontanato verso la foresta..."
+  "id": "\\bExploud",
+  "en": "\\bExploud",
+  "it": "\\bExploud"
  },
  {
   "id": "\\bI can predict your future. Want to hear it?",
@@ -60,9 +40,24 @@
   "it": "\\bE va bene. Allora lasciami in pace."
  },
  {
-  "id": "\\bEspeon",
-  "en": "\\bEspeon",
-  "it": "\\bEspeon"
+  "id": "\\bChimchar?",
+  "en": "\\bChimchar?",
+  "it": "\\bChimchar?"
+ },
+ {
+  "id": "Would you like to take Chimchar with you?",
+  "en": "Would you like to take Chimchar with you?",
+  "it": "Vuoi portare Chimchar con te?"
+ },
+ {
+  "id": "\\bChar...",
+  "en": "\\bChar...",
+  "it": "\\bChar..."
+ },
+ {
+  "id": "Chimchar walked off for the forest...",
+  "en": "Chimchar walked off for the forest...",
+  "it": "Chimchar si è allontanato verso la foresta..."
  },
  {
   "id": "\\bPaul: Good riddance Chimchar. You're just too weak.",
@@ -88,6 +83,16 @@
   "id": "\\bDon't be late to our next battle.",
   "en": "\\bDon't be late to our next battle. ",
   "it": "\\bNon fare tardi alla nostra prossima lotta. "
+ },
+ {
+  "id": "\\bEspeon",
+  "en": "\\bEspeon",
+  "it": "\\bEspeon"
+ },
+ {
+  "id": "Hearthome City\\nWarm & Kind",
+  "en": "Hearthome City\\nWarm & Kind",
+  "it": "Cuoripoli\\nCalda e gentile"
  },
  {
   "id": "\\bThe Gym Leader is currently away.",
@@ -155,14 +160,14 @@
   "it": "\\bAspetta! Mi sono completamente scordato dell'albero col miele che ho preparato! Devo andare a controllarlo. La finiamo dopo, \\PN."
  },
  {
-  "id": "Hearthome City\\nWarm & Kind",
-  "en": "Hearthome City\\nWarm & Kind",
-  "it": "Cuoripoli\\nCalda e gentile"
- },
- {
   "id": "\\rKanga",
   "en": "\\rKanga",
   "it": "\\rKanga"
+ },
+ {
+  "id": "\\bEvery now and then the Battle Hall opens up for Trainers to test themselves.",
+  "en": "\\bEvery now and then the Battle Hall opens up for Trainers to test themselves.",
+  "it": "\\bOgni tanto il Sala Lotta apre le porte agli Allenatori che vogliono mettersi alla prova."
  },
  {
   "id": "\\bHey, have you seen the Battle Hall? You should go check it out.",
@@ -173,11 +178,6 @@
   "id": "\\bWoah. You won the Battle Hall.",
   "en": "\\bWoah. You won the Battle Hall.",
   "it": "\\bWow. Hai vinto al Sala Lotta."
- },
- {
-  "id": "\\bEvery now and then the Battle Hall opens up for Trainers to test themselves.",
-  "en": "\\bEvery now and then the Battle Hall opens up for Trainers to test themselves.",
-  "it": "\\bOgni tanto il Sala Lotta apre le porte agli Allenatori che vogliono mettersi alla prova."
  },
  {
   "id": "\\rPachi",
@@ -215,14 +215,9 @@
   "it": "\\rCiao. La grotta è pericolosa, quindi uso il mio Abra per teletrasportare la gente oltre. Però sembri davvero forte."
  },
  {
-  "id": "\\bPaul: What do you want?",
-  "en": "\\bPaul: What do you want?",
-  "it": "\\bPaul: Che vuoi?"
- },
- {
-  "id": "\\bContests are so much fun, you know!?",
-  "en": "\\bContests are so much fun, you know!?",
-  "it": "\\bLe Gare sono troppo divertenti, sai!?"
+  "id": "\\rOddish",
+  "en": "\\rOddish",
+  "it": "\\rOddish"
  },
  {
   "id": "Battle Hall",
@@ -230,14 +225,19 @@
   "it": "Sala Lotta"
  },
  {
-  "id": "\\rOddish",
-  "en": "\\rOddish",
-  "it": "\\rOddish"
+  "id": "\\bContests are so much fun, you know!?",
+  "en": "\\bContests are so much fun, you know!?",
+  "it": "\\bLe Gare sono troppo divertenti, sai!?"
  },
  {
-  "id": "\\bAbra",
-  "en": "\\bAbra",
-  "it": "\\bAbra"
+  "id": "\\bPaul: What do you want?",
+  "en": "\\bPaul: What do you want?",
+  "it": "\\bPaul: Che vuoi?"
+ },
+ {
+  "id": "Hearthome Pokémon Contest Hall",
+  "en": "Hearthome Pokémon Contest Hall",
+  "it": "Sala Gare Pokémon di Cuoripoli"
  },
  {
   "id": "\\bI can't believe the Gym is closed...",
@@ -245,9 +245,9 @@
   "it": "\\bNon posso credere che la Palestra sia chiusa..."
  },
  {
-  "id": "Hearthome Pokémon Contest Hall",
-  "en": "Hearthome Pokémon Contest Hall",
-  "it": "Sala Gare Pokémon di Cuoripoli"
+  "id": "\\bAbra",
+  "en": "\\bAbra",
+  "it": "\\bAbra"
  },
  {
   "id": "Yes",

@@ -55,6 +55,16 @@
   "it": "\\bAl momento non sei iscritto per lottare su questo campo."
  },
  {
+  "id": "\\bThis was supposed to be the Finals stage.",
+  "en": "\\bThis was supposed to be the Finals stage.",
+  "it": "\\bQuesto doveva essere il palco delle Finali."
+ },
+ {
+  "id": "\\bIt's currently being renovated at the moment, so no battles will be taking place here at the moment.",
+  "en": "\\bIt's currently being renovated at the moment, so no battles will be taking place here at the moment.",
+  "it": "\\bAl momento è in fase di ristrutturazione, quindi per ora qui non si terranno lotte."
+ },
+ {
   "id": "\\bForget about the battles. Do you see everything they are selling here?",
   "en": "\\bForget about the battles. Do you see everything they are selling here?",
   "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
@@ -103,6 +113,21 @@
   "id": "\\rYou have already registered.",
   "en": "\\rYou have already registered.",
   "it": "\\rTi sei già iscritto."
+ },
+ {
+  "id": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Silver Conference? It might be too easy for you...",
+  "en": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Silver Conference? It might be too easy for you...",
+  "it": "\\rOh, ma quello è il Monarca \\PN? Sei sicuro di volerti iscrivere alla Conferenza Argento? Potrebbe essere troppo facile per te..."
+ },
+ {
+  "id": "\\rWe haven't made any changes to the format this year, so your first battle will be the elimination battles again.",
+  "en": "\\rWe haven't made any changes to the format this year, so your first battle will be the elimination battles again.",
+  "it": "\\rQuest'anno non abbiamo cambiato il formato, quindi il tuo primo incontro sarà di nuovo la fase eliminatoria."
+ },
+ {
+  "id": "\\rGood luck! Though you probably won't need it...",
+  "en": "\\rGood luck! Though you probably won't need it...",
+  "it": "\\rBuona fortuna! Anche se probabilmente non ti servirà..."
  },
  {
   "id": "\\rCorsola",
@@ -263,6 +288,11 @@
   "id": "\\rWith my Corsola I am gonna beat everyone.",
   "en": "\\rWith my Corsola I am gonna beat everyone.",
   "it": "\\rCon il mio Corsola batterò tutti."
+ },
+ {
+  "id": "\\bCongratulations on winning your second Round Robin. Your next match will be a full battle in the Silver Stadium.",
+  "en": "\\bCongratulations on winning your second Round Robin. Your next match will be a full battle in the Silver Stadium.",
+  "it": "\\bCongratulazioni per aver vinto il secondo Girone. Il tuo prossimo incontro sarà una lotta completa nello Stadio Argento."
  },
  {
   "id": "\\bThis is the Round Robin 1 stage.",

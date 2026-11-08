@@ -1,15 +1,5 @@
 [
  {
-  "id": "\\bPrepare to be amazed.",
-  "en": "\\bPrepare to be amazed.",
-  "it": "\\bPreparati a rimanere a bocca aperta."
- },
- {
-  "id": "\\bI will continue to hone my skills as a magician.",
-  "en": "\\bI will continue to hone my skills as a magician.",
-  "it": "\\bContinuerò ad affinare le mie abilità di mago."
- },
- {
   "id": "\\rAre you \\PN? I was watching you during the Alola League.",
   "en": "\\rAre you \\PN? I was watching you during the Alola League.",
   "it": "\\rSei tu \\PN? Ti ho visto durante la Lega di Alola."
@@ -18,6 +8,16 @@
   "id": "\\rI'm impressed. Keep up the hard work!",
   "en": "\\rI'm impressed. Keep up the hard work!",
   "it": "\\rSono colpita. Continua così!"
+ },
+ {
+  "id": "\\bPrepare to be amazed.",
+  "en": "\\bPrepare to be amazed.",
+  "it": "\\bPreparati a rimanere a bocca aperta."
+ },
+ {
+  "id": "\\bI will continue to hone my skills as a magician.",
+  "en": "\\bI will continue to hone my skills as a magician.",
+  "it": "\\bContinuerò ad affinare le mie abilità di mago."
  },
  {
   "id": "\\bYou must see my creations.",
@@ -30,14 +30,14 @@
   "it": "\\bSai chi sono io? Ero destinato a diventare famoso."
  },
  {
-  "id": "\\bI'm going to take your Pokémon.",
-  "en": "\\bI'm going to take your Pokémon.",
-  "it": "\\bTi prenderò i Pokémon."
+  "id": "\\bI guess I can have a go at you.",
+  "en": "\\bI guess I can have a go at you.",
+  "it": "\\bImmagino di poter fare un tentativo con te."
  },
  {
-  "id": "\\bI promise to do better. No more stealing.",
-  "en": "\\bI promise to do better. No more stealing.",
-  "it": "\\bPrometto di comportarmi meglio. Niente più furti."
+  "id": "\\bBe sure to never litter.",
+  "en": "\\bBe sure to never litter.",
+  "it": "\\bNon gettare mai rifiuti per terra."
  },
  {
   "id": "\\bHow dare you get in my way.",
@@ -55,14 +55,14 @@
   "it": "\\bNon è colpa mia se ho perso."
  },
  {
-  "id": "\\bI guess I can have a go at you.",
-  "en": "\\bI guess I can have a go at you.",
-  "it": "\\bImmagino di poter fare un tentativo con te."
+  "id": "\\bI'm going to take your Pokémon.",
+  "en": "\\bI'm going to take your Pokémon.",
+  "it": "\\bTi prenderò i Pokémon."
  },
  {
-  "id": "\\bBe sure to never litter.",
-  "en": "\\bBe sure to never litter.",
-  "it": "\\bNon gettare mai rifiuti per terra."
+  "id": "\\bI promise to do better. No more stealing.",
+  "en": "\\bI promise to do better. No more stealing.",
+  "it": "\\bPrometto di comportarmi meglio. Niente più furti."
  },
  {
   "id": "\\rI'm going to wipe the floor with you.",
@@ -80,21 +80,6 @@
   "it": "\\rSparisci dalla mia vista."
  },
  {
-  "id": "\\rHi, I'm \\PN.",
-  "en": "\\rHi, I'm \\PN.",
-  "it": "\\rCiao, sono \\PN."
- },
- {
-  "id": "Just kidding.",
-  "en": "Just kidding.",
-  "it": "Scherzavo."
- },
- {
-  "id": "\\rIf you want to avoid battle just don't look.",
-  "en": "\\rIf you want to avoid battle just don't look.",
-  "it": "\\rSe vuoi evitare la lotta, basta non guardare."
- },
- {
   "id": "\\rI want to test my strength!",
   "en": "\\rI want to test my strength!",
   "it": "\\rVoglio mettere alla prova la mia forza!"
@@ -110,6 +95,21 @@
   "it": "\\rContinuerò ad allenarmi."
  },
  {
+  "id": "\\rHi, I'm \\PN.",
+  "en": "\\rHi, I'm \\PN.",
+  "it": "\\rCiao, sono \\PN."
+ },
+ {
+  "id": "Just kidding.",
+  "en": "Just kidding.",
+  "it": "Scherzavo."
+ },
+ {
+  "id": "\\rIf you want to avoid battle just don't look.",
+  "en": "\\rIf you want to avoid battle just don't look.",
+  "it": "\\rSe vuoi evitare la lotta, basta non guardare."
+ },
+ {
   "id": "\\rI'm borrowing all my Pokémon. Think I can win?",
   "en": "\\rI'm borrowing all my Pokémon. Think I can win?",
   "it": "\\rTutti i miei Pokémon sono in prestito. Pensi che possa vincere?"
@@ -118,16 +118,6 @@
   "id": "\\rGreat battle. Thanks for your help.",
   "en": "\\rGreat battle. Thanks for your help.",
   "it": "\\rBella lotta. Grazie per l'aiuto."
- },
- {
-  "id": "\\bI'm borrowing my brother's Pokémon to help me make a decision.",
-  "en": "\\bI'm borrowing my brother's Pokémon to help me make a decision.",
-  "it": "\\bMi sono fatto prestare i Pokémon da mio fratello per aiutarmi a prendere una decisione."
- },
- {
-  "id": "\\bGreat battle. Thanks for your help.",
-  "en": "\\bGreat battle. Thanks for your help.",
-  "it": "\\bBella lotta. Grazie per l'aiuto."
  },
  {
   "id": "\\rI can battle!",
@@ -143,6 +133,16 @@
   "id": "\\rSniff..You're a bully.",
   "en": "\\rSniff..You're a bully.",
   "it": "\\rSniff... Sei un prepotente."
+ },
+ {
+  "id": "\\bI'm borrowing my brother's Pokémon to help me make a decision.",
+  "en": "\\bI'm borrowing my brother's Pokémon to help me make a decision.",
+  "it": "\\bMi sono fatto prestare i Pokémon da mio fratello per aiutarmi a prendere una decisione."
+ },
+ {
+  "id": "\\bGreat battle. Thanks for your help.",
+  "en": "\\bGreat battle. Thanks for your help.",
+  "it": "\\bBella lotta. Grazie per l'aiuto."
  },
  {
   "id": "\\bHow dare you get in the way of our battle.",
@@ -168,6 +168,11 @@
   "id": "\\rYou were so fast.",
   "en": "\\rYou were so fast.",
   "it": "\\rSei stato velocissimo."
+ },
+ {
+  "id": "The door is locked.",
+  "en": "The door is locked.",
+  "it": "La porta è chiusa a chiave."
  },
  {
   "id": "\\bWhy must you interrupt?",

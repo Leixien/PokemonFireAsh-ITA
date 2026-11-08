@@ -1,5 +1,30 @@
 [
  {
+  "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "en": "\\bYou'll need at least two Pokémon if you want to battle us.",
+  "it": "\\bTi servono almeno due Pokémon se vuoi sfidarci."
+ },
+ {
+  "id": "\\rAh, a Trainer! Lets go Tia!",
+  "en": "\\rAh, a Trainer! Lets go Tia!",
+  "it": "\\rAh, un Allenatore! Andiamo, Tia!"
+ },
+ {
+  "id": "\\rI caught my Pokémon with Tia.",
+  "en": "\\rI caught my Pokémon with Tia.",
+  "it": "\\rHo catturato i miei Pokémon insieme a Tia."
+ },
+ {
+  "id": "\\bDiscovered.",
+  "en": "\\bDiscovered.",
+  "it": "\\bScoperto."
+ },
+ {
+  "id": "\\bI need to hide better. I'm so afraid.",
+  "en": "\\bI need to hide better. I'm so afraid.",
+  "it": "\\bDevo nascondermi meglio. Ho tanta paura."
+ },
+ {
   "id": "\\rFantina: Good practice, Drifloon. Return for now.",
   "en": "\\rFantina: Good practice, Drifloon. Return for now.",
   "it": "\\rFannie: Bell'allenamento, Drifloon. Rientra, per ora."
@@ -25,31 +50,6 @@
   "it": "\\rFannie: Che splendida esibizione. Non vedo l'ora della nostra vera lotta."
  },
  {
-  "id": "\\bDiscovered.",
-  "en": "\\bDiscovered.",
-  "it": "\\bScoperto."
- },
- {
-  "id": "\\bI need to hide better. I'm so afraid.",
-  "en": "\\bI need to hide better. I'm so afraid.",
-  "it": "\\bDevo nascondermi meglio. Ho tanta paura."
- },
- {
-  "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
-  "en": "\\bYou'll need at least two Pokémon if you want to battle us.",
-  "it": "\\bTi servono almeno due Pokémon se vuoi sfidarci."
- },
- {
-  "id": "\\rAh, a Trainer! Lets go Tia!",
-  "en": "\\rAh, a Trainer! Lets go Tia!",
-  "it": "\\rAh, un Allenatore! Andiamo, Tia!"
- },
- {
-  "id": "\\rI caught my Pokémon with Tia.",
-  "en": "\\rI caught my Pokémon with Tia.",
-  "it": "\\rHo catturato i miei Pokémon insieme a Tia."
- },
- {
   "id": "\\bAre you interested in rocks?",
   "en": "\\bAre you interested in rocks?",
   "it": "\\bTi interessano le rocce?"
@@ -58,16 +58,6 @@
   "id": "\\bSo what if I don't have a Rock type. Don't label me.",
   "en": "\\bSo what if I don't have a Rock type. Don't label me.",
   "it": "\\bE allora se non ho un tipo Roccia? Non mettermi etichette."
- },
- {
-  "id": "\\bHave you met the dragon lady?",
-  "en": "\\bHave you met the dragon lady?",
-  "it": "\\bHai conosciuto la signora dei draghi?"
- },
- {
-  "id": "\\bNever stop searching.",
-  "en": "\\bNever stop searching.",
-  "it": "\\bNon smettere mai di cercare."
  },
  {
   "id": "\\bLet's take five.",
@@ -85,14 +75,14 @@
   "it": "\\bTorno al mio allenamento."
  },
  {
-  "id": "\\rI'm going to be a bit rough.",
-  "en": "\\rI'm going to be a bit rough.",
-  "it": "\\rSarò un po' brusca."
+  "id": "\\bHave you met the dragon lady?",
+  "en": "\\bHave you met the dragon lady?",
+  "it": "\\bHai conosciuto la signora dei draghi?"
  },
  {
-  "id": "\\rGoing to Celestic Town. They have lovely ruins.",
-  "en": "\\rGoing to Celestic Town. They have lovely ruins.",
-  "it": "\\rVado a Memoride. Ci sono delle rovine bellissime."
+  "id": "\\bNever stop searching.",
+  "en": "\\bNever stop searching.",
+  "it": "\\bNon smettere mai di cercare."
  },
  {
   "id": "\\rPlease accept this.",
@@ -105,9 +95,14 @@
   "it": "\\rI percorsi più avanti saranno duri. Usalo bene."
  },
  {
-  "id": "\\bI'm training. Leave me.",
-  "en": "\\bI'm training. Leave me.",
-  "it": "\\bMi sto allenando. Lasciami stare."
+  "id": "\\rI'm going to be a bit rough.",
+  "en": "\\rI'm going to be a bit rough.",
+  "it": "\\rSarò un po' brusca."
+ },
+ {
+  "id": "\\rGoing to Celestic Town. They have lovely ruins.",
+  "en": "\\rGoing to Celestic Town. They have lovely ruins.",
+  "it": "\\rVado a Memoride. Ci sono delle rovine bellissime."
  },
  {
   "id": "\\rShow me just how powerful you are.",
@@ -120,14 +115,9 @@
   "it": "\\rColpisci duro. Non lo dimenticherò mai."
  },
  {
-  "id": "\\bThe waters are breathtaking.",
-  "en": "\\bThe waters are breathtaking.",
-  "it": "\\bLe acque sono mozzafiato."
- },
- {
-  "id": "\\bThe waters, what do they hold?",
-  "en": "\\bThe waters, what do they hold?",
-  "it": "\\bLe acque... cosa nascondono?"
+  "id": "\\bI'm training. Leave me.",
+  "en": "\\bI'm training. Leave me.",
+  "it": "\\bMi sto allenando. Lasciami stare."
  },
  {
   "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
@@ -145,14 +135,19 @@
   "it": "\\rAlmeno ho ancora Matt."
  },
  {
-  "id": "\\rHello there.",
-  "en": "\\rHello there.",
-  "it": "\\rSalve."
+  "id": "\\bThe waters are breathtaking.",
+  "en": "\\bThe waters are breathtaking.",
+  "it": "\\bLe acque sono mozzafiato."
  },
  {
-  "id": "\\rPlease take care.",
-  "en": "\\rPlease take care.",
-  "it": "\\rAbbi cura di te."
+  "id": "\\bThe waters, what do they hold?",
+  "en": "\\bThe waters, what do they hold?",
+  "it": "\\bLe acque... cosa nascondono?"
+ },
+ {
+  "id": "\\bStay away from the Dragon Lady.",
+  "en": "\\bStay away from the Dragon Lady.",
+  "it": "\\bStai lontano dalla signora dei draghi."
  },
  {
   "id": "\\bAh, looks like a challenging Trainer. Ready, Jen?",
@@ -165,29 +160,14 @@
   "it": "\\bResta con me, Jen."
  },
  {
-  "id": "\\bStay away from the Dragon Lady.",
-  "en": "\\bStay away from the Dragon Lady.",
-  "it": "\\bStai lontano dalla signora dei draghi."
+  "id": "\\rHello there.",
+  "en": "\\rHello there.",
+  "it": "\\rSalve."
  },
  {
-  "id": "\\bFly with me.",
-  "en": "\\bFly with me.",
-  "it": "\\bVola con me."
- },
- {
-  "id": "\\bNever stop soaring.",
-  "en": "\\bNever stop soaring.",
-  "it": "\\bNon smettere mai di librarti in volo."
- },
- {
-  "id": "\\bDid you see me?",
-  "en": "\\bDid you see me?",
-  "it": "\\bMi hai visto?"
- },
- {
-  "id": "\\bI can't believe you saw me.",
-  "en": "\\bI can't believe you saw me.",
-  "it": "\\bNon posso credere che tu mi abbia visto."
+  "id": "\\rPlease take care.",
+  "en": "\\rPlease take care.",
+  "it": "\\rAbbi cura di te."
  },
  {
   "id": "\\bAh, looks like a challenging trainer. Ready, Ava?",
@@ -200,24 +180,24 @@
   "it": "\\bResta con me, Ava."
  },
  {
-  "id": "\\rAh, looks like a challenging Trainer. Ready, Zac?",
-  "en": "\\rAh, looks like a challenging Trainer. Ready, Zac?",
-  "it": "\\rAh, sembra un Allenatore tosto. Pronto, Zac?"
+  "id": "\\bDid you see me?",
+  "en": "\\bDid you see me?",
+  "it": "\\bMi hai visto?"
  },
  {
-  "id": "\\rAt least I still have Zac.",
-  "en": "\\rAt least I still have Zac.",
-  "it": "\\rAlmeno ho ancora Zac."
+  "id": "\\bI can't believe you saw me.",
+  "en": "\\bI can't believe you saw me.",
+  "it": "\\bNon posso credere che tu mi abbia visto."
  },
  {
-  "id": "\\rLook at that house over there.",
-  "en": "\\rLook at that house over there.",
-  "it": "\\rGuarda quella casa laggiù."
+  "id": "\\bFly with me.",
+  "en": "\\bFly with me.",
+  "it": "\\bVola con me."
  },
  {
-  "id": "\\rWhat a pleasant view.",
-  "en": "\\rWhat a pleasant view.",
-  "it": "\\rChe bella vista."
+  "id": "\\bNever stop soaring.",
+  "en": "\\bNever stop soaring.",
+  "it": "\\bNon smettere mai di librarti in volo."
  },
  {
   "id": "\\bPaul: So you came to see the ruins too? I bet the knowledge will be wasted on you.",
@@ -235,14 +215,24 @@
   "it": "\\bPaul: Pff. Immagino che tu ci abbia messo tutto te stesso, ma non otterrai mai nulla finché non spingerai i tuoi Pokémon oltre i loro limiti."
  },
  {
-  "id": "\\bAlright, a challenger.",
-  "en": "\\bAlright, a challenger.",
-  "it": "\\bBene, uno sfidante."
+  "id": "\\rLook at that house over there.",
+  "en": "\\rLook at that house over there.",
+  "it": "\\rGuarda quella casa laggiù."
  },
  {
-  "id": "\\bI need more experience.",
-  "en": "\\bI need more experience.",
-  "it": "\\bMi serve più esperienza."
+  "id": "\\rWhat a pleasant view.",
+  "en": "\\rWhat a pleasant view.",
+  "it": "\\rChe bella vista."
+ },
+ {
+  "id": "\\rAh, looks like a challenging Trainer. Ready, Zac?",
+  "en": "\\rAh, looks like a challenging Trainer. Ready, Zac?",
+  "it": "\\rAh, sembra un Allenatore tosto. Pronto, Zac?"
+ },
+ {
+  "id": "\\rAt least I still have Zac.",
+  "en": "\\rAt least I still have Zac.",
+  "it": "\\rAlmeno ho ancora Zac."
  },
  {
   "id": "\\rAh, a Trainer! Lets go Teri!",
@@ -255,14 +245,14 @@
   "it": "\\rSto crescendo Pokémon insieme a Teri."
  },
  {
-  "id": "\\rCome at me.",
-  "en": "\\rCome at me.",
-  "it": "\\rFatti sotto."
+  "id": "\\bAlright, a challenger.",
+  "en": "\\bAlright, a challenger.",
+  "it": "\\bBene, uno sfidante."
  },
  {
-  "id": "\\rHow dare you think I'm a boy.",
-  "en": "\\rHow dare you think I'm a boy.",
-  "it": "\\rCome osi pensare che io sia un maschio?"
+  "id": "\\bI need more experience.",
+  "en": "\\bI need more experience.",
+  "it": "\\bMi serve più esperienza."
  },
  {
   "id": "\\bHehehe. My plan is flawless this time.",
@@ -273,5 +263,15 @@
   "id": "\\bHmm, I guess my calculations were off.",
   "en": "\\bHmm, I guess my calculations were off.",
   "it": "\\bMmm, a quanto pare i miei calcoli erano sbagliati."
+ },
+ {
+  "id": "\\rCome at me.",
+  "en": "\\rCome at me.",
+  "it": "\\rFatti sotto."
+ },
+ {
+  "id": "\\rHow dare you think I'm a boy.",
+  "en": "\\rHow dare you think I'm a boy.",
+  "it": "\\rCome osi pensare che io sia un maschio?"
  }
 ]

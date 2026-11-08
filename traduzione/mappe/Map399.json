@@ -40,11 +40,6 @@
   "it": "\\bHai fegato, ragazzo. Magari riesci a batterli."
  },
  {
-  "id": "<- Lavaridge Town \\n-> Mirage Kingdom",
-  "en": "<- Lavaridge Town \\n-> Mirage Kingdom",
-  "it": "<- Cuordilava \\n-> Regno Miraggio"
- },
- {
   "id": "\\bI suppose I could take a break.",
   "en": "\\bI suppose I could take a break.",
   "it": "\\bDirei che potrei fare una pausa."
@@ -55,14 +50,9 @@
   "it": "\\bA quanto pare devo allenarmi di più."
  },
  {
-  "id": "\\bNobody is getting in my way.",
-  "en": "\\bNobody is getting in my way.",
-  "it": "\\bNessuno mi sbarrerà la strada."
- },
- {
-  "id": "\\bI will find the Togepi one day.",
-  "en": "\\bI will find the Togepi one day.",
-  "it": "\\bUn giorno troverò i Togepi."
+  "id": "<- Lavaridge Town \\n-> Mirage Kingdom",
+  "en": "<- Lavaridge Town \\n-> Mirage Kingdom",
+  "it": "<- Cuordilava \\n-> Regno Miraggio"
  },
  {
   "id": "\\rAlright, your time to shine.",
@@ -73,6 +63,16 @@
   "id": "\\rWhat should I do now?",
   "en": "\\rWhat should I do now?",
   "it": "\\rE adesso cosa faccio?"
+ },
+ {
+  "id": "\\bNobody is getting in my way.",
+  "en": "\\bNobody is getting in my way.",
+  "it": "\\bNessuno mi sbarrerà la strada."
+ },
+ {
+  "id": "\\bI will find the Togepi one day.",
+  "en": "\\bI will find the Togepi one day.",
+  "it": "\\bUn giorno troverò i Togepi."
  },
  {
   "id": "\\rCome on.",

@@ -1,18 +1,23 @@
 [
  {
-  "id": "Radio Tower",
-  "en": "Radio Tower",
-  "it": "Torre Radio"
+  "id": "\\bFlaaffy",
+  "en": "\\bFlaaffy",
+  "it": "\\bFlaaffy"
  },
  {
-  "id": "Goldenrod Tunnel",
-  "en": "Goldenrod Tunnel",
-  "it": "Tunnel di Fiordoropoli"
+  "id": "\\bA lot of people who want to battle go to the underground.",
+  "en": "\\bA lot of people who want to battle go to the underground.",
+  "it": "\\bMolti di quelli che vogliono lottare vanno nei sotterranei."
  },
  {
-  "id": "\\rThe Radio Tower is so cool. They even broadcast to Kanto.",
-  "en": "\\rThe Radio Tower is so cool. They even broadcast to Kanto.",
-  "it": "\\rLa Torre Radio è fantastica. Trasmettono persino fino a Kanto."
+  "id": "\\bI finally got enough money for a bike!",
+  "en": "\\bI finally got enough money for a bike!",
+  "it": "\\bFinalmente ho messo da parte abbastanza soldi per una bici!"
+ },
+ {
+  "id": "\\bI can't believe they put a fence up...",
+  "en": "\\bI can't believe they put a fence up...",
+  "it": "\\bNon ci credo che abbiano messo una recinzione..."
  },
  {
   "id": "\\bI guess it's our time to battle.",
@@ -25,9 +30,9 @@
   "it": "Smart Rotom: In base ai risultati, la tua posizione in classifica ora è 731."
  },
  {
-  "id": "Announcment. New opponent found for the World Coronation Series. Patrick, located in Mistralton City, is ready for battle.",
-  "en": "Announcment. New opponent found for the World Coronation Series. Patrick, located in Mistralton City, is ready for battle.",
-  "it": "Annuncio. Trovato un nuovo avversario per le World Coronation Series. Patrick, che si trova a Ponentopoli, è pronto a lottare."
+  "id": "Announcement. New opponent found for the World Coronation Series. Patrick, located in Mistralton City, is ready for battle.",
+  "en": "Announcement. New opponent found for the World Coronation Series. Patrick, located in Mistralton City, is ready for battle.",
+  "it": "Annuncio. Nuovo avversario trovato per le World Coronation Series. Patrick, a Ponentopoli, è pronto a lottare."
  },
  {
   "id": "\\bI got unlucky.",
@@ -35,99 +40,9 @@
   "it": "\\bSono stato sfortunato."
  },
  {
-  "id": "\\rI'm always willing to teach this move to travelers.",
-  "en": "\\rI'm always willing to teach this move to travelers.",
-  "it": "\\rSono sempre disposta a insegnare questa mossa ai viaggiatori."
- },
- {
-  "id": "\\rWant to learn Snatch?",
-  "en": "\\rWant to learn Snatch?",
-  "it": "\\rVuoi imparare Scippo?"
- },
- {
-  "id": "\\rCome back anytime!",
-  "en": "\\rCome back anytime!",
-  "it": "\\rTorna quando vuoi!"
- },
- {
-  "id": "Porygon",
-  "en": "Porygon",
-  "it": "Porygon"
- },
- {
-  "id": "\\bUgh. I'm just a few dollars short.",
-  "en": "\\bUgh. I'm just a few dollars short.",
-  "it": "\\bUff. Mi mancano solo pochi soldi."
- },
- {
-  "id": "\\bQwilfish",
-  "en": "\\bQwilfish",
-  "it": "\\bQwilfish"
- },
- {
-  "id": "Goldenrod Pokémon Gym Leader: \\nWhitney",
-  "en": "Goldenrod Pokémon Gym Leader: \\nWhitney",
-  "it": "Capopalestra di Fiordoropoli: \\nChiara"
- },
- {
-  "id": "The Incredibly Pretty Girl!",
-  "en": "The Incredibly Pretty Girl!",
-  "it": "La ragazza incredibilmente carina!"
- },
- {
-  "id": "\\bA lot of people who want to battle go to the underground.",
-  "en": "\\bA lot of people who want to battle go to the underground.",
-  "it": "\\bMolti di quelli che vogliono lottare vanno nei sotterranei."
- },
- {
-  "id": "Magnet Train",
-  "en": "Magnet Train",
-  "it": "Treno Magnetico"
- },
- {
-  "id": "\\rThe bikes are too expensive. It may close because of that.",
-  "en": "\\rThe bikes are too expensive. It may close because of that.",
-  "it": "\\rLe bici sono troppo care. Il negozio potrebbe chiudere per questo."
- },
- {
-  "id": "\\bFlaaffy",
-  "en": "\\bFlaaffy",
-  "it": "\\bFlaaffy"
- },
- {
-  "id": "Game Corner\\nThe playground for grown-ups!",
-  "en": "Game Corner\\nThe playground for grown-ups!",
-  "it": "Casinò\\nIl parco giochi per adulti!"
- },
- {
-  "id": "\\bI can't believe they put a fence up...",
-  "en": "\\bI can't believe they put a fence up...",
-  "it": "\\bNon ci credo che abbiano messo una recinzione..."
- },
- {
-  "id": "Goldenrod City\\nThe Festive City of Opulent Charm!",
-  "en": "Goldenrod City\\nThe Festive City of Opulent Charm!",
-  "it": "Fiordoropoli\\nLa città festosa dal fascino opulento!"
- },
- {
-  "id": "\\rWhitney doesn't lose often, so she sometimes takes it hard.",
-  "en": "\\rWhitney doesn't lose often, so she sometimes takes it hard.",
-  "it": "\\rChiara non perde spesso, quindi a volte la prende male."
- },
- {
-  "id": "\\bI finally got enough money for a bike!",
-  "en": "\\bI finally got enough money for a bike!",
-  "it": "\\bFinalmente ho messo da parte abbastanza soldi per una bici!"
- },
- {
-  "id": "Bike Shop\\nGrass and caves handled easily!",
-  "en": "Bike Shop\\nGrass and caves handled easily!",
-  "it": "Negozio di bici\\nErba e grotte? Nessun problema!"
- },
- {
-  "id": "\\bAren't flowers lovely?",
-  "en": "\\bAren't flowers lovely?",
-  "it": "\\bI fiori non sono bellissimi?"
+  "id": "\\bWhitney may be little but her Pokémon are big and strong.",
+  "en": "\\bWhitney may be little but her Pokémon are big and strong.",
+  "it": "\\bChiara sarà anche piccola, ma i suoi Pokémon sono grandi e forti."
  },
  {
   "id": "\\rMay: \\PN? You're still out traveling the world. Same here.",
@@ -145,8 +60,93 @@
   "it": "\\rVera: Resterò un po' qui a Johto a studiare le gare. Vieni a trovarmi quando vuoi."
  },
  {
-  "id": "\\bWhitney may be little but her Pokémon are big and strong.",
-  "en": "\\bWhitney may be little but her Pokémon are big and strong.",
-  "it": "\\bChiara sarà anche piccola, ma i suoi Pokémon sono grandi e forti."
+  "id": "Magnet Train",
+  "en": "Magnet Train",
+  "it": "Treno Magnetico"
+ },
+ {
+  "id": "Porygon",
+  "en": "Porygon",
+  "it": "Porygon"
+ },
+ {
+  "id": "Goldenrod City\\nThe Festive City of Opulent Charm!",
+  "en": "Goldenrod City\\nThe Festive City of Opulent Charm!",
+  "it": "Fiordoropoli\\nLa città festosa dal fascino opulento!"
+ },
+ {
+  "id": "\\rThe Radio Tower is so cool. They even broadcast to Kanto.",
+  "en": "\\rThe Radio Tower is so cool. They even broadcast to Kanto.",
+  "it": "\\rLa Torre Radio è fantastica. Trasmettono persino fino a Kanto."
+ },
+ {
+  "id": "Radio Tower",
+  "en": "Radio Tower",
+  "it": "Torre Radio"
+ },
+ {
+  "id": "Bike Shop\\nGrass and caves handled easily!",
+  "en": "Bike Shop\\nGrass and caves handled easily!",
+  "it": "Negozio di bici\\nErba e grotte? Nessun problema!"
+ },
+ {
+  "id": "\\bUgh. I'm just a few dollars short.",
+  "en": "\\bUgh. I'm just a few dollars short.",
+  "it": "\\bUff. Mi mancano solo pochi soldi."
+ },
+ {
+  "id": "\\rI'm always willing to teach this move to travelers.",
+  "en": "\\rI'm always willing to teach this move to travelers.",
+  "it": "\\rSono sempre disposta a insegnare questa mossa ai viaggiatori."
+ },
+ {
+  "id": "\\rWant to learn Snatch?",
+  "en": "\\rWant to learn Snatch?",
+  "it": "\\rVuoi imparare Scippo?"
+ },
+ {
+  "id": "\\rCome back anytime!",
+  "en": "\\rCome back anytime!",
+  "it": "\\rTorna quando vuoi!"
+ },
+ {
+  "id": "\\rThe bikes are too expensive. It may close because of that.",
+  "en": "\\rThe bikes are too expensive. It may close because of that.",
+  "it": "\\rLe bici sono troppo care. Il negozio potrebbe chiudere per questo."
+ },
+ {
+  "id": "\\bQwilfish",
+  "en": "\\bQwilfish",
+  "it": "\\bQwilfish"
+ },
+ {
+  "id": "Goldenrod Tunnel",
+  "en": "Goldenrod Tunnel",
+  "it": "Tunnel di Fiordoropoli"
+ },
+ {
+  "id": "\\rWhitney doesn't lose often, so she sometimes takes it hard.",
+  "en": "\\rWhitney doesn't lose often, so she sometimes takes it hard.",
+  "it": "\\rChiara non perde spesso, quindi a volte la prende male."
+ },
+ {
+  "id": "\\bAren't flowers lovely?",
+  "en": "\\bAren't flowers lovely?",
+  "it": "\\bI fiori non sono bellissimi?"
+ },
+ {
+  "id": "Goldenrod Pokémon Gym Leader: \\nWhitney",
+  "en": "Goldenrod Pokémon Gym Leader: \\nWhitney",
+  "it": "Capopalestra di Fiordoropoli: \\nChiara"
+ },
+ {
+  "id": "The Incredibly Pretty Girl!",
+  "en": "The Incredibly Pretty Girl!",
+  "it": "La ragazza incredibilmente carina!"
+ },
+ {
+  "id": "Game Corner\\nThe playground for grown-ups!",
+  "en": "Game Corner\\nThe playground for grown-ups!",
+  "it": "Casinò\\nIl parco giochi per adulti!"
  }
 ]

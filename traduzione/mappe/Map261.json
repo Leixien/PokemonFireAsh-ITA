@@ -65,11 +65,6 @@
   "it": "\\bChatot"
  },
  {
-  "id": "\\bI came to watch my sister compete.",
-  "en": "\\bI came to watch my sister compete.",
-  "it": "\\bSono venuto a vedere mia sorella che gareggia."
- },
- {
   "id": "\\rHello, and welcome to the Pokémon Center.",
   "en": "\\rHello, and welcome to the Pokémon Center.",
   "it": "\\rCiao, benvenuto al Centro Pokémon."
@@ -133,6 +128,11 @@
   "id": "\\rWe hope you excel!",
   "en": "\\rWe hope you excel!",
   "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\bI came to watch my sister compete.",
+  "en": "\\bI came to watch my sister compete.",
+  "it": "\\bSono venuto a vedere mia sorella che gareggia."
  },
  {
   "id": "Yes",

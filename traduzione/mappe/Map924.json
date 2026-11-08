@@ -10,6 +10,11 @@
   "it": "\\bNon credo che mi sposterò da qui tanto presto."
  },
  {
+  "id": "\\bEveryone is ready to go except for Lillie. As soon as you find her we can leave.",
+  "en": "\\bEveryone is ready to go except for Lillie. As soon as you find her we can leave.",
+  "it": "\\bSono tutti pronti a partire tranne Lylia. Appena la trovi possiamo andare."
+ },
+ {
   "id": "\\rI can teach your Pokémon a move.",
   "en": "\\rI can teach your Pokémon a move.",
   "it": "\\rPosso insegnare una mossa ai tuoi Pokémon."
@@ -25,16 +30,6 @@
   "it": "\\rTorna quando vuoi!"
  },
  {
-  "id": "\\bEveryone is ready to go except for Lillie. As soon as you find her we can leave.",
-  "en": "\\bEveryone is ready to go except for Lillie. As soon as you find her we can leave.",
-  "it": "\\bSono tutti pronti a partire tranne Lylia. Appena la trovi possiamo andare."
- },
- {
-  "id": "\\bWelcome. Where would you like to go?",
-  "en": "\\bWelcome. Where would you like to go?",
-  "it": "\\bBenvenuto. Dove vorresti andare?"
- },
- {
   "id": "\\bDid you see the girl with the Vulpix?",
   "en": "\\bDid you see the girl with the Vulpix?",
   "it": "\\bHai visto la ragazza con il Vulpix?"
@@ -43,6 +38,11 @@
   "id": "\\bShe was training like crazy.",
   "en": "\\bShe was training like crazy.",
   "it": "\\bSi stava allenando come una matta."
+ },
+ {
+  "id": "\\bWelcome. Where would you like to go?",
+  "en": "\\bWelcome. Where would you like to go?",
+  "it": "\\bBenvenuto. Dove vorresti andare?"
  },
  {
   "id": "\\rI landed far. I hope my jump was good enough.",

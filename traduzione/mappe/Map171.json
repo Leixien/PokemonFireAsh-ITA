@@ -240,14 +240,44 @@
   "it": "Torre Rose"
  },
  {
+  "id": "\\bLeon: Go meet with Chariman Rose. I'm going to keep dealing with the Dynamax problem.",
+  "en": "\\bLeon: Go meet with Chariman Rose. I'm going to keep dealing with the Dynamax problem.",
+  "it": "\\bDandel: Va' a incontrare il Presidente Rose. Io continuerò a occuparmi del problema Dynamax."
+ },
+ {
   "id": "\\bI like to bike down this road. I'm taking a break right now.",
   "en": "\\bI like to bike down this road. I'm taking a break right now.",
   "it": "\\bMi piace scendere in bici lungo questa strada. Ora mi sto prendendo una pausa."
  },
  {
-  "id": "\\bLeon: Go meet with Chariman Rose. I'm going to keep dealing with the Dynamax problem.",
-  "en": "\\bLeon: Go meet with Chariman Rose. I'm going to keep dealing with the Dynamax problem.",
-  "it": "\\bDandel: Va' a incontrare il Presidente Rose. Io continuerò a occuparmi del problema Dynamax."
+  "id": "Rotom Phone: Announcement. New opponent found for the World Coronation Series. Tony, located in the Vermilion City Gym, is ready for battle.",
+  "en": "Rotom Phone: Announcement. New opponent found for the World Coronation Series. Tony, located in the Vermilion City Gym, is ready for battle.",
+  "it": "Smart Rotom: Annuncio. Nuovo avversario trovato per le World Coronation Series. Tony, alla Palestra di Aranciopoli, è pronto a lottare."
+ },
+ {
+  "id": "Rotom Phone: Incoming call from Goh:",
+  "en": "Rotom Phone: Incoming call from Goh:",
+  "it": "Smart Rotom: chiamata in arrivo da Goh:"
+ },
+ {
+  "id": "\\bGoh: \\PN, could you meet me back at the lab? Thanks.",
+  "en": "\\bGoh: \\PN, could you meet me back at the lab?  Thanks.",
+  "it": "\\bGoh: \\PN, puoi raggiungermi al laboratorio? Grazie."
+ },
+ {
+  "id": "\\bGoh: \\PN, I did it! I touched Mew with my own hands. With that, the future is in my hands more than ever before. How did your match go?",
+  "en": "\\bGoh: \\PN, I did it! I touched Mew with my own hands. With that, the future is in my hands more than ever before. How did your match go?",
+  "it": "\\bGoh: \\PN, ce l'ho fatta! Ho toccato Mew con le mie mani. Con questo, il futuro è nelle mie mani più che mai. Com'è andato il tuo incontro?"
+ },
+ {
+  "id": "\\bYou did it! That's fantastic. We have to celebrate once you get back. Speaking of...",
+  "en": "\\bYou did it! That's fantastic. We have to celebrate once you get back. Speaking of...",
+  "it": "\\bCe l'hai fatta! È fantastico. Dobbiamo festeggiare quando torni. A proposito..."
+ },
+ {
+  "id": "\\bNever mind. We can discuss it when you get here. Bye.",
+  "en": "\\bNever mind. We can discuss it when you get here.  Bye.",
+  "it": "\\bNiente, lascia stare. Ne parliamo quando arrivi. Ciao."
  },
  {
   "id": "\\rSonia: This statue... It depicts a legendary hero from Galar's past.",
@@ -328,36 +358,6 @@
   "id": "\\bGoh: Hey \\PN. There's several large beams of light coming out from Hammerlocke. Could you check them out? I'm afraid it's a sign more Dynamax is coming.",
   "en": "\\bGoh: Hey \\PN. There's several large beams of light coming out from Hammerlocke. Could you check them out? I'm afraid it's a sign more Dynamax is coming.",
   "it": "\\bGoh: Ehi, \\PN. Da Hammerlocke escono diversi grandi fasci di luce. Potresti andare a controllare? Temo sia il segnale che arriverà altro Dynamax."
- },
- {
-  "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Tony, located in the Vermilion City Gym, is ready for battle.",
-  "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Tony, located in the Vermilion City Gym, is ready for battle.",
-  "it": "Smart Rotom: Avviso. Trovato un nuovo avversario per la World Coronation Series. Tony, alla Palestra di Aranciopoli, è pronto a lottare."
- },
- {
-  "id": "Rotom Phone: Incoming call from Goh:",
-  "en": "Rotom Phone: Incoming call from Goh:",
-  "it": "Smart Rotom: chiamata in arrivo da Goh:"
- },
- {
-  "id": "\\bGoh: \\PN, could you meet me back at the lab? Thanks.",
-  "en": "\\bGoh: \\PN, could you meet me back at the lab?  Thanks.",
-  "it": "\\bGoh: \\PN, puoi raggiungermi al laboratorio? Grazie."
- },
- {
-  "id": "\\bGoh: \\PN, I did it! I touched Mew with my own hands. With that, the future is in my hands more than ever before. How did your match go?",
-  "en": "\\bGoh: \\PN, I did it! I touched Mew with my own hands. With that, the future is in my hands more than ever before. How did your match go?",
-  "it": "\\bGoh: \\PN, ce l'ho fatta! Ho toccato Mew con le mie mani. Con questo, il futuro è nelle mie mani più che mai. Com'è andato il tuo incontro?"
- },
- {
-  "id": "\\bYou did it! That's fantastic. We have to celebrate once you get back. Speaking of...",
-  "en": "\\bYou did it! That's fantastic. We have to celebrate once you get back. Speaking of...",
-  "it": "\\bCe l'hai fatta! È fantastico. Dobbiamo festeggiare quando torni. A proposito..."
- },
- {
-  "id": "\\bNever mind. We can discuss it when you get here. Bye.",
-  "en": "\\bNever mind. We can discuss it when you get here.  Bye.",
-  "it": "\\bNiente, lascia stare. Ne parliamo quando arrivi. Ciao."
  },
  {
   "id": "Yes",

@@ -65,16 +65,6 @@
   "it": "\\rHai dei Pokémon davvero esperti."
  },
  {
-  "id": "\\rI've gotten lost trying to take every path.",
-  "en": "\\rI've gotten lost trying to take every path.",
-  "it": "\\rMi sono persa cercando di percorrere tutti i sentieri."
- },
- {
-  "id": "\\rJust keep jumping to victory.",
-  "en": "\\rJust keep jumping to victory.",
-  "it": "\\rContinua a saltare verso la vittoria."
- },
- {
   "id": "\\bI'm in the mood for a fight.",
   "en": "\\bI'm in the mood for a fight.",
   "it": "\\bHo voglia di lottare."
@@ -85,14 +75,14 @@
   "it": "\\bMi hai stracciato."
  },
  {
-  "id": "\\bLovely day for a swim.",
-  "en": "\\bLovely day for a swim.",
-  "it": "\\bChe bella giornata per una nuotata."
+  "id": "\\rI've gotten lost trying to take every path.",
+  "en": "\\rI've gotten lost trying to take every path.",
+  "it": "\\rMi sono persa cercando di percorrere tutti i sentieri."
  },
  {
-  "id": "\\bI might go swimming soon. What do you think?",
-  "en": "\\bI might go swimming soon. What do you think?",
-  "it": "\\bForse tra poco vado a nuotare. Che ne dici?"
+  "id": "\\rJust keep jumping to victory.",
+  "en": "\\rJust keep jumping to victory.",
+  "it": "\\rContinua a saltare verso la vittoria."
  },
  {
   "id": "\\rMisty: \\PN, what a coincidence. I just started a new journey after seeing you win the World Coronation Series. You were amazing.",
@@ -108,5 +98,15 @@
   "id": "\\rMisty: What did you think of Clauncher? Isn't he amazing?",
   "en": "\\rMisty: What did you think of Clauncher? Isn't he amazing?",
   "it": "\\rMisty: Che ne pensi di Clauncher? Non è fantastico?"
+ },
+ {
+  "id": "\\bLovely day for a swim.",
+  "en": "\\bLovely day for a swim.",
+  "it": "\\bChe bella giornata per una nuotata."
+ },
+ {
+  "id": "\\bI might go swimming soon. What do you think?",
+  "en": "\\bI might go swimming soon. What do you think?",
+  "it": "\\bForse tra poco vado a nuotare. Che ne dici?"
  }
 ]

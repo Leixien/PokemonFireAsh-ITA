@@ -21,8 +21,31 @@ from rubymarshal.reader import load, loads
 from rubymarshal.writer import writes
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DEFAULT_GAME = os.path.join(ROOT, "Pokemon Fire Ash 3.4", "Game")
 TRAD_DIR = os.path.join(ROOT, "traduzione")
+
+# Versioni supportate. "sorgente" contiene Data/messages.dat e Data/Scripts.rxdata
+# originali; "file" e' il nome del file di lingua atteso dal gioco.
+VERSIONI = {
+    "3.7.1": {
+        "sorgente": os.path.join(ROOT, "originali", "3.7.1"),
+        "file": "italian.dat",
+        "messages_sha256": "65d3ee79d275cac40f7f82268cf3dac49d333eb74f8dc0223bc78246505c499d",
+    },
+    "3.4": {
+        "sorgente": os.path.join(ROOT, "Pokemon Fire Ash 3.4", "Game"),
+        "file": "italiano.dat",
+        "messages_sha256": "581ac5d20c3ab2f59acb4fae8d8c6e562d8b0299cb5e8b73e150a89587d63c6a",
+    },
+}
+VERSIONE_CORRENTE = "3.7.1"   # i JSON in traduzione/ sono allineati a questa versione
+DEFAULT_GAME = VERSIONI[VERSIONE_CORRENTE]["sorgente"]
+
+
+def versione_da_hash(sha):
+    for v, cfg in VERSIONI.items():
+        if cfg["messages_sha256"] == sha:
+            return v
+    return None
 
 SECTION_NAMES = {
     1: "Species", 2: "Kinds", 3: "Entries", 4: "FormNames", 5: "Moves",

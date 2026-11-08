@@ -1,10 +1,5 @@
 [
  {
-  "id": "\\bMy ship is strong. It can even move through the icy waters.",
-  "en": "\\bMy ship is strong. It can even move through the icy waters.",
-  "it": "\\bLa mia nave è robusta. Riesce a muoversi persino nelle acque ghiacciate."
- },
- {
   "id": "\\bBrandon: Hello again, \\PN. This is Snowpoint Temple, where Regigigas lies. We recently had an incident with a hunter waking it up.",
   "en": "\\bBrandon: Hello again, \\PN. This is Snowpoint Temple, where Regigigas lies. We recently had an incident with a hunter waking it up.",
   "it": "\\bBrandon: Ciao di nuovo, \\PN. Questo è il Tempio di Nevepoli, dove riposa Regigigas. Di recente c'è stato un incidente: un cacciatore l'ha risvegliato."
@@ -30,9 +25,19 @@
   "it": "\\bBrandon: Ciao di nuovo, \\PN. Questo è il Tempio di Nevepoli. "
  },
  {
+  "id": "\\bMy ship is strong. It can even move through the icy waters.",
+  "en": "\\bMy ship is strong. It can even move through the icy waters.",
+  "it": "\\bLa mia nave è robusta. Riesce a muoversi persino nelle acque ghiacciate."
+ },
+ {
   "id": "\\rAbsol",
   "en": "\\rAbsol",
   "it": "\\rAbsol"
+ },
+ {
+  "id": "\\bI sense a problem at Iron Island. What could it be?",
+  "en": "\\bI sense a problem at Iron Island. What could it be?",
+  "it": "\\bPercepisco un problema sull'Isola Ferrosa. Cosa potrà essere?"
  },
  {
   "id": "\\bUse this if you get too cold.",
@@ -43,11 +48,6 @@
   "id": "\\bOh wait, that only works on Pokémon.",
   "en": "\\bOh wait, that only works on Pokémon.",
   "it": "\\bOh, aspetta, funziona solo sui Pokémon."
- },
- {
-  "id": "\\bI sense a problem at Iron Island. What could it be?",
-  "en": "\\bI sense a problem at Iron Island. What could it be?",
-  "it": "\\bPercepisco un problema sull'Isola Ferrosa. Cosa potrà essere?"
  },
  {
   "id": "\\rChar",
@@ -65,24 +65,14 @@
   "it": "\\rAvevo il sole negli occhi. Mi ha fatto sbagliare."
  },
  {
-  "id": "\\rA visitor. What a rare surprise.",
-  "en": "\\rA visitor. What a rare surprise.",
-  "it": "\\rUn visitatore. Che rara sorpresa."
- },
- {
   "id": "\\bAboma",
   "en": "\\bAboma",
   "it": "\\bAboma"
  },
  {
-  "id": "\\bI know all the answers in class.",
-  "en": "\\bI know all the answers in class.",
-  "it": "\\bIn classe so sempre tutte le risposte."
- },
- {
-  "id": "\\bI'm sorry. I assumed you weren't a good Trainer.",
-  "en": "\\bI'm sorry. I assumed you weren't a good Trainer.",
-  "it": "\\bScusa. Pensavo che non fossi un bravo Allenatore."
+  "id": "\\rA visitor. What a rare surprise.",
+  "en": "\\rA visitor. What a rare surprise.",
+  "it": "\\rUn visitatore. Che rara sorpresa."
  },
  {
   "id": "\\bPaul: I can't believe I lost to you...",
@@ -125,14 +115,29 @@
   "it": "\\bPaul: Cosa?! Hai battuto Brandon! ...E va bene, ammetto che hai una certa forza. Raggiungimi al Lago Arguzia più tardi. Affronterò la tua squadra in una lotta completa."
  },
  {
-  "id": "\\bHow are you not freezing?",
-  "en": "\\bHow are you not freezing?",
-  "it": "\\bCome fai a non congelare?"
+  "id": "\\bI know all the answers in class.",
+  "en": "\\bI know all the answers in class.",
+  "it": "\\bIn classe so sempre tutte le risposte."
+ },
+ {
+  "id": "\\bI'm sorry. I assumed you weren't a good Trainer.",
+  "en": "\\bI'm sorry. I assumed you weren't a good Trainer.",
+  "it": "\\bScusa. Pensavo che non fossi un bravo Allenatore."
  },
  {
   "id": "\\rThere's a Beartic freezing everything. It would be best to stay away.",
   "en": "\\rThere's a Beartic freezing everything. It would be best to stay away.",
   "it": "\\rC'è un Beartic che congela tutto. Sarebbe meglio stargli alla larga."
+ },
+ {
+  "id": "\\bHow are you not freezing?",
+  "en": "\\bHow are you not freezing?",
+  "it": "\\bCome fai a non congelare?"
+ },
+ {
+  "id": "Snowpoint City\\nCity of Snow",
+  "en": "Snowpoint City\\nCity of Snow",
+  "it": "Nevepoli\\nLa città della neve"
  },
  {
   "id": "\\bLooker: Hello! I'm investigating Team Galactic. I've discovered you've encountered them a few times.",
@@ -160,9 +165,9 @@
   "it": "\\bBellocchio: Ma ti ho già rubato abbastanza tempo.  Grazie per l'aiuto."
  },
  {
-  "id": "Snowpoint City\\nCity of Snow",
-  "en": "Snowpoint City\\nCity of Snow",
-  "it": "Nevepoli\\nLa città della neve"
+  "id": "\\rDon't get too close to the water. It will freeze you right up.",
+  "en": "\\rDon't get too close to the water. It will freeze you right up.",
+  "it": "\\rNon avvicinarti troppo all'acqua. Ti congelerebbe all'istante."
  },
  {
   "id": "\\bI don't know if you can handle this move yet. Come back if you ever beat Candice.",
@@ -185,9 +190,14 @@
   "it": "\\bTorna quando vuoi!"
  },
  {
-  "id": "\\rDon't get too close to the water. It will freeze you right up.",
-  "en": "\\rDon't get too close to the water. It will freeze you right up.",
-  "it": "\\rNon avvicinarti troppo all'acqua. Ti congelerebbe all'istante."
+  "id": "\\rHello there.",
+  "en": "\\rHello there.",
+  "it": "\\rSalve."
+ },
+ {
+  "id": "\\rWe'll work harder on being a team.",
+  "en": "\\rWe'll work harder on being a team.",
+  "it": "\\rCi impegneremo di più per essere una squadra."
  },
  {
   "id": "Snowpoint City Pokémon Gym Leader:\\nCandice",
@@ -198,16 +208,6 @@
   "id": "The Diamond Dust Girl!",
   "en": "The Diamond Dust Girl!",
   "it": "La ragazza della Polvere di Diamante!"
- },
- {
-  "id": "\\rHello there.",
-  "en": "\\rHello there.",
-  "it": "\\rSalve."
- },
- {
-  "id": "\\rWe'll work harder on being a team.",
-  "en": "\\rWe'll work harder on being a team.",
-  "it": "\\rCi impegneremo di più per essere una squadra."
  },
  {
   "id": "Yes",

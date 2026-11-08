@@ -15,11 +15,6 @@
   "it": "\\bAloé sarà un'avversaria tosta."
  },
  {
-  "id": "\\bYou want a fossil revived? Kid, this is a museum. Go bother someone else.",
-  "en": "\\bYou want a fossil revived? Kid, this is a museum.  Go bother someone else.",
-  "it": "\\bVuoi far rianimare un fossile? Ragazzino, questo è un museo.  Va' a scocciare qualcun altro."
- },
- {
   "id": "\\bThe bookcase could be a secret entrance.",
   "en": "\\bThe bookcase could be a secret entrance.",
   "it": "\\bLa libreria potrebbe essere un passaggio segreto."
@@ -28,6 +23,11 @@
   "id": "\\bA switch will be around somewhere.",
   "en": "\\bA switch will be around somewhere.",
   "it": "\\bDeve esserci un interruttore da qualche parte."
+ },
+ {
+  "id": "\\bYou want a fossil revived? Kid, this is a museum. Go bother someone else.",
+  "en": "\\bYou want a fossil revived? Kid, this is a museum.  Go bother someone else.",
+  "it": "\\bVuoi far rianimare un fossile? Ragazzino, questo è un museo.  Va' a scocciare qualcun altro."
  },
  {
   "id": "\\bHawes: Welcome to the museum. I'm Lenora's husband and help run the gym.",
@@ -40,8 +40,8 @@
   "it": "\\bHawes: Mia moglie voleva che venissi da me. Deve volere che ti dia questi."
  },
  {
-  "id": "\\bLenora uses Normal type Pokémon. They are weak aganst only the Fighting type.",
-  "en": "\\bLenora uses Normal type Pokémon. They are weak aganst only the Fighting type.",
+  "id": "\\bLenora uses Normal type Pokémon. They are weak against only the Fighting type.",
+  "en": "\\bLenora uses Normal type Pokémon. They are weak against only the Fighting type.",
   "it": "\\bAloé usa Pokémon di tipo Normale. Sono deboli solo contro il tipo Lotta."
  },
  {
@@ -50,14 +50,14 @@
   "it": "\\bNon sono superefficaci contro nessun tipo. In più, sono immuni alle mosse di tipo Spettro. "
  },
  {
-  "id": "... A switch!",
-  "en": "... A switch!",
-  "it": "... Un interruttore!"
- },
- {
   "id": "It's an Aerodactyl Fossil.",
   "en": "It's an Aerodactyl Fossil.",
   "it": "È un Fossile di Aerodactyl."
+ },
+ {
+  "id": "... A switch!",
+  "en": "... A switch!",
+  "it": "... Un interruttore!"
  },
  {
   "id": "\\rTaking a guess, are you?",

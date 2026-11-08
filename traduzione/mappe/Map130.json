@@ -1,23 +1,18 @@
 [
  {
-  "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Electon, located in Vermilion City, is ready for battle.",
-  "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Electon, located in Vermilion City, is ready for battle.",
-  "it": "Smart Rotom: Annuncio. Trovato un nuovo avversario per la World Coronation Series. Electon, ad Aranciopoli, è pronto a lottare."
- },
- {
   "id": "\\bThis path is currently under construction.",
   "en": "\\bThis path is currently under construction.",
   "it": "\\bQuesto sentiero è attualmente in costruzione."
  },
  {
-  "id": "Fighting Dojo",
-  "en": "Fighting Dojo",
-  "it": "Dojo Karate"
- },
- {
   "id": "\\bMurkrow",
   "en": "\\bMurkrow",
   "it": "\\bMurkrow"
+ },
+ {
+  "id": "Fighting Dojo",
+  "en": "Fighting Dojo",
+  "it": "Dojo Karate"
  },
  {
   "id": "\\rI'm aiming for the Ultra Class.",
@@ -30,9 +25,9 @@
   "it": "Smart Rotom: In base ai risultati, la tua posizione in classifica ora è 904."
  },
  {
-  "id": "Announcment. New opponent found for the World Coronation Series. Riven, located in Goldenrod City, is ready for battle.",
-  "en": "Announcment. New opponent found for the World Coronation Series. Riven, located in Goldenrod City, is ready for battle.",
-  "it": "Annuncio. Trovato un nuovo avversario per la World Coronation Series. Riven, a Fiordoropoli, è pronto a lottare."
+  "id": "Announcement. New opponent found for the World Coronation Series. Riven, located in Goldenrod City, is ready for battle.",
+  "en": "Announcement. New opponent found for the World Coronation Series. Riven, located in Goldenrod City, is ready for battle.",
+  "it": "Annuncio. Trovato un nuovo avversario per il World Coronation Series. Riven, a Fiordoropoli, è pronto per la lotta."
  },
  {
   "id": "\\rI'll climb my way back up.",
@@ -50,11 +45,6 @@
   "it": "La maestra dei Pokémon Psico!"
  },
  {
-  "id": "\\bI flew here on my Pidgeot when I heard about how strong the Gym is.",
-  "en": "\\bI flew here on my Pidgeot when I heard about how strong the Gym is.",
-  "it": "\\bSono venuto qui in volo col mio Pidgeot quando ho sentito quanto è forte la Palestra."
- },
- {
   "id": "\\bGrow!",
   "en": "\\bGrow!",
   "it": "\\bGrow!"
@@ -63,6 +53,36 @@
   "id": "\\bArca!",
   "en": "\\bArca!",
   "it": "\\bArca!"
+ },
+ {
+  "id": "\\bI flew here on my Pidgeot when I heard about how strong the Gym is.",
+  "en": "\\bI flew here on my Pidgeot when I heard about how strong the Gym is.",
+  "it": "\\bSono venuto qui in volo col mio Pidgeot quando ho sentito quanto è forte la Palestra."
+ },
+ {
+  "id": "Saffron City\\nShining, Golden Land of Commerce",
+  "en": "Saffron City\\nShining, Golden Land of Commerce",
+  "it": "Zafferanopoli\\nSplendente terra dorata del commercio"
+ },
+ {
+  "id": "\\rSabrina is the Gym Leader of this town.",
+  "en": "\\rSabrina is the Gym Leader of this town.",
+  "it": "\\rSabrina è la Capopalestra di questa città."
+ },
+ {
+  "id": "\\rThough lately, she has gotten a little scary.",
+  "en": "\\rThough lately, she has gotten a little scary.",
+  "it": "\\rAnche se ultimamente è diventata un po' inquietante."
+ },
+ {
+  "id": "\\rShe's very easy to make laugh.",
+  "en": "\\rShe's very easy to make laugh.",
+  "it": "\\rÈ facilissimo farla ridere."
+ },
+ {
+  "id": "Rotom Phone: Announcement. New opponent found for the World Coronation Series. Electon, located in Vermilion City, is ready for battle.",
+  "en": "Rotom Phone: Announcement. New opponent found for the World Coronation Series. Electon, located in Vermilion City, is ready for battle.",
+  "it": "Smart Rotom: Annuncio. Trovato un nuovo avversario per il World Coronation Series. Electon, ad Aranciopoli, è pronto per la lotta."
  },
  {
   "id": "\\rMay: You came to Kanto too? I came here for the Contests, but what are you here for?",
@@ -85,24 +105,9 @@
   "it": "\\rVera: Forte come sempre. Come farò mai a vincere?"
  },
  {
-  "id": "\\rSabrina is the Gym Leader of this town.",
-  "en": "\\rSabrina is the Gym Leader of this town.",
-  "it": "\\rSabrina è la Capopalestra di questa città."
- },
- {
-  "id": "\\rThough lately, she has gotten a little scary.",
-  "en": "\\rThough lately, she has gotten a little scary.",
-  "it": "\\rAnche se ultimamente è diventata un po' inquietante."
- },
- {
-  "id": "\\rShe's very easy to make laugh.",
-  "en": "\\rShe's very easy to make laugh.",
-  "it": "\\rÈ facilissimo farla ridere."
- },
- {
-  "id": "Saffron City\\nShining, Golden Land of Commerce",
-  "en": "Saffron City\\nShining, Golden Land of Commerce",
-  "it": "Zafferanopoli\\nSplendente terra dorata del commercio"
+  "id": "Magnet Train",
+  "en": "Magnet Train",
+  "it": "Treno Magnetico"
  },
  {
   "id": "\\rPidgeot!",
@@ -110,19 +115,14 @@
   "it": "\\rPidgeot!"
  },
  {
-  "id": "Magnet Train",
-  "en": "Magnet Train",
-  "it": "Treno Magnetico"
+  "id": "Silph Co. Office Building",
+  "en": "Silph Co. Office Building",
+  "it": "Sede della Silph S.p.A."
  },
  {
   "id": "\\bI wish our Master would return soon.",
   "en": "\\bI wish our Master would return soon.",
   "it": "\\bVorrei che il nostro Maestro tornasse presto."
- },
- {
-  "id": "Silph Co. Office Building",
-  "en": "Silph Co. Office Building",
-  "it": "Sede della Silph S.p.A."
  },
  {
   "id": "\\rI wish Sabrina would get better.",
@@ -135,19 +135,19 @@
   "it": "\\rL'umore di Sabrina è migliorato molto."
  },
  {
-  "id": "\\bSilph Co. makes all kinds of neat stuff.",
-  "en": "\\bSilph Co. makes all kinds of neat stuff.",
-  "it": "\\bLa Silph S.p.A. produce ogni genere di cose fighe."
- },
- {
   "id": "\\bDown this path is the Battle Arena.",
   "en": "\\bDown this path is the Battle Arena.",
   "it": "\\bIn fondo a questo sentiero c'è l'Dojo Lotta."
  },
  {
-  "id": "Saffron Pokémon Contest Hall",
-  "en": "Saffron Pokémon Contest Hall",
-  "it": "Salone delle Gare Pokémon di Zafferanopoli"
+  "id": "\\bSilph Co. makes all kinds of neat stuff.",
+  "en": "\\bSilph Co. makes all kinds of neat stuff.",
+  "it": "\\bLa Silph S.p.A. produce ogni genere di cose fighe."
+ },
+ {
+  "id": "\\bTyrogue",
+  "en": "\\bTyrogue",
+  "it": "\\bTyrogue"
  },
  {
   "id": "\\bThis used to be a Gym, but Sabrina's quickly took over.",
@@ -155,8 +155,8 @@
   "it": "\\bQuesta prima era una Palestra, ma quella di Sabrina ha subito preso il sopravvento."
  },
  {
-  "id": "\\bTyrogue",
-  "en": "\\bTyrogue",
-  "it": "\\bTyrogue"
+  "id": "Saffron Pokémon Contest Hall",
+  "en": "Saffron Pokémon Contest Hall",
+  "it": "Salone delle Gare Pokémon di Zafferanopoli"
  }
 ]

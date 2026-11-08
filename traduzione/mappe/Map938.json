@@ -1,5 +1,10 @@
 [
  {
+  "id": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "en": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "it": "Stai per affrontare un Pokémon leggendario che, se non lo catturi qui, non sarà ottenibile fino al post-game. Vuoi salvare?"
+ },
+ {
   "id": "\\rAcerola: This is Tapu Bulu. It's sleeping right now but its easy enough to wake up.",
   "en": "\\rAcerola: This is Tapu Bulu. It's sleeping right now but its easy enough to wake up.",
   "it": "\\rAcerola: Questo è Tapu Bulu. Adesso sta dormendo, ma svegliarlo è abbastanza facile."
@@ -8,5 +13,15 @@
   "id": "\\rAcerola: Nanu should take your challenge now.",
   "en": "\\rAcerola: Nanu should take your challenge now.",
   "it": "\\rAcerola: Ora Nanu dovrebbe accettare la tua sfida."
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
  }
 ]

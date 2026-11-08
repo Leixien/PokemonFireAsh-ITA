@@ -1,10 +1,5 @@
 [
  {
-  "id": "\\rDon't you just love flowers? This is such a great place to live.",
-  "en": "\\rDon't you just love flowers? This is such a great place to live.",
-  "it": "\\rNon adori i fiori? È un posto meraviglioso in cui vivere."
- },
- {
   "id": "\\rHello, you must be here to challenge my husband Norman.",
   "en": "\\rHello, you must be here to challenge my husband Norman.",
   "it": "\\rSalve, sarai qui per sfidare mio marito Norman."
@@ -28,6 +23,11 @@
   "id": "\\rI heard you beat my husband. That's quite the impressive feat.",
   "en": "\\rI heard you beat my husband. That's quite the impressive feat.",
   "it": "\\rHo sentito che hai battuto mio marito. Un'impresa davvero notevole."
+ },
+ {
+  "id": "\\rDon't you just love flowers? This is such a great place to live.",
+  "en": "\\rDon't you just love flowers? This is such a great place to live.",
+  "it": "\\rNon adori i fiori? È un posto meraviglioso in cui vivere."
  },
  {
   "id": "\\bNorman goes off to train a lot, despite having his family here. I hope it isn't too hard on them.",

@@ -5,33 +5,8 @@
   "it": "\\bReale Mascherato: Eccellente! Che la lotta abbia inizio."
  },
  {
-  "id": "\\bSophocles: Do you want to pick me?",
-  "en": "\\bSophocles: Do you want to pick me?",
-  "it": "\\bChrys: Vuoi scegliere me?"
- },
- {
-  "id": "\\PN teamed up with Sophocles!\\me[Item get]\\wtnp[40]",
-  "en": "\\PN teamed up with Sophocles!\\me[Item get]\\wtnp[40]",
-  "it": "\\PN ha fatto squadra con Chrys!\\me[Item get]\\wtnp[40]"
- },
- {
-  "id": "\\bThat's fine.",
-  "en": "\\bThat's fine.",
-  "it": "\\bVa bene."
- },
- {
   "id": "\\bKiawe: I'm not going down.",
   "en": "\\bKiawe: I'm not going down.",
   "it": "\\bKiawe: Non mi arrendo."
- },
- {
-  "id": "Yes",
-  "en": "Yes",
-  "it": "Sì"
- },
- {
-  "id": "No",
-  "en": "No",
-  "it": "No"
  }
 ]

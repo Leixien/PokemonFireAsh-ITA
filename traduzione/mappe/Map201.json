@@ -13,5 +13,20 @@
   "id": "\\bCongratulations on winning your third match. \\nYour next battle will be on the Grass stage.",
   "en": "\\bCongratulations on winning your third match. \\nYour next battle will be on the Grass stage.",
   "it": "\\bCongratulazioni per aver vinto il tuo terzo incontro. \\nLa tua prossima lotta sarà sul campo Erba."
+ },
+ {
+  "id": "\\bGood luck to you again!",
+  "en": "\\bGood luck to you again!",
+  "it": "\\bDi nuovo buona fortuna!"
+ },
+ {
+  "id": "\\bBetter luck next time!",
+  "en": "\\bBetter luck next time!",
+  "it": "\\bAndrà meglio la prossima volta!"
+ },
+ {
+  "id": "\\bOh well. I hope you win this time.",
+  "en": "\\bOh well. I hope you win this time.",
+  "it": "\\bPazienza. Spero che stavolta vinca tu."
  }
 ]

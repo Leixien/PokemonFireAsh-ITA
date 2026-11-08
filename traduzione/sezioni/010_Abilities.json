@@ -1333,5 +1333,850 @@
   "id": 267,
   "en": "As One",
   "it": "Sintonia Equina"
+ },
+ {
+  "id": 268,
+  "en": "Sand Stream",
+  "it": "Sabbiafiume"
+ },
+ {
+  "id": 269,
+  "en": "Cynthia's Aura",
+  "it": "Aura di Camilla"
+ },
+ {
+  "id": 270,
+  "en": "Scorching Touch",
+  "it": "Tocco Rovente"
+ },
+ {
+  "id": 271,
+  "en": "Electric Surge",
+  "it": "Elettrogenesi"
+ },
+ {
+  "id": 272,
+  "en": "Psychic Surge",
+  "it": "Psicogenesi"
+ },
+ {
+  "id": 273,
+  "en": "Grassy Surge",
+  "it": "Erbogenesi"
+ },
+ {
+  "id": 274,
+  "en": "Fairy Kingdom",
+  "it": "Regno Fatato"
+ },
+ {
+  "id": 275,
+  "en": "Soul-Heart",
+  "it": "Cuoreanima"
+ },
+ {
+  "id": 276,
+  "en": "Punk Rock",
+  "it": "Punk Rock"
+ },
+ {
+  "id": 277,
+  "en": "Punk Rock",
+  "it": "Punk Rock"
+ },
+ {
+  "id": 278,
+  "en": "Protean",
+  "it": "Mutatipo"
+ },
+ {
+  "id": 279,
+  "en": "Berserk",
+  "it": "Furore"
+ },
+ {
+  "id": 280,
+  "en": "Lightning Legs",
+  "it": "Gambe Fulminee"
+ },
+ {
+  "id": 281,
+  "en": "Conniving Wings",
+  "it": "Ali Subdole"
+ },
+ {
+  "id": 282,
+  "en": "Pressure",
+  "it": "Pressione"
+ },
+ {
+  "id": 283,
+  "en": "Mold Breaker",
+  "it": "Rompiforma"
+ },
+ {
+  "id": 284,
+  "en": "Serene Grace",
+  "it": "Leggiadro"
+ },
+ {
+  "id": 400,
+  "en": "Good as Gold",
+  "it": "Corpo Aureo"
+ },
+ {
+  "id": 401,
+  "en": "Chivalrous Will",
+  "it": "Spirito Cavalleresco"
+ },
+ {
+  "id": 402,
+  "en": "Diamond Skin",
+  "it": "Pelle di Diamante"
+ },
+ {
+  "id": 403,
+  "en": "Destiny Reaping",
+  "it": "Mietidestino"
+ },
+ {
+  "id": 404,
+  "en": "Weather Havoc",
+  "it": "Caos Meteo"
+ },
+ {
+  "id": 405,
+  "en": "Looming Frailty",
+  "it": "Fragilità Incombente"
+ },
+ {
+  "id": 406,
+  "en": "Focus Will",
+  "it": "Volontà Focus"
+ },
+ {
+  "id": 407,
+  "en": "Awaken",
+  "it": "Risveglio"
+ },
+ {
+  "id": 408,
+  "en": "Phoenix Revival",
+  "it": "Rinascita Fenice"
+ },
+ {
+  "id": 409,
+  "en": "Phoenix Release",
+  "it": "Rilascio Fenice"
+ },
+ {
+  "id": 410,
+  "en": "King of Space",
+  "it": "Re dello Spazio"
+ },
+ {
+  "id": 411,
+  "en": "Infinite Space",
+  "it": "Spazio Infinito"
+ },
+ {
+  "id": 412,
+  "en": "Mountain Crusher",
+  "it": "Frantumamonti"
+ },
+ {
+  "id": 413,
+  "en": "Life Sucker",
+  "it": "Succhiavita"
+ },
+ {
+  "id": 414,
+  "en": "Bites the Dust",
+  "it": "Bites the Dust"
+ },
+ {
+  "id": 415,
+  "en": "Epitaph",
+  "it": "Epitaph"
+ },
+ {
+  "id": 416,
+  "en": "Time Acceleration",
+  "it": "Accelera Tempo"
+ },
+ {
+  "id": 417,
+  "en": "Parallel Protection",
+  "it": "Protezione Parallela"
+ },
+ {
+  "id": 418,
+  "en": "Calamatic Misfortune",
+  "it": "Sventura Calamitosa"
+ },
+ {
+  "id": 419,
+  "en": "Earth of Sinnoh",
+  "it": "Terra di Sinnoh"
+ },
+ {
+  "id": 420,
+  "en": "Draco of Johto",
+  "it": "Drago di Johto"
+ },
+ {
+  "id": 421,
+  "en": "Iron of Hoenn",
+  "it": "Ferro di Hoenn"
+ },
+ {
+  "id": 422,
+  "en": "Flame of Galar",
+  "it": "Fiamma di Galar"
+ },
+ {
+  "id": 423,
+  "en": "Dread of Unova",
+  "it": "Terrore di Unima"
+ },
+ {
+  "id": 424,
+  "en": "Insect of Unova",
+  "it": "Insetto di Unima"
+ },
+ {
+  "id": 425,
+  "en": "Flame of Johto",
+  "it": "Fiamma di Johto"
+ },
+ {
+  "id": 426,
+  "en": "Sky of Johto",
+  "it": "Cielo di Johto"
+ },
+ {
+  "id": 427,
+  "en": "Sky of Kanto",
+  "it": "Cielo di Kanto"
+ },
+ {
+  "id": 428,
+  "en": "Stone of Kanto",
+  "it": "Pietra di Kanto"
+ },
+ {
+  "id": 429,
+  "en": "Splash of Kanto",
+  "it": "Spruzzo di Kanto"
+ },
+ {
+  "id": 500,
+  "en": "Active Healing",
+  "it": "Cura Attiva"
+ },
+ {
+  "id": 501,
+  "en": "Brawn Gain",
+  "it": "Più Forza"
+ },
+ {
+  "id": 502,
+  "en": "Shielding Strikes",
+  "it": "Colpi Scudo"
+ },
+ {
+  "id": 503,
+  "en": "Mind Swell",
+  "it": "Mente Ampia"
+ },
+ {
+  "id": 504,
+  "en": "Acumen",
+  "it": "Acume"
+ },
+ {
+  "id": 505,
+  "en": "Fleet Feet",
+  "it": "Piè Veloce"
+ },
+ {
+  "id": 506,
+  "en": "Precision Gain",
+  "it": "Più Precisione"
+ },
+ {
+  "id": 507,
+  "en": "Shifty Striker",
+  "it": "Colpitore Furtivo"
+ },
+ {
+  "id": 508,
+  "en": "Eagle Eye",
+  "it": "Occhio d'Aquila"
+ },
+ {
+  "id": 509,
+  "en": "Beef Up",
+  "it": "Muscoli Su"
+ },
+ {
+  "id": 510,
+  "en": "Toughen Up",
+  "it": "Corazza Su"
+ },
+ {
+  "id": 511,
+  "en": "Soup Up",
+  "it": "Mente Su"
+ },
+ {
+  "id": 512,
+  "en": "Tighten Up",
+  "it": "Guardia Su"
+ },
+ {
+  "id": 513,
+  "en": "Look Alive",
+  "it": "Scatto Su"
+ },
+ {
+  "id": 514,
+  "en": "Fierce Entry",
+  "it": "Entrata Feroce"
+ },
+ {
+  "id": 515,
+  "en": "Sentry Entry",
+  "it": "Entrata Sentinella"
+ },
+ {
+  "id": 516,
+  "en": "Grand Entry",
+  "it": "Entrata Grandiosa"
+ },
+ {
+  "id": 517,
+  "en": "Wise Entry",
+  "it": "Entrata Saggia"
+ },
+ {
+  "id": 518,
+  "en": "Speedy Entry",
+  "it": "Entrata Rapida"
+ },
+ {
+  "id": 519,
+  "en": "Pinpoint Entry",
+  "it": "Entrata Precisa"
+ },
+ {
+  "id": 520,
+  "en": "Agile Entry",
+  "it": "Entrata Agile"
+ },
+ {
+  "id": 521,
+  "en": "Terrify",
+  "it": "Terrorizza"
+ },
+ {
+  "id": 522,
+  "en": "Enfeeble",
+  "it": "Indebolisci"
+ },
+ {
+  "id": 523,
+  "en": "Discourage",
+  "it": "Scoraggia"
+ },
+ {
+  "id": 524,
+  "en": "Befuddle",
+  "it": "Confondi"
+ },
+ {
+  "id": 525,
+  "en": "Trip Wire",
+  "it": "Sgambetto"
+ },
+ {
+  "id": 526,
+  "en": "Bedazzle",
+  "it": "Abbaglia"
+ },
+ {
+  "id": 527,
+  "en": "Impose",
+  "it": "Imponi"
+ },
+ {
+  "id": 528,
+  "en": "Simple Setup",
+  "it": "Preparazione Semplice"
+ },
+ {
+  "id": 529,
+  "en": "Simple Setup",
+  "it": "Preparazione Semplice"
+ },
+ {
+  "id": 530,
+  "en": "Sunburst",
+  "it": "Raggiera Solare"
+ },
+ {
+  "id": 531,
+  "en": "Donwpour",
+  "it": "Acquazzone"
+ },
+ {
+  "id": 532,
+  "en": "Conductive Plant",
+  "it": "Pianta Conduttiva"
+ },
+ {
+  "id": 533,
+  "en": "Verdant Turf",
+  "it": "Prato Verdeggiante"
+ },
+ {
+  "id": 534,
+  "en": "Weird Stasis",
+  "it": "Stasi Strana"
+ },
+ {
+  "id": 535,
+  "en": "Passion Aura",
+  "it": "Aura Passione"
+ },
+ {
+  "id": 536,
+  "en": "Cold Front",
+  "it": "Fronte Freddo"
+ },
+ {
+  "id": 537,
+  "en": "Sand Kicker",
+  "it": "Calciasabbia"
+ },
+ {
+  "id": 538,
+  "en": "Wasteland",
+  "it": "Terra Desolata"
+ },
+ {
+  "id": 539,
+  "en": "Down to Earth",
+  "it": "Coi Piedi a Terra"
+ },
+ {
+  "id": 540,
+  "en": "Landing Pad",
+  "it": "Piattaforma"
+ },
+ {
+  "id": 541,
+  "en": "Wonder World",
+  "it": "Mondo Meraviglia"
+ },
+ {
+  "id": 542,
+  "en": "Climb To Edge",
+  "it": "Scalata al Limite"
+ },
+ {
+  "id": 543,
+  "en": "Haunted Falling",
+  "it": "Caduta Infestata"
+ },
+ {
+  "id": 544,
+  "en": "Draco Domain",
+  "it": "Dominio Draco"
+ },
+ {
+  "id": 545,
+  "en": "Umbral Call",
+  "it": "Richiamo Umbratile"
+ },
+ {
+  "id": 546,
+  "en": "Iron Surroundings",
+  "it": "Ambiente Ferroso"
+ },
+ {
+  "id": 547,
+  "en": "Ethereal Entrance",
+  "it": "Entrata Eterea"
+ },
+ {
+  "id": 550,
+  "en": "Honing Hit",
+  "it": "Colpo Affinato"
+ },
+ {
+  "id": 551,
+  "en": "Seeking Hit",
+  "it": "Colpo Cercatore"
+ },
+ {
+  "id": 552,
+  "en": "Extend Range",
+  "it": "Portata Estesa"
+ },
+ {
+  "id": 553,
+  "en": "Efficient Healer",
+  "it": "Guaritore Efficiente"
+ },
+ {
+  "id": 560,
+  "en": "Brock's Grit",
+  "it": "Grinta di Brock"
+ },
+ {
+  "id": 561,
+  "en": "Misty's Flow",
+  "it": "Flusso di Misty"
+ },
+ {
+  "id": 562,
+  "en": "Erika's Growth",
+  "it": "Crescita di Erika"
+ },
+ {
+  "id": 563,
+  "en": "Red's Destiny",
+  "it": "Destino di Red"
+ },
+ {
+  "id": 564,
+  "en": "Red's Fighting Spirit",
+  "it": "Spirito Combattivo di Red"
+ },
+ {
+  "id": 565,
+  "en": "Blue's Triumph",
+  "it": "Trionfo di Blu"
+ },
+ {
+  "id": 567,
+  "en": "Leaf's Tenacity",
+  "it": "Tenacia di Leaf"
+ },
+ {
+  "id": 568,
+  "en": "Giovanni's Cunning",
+  "it": "Astuzia di Giovanni"
+ },
+ {
+  "id": 569,
+  "en": "Morty's Future",
+  "it": "Futuro di Angelo"
+ },
+ {
+  "id": 570,
+  "en": "Ethan's Shining Soul",
+  "it": "Anima Splendente di Ethan"
+ },
+ {
+  "id": 571,
+  "en": "Lyra's Time",
+  "it": "Tempo di Lyra"
+ },
+ {
+  "id": 572,
+  "en": "Kris's Clarity",
+  "it": "Lucidità di Kris"
+ },
+ {
+  "id": 573,
+  "en": "Silver's Bond",
+  "it": "Legame di Silver"
+ },
+ {
+  "id": 574,
+  "en": "Brendan's Good Times",
+  "it": "Bei Tempi di Brendan"
+ },
+ {
+  "id": 575,
+  "en": "May's Blaze",
+  "it": "Fiamma di Vera"
+ },
+ {
+  "id": 576,
+  "en": "Wally's Challenge",
+  "it": "Sfida di Wally"
+ },
+ {
+  "id": 577,
+  "en": "Steven's Balance",
+  "it": "Equilibrio di Rocco"
+ },
+ {
+  "id": 578,
+  "en": "Steven's Attack",
+  "it": "Attacco di Rocco"
+ },
+ {
+  "id": 579,
+  "en": "Steven's Defense",
+  "it": "Difesa di Rocco"
+ },
+ {
+  "id": 580,
+  "en": "Steven's Speed",
+  "it": "Velocità di Rocco"
+ },
+ {
+  "id": 581,
+  "en": "Cyrus's Ideals",
+  "it": "Ideali di Cyrus"
+ },
+ {
+  "id": 582,
+  "en": "Cynthia's Heartbeat",
+  "it": "Battito di Camilla"
+ },
+ {
+  "id": 583,
+  "en": "Cynthia's Renegade",
+  "it": "Ribelle di Camilla"
+ },
+ {
+  "id": 584,
+  "en": "Cynthia's Aura",
+  "it": "Aura di Camilla"
+ },
+ {
+  "id": 585,
+  "en": "Dawn's Protection",
+  "it": "Protezione di Lucinda"
+ },
+ {
+  "id": 586,
+  "en": "Elesa's Dazzle",
+  "it": "Abbaglio di Camelia"
+ },
+ {
+  "id": 587,
+  "en": "Grimsley's Gambit",
+  "it": "Azzardo di Mirton"
+ },
+ {
+  "id": 588,
+  "en": "Hilbert's Plan",
+  "it": "Piano di Hilbert"
+ },
+ {
+  "id": 589,
+  "en": "Hilda's Victory",
+  "it": "Vittoria di Hilda"
+ },
+ {
+  "id": 590,
+  "en": "N's Formula",
+  "it": "Formula di N"
+ },
+ {
+  "id": 591,
+  "en": "Serena's Enforcement",
+  "it": "Fermezza di Serena"
+ },
+ {
+  "id": 592,
+  "en": "Korrina's Shroud",
+  "it": "Velo di Ornella"
+ },
+ {
+  "id": 593,
+  "en": "Diantha's Nobility",
+  "it": "Nobiltà di Diantha"
+ },
+ {
+  "id": 594,
+  "en": "Lusamine's Love",
+  "it": "Amore di Samina"
+ },
+ {
+  "id": 595,
+  "en": "Melemele Ocean Breeze",
+  "it": "Brezza Marina di Mele Mele"
+ },
+ {
+  "id": 596,
+  "en": "Akala Ocean Breeze",
+  "it": "Brezza Marina di Akala"
+ },
+ {
+  "id": 597,
+  "en": "Ula'ula Ocean Breeze",
+  "it": "Brezza Marina di Ula Ula"
+ },
+ {
+  "id": 598,
+  "en": "Gladion's Soul",
+  "it": "Anima di Iridio"
+ },
+ {
+  "id": 599,
+  "en": "Leon's Eternity",
+  "it": "Eternità di Dandel"
+ },
+ {
+  "id": 600,
+  "en": "Pier's Melancholy",
+  "it": "Malinconia di Ginepro"
+ },
+ {
+  "id": 601,
+  "en": "Roxie's Jam",
+  "it": "Concerto di Velia"
+ },
+ {
+  "id": 602,
+  "en": "Ingo's Arrival",
+  "it": "Arrivo di Ingo"
+ },
+ {
+  "id": 603,
+  "en": "Emmet's Departure",
+  "it": "Partenza di Emmet"
+ },
+ {
+  "id": 604,
+  "en": "Giovanni's Greed",
+  "it": "Avidità di Giovanni"
+ },
+ {
+  "id": 605,
+  "en": "Gloria's Strikes",
+  "it": "Colpi di Gloria"
+ },
+ {
+  "id": 606,
+  "en": "Lillie's Hope",
+  "it": "Speranza di Lylia"
+ },
+ {
+  "id": 607,
+  "en": "N's Truth",
+  "it": "Verità di N"
+ },
+ {
+  "id": 608,
+  "en": "Steven's Ascent",
+  "it": "Ascesa di Rocco"
+ },
+ {
+  "id": 609,
+  "en": "May's Friendship",
+  "it": "Amicizia di Vera"
+ },
+ {
+  "id": 610,
+  "en": "Skyla's Takeoff",
+  "it": "Decollo di Anemone"
+ },
+ {
+  "id": 611,
+  "en": "Raihan's Rampage",
+  "it": "Furia di Raihan"
+ },
+ {
+  "id": 612,
+  "en": "Serena's Vividness",
+  "it": "Vivacità di Serena"
+ },
+ {
+  "id": 613,
+  "en": "Serena's Seriousness",
+  "it": "Serietà di Serena"
+ },
+ {
+  "id": 614,
+  "en": "Calem's Calmness",
+  "it": "Calma di Calem"
+ },
+ {
+  "id": 615,
+  "en": "Calem's Stoicness",
+  "it": "Stoicismo di Calem"
+ },
+ {
+  "id": 616,
+  "en": "Marnie's Distaste",
+  "it": "Disgusto di Mary"
+ },
+ {
+  "id": 617,
+  "en": "Hop's Perseverance",
+  "it": "Perseveranza di Hop"
+ },
+ {
+  "id": 618,
+  "en": "Bede's Intimidation",
+  "it": "Intimidazione di Beet"
+ },
+ {
+  "id": 619,
+  "en": "Red's Raging Silence",
+  "it": "Silenzio Furioso di Red"
+ },
+ {
+  "id": 620,
+  "en": "Leaf's Burning Love",
+  "it": "Amore Ardente di Leaf"
+ },
+ {
+  "id": 621,
+  "en": "Blue's Leadership",
+  "it": "Comando di Blu"
+ },
+ {
+  "id": 622,
+  "en": "Nate's Resonating Will",
+  "it": "Volontà Risonante di Nate"
+ },
+ {
+  "id": 623,
+  "en": "Rosa's Melody",
+  "it": "Melodia di Rosa"
+ },
+ {
+  "id": 624,
+  "en": "Silver's Destructive Instinct",
+  "it": "Istinto Distruttivo di Silver"
+ },
+ {
+  "id": 625,
+  "en": "Cheren's Teachings",
+  "it": "Insegnamenti di Komor"
+ },
+ {
+  "id": 626,
+  "en": "Bianca's New Path",
+  "it": "Nuova Strada di Belle"
+ },
+ {
+  "id": 627,
+  "en": "May's Blue Blessing",
+  "it": "Benedizione Blu di Vera"
+ },
+ {
+  "id": 628,
+  "en": "Brendan's Red Hype",
+  "it": "Carica Rossa di Brendan"
+ },
+ {
+  "id": 629,
+  "en": "Elio's Gentle Power",
+  "it": "Forza Gentile di Elio"
+ },
+ {
+  "id": 630,
+  "en": "Selene's Continuous Warmth",
+  "it": "Calore Costante di Selene"
  }
 ]

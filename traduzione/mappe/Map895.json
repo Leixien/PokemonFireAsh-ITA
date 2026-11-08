@@ -1,13 +1,13 @@
 [
  {
-  "id": "\\bFight the power! Quit while you still can. Turn it off!",
-  "en": "\\bFight the power! Quit while you still can. Turn it off!",
-  "it": "\\bCombatti il potere! Smetti finché sei in tempo. Spegnilo!"
- },
- {
   "id": "\\bHello there. I'm Mallow's brother. Nice to meet you.",
   "en": "\\bHello there. I'm Mallow's brother. Nice to meet you.",
   "it": "\\bCiao. Sono il fratello di Ibis. Piacere di conoscerti."
+ },
+ {
+  "id": "\\bFight the power! Quit while you still can. Turn it off!",
+  "en": "\\bFight the power! Quit while you still can. Turn it off!",
+  "it": "\\bCombatti il potere! Smetti finché sei in tempo. Spegnilo!"
  },
  {
   "id": "\\rLusamine: It's a pleasure to meet one of Lillie's friends!",
@@ -15,9 +15,9 @@
   "it": "\\rSamina: È un piacere conoscere uno degli amici di Lylia!"
  },
  {
-  "id": "\\rTsareena",
-  "en": "\\rTsareena",
-  "it": "\\rTsareena"
+  "id": "\\rI love coming here.",
+  "en": "\\rI love coming here.",
+  "it": "\\rAdoro venire qui."
  },
  {
   "id": "\\rLillie: \\PN, this is my brother Gladion. He's not the most friendly.",
@@ -25,9 +25,9 @@
   "it": "\\rLylia: \\PN, lui è mio fratello Iridio. Non è il tipo più socievole."
  },
  {
-  "id": "\\rI love coming here.",
-  "en": "\\rI love coming here.",
-  "it": "\\rAdoro venire qui."
+  "id": "\\rTsareena",
+  "en": "\\rTsareena",
+  "it": "\\rTsareena"
  },
  {
   "id": "\\rMallow: My brother came to visit! I'm so excited! Help me burn off some energy.",
@@ -55,9 +55,9 @@
   "it": "\\rIbis: Torna presto. Ci saranno un sacco di piatti gustosi."
  },
  {
-  "id": "\\bI want to go out and play.",
-  "en": "\\bI want to go out and play.",
-  "it": "\\bVoglio uscire a giocare."
+  "id": "\\bMohn: It's good to be back. I've missed so much.",
+  "en": "\\bMohn: It's good to be back. I've missed so much.",
+  "it": "\\bMohn: È bello essere tornato. Mi sono perso così tanto."
  },
  {
   "id": "\\rLillie: Thanks for coming and checking on the egg. I know it will hatch soon.",
@@ -115,9 +115,14 @@
   "it": "\\rLylia: Forse il professore saprà cosa fare con Nebby."
  },
  {
-  "id": "\\bMohn: It's good to be back. I've missed so much.",
-  "en": "\\bMohn: It's good to be back. I've missed so much.",
-  "it": "\\bMohn: È bello essere tornato. Mi sono perso così tanto."
+  "id": "\\bI want to go out and play.",
+  "en": "\\bI want to go out and play.",
+  "it": "\\bVoglio uscire a giocare."
+ },
+ {
+  "id": "\\rI'm Lana's sister Harper.",
+  "en": "\\rI'm Lana's sister Harper.",
+  "it": "\\rSono Harper, la sorella di Suiren."
  },
  {
   "id": "\\bI'm Sophocles's dad. It's always nice to meet a fellow classmate of his.",
@@ -125,9 +130,9 @@
   "it": "\\bSono il papà di Chrys. È sempre bello conoscere un suo compagno di classe."
  },
  {
-  "id": "\\rI'm Lana's sister Harper.",
-  "en": "\\rI'm Lana's sister Harper.",
-  "it": "\\rSono Harper, la sorella di Suiren."
+  "id": "\\bWelcome to my restaurant. Feel free to try whatever you want.",
+  "en": "\\bWelcome to my restaurant. Feel free to try whatever you want.",
+  "it": "\\bBenvenuto nel mio ristorante. Assaggia pure tutto quello che vuoi."
  },
  {
   "id": "\\bGladion: \\PN, it's nice to see you. Remember our promise to battle each other next time we met? Let's begin.",
@@ -140,14 +145,9 @@
   "it": "\\bIridio: Sono felice che mio padre sia tornato. La nostra famiglia non è mai stata meglio."
  },
  {
-  "id": "\\bWelcome to my restaurant. Feel free to try whatever you want.",
-  "en": "\\bWelcome to my restaurant. Feel free to try whatever you want.",
-  "it": "\\bBenvenuto nel mio ristorante. Assaggia pure tutto quello che vuoi."
- },
- {
-  "id": "\\rSophocles has told us all about you.",
-  "en": "\\rSophocles has told us all about you.",
-  "it": "\\rChrys ci ha raccontato tutto di te."
+  "id": "This ball contain a Cosmog. Would you like to take it?",
+  "en": "This ball contain a Cosmog. Would you like to take it?",
+  "it": "Questa Ball contiene un Cosmog. Vuoi prenderlo?"
  },
  {
   "id": "\\rI'm Lana's sister Sarah.",
@@ -155,24 +155,9 @@
   "it": "\\rSono Sarah, la sorella di Suiren."
  },
  {
-  "id": "This ball contain a Cosmog. Would you like to take it?",
-  "en": "This ball contain a Cosmog. Would you like to take it?",
-  "it": "Questa Ball contiene un Cosmog. Vuoi prenderlo?"
- },
- {
-  "id": "\\rLillie: \\PN, good to see you. Mother, brother, and I are doing so well now.",
-  "en": "\\rLillie: \\PN, good to see you. Mother, brother, and I are doing so well now.",
-  "it": "\\rLylia: \\PN, che bello vederti. Io, la mamma e mio fratello stiamo benissimo ora."
- },
- {
-  "id": "\\rWould you like to battle? It's the last I can do since you came so far.",
-  "en": "\\rWould you like to battle? It's the last I can do since you came so far.",
-  "it": "\\rTi va di lottare? È il minimo che possa fare, visto che sei venuto fin qui."
- },
- {
-  "id": "\\rLillie: Come back soon.",
-  "en": "\\rLillie: Come back soon.",
-  "it": "\\rLylia: Torna presto."
+  "id": "\\rSophocles has told us all about you.",
+  "en": "\\rSophocles has told us all about you.",
+  "it": "\\rChrys ci ha raccontato tutto di te."
  },
  {
   "id": "\\bGladion: \\PN, is it? Lillie says you're strong. I could use a challenge. Take me on.",
@@ -190,9 +175,24 @@
   "it": "Rotom Dex: Lotta splendida, \\PN. Torniamo dal professore."
  },
  {
-  "id": "\\bI'd recommend the soup.",
-  "en": "\\bI'd recommend the soup.",
-  "it": "\\bVi consiglio la zuppa."
+  "id": "\\rLillie: \\PN, good to see you. Mother, brother, and I are doing so well now.",
+  "en": "\\rLillie: \\PN, good to see you. Mother, brother, and I are doing so well now.",
+  "it": "\\rLylia: \\PN, che bello vederti. Io, la mamma e mio fratello stiamo benissimo ora."
+ },
+ {
+  "id": "\\rWould you like to battle? It's the last I can do since you came so far.",
+  "en": "\\rWould you like to battle? It's the last I can do since you came so far.",
+  "it": "\\rTi va di lottare? È il minimo che possa fare, visto che sei venuto fin qui."
+ },
+ {
+  "id": "\\rLillie: Come back soon.",
+  "en": "\\rLillie: Come back soon.",
+  "it": "\\rLylia: Torna presto."
+ },
+ {
+  "id": "This ball contain a Magearna. Would you like to take it?",
+  "en": "This ball contain a Magearna. Would you like to take it?",
+  "it": "Questa Ball contiene un Magearna. Vuoi prenderlo?"
  },
  {
   "id": "\\bGood day. Welcome to Miss Lusamine's home.",
@@ -210,9 +210,9 @@
   "it": "Rotom Dex: Per oggi direi che basta. Torniamo a casa."
  },
  {
-  "id": "This ball contain a Magearna. Would you like to take it?",
-  "en": "This ball contain a Magearna. Would you like to take it?",
-  "it": "Questa Ball contiene un Magearna. Vuoi prenderlo?"
+  "id": "\\bI'd recommend the soup.",
+  "en": "\\bI'd recommend the soup.",
+  "it": "\\bVi consiglio la zuppa."
  },
  {
   "id": "\\bSophocles: There you are. I need someone to practice battling on and you seem like the best pick.",

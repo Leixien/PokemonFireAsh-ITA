@@ -8,5 +8,20 @@
   "id": "\\bCongratulations on winning your third match. \\nYour next battle will be on to the right.",
   "en": "\\bCongratulations on winning your third match. \\nYour next battle will be on to the right.",
   "it": "\\bCongratulazioni per aver vinto il terzo incontro. \\nLa tua prossima lotta si terrà sulla destra."
+ },
+ {
+  "id": "\\bHey \\PN! Want to see my new dance moves?",
+  "en": "\\bHey \\PN! Want to see my new dance moves?",
+  "it": "\\bEhi, \\PN! Vuoi vedere i miei nuovi passi di danza?"
+ },
+ {
+  "id": "\\bAww, that's a bummer. I couldn't match your pace at all!",
+  "en": "\\bAww, that's a bummer. I couldn't match your pace at all!",
+  "it": "\\bUffa, che peccato. Non sono riuscita a starti dietro per niente!"
+ },
+ {
+  "id": "\\bCouldn't keep up this time?",
+  "en": "\\bCouldn't keep up this time?",
+  "it": "\\bStavolta non sei riuscito a starmi dietro?"
  }
 ]

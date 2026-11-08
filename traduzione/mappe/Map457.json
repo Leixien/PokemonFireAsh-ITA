@@ -10,16 +10,6 @@
   "it": "\\bLassù è pericoloso. Io starei indietro."
  },
  {
-  "id": "\\bRaihan uses Dragon type Pokémon. They are weak aganst the Dragon, Ice, and Fairy types.",
-  "en": "\\bRaihan uses Dragon type Pokémon. They are weak aganst the Dragon, Ice, and Fairy types.",
-  "it": "\\bRaihan usa Pokémon di tipo Drago. Sono deboli contro i tipi Drago, Ghiaccio e Folletto."
- },
- {
-  "id": "\\bThey are strong against Dragon. They are resistant to Electric, Fire, Grass, and Water.",
-  "en": "\\bThey are strong against Dragon. They are resistant to Electric, Fire, Grass, and Water.",
-  "it": "\\bSono forti contro il tipo Drago e resistono ai tipi Elettro, Fuoco, Erba e Acqua."
- },
- {
   "id": "\\rLooking for a warmup?",
   "en": "\\rLooking for a warmup?",
   "it": "\\rCerchi un riscaldamento?"
@@ -28,6 +18,16 @@
   "id": "\\rDouble battles are a viable format.",
   "en": "\\rDouble battles are a viable format.",
   "it": "\\rLe lotte in doppio sono un formato valido."
+ },
+ {
+  "id": "\\bRaihan uses Dragon type Pokémon. They are weak against the Dragon, Ice, and Fairy types.",
+  "en": "\\bRaihan uses Dragon type Pokémon. They are weak against the Dragon, Ice, and Fairy types.",
+  "it": "\\bRaihan usa Pokémon di tipo Drago. Sono deboli contro i tipi Drago, Ghiaccio e Folletto."
+ },
+ {
+  "id": "\\bThey are strong against Dragon. They are resistant to Electric, Fire, Grass, and Water.",
+  "en": "\\bThey are strong against Dragon. They are resistant to Electric, Fire, Grass, and Water.",
+  "it": "\\bSono forti contro il tipo Drago e resistono ai tipi Elettro, Fuoco, Erba e Acqua."
  },
  {
   "id": "\\rPre-game time.",
@@ -71,8 +71,8 @@
  },
  {
   "id": "\\bI learned that the Darkest Day was actually a Pokémon. Eternatus! I've been taking Galar particles from it in order to secure the future. No one will suffer again.",
-  "en": "\\bI learned that the Darkest Day was actually a Pokémon.  Eternatus! I've been taking Galar particles from it in order to secure the future. No one will suffer again.",
-  "it": "\\bHo scoperto che il Giorno più Buio era in realtà un Pokémon.  Eternatus! Ho prelevato da lui le particelle Galar per assicurare il futuro. Nessuno soffrirà mai più."
+  "en": "\\bI learned that the Darkest Day was actually a Pokémon. Eternatus! I've been taking Galar particles from it in order to secure the future. No one will suffer again.",
+  "it": "\\bHo scoperto che il Giorno più Buio era in realtà un Pokémon. Eternatus! Ho prelevato da lui le particelle di Galar per garantire il futuro. Nessuno soffrirà mai più."
  },
  {
   "id": "\\bYou're a part of this plan, Leon. I need you to catch Eternatus and keep it controlled.",
