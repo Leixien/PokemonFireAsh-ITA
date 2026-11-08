@@ -18340,6 +18340,3086 @@
   "it": "\\se[PC access]Accesso alla Sfida effettuato."
  },
  {
+  "id": "You can't use items here!",
+  "en": "You can't use items here!",
+  "it": "Non puoi usare strumenti qui!"
+ },
+ {
+  "id": "Fighting",
+  "en": "Fighting",
+  "it": "Lotta"
+ },
+ {
+  "id": "Ground",
+  "en": "Ground",
+  "it": "Terra"
+ },
+ {
+  "id": "Ghost",
+  "en": "Ghost",
+  "it": "Spettro"
+ },
+ {
+  "id": "Dark",
+  "en": "Dark",
+  "it": "Buio"
+ },
+ {
+  "id": "Steel",
+  "en": "Steel",
+  "it": "Acciaio"
+ },
+ {
+  "id": "The Electric Terrain was extended!",
+  "en": "The Electric Terrain was extended!",
+  "it": "Il Campo Elettrico è stato prolungato!"
+ },
+ {
+  "id": "{1}'s Melemele Ocean Breeze boosts its allies!",
+  "en": "{1}'s Melemele Ocean Breeze boosts its allies!",
+  "it": "La Brezza di Mele Mele di {1} potenzia i suoi alleati!"
+ },
+ {
+  "id": "The Psychic Terrain was extended!",
+  "en": "The Psychic Terrain was extended!",
+  "it": "Il Campo Psichico è stato prolungato!"
+ },
+ {
+  "id": "{1}'s Akala Ocean Breeze boosts itself!",
+  "en": "{1}'s Akala Ocean Breeze boosts itself!",
+  "it": "La Brezza di Akala di {1} lo potenzia!"
+ },
+ {
+  "id": "{1}'s Akala Ocean Breeze boosts itself!!",
+  "en": "{1}'s Akala Ocean Breeze boosts itself!!",
+  "it": "La Brezza di Akala di {1} lo potenzia!!"
+ },
+ {
+  "id": "The Grassy Terrain was extended!",
+  "en": "The Grassy Terrain was extended!",
+  "it": "Il Campo Erboso è stato prolungato!"
+ },
+ {
+  "id": "{1}'s Ula'ula Ocean Breeze boosts its allies!",
+  "en": "{1}'s Ula'ula Ocean Breeze boosts its allies!",
+  "it": "La Brezza di Ula'ula di {1} potenzia i suoi alleati!"
+ },
+ {
+  "id": "The Fairy Zone was extended!",
+  "en": "The Fairy Zone was extended!",
+  "it": "La Zona Folletto è stata prolungata!"
+ },
+ {
+  "id": "{1}'s Poni Ocean Breeze boosts its allies!",
+  "en": "{1}'s Poni Ocean Breeze boosts its allies!",
+  "it": "La Brezza di Poni di {1} potenzia i suoi alleati!"
+ },
+ {
+  "id": "{1} restored a little HP using {2}'s {3}!",
+  "en": "{1} restored a little HP using {2}'s {3}!",
+  "it": "{1} ha recuperato un po' di PS grazie a {3} di {2}!"
+ },
+ {
+  "id": "{1}'s Venomous activated!",
+  "en": "{1}'s Venomous activated!",
+  "it": "Si è attivato Velenoso di {1}!"
+ },
+ {
+  "id": "{1} lost 1 HP!",
+  "en": "{1} lost 1 HP!",
+  "it": "{1} ha perso 1 PS!"
+ },
+ {
+  "id": "{1} is protected by a mysterious aura!",
+  "en": "{1} is protected by a mysterious aura!",
+  "it": "{1} è protetto da un'aura misteriosa!"
+ },
+ {
+  "id": "{1}'s crit rate won't go any higher!",
+  "en": "{1}'s crit rate won't go any higher!",
+  "it": "La probabilità di brutti colpi di {1} non può aumentare ancora!"
+ },
+ {
+  "id": "{1}'s crit rate maxed out!",
+  "en": "{1}'s crit rate maxed out!",
+  "it": "La probabilità di brutti colpi di {1} è al massimo!"
+ },
+ {
+  "id": "{1}'s crit rate increased!",
+  "en": "{1}'s crit rate increased!",
+  "it": "La probabilità di brutti colpi di {1} è aumentata!"
+ },
+ {
+  "id": "{1}'s crit rate sharply increased!",
+  "en": "{1}'s crit rate sharply increased!",
+  "it": "La probabilità di brutti colpi di {1} è aumentata molto!"
+ },
+ {
+  "id": "{1}'s next special attack will do a ton of damage!",
+  "en": "{1}'s next special attack will do a ton of damage!",
+  "it": "Il prossimo attacco speciale di {1} infliggerà danni enormi!"
+ },
+ {
+  "id": "{1}'s next special attack will do much more damage!",
+  "en": "{1}'s next special attack will do much more damage!",
+  "it": "Il prossimo attacco speciale di {1} infliggerà molti più danni!"
+ },
+ {
+  "id": "{1}'s next special attack will do more damage!",
+  "en": "{1}'s next special attack will do more damage!",
+  "it": "Il prossimo attacco speciale di {1} infliggerà più danni!"
+ },
+ {
+  "id": "{1}'s next physical attack will do a ton of damage!",
+  "en": "{1}'s next physical attack will do a ton of damage!",
+  "it": "Il prossimo attacco fisico di {1} infliggerà danni enormi!"
+ },
+ {
+  "id": "{1}'s next physical attack will do much more damage!",
+  "en": "{1}'s next physical attack will do much more damage!",
+  "it": "Il prossimo attacco fisico di {1} infliggerà molti più danni!"
+ },
+ {
+  "id": "{1}'s next physical attack will do more damage!",
+  "en": "{1}'s next physical attack will do more damage!",
+  "it": "Il prossimo attacco fisico di {1} infliggerà più danni!"
+ },
+ {
+  "id": "{1} refused to be KOed!",
+  "en": "{1} refused to be KOed!",
+  "it": "{1} si rifiuta di andare KO!"
+ },
+ {
+  "id": "{1} concentrated very intensely!",
+  "en": "{1} concentrated very intensely!",
+  "it": "{1} si è concentrato intensamente!"
+ },
+ {
+  "id": "#{user.name} protected itself!",
+  "en": "#{user.name} protected itself!",
+  "it": "#{user.name} si è protetto!"
+ },
+ {
+  "id": "{1} now knows {2}!",
+  "en": "{1} now knows {2}!",
+  "it": "Ora {1} conosce {2}!"
+ },
+ {
+  "id": "{1} became more aggresive!",
+  "en": "{1} became more aggresive!",
+  "it": "{1} è diventato più aggressivo!"
+ },
+ {
+  "id": "{1} became lighter!",
+  "en": "{1} became lighter!",
+  "it": "{1} è diventato più leggero!"
+ },
+ {
+  "id": "{1} became bulkier!",
+  "en": "{1} became bulkier!",
+  "it": "{1} è diventato più robusto!"
+ },
+ {
+  "id": "{1} gained a restorative aura!",
+  "en": "{1} gained a restorative aura!",
+  "it": "{1} è avvolto da un'aura rigenerante!"
+ },
+ {
+  "id": "Electric Terrain needs to be active for this move to be used.",
+  "en": "Electric Terrain needs to be active for this move to be used.",
+  "it": "Per usare questa mossa deve essere attivo il Campo Elettrico."
+ },
+ {
+  "id": "The user needs to be at full hp for this move to be used.",
+  "en": "The user needs to be at full hp for this move to be used.",
+  "it": "Per usare questa mossa chi la usa deve avere i PS al massimo."
+ },
+ {
+  "id": "{1} became weaker to fairy attacks!",
+  "en": "{1} became weaker to fairy attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Folletto!"
+ },
+ {
+  "id": "{1}'s Bad Break 9 activated!",
+  "en": "{1}'s Bad Break 9 activated!",
+  "it": "Si è attivato Bad Break 9 di {1}!"
+ },
+ {
+  "id": "This move requires the user to be hit twice for it to be used.",
+  "en": "This move requires the user to be hit twice for it to be used.",
+  "it": "Per usare questa mossa chi la usa deve essere stato colpito due volte."
+ },
+ {
+  "id": "{1} changes Drive to be stronger against {2}!",
+  "en": "{1} changes Drive to be stronger against {2}!",
+  "it": "{1} cambia Modulo per essere più forte contro {2}!"
+ },
+ {
+  "id": "{1} became weaker to {2} attacks!",
+  "en": "{1} became weaker to {2} attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo {2}!"
+ },
+ {
+  "id": "{1} became cloaked in a freezing light that reduces damage dealt to it!",
+  "en": "{1} became cloaked in a freezing light that reduces damage dealt to it!",
+  "it": "{1} è avvolto da una luce gelida che riduce i danni subiti!"
+ },
+ {
+  "id": "A Rock Zone needs to be active for this move to be used.",
+  "en": "A Rock Zone needs to be active for this move to be used.",
+  "it": "Per usare questa mossa deve essere attiva una Zona Roccia."
+ },
+ {
+  "id": "There needs to be at least 1 burned opposing Pokémon.",
+  "en": "There needs to be at least 1 burned opposing Pokémon.",
+  "it": "Deve esserci almeno 1 Pokémon avversario scottato."
+ },
+ {
+  "id": "A Weather, Terrain or Zone needs to be active for this move to be used.",
+  "en": "A Weather, Terrain or Zone needs to be active for this move to be used.",
+  "it": "Per usare questa mossa devono essere attivi un meteo, un campo o una zona."
+ },
+ {
+  "id": "#{b.name} protected itself!",
+  "en": "#{b.name} protected itself!",
+  "it": "#{b.name} si è protetto!"
+ },
+ {
+  "id": "{1} doesn't have enough energy to use its Sync Move!",
+  "en": "{1} doesn't have enough energy to use its Sync Move!",
+  "it": "{1} non ha abbastanza energia per usare la sua Mossa Sync!"
+ },
+ {
+  "id": "{1} became weaker to Fighting type attacks!",
+  "en": "{1} became weaker to Fighting type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Lotta!"
+ },
+ {
+  "id": "{1} became weaker to Flying type attacks!",
+  "en": "{1} became weaker to Flying type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Volante!"
+ },
+ {
+  "id": "{1} became weaker to Poison type attacks!",
+  "en": "{1} became weaker to Poison type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Veleno!"
+ },
+ {
+  "id": "{1} became weaker to Ground type attacks!",
+  "en": "{1} became weaker to Ground type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Terra!"
+ },
+ {
+  "id": "{1} became weaker to Rock type attacks!",
+  "en": "{1} became weaker to Rock type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Roccia!"
+ },
+ {
+  "id": "{1} became weaker to Bug type attacks!",
+  "en": "{1} became weaker to Bug type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Coleottero!"
+ },
+ {
+  "id": "{1} became weaker to Ghost type attacks!",
+  "en": "{1} became weaker to Ghost type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Spettro!"
+ },
+ {
+  "id": "{1} became weaker to Steel type attacks!",
+  "en": "{1} became weaker to Steel type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Acciaio!"
+ },
+ {
+  "id": "{1} became weaker to Fire type attacks!",
+  "en": "{1} became weaker to Fire type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Fuoco!"
+ },
+ {
+  "id": "{1} became weaker to Water type attacks!",
+  "en": "{1} became weaker to Water type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Acqua!"
+ },
+ {
+  "id": "{1} became weaker to Grass type attacks!",
+  "en": "{1} became weaker to Grass type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Erba!"
+ },
+ {
+  "id": "{1} became weaker to Electric type attacks!",
+  "en": "{1} became weaker to Electric type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Elettro!"
+ },
+ {
+  "id": "{1} became weaker to Psychic type attacks!",
+  "en": "{1} became weaker to Psychic type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Psico!"
+ },
+ {
+  "id": "{1} became weaker to Ice type attacks!",
+  "en": "{1} became weaker to Ice type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Ghiaccio!"
+ },
+ {
+  "id": "{1} became weaker to Dragon type attacks!",
+  "en": "{1} became weaker to Dragon type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Drago!"
+ },
+ {
+  "id": "{1} became weaker to Dark type attacks!",
+  "en": "{1} became weaker to Dark type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Buio!"
+ },
+ {
+  "id": "{1} became weaker to Fairy type attacks!",
+  "en": "{1} became weaker to Fairy type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Folletto!"
+ },
+ {
+  "id": "Toxic Spikes were scattered all around {1}'s feet!",
+  "en": "Toxic Spikes were scattered all around {1}'s feet!",
+  "it": "Delle Fielepunte sono state sparse tutt'intorno ai piedi di {1}!"
+ },
+ {
+  "id": "{1} halves the incoming damage!",
+  "en": "{1} halves the incoming damage!",
+  "it": "{1} dimezza i danni in arrivo!"
+ },
+ {
+  "id": "The damage is being halved because of {1}'s {2}!",
+  "en": "The damage is being halved because of {1}'s {2}!",
+  "it": "I danni vengono dimezzati grazie a {2} di {1}!"
+ },
+ {
+  "id": "A Normal Zone was invoked!",
+  "en": "A Normal Zone was invoked!",
+  "it": "È stata evocata una Zona Normale!"
+ },
+ {
+  "id": "Arctic energy freezes the battlefield!",
+  "en": "Arctic energy freezes the battlefield!",
+  "it": "Un'energia artica congela il campo di lotta!"
+ },
+ {
+  "id": "A Fighting Zone was invoked!",
+  "en": "A Fighting Zone was invoked!",
+  "it": "È stata evocata una Zona Lotta!"
+ },
+ {
+  "id": "The battlefield surged with poisonous energy!",
+  "en": "The battlefield surged with poisonous energy!",
+  "it": "Il campo di lotta è pervaso da un'energia velenosa!"
+ },
+ {
+  "id": "The battlefield became more earthen!",
+  "en": "The battlefield became more earthen!",
+  "it": "Il campo di lotta è diventato più terroso!"
+ },
+ {
+  "id": "A Flying Zone was invoked!",
+  "en": "A Flying Zone was invoked!",
+  "it": "È stata evocata una Zona Volante!"
+ },
+ {
+  "id": "Insects infest the battlefield!",
+  "en": "Insects infest the battlefield!",
+  "it": "Degli insetti infestano il campo di lotta!"
+ },
+ {
+  "id": "The battlefield became lithic!",
+  "en": "The battlefield became lithic!",
+  "it": "Il campo di lotta è diventato roccioso!"
+ },
+ {
+  "id": "The battlefield became haunted!",
+  "en": "The battlefield became haunted!",
+  "it": "Il campo di lotta è diventato infestato dagli spettri!"
+ },
+ {
+  "id": "The battlefield surged with draconic energy!",
+  "en": "The battlefield surged with draconic energy!",
+  "it": "Il campo di lotta è pervaso da un'energia draconica!"
+ },
+ {
+  "id": "Umbral energy surrounds the battlefield!",
+  "en": "Umbral energy surrounds the battlefield!",
+  "it": "Un'energia oscura avvolge il campo di lotta!"
+ },
+ {
+  "id": "The battlefield became more metallic!",
+  "en": "The battlefield became more metallic!",
+  "it": "Il campo di lotta è diventato più metallico!"
+ },
+ {
+  "id": "The battlefield surged with whimsical energy!",
+  "en": "The battlefield surged with whimsical energy!",
+  "it": "Il campo di lotta è pervaso da un'energia fiabesca!"
+ },
+ {
+  "id": "The Normal Zone disappeared from the battlefield!",
+  "en": "The Normal Zone disappeared from the battlefield!",
+  "it": "La Zona Normale è svanita dal campo di lotta!"
+ },
+ {
+  "id": "The arctic energy dissipated!",
+  "en": "The arctic energy dissipated!",
+  "it": "L'energia artica si è dissolta!"
+ },
+ {
+  "id": "The Fighting Zone disappeared from the battlefield!",
+  "en": "The Fighting Zone disappeared from the battlefield!",
+  "it": "La Zona Lotta è svanita dal campo di lotta!"
+ },
+ {
+  "id": "The poisonous energy dissipated!",
+  "en": "The poisonous energy dissipated!",
+  "it": "L'energia velenosa si è dissolta!"
+ },
+ {
+  "id": "The battlefield became less earthen!",
+  "en": "The battlefield became less earthen!",
+  "it": "Il campo di lotta è diventato meno terroso!"
+ },
+ {
+  "id": "The Flying Zone disappeared from the battlefield!",
+  "en": "The Flying Zone disappeared from the battlefield!",
+  "it": "La Zona Volante è svanita dal campo di lotta!"
+ },
+ {
+  "id": "The insects ran away from the battlefield!",
+  "en": "The insects ran away from the battlefield!",
+  "it": "Gli insetti sono fuggiti dal campo di lotta!"
+ },
+ {
+  "id": "The battlefield became less lithic!",
+  "en": "The battlefield became less lithic!",
+  "it": "Il campo di lotta è diventato meno roccioso!"
+ },
+ {
+  "id": "The battlefield is no longer haunted!",
+  "en": "The battlefield is no longer haunted!",
+  "it": "Il campo di lotta non è più infestato dagli spettri!"
+ },
+ {
+  "id": "The draconic energy disappeared from the battlefield!",
+  "en": "The draconic energy disappeared from the battlefield!",
+  "it": "L'energia draconica è svanita dal campo di lotta!"
+ },
+ {
+  "id": "The umbral energy disappeared from the battlefield!",
+  "en": "The umbral energy disappeared from the battlefield!",
+  "it": "L'energia oscura è svanita dal campo di lotta!"
+ },
+ {
+  "id": "The battlefield became less metallic!",
+  "en": "The battlefield became less metallic!",
+  "it": "Il campo di lotta è diventato meno metallico!"
+ },
+ {
+  "id": "The whimsical energy disappeared from the battlefield!",
+  "en": "The whimsical energy disappeared from the battlefield!",
+  "it": "L'energia fiabesca è svanita dal campo di lotta!"
+ },
+ {
+  "id": "A Normal Zone is active on the battlefield.",
+  "en": "A Normal Zone is active on the battlefield.",
+  "it": "Sul campo di lotta è attiva una Zona Normale."
+ },
+ {
+  "id": "The arctic energy remains on the battlefield.",
+  "en": "The arctic energy remains on the battlefield.",
+  "it": "L'energia artica persiste sul campo di lotta."
+ },
+ {
+  "id": "A Figthing Zone is active on the battlefield.",
+  "en": "A Figthing Zone is active on the battlefield.",
+  "it": "Sul campo di lotta è attiva una Zona Lotta."
+ },
+ {
+  "id": "The poisonous energy remains on the battlefield.",
+  "en": "The poisonous energy remains on the battlefield.",
+  "it": "L'energia velenosa persiste sul campo di lotta."
+ },
+ {
+  "id": "The battlefield is earthen.",
+  "en": "The battlefield is earthen.",
+  "it": "Il campo di lotta è terroso."
+ },
+ {
+  "id": "A Flying Zone is active on the battlefield.",
+  "en": "A Flying Zone is active on the battlefield.",
+  "it": "Sul campo di lotta è attiva una Zona Volante."
+ },
+ {
+  "id": "The insects remain on the battlefield.",
+  "en": "The insects remain on the battlefield.",
+  "it": "Gli insetti restano sul campo di lotta."
+ },
+ {
+  "id": "The battlefield is lithic.",
+  "en": "The battlefield is lithic.",
+  "it": "Il campo di lotta è roccioso."
+ },
+ {
+  "id": "The battlefield is haunted.",
+  "en": "The battlefield is haunted.",
+  "it": "Il campo di lotta è infestato dagli spettri."
+ },
+ {
+  "id": "The battlefield surges with draconic energy.",
+  "en": "The battlefield surges with draconic energy.",
+  "it": "Il campo di lotta è pervaso da un'energia draconica."
+ },
+ {
+  "id": "Umbral energy surrounds the battlefield.",
+  "en": "Umbral energy surrounds the battlefield.",
+  "it": "Un'energia oscura avvolge il campo di lotta."
+ },
+ {
+  "id": "The battlefield is metallic.",
+  "en": "The battlefield is metallic.",
+  "it": "Il campo di lotta è metallico."
+ },
+ {
+  "id": "The battlefield surges with whimsical energy.",
+  "en": "The battlefield surges with whimsical energy.",
+  "it": "Il campo di lotta è pervaso da un'energia fiabesca."
+ },
+ {
+  "id": "{1} healed some of its HP!",
+  "en": "{1} healed some of its HP!",
+  "it": "{1} ha recuperato parte dei suoi PS!"
+ },
+ {
+  "id": "{1} becomes {3} type to match {2}'s weakness!",
+  "en": "{1} becomes {3} type to match {2}'s weakness!",
+  "it": "{1} diventa di tipo {3} per sfruttare la debolezza di {2}!"
+ },
+ {
+  "id": "A Fighting Zone is active on the battlefield.",
+  "en": "A Fighting Zone is active on the battlefield.",
+  "it": "Sul campo di lotta è attiva una Zona Lotta."
+ },
+ {
+  "id": "Melemele Ocean Breeze",
+  "en": "Melemele Ocean Breeze",
+  "it": "Brezza di Mele Mele"
+ },
+ {
+  "id": "Akala Ocean Breeze",
+  "en": "Akala Ocean Breeze",
+  "it": "Brezza di Akala"
+ },
+ {
+  "id": "Ula'ula Ocean Breeze",
+  "en": "Ula'ula Ocean Breeze",
+  "it": "Brezza di Ula'ula"
+ },
+ {
+  "id": "Poni Ocean Breeze",
+  "en": "Poni Ocean Breeze",
+  "it": "Brezza di Poni"
+ },
+ {
+  "id": "Team Shout",
+  "en": "Team Shout",
+  "it": "Grido di Squadra"
+ },
+ {
+  "id": "Team Triage Tank",
+  "en": "Team Triage Tank",
+  "it": "Scudo Primacura"
+ },
+ {
+  "id": "Venomous",
+  "en": "Venomous",
+  "it": "Velenoso"
+ },
+ {
+  "id": "Look Alive",
+  "en": "Look Alive",
+  "it": "Occhi Aperti"
+ },
+ {
+  "id": "#{pbGet(80)}",
+  "en": "#{pbGet(80)}",
+  "it": "#{pbGet(80)}"
+ },
+ {
+  "id": "Duet",
+  "en": "Duet",
+  "it": "Duetto"
+ },
+ {
+  "id": "Kanto",
+  "en": "Kanto",
+  "it": "Kanto"
+ },
+ {
+  "id": "Johto",
+  "en": "Johto",
+  "it": "Johto"
+ },
+ {
+  "id": "Hoenn",
+  "en": "Hoenn",
+  "it": "Hoenn"
+ },
+ {
+  "id": "Sinnoh",
+  "en": "Sinnoh",
+  "it": "Sinnoh"
+ },
+ {
+  "id": "Unova",
+  "en": "Unova",
+  "it": "Unima"
+ },
+ {
+  "id": "Kalos",
+  "en": "Kalos",
+  "it": "Kalos"
+ },
+ {
+  "id": "Alola",
+  "en": "Alola",
+  "it": "Alola"
+ },
+ {
+  "id": "Frontier",
+  "en": "Frontier",
+  "it": "Parco Lotta"
+ },
+ {
+  "id": "#{self.name} - #{self.description}",
+  "en": "#{self.name} - #{self.description}",
+  "it": "#{self.name} - #{self.description}"
+ },
+ {
+  "id": "YOU HAVE \\v[80] CREDITS IN YOUR ACCOUNT. WHICH BUFF WOULD YOU LIKE TO BUY?\\ch[75,-1,#{choices[1...]}]",
+  "en": "YOU HAVE \\v[80] CREDITS IN YOUR ACCOUNT. WHICH BUFF WOULD YOU LIKE TO BUY?\\ch[75,-1,#{choices[1...]}]",
+  "it": "HAI \\v[80] CREDITI SUL TUO CONTO. QUALE POTENZIAMENTO VUOI ACQUISTARE?\\ch[75,-1,#{choices[1...]}]"
+ },
+ {
+  "id": "NOT ENOUGH CREDITS.",
+  "en": "NOT ENOUGH CREDITS.",
+  "it": "CREDITI INSUFFICIENTI."
+ },
+ {
+  "id": "BOUGHT #{buff.name}.",
+  "en": "BOUGHT #{buff.name}.",
+  "it": "HAI ACQUISTATO #{buff.name}."
+ },
+ {
+  "id": "SELECT A BUFF.\\ch[75,-1,#{buffs[1...]}]",
+  "en": "SELECT A BUFF.\\ch[75,-1,#{buffs[1...]}]",
+  "it": "SELEZIONA UN POTENZIAMENTO.\\ch[75,-1,#{buffs[1...]}]"
+ },
+ {
+  "id": "NOT ENOUGH ENERGY TO EQUIP.",
+  "en": "NOT ENOUGH ENERGY TO EQUIP.",
+  "it": "ENERGIA INSUFFICIENTE PER EQUIPAGGIARLO."
+ },
+ {
+  "id": "EQUIPPED #{buff.name}.",
+  "en": "EQUIPPED #{buff.name}.",
+  "it": "HAI EQUIPAGGIATO #{buff.name}."
+ },
+ {
+  "id": "UNEQUIPPED #{buff.name}.",
+  "en": "UNEQUIPPED #{buff.name}.",
+  "it": "HAI RIMOSSO #{buff.name}."
+ },
+ {
+  "id": "Can't save the game here!",
+  "en": "Can't save the game here!",
+  "it": "Non puoi salvare la partita qui!"
+ },
+ {
+  "id": "Bad NumPkmn: {1} (must be 0-6).\n{2}",
+  "en": "Bad NumPkmn: {1} (must be 0-6).\r\n{2}",
+  "it": "NumPkmn non valido: {1} (deve essere 0-6).\r\n{2}"
+ },
+ {
+  "id": "Sync",
+  "en": "Sync",
+  "it": "Sync"
+ },
+ {
+  "id": "Can't use Rotomi here.",
+  "en": "Can't use Rotomi here.",
+  "it": "Non puoi usare il Rotomi qui."
+ },
+ {
+  "id": "Mega Glove",
+  "en": "Mega Glove",
+  "it": "Megaguanto"
+ },
+ {
+  "id": "Mega Charm",
+  "en": "Mega Charm",
+  "it": "Megafascino"
+ },
+ {
+  "id": "Mega Stickpin",
+  "en": "Mega Stickpin",
+  "it": "Megaspilla"
+ },
+ {
+  "id": "Mega Pendant",
+  "en": "Mega Pendant",
+  "it": "Megapendente"
+ },
+ {
+  "id": "Mega Anchor",
+  "en": "Mega Anchor",
+  "it": "Megancora"
+ },
+ {
+  "id": "Mega Glasses",
+  "en": "Mega Glasses",
+  "it": "Megaocchiali"
+ },
+ {
+  "id": "Duet Completion No.",
+  "en": "Duet Completion No.",
+  "it": "Duetto completato n."
+ },
+ {
+  "id": "Congrats! Duet Records Logged!",
+  "en": "Congrats! Duet Records Logged!",
+  "it": "Congratulazioni! Record del Duetto registrati!"
+ },
+ {
+  "id": "\\se[PC access]Accessed the Duet.",
+  "en": "\\se[PC access]Accessed the Duet.",
+  "it": "\\se[PC access]Accesso al Duetto effettuato."
+ },
+ {
+  "id": "Mayhem Completion No.",
+  "en": "Mayhem Completion No.",
+  "it": "Caos completato n."
+ },
+ {
+  "id": "Congrats! Mayhem Records Logged!",
+  "en": "Congrats! Mayhem Records Logged!",
+  "it": "Congratulazioni! Record del Caos registrati!"
+ },
+ {
+  "id": "\\se[PC access]Accessed the Mayhem.",
+  "en": "\\se[PC access]Accessed the Mayhem.",
+  "it": "\\se[PC access]Accesso al Caos effettuato."
+ },
+ {
+  "id": "{1}'s {2} reset.",
+  "en": "{1}'s {2} reset.",
+  "it": "{2} di {1} è stato azzerato."
+ },
+ {
+  "id": "{1},{2}",
+  "en": "{1},{2}",
+  "it": "{1},{2}"
+ },
+ {
+  "id": "Practice Completion No.#{hallNumber}#{diff}",
+  "en": "Practice Completion No.#{hallNumber}#{diff}",
+  "it": "Allenamento completato n.#{hallNumber}#{diff}"
+ },
+ {
+  "id": "Club Completion No.#{hallNumber}#{diff}",
+  "en": "Club Completion No.#{hallNumber}#{diff}",
+  "it": "Club completato n.#{hallNumber}#{diff}"
+ },
+ {
+  "id": "Duet Completion No.#{hallNumber}#{diff}",
+  "en": "Duet Completion No.#{hallNumber}#{diff}",
+  "it": "Duetto completato n.#{hallNumber}#{diff}"
+ },
+ {
+  "id": "Mayhem Completion No.#{hallNumber}#{diff}",
+  "en": "Mayhem Completion No.#{hallNumber}#{diff}",
+  "it": "Caos completato n.#{hallNumber}#{diff}"
+ },
+ {
+  "id": "Thunderstorm",
+  "en": "Thunderstorm",
+  "it": "Temporale"
+ },
+ {
+  "id": "Raging Tides",
+  "en": "Raging Tides",
+  "it": "Maree Furiose"
+ },
+ {
+  "id": "Earthquakes",
+  "en": "Earthquakes",
+  "it": "Terremoti"
+ },
+ {
+  "id": "Heatwave",
+  "en": "Heatwave",
+  "it": "Ondata di Calore"
+ },
+ {
+  "id": "{1} turns remain before a soul is reaped...",
+  "en": "{1} turns remain before a soul is reaped...",
+  "it": "Mancano {1} turni prima che un'anima venga mietuta..."
+ },
+ {
+  "id": "{1} reaped {2}'s soul!",
+  "en": "{1} reaped {2}'s soul!",
+  "it": "{1} ha mietuto l'anima di {2}!"
+ },
+ {
+  "id": "{1} was trapped by {2} in a Cryo Cage!",
+  "en": "{1} was trapped by {2} in a Cryo Cage!",
+  "it": "{1} è stato intrappolato da {2} in una Criogabbia!"
+ },
+ {
+  "id": "{1}'s will land a critical hit next turn!",
+  "en": "{1}'s will land a critical hit next turn!",
+  "it": "{1} infliggerà un brutto colpo nel prossimo turno!"
+ },
+ {
+  "id": "{1} negates all physical attacks against itself!",
+  "en": "{1} negates all physical attacks against itself!",
+  "it": "{1} annulla tutti gli attacchi fisici contro di sé!"
+ },
+ {
+  "id": "{1} negates all special attacks against itself!",
+  "en": "{1} negates all special attacks against itself!",
+  "it": "{1} annulla tutti gli attacchi speciali contro di sé!"
+ },
+ {
+  "id": "{1} negates all status attacks against itself!",
+  "en": "{1} negates all status attacks against itself!",
+  "it": "{1} annulla tutte le mosse di stato contro di sé!"
+ },
+ {
+  "id": "{1} reduced its kill countdown!",
+  "en": "{1} reduced its kill countdown!",
+  "it": "{1} ha ridotto il suo conto alla rovescia mortale!"
+ },
+ {
+  "id": "{1} began charging up electricity!",
+  "en": "{1} began charging up electricity!",
+  "it": "{1} ha iniziato a caricarsi di elettricità!"
+ },
+ {
+  "id": "{1} was trapped in the Devil's Room!",
+  "en": "{1} was trapped in the Devil's Room!",
+  "it": "{1} è stato intrappolato nella Stanza del Diavolo!"
+ },
+ {
+  "id": "{1} had its Attack and Special Attack stats switched!",
+  "en": "{1} had its Attack and Special Attack stats switched!",
+  "it": "{1} ha scambiato le sue statistiche di Attacco e Attacco Speciale!"
+ },
+ {
+  "id": "{1} will take massive damage after 3 turns!",
+  "en": "{1} will take massive damage after 3 turns!",
+  "it": "{1} subirà danni ingenti tra 3 turni!"
+ },
+ {
+  "id": "{1}'s primary type changed to {2}!",
+  "en": "{1}'s primary type changed to {2}!",
+  "it": "Il tipo primario di {1} è diventato {2}!"
+ },
+ {
+  "id": "A thunderstorm formed above the battlefield!",
+  "en": "A thunderstorm formed above the battlefield!",
+  "it": "Un temporale si è formato sopra il campo di lotta!"
+ },
+ {
+  "id": "Tides rose onto the battlefield!",
+  "en": "Tides rose onto the battlefield!",
+  "it": "Le maree hanno invaso il campo di lotta!"
+ },
+ {
+  "id": "Earthquakes starting happening on the battlefield!",
+  "en": "Earthquakes starting happening on the battlefield!",
+  "it": "Il campo di lotta ha cominciato a essere scosso dai terremoti!"
+ },
+ {
+  "id": "A heat wave started!",
+  "en": "A heat wave started!",
+  "it": "È iniziata un'ondata di calore!"
+ },
+ {
+  "id": "{1} turns remain before the Devil's Room takes effect...",
+  "en": "{1} turns remain before the Devil's Room takes effect...",
+  "it": "Mancano {1} turni prima che la Stanza del Diavolo faccia effetto..."
+ },
+ {
+  "id": "{1} was freed from the Devil's Room!",
+  "en": "{1} was freed from the Devil's Room!",
+  "it": "{1} è stato liberato dalla Stanza del Diavolo!"
+ },
+ {
+  "id": "{1} had its Attack and Special Attack stats reverted!",
+  "en": "{1} had its Attack and Special Attack stats reverted!",
+  "it": "Le statistiche di Attacco e Attacco Speciale di {1} sono tornate come prima!"
+ },
+ {
+  "id": "How many credits would you like to exchange?",
+  "en": "How many credits would you like to exchange?",
+  "it": "Quanti crediti vuoi scambiare?"
+ },
+ {
+  "id": "Obtained {1} money!",
+  "en": "Obtained {1} money!",
+  "it": "Hai ottenuto {1} in denaro!"
+ },
+ {
+  "id": "{1}'s reviving power spread out!",
+  "en": "{1}'s reviving power spread out!",
+  "it": "Il potere rianimante di {1} si è diffuso!"
+ },
+ {
+  "id": "{1} was revived and had its HP fully restored!",
+  "en": "{1} was revived and had its HP fully restored!",
+  "it": "{1} è stato rianimato e ha recuperato tutti i PS!"
+ },
+ {
+  "id": "{1} opened its domain, Malevolent Shrine!",
+  "en": "{1} opened its domain, Malevolent Shrine!",
+  "it": "{1} ha espanso il suo dominio: Santuario Malevolo!"
+ },
+ {
+  "id": "{1} adapted and became immune to {2} type attacks!",
+  "en": "{1} adapted and became immune to {2} type attacks!",
+  "it": "{1} si è adattato ed è diventato immune alle mosse di tipo {2}!"
+ },
+ {
+  "id": "{1} adapted and became more resistant to {2} type attacks!",
+  "en": "{1} adapted and became more resistant to {2} type attacks!",
+  "it": "{1} si è adattato ed è diventato più resistente alle mosse di tipo {2}!"
+ },
+ {
+  "id": "{1} is immune to the attack!",
+  "en": "{1} is immune to the attack!",
+  "it": "{1} è immune all'attacco!"
+ },
+ {
+  "id": "{1} awoke from its slumber!",
+  "en": "{1} awoke from its slumber!",
+  "it": "{1} si è risvegliato dal suo sonno!"
+ },
+ {
+  "id": "{1} changed its moves!",
+  "en": "{1} changed its moves!",
+  "it": "{1} ha cambiato le sue mosse!"
+ },
+ {
+  "id": "{1} decided to go all in!",
+  "en": "{1} decided to go all in!",
+  "it": "{1} ha deciso di giocarsi il tutto per tutto!"
+ },
+ {
+  "id": "{1} changed its moves again!",
+  "en": "{1} changed its moves again!",
+  "it": "{1} ha cambiato di nuovo le sue mosse!"
+ },
+ {
+  "id": "{1}: Stand proud {2}. You're strong.",
+  "en": "{1}: Stand proud {2}. You're strong.",
+  "it": "{1}: Sii fiero, {2}. Sei forte."
+ },
+ {
+  "id": "{1}: What... is this?",
+  "en": "{1}: What... is this?",
+  "it": "{1}: Cosa... cos'è questo?"
+ },
+ {
+  "id": "{1}: As a reward, I will unleash my full power.",
+  "en": "{1}: As a reward, I will unleash my full power.",
+  "it": "{1}: Come ricompensa, scatenerò tutto il mio potere."
+ },
+ {
+  "id": "{1} formed a barrier around itself which can be broken by landing 3 crits!",
+  "en": "{1} formed a barrier around itself which can be broken by landing 3 crits!",
+  "it": "{1} ha creato una barriera attorno a sé che si spezza solo con 3 brutti colpi!"
+ },
+ {
+  "id": "{1} opened its domain, Infinite Void!",
+  "en": "{1} opened its domain, Infinite Void!",
+  "it": "{1} ha espanso il suo dominio: Vuoto Infinito!"
+ },
+ {
+  "id": "This move requires the user to be hit 4 times for it to be used.",
+  "en": "This move requires the user to be hit 4 times for it to be used.",
+  "it": "Per usare questa mossa chi la usa deve essere stato colpito 4 volte."
+ },
+ {
+  "id": "{1}'s crit rate won't go any lower!",
+  "en": "{1}'s crit rate won't go any lower!",
+  "it": "La probabilità di brutti colpi di {1} non può diminuire ancora!"
+ },
+ {
+  "id": "{1}'s crit rate was lowered!",
+  "en": "{1}'s crit rate was lowered!",
+  "it": "La probabilità di brutti colpi di {1} è diminuita!"
+ },
+ {
+  "id": "{1}'s crit rate was reset!",
+  "en": "{1}'s crit rate was reset!",
+  "it": "La probabilità di brutti colpi di {1} è stata azzerata!"
+ },
+ {
+  "id": "#{region}Practice Completion No.#{hallNumber}#{diff}",
+  "en": "#{region}Practice Completion No.#{hallNumber}#{diff}",
+  "it": "#{region}Allenamento completato n.#{hallNumber}#{diff}"
+ },
+ {
+  "id": "#{region}Club Completion No.#{hallNumber}#{diff}",
+  "en": "#{region}Club Completion No.#{hallNumber}#{diff}",
+  "it": "#{region}Club completato n.#{hallNumber}#{diff}"
+ },
+ {
+  "id": "\\b{1} GC Credits have been awarded to you.",
+  "en": "\\b{1} GC Credits have been awarded to you.",
+  "it": "\\bTi sono stati assegnati {1} Crediti GC."
+ },
+ {
+  "id": "{1} formed a space around itself, nullifying all non-critical damage!",
+  "en": "{1} formed a space around itself, nullifying all non-critical damage!",
+  "it": "{1} ha creato uno spazio attorno a sé che annulla tutti i danni che non siano brutti colpi!"
+ },
+ {
+  "id": "{1} will take massive damage after 2 turns!",
+  "en": "{1} will take massive damage after 2 turns!",
+  "it": "{1} subirà danni ingenti tra 2 turni!"
+ },
+ {
+  "id": "{1} has greater accuracy for its attack next turn!",
+  "en": "{1} has greater accuracy for its attack next turn!",
+  "it": "{1} avrà maggiore precisione nel prossimo turno!"
+ },
+ {
+  "id": "Low-Key Melancholy",
+  "en": "Low-Key Melancholy",
+  "it": "Malinconia Sommessa"
+ },
+ {
+  "id": "Amped and Vibed",
+  "en": "Amped and Vibed",
+  "it": "Carica e Ritmo"
+ },
+ {
+  "id": "The Poison Zone was extended!",
+  "en": "The Poison Zone was extended!",
+  "it": "La Zona Veleno è stata prolungata!"
+ },
+ {
+  "id": "Sinister Aura",
+  "en": "Sinister Aura",
+  "it": "Aura Sinistra"
+ },
+ {
+  "id": "Spikemuth Grit",
+  "en": "Spikemuth Grit",
+  "it": "Grinta di Spikemuth"
+ },
+ {
+  "id": "Shimmering White Snow",
+  "en": "Shimmering White Snow",
+  "it": "Neve Bianca Splendente"
+ },
+ {
+  "id": "Roaring White Lightning",
+  "en": "Roaring White Lightning",
+  "it": "Fulmine Bianco Ruggente"
+ },
+ {
+  "id": "Attack Booster MAX",
+  "en": "Attack Booster MAX",
+  "it": "Potenziatore Attacco MAX"
+ },
+ {
+  "id": "{1} Performance",
+  "en": "{1} Performance",
+  "it": "Esibizione {1}"
+ },
+ {
+  "id": "{1}'s lowered stats returned to normal!",
+  "en": "{1}'s lowered stats returned to normal!",
+  "it": "Le statistiche ridotte di {1} sono tornate normali!"
+ },
+ {
+  "id": "There needs to be at least 1 opposing Pokémon with a status condition.",
+  "en": "There needs to be at least 1 opposing Pokémon with a status condition.",
+  "it": "Deve esserci almeno 1 Pokémon avversario con un problema di stato."
+ },
+ {
+  "id": "One other move needs to be used first before this move can be used.",
+  "en": "One other move needs to be used first before this move can be used.",
+  "it": "Prima di poter usare questa mossa bisogna usarne un'altra."
+ },
+ {
+  "id": "Half of the other moves need to be used first before this move can be used.",
+  "en": "Half of the other moves need to be used first before this move can be used.",
+  "it": "Prima di poter usare questa mossa bisogna usare metà delle altre mosse."
+ },
+ {
+  "id": "At least 1 opposing Pokémon needs to have a type debuff applied on it first.",
+  "en": "At least 1 opposing Pokémon needs to have a type debuff applied on it first.",
+  "it": "Prima bisogna applicare un indebolimento di tipo ad almeno 1 Pokémon avversario."
+ },
+ {
+  "id": "{1} must have its attack raised to use this attack!",
+  "en": "{1} must have its attack raised to use this attack!",
+  "it": "Per usare questo attacco {1} deve avere l'Attacco aumentato!"
+ },
+ {
+  "id": "{1}'s HP is too low to use this attack!",
+  "en": "{1}'s HP is too low to use this attack!",
+  "it": "{1} ha troppo pochi PS per usare questo attacco!"
+ },
+ {
+  "id": "{1} became weaker to Psychic attacks!",
+  "en": "{1} became weaker to Psychic attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Psico!"
+ },
+ {
+  "id": "{1} became weaker to Fighting attacks!",
+  "en": "{1} became weaker to Fighting attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Lotta!"
+ },
+ {
+  "id": "\\CN\\bHow many {1} would you like?",
+  "en": "\\CN\\bHow many {1} would you like?",
+  "it": "\\CN\\bQuanti {1} vuoi?"
+ },
+ {
+  "id": "\\CN\\bYou have no room in your Bag.",
+  "en": "\\CN\\bYou have no room in your Bag.",
+  "it": "\\CN\\bNon hai spazio nella Borsa."
+ },
+ {
+  "id": "\\\rI'm sorry, but you need at least 5000 Poké Dollars to initiate a wonder trade.",
+  "en": "\\\rI'm sorry, but you need at least 5000 Poké Dollars to initiate a wonder trade.",
+  "it": "\\\rMi dispiace, ma servono almeno 5000 Pokédollari per avviare uno Scambio Prodigioso."
+ },
+ {
+  "id": "\\CN\\bHow many {1} would you like? (max. {2})",
+  "en": "\\CN\\bHow many {1} would you like? (max. {2})",
+  "it": "\\CN\\bQuanti {1} vuoi? (max. {2})"
+ },
+ {
+  "id": "\\CN\\bHow many {1} would you like? (max.{2})",
+  "en": "\\CN\\bHow many {1} would you like? (max.{2})",
+  "it": "\\CN\\bQuanti {1} vuoi? (max.{2})"
+ },
+ {
+  "id": "REDEEM SUCCESSFUL! THANK YOU!",
+  "en": "REDEEM SUCCESSFUL! THANK YOU!",
+  "it": "RISCATTO COMPLETATO! GRAZIE!"
+ },
+ {
+  "id": "{1}'s {2} decreased.",
+  "en": "{1}'s {2} decreased.",
+  "it": "{2} di {1} è diminuito."
+ },
+ {
+  "id": "Head to Cerise's Lab.",
+  "en": "Head to Cerise's Lab.",
+  "it": "Vai al Laboratorio di Cerise."
+ },
+ {
+  "id": "Head to Vermillion City.",
+  "en": "Head to Vermillion City.",
+  "it": "Vai ad Aranciopoli."
+ },
+ {
+  "id": "No hints available at the moment.",
+  "en": "No hints available at the moment.",
+  "it": "Nessun suggerimento disponibile al momento."
+ },
+ {
+  "id": "\\\rSorry, those fossils are outside of my expertise.",
+  "en": "\\\rSorry, those fossils are outside of my expertise.",
+  "it": "\\\rMi dispiace, questi fossili non rientrano nelle mie competenze."
+ },
+ {
+  "id": "\\\rI can't revive a Pokémon using duplicate fossils.",
+  "en": "\\\rI can't revive a Pokémon using duplicate fossils.",
+  "it": "\\\rNon posso rianimare un Pokémon usando due fossili uguali."
+ },
+ {
+  "id": "\\\rI can't revive a Pokémon using two head fossils.",
+  "en": "\\\rI can't revive a Pokémon using two head fossils.",
+  "it": "\\\rNon posso rianimare un Pokémon usando due fossili della testa."
+ },
+ {
+  "id": "\\\rI can't revive a Pokémon using two body fossils.",
+  "en": "\\\rI can't revive a Pokémon using two body fossils.",
+  "it": "\\\rNon posso rianimare un Pokémon usando due fossili del corpo."
+ },
+ {
+  "id": "Battle the Lugia in Vermillion City.",
+  "en": "Battle the Lugia in Vermillion City.",
+  "it": "Affronta Lugia ad Aranciopoli."
+ },
+ {
+  "id": "Goh is near the pier in Vermillion City.",
+  "en": "Goh is near the pier in Vermillion City.",
+  "it": "Goh è vicino al molo di Aranciopoli."
+ },
+ {
+  "id": "Leon is at Wyndon Stadium. You've got this!",
+  "en": "Leon is at Wyndon Stadium. You've got this!",
+  "it": "Dandel è allo Stadio di Wyndon. Ce la puoi fare!"
+ },
+ {
+  "id": "There are some people up to no good in Wyndon.",
+  "en": "There are some people up to no good in Wyndon.",
+  "it": "A Wyndon c'è gente che trama qualcosa di losco."
+ },
+ {
+  "id": "Cynthia is at Wyndon Stadium.",
+  "en": "Cynthia is at Wyndon Stadium.",
+  "it": "Camilla è allo Stadio di Wyndon."
+ },
+ {
+  "id": "Steven is at Wyndon Stadium.",
+  "en": "Steven is at Wyndon Stadium.",
+  "it": "Rocco è allo Stadio di Wyndon."
+ },
+ {
+  "id": "Head to Wyndon Stadium for the WCS opening ceremony.",
+  "en": "Head to Wyndon Stadium for the WCS opening ceremony.",
+  "it": "Vai allo Stadio di Wyndon per la cerimonia di apertura dei WCS."
+ },
+ {
+  "id": "Head to the park behind Cerise's Lab.",
+  "en": "Head to the park behind Cerise's Lab.",
+  "it": "Vai al parco dietro il Laboratorio di Cerise."
+ },
+ {
+  "id": "Head to Oak's Corral.",
+  "en": "Head to Oak's Corral.",
+  "it": "Vai al Recinto di Oak."
+ },
+ {
+  "id": "Head to the Battle Royal Dome on Royal Avenue.",
+  "en": "Head to the Battle Royal Dome on Royal Avenue.",
+  "it": "Vai allo Stadio Royale sul Viale Royale."
+ },
+ {
+  "id": "Head to the Pokémon School on Alola Route 1.",
+  "en": "Head to the Pokémon School on Alola Route 1.",
+  "it": "Vai alla Scuola Pokémon sul Percorso 1 di Alola."
+ },
+ {
+  "id": "Head to the Crown Tundra by getting the train from Wyndon's train station to Freezington then going east.",
+  "en": "Head to the Crown Tundra by getting the train from Wyndon's train station to Freezington then going east.",
+  "it": "Vai alla Landa Corona prendendo il treno dalla stazione di Wyndon fino a Freezington, poi prosegui verso est."
+ },
+ {
+  "id": "Raihan is at Hammerlocke's Gym.",
+  "en": "Raihan is at Hammerlocke's Gym.",
+  "it": "Raihan è alla Palestra di Hammerlocke."
+ },
+ {
+  "id": "Enter the Contest Hall then leave.",
+  "en": "Enter the Contest Hall then leave.",
+  "it": "Entra nel Sala Gare e poi esci."
+ },
+ {
+  "id": "Head to Lilycove City's Contest Hall.",
+  "en": "Head to Lilycove City's Contest Hall.",
+  "it": "Vai al Sala Gare di Porto Alghepoli."
+ },
+ {
+  "id": "Head to the Kalos Pokémon League in Lumiose City.",
+  "en": "Head to the Kalos Pokémon League in Lumiose City.",
+  "it": "Vai alla Lega Pokémon di Kalos a Luminopoli."
+ },
+ {
+  "id": "Head to Lumiose City's Gym.",
+  "en": "Head to Lumiose City's Gym.",
+  "it": "Vai alla Palestra di Luminopoli."
+ },
+ {
+  "id": "Head to the Seafoam Islands by getting the boat from Cinnabar Island.",
+  "en": "Head to the Seafoam Islands by getting the boat from Cinnabar Island.",
+  "it": "Vai alle Isole Spumarine prendendo la barca da Isola Cannella."
+ },
+ {
+  "id": "Marnie is at Wyndon Stadium.",
+  "en": "Marnie is at Wyndon Stadium.",
+  "it": "Mary è allo Stadio di Wyndon."
+ },
+ {
+  "id": "Marnie is at Spikemuth.",
+  "en": "Marnie is at Spikemuth.",
+  "it": "Mary è a Spikemuth."
+ },
+ {
+  "id": "Sophocles is at Mossdeep City's Space Center.",
+  "en": "Sophocles is at Mossdeep City's Space Center.",
+  "it": "Chrys è al Centro Spaziale di Verdeazzupoli."
+ },
+ {
+  "id": "Talk to Cynthia in Oreburgh City.",
+  "en": "Talk to Cynthia in Oreburgh City.",
+  "it": "Parla con Camilla a Mineropoli."
+ },
+ {
+  "id": "Head to Oreburgh City's Pokémon Center.",
+  "en": "Head to Oreburgh City's Pokémon Center.",
+  "it": "Vai al Centro Pokémon di Mineropoli."
+ },
+ {
+  "id": "Head to Canalave City's library.",
+  "en": "Head to Canalave City's library.",
+  "it": "Vai alla biblioteca di Canalipoli."
+ },
+ {
+  "id": "Allister at Stow-on-Side's West Gym.",
+  "en": "Allister at Stow-on-Side's West Gym.",
+  "it": "Onion è alla Palestra Ovest di Stow-on-Side."
+ },
+ {
+  "id": "Head to Sandgem Town.",
+  "en": "Head to Sandgem Town.",
+  "it": "Vai a Sabbiafine."
+ },
+ {
+  "id": "Bea is at Stow-on-Side's East Gym.",
+  "en": "Bea is at Stow-on-Side's East Gym.",
+  "it": "Fabia è alla Palestra Est di Stow-on-Side."
+ },
+ {
+  "id": "Head to Ballonlea's Gym.",
+  "en": "Head to Ballonlea's Gym.",
+  "it": "Vai alla Palestra di Ballonlea."
+ },
+ {
+  "id": "Head to the Colossus Ruins in the Desert Resort on Unova Route 4.",
+  "en": "Head to the Colossus Ruins in the Desert Resort on Unova Route 4.",
+  "it": "Vai alle Rovine del Colosso nel Deserto della Quiete, sul Percorso 4 di Unima."
+ },
+ {
+  "id": "Volkner is at Sunnyshore City's Gym.",
+  "en": "Volkner is at Sunnyshore City's Gym.",
+  "it": "Corrado è alla Palestra di Arenipoli."
+ },
+ {
+  "id": "Head to Floaroma Meadow.",
+  "en": "Head to Floaroma Meadow.",
+  "it": "Vai al Prato Floraria."
+ },
+ {
+  "id": "Head to Mount Coronet.",
+  "en": "Head to Mount Coronet.",
+  "it": "Vai al Monte Corona."
+ },
+ {
+  "id": "Iris is at Opelucid City's Gym.",
+  "en": "Iris is at Opelucid City's Gym.",
+  "it": "Iris è alla Palestra di Boreduopoli."
+ },
+ {
+  "id": "Rino is outside Vermillion City's Pokémon Center.",
+  "en": "Rino is outside Vermillion City's Pokémon Center.",
+  "it": "Rino è fuori dal Centro Pokémon di Aranciopoli."
+ },
+ {
+  "id": "Head to the Castle of Chivalry by getting the blimp from Lumiose City.",
+  "en": "Head to the Castle of Chivalry by getting the blimp from Lumiose City.",
+  "it": "Vai al Castello della Cavalleria prendendo il dirigibile da Luminopoli."
+ },
+ {
+  "id": "Harry is outside Stow-on-Side's Pokémon Center.",
+  "en": "Harry is outside Stow-on-Side's Pokémon Center.",
+  "it": "Harry è fuori dal Centro Pokémon di Stow-on-Side."
+ },
+ {
+  "id": "Head to Ballonlea through Glimwood Tangle, which is east of Stow-on-Side.",
+  "en": "Head to Ballonlea through Glimwood Tangle, which is east of Stow-on-Side.",
+  "it": "Vai a Ballonlea attraverso il Bosco Lucente, a est di Stow-on-Side."
+ },
+ {
+  "id": "Dozer is on Route 10, north of Lavender Town.",
+  "en": "Dozer is on Route 10, north of Lavender Town.",
+  "it": "Dozer è sul Percorso 10, a nord di Lavandonia."
+ },
+ {
+  "id": "Muse is outside Dendemille Town's Pokémon Center.",
+  "en": "Muse is outside Dendemille Town's Pokémon Center.",
+  "it": "Muse è fuori dal Centro Pokémon di Frescovilla."
+ },
+ {
+  "id": "Kate is outside Sootopolis City's Pokémon Center.",
+  "en": "Kate is outside Sootopolis City's Pokémon Center.",
+  "it": "Kate è fuori dal Centro Pokémon di Ceneride."
+ },
+ {
+  "id": "Ariel is outside Floaroma Town's Pokémon Center.",
+  "en": "Ariel is outside Floaroma Town's Pokémon Center.",
+  "it": "Ariel è fuori dal Centro Pokémon di Floraria."
+ },
+ {
+  "id": "Johan is outside Iki Town's Pokémon Center.",
+  "en": "Johan is outside Iki Town's Pokémon Center.",
+  "it": "Johan è fuori dal Centro Pokémon di Lili."
+ },
+ {
+  "id": "Head to Galar's Wild Area.",
+  "en": "Head to Galar's Wild Area.",
+  "it": "Vai alle Terre Selvagge di Galar."
+ },
+ {
+  "id": "Head to Cero Island using the westmost boat in Vermillion City's pier.",
+  "en": "Head to Cero Island using the westmost boat in Vermillion City's pier.",
+  "it": "Vai all'Isola Cero con la barca più a ovest del molo di Aranciopoli."
+ },
+ {
+  "id": "Patrick is outside Mistrialton City's Pokémon Center.",
+  "en": "Patrick is outside Mistrialton City's Pokémon Center.",
+  "it": "Patrick è fuori dal Centro Pokémon di Ponentopoli."
+ },
+ {
+  "id": "Riven is outside Goldenrod City's Magnet Train station.",
+  "en": "Riven is outside Goldenrod City's Magnet Train station.",
+  "it": "Riven è fuori dalla stazione del Treno Magnetico di Fiordoropoli."
+ },
+ {
+  "id": "Maike is near Saffron City's south gatehouse leading to Route 24.",
+  "en": "Maike is near Saffron City's south gatehouse leading to Route 24.",
+  "it": "Maike è vicino alla stazione di guardia sud di Zafferanopoli che porta al Percorso 24."
+ },
+ {
+  "id": "Head to the summit of Hammerlocke Tower to stop Eternatus.",
+  "en": "Head to the summit of Hammerlocke Tower to stop Eternatus.",
+  "it": "Raggiungi la cima della Torre di Hammerlocke per fermare Eternatus."
+ },
+ {
+  "id": "Defeat Rose.",
+  "en": "Defeat Rose.",
+  "it": "Sconfiggi Rose."
+ },
+ {
+  "id": "Head to Hammerlocke's Gym.",
+  "en": "Head to Hammerlocke's Gym.",
+  "it": "Vai alla Palestra di Hammerlocke."
+ },
+ {
+  "id": "Head inside Rose Tower.",
+  "en": "Head inside Rose Tower.",
+  "it": "Entra nella Torre Rose."
+ },
+ {
+  "id": "Defeat the Dynamaxed Coalossal outside Wyndon's Rose Tower.",
+  "en": "Defeat the Dynamaxed Coalossal outside Wyndon's Rose Tower.",
+  "it": "Sconfiggi il Coalossal Dynamax fuori dalla Torre Rose di Wyndon."
+ },
+ {
+  "id": "Defeat the Dynamaxed Pangoro outside Wyndon's train station.",
+  "en": "Defeat the Dynamaxed Pangoro outside Wyndon's train station.",
+  "it": "Sconfiggi il Pangoro Dynamax fuori dalla stazione di Wyndon."
+ },
+ {
+  "id": "Defeat the Dynamaxed Centiskorch at the entrance of Sumbering Weald.",
+  "en": "Defeat the Dynamaxed Centiskorch at the entrance of Sumbering Weald.",
+  "it": "Sconfiggi il Centiskorch Dynamax all'ingresso del Bosco Assopito."
+ },
+ {
+  "id": "Head to Wedgehurst by taking the train from Saffron City.",
+  "en": "Head to Wedgehurst by taking the train from Saffron City.",
+  "it": "Vai a Wedgehurst prendendo il treno da Zafferanopoli."
+ },
+ {
+  "id": "Head to Kanto Route 10.",
+  "en": "Head to Kanto Route 10.",
+  "it": "Vai al Percorso 10 di Kanto."
+ },
+ {
+  "id": "Bea is in Cianwood City's Gym.",
+  "en": "Bea is in Cianwood City's Gym.",
+  "it": "Fabia è nella Palestra di Fiorlisopoli."
+ },
+ {
+  "id": "Carmo is outside the Pewter Museum of Science.",
+  "en": "Carmo is outside the Pewter Museum of Science.",
+  "it": "Carmo è fuori dal Museo della Scienza di Plumbeopoli."
+ },
+ {
+  "id": "Val is outside Cerise's Lab.",
+  "en": "Val is outside Cerise's Lab.",
+  "it": "Val è fuori dal Laboratorio di Cerise."
+ },
+ {
+  "id": "Electon is outside Cerise's Lab.",
+  "en": "Electon is outside Cerise's Lab.",
+  "it": "Electon è fuori dal Laboratorio di Cerise."
+ },
+ {
+  "id": "Bea is in Saffron City's Fighting Dojo.",
+  "en": "Bea is in Saffron City's Fighting Dojo.",
+  "it": "Fabia è nel Dojo Karate di Zafferanopoli."
+ },
+ {
+  "id": "Kricketina Kylie is in Vermillion City's Pokémon Center.",
+  "en": "Kricketina Kylie is in Vermillion City's Pokémon Center.",
+  "it": "Kricketina Kylie è nel Centro Pokémon di Aranciopoli."
+ },
+ {
+  "id": "Tony is at Vermillion City's Gym.",
+  "en": "Tony is at Vermillion City's Gym.",
+  "it": "Tony è alla Palestra di Aranciopoli."
+ },
+ {
+  "id": "Head to Wyndon and talk to Sonia and Raihan.",
+  "en": "Head to Wyndon and talk to Sonia and Raihan.",
+  "it": "Vai a Wyndon e parla con Sonia e Raihan."
+ },
+ {
+  "id": "Head to Shalour City.",
+  "en": "Head to Shalour City.",
+  "it": "Vai a Yantaropoli."
+ },
+ {
+  "id": "Head to the Resort Area using the westmost boat in Vermillion City's pier.",
+  "en": "Head to the Resort Area using the westmost boat in Vermillion City's pier.",
+  "it": "Vai all'Area Svago con la barca più a ovest del molo di Aranciopoli."
+ },
+ {
+  "id": "Hayden is outside Vermillion City's Pokémon Center.",
+  "en": "Hayden is outside Vermillion City's Pokémon Center.",
+  "it": "Hayden è fuori dal Centro Pokémon di Aranciopoli."
+ },
+ {
+  "id": "Oliver is outside Cerise's Lab.",
+  "en": "Oliver is outside Cerise's Lab.",
+  "it": "Oliver è fuori dal Laboratorio di Cerise."
+ },
+ {
+  "id": "Visquez is at Vermillion City's Gym.",
+  "en": "Visquez is at Vermillion City's Gym.",
+  "it": "Visquez è alla Palestra di Aranciopoli."
+ },
+ {
+  "id": "Head to the Desert Resort on Unova Route 4.",
+  "en": "Head to the Desert Resort on Unova Route 4.",
+  "it": "Vai al Deserto della Quiete sul Percorso 4 di Unima."
+ },
+ {
+  "id": "Head to Wyndon.",
+  "en": "Head to Wyndon.",
+  "it": "Vai a Wyndon."
+ },
+ {
+  "id": "Head to Dragonite Island using the westmost boat in Vermillion City's pier.",
+  "en": "Head to Dragonite Island using the westmost boat in Vermillion City's pier.",
+  "it": "Vai all'Isola Dragonite con la barca più a ovest del molo di Aranciopoli."
+ },
+ {
+  "id": "Head to Hoenn Battle Frontier using the 2nd leftmost boat in Vermillion City's pier.",
+  "en": "Head to Hoenn Battle Frontier using the 2nd leftmost boat in Vermillion City's pier.",
+  "it": "Vai al Parco Lotta di Hoenn con la seconda barca da sinistra del molo di Aranciopoli."
+ },
+ {
+  "id": "Head to Galar's Wild Area by taking the train in Saffron City.",
+  "en": "Head to Galar's Wild Area by taking the train in Saffron City.",
+  "it": "Vai alle Terre Selvagge di Galar prendendo il treno a Zafferanopoli."
+ },
+ {
+  "id": "Head to Vermillion City and go north towards Route 25.",
+  "en": "Head to Vermillion City and go north towards Route 25.",
+  "it": "Vai ad Aranciopoli e prosegui a nord verso il Percorso 25."
+ },
+ {
+  "id": "Time begins to accelerate!",
+  "en": "Time begins to accelerate!",
+  "it": "Il tempo comincia ad accelerare!"
+ },
+ {
+  "id": "Time accelerates further!",
+  "en": "Time accelerates further!",
+  "it": "Il tempo accelera ancora di più!"
+ },
+ {
+  "id": "Time accelerates to the limit!",
+  "en": "Time accelerates to the limit!",
+  "it": "Il tempo accelera fino al limite!"
+ },
+ {
+  "id": "The flow of time is at the limit.",
+  "en": "The flow of time is at the limit.",
+  "it": "Lo scorrere del tempo è al limite."
+ },
+ {
+  "id": "The bomb set by {1} exploded!",
+  "en": "The bomb set by {1} exploded!",
+  "it": "La bomba piazzata da {1} è esplosa!"
+ },
+ {
+  "id": "{1} restored some hp!",
+  "en": "{1} restored some hp!",
+  "it": "{1} ha recuperato un po' di PS!"
+ },
+ {
+  "id": "{1} increased the hp of its substitute!",
+  "en": "{1} increased the hp of its substitute!",
+  "it": "{1} ha aumentato i PS del suo sostituto!"
+ },
+ {
+  "id": "{1} put in a substitute using a clone from another dimension!",
+  "en": "{1} put in a substitute using a clone from another dimension!",
+  "it": "{1} ha creato un sostituto usando un clone proveniente da un'altra dimensione!"
+ },
+ {
+  "id": "The flow of time reverts back to normal.",
+  "en": "The flow of time reverts back to normal.",
+  "it": "Lo scorrere del tempo torna normale."
+ },
+ {
+  "id": "Can't stop time while it's already stopped!",
+  "en": "Can't stop time while it's already stopped!",
+  "it": "Non puoi fermare il tempo se è già fermo!"
+ },
+ {
+  "id": "Time was stopped!",
+  "en": "Time was stopped!",
+  "it": "Il tempo si è fermato!"
+ },
+ {
+  "id": "Time flows again.",
+  "en": "Time flows again.",
+  "it": "Il tempo riprende a scorrere."
+ },
+ {
+  "id": "One second has passed!",
+  "en": "One second has passed!",
+  "it": "È passato un secondo!"
+ },
+ {
+  "id": "Two seconds have passed!",
+  "en": "Two seconds have passed!",
+  "it": "Sono passati due secondi!"
+ },
+ {
+  "id": "This Pokémon is already shiny!",
+  "en": "This Pokémon is already shiny!",
+  "it": "Questo Pokémon è già cromatico!"
+ },
+ {
+  "id": "This Pokémon is became shiny!",
+  "en": "This Pokémon is became shiny!",
+  "it": "Questo Pokémon è diventato cromatico!"
+ },
+ {
+  "id": "{1} became shiny!",
+  "en": "{1} became shiny!",
+  "it": "{1} è diventato cromatico!"
+ },
+ {
+  "id": "{1} is protected by Love Train!",
+  "en": "{1} is protected by Love Train!",
+  "it": "{1} è protetto da Love Train!"
+ },
+ {
+  "id": "{1} became more nimble!",
+  "en": "{1} became more nimble!",
+  "it": "{1} è diventato più agile!"
+ },
+ {
+  "id": "{1} became immune to status conditions and stat drops for 3 turns!",
+  "en": "{1} became immune to status conditions and stat drops for 3 turns!",
+  "it": "{1} è diventato immune ai problemi di stato e ai cali delle statistiche per 3 turni!"
+ },
+ {
+  "id": "{1} became more resistant to all attacks!",
+  "en": "{1} became more resistant to all attacks!",
+  "it": "{1} è diventato più resistente a tutti gli attacchi!"
+ },
+ {
+  "id": "{1} began charging up its steel ball!",
+  "en": "{1} began charging up its steel ball!",
+  "it": "{1} ha iniziato a caricare la sua sfera d'acciaio!"
+ },
+ {
+  "id": "All protections on {1} and its side ended!",
+  "en": "All protections on {1} and its side ended!",
+  "it": "Tutte le protezioni su {1} e sulla sua squadra sono terminate!"
+ },
+ {
+  "id": "{1}'s protection ended!",
+  "en": "{1}'s protection ended!",
+  "it": "La protezione di {1} è terminata!"
+ },
+ {
+  "id": "All protections on {1}'s side ended!",
+  "en": "All protections on {1}'s side ended!",
+  "it": "Tutte le protezioni sulla squadra di {1} sono terminate!"
+ },
+ {
+  "id": "{1}'s status condition and stat drop immunities ended!",
+  "en": "{1}'s status condition and stat drop immunities ended!",
+  "it": "L'immunità di {1} ai problemi di stato e ai cali delle statistiche è terminata!"
+ },
+ {
+  "id": "{1} is already shiny!",
+  "en": "{1} is already shiny!",
+  "it": "{1} è già cromatico!"
+ },
+ {
+  "id": "But the attack never existed!",
+  "en": "But the attack never existed!",
+  "it": "Ma l'attacco non è mai esistito!"
+ },
+ {
+  "id": "Weather Effects",
+  "en": "Weather Effects",
+  "it": "Effetti meteo"
+ },
+ {
+  "id": "ON",
+  "en": "ON",
+  "it": "ON"
+ },
+ {
+  "id": "OFF",
+  "en": "OFF",
+  "it": "OFF"
+ },
+ {
+  "id": "{1} granted its side a damage increase and damage reduction!",
+  "en": "{1} granted its side a damage increase and damage reduction!",
+  "it": "{1} ha conferito alla sua squadra un aumento dei danni inflitti e una riduzione dei danni subiti!"
+ },
+ {
+  "id": "{1}'s side because more resistant to Dragon type attacks!",
+  "en": "{1}'s side because more resistant to Dragon type attacks!",
+  "it": "La squadra di {1} è diventata più resistente alle mosse di tipo Drago!"
+ },
+ {
+  "id": "{1}'s side because more resistant to Steel type attacks!",
+  "en": "{1}'s side because more resistant to Steel type attacks!",
+  "it": "La squadra di {1} è diventata più resistente alle mosse di tipo Acciaio!"
+ },
+ {
+  "id": "{1}'s side because more resistant to Ground type attacks!",
+  "en": "{1}'s side because more resistant to Ground type attacks!",
+  "it": "La squadra di {1} è diventata più resistente alle mosse di tipo Terra!"
+ },
+ {
+  "id": "{1}'s side because more resistant to Fire type attacks!",
+  "en": "{1}'s side because more resistant to Fire type attacks!",
+  "it": "La squadra di {1} è diventata più resistente alle mosse di tipo Fuoco!"
+ },
+ {
+  "id": "{1}'s Defense couldn't be lowered!",
+  "en": "{1}'s Defense couldn't be lowered!",
+  "it": "La Difesa di {1} non può essere ridotta!"
+ },
+ {
+  "id": "{1}'s Special Defense couldn't be lowered!",
+  "en": "{1}'s Special Defense couldn't be lowered!",
+  "it": "La Difesa Speciale di {1} non può essere ridotta!"
+ },
+ {
+  "id": "{1} restored some health!",
+  "en": "{1} restored some health!",
+  "it": "{1} ha recuperato un po' di salute!"
+ },
+ {
+  "id": "The Ground Zone was extended!",
+  "en": "The Ground Zone was extended!",
+  "it": "La Zona Terra è stata prolungata!"
+ },
+ {
+  "id": "{1} formed infinite space around itself, nullifying all non-critical damage!",
+  "en": "{1} formed infinite space around itself, nullifying all non-critical damage!",
+  "it": "{1} ha creato uno spazio infinito attorno a sé che annulla tutti i danni che non siano brutti colpi!"
+ },
+ {
+  "id": "This move can only be used after the user has set a sandstorm.",
+  "en": "This move can only be used after the user has set a sandstorm.",
+  "it": "Questa mossa si può usare solo dopo che chi la usa ha scatenato una tempesta di sabbia."
+ },
+ {
+  "id": "This move can only be used after the user has used at least 1 move.",
+  "en": "This move can only be used after the user has used at least 1 move.",
+  "it": "Questa mossa si può usare solo dopo che chi la usa ha usato almeno 1 mossa."
+ },
+ {
+  "id": "This move can only be used after the user has been in battle for 2 full turns.",
+  "en": "This move can only be used after the user has been in battle for 2 full turns.",
+  "it": "Questa mossa si può usare solo dopo che chi la usa è rimasto in lotta per 2 turni interi."
+ },
+ {
+  "id": "{1}'s side because more resistant to Dark type attacks!",
+  "en": "{1}'s side because more resistant to Dark type attacks!",
+  "it": "La squadra di {1} è diventata più resistente alle mosse di tipo Buio!"
+ },
+ {
+  "id": "{1}'s Fighting resistance can't be lowered any further!",
+  "en": "{1}'s Fighting resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Lotta di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Flying resistance can't be lowered any further!",
+  "en": "{1}'s Flying resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Volante di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Poison resistance can't be lowered any further!",
+  "en": "{1}'s Poison resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Veleno di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Ground resistance can't be lowered any further!",
+  "en": "{1}'s Ground resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Terra di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Rock resistance can't be lowered any further!",
+  "en": "{1}'s Rock resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Roccia di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Bug resistance can't be lowered any further!",
+  "en": "{1}'s Bug resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Coleottero di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Ghost resistance can't be lowered any further!",
+  "en": "{1}'s Ghost resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Spettro di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Steel resistance can't be lowered any further!",
+  "en": "{1}'s Steel resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Acciaio di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Fire resistance can't be lowered any further!",
+  "en": "{1}'s Fire resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Fuoco di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Water resistance can't be lowered any further!",
+  "en": "{1}'s Water resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Acqua di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Grass resistance can't be lowered any further!",
+  "en": "{1}'s Grass resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Erba di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Electric resistance can't be lowered any further!",
+  "en": "{1}'s Electric resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Elettro di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Psychic resistance can't be lowered any further!",
+  "en": "{1}'s Psychic resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Psico di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Ice resistance can't be lowered any further!",
+  "en": "{1}'s Ice resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Ghiaccio di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Dragon resistance can't be lowered any further!",
+  "en": "{1}'s Dragon resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Drago di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Dark resistance can't be lowered any further!",
+  "en": "{1}'s Dark resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Buio di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "{1}'s Fairy resistance can't be lowered any further!",
+  "en": "{1}'s Fairy resistance can't be lowered any further!",
+  "it": "La resistenza al tipo Folletto di {1} non può scendere ulteriormente!"
+ },
+ {
+  "id": "Passive",
+  "en": "Passive",
+  "it": "Passiva"
+ },
+ {
+  "id": "Passive: {1}\\\nEffect: {2}",
+  "en": "Passive: {1}\\\nEffect: {2}",
+  "it": "Passiva: {1}\\\nEffetto: {2}"
+ },
+ {
+  "id": "{1}'s HP is already full!",
+  "en": "{1}'s HP is already full!",
+  "it": "I PS di {1} sono già al massimo!"
+ },
+ {
+  "id": "{1}'s passive ability was unlocked and is {2}!",
+  "en": "{1}'s passive ability was unlocked and is {2}!",
+  "it": "L'abilità passiva di {1} è stata sbloccata ed è {2}!"
+ },
+ {
+  "id": "{1}'s passive ability changed from {2} to {3}!",
+  "en": "{1}'s passive ability changed from {2} to {3}!",
+  "it": "L'abilità passiva di {1} è cambiata da {2} a {3}!"
+ },
+ {
+  "id": "The sun will only last 3 turns!",
+  "en": "The sun will only last 3 turns!",
+  "it": "Il sole durerà solo 3 turni!"
+ },
+ {
+  "id": "The rain will only last 3 turns!",
+  "en": "The rain will only last 3 turns!",
+  "it": "La pioggia durerà solo 3 turni!"
+ },
+ {
+  "id": "The hailstorm will only last 3 turns!",
+  "en": "The hailstorm will only last 3 turns!",
+  "it": "La grandinata durerà solo 3 turni!"
+ },
+ {
+  "id": "The sandstorm will only last 3 turns!",
+  "en": "The sandstorm will only last 3 turns!",
+  "it": "La tempesta di sabbia durerà solo 3 turni!"
+ },
+ {
+  "id": "The Normal Zone will only last 3 turns!",
+  "en": "The Normal Zone will only last 3 turns!",
+  "it": "La Zona Normale durerà solo 3 turni!"
+ },
+ {
+  "id": "The Ice Zone will only last 3 turns!",
+  "en": "The Ice Zone will only last 3 turns!",
+  "it": "La Zona Ghiaccio durerà solo 3 turni!"
+ },
+ {
+  "id": "The Fighting Zone will only last 3 turns!",
+  "en": "The Fighting Zone will only last 3 turns!",
+  "it": "La Zona Lotta durerà solo 3 turni!"
+ },
+ {
+  "id": "The Poison Zone will only last 3 turns!",
+  "en": "The Poison Zone will only last 3 turns!",
+  "it": "La Zona Veleno durerà solo 3 turni!"
+ },
+ {
+  "id": "The Ground Zone will only last 3 turns!",
+  "en": "The Ground Zone will only last 3 turns!",
+  "it": "La Zona Terra durerà solo 3 turni!"
+ },
+ {
+  "id": "The Flying Zone will only last 3 turns!",
+  "en": "The Flying Zone will only last 3 turns!",
+  "it": "La Zona Volante durerà solo 3 turni!"
+ },
+ {
+  "id": "The Bug Zone will only last 3 turns!",
+  "en": "The Bug Zone will only last 3 turns!",
+  "it": "La Zona Coleottero durerà solo 3 turni!"
+ },
+ {
+  "id": "The Rock Zone will only last 3 turns!",
+  "en": "The Rock Zone will only last 3 turns!",
+  "it": "La Zona Roccia durerà solo 3 turni!"
+ },
+ {
+  "id": "The Ghost Zone will only last 3 turns!",
+  "en": "The Ghost Zone will only last 3 turns!",
+  "it": "La Zona Spettro durerà solo 3 turni!"
+ },
+ {
+  "id": "The Dragon Zone will only last 3 turns!",
+  "en": "The Dragon Zone will only last 3 turns!",
+  "it": "La Zona Drago durerà solo 3 turni!"
+ },
+ {
+  "id": "The Dark Zone will only last 3 turns!",
+  "en": "The Dark Zone will only last 3 turns!",
+  "it": "La Zona Buio durerà solo 3 turni!"
+ },
+ {
+  "id": "The Steel Zone will only last 3 turns!",
+  "en": "The Steel Zone will only last 3 turns!",
+  "it": "La Zona Acciaio durerà solo 3 turni!"
+ },
+ {
+  "id": "The Fairy Zone will only last 3 turns!",
+  "en": "The Fairy Zone will only last 3 turns!",
+  "it": "La Zona Folletto durerà solo 3 turni!"
+ },
+ {
+  "id": "An extremely strong electric current runs across the battlefield!",
+  "en": "An extremely strong electric current runs across the battlefield!",
+  "it": "Una corrente elettrica fortissima attraversa il campo di lotta!"
+ },
+ {
+  "id": "A weak electric current runs across the battlefield!",
+  "en": "A weak electric current runs across the battlefield!",
+  "it": "Una debole corrente elettrica attraversa il campo di lotta!"
+ },
+ {
+  "id": "Lots of grass grew to cover the battlefield!",
+  "en": "Lots of grass grew to cover the battlefield!",
+  "it": "Tanta erba è cresciuta e ha ricoperto il campo di lotta!"
+ },
+ {
+  "id": "Some grass grew to cover the battlefield!",
+  "en": "Some grass grew to cover the battlefield!",
+  "it": "Un po' d'erba è cresciuta e ha ricoperto il campo di lotta!"
+ },
+ {
+  "id": "Heavy mist swirled about the battlefield!",
+  "en": "Heavy mist swirled about the battlefield!",
+  "it": "Una fitta nebbia avvolge il campo di lotta!"
+ },
+ {
+  "id": "Light mist swirled about the battlefield!",
+  "en": "Light mist swirled about the battlefield!",
+  "it": "Una leggera nebbia avvolge il campo di lotta!"
+ },
+ {
+  "id": "The battlefield got a bit weird!",
+  "en": "The battlefield got a bit weird!",
+  "it": "Il campo di lotta è diventato un po' strano!"
+ },
+ {
+  "id": "The battlefield got very weird!",
+  "en": "The battlefield got very weird!",
+  "it": "Il campo di lotta è diventato stranissimo!"
+ },
+ {
+  "id": "Set passive",
+  "en": "Set passive",
+  "it": "Imposta passiva"
+ },
+ {
+  "id": "Set new passive",
+  "en": "Set new passive",
+  "it": "Imposta nuova passiva"
+ },
+ {
+  "id": "Unlock/lock passive",
+  "en": "Unlock/lock passive",
+  "it": "Sblocca/blocca passiva"
+ },
+ {
+  "id": "Passive is {1}.",
+  "en": "Passive is {1}.",
+  "it": "La passiva è {1}."
+ },
+ {
+  "id": "Passive unlocked, but no passive.",
+  "en": "Passive unlocked, but no passive.",
+  "it": "Passiva sbloccata, ma nessuna passiva."
+ },
+ {
+  "id": "Passive locked.",
+  "en": "Passive locked.",
+  "it": "Passiva bloccata."
+ },
+ {
+  "id": "{1}'s passive ability was unlocked and became {2}!",
+  "en": "{1}'s passive ability was unlocked and became {2}!",
+  "it": "L'abilità passiva di {1} è stata sbloccata ed è diventata {2}!"
+ },
+ {
+  "id": "Passive of the Pokémon.",
+  "en": "Passive of the Pokémon.",
+  "it": "Passiva del Pokémon."
+ },
+ {
+  "id": "{1}, {2}",
+  "en": "{1}, {2}",
+  "it": "{1}, {2}"
+ },
+ {
+  "id": "something",
+  "en": "something",
+  "it": "qualcosa"
+ },
+ {
+  "id": "Unidentified property.",
+  "en": "Unidentified property.",
+  "it": "Proprietà non identificata."
+ },
+ {
+  "id": "{1} became immune to Ground type attacks for 5 turns!",
+  "en": "{1} became immune to Ground type attacks for 5 turns!",
+  "it": "{1} è diventato immune alle mosse di tipo Terra per 5 turni!"
+ },
+ {
+  "id": "There needs to be at least 1 opposing Pokémon that has a status condition or is confused or trapped.",
+  "en": "There needs to be at least 1 opposing Pokémon that has a status condition or is confused or trapped.",
+  "it": "Serve almeno 1 Pokémon avversario con un problema di stato, confuso o intrappolato."
+ },
+ {
+  "id": "{1} restored HP for itself and its allies!",
+  "en": "{1} restored HP for itself and its allies!",
+  "it": "{1} ha recuperato PS per sé e per i suoi alleati!"
+ },
+ {
+  "id": "Stockpile needs to be used first.",
+  "en": "Stockpile needs to be used first.",
+  "it": "Prima bisogna usare Accumulo."
+ },
+ {
+  "id": "{1} restored HP for its allies.",
+  "en": "{1} restored HP for its allies.",
+  "it": "{1} ha fatto recuperare PS ai suoi alleati."
+ },
+ {
+  "id": "{1}'s Trainer Move can be used again!",
+  "en": "{1}'s Trainer Move can be used again!",
+  "it": "La Mossa Allenatore di {1} può essere usata di nuovo!"
+ },
+ {
+  "id": "Your Defense and Special Defense need to be maxed out first.",
+  "en": "Your Defense and Special Defense need to be maxed out first.",
+  "it": "Prima la Difesa e la Difesa Speciale devono essere al massimo."
+ },
+ {
+  "id": "The sandstorm's duration was extended!",
+  "en": "The sandstorm's duration was extended!",
+  "it": "La durata della tempesta di sabbia è stata prolungata!"
+ },
+ {
+  "id": "{1} can't be used consecutively!",
+  "en": "{1} can't be used consecutively!",
+  "it": "{1} non può essere usata più volte di fila!"
+ },
+ {
+  "id": "{1} can't be used on the first turn its user is sent in!",
+  "en": "{1} can't be used on the first turn its user is sent in!",
+  "it": "{1} non può essere usata nel turno in cui chi la usa entra in campo!"
+ },
+ {
+  "id": "{1} became weaker to Flying-type attacks!",
+  "en": "{1} became weaker to Flying-type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Volante!"
+ },
+ {
+  "id": "{1} became weaker to Fighting-type attacks!",
+  "en": "{1} became weaker to Fighting-type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo Lotta!"
+ },
+ {
+  "id": "Unlock passive",
+  "en": "Unlock passive",
+  "it": "Sblocca passiva"
+ },
+ {
+  "id": "Currently can't have a passive.",
+  "en": "Currently can't have a passive.",
+  "it": "Al momento non può avere una passiva."
+ },
+ {
+  "id": "{1} became fully grown!",
+  "en": "{1} became fully grown!",
+  "it": "{1} è completamente cresciuto!"
+ },
+ {
+  "id": "Head to Seafoam Islands by getting the boat from Cinnabar Island.",
+  "en": "Head to Seafoam Islands by getting the boat from Cinnabar Island.",
+  "it": "Raggiungi le Isole Spumarine prendendo la barca dall'Isola Cannella."
+ },
+ {
+  "id": "Pokémon Fire Ash was created by:",
+  "en": "Pokémon Fire Ash was created by:",
+  "it": "Pokémon Fire Ash è stato creato da:"
+ },
+ {
+  "id": "Extra images supplied by:",
+  "en": "Extra images supplied by:",
+  "it": "Immagini aggiuntive fornite da:"
+ },
+ {
+  "id": "Extra sounds supplied by:",
+  "en": "Extra sounds supplied by:",
+  "it": "Suoni aggiuntivi forniti da:"
+ },
+ {
+  "id": "Additional code by:",
+  "en": "Additional code by:",
+  "it": "Codice aggiuntivo di:"
+ },
+ {
+  "id": "Additional help by:",
+  "en": "Additional help by:",
+  "it": "Ulteriore aiuto da:"
+ },
+ {
+  "id": "Tested by:",
+  "en": "Tested by:",
+  "it": "Testato da:"
+ },
+ {
+  "id": "Walk-through created by:",
+  "en": "Walk-through created by:",
+  "it": "Guida creata da:"
+ },
+ {
+  "id": "<c3=404040,B0B0B0>View Passive - Press Use/Interact.",
+  "en": "\n<c3=404040,B0B0B0>View Passive - Press Use/Interact.\n",
+  "it": "\n<c3=404040,B0B0B0>Vedi Passiva - Premi Usa/Interagisci.\n"
+ },
+ {
+  "id": "\"{1}\" v.{2} by:",
+  "en": "\"{1}\" v.{2} by:",
+  "it": "\"{1}\" v.{2} di:"
+ },
+ {
+  "id": "\"Pokémon Essentials\" was created by:",
+  "en": "\"Pokémon Essentials\" was created by:",
+  "it": "\"Pokémon Essentials\" è stato creato da:"
+ },
+ {
+  "id": "Inspired by work by Flameguru",
+  "en": "Inspired by work by Flameguru",
+  "it": "Ispirato al lavoro di Flameguru"
+ },
+ {
+  "id": "With contributions from:",
+  "en": "With contributions from:",
+  "it": "Con i contributi di:"
+ },
+ {
+  "id": "and everyone else who helped out",
+  "en": "and everyone else who helped out",
+  "it": "e tutti gli altri che hanno dato una mano"
+ },
+ {
+  "id": "\"mkxp-z\" by:",
+  "en": "\"mkxp-z\" by:",
+  "it": "\"mkxp-z\" di:"
+ },
+ {
+  "id": "Based on \"mkxp\" by Ancurio et al.",
+  "en": "Based on \"mkxp\" by Ancurio et al.",
+  "it": "Basato su \"mkxp\" di Ancurio et al."
+ },
+ {
+  "id": "\"RPG Maker XP\" by:",
+  "en": "\"RPG Maker XP\" by:",
+  "it": "\"RPG Maker XP\" di:"
+ },
+ {
+  "id": "Pokémon is owned by:",
+  "en": "Pokémon is owned by:",
+  "it": "Pokémon è di proprietà di:"
+ },
+ {
+  "id": "Affiliated with Game Freak",
+  "en": "Affiliated with Game Freak",
+  "it": "Affiliato a Game Freak"
+ },
+ {
+  "id": "This is a non-profit fan-made game.",
+  "en": "This is a non-profit fan-made game.",
+  "it": "Questo è un fan game senza scopo di lucro."
+ },
+ {
+  "id": "No copyright infringements intended.",
+  "en": "No copyright infringements intended.",
+  "it": "Nessuna violazione del copyright intesa."
+ },
+ {
+  "id": "Please support the official games!",
+  "en": "Please support the official games!",
+  "it": "Sostenete i giochi ufficiali!"
+ },
+ {
+  "id": "Search",
+  "en": "Search",
+  "it": "Cerca"
+ },
+ {
+  "id": "Apply filter or begin search?#{filterIndicator}",
+  "en": "Apply filter or begin search?#{filterIndicator}",
+  "it": "Applicare un filtro o avviare la ricerca?#{filterIndicator}"
+ },
+ {
+  "id": "Set the level range to search above or below. (1-100).",
+  "en": "Set the level range to search above or below. (1-100).",
+  "it": "Imposta il livello sopra o sotto il quale cercare. (1-100)."
+ },
+ {
+  "id": "Greater than or equal to? Less than or equal to? Exactly equal to?",
+  "en": "Greater than or equal to? Less than or equal to? Exactly equal to?",
+  "it": "Maggiore o uguale? Minore o uguale? Esattamente uguale?"
+ },
+ {
+  "id": "Greater",
+  "en": "Greater",
+  "it": "Maggiore"
+ },
+ {
+  "id": "Lesser",
+  "en": "Lesser",
+  "it": "Minore"
+ },
+ {
+  "id": "Exact",
+  "en": "Exact",
+  "it": "Esatto"
+ },
+ {
+  "id": "Select regional form to filter.",
+  "en": "Select regional form to filter.",
+  "it": "Seleziona la forma regionale da filtrare."
+ },
+ {
+  "id": "Alolan",
+  "en": "Alolan",
+  "it": "Alola"
+ },
+ {
+  "id": "Galarian",
+  "en": "Galarian",
+  "it": "Galar"
+ },
+ {
+  "id": "Restrict to or exclude the selected form?",
+  "en": "Restrict to or exclude the selected form?",
+  "it": "Limitare alla forma selezionata o escluderla?"
+ },
+ {
+  "id": "Restrict",
+  "en": "Restrict",
+  "it": "Limita"
+ },
+ {
+  "id": "Exclude",
+  "en": "Exclude",
+  "it": "Escludi"
+ },
+ {
+  "id": "Restrict to or exclude shiny pokemon?",
+  "en": "Restrict to or exclude shiny pokemon?",
+  "it": "Limitare ai Pokémon cromatici o escluderli?"
+ },
+ {
+  "id": "Enter the name of the Pokemon species. Leave blank to search using only filters.",
+  "en": "Enter the name of the Pokemon species. Leave blank to search using only filters.",
+  "it": "Inserisci il nome della specie di Pokémon. Lascia vuoto per cercare solo con i filtri."
+ },
+ {
+  "id": "Box #{match[0]+1}#{spacer}[#{match[1]}]",
+  "en": "Box #{match[0]+1}#{spacer}[#{match[1]}]",
+  "it": "Box #{match[0]+1}#{spacer}[#{match[1]}]"
+ },
+ {
+  "id": "#{searchTarget} Located! Jump to box?",
+  "en": "#{searchTarget} Located! Jump to box?",
+  "it": "#{searchTarget} trovato! Andare al box?"
+ },
+ {
+  "id": "No results were found matching the species and/or filters.",
+  "en": "No results were found matching the species and/or filters.",
+  "it": "Nessun risultato corrisponde alla specie e/o ai filtri."
+ },
+ {
+  "id": "Sand Fortress",
+  "en": "Sand Fortress",
+  "it": "Fortezza Sabbia"
+ },
+ {
+  "id": "{1}'s stats cannot be lowered during a Sandstorm!",
+  "en": "{1}'s stats cannot be lowered during a Sandstorm!",
+  "it": "Le statistiche di {1} non possono essere ridotte durante una tempesta di sabbia!"
+ },
+ {
+  "id": "{1}'s {2} prevents stat loss during a Sandstorm!",
+  "en": "{1}'s {2} prevents stat loss during a Sandstorm!",
+  "it": "{2} di {1} impedisce la riduzione delle statistiche durante una tempesta di sabbia!"
+ },
+ {
+  "id": "{1}'s stats cannot be lowered when it's Sunny!",
+  "en": "{1}'s stats cannot be lowered when it's Sunny!",
+  "it": "Le statistiche di {1} non possono essere ridotte quando c'è il sole!"
+ },
+ {
+  "id": "{1}'s {2} prevents stat loss when it's Sunny!",
+  "en": "{1}'s {2} prevents stat loss when it's Sunny!",
+  "it": "{2} di {1} impedisce la riduzione delle statistiche quando c'è il sole!"
+ },
+ {
+  "id": "{1}'s {2} badly poisoned {3}!",
+  "en": "{1}'s {2} badly poisoned {3}!",
+  "it": "{2} di {1} ha gravemente avvelenato {3}!"
+ },
+ {
+  "id": "{1} restored PP to {2}'s trainer move!",
+  "en": "{1} restored PP to {2}'s trainer move!",
+  "it": "{1} ha ripristinato i PP della Mossa Allenatore di {2}!"
+ },
+ {
+  "id": "{1}'s trainer move is already at maximum PP.",
+  "en": "{1}'s trainer move is already at maximum PP.",
+  "it": "La Mossa Allenatore di {1} ha già i PP al massimo."
+ },
+ {
+  "id": "{1} granted its side a damage increase and damage reduction to all moves!",
+  "en": "{1} granted its side a damage increase and damage reduction to all moves!",
+  "it": "{1} ha aumentato i danni inflitti e ridotto i danni subiti dalla sua squadra con tutte le mosse!"
+ },
+ {
+  "id": "{1} granted its side a damage increase and damage reduction to physical moves!",
+  "en": "{1} granted its side a damage increase and damage reduction to physical moves!",
+  "it": "{1} ha aumentato i danni inflitti e ridotto i danni subiti dalla sua squadra con le mosse fisiche!"
+ },
+ {
+  "id": "{1} granted its side a damage increase and damage reduction to special moves!",
+  "en": "{1} granted its side a damage increase and damage reduction to special moves!",
+  "it": "{1} ha aumentato i danni inflitti e ridotto i danni subiti dalla sua squadra con le mosse speciali!"
+ },
+ {
+  "id": "{1} was trapped by {2}!",
+  "en": "{1} was trapped by {2}!",
+  "it": "{1} è stato intrappolato da {2}!"
+ },
+ {
+  "id": "{1} was trapped!",
+  "en": "{1} was trapped!",
+  "it": "{1} è stato intrappolato!"
+ },
+ {
+  "id": "{1} gained damage reduction!",
+  "en": "{1} gained damage reduction!",
+  "it": "{1} ha ottenuto una riduzione dei danni!"
+ },
+ {
+  "id": "{1}'s damage reduction wore off!",
+  "en": "{1}'s damage reduction wore off!",
+  "it": "La riduzione dei danni di {1} è svanita!"
+ },
+ {
+  "id": "{1}'s passives changed!",
+  "en": "{1}'s passives changed!",
+  "it": "Le passive di {1} sono cambiate!"
+ },
+ {
+  "id": "Sharp Entry 3",
+  "en": "Sharp Entry 3",
+  "it": "Ingresso Affilato 3"
+ },
+ {
+  "id": "Postwick Perseverence",
+  "en": "Postwick Perseverence",
+  "it": "Tenacia di Postwick"
+ },
+ {
+  "id": "Entrancing Melody",
+  "en": "Entrancing Melody",
+  "it": "Melodia Ammaliante"
+ },
+ {
+  "id": "{1} became weaker to {2} type attacks!",
+  "en": "{1} became weaker to {2} type attacks!",
+  "it": "{1} è diventato più vulnerabile alle mosse di tipo {2}!"
+ },
+ {
+  "id": "Love of Pallet",
+  "en": "Love of Pallet",
+  "it": "Amore per Biancavilla"
+ },
+ {
+  "id": "{1} can only be used in Heavy Rain!",
+  "en": "{1} can only be used in Heavy Rain!",
+  "it": "{1} può essere usata solo con un acquazzone!"
+ },
+ {
+  "id": "{1} can only be used under Harsh Sun!",
+  "en": "{1} can only be used under Harsh Sun!",
+  "it": "{1} può essere usata solo con sole intenso!"
+ },
+ {
+  "id": "{1}'s side because more resistant to Bug type attacks!",
+  "en": "{1}'s side because more resistant to Bug type attacks!",
+  "it": "La squadra di {1} è diventata più resistente alle mosse di tipo Coleottero!"
+ },
+ {
+  "id": "{1} restored PP to its Resonating Noble Roar!",
+  "en": "{1} restored PP to its Resonating Noble Roar!",
+  "it": "{1} ha ripristinato i PP del suo Urlo Risonante!"
+ },
+ {
+  "id": "{1}'s Resonating Noble Roar is already at maximum PP.",
+  "en": "{1}'s Resonating Noble Roar is already at maximum PP.",
+  "it": "L'Urlo Risonante di {1} ha già i PP al massimo."
+ },
+ {
+  "id": "{1}'s mysterious aura blocked the stat theft!",
+  "en": "{1}'s mysterious aura blocked the stat theft!",
+  "it": "La misteriosa aura di {1} ha impedito il furto delle statistiche!"
+ },
+ {
+  "id": "Freeze Shock needs to be used first.",
+  "en": "Freeze Shock needs to be used first.",
+  "it": "Prima bisogna usare Elettrogelo."
+ },
+ {
+  "id": "{1} needs to use a move first.",
+  "en": "{1} needs to use a move first.",
+  "it": "Prima {1} deve usare una mossa."
+ },
+ {
+  "id": "Enemy Buffs (#{chall})",
+  "en": "Enemy Buffs (#{chall})",
+  "it": "Potenziamenti nemici (#{chall})"
+ },
+ {
+  "id": "Press Enter for more details.",
+  "en": "Press Enter for more details.",
+  "it": "Premi Invio per altri dettagli."
+ },
+ {
+  "id": "Attack Buff",
+  "en": "Attack Buff",
+  "it": "Potenz. Attacco"
+ },
+ {
+  "id": "Defense Buff",
+  "en": "Defense Buff",
+  "it": "Potenz. Difesa"
+ },
+ {
+  "id": "Sp. Attack Buff",
+  "en": "Sp. Attack Buff",
+  "it": "Potenz. Att. Sp."
+ },
+ {
+  "id": "Sp. Defense Buff",
+  "en": "Sp. Defense Buff",
+  "it": "Potenz. Dif. Sp."
+ },
+ {
+  "id": "Speed Buff",
+  "en": "Speed Buff",
+  "it": "Potenz. Velocità"
+ },
+ {
+  "id": "Accuracy Buff",
+  "en": "Accuracy Buff",
+  "it": "Potenz. Precisione"
+ },
+ {
+  "id": "Evasion Buff",
+  "en": "Evasion Buff",
+  "it": "Potenz. Elusione"
+ },
+ {
+  "id": "Status Immunity",
+  "en": "Status Immunity",
+  "it": "Immunità agli stati"
+ },
+ {
+  "id": "Interference Immunity",
+  "en": "Interference Immunity",
+  "it": "Immunità alle interferenze"
+ },
+ {
+  "id": "Vigilance",
+  "en": "Vigilance",
+  "it": "Vigilanza"
+ },
+ {
+  "id": "Enter: Load/rename an animation\nF: Open search bar\nEsc: Cancel",
+  "en": "Enter: Load/rename an animation\nF: Open search bar\nEsc: Cancel",
+  "it": "Invio: carica/rinomina un'animazione\nF: apri la barra di ricerca\nEsc: annulla"
+ },
+ {
+  "id": "Search for what?",
+  "en": "Search for what?",
+  "it": "Cosa vuoi cercare?"
+ },
+ {
+  "id": "Stack search terms?",
+  "en": "Stack search terms?",
+  "it": "Combinare i termini di ricerca?"
+ },
+ {
+  "id": "No results found.",
+  "en": "No results found.",
+  "it": "Nessun risultato trovato."
+ },
+ {
+  "id": "{1} grows out of its Sphere Mode!",
+  "en": "{1} grows out of its Sphere Mode!",
+  "it": "{1} esce dalla sua Forma Sfera!"
+ },
+ {
+  "id": "{1} turned into an Immortal Phoenix!",
+  "en": "{1} turned into an Immortal Phoenix!",
+  "it": "{1} si è trasformato in una Fenice Immortale!"
+ },
+ {
+  "id": "NEED #{diff} MORE ENERGY TO EQUIP THIS BUFF.",
+  "en": "NEED #{diff} MORE ENERGY TO EQUIP THIS BUFF.",
+  "it": "SERVONO ALTRI #{diff} PUNTI ENERGIA PER EQUIPAGGIARE QUESTO POTENZIAMENTO."
+ },
+ {
+  "id": "BGM for this map. Overwrites the one set in RMXP.",
+  "en": "BGM for this map. Overwrites the one set in RMXP.",
+  "it": "BGM per questa mappa. Sostituisce quella impostata in RMXP."
+ },
+ {
+  "id": "Galar",
+  "en": "Galar",
+  "it": "Galar"
+ },
+ {
+  "id": "Hisui",
+  "en": "Hisui",
+  "it": "Hisui"
+ },
+ {
+  "id": "Triage Tank",
+  "en": "Triage Tank",
+  "it": "Serbatoio Primacura"
+ },
+ {
+  "id": "Unbending Pride",
+  "en": "Unbending Pride",
+  "it": "Orgoglio Inflessibile"
+ },
+ {
+  "id": "{1} increased its side's Sync Energy by 1!",
+  "en": "{1} increased its side's Sync Energy by 1!",
+  "it": "{1} ha aumentato di 1 l'Energia Sync della sua squadra!"
+ },
+ {
+  "id": "{1}'s next sync move will do a ton of damage!",
+  "en": "{1}'s next sync move will do a ton of damage!",
+  "it": "La prossima mossa Sync di {1} infliggerà danni enormi!"
+ },
+ {
+  "id": "{1}'s next sync move will do much more damage!",
+  "en": "{1}'s next sync move will do much more damage!",
+  "it": "La prossima mossa Sync di {1} infliggerà molti più danni!"
+ },
+ {
+  "id": "{1}'s next sync move will do more damage!",
+  "en": "{1}'s next sync move will do more damage!",
+  "it": "La prossima mossa Sync di {1} infliggerà più danni!"
+ },
+ {
+  "id": "{1} side's Sync Energy increased by 1!",
+  "en": "{1} side's Sync Energy increased by 1!",
+  "it": "L'Energia Sync della squadra di {1} è aumentata di 1!"
+ },
+ {
+  "id": "Call Oak",
+  "en": "Call Oak",
+  "it": "Chiama Oak"
+ },
+ {
+  "id": "\\se[PC access]\\bOak: Hello \\PN! How would you like to manage your Pokémon?",
+  "en": "\\se[PC access]\\bOak: Hello \\PN! How would you like to manage your Pokémon?",
+  "it": "\\se[PC access]\\bOak: Ciao, \\PN! Come vuoi gestire i tuoi Pokémon?"
+ },
+ {
+  "id": "{1}'s side because more resistant to Flying type attacks!",
+  "en": "{1}'s side because more resistant to Flying type attacks!",
+  "it": "La squadra di {1} è diventata più resistente alle mosse di tipo Volante!"
+ },
+ {
+  "id": "{1}'s side because more resistant to Rock type attacks!",
+  "en": "{1}'s side because more resistant to Rock type attacks!",
+  "it": "La squadra di {1} è diventata più resistente alle mosse di tipo Roccia!"
+ },
+ {
+  "id": "{1}'s side because more resistant to Water type attacks!",
+  "en": "{1}'s side because more resistant to Water type attacks!",
+  "it": "La squadra di {1} è diventata più resistente alle mosse di tipo Acqua!"
+ },
+ {
+  "id": "{1}'s Healing Sun restored its HP.",
+  "en": "{1}'s Healing Sun restored its HP.",
+  "it": "Sole Curativo di {1} gli ha fatto recuperare PS."
+ },
+ {
+  "id": "{1}'s Sunbathe restored its HP.",
+  "en": "{1}'s Sunbathe restored its HP.",
+  "it": "Bagno di Sole di {1} gli ha fatto recuperare PS."
+ },
+ {
+  "id": "{1}'s HP was restored by {2}'s Sunbathe.",
+  "en": "{1}'s HP was restored by {2}'s Sunbathe.",
+  "it": "{1} ha recuperato PS grazie a Bagno di Sole di {2}."
+ },
+ {
+  "id": "{1}'s Refreshing Rain restored its HP.",
+  "en": "{1}'s Refreshing Rain restored its HP.",
+  "it": "Pioggia Ristoratrice di {1} gli ha fatto recuperare PS."
+ },
+ {
+  "id": "{1}'s HP was restored by {2}'s Refreshing Rain.",
+  "en": "{1}'s HP was restored by {2}'s Refreshing Rain.",
+  "it": "{1} ha recuperato PS grazie a Pioggia Ristoratrice di {2}."
+ },
+ {
+  "id": "{1}'s Shock Recovery restored its HP.",
+  "en": "{1}'s Shock Recovery restored its HP.",
+  "it": "Elettrocura di {1} gli ha fatto recuperare PS."
+ },
+ {
+  "id": "{1}'s Haunted Healing restored its HP.",
+  "en": "{1}'s Haunted Healing restored its HP.",
+  "it": "Cura Spettrale di {1} gli ha fatto recuperare PS."
+ },
+ {
+  "id": "{1}'s Brawling Restoration restored its HP.",
+  "en": "{1}'s Brawling Restoration restored its HP.",
+  "it": "Ristoro Rissoso di {1} gli ha fatto recuperare PS."
+ },
+ {
+  "id": "{1}'s HP was restored by {2}'s Brawling Restoration.",
+  "en": "{1}'s HP was restored by {2}'s Brawling Restoration.",
+  "it": "{1} ha recuperato PS grazie a Ristoro Rissoso di {2}."
+ },
+ {
+  "id": "{1}'s Umbral Restoration restored its HP.",
+  "en": "{1}'s Umbral Restoration restored its HP.",
+  "it": "Ristoro Ombra di {1} gli ha fatto recuperare PS."
+ },
+ {
+  "id": "{1}'s HP was restored by {2}'s Umbral Restoration.",
+  "en": "{1}'s HP was restored by {2}'s Umbral Restoration.",
+  "it": "{1} ha recuperato PS grazie a Ristoro Ombra di {2}."
+ },
+ {
+  "id": "{1}'s Venomous badly poisoned {2}!",
+  "en": "{1}'s Venomous badly poisoned {2}!",
+  "it": "Velenoso di {1} ha gravemente avvelenato {2}!"
+ },
+ {
+  "id": "Swirling Storm",
+  "en": "Swirling Storm",
+  "it": "Tempesta Vorticosa"
+ },
+ {
+  "id": "Shining Silver Soul",
+  "en": "Shining Silver Soul",
+  "it": "Anima d'Argento"
+ },
+ {
+  "id": "{1} side's Sync Energy increased by 2!",
+  "en": "{1} side's Sync Energy increased by 2!",
+  "it": "L'Energia Sync della squadra di {1} è aumentata di 2!"
+ },
+ {
+  "id": "{1} side's Sync Energy increased by {2}!",
+  "en": "{1} side's Sync Energy increased by {2}!",
+  "it": "L'Energia Sync della squadra di {1} è aumentata di {2}!"
+ },
+ {
+  "id": "{1}'s Almighty Air Slash can be used again!",
+  "en": "{1}'s Almighty Air Slash can be used again!",
+  "it": "Eterelama Suprema di {1} può essere usata di nuovo!"
+ },
+ {
+  "id": "{1} can only be used when the user has less than 50% of its HP!",
+  "en": "{1} can only be used when the user has less than 50% of its HP!",
+  "it": "{1} può essere usata solo se chi la usa ha meno del 50% dei PS!"
+ },
+ {
+  "id": "{1} can only be used when its next Sync Move will be powered up!",
+  "en": "{1} can only be used when its next Sync Move will be powered up!",
+  "it": "{1} può essere usata solo se la prossima mossa Sync sarà potenziata!"
+ },
+ {
+  "id": "{1} can only be used when the user has more than 50% of its HP!",
+  "en": "{1} can only be used when the user has more than 50% of its HP!",
+  "it": "{1} può essere usata solo se chi la usa ha più del 50% dei PS!"
+ },
+ {
+  "id": "{1} can only be used when it has a Defense increase!",
+  "en": "{1} can only be used when it has a Defense increase!",
+  "it": "{1} può essere usata solo se la Difesa è aumentata!"
+ },
+ {
+  "id": "{1} can only be used after {2} has used another move first!",
+  "en": "{1} can only be used after {2} has used another move first!",
+  "it": "{1} può essere usata solo dopo che {2} ha usato prima un'altra mossa!"
+ },
+ {
+  "id": "Fire",
+  "en": "Fire",
+  "it": "Fuoco"
+ },
+ {
+  "id": "Water",
+  "en": "Water",
+  "it": "Acqua"
+ },
+ {
+  "id": "Mist",
+  "en": "Mist",
+  "it": "Nebbia"
+ },
+ {
+  "id": "{1} was protected by {2}!",
+  "en": "{1} was protected by {2}!",
+  "it": "{1} è stato protetto da {2}!"
+ },
+ {
+  "id": "There's no field effect to use!",
+  "en": "There's no field effect to use!",
+  "it": "Non c'è nessun effetto campo da usare!"
+ },
+ {
+  "id": "You put the {1} away\\\nin the.",
+  "en": "You put the {1} away\\\nin the.",
+  "it": "Hai messo via {1}\\\nnel."
+ },
+ {
+  "id": "Button Layout",
+  "en": "Button Layout",
+  "it": "Disposizione tasti"
+ },
+ {
+  "id": "RPGMXP",
+  "en": "RPGMXP",
+  "it": "RPGMXP"
+ },
+ {
+  "id": "Nintendo",
+  "en": "Nintendo",
+  "it": "Nintendo"
+ },
+ {
+  "id": "Located #{searchTarget}! Jump to box?",
+  "en": "Located #{searchTarget}! Jump to box?",
+  "it": "#{searchTarget} trovato! Andare al box?"
+ },
+ {
+  "id": "Used to open the Pause Menu. By default, also used to exit, cancel a choice, and cancel a mode. (Default: X)",
+  "en": "Used to open the Pause Menu. By default, also used to exit, cancel a choice, and cancel a mode. (Default: X)",
+  "it": "Apre il Menu di pausa. Di base serve anche per uscire, annullare una scelta e annullare una modalità. (Predefinito: X)"
+ },
+ {
+  "id": "While moving around, hold to move at a different speed. By default, has various additional functions depending on context. (Default: Z)",
+  "en": "While moving around, hold to move at a different speed. By default, has various additional functions depending on context.  (Default: Z)",
+  "it": "Tienilo premuto mentre ti muovi per cambiare velocità. Di base ha varie altre funzioni a seconda del contesto.  (Predefinito: Z)"
+ },
+ {
+  "id": "{1}Practice Completion No.{2}{3}",
+  "en": "{1}Practice Completion No.{2}{3}",
+  "it": "{1}Completamento Allenamento N.{2}{3}"
+ },
+ {
+  "id": "{1}Club Completion No.{2}{3}",
+  "en": "{1}Club Completion No.{2}{3}",
+  "it": "{1}Completamento Club N.{2}{3}"
+ },
+ {
+  "id": "Duet Completion No.{1}{2}",
+  "en": "Duet Completion No.{1}{2}",
+  "it": "Completamento Duetto N.{1}{2}"
+ },
+ {
+  "id": "Mayhem Completion No.{1}{2}",
+  "en": "Mayhem Completion No.{1}{2}",
+  "it": "Completamento Caos N.{1}{2}"
+ },
+ {
+  "id": "{1} - {2}",
+  "en": "{1} - {2}",
+  "it": "{1} - {2}"
+ },
+ {
+  "id": "BOUGHT {1}.",
+  "en": "BOUGHT {1}.",
+  "it": "{1} ACQUISTATO."
+ },
+ {
+  "id": "EQUIPPED {1}.",
+  "en": "EQUIPPED {1}.",
+  "it": "{1} EQUIPAGGIATO."
+ },
+ {
+  "id": "UNEQUIPPED {1}.",
+  "en": "UNEQUIPPED {1}.",
+  "it": "{1} RIMOSSO."
+ },
+ {
+  "id": "Save File {1}",
+  "en": "Save File {1}",
+  "it": "File di salvataggio {1}"
+ },
+ {
+  "id": "indoor1",
+  "en": "indoor1",
+  "it": "indoor1"
+ },
+ {
+  "id": "elite3",
+  "en": "elite3",
+  "it": "elite3"
+ },
+ {
+  "id": "water",
+  "en": "water",
+  "it": "water"
+ },
+ {
+  "id": "rocky",
+  "en": "rocky",
+  "it": "rocky"
+ },
+ {
+  "id": "snow",
+  "en": "snow",
+  "it": "snow"
+ },
+ {
+  "id": "champion1",
+  "en": "champion1",
+  "it": "champion1"
+ },
+ {
+  "id": "forest",
+  "en": "forest",
+  "it": "forest"
+ },
+ {
+  "id": "elite8",
+  "en": "elite8",
+  "it": "elite8"
+ },
+ {
+  "id": "elite4",
+  "en": "elite4",
+  "it": "elite4"
+ },
+ {
+  "id": "The Zap Field was turned off!",
+  "en": "The Zap Field was turned off!",
+  "it": "Il Campo Scossa è stato disattivato!"
+ },
+ {
+  "id": "The Zap Field was turned on!",
+  "en": "The Zap Field was turned on!",
+  "it": "Il Campo Scossa è stato attivato!"
+ },
+ {
+  "id": "The Vine Field was turned off!",
+  "en": "The Vine Field was turned off!",
+  "it": "Il Campo Liana è stato disattivato!"
+ },
+ {
+  "id": "The Vine Field was turned on!",
+  "en": "The Vine Field was turned on!",
+  "it": "Il Campo Liana è stato attivato!"
+ },
+ {
+  "id": "The Burn Field was turned off!",
+  "en": "The Burn Field was turned off!",
+  "it": "Il Campo Brace è stato disattivato!"
+ },
+ {
+  "id": "The Burn Field was turned on!",
+  "en": "The Burn Field was turned on!",
+  "it": "Il Campo Brace è stato attivato!"
+ },
+ {
+  "id": "The Soak Field was turned off!",
+  "en": "The Soak Field was turned off!",
+  "it": "Il Campo Fradicio è stato disattivato!"
+ },
+ {
+  "id": "The Soak Field was turned on!",
+  "en": "The Soak Field was turned on!",
+  "it": "Il Campo Fradicio è stato attivato!"
+ },
+ {
+  "id": "The Blizzard Field was turned off!",
+  "en": "The Blizzard Field was turned off!",
+  "it": "Il Campo Bufera è stato disattivato!"
+ },
+ {
+  "id": "The Blizzard Field was turned on!",
+  "en": "The Blizzard Field was turned on!",
+  "it": "Il Campo Bufera è stato attivato!"
+ },
+ {
+  "id": "The {1} doesn't affect {2}...",
+  "en": "The {1} doesn't affect {2}...",
+  "it": "{1} non ha effetto su {2}..."
+ },
+ {
+  "id": "{1}'s {2} made the {3} ineffective!",
+  "en": "{1}'s {2} made the {3} ineffective!",
+  "it": "{2} di {1} ha reso inefficace {3}!"
+ },
+ {
+  "id": "{1} is hurt by the {2}!",
+  "en": "{1} is hurt by the {2}!",
+  "it": "{1} è ferito da {2}!"
+ },
+ {
+  "id": "The {1} paralyzed {2}! It may be unable to move!",
+  "en": "The {1} paralyzed {2}! It may be unable to move!",
+  "it": "{1} ha paralizzato {2}! Potrebbe non riuscire a muoversi!"
+ },
+ {
+  "id": "The {1} burned {2}!",
+  "en": "The {1} burned {2}!",
+  "it": "{1} ha scottato {2}!"
+ },
+ {
+  "id": "The {1} soaked {2}, turning it into a Water type!",
+  "en": "The {1} soaked {2}, turning it into a Water type!",
+  "it": "{1} ha inzuppato {2}, rendendolo di tipo Acqua!"
+ },
+ {
+  "id": "The {1} cursed {2}, turning it into a Grass type!",
+  "en": "The {1} cursed {2}, turning it into a Grass type!",
+  "it": "{1} ha maledetto {2}, rendendolo di tipo Erba!"
+ },
+ {
+  "id": "All your Pokémon have +{1} {2} when entering a battle.",
+  "en": "All your Pokémon have +{1} {2} when entering a battle.",
+  "it": "Tutti i tuoi Pokémon hanno +{1} {2} quando entrano in lotta."
+ },
+ {
+  "id": "Enemy Buffs ({1})",
+  "en": "Enemy Buffs ({1})",
+  "it": "Potenziamenti nemici ({1})"
+ },
+ {
+  "id": "\\\rGreat, let's begin!",
+  "en": "\\\rGreat, let's begin!",
+  "it": "\\\rFantastico, cominciamo!"
+ },
+ {
+  "id": "You've exceeded the item limit!",
+  "en": "You've exceeded the item limit!",
+  "it": "Hai superato il limite di strumenti!"
+ },
+ {
+  "id": "You can't use any more items for the rest of the battle.",
+  "en": "You can't use any more items for the rest of the battle.",
+  "it": "Non puoi più usare strumenti per il resto della lotta."
+ },
+ {
+  "id": "The Sand Field was turned off!",
+  "en": "The Sand Field was turned off!",
+  "it": "Il Campo Sabbia è stato disattivato!"
+ },
+ {
+  "id": "The Sand Field was turned on!",
+  "en": "The Sand Field was turned on!",
+  "it": "Il Campo Sabbia è stato attivato!"
+ },
+ {
+  "id": "Animation Speed",
+  "en": "Animation Speed",
+  "it": "Velocità animazioni"
+ },
+ {
   "id": "Poké Balls",
   "en": "Poké Balls",
   "it": "Poké Ball"
@@ -18390,14 +21470,9 @@
   "it": "Pokédex Nazionale"
  },
  {
-  "id": "Opponent 1's party has more than three Pokémon, which is not allowed",
-  "en": "Opponent 1's party has more than three Pokémon, which is not allowed",
-  "it": "La squadra dell'avversario 1 ha più di tre Pokémon, il che non è consentito"
- },
- {
-  "id": "Opponent 2's party has more than three Pokémon, which is not allowed",
-  "en": "Opponent 2's party has more than three Pokémon, which is not allowed",
-  "it": "La squadra dell'avversario 2 ha più di tre Pokémon, il che non è consentito"
+  "id": "Pokémon Fire Ash was created by:",
+  "en": "Pokémon Fire Ash was created by:",
+  "it": "Pokémon Fire Ash è stato creato da:"
  },
  {
   "id": "Map ID and X and Y coordinates of where the player goes if no Pokémon Center was entered after a loss.",
@@ -18488,6 +21563,26 @@
   "id": "Neither Pokémon can run away!",
   "en": "Neither Pokémon can run away!",
   "it": "Nessuno dei due Pokémon può fuggire!"
+ },
+ {
+  "id": "There needs to be at least 1 burned opposing Pokémon.",
+  "en": "There needs to be at least 1 burned opposing Pokémon.",
+  "it": "Deve esserci almeno 1 Pokémon avversario scottato."
+ },
+ {
+  "id": "There needs to be at least 1 opposing Pokémon with a status condition.",
+  "en": "There needs to be at least 1 opposing Pokémon with a status condition.",
+  "it": "Deve esserci almeno 1 Pokémon avversario con un problema di stato."
+ },
+ {
+  "id": "There needs to be at least 1 opposing Pokémon that has a status condition or is confused or trapped.",
+  "en": "There needs to be at least 1 opposing Pokémon that has a status condition or is confused or trapped.",
+  "it": "Serve almeno 1 Pokémon avversario con un problema di stato, confuso o intrappolato."
+ },
+ {
+  "id": "At least 1 opposing Pokémon needs to have a type debuff applied on it first.",
+  "en": "At least 1 opposing Pokémon needs to have a type debuff applied on it first.",
+  "it": "Prima bisogna applicare un indebolimento di tipo ad almeno 1 Pokémon avversario."
  },
  {
   "id": "{1}'s data was added to the Pokédex.",
@@ -18745,6 +21840,66 @@
   "it": "I Pokémon selvatici verranno attirati."
  },
  {
+  "id": "Head to the Pokémon School on Alola Route 1.",
+  "en": "Head to the Pokémon School on Alola Route 1.",
+  "it": "Vai alla Scuola Pokémon sul Percorso 1 di Alola."
+ },
+ {
+  "id": "Head to the Kalos Pokémon League in Lumiose City.",
+  "en": "Head to the Kalos Pokémon League in Lumiose City.",
+  "it": "Vai alla Lega Pokémon di Kalos a Luminopoli."
+ },
+ {
+  "id": "Head to Oreburgh City's Pokémon Center.",
+  "en": "Head to Oreburgh City's Pokémon Center.",
+  "it": "Vai al Centro Pokémon di Mineropoli."
+ },
+ {
+  "id": "Rino is outside Vermillion City's Pokémon Center.",
+  "en": "Rino is outside Vermillion City's Pokémon Center.",
+  "it": "Rino è fuori dal Centro Pokémon di Aranciopoli."
+ },
+ {
+  "id": "Harry is outside Stow-on-Side's Pokémon Center.",
+  "en": "Harry is outside Stow-on-Side's Pokémon Center.",
+  "it": "Harry è fuori dal Centro Pokémon di Stow-on-Side."
+ },
+ {
+  "id": "Muse is outside Dendemille Town's Pokémon Center.",
+  "en": "Muse is outside Dendemille Town's Pokémon Center.",
+  "it": "Muse è fuori dal Centro Pokémon di Frescovilla."
+ },
+ {
+  "id": "Kate is outside Sootopolis City's Pokémon Center.",
+  "en": "Kate is outside Sootopolis City's Pokémon Center.",
+  "it": "Kate è fuori dal Centro Pokémon di Ceneride."
+ },
+ {
+  "id": "Ariel is outside Floaroma Town's Pokémon Center.",
+  "en": "Ariel is outside Floaroma Town's Pokémon Center.",
+  "it": "Ariel è fuori dal Centro Pokémon di Floraria."
+ },
+ {
+  "id": "Johan is outside Iki Town's Pokémon Center.",
+  "en": "Johan is outside Iki Town's Pokémon Center.",
+  "it": "Johan è fuori dal Centro Pokémon di Lili."
+ },
+ {
+  "id": "Patrick is outside Mistrialton City's Pokémon Center.",
+  "en": "Patrick is outside Mistrialton City's Pokémon Center.",
+  "it": "Patrick è fuori dal Centro Pokémon di Ponentopoli."
+ },
+ {
+  "id": "Kricketina Kylie is in Vermillion City's Pokémon Center.",
+  "en": "Kricketina Kylie is in Vermillion City's Pokémon Center.",
+  "it": "Kricketina Kylie è nel Centro Pokémon di Aranciopoli."
+ },
+ {
+  "id": "Hayden is outside Vermillion City's Pokémon Center.",
+  "en": "Hayden is outside Vermillion City's Pokémon Center.",
+  "it": "Hayden è fuori dal Centro Pokémon di Aranciopoli."
+ },
+ {
   "id": "This can't be used on the fainted Pokémon.",
   "en": "This can't be used on the fainted Pokémon.",
   "it": "Non si può usare su un Pokémon esausto."
@@ -18955,6 +22110,11 @@
   "it": "\\se[PC access]Sistema Memoria Pokémon aperto."
  },
  {
+  "id": "\\se[PC access]\\bOak: Hello \\PN! How would you like to manage your Pokémon?",
+  "en": "\\se[PC access]\\bOak: Hello \\PN! How would you like to manage your Pokémon?",
+  "it": "\\se[PC access]\\bOak: Ciao, \\PN! Come vuoi gestire i tuoi Pokémon?"
+ },
+ {
   "id": "Withdraw Pokémon",
   "en": "Withdraw Pokémon",
   "it": "Preleva Pokémon"
@@ -19028,6 +22188,16 @@
   "id": "Pokédex<r>{1}/{2}<br>",
   "en": "Pokédex<r>{1}/{2}<br>",
   "it": "Pokédex<r>{1}/{2}<br>"
+ },
+ {
+  "id": "\"Pokémon Essentials\" was created by:",
+  "en": "\"Pokémon Essentials\" was created by:",
+  "it": "\"Pokémon Essentials\" è stato creato da:"
+ },
+ {
+  "id": "Pokémon is owned by:",
+  "en": "Pokémon is owned by:",
+  "it": "Pokémon è di proprietà di:"
  },
  {
   "id": "RENTAL POKéMON",
@@ -19228,6 +22398,11 @@
   "id": "Ability of the Pokémon. Overrides the ability index.",
   "en": "Ability of the Pokémon. Overrides the ability index.",
   "it": "Abilità del Pokémon. Ha la precedenza sull'indice abilità."
+ },
+ {
+  "id": "Passive of the Pokémon.",
+  "en": "Passive of the Pokémon.",
+  "it": "Passiva del Pokémon."
  },
  {
   "id": "Item held by the Pokémon.",
@@ -19853,5 +23028,30 @@
   "id": "Unexpected end of file, last trainer not defined with as many Pokémon as expected.\n{1}",
   "en": "Unexpected end of file, last trainer not defined with as many Pokémon as expected.\r\n{1}",
   "it": "Fine del file inattesa, l'ultimo Allenatore non ha tutti i Pokémon previsti.\r\n{1}"
+ },
+ {
+  "id": "All your Pokémon have +{1} {2} when entering a battle.",
+  "en": "All your Pokémon have +{1} {2} when entering a battle.",
+  "it": "Tutti i tuoi Pokémon hanno +{1} {2} quando entrano in lotta."
+ },
+ {
+  "id": "\\\rI'm sorry, but you need at least 5000 Poké Dollars to initiate a wonder trade.",
+  "en": "\\\rI'm sorry, but you need at least 5000 Poké Dollars to initiate a wonder trade.",
+  "it": "\\\rMi dispiace, ma servono almeno 5000 Pokédollari per avviare uno Scambio Prodigioso."
+ },
+ {
+  "id": "\\\rI can't revive a Pokémon using duplicate fossils.",
+  "en": "\\\rI can't revive a Pokémon using duplicate fossils.",
+  "it": "\\\rNon posso rianimare un Pokémon usando due fossili uguali."
+ },
+ {
+  "id": "\\\rI can't revive a Pokémon using two head fossils.",
+  "en": "\\\rI can't revive a Pokémon using two head fossils.",
+  "it": "\\\rNon posso rianimare un Pokémon usando due fossili della testa."
+ },
+ {
+  "id": "\\\rI can't revive a Pokémon using two body fossils.",
+  "en": "\\\rI can't revive a Pokémon using two body fossils.",
+  "it": "\\\rNon posso rianimare un Pokémon usando due fossili del corpo."
  }
 ]

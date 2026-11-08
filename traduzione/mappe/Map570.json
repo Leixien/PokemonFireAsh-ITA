@@ -1,10 +1,5 @@
 [
  {
-  "id": "Café Cabin\\nFreshly Squeezed Milk",
-  "en": "Café Cabin\\nFreshly Squeezed Milk",
-  "it": "Café Cabin\\nLatte appena munto"
- },
- {
   "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
   "en": "\\bYou'll need at least two Pokémon if you want to battle us.",
   "it": "\\bTi servono almeno due Pokémon se vuoi sfidarci."
@@ -18,6 +13,21 @@
   "id": "\\rI caught my Pokémon with Tia.",
   "en": "\\rI caught my Pokémon with Tia.",
   "it": "\\rHo catturato i miei Pokémon insieme a Tia."
+ },
+ {
+  "id": "Café Cabin\\nFreshly Squeezed Milk",
+  "en": "Café Cabin\\nFreshly Squeezed Milk",
+  "it": "Café Cabin\\nLatte appena munto"
+ },
+ {
+  "id": "\\rI just saw an old friend.",
+  "en": "\\rI just saw an old friend.",
+  "it": "\\rHo appena visto una vecchia amica."
+ },
+ {
+  "id": "\\rI hope to see her again one day.",
+  "en": "\\rI hope to see her again one day.",
+  "it": "\\rSpero di rivederla un giorno."
  },
  {
   "id": "\\bPsyduck",
@@ -38,16 +48,6 @@
   "id": "The Psyduck's headaches cleared up. The Psyduck left.",
   "en": "The Psyduck's headaches cleared up. The Psyduck left.",
   "it": "Il mal di testa di Psyduck è passato. Psyduck se n'è andato."
- },
- {
-  "id": "\\rI just saw an old friend.",
-  "en": "\\rI just saw an old friend.",
-  "it": "\\rHo appena visto una vecchia amica."
- },
- {
-  "id": "\\rI hope to see her again one day.",
-  "en": "\\rI hope to see her again one day.",
-  "it": "\\rSpero di rivederla un giorno."
  },
  {
   "id": "\\rPlease accept this.",

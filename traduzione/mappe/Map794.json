@@ -120,6 +120,46 @@
   "it": "\\bSto solo bighellonando in attesa che torni mia moglie. È andata fino a Hoenn."
  },
  {
+  "id": "\\rI appreciate people who love art like you.",
+  "en": "\\rI appreciate people who love art like you.",
+  "it": "\\rApprezzo le persone che amano l'arte come te."
+ },
+ {
+  "id": "\\rIf you bring me a Furfrou, I can help you give it a nice trim.",
+  "en": "\\rIf you bring me a Furfrou, I can help you give it a nice trim.",
+  "it": "\\rSe mi porti un Furfrou, posso aiutarti a fargli una bella toelettatura."
+ },
+ {
+  "id": "\\rThat's a nice Furfrou you have there. Want me to give it a nice trim?",
+  "en": "\\rThat's a nice Furfrou you have there. Want me to give it a nice trim?",
+  "it": "\\rChe bel Furfrou che hai. Vuoi che gli faccia una bella toelettatura?"
+ },
+ {
+  "id": "\\rIf you want to give your Furfrou a nice trim, you know where to find me.",
+  "en": "\\rIf you want to give your Furfrou a nice trim, you know where to find me.",
+  "it": "\\rSe vuoi fare una bella toelettatura al tuo Furfrou, sai dove trovarmi."
+ },
+ {
+  "id": "\\rWhat trim would you like to give Furfrou?\\ch[3,- 1,Normal,Heart,Star,Diamond,Debutante, Matron,Dandy,La Reine,Kabuki,Pharoah]",
+  "en": "\\rWhat trim would you like to give Furfrou?\\ch[3,- 1,Normal,Heart,Star,Diamond,Debutante, Matron,Dandy,La Reine,Kabuki,Pharoah]",
+  "it": "\\rChe taglio vuoi fare a Furfrou?\\ch[3,- 1,Selvatico,Cuore,Stella,Diamante,Signorina, Madame,Gentiluomo,Regina,Kabuki,Faraone]"
+ },
+ {
+  "id": "\\rNice! Let's get started...",
+  "en": "\\rNice! Let's get started...",
+  "it": "\\rPerfetto! Cominciamo..."
+ },
+ {
+  "id": "Snip! Snip! Snip!",
+  "en": "Snip! Snip! Snip!",
+  "it": "Zac! Zac! Zac!"
+ },
+ {
+  "id": "\\r... and done! Your Furfrou has a really nice trim now!",
+  "en": "\\r... and done! Your Furfrou has a really nice trim now!",
+  "it": "\\r... e fatto! Ora il tuo Furfrou ha un taglio davvero splendido!"
+ },
+ {
   "id": "\\bFor helping save Kalos I have an amazing gift for you. A rare Pokémon, Hoopa.",
   "en": "\\bFor helping save Kalos I have an amazing gift for you. A rare Pokémon, Hoopa.",
   "it": "\\bPer aver aiutato a salvare Kalos ho uno splendido regalo per te. Un Pokémon raro, Hoopa."
@@ -130,9 +170,9 @@
   "it": "\\bPer aver aiutato a salvare Kalos ho uno splendido regalo per te. Un Pokémon raro, Diancie."
  },
  {
-  "id": "\\bWorkers only.",
-  "en": "\\bWorkers only.",
-  "it": "\\bRiservato al personale."
+  "id": "\\rWorkers only.",
+  "en": "\\rWorkers only.",
+  "it": "\\rRiservato al personale."
  },
  {
   "id": "It's a painting of a person and Pokémon.",

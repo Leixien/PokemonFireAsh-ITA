@@ -75,9 +75,9 @@
   "it": "La scottatura riduce la potenza d'attacco e fa perdere PS a ogni turno."
  },
  {
-  "id": "A burn remains after battle. Use Bun Heal to cure a burn.",
-  "en": "A burn remains after battle. Use Bun Heal to cure a burn.",
-  "it": "La scottatura resta anche dopo la lotta. Usa un Antiscottatura per curarla."
+  "id": "A burn remains after battle. Use a Burn Heal to cure burns.",
+  "en": "A burn remains after battle. Use a Burn Heal to cure burns.",
+  "it": "La scottatura rimane anche dopo la lotta. Usa un Antiscottatura per curarla."
  },
  {
   "id": "When poisoned, a Pokémon's health steadily drops.",
@@ -85,8 +85,8 @@
   "it": "Quando è avvelenato, la salute di un Pokémon cala costantemente."
  },
  {
-  "id": "Poison lingers after battles. Use an Antidote to cure poison!",
-  "en": "Poison lingers after battles. Use an Antidote to cure poison!",
+  "id": "Poison lingers after battles. Use an Antidote to cure the poison!",
+  "en": "Poison lingers after battles. Use an Antidote to cure the poison!",
   "it": "L'avvelenamento persiste dopo la lotta. Usa un Antidoto per curarlo!"
  },
  {
@@ -115,9 +115,9 @@
   "it": "Usa un Antigelo per scongelare il Pokémon sofferente."
  },
  {
-  "id": "When confused, a Pokémon's may attack itself.",
-  "en": "When confused, a Pokémon's may attack itself. ",
-  "it": "Quando è confuso, un Pokémon può colpire se stesso."
+  "id": "When confused, a Pokémon may attack itself.",
+  "en": "When confused, a Pokémon may attack itself. ",
+  "it": "Quando è confuso, un Pokémon può colpire se stesso. "
  },
  {
   "id": "Confusion does not last if recalled though.",

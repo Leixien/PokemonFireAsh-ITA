@@ -1,13 +1,23 @@
 [
  {
+  "id": "\\rHave you been to the park?",
+  "en": "\\rHave you been to the park?",
+  "it": "\\rSei già stato al parco?"
+ },
+ {
   "id": "\\rKrabby.",
   "en": "\\rKrabby.",
   "it": "\\rKrabby."
  },
  {
-  "id": "\\rHave you been to the park?",
-  "en": "\\rHave you been to the park?",
-  "it": "\\rSei già stato al parco?"
+  "id": "\\bThere are many rare Pokémon on these islands.",
+  "en": "\\bThere are many rare Pokémon on these islands.",
+  "it": "\\bSu queste isole ci sono tanti Pokémon rari."
+ },
+ {
+  "id": "\\rSnorr...",
+  "en": "\\rSnorr...",
+  "it": "\\rRonf..."
  },
  {
   "id": "\\bTracey: Leave that poor Lapras alone!",
@@ -25,19 +35,9 @@
   "it": "\\bNon ti intralcerò. Abbi cura di te."
  },
  {
-  "id": "\\rSnorr...",
-  "en": "\\rSnorr...",
-  "it": "\\rRonf..."
- },
- {
-  "id": "\\bThere are many rare Pokémon on these islands.",
-  "en": "\\bThere are many rare Pokémon on these islands.",
-  "it": "\\bSu queste isole ci sono tanti Pokémon rari."
- },
- {
-  "id": "\\rWelcome to the Pokémon Park! Here you can walk around and interact with some Pokémon.",
-  "en": "\\rWelcome to the Pokémon Park! Here you can walk around and interact with some Pokémon.",
-  "it": "\\rBenvenuto al Parco Pokémon! Qui puoi passeggiare e interagire con alcuni Pokémon."
+  "id": "\\bDespite how peaceful it looks, we sometimes get severe storms here.",
+  "en": "\\bDespite how peaceful it looks, we sometimes get severe storms here. ",
+  "it": "\\bAnche se sembra un posto tranquillo, a volte qui arrivano tempeste violente."
  },
  {
   "id": "\\rPid",
@@ -45,19 +45,9 @@
   "it": "\\rPid"
  },
  {
-  "id": "\\bDespite how peaceful it looks, we sometimes get severe storms here.",
-  "en": "\\bDespite how peaceful it looks, we sometimes get severe storms here. ",
-  "it": "\\bAnche se sembra un posto tranquillo, a volte qui arrivano tempeste violente."
- },
- {
-  "id": "\\bArcan!",
-  "en": "\\bArcan!",
-  "it": "\\bArcan!"
- },
- {
-  "id": "\\bButterfree.",
-  "en": "\\bButterfree.",
-  "it": "\\bButterfree."
+  "id": "\\rWelcome to the Pokémon Park! Here you can walk around and interact with some Pokémon.",
+  "en": "\\rWelcome to the Pokémon Park! Here you can walk around and interact with some Pokémon.",
+  "it": "\\rBenvenuto al Parco Pokémon! Qui puoi passeggiare e interagire con alcuni Pokémon."
  },
  {
   "id": "Lapras seems to trust you a bit.",
@@ -70,19 +60,19 @@
   "it": "Vuoi portare Lapras con te?"
  },
  {
+  "id": "\\bButterfree.",
+  "en": "\\bButterfree.",
+  "it": "\\bButterfree."
+ },
+ {
+  "id": "\\bArcan!",
+  "en": "\\bArcan!",
+  "it": "\\bArcan!"
+ },
+ {
   "id": "\\bSlow...",
   "en": "\\bSlow...",
   "it": "\\bSlow..."
- },
- {
-  "id": "\\bWeepinbell",
-  "en": "\\bWeepinbell",
-  "it": "\\bWeepinbell"
- },
- {
-  "id": "\\bTaur!",
-  "en": "\\bTaur!",
-  "it": "\\bTaur!"
  },
  {
   "id": "\\bHey leave us alone.",
@@ -100,14 +90,14 @@
   "it": "\\bVogliamo solo usare quel Pokémon."
  },
  {
-  "id": "Pokémon Park",
-  "en": "Pokémon Park",
-  "it": "Parco Pokémon"
+  "id": "\\bTaur!",
+  "en": "\\bTaur!",
+  "it": "\\bTaur!"
  },
  {
-  "id": "\\bDoduo!",
-  "en": "\\bDoduo!",
-  "it": "\\bDoduo!"
+  "id": "\\bWeepinbell",
+  "en": "\\bWeepinbell",
+  "it": "\\bWeepinbell"
  },
  {
   "id": "\\rI'm taking a break.",
@@ -115,29 +105,14 @@
   "it": "\\rSto facendo una pausa."
  },
  {
-  "id": "\\bArbok",
-  "en": "\\bArbok",
-  "it": "\\bArbok"
+  "id": "\\bDoduo!",
+  "en": "\\bDoduo!",
+  "it": "\\bDoduo!"
  },
  {
-  "id": "\\rI love coming here.",
-  "en": "\\rI love coming here.",
-  "it": "\\rAdoro venire qui."
- },
- {
-  "id": "\\bThis is our prey.",
-  "en": "\\bThis is our prey.",
-  "it": "\\bQuesta è la nostra preda."
- },
- {
-  "id": "Whatever.",
-  "en": "Whatever.",
-  "it": "Come ti pare."
- },
- {
-  "id": "\\bWe don't have any other way to travel the islands.",
-  "en": "\\bWe don't have any other way to travel the islands.",
-  "it": "\\bNon abbiamo altri modi per spostarci tra le isole."
+  "id": "Pokémon Park",
+  "en": "Pokémon Park",
+  "it": "Parco Pokémon"
  },
  {
   "id": "\\bWelcome to the Lapras Launch. Where would you like to go?\\ch[1,-1,Valencia,Mikan,Exit]",
@@ -175,9 +150,29 @@
   "it": "\\bBenvenuto al Traghetto Lapras. Dove vuoi andare?\\ch[1,-1,Valencia,Mikan,Navel,Sette Grapefruit,Trovita,Ascorbia,Kumquat,Pummelo,Esci]"
  },
  {
-  "id": "\\bPika!",
-  "en": "\\bPika!",
-  "it": "\\bPika!"
+  "id": "\\bThis is our prey.",
+  "en": "\\bThis is our prey.",
+  "it": "\\bQuesta è la nostra preda."
+ },
+ {
+  "id": "Whatever.",
+  "en": "Whatever.",
+  "it": "Come ti pare."
+ },
+ {
+  "id": "\\bWe don't have any other way to travel the islands.",
+  "en": "\\bWe don't have any other way to travel the islands.",
+  "it": "\\bNon abbiamo altri modi per spostarci tra le isole."
+ },
+ {
+  "id": "\\rI love coming here.",
+  "en": "\\rI love coming here.",
+  "it": "\\rAdoro venire qui."
+ },
+ {
+  "id": "\\bArbok",
+  "en": "\\bArbok",
+  "it": "\\bArbok"
  },
  {
   "id": "\\bWow! You're from Kanto?",
@@ -190,9 +185,9 @@
   "it": "\\bHo sempre desiderato andarci!"
  },
  {
-  "id": "\\bEvery time I come I see something new.",
-  "en": "\\bEvery time I come I see something new.",
-  "it": "\\bOgni volta che vengo qui scopro qualcosa di nuovo."
+  "id": "\\bPika!",
+  "en": "\\bPika!",
+  "it": "\\bPika!"
  },
  {
   "id": "\\bThis is our Lapras!",
@@ -208,6 +203,11 @@
   "id": "\\bFine it's yours.",
   "en": "\\bFine it's yours.",
   "it": "\\bE va bene, è tuo."
+ },
+ {
+  "id": "\\bEvery time I come I see something new.",
+  "en": "\\bEvery time I come I see something new.",
+  "it": "\\bOgni volta che vengo qui scopro qualcosa di nuovo."
  },
  {
   "id": "Yes",

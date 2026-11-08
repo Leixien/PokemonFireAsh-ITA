@@ -60,14 +60,14 @@
   "it": "\\bNon sto trovando granché. Tu hai preso qualcosa?"
  },
  {
-  "id": "\\bThat was a fun race to watch.",
-  "en": "\\bThat was a fun race to watch.",
-  "it": "\\bÈ stata una corsa divertente da guardare."
- },
- {
   "id": "There are no apricorns.",
   "en": "There are no apricorns.",
   "it": "Non ci sono Ghicocche."
+ },
+ {
+  "id": "\\bThat was a fun race to watch.",
+  "en": "\\bThat was a fun race to watch.",
+  "it": "\\bÈ stata una corsa divertente da guardare."
  },
  {
   "id": "\\bI fished up something nice earlier. It's right beside me.",

@@ -20,14 +20,14 @@
   "it": "\\bGrazie al tuo aiuto le mie strategie di lotta migliorano sempre di più. La prossima volta che ci incontriamo non sarò così facile da battere."
  },
  {
-  "id": "\\bHow did you get here? Cheater.",
-  "en": "\\bHow did you get here? Cheater.",
-  "it": "\\bCome sei arrivato qui? Imbroglione."
- },
- {
   "id": "\\rFoon",
   "en": "\\rFoon",
   "it": "\\rFoon"
+ },
+ {
+  "id": "\\bHow did you get here? Cheater.",
+  "en": "\\bHow did you get here? Cheater.",
+  "it": "\\bCome sei arrivato qui? Imbroglione."
  },
  {
   "id": "\\bAlain: I'm trying to figure something out. Don't bother me right now.",
@@ -60,14 +60,14 @@
   "it": "\\rNon sprecarla su un tipo Acqua."
  },
  {
-  "id": "Couriway Town\\nA town connecting differences.",
-  "en": "Couriway Town\\nA town connecting differences.",
-  "it": "Ponte Mosaico\\nUna città che unisce le differenze."
- },
- {
   "id": "\\bFeebas",
   "en": "\\bFeebas",
   "it": "\\bFeebas"
+ },
+ {
+  "id": "Couriway Town\\nA town connecting differences.",
+  "en": "Couriway Town\\nA town connecting differences.",
+  "it": "Ponte Mosaico\\nUna città che unisce le differenze."
  },
  {
   "id": "\\rDo you like Water types?",
@@ -80,14 +80,14 @@
   "it": "\\rNon sprecarla su un tipo Fuoco."
  },
  {
-  "id": "\\bI have no idea what our town slogan means.",
-  "en": "\\bI have no idea what our town slogan means.",
-  "it": "\\bNon ho idea di cosa significhi il motto della nostra città."
- },
- {
   "id": "\\bTeddi",
   "en": "\\bTeddi",
   "it": "\\bTeddi"
+ },
+ {
+  "id": "\\bI have no idea what our town slogan means.",
+  "en": "\\bI have no idea what our town slogan means.",
+  "it": "\\bNon ho idea di cosa significhi il motto della nostra città."
  },
  {
   "id": "\\rThis town is so peaceful. I hope it always stays like this.",

@@ -28,6 +28,9 @@ REGOLE = [
     (r"Royal Avenue", r"Viale (Reale|Royal)\b", "Viale Royale"),
     (r"Poni Breaker Coast", r"Costa (Frangente|Frangiflutti) di Poni", "Scogliera di Poni"),
     (r"Melemele", r"Melemele", "Mele Mele"),
+    (r"Postwick", r"\bSteccaia\b", "Postwick"),
+    (r"Titan", r"Sfida (TITANO|Titano|Titan)\b", "Sfida dei Titani"),  # Titan Challenge (3.7)
+    (r"Bug.?Catching Contest", r"Gara di Cattura Insetti", "Gara Pigliamosche"),  # luoghi di Galar lasciati in inglese
     (r"Masked Royal", r"Royal Mascherato", "Reale Mascherato"),
     # anime / WCS
     (r"World Coronation Series", r"(Serie Mondiale dell'Incoronazione( Pokémon)?|Campionato Mondiale)",
@@ -40,6 +43,22 @@ REGOLE = [
     (r"\bBea\b", r"\bFania\b", "Fabia"),
     (r"\bOpal\b", r"\bOpal\b", "Poppy"),
     (r"Wikstrom", r"\bWikstrom\b", "Narciso"),
+    (r"\bRamos\b", r"\bRamos\b", "Amur"),
+    (r"\bDrasna\b", r"\bDrasna\b", "Lila"),
+    (r"\bBonnie\b", r"\bBonnie\b", "Clem"),
+    (r"\bBede\b", r"\bBede\b", "Beet"),
+    (r"\bRiley\b", r"\bMarzio\b", "Marisio"),      # Riley (Sinnoh) = Marisio
+    (r"\bMarshal\b", r"\bMarshal\b", "Marzio"),    # Marshal (Unima) = Marzio
+    (r"Sync Challenge", r"Sfida Sincro", "Sfida Sync"),
+    # sfide del Grandeur Club (3.7)
+    (r"Titan Challenge", r"Sfida Titani\b", "Sfida dei Titani"),
+    (r"Practice Challenge", r"Practice Challenge", "Sfida Allenamento"),
+    (r"Gauntlet Challenge", r"Gauntlet Challenge", "Sfida Resistenza"),
+    (r"Mayhem Challenge", r"Mayhem Challenge", "Sfida Caos"),
+    (r"Club Challenge", r"Club Challenge", "Sfida Club"),
+    (r"Duet Challenge", r"Duet Challenge", "Sfida Duetto"),
+    (r"Sync Challenge", r"Sync Challenge", "Sfida Sync"),
+    (r"Titan Challenge", r"Titan Challenge", "Sfida dei Titani"),
     # Unima: Cilan = Spighetto, Chili = Chicco, Cress = Maisello
     (r"\bChili\b(?!.*\bCress\b)", r"\bMaisello\b", "Chicco"),
     (r"\bCress\b(?!.*\bChili\b)", r"\bChicco\b", "Maisello"),

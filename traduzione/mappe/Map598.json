@@ -80,23 +80,23 @@
   "it": "\\rSpero che tu abbia successo!"
  },
  {
-  "id": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Cancel]",
-  "en": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Cancel]",
+  "id": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Cancel]",
+  "en": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Cancel]",
   "it": "\\rIl mio Chansey può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Cuoripoli, Flemminia,Rupepoli,Annulla]"
  },
  {
-  "id": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Canalave,Cancel]",
-  "en": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Canalave,Cancel]",
+  "id": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Canalave,Cancel]",
+  "en": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Canalave,Cancel]",
   "it": "\\rIl mio Chansey può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Cuoripoli, Flemminia,Rupepoli,Canalipoli,Annulla]"
  },
  {
-  "id": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Canalave,Snowpoint,Cancel]",
-  "en": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Solaceon,Veilstone,Canalave,Snowpoint,Cancel]",
+  "id": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Canalave,Snowpoint,Cancel]",
+  "en": "\\rMy Chansey can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Solaceon,Veilstone,Canalave,Snowpoint,Cancel]",
   "it": "\\rIl mio Chansey può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Cuoripoli, Flemminia,Rupepoli,Canalipoli,Nevepoli,Annulla]"
  },
  {
-  "id": "\\rChansey can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Canalave,Snowpoint,Sunnyshore,Cancel]",
-  "en": "\\rChansey can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Canalave,Snowpoint,Sunnyshore,Cancel]",
+  "id": "\\rChansey can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Canalave,Snowpoint,Sunnyshore,Cancel]",
+  "en": "\\rChansey can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Canalave,Snowpoint,Sunnyshore,Cancel]",
   "it": "\\rChansey può teletrasportarti.\\ch[1,-1,Sabbiafine,Giubilopoli, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Canalipoli,Nevepoli,Arenipoli,Annulla]"
  },
  {

@@ -20,14 +20,24 @@
   "it": "\\rBeh, riprova. La prudenza non è mai troppa."
  },
  {
-  "id": "\\bFantina uses Ghost type Pokémon. They are weak aganst the Dark and Ghost types.",
-  "en": "\\bFantina uses Ghost type Pokémon. They are weak aganst the Dark and Ghost types.",
+  "id": "\\bFantina uses Ghost type Pokémon. They are weak against the Dark and Ghost types.",
+  "en": "\\bFantina uses Ghost type Pokémon. They are weak against the Dark and Ghost types.",
   "it": "\\bFannie usa Pokémon di tipo Spettro. Sono deboli contro i tipi Buio e Spettro."
  },
  {
   "id": "\\bThey are strong against Ghost and Psychic. They are resistant to Bug and Poison and are immune to Normal and Fighting types.",
   "en": "\\bThey are strong against Ghost and Psychic. They are resistant to Bug and Poison and are immune to Normal and Fighting types. ",
   "it": "\\bSono superefficaci contro Spettro e Psico. Resistono a Coleottero e Veleno e sono immuni ai tipi Normale e Lotta. "
+ },
+ {
+  "id": "\\bTah dah. You picked wrong.",
+  "en": "\\bTah dah. You picked wrong.",
+  "it": "\\bTa-dah. Hai sbagliato porta."
+ },
+ {
+  "id": "\\bThe road to victory is hard.",
+  "en": "\\bThe road to victory is hard.",
+  "it": "\\bLa strada verso la vittoria è dura."
  },
  {
   "id": "\\rFantina: Ohohoho!! Finally, you have arrived!",
@@ -63,16 +73,6 @@
   "id": "\\rFantina: I look forward to seeing you soar through the competition. Don't let me down.",
   "en": "\\rFantina: I look forward to seeing you soar through the competition. Don't let me down.",
   "it": "\\rFannie: Non vedo l'ora di vederti volare sopra la concorrenza. Non deludermi."
- },
- {
-  "id": "\\bTah dah. You picked wrong.",
-  "en": "\\bTah dah. You picked wrong.",
-  "it": "\\bTa-dah. Hai sbagliato porta."
- },
- {
-  "id": "\\bThe road to victory is hard.",
-  "en": "\\bThe road to victory is hard.",
-  "it": "\\bLa strada verso la vittoria è dura."
  },
  {
   "id": "\\bFantina is in one of these rooms. Choose wrong and you will face a Trainer instead.",

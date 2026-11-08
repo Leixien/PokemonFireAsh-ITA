@@ -1,10 +1,5 @@
 [
  {
-  "id": "\\bI've always wanted a Comfey.",
-  "en": "\\bI've always wanted a Comfey.",
-  "it": "\\bHo sempre desiderato un Comfey."
- },
- {
   "id": "\\rComfey",
   "en": "\\rComfey",
   "it": "\\rComfey"
@@ -98,6 +93,11 @@
   "id": "\\bI don't want it back.",
   "en": "\\bI don't want it back.",
   "it": "\\bNon lo rivoglio indietro."
+ },
+ {
+  "id": "\\bI've always wanted a Comfey.",
+  "en": "\\bI've always wanted a Comfey.",
+  "it": "\\bHo sempre desiderato un Comfey."
  },
  {
   "id": "\\rBlissey",

@@ -1,8 +1,8 @@
 [
  {
-  "id": "\\rChansey",
-  "en": "\\rChansey",
-  "it": "\\rChansey"
+  "id": "\\bCongratulations on winning your fourth match. \\nDue to winning all four of your matches, your next battle will be on the Indigo stage.",
+  "en": "\\bCongratulations on winning your fourth match. \\nDue to winning all four of your matches, your next battle will be on the Indigo stage.",
+  "it": "\\bCongratulazioni per aver vinto il tuo quarto incontro. \\nAvendo vinto tutti e quattro gli incontri, la tua prossima lotta sarà sullo stadio Indaco."
  },
  {
   "id": "\\rThere are four stages you could start on. They could be Grass, Water, Rock, or Ice. You have to complete them all to move on.",
@@ -10,9 +10,9 @@
   "it": "\\rCi sono quattro campi da cui potresti cominciare: Erba, Acqua, Roccia o Ghiaccio. Devi completarli tutti per andare avanti."
  },
  {
-  "id": "\\rI'm gonna win!",
-  "en": "\\rI'm gonna win!",
-  "it": "\\rVincerò io!"
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
  },
  {
   "id": "\\bThis is the Water stage.",
@@ -30,14 +30,14 @@
   "it": "\\bDa questa parte, prego."
  },
  {
+  "id": "\\rI'm gonna win!",
+  "en": "\\rI'm gonna win!",
+  "it": "\\rVincerò io!"
+ },
+ {
   "id": "\\bI hope I start on the Ice stage.",
   "en": "\\bI hope I start on the Ice stage.",
   "it": "\\bSpero di cominciare dal campo Ghiaccio."
- },
- {
-  "id": "\\rMy team is perfect. I'm gonna be the Champion.",
-  "en": "\\rMy team is perfect. I'm gonna be the Champion.",
-  "it": "\\rLa mia squadra è perfetta. Diventerò Campionessa."
  },
  {
   "id": "\\bThis is the Grass stage.",
@@ -50,14 +50,14 @@
   "it": "\\bLo stiamo allestendo proprio ora. Torna tra qualche minuto."
  },
  {
+  "id": "\\rMy team is perfect. I'm gonna be the Champion.",
+  "en": "\\rMy team is perfect. I'm gonna be the Champion.",
+  "it": "\\rLa mia squadra è perfetta. Diventerò Campionessa."
+ },
+ {
   "id": "\\rAs long as I don't go up against a Psychic I'm gonna ace it.",
   "en": "\\rAs long as I don't go up against a Psychic I'm gonna ace it.",
   "it": "\\rFinché non mi capita un tipo Psico, sarà una passeggiata."
- },
- {
-  "id": "\\rCubone!",
-  "en": "\\rCubone!",
-  "it": "\\rCubone!"
  },
  {
   "id": "\\rHello. Here you can register for the Indigo League.",
@@ -90,9 +90,24 @@
   "it": "\\rTi sei già iscritto."
  },
  {
-  "id": "\\rI've been waiting all year for this!",
-  "en": "\\rI've been waiting all year for this!",
-  "it": "\\rHo aspettato questo momento tutto l'anno!"
+  "id": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Indigo League? It might be too easy for you...",
+  "en": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Indigo League? It might be too easy for you...",
+  "it": "\\rOh cielo, ma quello è il Monarca \\PN? Sei sicuro di volerti iscrivere alla Lega Indaco? Potrebbe essere troppo facile per te..."
+ },
+ {
+  "id": "\\rOk then... well, we've changed the format a little bit, being that for the preliminaries, you can do each stage in any order you'd like.",
+  "en": "\\rOk then... well, we've changed the format a little bit, being that for the preliminaries, you can do each stage in any order you'd like.",
+  "it": "\\rBene allora... abbiamo cambiato un po' il formato: per le eliminatorie puoi affrontare le varie fasi nell'ordine che preferisci."
+ },
+ {
+  "id": "\\rGood luck! Though you probably won't need it...",
+  "en": "\\rGood luck! Though you probably won't need it...",
+  "it": "\\rBuona fortuna! Anche se probabilmente non ti servirà..."
+ },
+ {
+  "id": "\\rCubone!",
+  "en": "\\rCubone!",
+  "it": "\\rCubone!"
  },
  {
   "id": "\\bThis is the Indigo stadium.",
@@ -100,9 +115,9 @@
   "it": "\\bQuesto è lo stadio Indaco."
  },
  {
-  "id": "\\bCommon Slowpoke, get serious!",
-  "en": "\\bCommon Slowpoke, get serious!",
-  "it": "\\bAndiamo, Slowpoke, fai sul serio!"
+  "id": "\\rI've been waiting all year for this!",
+  "en": "\\rI've been waiting all year for this!",
+  "it": "\\rHo aspettato questo momento tutto l'anno!"
  },
  {
   "id": "\\bForget about the battles. Do you see everything they are selling here?",
@@ -110,14 +125,19 @@
   "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
  },
  {
-  "id": "\\bI am so ready!",
-  "en": "\\bI am so ready!",
-  "it": "\\bSono prontissimo!"
+  "id": "\\bCommon Slowpoke, get serious!",
+  "en": "\\bCommon Slowpoke, get serious!",
+  "it": "\\bAndiamo, Slowpoke, fai sul serio!"
  },
  {
   "id": "\\bThis is the Rock stage.",
   "en": "\\bThis is the Rock stage.",
   "it": "\\bQuesto è il campo Roccia."
+ },
+ {
+  "id": "\\bI am so ready!",
+  "en": "\\bI am so ready!",
+  "it": "\\bSono prontissimo!"
  },
  {
   "id": "\\rHello, and welcome to the Pokémon Center.",
@@ -190,14 +210,14 @@
   "it": "\\bSlo.."
  },
  {
-  "id": "\\bI'm gonna win!",
-  "en": "\\bI'm gonna win!",
-  "it": "\\bVincerò io!"
- },
- {
   "id": "\\bThis is the Ice stage.",
   "en": "\\bThis is the Ice stage.",
   "it": "\\bQuesto è il campo Ghiaccio."
+ },
+ {
+  "id": "\\bI'm gonna win!",
+  "en": "\\bI'm gonna win!",
+  "it": "\\bVincerò io!"
  },
  {
   "id": "Yes",

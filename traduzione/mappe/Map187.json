@@ -10,9 +10,9 @@
   "it": "\\bGoh: Ho trovato i fossili. Cara Liss è riuscita a rianimarne alcuni. Immagino che vorrai vederli."
  },
  {
-  "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Johan, located in Iki Town, is ready for battle.",
-  "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Johan, located in Iki Town, is ready for battle.",
-  "it": "Smart Rotom: Annuncio. Trovato un nuovo avversario per la World Coronation Series. Johan, che si trova a Lili, è pronto a lottare."
+  "id": "Rotom Phone: Announcement. New opponent found for the World Coronation Series. Johan, located in Iki Town, is ready for battle.",
+  "en": "Rotom Phone: Announcement. New opponent found for the World Coronation Series. Johan, located in Iki Town, is ready for battle.",
+  "it": "Smart Rotom: Annuncio. Nuovo avversario trovato per le World Coronation Series. Johan, a Lili, è pronto a lottare."
  },
  {
   "id": "\\bGoh: I think that's everything here. I'm going back to the lab.",
@@ -45,6 +45,11 @@
   "it": "\\bTorna se cambi idea."
  },
  {
+  "id": "\\bPlease talk to my female colleague if you have fossils of these ancient Pokémon.",
+  "en": "\\bPlease talk to my female colleague if you have fossils of these ancient Pokémon.",
+  "it": "\\bSe hai fossili di questi Pokémon antichi, parla con la mia collega."
+ },
+ {
   "id": "\\rI'm working on finding Galar fossils to bring back to life.",
   "en": "\\rI'm working on finding Galar fossils to bring back to life.",
   "it": "\\rSto cercando fossili di Galar da riportare in vita."
@@ -65,9 +70,54 @@
   "it": "\\rD'accordo."
  },
  {
-  "id": "\\rTake to my assistant if you want to take any we no longer need.",
-  "en": "\\rTake to my assistant if you want to take any we no longer need.",
+  "id": "\\rTalk to my assistant if you want to take any we no longer need.",
+  "en": "\\rTalk to my assistant if you want to take any we no longer need.",
   "it": "\\rParla con il mio assistente se vuoi prendere quelli che non ci servono più."
+ },
+ {
+  "id": "\\rWait, are those some Galar fossils you have for me?",
+  "en": "\\rWait, are those some Galar fossils you have for me?",
+  "it": "\\rAspetta, sono fossili di Galar quelli che hai per me?"
+ },
+ {
+  "id": "\\rWould you like me to revive them for you?",
+  "en": "\\rWould you like me to revive them for you?",
+  "it": "\\rVuoi che li riporti in vita per te?"
+ },
+ {
+  "id": "\\rThat's alright. Come back again if you'd like some fossils revived.",
+  "en": "\\rThat's alright. Come back again if you'd like some fossils revived.",
+  "it": "\\rNessun problema. Torna pure se vorrai far rianimare dei fossili."
+ },
+ {
+  "id": "\\rNice! Let's see what Pokémon we get from these two fossils...",
+  "en": "\\rNice! Let's see what Pokémon we get from these two fossils...",
+  "it": "\\rOttimo! Vediamo che Pokémon otteniamo da questi due fossili..."
+ },
+ {
+  "id": "\\rLooks like you've got a \\v[9]!",
+  "en": "\\rLooks like you've got a \\v[9]!",
+  "it": "\\rSembra che tu abbia ottenuto un \\v[9]!"
+ },
+ {
+  "id": "\\rCome back again if you'd like some fossils revived!",
+  "en": "\\rCome back again if you'd like some fossils revived!",
+  "it": "\\rTorna pure se vorrai far rianimare dei fossili!"
+ },
+ {
+  "id": "\\rYour pc has no room left. Make room, then come see me.",
+  "en": "\\rYour pc has no room left. Make room, then come see me.",
+  "it": "\\rNel tuo PC non c'è più spazio. Fai spazio, poi torna da me."
+ },
+ {
+  "id": "\\rCome back again if you'd like some fossils revived.",
+  "en": "\\rCome back again if you'd like some fossils revived.",
+  "it": "\\rTorna pure se vorrai far rianimare dei fossili."
+ },
+ {
+  "id": "\\rHere's your fossil Pokémon!",
+  "en": "\\rHere's your fossil Pokémon!",
+  "it": "\\rEcco il tuo Pokémon fossile!"
  },
  {
   "id": "\\bGoh: \\PN! You won't believe it. I caught my first Pokémon.",

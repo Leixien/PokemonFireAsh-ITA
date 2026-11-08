@@ -5,11 +5,6 @@
   "it": "\\bHawlucha"
  },
  {
-  "id": "\\bThis area used to be a meadow.",
-  "en": "\\bThis area used to be a meadow.",
-  "it": "\\bUna volta questa zona era un prato."
- },
- {
   "id": "\\bThis is the perfect counter to the Masked Royal.",
   "en": "\\bThis is the perfect counter to the Masked Royal.",
   "it": "\\bQuesto è il contrattacco perfetto contro il Reale Mascherato."
@@ -20,14 +15,14 @@
   "it": "\\bStraccialo."
  },
  {
+  "id": "\\bThis area used to be a meadow.",
+  "en": "\\bThis area used to be a meadow.",
+  "it": "\\bUna volta questa zona era un prato."
+ },
+ {
   "id": "Royal Avenue\\nThe holy ground for Battle Royal enthusiasts.",
   "en": "Royal Avenue\\nThe holy ground for Battle Royal enthusiasts.",
   "it": "Viale Royale\\nLa terra sacra per gli appassionati di Battle Royal."
- },
- {
-  "id": "\\rI came to watch the Masked Royal. I can't get enough of him.",
-  "en": "\\rI came to watch the Masked Royal. I can't get enough of him.",
-  "it": "\\rSono venuta a vedere il Reale Mascherato. Non mi stanco mai di lui."
  },
  {
   "id": "\\bThis isn't cutting the tree like I thought. You can take it.",
@@ -40,9 +35,9 @@
   "it": "\\bMe la caverò da solo."
  },
  {
-  "id": "Battle Royal Dome",
-  "en": "Battle Royal Dome",
-  "it": "Stadio Royale"
+  "id": "\\rI came to watch the Masked Royal. I can't get enough of him.",
+  "en": "\\rI came to watch the Masked Royal. I can't get enough of him.",
+  "it": "\\rSono venuta a vedere il Reale Mascherato. Non mi stanco mai di lui."
  },
  {
   "id": "\\bThe Masked Royal uses this. I want to be like him, but I'm not a Trainer. Maybe you can use it better.",
@@ -55,9 +50,9 @@
   "it": "\\bRendimi orgoglioso."
  },
  {
-  "id": "\\bI wish I could get strong enough to enter one of those battles.",
-  "en": "\\bI wish I could get strong enough to enter one of those battles.",
-  "it": "\\bVorrei diventare abbastanza forte da partecipare a una di quelle lotte."
+  "id": "Battle Royal Dome",
+  "en": "Battle Royal Dome",
+  "it": "Stadio Royale"
  },
  {
   "id": "Rotom Phone: Incoming call from Oak:",
@@ -68,6 +63,11 @@
   "id": "\\bOak: \\PN, good to hear from you. I know how busy you are, but I'd like you to stop by the lab. There's something important waiting for you here.",
   "en": "\\bOak: \\PN, good to hear from you. I know how busy you are, but I'd like you to stop by the lab. There's something important waiting for you here.",
   "it": "\\bOak: \\PN, che piacere sentirti. So quanto sei impegnato, ma vorrei che passassi al laboratorio. C'è qualcosa di importante che ti aspetta qui."
+ },
+ {
+  "id": "\\bI wish I could get strong enough to enter one of those battles.",
+  "en": "\\bI wish I could get strong enough to enter one of those battles.",
+  "it": "\\bVorrei diventare abbastanza forte da partecipare a una di quelle lotte."
  },
  {
   "id": "Game Corner\\nThe playground for grown-ups!",

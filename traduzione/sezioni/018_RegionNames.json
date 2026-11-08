@@ -41,6 +41,11 @@
  },
  {
   "id": 8,
+  "en": "Hisui",
+  "it": "Hisui"
+ },
+ {
+  "id": 9,
   "en": "Unknown",
   "it": "Sconosciuto"
  }

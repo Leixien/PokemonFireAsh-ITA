@@ -5,9 +5,9 @@
   "it": "\\bNe ho uno raro. Devo assolutamente mostrarlo a qualcuno."
  },
  {
-  "id": "\\bOh, you've traveled the world... So I guess you've seen it before.",
-  "en": "\\bOh, you've traveled the world... So I guess you've seen it before.",
-  "it": "\\bOh, hai girato il mondo... Quindi immagino tu l'abbia già visto."
+  "id": "\\bOh you've traveled the world... So I guess you've seen it before.",
+  "en": "\\bOh you've traveled the world... So I guess you've seen it before.",
+  "it": "\\bOh, hai viaggiato per il mondo... Allora immagino che tu l'abbia già visto."
  },
  {
   "id": "\\bI need a break.",
@@ -30,14 +30,14 @@
   "it": "\\rAcerola: Hai superato la prova! Grandioso."
  },
  {
-  "id": "\\rWait, this one didn't give you a reward? Uncle always was bad at planning these things out. I guess I can give you one.",
-  "en": "\\rWait, this one didn't give you a reward? Uncle always was bad at planning these things out. I guess I can give you one.",
-  "it": "\\rAspetta, questa non ti ha dato una ricompensa? Lo zio non è mai stato bravo a organizzare queste cose. Te ne darò una io."
+  "id": "\\rWait this one didn't give you a reward? Uncle always was bad at planning these things out. I guess I can give you one.",
+  "en": "\\rWait this one didn't give you a reward? Uncle always was bad at planning these things out. I guess I can give you one.",
+  "it": "\\rAspetta, questa non ti ha dato una ricompensa? Lo zio è sempre stato negato a organizzare queste cose. Te ne darò una io."
  },
  {
-  "id": "\\rTM128 contains Play Rough. It has a chance to lower the opponent's attack.",
-  "en": "\\rTM128 contains Play Rough. It has a chance to lower the opponent's attack.",
-  "it": "\\rL'MT128 contiene Carineria. Può abbassare l'Attacco dell'avversario."
+  "id": "\\rTM128 contains Play Rough. It's a strong physical Fairy type attack.",
+  "en": "\\rTM128 contains Play Rough. It's a strong physical Fairy type attack.",
+  "it": "\\rLa MT128 contiene Carineria. È un potente attacco fisico di tipo Folletto."
  },
  {
   "id": "\\rAcerola: Go challenge Nanu now. I doubt he can turn you down.",

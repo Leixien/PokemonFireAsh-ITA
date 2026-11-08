@@ -95,9 +95,9 @@
   "it": "\\bCerise: È stato avvistato un Pokémon sconosciuto nella Landa Corona. Vorrei che voi due indagaste."
  },
  {
-  "id": "\\bThe blimp service in Wyndon can take you there.",
-  "en": "\\bThe blimp service in Wyndon can take you there.",
-  "it": "\\bIl servizio di dirigibili di Wyndon può portarvi lì."
+  "id": "\\bThe train station in Wyndon can take you there.",
+  "en": "\\bThe train station in Wyndon can take you there.",
+  "it": "\\bIl treno dalla stazione di Wyndon può portarti lì."
  },
  {
   "id": "\\bCerise: You need to visit Professor Oak. Give him my regards.",
@@ -320,9 +320,9 @@
   "it": "\\bCerise: Sono felice che siate riusciti a trovare il Magikarp prima del Team Rocket. Ha-"
  },
  {
-  "id": "Rotom Phone: Announcment. The World Coronation Series is hosting a Battle Festival Challenge in Shalour City in the Kalos region.",
-  "en": "Rotom Phone: Announcment. The World Coronation Series is hosting a Battle Festival Challenge in Shalour City in the Kalos region.",
-  "it": "Smart Rotom: Annuncio. Le World Coronation Series ospitano una Sfida Festival della Lotta a Yantaropoli, nella regione di Kalos."
+  "id": "Rotom Phone: Announcement. The World Coronation Series is hosting a Battle Festival Challenge in Shalour City in the Kalos region.",
+  "en": "Rotom Phone: Announcement. The World Coronation Series is hosting a Battle Festival Challenge in Shalour City in the Kalos region.",
+  "it": "Smart Rotom: Annuncio. Il World Coronation Series organizza una Sfida del Festival della Lotta a Yantaropoli, nella regione di Kalos."
  },
  {
   "id": "\\bGoh: It's in Kalos. That's a great chance to catch some Kalos Pokémon. Should we go now?",
@@ -545,6 +545,26 @@
   "it": "\\bGengar"
  },
  {
+  "id": "\\bGoh: I wonder what Opal wants.",
+  "en": "\\bGoh: I wonder what Opal wants.",
+  "it": "\\bGoh: Chissà cosa vuole Poppy."
+ },
+ {
+  "id": "\\bGoh: Pokémon around the world are turning into Eggs. We need to fix this before it's too late.",
+  "en": "\\bGoh: Pokémon around the world are turning into Eggs. We need to fix this before it's too late.",
+  "it": "\\bGoh: In tutto il mondo i Pokémon si stanno trasformando in Uova. Dobbiamo rimediare prima che sia troppo tardi."
+ },
+ {
+  "id": "\\bGoh: Thankfully we were able to stop Team Rocket.",
+  "en": "\\bGoh: Thankfully we were able to stop Team Rocket.",
+  "it": "\\bGoh: Per fortuna siamo riusciti a fermare il Team Rocket."
+ },
+ {
+  "id": "\\bGoh: You're heading to Mossdeep? Have fun.",
+  "en": "\\bGoh: You're heading to Mossdeep? Have fun.",
+  "it": "\\bGoh: Vai a Verdeazzupoli? Divertiti."
+ },
+ {
   "id": "\\bGoh: I need your help with my next Project Mew mission.",
   "en": "\\bGoh: I need your help with my next Project Mew mission.",
   "it": "\\bGoh: Ho bisogno del tuo aiuto per la mia prossima missione del Progetto Mew."
@@ -605,6 +625,11 @@
   "it": "\\bMa prima che andiate, ho qualcosa che dovrebbe esservi utile."
  },
  {
+  "id": "\\bIf you get lost, you can use it and it will tell you where to go next.",
+  "en": "\\bIf you get lost, you can use it and it will tell you where to go next.",
+  "it": "\\bSe ti perdi, puoi usarlo e ti dirà dove andare."
+ },
+ {
   "id": "\\bGoh: Thank you, Professor. \\PN, let's get going.",
   "en": "\\bGoh: Thank you, Professor. \\PN, let's get going.",
   "it": "\\bGoh: Grazie, Professoressa. \\PN, andiamo."
@@ -625,9 +650,9 @@
   "it": "\\bLucario"
  },
  {
-  "id": "Rotom Phone: Announcment. New scheduled match for the World Coronation Series. The match will take place at the Kalos League against Drasna.",
-  "en": "Rotom Phone: Announcment. New scheduled match for the World Coronation Series. The match will take place at the Kalos League against Drasna.",
-  "it": "Smart Rotom: Annuncio. Nuovo incontro in programma per le World Coronation Series. L'incontro si terrà alla Lega di Kalos contro Drasna."
+  "id": "Rotom Phone: Announcement. New scheduled match for the World Coronation Series. The match will take place at the Kalos League against Drasna.",
+  "en": "Rotom Phone: Announcement. New scheduled match for the World Coronation Series. The match will take place at the Kalos League against Drasna.",
+  "it": "Smart Rotom: Annuncio. Nuovo incontro in programma per il World Coronation Series. L'incontro si terrà alla Lega di Kalos contro Lila."
  },
  {
   "id": "Gengar seems like it trusts you. Would you like to take it with you?",
@@ -645,9 +670,9 @@
   "it": "\\rSono felice che lavorerai qui con noi."
  },
  {
-  "id": "\\rI was great working with you.",
-  "en": "\\rI was great working with you.",
-  "it": "\\rÈ stato bellissimo lavorare con te."
+  "id": "\\rIt was great working with you.",
+  "en": "\\rIt was great working with you.",
+  "it": "\\rÈ stato bello lavorare con te."
  },
  {
   "id": "\\rJessie: We'll be taking your Pokémon now.",
@@ -790,26 +815,6 @@
   "it": "\\bGoh: Darkrai sembra pericoloso. Dobbiamo sbrigarci."
  },
  {
-  "id": "\\bGoh: I wonder what Opal wants.",
-  "en": "\\bGoh: I wonder what Opal wants.",
-  "it": "\\bGoh: Chissà cosa vuole Poppy."
- },
- {
-  "id": "\\bGoh: Pokémon around the world are turning into Eggs. We need to fix this before it's too late.",
-  "en": "\\bGoh: Pokémon around the world are turning into Eggs. We need to fix this before it's too late.",
-  "it": "\\bGoh: In tutto il mondo i Pokémon si stanno trasformando in Uova. Dobbiamo rimediare prima che sia troppo tardi."
- },
- {
-  "id": "\\bGoh: Thankfully we were able to stop Team Rocket.",
-  "en": "\\bGoh: Thankfully we were able to stop Team Rocket.",
-  "it": "\\bGoh: Per fortuna siamo riusciti a fermare il Team Rocket."
- },
- {
-  "id": "\\bGoh: You're heading to Mossdeep? Have fun.",
-  "en": "\\bGoh: You're heading to Mossdeep? Have fun.",
-  "it": "\\bGoh: Vai a Verdeazzupoli? Divertiti."
- },
- {
   "id": "Magnemite",
   "en": "Magnemite",
   "it": "Magnemite"
@@ -840,9 +845,9 @@
   "it": "\\bDi notte passavo davanti a questo posto. Mi metteva sempre i brividi."
  },
  {
-  "id": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Maike, located in Saffron City, is ready for battle.",
-  "en": "Rotom Phone: Announcment. New opponent found for the World Coronation Series. Maike, located in Saffron City, is ready for battle.",
-  "it": "Smart Rotom: Annuncio. Nuovo avversario trovato per le World Coronation Series. Maike, a Zafferanopoli, è pronta a lottare."
+  "id": "Rotom Phone: Announcement. New opponent found for the World Coronation Series. Maike, located in Saffron City, is ready for battle.",
+  "en": "Rotom Phone: Announcement. New opponent found for the World Coronation Series. Maike, located in Saffron City, is ready for battle.",
+  "it": "Smart Rotom: Annuncio. Trovato un nuovo avversario per il World Coronation Series. Maike, a Zafferanopoli, è pronta per la lotta."
  },
  {
   "id": "Yes",

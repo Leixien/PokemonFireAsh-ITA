@@ -1,18 +1,13 @@
 [
  {
-  "id": "Cyllage City\\nThe city of peaceful strolls.",
-  "en": "Cyllage City\\nThe city of peaceful strolls.",
-  "it": "Altoripoli\\nLa città delle passeggiate tranquille."
- },
- {
   "id": "\\rRaticate",
   "en": "\\rRaticate",
   "it": "\\rRaticate"
  },
  {
-  "id": "Game Corner\\nThe playground for grown-ups!",
-  "en": "Game Corner\\nThe playground for grown-ups!",
-  "it": "Casinò\\nIl parco giochi per adulti!"
+  "id": "Cyllage City\\nThe city of peaceful strolls.",
+  "en": "Cyllage City\\nThe city of peaceful strolls.",
+  "it": "Altoripoli\\nLa città delle passeggiate tranquille."
  },
  {
   "id": "\\bI've been on a long journey. Soon I will discover the meaning to Mega Evolution.",
@@ -20,14 +15,14 @@
   "it": "\\bHo fatto un lungo viaggio. Presto scoprirò il significato della Megaevoluzione."
  },
  {
+  "id": "Game Corner\\nThe playground for grown-ups!",
+  "en": "Game Corner\\nThe playground for grown-ups!",
+  "it": "Casinò\\nIl parco giochi per adulti!"
+ },
+ {
   "id": "\\bRhyhorn",
   "en": "\\bRhyhorn",
   "it": "\\bRhyhorn"
- },
- {
-  "id": "\\bI never want to stop fishing. I could do it to the end of time.",
-  "en": "\\bI never want to stop fishing. I could do it to the end of time.",
-  "it": "\\bNon voglio mai smettere di pescare. Potrei farlo fino alla fine dei tempi."
  },
  {
   "id": "\\bGrant used a Pokémon I've never seen before! How am I supposed to win if I don't know what to fight?",
@@ -35,14 +30,14 @@
   "it": "\\bLino ha usato un Pokémon che non avevo mai visto! Come faccio a vincere se non so contro cosa combatto?"
  },
  {
+  "id": "\\bI never want to stop fishing. I could do it to the end of time.",
+  "en": "\\bI never want to stop fishing. I could do it to the end of time.",
+  "it": "\\bNon voglio mai smettere di pescare. Potrei farlo fino alla fine dei tempi."
+ },
+ {
   "id": "\\bGrant has this strange rule where he encourages challengers to use their whole team. How confident is that guy?",
   "en": "\\bGrant has this strange rule where he encourages challengers to use their whole team. How confident is that guy?",
   "it": "\\bLino ha questa strana regola per cui incoraggia gli sfidanti a usare tutta la squadra. Quanto è sicuro di sé quel tizio?"
- },
- {
-  "id": "\\rSwimming is such good exercise.",
-  "en": "\\rSwimming is such good exercise.",
-  "it": "\\rNuotare è un ottimo esercizio."
  },
  {
   "id": "\\rI need to pass this on to someone else.",
@@ -60,14 +55,14 @@
   "it": "\\rTorna quando vuoi!"
  },
  {
+  "id": "\\rSwimming is such good exercise.",
+  "en": "\\rSwimming is such good exercise.",
+  "it": "\\rNuotare è un ottimo esercizio."
+ },
+ {
   "id": "\\bThis path is pretty tough. I try to hike it every day.",
   "en": "\\bThis path is pretty tough. I try to hike it every day.",
   "it": "\\bQuesto sentiero è piuttosto impegnativo. Cerco di percorrerlo ogni giorno."
- },
- {
-  "id": "\\bYou would think we would have a Water gym here. But no, we just get boring rocks.",
-  "en": "\\bYou would think we would have a Water gym here.  But no, we just get boring rocks.",
-  "it": "\\bUno penserebbe che qui ci sia una Palestra di tipo Acqua. E invece no, ci tocca una noiosa Palestra di rocce."
  },
  {
   "id": "\\rShelgon",
@@ -75,9 +70,19 @@
   "it": "\\rShelgon"
  },
  {
+  "id": "\\bYou would think we would have a Water gym here. But no, we just get boring rocks.",
+  "en": "\\bYou would think we would have a Water gym here.  But no, we just get boring rocks.",
+  "it": "\\bUno penserebbe che qui ci sia una Palestra di tipo Acqua. E invece no, ci tocca una noiosa Palestra di rocce."
+ },
+ {
   "id": "\\bSomewhere in town they are giving away free revived fossils. They hit a jackpot and are promoting the research.",
   "en": "\\bSomewhere in town they are giving away free revived fossils. They hit a jackpot and are promoting the research. ",
   "it": "\\bDa qualche parte in città regalano fossili rianimati. Hanno fatto jackpot e ora stanno promuovendo la ricerca. "
+ },
+ {
+  "id": "\\rRampardos",
+  "en": "\\rRampardos",
+  "it": "\\rRampardos"
  },
  {
   "id": "Cyllage City Pokémon Gym Leader:\\nGrant",
@@ -88,11 +93,6 @@
   "id": "The wild, yet cool and collected, rock climber.",
   "en": "The wild, yet cool and collected, rock climber.",
   "it": "Lo scalatore selvaggio, ma calmo e composto."
- },
- {
-  "id": "\\rRampardos",
-  "en": "\\rRampardos",
-  "it": "\\rRampardos"
  },
  {
   "id": "\\rI've got a surprise for you.",

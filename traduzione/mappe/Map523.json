@@ -1,8 +1,8 @@
 [
  {
-  "id": "Oreburgh Mine",
-  "en": "Oreburgh Mine",
-  "it": "Miniera di Mineropoli"
+  "id": "\\rAbra",
+  "en": "\\rAbra",
+  "it": "\\rAbra"
  },
  {
   "id": "\\bThese are amazing, are they not? One of them could be a fossil.",
@@ -10,9 +10,14 @@
   "it": "\\bSono fantastiche, non è vero? Una di queste potrebbe essere un fossile."
  },
  {
-  "id": "\\rAbra",
-  "en": "\\rAbra",
-  "it": "\\rAbra"
+  "id": "Oreburgh Mine",
+  "en": "Oreburgh Mine",
+  "it": "Miniera di Mineropoli"
+ },
+ {
+  "id": "\\rBidoof",
+  "en": "\\rBidoof",
+  "it": "\\rBidoof"
  },
  {
   "id": "\\bI wish the cave wasn't here. I hate going through it.",
@@ -20,9 +25,14 @@
   "it": "\\bVorrei che questa grotta non ci fosse. Odio attraversarla."
  },
  {
-  "id": "\\rBidoof",
-  "en": "\\rBidoof",
-  "it": "\\rBidoof"
+  "id": "\\rGabite",
+  "en": "\\rGabite",
+  "it": "\\rGabite"
+ },
+ {
+  "id": "\\bBe careful kid. This place is dangerous.",
+  "en": "\\bBe careful kid. This place is dangerous.",
+  "it": "\\bAttento, ragazzo. Questo posto è pericoloso."
  },
  {
   "id": "\\rCynthia: We'll break here and leave soon. Be sure to have your Pokémon fully healed before we go.",
@@ -35,19 +45,9 @@
   "it": "\\rCamilla: Siamo pronti? Andiamo."
  },
  {
-  "id": "\\bBe careful kid. This place is dangerous.",
-  "en": "\\bBe careful kid. This place is dangerous.",
-  "it": "\\bAttento, ragazzo. Questo posto è pericoloso."
- },
- {
-  "id": "\\rGabite",
-  "en": "\\rGabite",
-  "it": "\\rGabite"
- },
- {
-  "id": "\\bI want to spice this place up. You think flowers would help?",
-  "en": "\\bI want to spice this place up. You think flowers would help?",
-  "it": "\\bVoglio ravvivare un po' questo posto. Pensi che dei fiori aiuterebbero?"
+  "id": "\\bBidoof",
+  "en": "\\bBidoof",
+  "it": "\\bBidoof"
  },
  {
   "id": "Oreburgh Mining Museum",
@@ -60,19 +60,19 @@
   "it": "\"Il carbone e te: la miniera spiegata a tutti!\""
  },
  {
-  "id": "\\bBidoof",
-  "en": "\\bBidoof",
-  "it": "\\bBidoof"
- },
- {
-  "id": "\\bGoh: I'm as ready as I will be.",
-  "en": "\\bGoh: I'm as ready as I will be.",
-  "it": "\\bGoh: Sono pronto, più di così non si può."
+  "id": "\\bI want to spice this place up. You think flowers would help?",
+  "en": "\\bI want to spice this place up. You think flowers would help?",
+  "it": "\\bVoglio ravvivare un po' questo posto. Pensi che dei fiori aiuterebbero?"
  },
  {
   "id": "\\bRoark is currently in the mines. I'm afraid you will have to come back later.",
   "en": "\\bRoark is currently in the mines. I'm afraid you will have to come back later.",
   "it": "\\bPedro al momento è nella miniera. Temo che dovrai tornare più tardi."
+ },
+ {
+  "id": "\\bGoh: I'm as ready as I will be.",
+  "en": "\\bGoh: I'm as ready as I will be.",
+  "it": "\\bGoh: Sono pronto, più di così non si può."
  },
  {
   "id": "Oreburgh City Pokémon Gym Leader:\\nRoark",
@@ -85,14 +85,14 @@
   "it": "Chiamatemi Pedro la Roccia!"
  },
  {
-  "id": "\\rDawn: No need to worry.",
-  "en": "\\rDawn: No need to worry.",
-  "it": "\\rLucinda: Non c'è da preoccuparsi."
- },
- {
   "id": "\\rThis city has been mining for as long as I can remember. The city has become so big because of it.",
   "en": "\\rThis city has been mining for as long as I can remember. The city has become so big because of it.",
   "it": "\\rIn questa città si estrae da che io ricordi. È proprio grazie alla miniera che è diventata così grande."
+ },
+ {
+  "id": "\\rDawn: No need to worry.",
+  "en": "\\rDawn: No need to worry.",
+  "it": "\\rLucinda: Non c'è da preoccuparsi."
  },
  {
   "id": "Oreburgh City\\nCity of Energy",
@@ -105,13 +105,13 @@
   "it": "\\bIl museo è proprio qui accanto. Ospita tantissimi fossili."
  },
  {
-  "id": "\\bBrock: I'm all ready.",
-  "en": "\\bBrock: I'm all ready.",
-  "it": "\\bBrock: Io sono prontissimo."
- },
- {
   "id": "\\bSpecial training. Need to focus.",
   "en": "\\bSpecial training. Need to focus.",
   "it": "\\bAllenamento speciale. Devo concentrarmi."
+ },
+ {
+  "id": "\\bBrock: I'm all ready.",
+  "en": "\\bBrock: I'm all ready.",
+  "it": "\\bBrock: Io sono prontissimo."
  }
 ]

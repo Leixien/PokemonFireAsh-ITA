@@ -1515,9 +1515,9 @@
   "it": "Basta così per me."
  },
  {
-  "id": "I’ve pollen in love with it.",
-  "en": "I’ve pollen in love with it.",
-  "it": "Me ne sono impollinato perdutamente."
+  "id": "I've pollen in love with it.",
+  "en": "I've pollen in love with it.",
+  "it": "Mi hai impollinato il cuore."
  },
  {
   "id": "A very good battle, indeed.",
@@ -2200,6 +2200,11 @@
   "it": "Possibile che abbia già finito?"
  },
  {
+  "id": "I can't be done already again?",
+  "en": "I can't be done already again?",
+  "it": "Ho già finito, di nuovo?"
+ },
+ {
   "id": "Oh yeah, one of us had to lose.",
   "en": "Oh yeah, one of us had to lose.",
   "it": "Eh già, uno di noi doveva perdere."
@@ -2218,6 +2223,11 @@
   "id": "I think you're ready.",
   "en": "I think you're ready.",
   "it": "Credo che tu sia pronto."
+ },
+ {
+  "id": "Aww, my poor Pokémon.",
+  "en": "Aww, my poor Pokémon.",
+  "it": "Ooh, i miei poveri Pokémon."
  },
  {
   "id": "Lay off.",
@@ -2935,6 +2945,11 @@
   "it": "Non posso aver già finito!"
  },
  {
+  "id": "I can't be done already again!",
+  "en": "I can't be done already again!",
+  "it": "Ho già finito, di nuovo!"
+ },
+ {
   "id": "No no no.",
   "en": "No no no.",
   "it": "No no no."
@@ -2948,6 +2963,11 @@
   "id": "What a great battle. Good job.",
   "en": "What a great battle. Good job.",
   "it": "Che bella lotta. Ben fatto."
+ },
+ {
+  "id": "Incredible!",
+  "en": "Incredible!",
+  "it": "Incredibile!"
  },
  {
   "id": "Am I ready?",
@@ -3620,6 +3640,16 @@
   "it": "Oh no!"
  },
  {
+  "id": "Ah! You're strong, after all.",
+  "en": "Ah! You're strong, after all.",
+  "it": "Ah! Sei forte, dopotutto."
+ },
+ {
+  "id": "Darn it! Next time Morrison, next time.",
+  "en": "Darn it! Next time Morrison, next time.",
+  "it": "Accidenti! La prossima volta, Morrison, la prossima volta."
+ },
+ {
   "id": "My teamwork failed.",
   "en": "My teamwork failed.",
   "it": "Il mio gioco di squadra ha fallito."
@@ -3628,6 +3658,16 @@
   "id": "My my my.",
   "en": "My my my.",
   "it": "Bene bene bene."
+ },
+ {
+  "id": "Good match.",
+  "en": "Good match.",
+  "it": "Bell'incontro."
+ },
+ {
+  "id": "Darn it!",
+  "en": "Darn it!",
+  "it": "Accidenti!"
  },
  {
   "id": "There's no way that I should have lost.",
@@ -3643,6 +3683,11 @@
   "id": "You did your best.",
   "en": "You did your best.",
   "it": "Hai fatto del tuo meglio."
+ },
+ {
+  "id": "You really did your best this time.",
+  "en": "You really did your best this time.",
+  "it": "Stavolta hai davvero dato il massimo."
  },
  {
   "id": "Calm down.",
@@ -3883,6 +3928,11 @@
   "id": "We can stop there.",
   "en": "We can stop there.",
   "it": "Possiamo fermarci qui."
+ },
+ {
+  "id": "Well played.",
+  "en": "Well played.",
+  "it": "Ben giocato."
  },
  {
   "id": "Music to my ears.",
@@ -4693,6 +4743,11 @@
   "id": "What a sad display.",
   "en": "What a sad display.",
   "it": "Che spettacolo pietoso."
+ },
+ {
+  "id": "Huh.",
+  "en": "Huh.",
+  "it": "Mah."
  },
  {
   "id": "My Patrat!",
@@ -5960,6 +6015,11 @@
   "it": "No. Non così presto."
  },
  {
+  "id": "No. Not so soon again!",
+  "en": "No. Not so soon again!",
+  "it": "No. Non di nuovo così presto!"
+ },
+ {
   "id": "Haha. Wait, what?",
   "en": "Haha. Wait, what?",
   "it": "Ahah. Aspetta, cosa?"
@@ -6355,9 +6415,19 @@
   "it": "È già finita?"
  },
  {
-  "id": "This isn't good.",
-  "en": "This isn't good.",
-  "it": "Non va bene."
+  "id": "If I knew why did I come?",
+  "en": "If I knew why did I come?",
+  "it": "Se lo sapevo, perché sono venuto?"
+ },
+ {
+  "id": "If I knew why did I come again?",
+  "en": "If I knew why did I come again?",
+  "it": "Ma perché sono qui un'altra volta?"
+ },
+ {
+  "id": "Fun.",
+  "en": "Fun.",
+  "it": "Divertente."
  },
  {
   "id": "Now what?",
@@ -6370,29 +6440,24 @@
   "it": "Non c'è modo di salire."
  },
  {
+  "id": "Uh...",
+  "en": "Uh...",
+  "it": "Ehm..."
+ },
+ {
   "id": "My plans are ruined.",
   "en": "My plans are ruined.",
   "it": "I miei piani sono rovinati."
  },
  {
-  "id": "Fun.",
-  "en": "Fun.",
-  "it": "Divertente."
- },
- {
-  "id": "If I knew why did I come?",
-  "en": "If I knew why did I come?",
-  "it": "Se lo sapevo, perché sono venuto?"
+  "id": "This isn't good.",
+  "en": "This isn't good.",
+  "it": "Non va bene."
  },
  {
   "id": "Too late now.",
   "en": "Too late now.",
   "it": "Ormai è troppo tardi."
- },
- {
-  "id": "Uh...",
-  "en": "Uh...",
-  "it": "Ehm..."
  },
  {
   "id": "No dice.",
@@ -6950,9 +7015,9 @@
   "it": "Spero che nessuno si sia fatto male."
  },
  {
-  "id": "Must have been slacking off too much.",
-  "en": "Must have been slacking off too much.",
-  "it": "Devo aver battuto la fiacca un po' troppo."
+  "id": "Must have been slaking off too much.",
+  "en": "Must have been slaking off too much.",
+  "it": "Devo aver fatto troppo il fannullone."
  },
  {
   "id": "I need to try harder.",
@@ -7020,9 +7085,9 @@
   "it": "Hmpf. Migliorerò."
  },
  {
-  "id": "This won't cost me anything, will it?",
-  "en": "This won't cost me anything, will it?",
-  "it": "Questo non mi costerà niente, vero?"
+  "id": "This won't cost me anything will it?",
+  "en": "This won't cost me anything will it?",
+  "it": "Non mi costerà niente, vero?"
  },
  {
   "id": "I should try a more scientific approach.",
@@ -7038,5 +7103,2375 @@
   "id": "WHAT HAPPENED!?",
   "en": "WHAT HAPPENED!?",
   "it": "COS'È SUCCESSO!?"
+ },
+ {
+  "id": "You're hitting really well.",
+  "en": "You're hitting really well.",
+  "it": "Colpisci davvero bene."
+ },
+ {
+  "id": "It seems I underestimated you.",
+  "en": "It seems I underestimated you.",
+  "it": "A quanto pare ti ho sottovalutato."
+ },
+ {
+  "id": "No way! How annoying!",
+  "en": "No way! How annoying!",
+  "it": "Non ci credo! Che seccatura!"
+ },
+ {
+  "id": "Looks like this is it...",
+  "en": "Looks like this is it...",
+  "it": "Sembra che sia finita..."
+ },
+ {
+  "id": "Now that's exciting!",
+  "en": "Now that's exciting!",
+  "it": "Questo sì che è emozionante!"
+ },
+ {
+  "id": "Absolutely shocking!",
+  "en": "Absolutely shocking!",
+  "it": "Assolutamente scioccante!"
+ },
+ {
+  "id": "You are remarkably strong.",
+  "en": "You are remarkably strong.",
+  "it": "Sei straordinariamente forte."
+ },
+ {
+  "id": "Oh! It appears it is my loss...",
+  "en": "Oh! It appears it is my loss...",
+  "it": "Oh! A quanto pare ho perso..."
+ },
+ {
+  "id": "I see... you will look for me again someday.",
+  "en": "I see... you will look for me again someday.",
+  "it": "Capisco... un giorno tornerai a cercarmi."
+ },
+ {
+  "id": "Was this the future to hold?",
+  "en": "Was this the future to hold?",
+  "it": "Era questo il futuro che mi attendeva?"
+ },
+ {
+  "id": "Aren't you something.",
+  "en": "Aren't you something.",
+  "it": "Che talento che hai."
+ },
+ {
+  "id": "I accept losing to Father, but losing to you?",
+  "en": "I accept losing to Father, but losing to you?",
+  "it": "Accetto di perdere contro mio padre, ma perdere contro di te?"
+ },
+ {
+  "id": "My spirit has not been defeated!",
+  "en": "My spirit has not been defeated!",
+  "it": "Il mio spirito non è stato sconfitto!"
+ },
+ {
+  "id": "Awesome. I have burned out...",
+  "en": "Awesome. I have burned out...",
+  "it": "Fantastico. Ho esaurito il fuoco..."
+ },
+ {
+  "id": "Whoa, wait.",
+  "en": "Whoa, wait.",
+  "it": "Ehi, aspetta."
+ },
+ {
+  "id": "Oh... Now what to do?",
+  "en": "Oh... Now what to do?",
+  "it": "Oh... E adesso che faccio?"
+ },
+ {
+  "id": "Argh! How?!",
+  "en": "Argh! How?!",
+  "it": "Argh! Come?!"
+ },
+ {
+  "id": "...Things shouldn't be this way!",
+  "en": "...Things shouldn't be this way!",
+  "it": "...Non doveva andare così!"
+ },
+ {
+  "id": "I've gotta encourage my Pokémon to keep rocking!",
+  "en": "I've gotta encourage my Pokémon to keep rocking!",
+  "it": "Devo incoraggiare i miei Pokémon a continuare a spaccare!"
+ },
+ {
+  "id": "Oh ho!",
+  "en": "Oh ho!",
+  "it": "Oh oh!"
+ },
+ {
+  "id": "You're something special, child!",
+  "en": "You're something special, child!",
+  "it": "Che talento speciale hai, giovane!"
+ },
+ {
+  "id": "Whoa. Good one.",
+  "en": "Whoa. Good one.",
+  "it": "Wow. Bel colpo."
+ },
+ {
+  "id": "I've never felt this way before.",
+  "en": "I've never felt this way before.",
+  "it": "Non ho mai provato niente del genere."
+ },
+ {
+  "id": "Awww! You just lucked out!",
+  "en": "Awww! You just lucked out!",
+  "it": "Uffa! Hai solo avuto fortuna!"
+ },
+ {
+  "id": "You're a pretty big deal!",
+  "en": "You're a pretty big deal!",
+  "it": "Sei proprio un pezzo grosso!"
+ },
+ {
+  "id": "Come on! What's with that…?",
+  "en": "Come on! What's with that…?",
+  "it": "Ma dai! Che cos'è questo...?"
+ },
+ {
+  "id": "You're plenty strong!",
+  "en": "You're plenty strong!",
+  "it": "Hai una forza notevole!"
+ },
+ {
+  "id": "......",
+  "en": "......",
+  "it": "......"
+ },
+ {
+  "id": "Outstanding! You're a real pro at this!",
+  "en": "Outstanding! You're a real pro at this!",
+  "it": "Eccezionale! Sei proprio un asso!"
+ },
+ {
+  "id": "What? Me, lose?!",
+  "en": "What? Me, lose?!",
+  "it": "Cosa? Io, perdere?!"
+ },
+ {
+  "id": "Haarg! I lose?! There is nothing I wish to say to you!",
+  "en": "Haarg! I lose?! There is nothing I wish to say to you!",
+  "it": "Haarg! Ho perso?! Non ho niente da dirti!"
+ },
+ {
+  "id": "...Darn!",
+  "en": "...Darn!",
+  "it": "...Accidenti!"
+ },
+ {
+  "id": "I understand... I'll bow out gracefully.",
+  "en": "I understand... I'll bow out gracefully.",
+  "it": "Capisco... Mi ritirerò con dignità."
+ },
+ {
+  "id": "My research isn't complete yet.",
+  "en": "My research isn't complete yet.",
+  "it": "La mia ricerca non è ancora completa."
+ },
+ {
+  "id": "Aw, that's the end of it...",
+  "en": "Aw, that's the end of it...",
+  "it": "Oh, è finita..."
+ },
+ {
+  "id": "Poor me!",
+  "en": "Poor me!",
+  "it": "Che sfortuna!"
+ },
+ {
+  "id": "Ugh....",
+  "en": "Ugh....",
+  "it": "Ugh...."
+ },
+ {
+  "id": "I'm not good enough yet..",
+  "en": "I'm not good enough yet..",
+  "it": "Non sono ancora all'altezza.."
+ },
+ {
+  "id": "How is this possible...",
+  "en": "How is this possible...",
+  "it": "Com'è possibile..."
+ },
+ {
+  "id": "No... Not...yet...",
+  "en": "No... Not...yet...",
+  "it": "No... Non...ancora..."
+ },
+ {
+  "id": "We...lost...",
+  "en": "We...lost...",
+  "it": "Abbiamo...perso..."
+ },
+ {
+  "id": "Well done....",
+  "en": "Well done....",
+  "it": "Ben fatto...."
+ },
+ {
+  "id": "The blend of your kindness and your Pokémon's strength brought this victory.",
+  "en": "The blend of your kindness and your Pokémon's strength brought this victory.",
+  "it": "L'unione della tua gentilezza e della forza dei tuoi Pokémon ti ha portato alla vittoria."
+ },
+ {
+  "id": "Humph. Quite the trainer.",
+  "en": "Humph. Quite the trainer.",
+  "it": "Hmpf. Sai il fatto tuo."
+ },
+ {
+  "id": "Hmm. Seems as if my luck has run out.",
+  "en": "Hmm. Seems as if my luck has run out.",
+  "it": "Mmh. Pare che la fortuna mi abbia abbandonato."
+ },
+ {
+  "id": "I never expected anyone to beat me...",
+  "en": "I never expected anyone to beat me...",
+  "it": "Non mi aspettavo che qualcuno potesse battermi..."
+ },
+ {
+  "id": "I can't see this.",
+  "en": "I can't see this.",
+  "it": "Non posso guardare."
+ },
+ {
+  "id": "Our power reaches zero.",
+  "en": "Our power reaches zero.",
+  "it": "La nostra energia è a zero."
+ },
+ {
+  "id": "I failed.",
+  "en": "I failed.",
+  "it": "Ho fallito."
+ },
+ {
+  "id": "Ah! You've proven your worth!",
+  "en": "Ah! You've proven your worth!",
+  "it": "Ah! Hai dimostrato il tuo valore!"
+ },
+ {
+  "id": "The intensity, I see.",
+  "en": "The intensity, I see.",
+  "it": "Che intensità, vedo."
+ },
+ {
+  "id": "So my training is still lacking, is that it?",
+  "en": "So my training is still lacking, is that it?",
+  "it": "Quindi il mio allenamento è ancora carente, è così?"
+ },
+ {
+  "id": "Backed me into a corner. Exciting.",
+  "en": "Backed me into a corner. Exciting.",
+  "it": "Mi hai messo con le spalle al muro. Emozionante."
+ },
+ {
+  "id": "Well, aren't you good. I like that in a Trainer.",
+  "en": "Well, aren't you good. I like that in a Trainer.",
+  "it": "Però, che bravura. Mi piace in un Allenatore."
+ },
+ {
+  "id": "Odd feeling.",
+  "en": "Odd feeling.",
+  "it": "Strana sensazione."
+ },
+ {
+  "id": "I'm not angry that I lost. In fact, I feel happy.",
+  "en": "I'm not angry that I lost. In fact, I feel happy.",
+  "it": "Perdere non mi fa arrabbiare. Anzi, mi rende felice."
+ },
+ {
+  "id": "Oh my gosh!",
+  "en": "Oh my gosh!",
+  "it": "Oh mamma mia!"
+ },
+ {
+  "id": "Come on!",
+  "en": "Come on!",
+  "it": "Ma dai!"
+ },
+ {
+  "id": "Are you happy you won?",
+  "en": "Are you happy you won?",
+  "it": "Sei felice di aver vinto?"
+ },
+ {
+  "id": "I've assembled the toughest Pokémon. Why?",
+  "en": "I've assembled the toughest Pokémon. Why?",
+  "it": "Ho radunato i Pokémon più forti. Perché?"
+ },
+ {
+  "id": "Hey!",
+  "en": "Hey!",
+  "it": "Ehi!"
+ },
+ {
+  "id": "Feeling real down.",
+  "en": "Feeling real down.",
+  "it": "Che abbattimento."
+ },
+ {
+  "id": "I guess it's nothing to worry about.",
+  "en": "I guess it's nothing to worry about.",
+  "it": "Credo non ci sia nulla di cui preoccuparsi."
+ },
+ {
+  "id": "I have much more to learn...",
+  "en": "I have much more to learn...",
+  "it": "Ho ancora molto da imparare..."
+ },
+ {
+  "id": "Grr, I have lost...",
+  "en": "Grr, I have lost...",
+  "it": "Grr, ho perso..."
+ },
+ {
+  "id": "You got me this time.",
+  "en": "You got me this time.",
+  "it": "Stavolta mi hai battuto."
+ },
+ {
+  "id": "Whoa, wow! You made a much bigger splash than I expected!",
+  "en": "Whoa, wow! You made a much bigger splash than I expected!",
+  "it": "Wow! Hai fatto un tuffo molto più spettacolare di quanto mi aspettassi!"
+ },
+ {
+  "id": "Oof... Our batteries ran dry..",
+  "en": "Oof... Our batteries ran dry..",
+  "it": "Uff... Le nostre batterie sono scariche.."
+ },
+ {
+  "id": "Wahahahah! Fine, I lost! You ended up giving me a thrill!",
+  "en": "Wahahahah! Fine, I lost! You ended up giving me a thrill!",
+  "it": "Uahahahah! E va bene, ho perso! Mi hai fatto provare un brivido!"
+ },
+ {
+  "id": "Oh...OK then.",
+  "en": "Oh...OK then.",
+  "it": "Oh... Va bene, allora."
+ },
+ {
+  "id": "Oh... I guess I was trying too hard...",
+  "en": "Oh... I guess I was trying too hard...",
+  "it": "Oh... Forse ci ho messo troppo impegno..."
+ },
+ {
+  "id": "I'm going to redouble my training!",
+  "en": "I'm going to redouble my training!",
+  "it": "Raddoppierò il mio allenamento!"
+ },
+ {
+  "id": "…I… I can't…",
+  "en": "…I… I can't…",
+  "it": "...Io... Non posso..."
+ },
+ {
+  "id": "Praiseworthy.",
+  "en": "Praiseworthy.",
+  "it": "Lodevole."
+ },
+ {
+  "id": "A Trainer that commands Pokémon with more grace than I...",
+  "en": "A Trainer that commands Pokémon with more grace than I...",
+  "it": "Un Allenatore che comanda i Pokémon con più grazia di me..."
+ },
+ {
+  "id": "Our...teamwork....",
+  "en": "Our...teamwork....",
+  "it": "Il nostro...gioco di squadra...."
+ },
+ {
+  "id": "Our...combination...",
+  "en": "Our...combination...",
+  "it": "La nostra...combinazione..."
+ },
+ {
+  "id": "Ahahaha. Excellent.",
+  "en": "Ahahaha. Excellent.",
+  "it": "Ahahaha. Eccellente."
+ },
+ {
+  "id": "Very well, you are the winner.",
+  "en": "Very well, you are the winner.",
+  "it": "Molto bene, hai vinto tu."
+ },
+ {
+  "id": "Well, well.",
+  "en": "Well, well.",
+  "it": "Bene, bene."
+ },
+ {
+  "id": "I lost! Eh, it was fun, so it doesn't matter.",
+  "en": "I lost! Eh, it was fun, so it doesn't matter.",
+  "it": "Ho perso! Beh, è stato divertente, quindi non importa."
+ },
+ {
+  "id": "Oh, darn!",
+  "en": "Oh, darn!",
+  "it": "Oh, accidenti!"
+ },
+ {
+  "id": "I've gone and lost.",
+  "en": "I've gone and lost.",
+  "it": "Ecco, ho perso."
+ },
+ {
+  "id": "Fiesty!",
+  "en": "Fiesty!",
+  "it": "Che grinta!"
+ },
+ {
+  "id": "How hot your spirits burn!",
+  "en": "How hot your spirits burn!",
+  "it": "Come arde il tuo spirito!"
+ },
+ {
+  "id": "Superb, it should be said.",
+  "en": "Superb, it should be said.",
+  "it": "Superbo, va detto."
+ },
+ {
+  "id": "Spectacular bout!",
+  "en": "Spectacular bout!",
+  "it": "Incontro spettacolare!"
+ },
+ {
+  "id": "Kudos to you.",
+  "en": "Kudos to you.",
+  "it": "Complimenti."
+ },
+ {
+  "id": "A truly noble trainer.",
+  "en": "A truly noble trainer.",
+  "it": "Un Allenatore davvero nobile."
+ },
+ {
+  "id": "The grand illusion of water! It wasn't enough!",
+  "en": "The grand illusion of water! It wasn't enough!",
+  "it": "La grande illusione dell'acqua! Non è bastata!"
+ },
+ {
+  "id": "You were elegant, infuriatingly so.",
+  "en": "You were elegant, infuriatingly so.",
+  "it": "Che eleganza, in modo irritante."
+ },
+ {
+  "id": "You really are strong.",
+  "en": "You really are strong.",
+  "it": "Sei davvero forte."
+ },
+ {
+  "id": "Gaaahhh! So this is my limit.",
+  "en": "Gaaahhh! So this is my limit.",
+  "it": "Gaaahhh! Quindi questo è il mio limite."
+ },
+ {
+  "id": "Aww, I gave it my all!",
+  "en": "Aww, I gave it my all!",
+  "it": "Uffa, ho dato il massimo!"
+ },
+ {
+  "id": "Maybe next time!",
+  "en": "Maybe next time!",
+  "it": "Sarà per la prossima volta!"
+ },
+ {
+  "id": "It's a little annoying...",
+  "en": "It's a little annoying...",
+  "it": "È un po' seccante..."
+ },
+ {
+  "id": "Your talent is remarkable!",
+  "en": "Your talent is remarkable!",
+  "it": "Il tuo talento è straordinario!"
+ },
+ {
+  "id": "I fell behind, but only by an inch...",
+  "en": "I fell behind, but only by an inch...",
+  "it": "Ho perso, ma solo per un soffio..."
+ },
+ {
+  "id": "All I want... I just want to...",
+  "en": "All I want... I just want to...",
+  "it": "Tutto ciò che voglio... Voglio solo..."
+ },
+ {
+  "id": "Oh! You went and did it, didn't you?",
+  "en": "Oh! You went and did it, didn't you?",
+  "it": "Oh! Ce l'hai fatta, eh?"
+ },
+ {
+  "id": "What?! I lost to a mere child like you?!",
+  "en": "What?! I lost to a mere child like you?!",
+  "it": "Cosa?! Ho perso contro un ragazzino qualunque come te?!"
+ },
+ {
+  "id": "Wh-what?",
+  "en": "Wh-what?",
+  "it": "C-cosa?"
+ },
+ {
+  "id": "That can't be! My buffed-up Pokémon!",
+  "en": "That can't be! My buffed-up Pokémon!",
+  "it": "Non può essere! I miei Pokémon pompati!"
+ },
+ {
+  "id": "You're very good, aren't you?",
+  "en": "You're very good, aren't you?",
+  "it": "Sei davvero in gamba, eh?"
+ },
+ {
+  "id": "My Grass-type Pokémon, aww...",
+  "en": "My Grass-type Pokémon, aww...",
+  "it": "I miei Pokémon di tipo Erba, uffa..."
+ },
+ {
+  "id": "I learned alot from it.",
+  "en": "I learned alot from it.",
+  "it": "Ho imparato molto."
+ },
+ {
+  "id": "I shall admit defeat...",
+  "en": "I shall admit defeat...",
+  "it": "Ammetto la sconfitta..."
+ },
+ {
+  "id": "Puts a grin on my face!",
+  "en": "Puts a grin on my face!",
+  "it": "Mi fa venire il sorriso!"
+ },
+ {
+  "id": "Hunwah! It's gone and ended!",
+  "en": "Hunwah! It's gone and ended!",
+  "it": "Hunwah! È finita!"
+ },
+ {
+  "id": "Oh, magnifique.",
+  "en": "Oh, magnifique.",
+  "it": "Oh, magnifique."
+ },
+ {
+  "id": "You are so fantastically strong. I know why I have lost.",
+  "en": "You are so fantastically strong. I know why I have lost.",
+  "it": "Sei così incredibilmente forte. So perché ho perso."
+ },
+ {
+  "id": "Hmm!",
+  "en": "Hmm!",
+  "it": "Mmh!"
+ },
+ {
+  "id": "How were my sturdy Pokémon?!",
+  "en": "How were my sturdy Pokémon?!",
+  "it": "Che ne dici dei miei Pokémon robusti?!"
+ },
+ {
+  "id": "Mighty fine!",
+  "en": "Mighty fine!",
+  "it": "Davvero niente male!"
+ },
+ {
+  "id": "You're mighty! You're worthy of lots of respect.",
+  "en": "You're mighty! You're worthy of lots of respect.",
+  "it": "Sei potente! Meriti tutto il rispetto del mondo."
+ },
+ {
+  "id": "You've got me beat...",
+  "en": "You've got me beat...",
+  "it": "Mi hai battuto..."
+ },
+ {
+  "id": "Such a thrilling battle is what I want!",
+  "en": "Such a thrilling battle is what I want!",
+  "it": "È una lotta così elettrizzante che voglio!"
+ },
+ {
+  "id": "No! Not yet!",
+  "en": "No! Not yet!",
+  "it": "No! Non ancora!"
+ },
+ {
+  "id": "I lost with the most beautiful and toughest of the bug Pokémon...",
+  "en": "I lost with the most beautiful and toughest of the bug Pokémon...",
+  "it": "Ho perso con i più belli e i più forti tra i Pokémon Coleottero..."
+ },
+ {
+  "id": "My dear child!",
+  "en": "My dear child!",
+  "it": "Oh cielo, che talento!"
+ },
+ {
+  "id": "Even though I've lost, I find myself with this silly grin!",
+  "en": "Even though I've lost, I find myself with this silly grin!",
+  "it": "Anche se ho perso, mi ritrovo con questo sorriso sciocco!"
+ },
+ {
+  "id": "Your determination! Firing up!",
+  "en": "Your determination! Firing up!",
+  "it": "La tua determinazione! Mi infiamma!"
+ },
+ {
+  "id": "But I didn't think for one second that I'd lose!",
+  "en": "But I didn't think for one second that I'd lose!",
+  "it": "Ma non avrei mai pensato, nemmeno per un secondo, di perdere!"
+ },
+ {
+  "id": "I'll be reading books until the next challenger arrives.",
+  "en": "I'll be reading books until the next challenger arrives.",
+  "it": "Leggerò libri finché non arriverà il prossimo sfidante."
+ },
+ {
+  "id": "I see. Your power is real.",
+  "en": "I see. Your power is real.",
+  "it": "Capisco. La tua forza è reale."
+ },
+ {
+  "id": "That was really fun.",
+  "en": "That was really fun.",
+  "it": "È stato davvero divertente."
+ },
+ {
+  "id": "It will always end sometime...",
+  "en": "It will always end sometime...",
+  "it": "Prima o poi finisce sempre..."
+ },
+ {
+  "id": "What just went down?!",
+  "en": "What just went down?!",
+  "it": "Che cosa è appena successo?!"
+ },
+ {
+  "id": "Don't get cocky!",
+  "en": "Don't get cocky!",
+  "it": "Non montarti la testa!"
+ },
+ {
+  "id": "Ah... I am out.",
+  "en": "Ah... I am out.",
+  "it": "Ah... Sono fuori."
+ },
+ {
+  "id": "I couldn't beat you...",
+  "en": "I couldn't beat you...",
+  "it": "Non ce l'ho fatta a batterti..."
+ },
+ {
+  "id": "Oh wow, something new?",
+  "en": "Oh wow, something new?",
+  "it": "Oh, wow, qualcosa di nuovo?"
+ },
+ {
+  "id": "And I am discouraged.",
+  "en": "And I am discouraged.",
+  "it": "E ora mi è passata la voglia."
+ },
+ {
+  "id": "Hmm... I may have been mistaken...",
+  "en": "Hmm... I may have been mistaken...",
+  "it": "Mmh... Forse ho commesso un errore..."
+ },
+ {
+  "id": "Impressive. Your prowess is notable.",
+  "en": "Impressive. Your prowess is notable.",
+  "it": "Impressionante. La tua bravura è notevole."
+ },
+ {
+  "id": "How? How?! HOW?!",
+  "en": "How? How?! HOW?!",
+  "it": "Come? Come?! COME?!"
+ },
+ {
+  "id": "Is it over?",
+  "en": "Is it over?",
+  "it": "È finita?"
+ },
+ {
+  "id": "Got us tight in grasp!",
+  "en": "Got us tight in grasp!",
+  "it": "Ci hai stretti in pugno!"
+ },
+ {
+  "id": "You got me, I admit.",
+  "en": "You got me, I admit.",
+  "it": "Mi hai battuto, lo ammetto."
+ },
+ {
+  "id": "We got... burned.",
+  "en": "We got... burned.",
+  "it": "Ci siamo... scottati."
+ },
+ {
+  "id": "Lose? Me?",
+  "en": "Lose? Me?",
+  "it": "Perdere? Io?"
+ },
+ {
+  "id": "Huge wave of potential you have!",
+  "en": "Huge wave of potential you have!",
+  "it": "Hai un'enorme onda di potenziale!"
+ },
+ {
+  "id": "You're impressive!",
+  "en": "You're impressive!",
+  "it": "Sei impressionante!"
+ },
+ {
+  "id": "I misread your moves. Wow.",
+  "en": "I misread your moves. Wow.",
+  "it": "Ho letto male le tue mosse. Wow."
+ },
+ {
+  "id": "My muse abandoned me.",
+  "en": "My muse abandoned me.",
+  "it": "La mia musa mi ha abbandonato."
+ },
+ {
+  "id": "It's beautiful somehow, isn't it...",
+  "en": "It's beautiful somehow, isn't it...",
+  "it": "In qualche modo è bellissimo, vero..."
+ },
+ {
+  "id": "I meant to make your head spin...",
+  "en": "I meant to make your head spin...",
+  "it": "Volevo farti girare la testa..."
+ },
+ {
+  "id": "You're a shining star of a Trainer.",
+  "en": "You're a shining star of a Trainer.",
+  "it": "Brilli come una stella tra gli Allenatori."
+ },
+ {
+  "id": "I've had enough.",
+  "en": "I've had enough.",
+  "it": "Ne ho abbastanza."
+ },
+ {
+  "id": "Just so ya know, I didn't go easy on ya.",
+  "en": "Just so ya know, I didn't go easy on ya.",
+  "it": "Giusto perché tu lo sappia, non ti ho fatto sconti."
+ },
+ {
+  "id": "Thank you!",
+  "en": "Thank you!",
+  "it": "Grazie!"
+ },
+ {
+  "id": "Win or lose, you always gain something from a battle, right?",
+  "en": "Win or lose, you always gain something from a battle, right?",
+  "it": "Che si vinca o si perda, da una lotta si guadagna sempre qualcosa, giusto?"
+ },
+ {
+  "id": "The wonderful combination of you and your Pokemon.",
+  "en": "The wonderful combination of you and your Pokemon.",
+  "it": "La meravigliosa intesa tra te e i tuoi Pokémon."
+ },
+ {
+  "id": "What a beautiful friendship you have shown!",
+  "en": "What a beautiful friendship you have shown!",
+  "it": "Che bella amicizia hai mostrato!"
+ },
+ {
+  "id": "Ugh, I gotta pull together.",
+  "en": "Ugh, I gotta pull together.",
+  "it": "Ugh, devo riprendermi."
+ },
+ {
+  "id": "Appreciate the time here.",
+  "en": "Appreciate the time here.",
+  "it": "Grazie per il tempo trascorso qui."
+ },
+ {
+  "id": "Hmm... This is problematic.",
+  "en": "Hmm... This is problematic.",
+  "it": "Mmh... Questo è un problema."
+ },
+ {
+  "id": "This intense feeling floods me.",
+  "en": "This intense feeling floods me.",
+  "it": "Questa sensazione intensa mi travolge."
+ },
+ {
+  "id": "Harrumph! Now I know your ability is greater!",
+  "en": "Harrumph! Now I know your ability is greater!",
+  "it": "Hmpf! Ora so che la tua abilità è superiore!"
+ },
+ {
+  "id": "Tide comes in and out.",
+  "en": "Tide comes in and out.",
+  "it": "La marea va e viene."
+ },
+ {
+  "id": "You're strong as a gnarly wave and as nice as a glassy sea.",
+  "en": "You're strong as a gnarly wave and as nice as a glassy sea.",
+  "it": "Sei forte come un'onda impetuosa e gentile come un mare calmo."
+ },
+ {
+  "id": "I lost my light.",
+  "en": "I lost my light.",
+  "it": "Ho perso la mia luce."
+ },
+ {
+  "id": "Where there's a winner, there's also a loser.",
+  "en": "Where there's a winner, there's also a loser.",
+  "it": "Dove c'è un vincitore, c'è anche uno sconfitto."
+ },
+ {
+  "id": "I'm dumbstruck!",
+  "en": "I'm dumbstruck!",
+  "it": "Mi hai lasciato senza parole!"
+ },
+ {
+  "id": "All the Pokémon on both sides battled so bravely.",
+  "en": "All the Pokémon on both sides battled so bravely.",
+  "it": "Tutti i Pokémon di entrambe le parti hanno lottato con grande coraggio."
+ },
+ {
+  "id": "I can feel it! Your strength!",
+  "en": "I can feel it! Your strength!",
+  "it": "La sento! La tua forza!"
+ },
+ {
+  "id": "That makes my heart dance!",
+  "en": "That makes my heart dance!",
+  "it": "Mi fa danzare il cuore!"
+ },
+ {
+  "id": "Excellent and elegant.",
+  "en": "Excellent and elegant.",
+  "it": "Eccellente ed elegante."
+ },
+ {
+  "id": "I offer you my thanks.",
+  "en": "I offer you my thanks.",
+  "it": "Ti porgo i miei ringraziamenti."
+ },
+ {
+  "id": "Extraordinary!",
+  "en": "Extraordinary!",
+  "it": "Straordinario!"
+ },
+ {
+  "id": "You certainly are an unmatched talent!",
+  "en": "You certainly are an unmatched talent!",
+  "it": "Hai davvero un talento senza pari!"
+ },
+ {
+  "id": "You never hold back!",
+  "en": "You never hold back!",
+  "it": "Non ti trattieni mai!"
+ },
+ {
+  "id": "So exciting!",
+  "en": "So exciting!",
+  "it": "Che emozione!"
+ },
+ {
+  "id": "I did my best, but lost.",
+  "en": "I did my best, but lost.",
+  "it": "Ho fatto del mio meglio, ma ho perso."
+ },
+ {
+  "id": "Phew... I gave everything I had, but still... I just couldn't win...",
+  "en": "Phew... I gave everything I had, but still... I just couldn't win...",
+  "it": "Uff... Ho dato tutto quello che avevo, eppure... non ce l'ho fatta a vincere..."
+ },
+ {
+  "id": "Phew! You are strong for sure.",
+  "en": "Phew! You are strong for sure.",
+  "it": "Uff! Sei forte, non c'è dubbio."
+ },
+ {
+  "id": "Tee-hee! You're so tough!",
+  "en": "Tee-hee! You're so tough!",
+  "it": "Ih ih! Sei un osso duro!"
+ },
+ {
+  "id": "I am outta' choice.",
+  "en": "I am outta' choice.",
+  "it": "Non ho più scelta."
+ },
+ {
+  "id": "All right! Knock outta the park.",
+  "en": "All right! Knock outta the park.",
+  "it": "Bene! Un fuoricampo."
+ },
+ {
+  "id": "I gave it my all, and I still lost...",
+  "en": "I gave it my all, and I still lost...",
+  "it": "Ho dato tutto, e ho perso lo stesso..."
+ },
+ {
+  "id": "Oh no no no.",
+  "en": "Oh no no no.",
+  "it": "Oh no no no."
+ },
+ {
+  "id": "I lost. Not cool!",
+  "en": "I lost. Not cool!",
+  "it": "Ho perso. Non ci sto!"
+ },
+ {
+  "id": "Got me beated.",
+  "en": "Got me beated.",
+  "it": "Mi hai fregato."
+ },
+ {
+  "id": "I got nothing left.",
+  "en": "I got nothing left.",
+  "it": "Non mi è rimasto più niente."
+ },
+ {
+  "id": "Wait, ugh.",
+  "en": "Wait, ugh.",
+  "it": "Aspetta, uffa."
+ },
+ {
+  "id": "Wait, I'm already out?",
+  "en": "Wait, I'm already out?",
+  "it": "Aspetta, sono già fuori?"
+ },
+ {
+  "id": "A fascinating battle! I'll add it to my research records.",
+  "en": "A fascinating battle! I'll add it to my research records.",
+  "it": "Una lotta affascinante! La aggiungerò ai miei appunti di ricerca."
+ },
+ {
+  "id": "The ideals I held... The dreams Pokémon shared...",
+  "en": "The ideals I held... The dreams Pokémon shared...",
+  "it": "Gli ideali in cui credevo... I sogni condivisi dai Pokémon..."
+ },
+ {
+  "id": "Your Pokémon are happy... They are happy to be with you.",
+  "en": "Your Pokémon are happy... They are happy to be with you.",
+  "it": "I tuoi Pokémon sono felici... Sono felici di stare con te."
+ },
+ {
+  "id": "My calculations... No! My careful schemes!",
+  "en": "My calculations... No! My careful schemes!",
+  "it": "I miei calcoli... No! I miei piani accurati!"
+ },
+ {
+  "id": "I couldn't have been defeated by some random Trainer from who knows where!",
+  "en": "I couldn't have been defeated by some random Trainer from who knows where!",
+  "it": "Non posso essere stato sconfitto da un Allenatore qualunque venuto da chissà dove!"
+ },
+ {
+  "id": "Just fantastic!",
+  "en": "Just fantastic!",
+  "it": "Semplicemente fantastico!"
+ },
+ {
+  "id": "Ohhh! No one enjoys losing, but you were such a great opponent!",
+  "en": "Ohhh! No one enjoys losing, but you were such a great opponent!",
+  "it": "Ohhh! A nessuno piace perdere, ma che avversario fantastico!"
+ },
+ {
+  "id": "That's a huge wall to climb!",
+  "en": "That's a huge wall to climb!",
+  "it": "È un muro altissimo da scalare!"
+ },
+ {
+  "id": "You continue to be a wall that I am unable to surmount!",
+  "en": "You continue to be a wall that I am unable to surmount!",
+  "it": "Continui a essere un muro che non riesco a superare!"
+ },
+ {
+  "id": "How could it be?",
+  "en": "How could it be?",
+  "it": "Come può essere?"
+ },
+ {
+  "id": "It's your very being that allows your Pokémon to win!",
+  "en": "It's your very being that allows your Pokémon to win!",
+  "it": "È il tuo stesso essere a far vincere i tuoi Pokémon!"
+ },
+ {
+  "id": "Hohoho... Indeed.",
+  "en": "Hohoho... Indeed.",
+  "it": "Ohohoh... Proprio così."
+ },
+ {
+  "id": "Frail little blades o' grass'll break through even concrete.",
+  "en": "Frail little blades o' grass'll break through even concrete.",
+  "it": "Anche i fragili fili d'erba riescono a spaccare il cemento."
+ },
+ {
+  "id": "I got tripped!",
+  "en": "I got tripped!",
+  "it": "Mi hai fatto inciampare!"
+ },
+ {
+  "id": "Your passion for battle inspires me!",
+  "en": "Your passion for battle inspires me!",
+  "it": "La tua passione per la lotta mi ispira!"
+ },
+ {
+  "id": "What a reason to smile.",
+  "en": "What a reason to smile.",
+  "it": "Che bel motivo per sorridere."
+ },
+ {
+  "id": "Oh goodness, what a pity...",
+  "en": "Oh goodness, what a pity...",
+  "it": "Oh cielo, che peccato..."
+ },
+ {
+  "id": "Your path's created. So am I.",
+  "en": "Your path's created. So am I.",
+  "it": "La tua strada è tracciata. Anche la mia."
+ },
+ {
+  "id": "Let nothing get in your way. Your fate, your future.",
+  "en": "Let nothing get in your way. Your fate, your future.",
+  "it": "Non lasciare che nulla ti ostacoli. Il tuo destino, il tuo futuro."
+ },
+ {
+  "id": "Outstanding!",
+  "en": "Outstanding!",
+  "it": "Eccezionale!"
+ },
+ {
+  "id": "I'm tough as an iceberg, but you smashed me through and through!",
+  "en": "I'm tough as an iceberg, but you smashed me through and through!",
+  "it": "Sono duro come un iceberg, ma mi hai frantumato da cima a fondo!"
+ },
+ {
+  "id": "Fantastic. Utterly fantastic.",
+  "en": "Fantastic. Utterly fantastic.",
+  "it": "Fantastico. Assolutamente fantastico."
+ },
+ {
+  "id": "I will definitely remember this battle!",
+  "en": "I will definitely remember this battle!",
+  "it": "Mi ricorderò di sicuro di questa lotta!"
+ },
+ {
+  "id": "That's noteworthy.",
+  "en": "That's noteworthy.",
+  "it": "Degno di nota."
+ },
+ {
+  "id": "No! This result will not satisfy my hunger, my thirst for victory!",
+  "en": "No! This result will not satisfy my hunger, my thirst for victory!",
+  "it": "No! Questo risultato non placherà la mia fame, la mia sete di vittoria!"
+ },
+ {
+  "id": "That was just glorious!",
+  "en": "That was just glorious!",
+  "it": "È stato semplicemente glorioso!"
+ },
+ {
+  "id": "At last do I understand that sweet torture, that perfect balance of joy and frustration!",
+  "en": "At last do I understand that sweet torture, that perfect balance of joy and frustration!",
+  "it": "Finalmente comprendo quella dolce tortura, quel perfetto equilibrio tra gioia e frustrazione!"
+ },
+ {
+  "id": "Oh, dear me.",
+  "en": "Oh, dear me.",
+  "it": "Oh, santo cielo."
+ },
+ {
+  "id": "Oh, you! You're too much!",
+  "en": "Oh, you! You're too much!",
+  "it": "Oh, tu! Sei troppo!"
+ },
+ {
+  "id": "Oh, fantastic! Pretty cool!",
+  "en": "Oh, fantastic! Pretty cool!",
+  "it": "Oh, fantastico! Davvero forte!"
+ },
+ {
+  "id": "The spotlight's on you!",
+  "en": "The spotlight's on you!",
+  "it": "I riflettori sono tutti per te!"
+ },
+ {
+  "id": "That was exciting!",
+  "en": "That was exciting!",
+  "it": "È stato emozionante!"
+ },
+ {
+  "id": "Lost till the end...",
+  "en": "Lost till the end...",
+  "it": "Perso fino alla fine..."
+ },
+ {
+  "id": "Awww, I got jammed.",
+  "en": "Awww, I got jammed.",
+  "it": "Uffa, è andato tutto in tilt."
+ },
+ {
+  "id": "My beat is all gone to the gutter!",
+  "en": "My beat is all gone to the gutter!",
+  "it": "Il mio ritmo è andato a farsi benedire!"
+ },
+ {
+  "id": "How awful.",
+  "en": "How awful.",
+  "it": "Che cosa terribile."
+ },
+ {
+  "id": "My research is all wrong!",
+  "en": "My research is all wrong!",
+  "it": "La mia ricerca è tutta sbagliata!"
+ },
+ {
+  "id": "I can't believe it!",
+  "en": "I can't believe it!",
+  "it": "Non ci posso credere!"
+ },
+ {
+  "id": "I'll think about what you did well and use this loss to make me better!",
+  "en": "I'll think about what you did well and use this loss to make me better!",
+  "it": "Rifletterò su ciò che hai fatto bene e userò questa sconfitta per migliorare!"
+ },
+ {
+  "id": "No... This isn't over yet!",
+  "en": "No... This isn't over yet!",
+  "it": "No... Non è ancora finita!"
+ },
+ {
+  "id": "I'll think about what you did well and use this loss to fuel my desire to improve.",
+  "en": "I'll think about what you did well and use this loss to fuel my desire to improve.",
+  "it": "Rifletterò su ciò che hai fatto bene e userò questa sconfitta per alimentare la mia voglia di migliorare."
+ },
+ {
+  "id": "You are really something! The strength you've found is simply marvelous!",
+  "en": "You are really something! The strength you've found is simply marvelous!",
+  "it": "Sei davvero incredibile! La forza che hai trovato è semplicemente meravigliosa!"
+ },
+ {
+  "id": "I can feel the fire of your convictions burning deep within your heart!",
+  "en": "I can feel the fire of your convictions burning deep within your heart!",
+  "it": "Sento il fuoco delle tue convinzioni ardere nel profondo del tuo cuore!"
+ },
+ {
+  "id": "The strength to protect, huh? But what are you really protecting?",
+  "en": "The strength to protect, huh? But what are you really protecting?",
+  "it": "La forza di proteggere, eh? Ma cosa stai proteggendo davvero?"
+ },
+ {
+  "id": "Yes! Wonderful!",
+  "en": "Yes! Wonderful!",
+  "it": "Sì! Meraviglioso!"
+ },
+ {
+  "id": "You have emerged victorious!",
+  "en": "You have emerged victorious!",
+  "it": "La vittoria è tua!"
+ },
+ {
+  "id": "Well! You certainly reeled me in.",
+  "en": "Well! You certainly reeled me in.",
+  "it": "Beh! Mi hai proprio preso all'amo."
+ },
+ {
+  "id": "Phew, you did a big catch for sure!",
+  "en": "Phew, you did a big catch for sure!",
+  "it": "Uff, hai fatto proprio una bella pesca!"
+ },
+ {
+  "id": "Break it down!",
+  "en": "Break it down!",
+  "it": "Scatenati!"
+ },
+ {
+  "id": "Our fire has gone out.",
+  "en": "Our fire has gone out.",
+  "it": "Il nostro fuoco si è spento."
+ },
+ {
+  "id": "Now I am overcooked!",
+  "en": "Now I am overcooked!",
+  "it": "Ora sono stracotto!"
+ },
+ {
+  "id": "That went sour...",
+  "en": "That went sour...",
+  "it": "È andata a male..."
+ },
+ {
+  "id": "I couldn't get it done...",
+  "en": "I couldn't get it done...",
+  "it": "Non ce l'ho fatta..."
+ },
+ {
+  "id": "Big bummers...",
+  "en": "Big bummers...",
+  "it": "Che delusione..."
+ },
+ {
+  "id": "I'm shocked at your strength!",
+  "en": "I'm shocked at your strength!",
+  "it": "La tua forza mi sconvolge!"
+ },
+ {
+  "id": "You got an artist's touch.",
+  "en": "You got an artist's touch.",
+  "it": "Hai il tocco di un artista."
+ },
+ {
+  "id": "You've done me in!",
+  "en": "You've done me in!",
+  "it": "Mi hai sistemato!"
+ },
+ {
+  "id": "Well, there goes my hope of beating you to smithereens.",
+  "en": "Well, there goes my hope of beating you to smithereens.",
+  "it": "Beh, addio alla speranza di ridurti in briciole."
+ },
+ {
+  "id": "I need more training in the mornings!",
+  "en": "I need more training in the mornings!",
+  "it": "Mi serve più allenamento al mattino!"
+ },
+ {
+  "id": "Thud! That's the sound of your strength rocking me to my core!",
+  "en": "Thud! That's the sound of your strength rocking me to my core!",
+  "it": "Bum! È il suono della tua forza che mi scuote fino al midollo!"
+ },
+ {
+  "id": "Hmph. Looks like you got me.",
+  "en": "Hmph. Looks like you got me.",
+  "it": "Hmpf. Pare che tu mi abbia battuto."
+ },
+ {
+  "id": "Finally, time to rest.",
+  "en": "Finally, time to rest.",
+  "it": "Finalmente, è ora di riposare."
+ },
+ {
+  "id": "How lovely.",
+  "en": "How lovely.",
+  "it": "Che delizia."
+ },
+ {
+  "id": "You've got a certain level of polish.",
+  "en": "You've got a certain level of polish.",
+  "it": "Hai una certa raffinatezza."
+ },
+ {
+  "id": "Ended up in the rough!",
+  "en": "Ended up in the rough!",
+  "it": "Palla fuori dal green!"
+ },
+ {
+  "id": "The wind wasn't in our favor.",
+  "en": "The wind wasn't in our favor.",
+  "it": "Il vento non era dalla nostra parte."
+ },
+ {
+  "id": "I have discovered a great star!",
+  "en": "I have discovered a great star!",
+  "it": "Ho scoperto una grande stella!"
+ },
+ {
+  "id": "You're gonna be a Trainer who everyone admires.",
+  "en": "You're gonna be a Trainer who everyone admires.",
+  "it": "Diventerai un Allenatore ammirato da tutti."
+ },
+ {
+  "id": "Whoa! Well played!",
+  "en": "Whoa! Well played!",
+  "it": "Wow! Ben giocato!"
+ },
+ {
+  "id": "What a delightful battle!",
+  "en": "What a delightful battle!",
+  "it": "Che lotta deliziosa!"
+ },
+ {
+  "id": "I had my breath held that whole battle!",
+  "en": "I had my breath held that whole battle!",
+  "it": "Ho trattenuto il respiro per tutta la lotta!"
+ },
+ {
+  "id": "It's hard to be strong enough to admit that you're weak... you know?",
+  "en": "It's hard to be strong enough to admit that you're weak... you know?",
+  "it": "È difficile essere abbastanza forti da ammettere di essere deboli... sai?"
+ },
+ {
+  "id": "What do you mean?",
+  "en": "What do you mean?",
+  "it": "Che cosa vuoi dire?"
+ },
+ {
+  "id": "My Pokemon are outta limit now.",
+  "en": "My Pokemon are outta limit now.",
+  "it": "I miei Pokémon hanno superato il limite."
+ },
+ {
+  "id": "All I have to do is avoid making any more mistakes...",
+  "en": "All I have to do is avoid making any more mistakes...",
+  "it": "Devo solo evitare di fare altri errori..."
+ },
+ {
+  "id": "Wouldn't expect anything less.",
+  "en": "Wouldn't expect anything less.",
+  "it": "Non mi aspettavo niente di meno."
+ },
+ {
+  "id": "Whaaat?!",
+  "en": "Whaaat?!",
+  "it": "Cosaaa?!"
+ },
+ {
+  "id": "Ah! That battle was a lot of fun!",
+  "en": "Ah! That battle was a lot of fun!",
+  "it": "Ah! Quella lotta è stata proprio divertente!"
+ },
+ {
+  "id": "Oh, man!",
+  "en": "Oh, man!",
+  "it": "Oh, accidenti!"
+ },
+ {
+  "id": "That was a blast!",
+  "en": "That was a blast!",
+  "it": "È stato uno spasso!"
+ },
+ {
+  "id": "I couldn't win even though I went all out... But what a refreshing feeling. Woo!",
+  "en": "I couldn't win even though I went all out... But what a refreshing feeling. Woo!",
+  "it": "Non ho vinto nonostante abbia dato tutto... Ma che sensazione rinfrescante. Woo!"
+ },
+ {
+  "id": "How...how can you be so awful!",
+  "en": "How...how can you be so awful!",
+  "it": "Come... come puoi essere così crudele!"
+ },
+ {
+  "id": "Such a strange feeling... Despite being defeated....",
+  "en": "Such a strange feeling... Despite being defeated....",
+  "it": "Che strana sensazione... Nonostante la sconfitta...."
+ },
+ {
+  "id": "Hey, what's up with you? How come I can't smash you?!",
+  "en": "Hey, what's up with you? How come I can't smash you?!",
+  "it": "Ehi, che ti prende? Com'è che non riesco a stenderti?!"
+ },
+ {
+  "id": "I see. Great work...I guess.",
+  "en": "I see. Great work...I guess.",
+  "it": "Capisco. Ottimo lavoro...credo."
+ },
+ {
+  "id": "You're amazing!",
+  "en": "You're amazing!",
+  "it": "Sei incredibile!"
+ },
+ {
+  "id": "I hate to admit it, but you win.",
+  "en": "I hate to admit it, but you win.",
+  "it": "Odio ammetterlo, ma hai vinto tu."
+ },
+ {
+  "id": "Striking the right balance of offense and defense...",
+  "en": "Striking the right balance of offense and defense...",
+  "it": "Trovare il giusto equilibrio tra attacco e difesa..."
+ },
+ {
+  "id": "I can't keep up with healing..",
+  "en": "I can't keep up with healing..",
+  "it": "Non riesco a stare al passo con le cure.."
+ },
+ {
+  "id": "Oh, no! You're too much for me!",
+  "en": "Oh, no! You're too much for me!",
+  "it": "Oh, no! Sei troppo forte per me!"
+ },
+ {
+  "id": "Mira is a little sad...",
+  "en": "Mira is a little sad...",
+  "it": "Mira è un po' triste..."
+ },
+ {
+  "id": "Your team! I sense your strong aura!",
+  "en": "Your team! I sense your strong aura!",
+  "it": "La tua squadra! Percepisco la tua aura potente!"
+ },
+ {
+  "id": "At times we battle, and sometime we teamed up. It's great how Trainers can interact.",
+  "en": "At times we battle, and sometime we teamed up. It's great how Trainers can interact.",
+  "it": "A volte lottiamo, a volte facciamo squadra. È bello come gli Allenatori possano interagire."
+ },
+ {
+  "id": "Now this! This is a smoking-hot situation!",
+  "en": "Now this! This is a smoking-hot situation!",
+  "it": "Questa sì! Questa è una situazione rovente!"
+ },
+ {
+  "id": "Heeheehee! So hot, you!",
+  "en": "Heeheehee! So hot, you!",
+  "it": "Ih ih ih! Sei proprio scottante!"
+ },
+ {
+  "id": "...My time with you is drawing to a close.",
+  "en": "...My time with you is drawing to a close.",
+  "it": "...Il mio tempo con te sta per finire."
+ },
+ {
+  "id": "...Awww",
+  "en": "...Awww",
+  "it": "...Uffa"
+ },
+ {
+  "id": "All aboard!",
+  "en": "All aboard!",
+  "it": "Tutti a bordo!"
+ },
+ {
+  "id": "Got me off-tracked!",
+  "en": "Got me off-tracked!",
+  "it": "Mi hai fatto deragliare!"
+ },
+ {
+  "id": "Looks like it's the end of the line.",
+  "en": "Looks like it's the end of the line.",
+  "it": "Sembra che questo sia il capolinea."
+ },
+ {
+  "id": "The ride is over.",
+  "en": "The ride is over.",
+  "it": "Il viaggio è finito."
+ },
+ {
+  "id": "Good job! You know what you're doing!",
+  "en": "Good job! You know what you're doing!",
+  "it": "Ottimo lavoro! Sai quello che fai!"
+ },
+ {
+  "id": "What happened here?",
+  "en": "What happened here?",
+  "it": "Che cosa è successo qui?"
+ },
+ {
+  "id": "Ow, wait a second!",
+  "en": "Ow, wait a second!",
+  "it": "Ahi, aspetta un secondo!"
+ },
+ {
+  "id": "Arrrgh! This is so infuriating!",
+  "en": "Arrrgh! This is so infuriating!",
+  "it": "Arrrgh! È così irritante!"
+ },
+ {
+  "id": "Grr... What the...",
+  "en": "Grr... What the...",
+  "it": "Grr... Ma che..."
+ },
+ {
+  "id": "Ahahaha! You're inspiring!",
+  "en": "Ahahaha! You're inspiring!",
+  "it": "Ahahaha! Sei fonte di ispirazione!"
+ },
+ {
+  "id": "Urk..",
+  "en": "Urk..",
+  "it": "Urk.."
+ },
+ {
+  "id": "Darn!",
+  "en": "Darn!",
+  "it": "Accidenti!"
+ },
+ {
+  "id": "Gwah! Hahahaha!",
+  "en": "Gwah! Hahahaha!",
+  "it": "Gwah! Ahahahah!"
+ },
+ {
+  "id": "That's it! You've done great! You've worked hard for this!",
+  "en": "That's it! You've done great! You've worked hard for this!",
+  "it": "Ecco! Ottimo lavoro! Hai lavorato sodo per questo!"
+ },
+ {
+  "id": "That's it! You've done it! You kept working for this!",
+  "en": "That's it! You've done it! You kept working for this!",
+  "it": "Ecco! Ce l'hai fatta! Hai continuato a impegnarti per questo!"
+ },
+ {
+  "id": "Okay, I understand...",
+  "en": "Okay, I understand...",
+  "it": "Va bene, capisco..."
+ },
+ {
+  "id": "Thank you...",
+  "en": "Thank you...",
+  "it": "Grazie..."
+ },
+ {
+  "id": "Losing to an outstanding Trainer like you... I can live with that",
+  "en": "Losing to an outstanding Trainer like you... I can live with that",
+  "it": "Perdere contro un Allenatore eccezionale come te... posso accettarlo"
+ },
+ {
+  "id": "I have no problem losing to a spectacular Trainer like you!",
+  "en": "I have no problem losing to a spectacular Trainer like you!",
+  "it": "Non ho problemi a perdere contro un Allenatore spettacolare come te!"
+ },
+ {
+  "id": "Whoa! You sure showed me!",
+  "en": "Whoa! You sure showed me!",
+  "it": "Wow! Me l'hai fatta vedere!"
+ },
+ {
+  "id": "I have flunked.",
+  "en": "I have flunked.",
+  "it": "Bocciatura in piena regola."
+ },
+ {
+  "id": "You're so very, very good!",
+  "en": "You're so very, very good!",
+  "it": "Sei davvero, davvero in gamba!"
+ },
+ {
+  "id": "Battling a wonderful Trainer is always a happy occasion!",
+  "en": "Battling a wonderful Trainer is always a happy occasion!",
+  "it": "Lottare contro un Allenatore straordinario è sempre un'occasione felice!"
+ },
+ {
+  "id": "My Pokémon could not be faulted in any way or form. My hat's off to you.",
+  "en": "My Pokémon could not be faulted in any way or form. My hat's off to you.",
+  "it": "I miei Pokémon non hanno nulla da rimproverarsi. Tanto di cappello."
+ },
+ {
+  "id": "Your skills are superlative as ever! My admiration knows no bounds.",
+  "en": "Your skills are superlative as ever! My admiration knows no bounds.",
+  "it": "Le tue abilità sono eccelse come sempre! La mia ammirazione non ha limiti."
+ },
+ {
+  "id": "Oh...I detest how fun times seem to end so quickly.",
+  "en": "Oh...I detest how fun times seem to end so quickly.",
+  "it": "Oh...detesto come i momenti divertenti finiscano così in fretta."
+ },
+ {
+  "id": "It's so sad how the truly fun times seem to last only a moment.",
+  "en": "It's so sad how the truly fun times seem to last only a moment.",
+  "it": "È così triste che i momenti davvero divertenti sembrino durare solo un attimo."
+ },
+ {
+  "id": "Oh... I detest how fun times seem to end so quickly.",
+  "en": "Oh... I detest how fun times seem to end so quickly.",
+  "it": "Oh... Detesto come i momenti divertenti finiscano così in fretta."
+ },
+ {
+  "id": "The power of Grass has been wilted.",
+  "en": "The power of Grass has been wilted.",
+  "it": "Il potere dell'Erba è appassito."
+ },
+ {
+  "id": "I can't wait to see how your talent grows!",
+  "en": "I can't wait to see how your talent grows!",
+  "it": "Non vedo l'ora di vedere come crescerà il tuo talento!"
+ },
+ {
+  "id": "I was totally washed away!",
+  "en": "I was totally washed away!",
+  "it": "Mi hai completamente travolto!"
+ },
+ {
+  "id": "You've cut off our flow before it even got going.",
+  "en": "You've cut off our flow before it even got going.",
+  "it": "Hai interrotto il nostro flusso prima ancora che partisse."
+ },
+ {
+  "id": "“That was a white-hot match!”",
+  "en": "“That was a white-hot match!”",
+  "it": "\"È stata una lotta incandescente!\""
+ },
+ {
+  "id": "Great Pokémon and Trainer! It's no surprise that you won!",
+  "en": "Great Pokémon and Trainer! It's no surprise that you won!",
+  "it": "Grandi Pokémon e grande Allenatore! Non mi stupisce che tu abbia vinto!"
+ },
+ {
+  "id": "I'm disappointed, but I'm not going to dwell on it.",
+  "en": "I'm disappointed, but I'm not going to dwell on it.",
+  "it": "Sono deluso, ma non ci rimuginerò sopra."
+ },
+ {
+  "id": "...No hard feelings!",
+  "en": "...No hard feelings!",
+  "it": "...Senza rancore!"
+ },
+ {
+  "id": "Crumbs...",
+  "en": "Crumbs...",
+  "it": "Accidenti..."
+ },
+ {
+  "id": "I'm glad I h...ad my mask...",
+  "en": "I'm glad I h...ad my mask...",
+  "it": "Per fortuna a...vevo la maschera..."
+ },
+ {
+  "id": "Your pink is still lacking, but you're excellent.",
+  "en": "Your pink is still lacking, but you're excellent.",
+  "it": "Il tuo rosa lascia ancora a desiderare, ma sei eccellente."
+ },
+ {
+  "id": "I guess I'll have my tea in the stands...",
+  "en": "I guess I'll have my tea in the stands...",
+  "it": "Mi sa che il tè me lo berrò sugli spalti..."
+ },
+ {
+  "id": "I just want to climb into a hole...",
+  "en": "I just want to climb into a hole...",
+  "it": "Vorrei solo sprofondare in un buco..."
+ },
+ {
+  "id": "I thought we had it in the bag!",
+  "en": "I thought we had it in the bag!",
+  "it": "Pensavo di averla in pugno!"
+ },
+ {
+  "id": "It gives me the deepest of chills.",
+  "en": "It gives me the deepest of chills.",
+  "it": "Mi fa venire i brividi più profondi."
+ },
+ {
+  "id": "I think you took breaking the ice a little too literally...",
+  "en": "I think you took breaking the ice a little too literally...",
+  "it": "Credo che tu abbia preso \"rompere il ghiaccio\" un po' troppo alla lettera..."
+ },
+ {
+  "id": "What kind of trick did this kid use?",
+  "en": "What kind of trick did this kid use?",
+  "it": "Che razza di trucco ha usato questo ragazzino?"
+ },
+ {
+  "id": "What is it that I lack? What do I need?",
+  "en": "What is it that I lack? What do I need?",
+  "it": "Cos'è che mi manca? Di cosa ho bisogno?"
+ },
+ {
+  "id": "Just what have you got that I don't?",
+  "en": "Just what have you got that I don't?",
+  "it": "Che cos'hai tu che io non ho?"
+ },
+ {
+  "id": "But I didn't hold back!",
+  "en": "But I didn't hold back!",
+  "it": "Eppure non mi sono trattenuto!"
+ },
+ {
+  "id": "Me an' my team gave it our best.",
+  "en": "Me an' my team gave it our best.",
+  "it": "Io e la mia squadra ce l'abbiamo messa tutta."
+ },
+ {
+  "id": "My throat's ragged from shoutin'.",
+  "en": "My throat's ragged from shoutin'.",
+  "it": "Ho la gola a pezzi a furia di urlare."
+ },
+ {
+  "id": "That was everything I hoped for and more!",
+  "en": "That was everything I hoped for and more!",
+  "it": "È stato tutto quello che speravo e anche di più!"
+ },
+ {
+  "id": "The kid surpasses the old...",
+  "en": "The kid surpasses the old...",
+  "it": "Il giovane supera il vecchio..."
+ },
+ {
+  "id": "Guess it's not my place to be braggin'!",
+  "en": "Guess it's not my place to be braggin'!",
+  "it": "Direi che non sta a me vantarmi!"
+ },
+ {
+  "id": "Aren't you the brave one!",
+  "en": "Aren't you the brave one!",
+  "it": "Ma che coraggio che hai!"
+ },
+ {
+  "id": "You're really something else.",
+  "en": "You're really something else.",
+  "it": "Sei davvero fuori dal comune."
+ },
+ {
+  "id": "Beyond anything I'd imagined!",
+  "en": "Beyond anything I'd imagined!",
+  "it": "Oltre ogni mia immaginazione!"
+ },
+ {
+  "id": "I knew you had it in you!",
+  "en": "I knew you had it in you!",
+  "it": "Sapevo che ce l'avevi dentro!"
+ },
+ {
+  "id": "My time is over...",
+  "en": "My time is over...",
+  "it": "Il mio tempo è finito..."
+ },
+ {
+  "id": "Ugh! Gutted!",
+  "en": "Ugh! Gutted!",
+  "it": "Uff! Che batosta!"
+ },
+ {
+  "id": "Thanks, mate. I'm really glad you were the one.",
+  "en": "Thanks, mate. I'm really glad you were the one.",
+  "it": "Grazie, amico. Sono davvero felice che sia stato tu."
+ },
+ {
+  "id": "I suppose you're more able than I thought.",
+  "en": "I suppose you're more able than I thought.",
+  "it": "A quanto pare sei più capace di quanto pensassi."
+ },
+ {
+  "id": "It seems I must take back my words.",
+  "en": "It seems I must take back my words.",
+  "it": "Pare che debba rimangiarmi le mie parole."
+ },
+ {
+  "id": "You beat me... What's with that?!",
+  "en": "You beat me... What's with that?!",
+  "it": "Mi hai battuto... Ma com'è possibile?!"
+ },
+ {
+  "id": "My Pokémon didn't get a chance to really do their thing at all.",
+  "en": "My Pokémon didn't get a chance to really do their thing at all.",
+  "it": "I miei Pokémon non hanno avuto modo di dare il meglio di sé."
+ },
+ {
+  "id": "You've perfected those flavors!",
+  "en": "You've perfected those flavors!",
+  "it": "Hai perfezionato quei sapori!"
+ },
+ {
+  "id": "Got my desserts handed!",
+  "en": "Got my desserts handed!",
+  "it": "Mi hai servito un dessert amaro!"
+ },
+ {
+  "id": "Gotta bow out.",
+  "en": "Gotta bow out.",
+  "it": "Devo ritirarmi."
+ },
+ {
+  "id": "Next time will be different. You'll see!",
+  "en": "Next time will be different. You'll see!",
+  "it": "La prossima volta sarà diverso. Vedrai!"
+ },
+ {
+  "id": "Your intuition is quite sharp.",
+  "en": "Your intuition is quite sharp.",
+  "it": "Hai un intuito davvero acuto."
+ },
+ {
+  "id": "A win was certainly on your way, my dear.",
+  "en": "A win was certainly on your way, my dear.",
+  "it": "La vittoria era senz'altro sulla tua strada, mia cara."
+ },
+ {
+  "id": "Hold on a tick!",
+  "en": "Hold on a tick!",
+  "it": "Aspetta un attimo!"
+ },
+ {
+  "id": "My, how cheeky.",
+  "en": "My, how cheeky.",
+  "it": "Però, che sfacciataggine."
+ },
+ {
+  "id": "Oleana...you really are a hopeless woman.",
+  "en": "Oleana...you really are a hopeless woman.",
+  "it": "Oleana... sei proprio una donna senza speranza."
+ },
+ {
+  "id": "That sure was satisfying.",
+  "en": "That sure was satisfying.",
+  "it": "È stato davvero appagante."
+ },
+ {
+  "id": "You're pretty tough... Don't you think that's unfair?",
+  "en": "You're pretty tough... Don't you think that's unfair?",
+  "it": "Sei piuttosto forte... Non ti sembra un po' ingiusto?"
+ },
+ {
+  "id": "Maybe I ought to prepare more.",
+  "en": "Maybe I ought to prepare more.",
+  "it": "Forse dovrei prepararmi di più."
+ },
+ {
+  "id": "I'll admit..",
+  "en": "I'll admit..",
+  "it": "Lo ammetto..."
+ },
+ {
+  "id": "My summit is conquered by your spirit!",
+  "en": "My summit is conquered by your spirit!",
+  "it": "La mia vetta è stata conquistata dal tuo spirito!"
+ },
+ {
+  "id": "You pulled off quite the feat!",
+  "en": "You pulled off quite the feat!",
+  "it": "Hai compiuto una vera impresa!"
+ },
+ {
+  "id": "H-how can this be...",
+  "en": "H-how can this be...",
+  "it": "C-come può essere..."
+ },
+ {
+  "id": "Oh, my good sense.",
+  "en": "Oh, my good sense.",
+  "it": "Oh, santo cielo."
+ },
+ {
+  "id": "They can always rely on you.",
+  "en": "They can always rely on you.",
+  "it": "Possono sempre contare su di te."
+ },
+ {
+  "id": "Certainly, of course.",
+  "en": "Certainly, of course.",
+  "it": "Certamente, ma certo."
+ },
+ {
+  "id": "Bravo! Excellent!",
+  "en": "Bravo! Excellent!",
+  "it": "Bravo! Eccellente!"
+ },
+ {
+  "id": "Most splendid!",
+  "en": "Most splendid!",
+  "it": "Davvero splendido!"
+ },
+ {
+  "id": "Wow, you really are strong.",
+  "en": "Wow, you really are strong.",
+  "it": "Wow, sei proprio forte."
+ },
+ {
+  "id": "Thanks a bunch.",
+  "en": "Thanks a bunch.",
+  "it": "Grazie mille."
+ },
+ {
+  "id": "Oh, for shame!",
+  "en": "Oh, for shame!",
+  "it": "Oh, che vergogna!"
+ },
+ {
+  "id": "What utter calamity...",
+  "en": "What utter calamity...",
+  "it": "Che immane calamità..."
+ },
+ {
+  "id": "And that's that.",
+  "en": "And that's that.",
+  "it": "E questo è quanto."
+ },
+ {
+  "id": "Well, however the future turns out...",
+  "en": "Well, however the future turns out...",
+  "it": "Beh, comunque vada a finire il futuro..."
+ },
+ {
+  "id": "Waugh! No!",
+  "en": "Waugh! No!",
+  "it": "Uaaah! No!"
+ },
+ {
+  "id": "Really... just impossible, if I'm being honest...",
+  "en": "Really... just impossible, if I'm being honest...",
+  "it": "Davvero... semplicemente impossibile, a essere sincero..."
+ },
+ {
+  "id": "Hehehe... Well done.",
+  "en": "Hehehe... Well done.",
+  "it": "Eheheh... Ben fatto."
+ },
+ {
+  "id": "You are doing fine. Good work out there.",
+  "en": "You are doing fine. Good work out there.",
+  "it": "Te la stai cavando bene. Ottimo lavoro là fuori."
+ },
+ {
+  "id": "I'm not fond of this outcome.",
+  "en": "I'm not fond of this outcome.",
+  "it": "Questo risultato non mi piace per niente."
+ },
+ {
+  "id": "How could I let myself lose...",
+  "en": "How could I let myself lose...",
+  "it": "Come ho potuto lasciarmi sconfiggere..."
+ },
+ {
+  "id": "What a disgrace...",
+  "en": "What a disgrace...",
+  "it": "Che disonore..."
+ },
+ {
+  "id": "Well, you are rather formidable...",
+  "en": "Well, you are rather formidable...",
+  "it": "Beh, sei piuttosto formidabile..."
+ },
+ {
+  "id": "I don't get it! How'd I lose?!",
+  "en": "I don't get it! How'd I lose?!",
+  "it": "Non capisco! Come ho fatto a perdere?!"
+ },
+ {
+  "id": "Rrrghhh! I can't believe it.",
+  "en": "Rrrghhh! I can't believe it.",
+  "it": "Grrrrr! Non ci posso credere."
+ },
+ {
+  "id": "Very good indeed.",
+  "en": "Very good indeed.",
+  "it": "Molto bene davvero."
+ },
+ {
+  "id": "It seems my ninja techniques will soon be consigned to history...",
+  "en": "It seems my ninja techniques will soon be consigned to history...",
+  "it": "Pare che le mie tecniche ninja finiranno presto nei libri di storia..."
+ },
+ {
+  "id": "Well now, I didn't expect that...",
+  "en": "Well now, I didn't expect that...",
+  "it": "Ebbene, questo non me l'aspettavo..."
+ },
+ {
+  "id": "Nothing more I can teach for now.",
+  "en": "Nothing more I can teach for now.",
+  "it": "Per ora non ho altro da insegnarti."
+ },
+ {
+  "id": "The fates have decided. I concede...",
+  "en": "The fates have decided. I concede...",
+  "it": "Il destino ha deciso. Mi arrendo..."
+ },
+ {
+  "id": "The moment has come...",
+  "en": "The moment has come...",
+  "it": "È giunto il momento..."
+ },
+ {
+  "id": "Are there people even stronger than you out in the world?",
+  "en": "Are there people even stronger than you out in the world?",
+  "it": "Ci sono persone ancora più forti di te là fuori nel mondo?"
+ },
+ {
+  "id": "So this is where I stand right now.",
+  "en": "So this is where I stand right now.",
+  "it": "Quindi è questo il mio livello attuale."
+ },
+ {
+  "id": "You're really something...",
+  "en": "You're really something...",
+  "it": "Sei davvero incredibile..."
+ },
+ {
+  "id": "What, oh, come on!",
+  "en": "What, oh, come on!",
+  "it": "Cosa? Oh, ma dai!"
+ },
+ {
+  "id": "The loss is on me.",
+  "en": "The loss is on me.",
+  "it": "La sconfitta è colpa mia."
+ },
+ {
+  "id": "You've succeeded. No doubt.",
+  "en": "You've succeeded. No doubt.",
+  "it": "Ce l'hai fatta. Non c'è dubbio."
+ },
+ {
+  "id": "What incredible strength.",
+  "en": "What incredible strength.",
+  "it": "Che forza incredibile."
+ },
+ {
+  "id": "You are a natural...",
+  "en": "You are a natural...",
+  "it": "Hai un talento naturale..."
+ },
+ {
+  "id": "Whoa... You seem so in sync with your Pokémon.",
+  "en": "Whoa... You seem so in sync with your Pokémon.",
+  "it": "Wow... Sembri in perfetta sintonia con i tuoi Pokémon."
+ },
+ {
+  "id": "Whew... Thank goodness...",
+  "en": "Whew... Thank goodness...",
+  "it": "Fiuu... Meno male..."
+ },
+ {
+  "id": "I am out. I am done!",
+  "en": "I am out. I am done!",
+  "it": "Sono fuori. Ho chiuso!"
+ },
+ {
+  "id": "And you carried out your duty, as you were bid.",
+  "en": "And you carried out your duty, as you were bid.",
+  "it": "E hai compiuto il tuo dovere, come ti era stato ordinato."
+ },
+ {
+  "id": "Don't burn too bright, lest it consume you.",
+  "en": "Don't burn too bright, lest it consume you.",
+  "it": "Non ardere troppo intensamente, o finirai per consumarti."
+ },
+ {
+  "id": "Why? Why you?!",
+  "en": "Why? Why you?!",
+  "it": "Perché? Perché proprio tu?!"
+ },
+ {
+  "id": "Why do you have the blessing of Arceus?!",
+  "en": "Why do you have the blessing of Arceus?!",
+  "it": "Perché hai tu la benedizione di Arceus?!"
+ },
+ {
+  "id": "Tsk, until next time.",
+  "en": "Tsk, until next time.",
+  "it": "Tsk, alla prossima."
+ },
+ {
+  "id": "IT'S LUC-KER DAMMIT!",
+  "en": "IT'S LUC-KER DAMMIT!",
+  "it": "SI CHIAMA LUC-KER, DANNAZIONE!"
+ },
+ {
+  "id": "Shucks. Bummer.",
+  "en": "Shucks. Bummer.",
+  "it": "Uffa. Che peccato."
+ },
+ {
+  "id": "Final curtain drawn. The End.",
+  "en": "Final curtain drawn. The End.",
+  "it": "Il sipario è calato. Fine."
+ },
+ {
+  "id": "So this the outcome, you've chose Minuend.",
+  "en": "So this the outcome, you've chose Minuend.",
+  "it": "Dunque è questo l'esito che hai scelto, Minuend."
+ },
+ {
+  "id": "Stronger than I expected.",
+  "en": "Stronger than I expected.",
+  "it": "Più forte di quanto mi aspettassi."
+ },
+ {
+  "id": "No way...",
+  "en": "No way...",
+  "it": "Non è possibile..."
+ },
+ {
+  "id": "Oh my... we lost.",
+  "en": "Oh my... we lost.",
+  "it": "Oh, no... abbiamo perso."
+ },
+ {
+  "id": "You've gotta be kidding me!",
+  "en": "You've gotta be kidding me!",
+  "it": "Mi stai prendendo in giro!"
+ },
+ {
+  "id": "Despicable.",
+  "en": "Despicable.",
+  "it": "Spregevole."
+ },
+ {
+  "id": "Guess we need more training...",
+  "en": "Guess we need more training...",
+  "it": "Direi che ci serve più allenamento..."
+ },
+ {
+  "id": "We almost had it.",
+  "en": "We almost had it.",
+  "it": "C'eravamo quasi."
+ },
+ {
+  "id": "Aww... that's too bad.",
+  "en": "Aww... that's too bad.",
+  "it": "Ooh... che peccato."
+ },
+ {
+  "id": "Let's learn from this.",
+  "en": "Let's learn from this.",
+  "it": "Facciamone tesoro."
+ },
+ {
+  "id": "You fought hard.",
+  "en": "You fought hard.",
+  "it": "Hai lottato con grinta."
+ },
+ {
+  "id": "We'll win next time.",
+  "en": "We'll win next time.",
+  "it": "La prossima volta vinceremo noi."
+ },
+ {
+  "id": "Whaaatt?",
+  "en": "Whaaatt?",
+  "it": "Cooosa?"
+ },
+ {
+  "id": "You did really well.",
+  "en": "You did really well.",
+  "it": "Sei stato davvero bravo."
+ },
+ {
+  "id": "That was... unexpected.",
+  "en": "That was... unexpected.",
+  "it": "Questo è stato... inaspettato."
+ },
+ {
+  "id": "I see... you are indeed strong.",
+  "en": "I see... you are indeed strong.",
+  "it": "Capisco... sei davvero forte."
+ },
+ {
+  "id": "You did well.",
+  "en": "You did well.",
+  "it": "Te la sei cavata bene."
+ },
+ {
+  "id": "You did a good job.",
+  "en": "You did a good job.",
+  "it": "Hai fatto un buon lavoro."
+ },
+ {
+  "id": "Our hopes are shattered...",
+  "en": "Our hopes are shattered...",
+  "it": "Le nostre speranze sono andate in frantumi..."
+ },
+ {
+  "id": "Good try, sweetie.",
+  "en": "Good try, sweetie.",
+  "it": "Bel tentativo, tesoro."
+ },
+ {
+  "id": "Fair game.",
+  "en": "Fair game.",
+  "it": "Partita leale."
+ },
+ {
+  "id": "Oh man...",
+  "en": "Oh man...",
+  "it": "Oh, cavolo..."
+ },
+ {
+  "id": "So many variables...",
+  "en": "So many variables...",
+  "it": "Quante variabili..."
+ },
+ {
+  "id": "They're stronger than I thought...",
+  "en": "They're stronger than I thought...",
+  "it": "Sono più forti di quanto pensassi..."
+ },
+ {
+  "id": "They got us.",
+  "en": "They got us.",
+  "it": "Ci hanno battuti."
+ },
+ {
+  "id": "How marvelous...",
+  "en": "How marvelous...",
+  "it": "Che meraviglia..."
+ },
+ {
+  "id": "It's... over.",
+  "en": "It's... over.",
+  "it": "È... finita."
+ },
+ {
+  "id": "How could we lose...",
+  "en": "How could we lose...",
+  "it": "Come abbiamo potuto perdere..."
+ },
+ {
+  "id": "Wait, it's over already?",
+  "en": "Wait, it's over already?",
+  "it": "Aspetta, è già finita?"
+ },
+ {
+  "id": "You reeled us up instead!",
+  "en": "You reeled us up instead!",
+  "it": "Alla fine sei tu che hai pescato noi!"
+ },
+ {
+  "id": "I... I don't even know what to say.",
+  "en": "I... I don't even know what to say.",
+  "it": "Io... non so nemmeno cosa dire."
+ },
+ {
+  "id": "Woah... I'm shocked.",
+  "en": "Woah... I'm shocked.",
+  "it": "Wow... sono sconvolto."
+ },
+ {
+  "id": "Heh. Great job, I guess.",
+  "en": "Heh. Great job, I guess.",
+  "it": "Eh. Bel lavoro, direi."
+ },
+ {
+  "id": "We've been bested.",
+  "en": "We've been bested.",
+  "it": "Siamo stati superati."
+ },
+ {
+  "id": "Sad tune.",
+  "en": "Sad tune.",
+  "it": "Che melodia triste."
+ },
+ {
+  "id": "That was a jam!",
+  "en": "That was a jam!",
+  "it": "Che bella jam session!"
+ },
+ {
+  "id": "Truly despicable.",
+  "en": "Truly despicable.",
+  "it": "Davvero spregevole."
+ },
+ {
+  "id": "Haha, that was my full power!",
+  "en": "Haha, that was my full power!",
+  "it": "Ahah, quella era tutta la mia forza!"
+ },
+ {
+  "id": "Yay! We're friends now.",
+  "en": "Yay! We're friends now.",
+  "it": "Evviva! Adesso siamo amici."
+ },
+ {
+  "id": "Aww... we lost. But it was a really good battle!",
+  "en": "Aww... we lost. But it was a really good battle!",
+  "it": "Ooh... abbiamo perso. Però è stata davvero una bella lotta!"
+ },
+ {
+  "id": "Still got a nice selfie in there.",
+  "en": "Still got a nice selfie in there.",
+  "it": "Almeno ci è scappato un bel selfie."
+ },
+ {
+  "id": "Congratulations! You'll also be a very good rival to have.",
+  "en": "Congratulations! You'll also be a very good rival to have.",
+  "it": "Congratulazioni! Sarai anche un ottimo rivale."
+ },
+ {
+  "id": "My journey doesn't end here. I'll carry on, step by step.",
+  "en": "My journey doesn't end here. I'll carry on, step by step.",
+  "it": "Il mio viaggio non finisce qui. Andrò avanti, un passo alla volta."
+ },
+ {
+  "id": "You're pretty strong, aren't ya?",
+  "en": "You're pretty strong, aren't ya?",
+  "it": "Sei proprio forte, eh?"
+ },
+ {
+  "id": "Damn!",
+  "en": "Damn!",
+  "it": "Dannazione!"
+ },
+ {
+  "id": "You love your Pokémon as much as I do, haha.",
+  "en": "You love your Pokémon as much as I do, haha.",
+  "it": "Vuoi bene ai tuoi Pokémon quanto me, ahah."
+ },
+ {
+  "id": "As the team's leader, I'm fully responsible for the team's loss.",
+  "en": "As the team's leader, I'm fully responsible for the team's loss.",
+  "it": "Come capo della squadra, mi assumo tutta la responsabilità della sconfitta."
+ },
+ {
+  "id": "The bond you and your Pokémon forged is very touching.",
+  "en": "The bond you and your Pokémon forged is very touching.",
+  "it": "Il legame che hai stretto con i tuoi Pokémon è davvero commovente."
+ },
+ {
+  "id": "What a beautiful melody.",
+  "en": "What a beautiful melody.",
+  "it": "Che bella melodia."
+ },
+ {
+  "id": "Darn it... we still aren't strong enough.",
+  "en": "Darn it... we still aren't strong enough.",
+  "it": "Accidenti... non siamo ancora abbastanza forti."
+ },
+ {
+  "id": "Still have a lot of learning to do.",
+  "en": "Still have a lot of learning to do.",
+  "it": "Ho ancora molto da imparare."
+ },
+ {
+  "id": "Back to the first steps we go.",
+  "en": "Back to the first steps we go.",
+  "it": "Si torna ai primi passi."
+ },
+ {
+  "id": "We got swallowed up!",
+  "en": "We got swallowed up!",
+  "it": "Siamo stati inghiottiti!"
+ },
+ {
+  "id": "We gotta train harder.",
+  "en": "We gotta train harder.",
+  "it": "Dobbiamo allenarci di più."
+ },
+ {
+  "id": "What a great battle!",
+  "en": "What a great battle!",
+  "it": "Che lotta fantastica!"
+ },
+ {
+  "id": "I've been bested!",
+  "en": "I've been bested!",
+  "it": "Mi hai superato!"
+ },
+ {
+  "id": "I'm no longer the strongest there is.",
+  "en": "I'm no longer the strongest there is.",
+  "it": "Non sono più il più forte in assoluto."
+ },
+ {
+  "id": "That was a Champion Time!",
+  "en": "That was a Champion Time!",
+  "it": "È stato un momento da veri campioni!"
+ },
+ {
+  "id": "Your love for Pokémon is greater than mine.",
+  "en": "Your love for Pokémon is greater than mine.",
+  "it": "Il tuo amore per i Pokémon è più grande del mio."
+ },
+ {
+  "id": "Our hearts will keep growing stronger.",
+  "en": "Our hearts will keep growing stronger.",
+  "it": "I nostri cuori continueranno a diventare più forti."
+ },
+ {
+  "id": "We'll soar even higher next time.",
+  "en": "We'll soar even higher next time.",
+  "it": "La prossima volta voleremo ancora più in alto."
+ },
+ {
+  "id": "You kept up! No way!",
+  "en": "You kept up! No way!",
+  "it": "Hai tenuto il passo! Non ci credo!"
+ },
+ {
+  "id": "We're still pretty rock-solid, huh?",
+  "en": "We're still pretty rock-solid, huh?",
+  "it": "Siamo ancora belli solidi come la roccia, eh?"
+ },
+ {
+  "id": "Wasn't our policy still pretty good?",
+  "en": "Wasn't our policy still pretty good?",
+  "it": "La nostra strategia non era poi così male, no?"
+ },
+ {
+  "id": "IT'S LUC-KER DAMMIT AHHHHHHHHH!!!",
+  "en": "IT'S LUC-KER DAMMIT AHHHHHHHHH!!!",
+  "it": "SI CHIAMA LUC-KER, DANNAZIONE! AHHHHHHHHH!!!"
  }
 ]

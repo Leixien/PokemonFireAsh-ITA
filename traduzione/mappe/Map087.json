@@ -1,5 +1,10 @@
 [
  {
+  "id": "\\rI came here to catch a Clefairy, but I can't find any.",
+  "en": "\\rI came here to catch a Clefairy, but I can't find any.",
+  "it": "\\rSono venuta qui per catturare un Clefairy, ma non ne trovo nessuno."
+ },
+ {
   "id": "\\bHey! I saw you in Viridian Forest.",
   "en": "\\bHey! I saw you in Viridian Forest.",
   "it": "\\bEhi! Ti ho visto nel Bosco Smeraldo."
@@ -8,11 +13,6 @@
   "id": "\\bThere are other kinds of Pokemon than the ones you find it the forests.",
   "en": "\\bThere are other kinds of Pokemon than the ones you find it the forests.",
   "it": "\\bEsistono altri tipi di Pokémon oltre a quelli che si trovano nei boschi."
- },
- {
-  "id": "\\rI came here to catch a Clefairy, but I can't find any.",
-  "en": "\\rI came here to catch a Clefairy, but I can't find any.",
-  "it": "\\rSono venuta qui per catturare un Clefairy, ma non ne trovo nessuno."
  },
  {
   "id": "\\bCheck out my awesome Pokémon!",
@@ -25,6 +25,11 @@
   "it": "\\bContinua da questa parte per arrivare al Monte Luna."
  },
  {
+  "id": "Mt. Moon\\nTunnel Entrance",
+  "en": "Mt. Moon\\nTunnel Entrance",
+  "it": "Monte Luna\\nIngresso galleria"
+ },
+ {
   "id": "\\bAre you a Trainer?",
   "en": "\\bAre you a Trainer?",
   "it": "\\bSei un Allenatore?"
@@ -33,11 +38,6 @@
   "id": "\\bIf a Pokémon box on the PC gets full, switch to a new box.",
   "en": "\\bIf a Pokémon box on the PC gets full, switch to a new box.",
   "it": "\\bSe un Box del PC si riempie, passa a un Box nuovo."
- },
- {
-  "id": "Mt. Moon\\nTunnel Entrance",
-  "en": "Mt. Moon\\nTunnel Entrance",
-  "it": "Monte Luna\\nIngresso galleria"
  },
  {
   "id": "\\rMy Pokémon is cuter than yours.",

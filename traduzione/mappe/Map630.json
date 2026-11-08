@@ -1,88 +1,23 @@
 [
  {
-  "id": "\\bGible",
-  "en": "\\bGible",
-  "it": "\\bGible"
+  "id": "\\bI need practice for my next Contest.",
+  "en": "\\bI need practice for my next Contest.",
+  "it": "\\bMi serve allenamento per la mia prossima Gara."
  },
  {
-  "id": "Would you like to take Gible with you?",
-  "en": "Would you like to take Gible with you?",
-  "it": "Vuoi portare Gible con te?"
+  "id": "\\bThat was almost too much. I need to get stronger.",
+  "en": "\\bThat was almost too much. I need to get stronger.",
+  "it": "\\bC'è mancato poco. Devo diventare più forte."
  },
  {
-  "id": "\\bFishin away... just fishin...",
-  "en": "\\bFishin away... just fishin...",
-  "it": "\\bPesco... pesco e basta..."
+  "id": "\\bThe Pokéathlon is the best way to see a Pokémon's potential.",
+  "en": "\\bThe Pokéathlon is the best way to see a Pokémon's potential.",
+  "it": "\\bIl Pokéathlon è il modo migliore per scoprire il potenziale di un Pokémon."
  },
  {
-  "id": "\\bGonna keep fishin...",
-  "en": "\\bGonna keep fishin...",
-  "it": "\\bContinuerò a pescare..."
- },
- {
-  "id": "\\bTime for a battle. It better be unbegood.",
-  "en": "\\bTime for a battle. It better be unbegood.",
-  "it": "\\bÈ ora di lottare. Spero sia strafigo."
- },
- {
-  "id": "\\bNowo, you're strong.",
-  "en": "\\bNowo, you're strong.",
-  "it": "\\bUaoh, sei forte."
- },
- {
-  "id": "\\bEver seen a Dusk Stone?",
-  "en": "\\bEver seen a Dusk Stone?",
-  "it": "\\bHai mai visto una Neropietra?"
- },
- {
-  "id": "\\bIf I win ten battles my Murkrow will get to evolve.",
-  "en": "\\bIf I win ten battles my Murkrow will get to evolve.",
-  "it": "\\bSe vinco dieci lotte, il mio Murkrow potrà evolversi."
- },
- {
-  "id": "\\bHa. You thought I was a Trainer.",
-  "en": "\\bHa. You thought I was a Trainer.",
-  "it": "\\bAh. Pensavi che fossi un Allenatore."
- },
- {
-  "id": "\\rDon't hold back.",
-  "en": "\\rDon't hold back.",
-  "it": "\\rNon trattenerti."
- },
- {
-  "id": "\\rI wish my friend could be as spontaneous as you.",
-  "en": "\\rI wish my friend could be as spontaneous as you.",
-  "it": "\\rVorrei che il mio amico fosse spontaneo come te."
- },
- {
-  "id": "\\bI'm so tired.",
-  "en": "\\bI'm so tired.",
-  "it": "\\bSono così stanco."
- },
- {
-  "id": "\\bI need a nap.",
-  "en": "\\bI need a nap.",
-  "it": "\\bHo bisogno di un pisolino."
- },
- {
-  "id": "\\bHi!",
-  "en": "\\bHi!",
-  "it": "\\bCiao!"
- },
- {
-  "id": "\\bBye.",
-  "en": "\\bBye.",
-  "it": "\\bCiao ciao."
- },
- {
-  "id": "\\rI'm collecting badges.",
-  "en": "\\rI'm collecting badges.",
-  "it": "\\rSto collezionando Medaglie."
- },
- {
-  "id": "\\rI'm going to try Crasher Wake again.",
-  "en": "\\rI'm going to try Crasher Wake again.",
-  "it": "\\rRiproverò a sfidare Omar."
+  "id": "\\bA scientific approach is the best approach.",
+  "en": "\\bA scientific approach is the best approach.",
+  "it": "\\bUn approccio scientifico è l'approccio migliore."
  },
  {
   "id": "\\bUh, I can do this.",
@@ -95,19 +30,29 @@
   "it": "\\bVeniamo da Johto."
  },
  {
-  "id": "\\bFinally, a challenger.",
-  "en": "\\bFinally, a challenger.",
-  "it": "\\bFinalmente uno sfidante."
+  "id": "\\bHa. You thought I was a Trainer.",
+  "en": "\\bHa. You thought I was a Trainer.",
+  "it": "\\bAh. Pensavi che fossi un Allenatore."
  },
  {
-  "id": "\\bPlease let me focus.",
-  "en": "\\bPlease let me focus.",
-  "it": "\\bPer favore, lasciami concentrare."
+  "id": "\\bWhy won't they get along?",
+  "en": "\\bWhy won't they get along?",
+  "it": "\\bPerché non vanno d'accordo?"
  },
  {
-  "id": "\\bI love looking at the shore, just not stepping on the beach.",
-  "en": "\\bI love looking at the shore, just not stepping on the beach.",
-  "it": "\\bAdoro guardare la riva, ma non mettere piede sulla spiaggia."
+  "id": "\\bI've made a machine to bring my team closer together. It doesn't seem to work.",
+  "en": "\\bI've made a machine to bring my team closer together. It doesn't seem to work.",
+  "it": "\\bHo costruito una macchina per unire di più la mia squadra. Non sembra funzionare."
+ },
+ {
+  "id": "\\rWhat a newb you are. This is going to be easy.",
+  "en": "\\rWhat a newb you are. This is going to be easy.",
+  "it": "\\rSei proprio un pivello. Sarà facilissimo."
+ },
+ {
+  "id": "\\rSorry. I try to be confident to hide how afraid I am.",
+  "en": "\\rSorry. I try to be confident to hide how afraid I am.",
+  "it": "\\rScusa. Cerco di sembrare sicura di me per nascondere quanto ho paura."
  },
  {
   "id": "\\rI just found a Dusk Stone.",
@@ -120,6 +65,61 @@
   "it": "\\rSe vinco dieci lotte, il mio Misdreavus potrà evolversi."
  },
  {
+  "id": "\\bHi!",
+  "en": "\\bHi!",
+  "it": "\\bCiao!"
+ },
+ {
+  "id": "\\bBye.",
+  "en": "\\bBye.",
+  "it": "\\bCiao ciao."
+ },
+ {
+  "id": "\\bI never know what to say in these situations.",
+  "en": "\\bI never know what to say in these situations.",
+  "it": "\\bNon so mai cosa dire in queste situazioni."
+ },
+ {
+  "id": "\\bWhat do I say?",
+  "en": "\\bWhat do I say?",
+  "it": "\\bCosa dico?"
+ },
+ {
+  "id": "\\rBe careful please.",
+  "en": "\\rBe careful please.",
+  "it": "\\rFai attenzione, per favore."
+ },
+ {
+  "id": "\\rWhat a strong Trainer. You deserve this.",
+  "en": "\\rWhat a strong Trainer. You deserve this.",
+  "it": "\\rChe Allenatore forte. Te lo meriti."
+ },
+ {
+  "id": "\\rI'm in the middle of escorting a Pokémon. It's not easy.",
+  "en": "\\rI'm in the middle of escorting a Pokémon. It's not easy.",
+  "it": "\\rSto scortando un Pokémon. Non è facile."
+ },
+ {
+  "id": "\\bFinally, a challenger.",
+  "en": "\\bFinally, a challenger.",
+  "it": "\\bFinalmente uno sfidante."
+ },
+ {
+  "id": "\\bPlease let me focus.",
+  "en": "\\bPlease let me focus.",
+  "it": "\\bPer favore, lasciami concentrare."
+ },
+ {
+  "id": "\\bI'm so tired.",
+  "en": "\\bI'm so tired.",
+  "it": "\\bSono così stanco."
+ },
+ {
+  "id": "\\bI need a nap.",
+  "en": "\\bI need a nap.",
+  "it": "\\bHo bisogno di un pisolino."
+ },
+ {
   "id": "\\rI wish I could swim.",
   "en": "\\rI wish I could swim.",
   "it": "\\rVorrei saper nuotare."
@@ -130,14 +130,44 @@
   "it": "\\rAdoro la sabbia. Peccato che ci sia l'acqua qui vicino."
  },
  {
-  "id": "\\bThe Pokéathlon is the best way to see a Pokémon's potential.",
-  "en": "\\bThe Pokéathlon is the best way to see a Pokémon's potential.",
-  "it": "\\bIl Pokéathlon è il modo migliore per scoprire il potenziale di un Pokémon."
+  "id": "\\rI'm collecting badges.",
+  "en": "\\rI'm collecting badges.",
+  "it": "\\rSto collezionando Medaglie."
  },
  {
-  "id": "\\bA scientific approach is the best approach.",
-  "en": "\\bA scientific approach is the best approach.",
-  "it": "\\bUn approccio scientifico è l'approccio migliore."
+  "id": "\\rI'm going to try Crasher Wake again.",
+  "en": "\\rI'm going to try Crasher Wake again.",
+  "it": "\\rRiproverò a sfidare Omar."
+ },
+ {
+  "id": "\\bGible",
+  "en": "\\bGible",
+  "it": "\\bGible"
+ },
+ {
+  "id": "Would you like to take Gible with you?",
+  "en": "Would you like to take Gible with you?",
+  "it": "Vuoi portare Gible con te?"
+ },
+ {
+  "id": "\\bEver seen a Dusk Stone?",
+  "en": "\\bEver seen a Dusk Stone?",
+  "it": "\\bHai mai visto una Neropietra?"
+ },
+ {
+  "id": "\\bIf I win ten battles my Murkrow will get to evolve.",
+  "en": "\\bIf I win ten battles my Murkrow will get to evolve.",
+  "it": "\\bSe vinco dieci lotte, il mio Murkrow potrà evolversi."
+ },
+ {
+  "id": "\\bFishin away... just fishin...",
+  "en": "\\bFishin away... just fishin...",
+  "it": "\\bPesco... pesco e basta..."
+ },
+ {
+  "id": "\\bGonna keep fishin...",
+  "en": "\\bGonna keep fishin...",
+  "it": "\\bContinuerò a pescare..."
  },
  {
   "id": "\\bBarry: \\PN! I knew you'd show up eventually. I'm not moving until we get another battle!",
@@ -165,59 +195,29 @@
   "it": "\\bBarry: Stavolta c'ero quasi! Non credere che finisca qui, \\PN."
  },
  {
-  "id": "\\rWhat a newb you are. This is going to be easy.",
-  "en": "\\rWhat a newb you are. This is going to be easy.",
-  "it": "\\rSei proprio un pivello. Sarà facilissimo."
+  "id": "\\bI love looking at the shore, just not stepping on the beach.",
+  "en": "\\bI love looking at the shore, just not stepping on the beach.",
+  "it": "\\bAdoro guardare la riva, ma non mettere piede sulla spiaggia."
  },
  {
-  "id": "\\rSorry. I try to be confident to hide how afraid I am.",
-  "en": "\\rSorry. I try to be confident to hide how afraid I am.",
-  "it": "\\rScusa. Cerco di sembrare sicura di me per nascondere quanto ho paura."
+  "id": "\\rDon't hold back.",
+  "en": "\\rDon't hold back.",
+  "it": "\\rNon trattenerti."
  },
  {
-  "id": "\\bWhy won't they get along?",
-  "en": "\\bWhy won't they get along?",
-  "it": "\\bPerché non vanno d'accordo?"
+  "id": "\\rI wish my friend could be as spontaneous as you.",
+  "en": "\\rI wish my friend could be as spontaneous as you.",
+  "it": "\\rVorrei che il mio amico fosse spontaneo come te."
  },
  {
-  "id": "\\bI've made a machine to bring my team closer together. It doesn't seem to work.",
-  "en": "\\bI've made a machine to bring my team closer together. It doesn't seem to work.",
-  "it": "\\bHo costruito una macchina per unire di più la mia squadra. Non sembra funzionare."
+  "id": "\\bTime for a battle. It better be unbegood.",
+  "en": "\\bTime for a battle. It better be unbegood.",
+  "it": "\\bÈ ora di lottare. Spero sia strafigo."
  },
  {
-  "id": "\\rBe careful please.",
-  "en": "\\rBe careful please.",
-  "it": "\\rFai attenzione, per favore."
- },
- {
-  "id": "\\rWhat a strong Trainer. You deserve this.",
-  "en": "\\rWhat a strong Trainer. You deserve this.",
-  "it": "\\rChe Allenatore forte. Te lo meriti."
- },
- {
-  "id": "\\rI'm in the middle of escorting a Pokémon. It's not easy.",
-  "en": "\\rI'm in the middle of escorting a Pokémon. It's not easy.",
-  "it": "\\rSto scortando un Pokémon. Non è facile."
- },
- {
-  "id": "\\bI need practice for my next Contest.",
-  "en": "\\bI need practice for my next Contest.",
-  "it": "\\bMi serve allenamento per la mia prossima Gara."
- },
- {
-  "id": "\\bThat was almost too much. I need to get stronger.",
-  "en": "\\bThat was almost too much. I need to get stronger.",
-  "it": "\\bC'è mancato poco. Devo diventare più forte."
- },
- {
-  "id": "\\bI never know what to say in these situations.",
-  "en": "\\bI never know what to say in these situations.",
-  "it": "\\bNon so mai cosa dire in queste situazioni."
- },
- {
-  "id": "\\bWhat do I say?",
-  "en": "\\bWhat do I say?",
-  "it": "\\bCosa dico?"
+  "id": "\\bNowo, you're strong.",
+  "en": "\\bNowo, you're strong.",
+  "it": "\\bUaoh, sei forte."
  },
  {
   "id": "Yes",

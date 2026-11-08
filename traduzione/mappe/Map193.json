@@ -1,20 +1,5 @@
 [
  {
-  "id": "\\bWhat are you looking for?",
-  "en": "\\bWhat are you looking for?",
-  "it": "\\bCosa stai cercando?"
- },
- {
-  "id": "Oh.",
-  "en": "Oh.",
-  "it": "Oh."
- },
- {
-  "id": "\\bI actually forgot where the switch is.",
-  "en": "\\bI actually forgot where the switch is.",
-  "it": "\\bA dire il vero ho dimenticato dov'è l'interruttore."
- },
- {
   "id": "\\bStop! I'm gonna beat you!",
   "en": "\\bStop! I'm gonna beat you!",
   "it": "\\bFermo! Ti batterò!"
@@ -30,14 +15,34 @@
   "it": "\\bUna volta avevamo una Palestra sull'isola. Mi manca."
  },
  {
-  "id": "The switch has been activated.",
-  "en": "The switch has been activated.",
-  "it": "L'interruttore è stato attivato."
+  "id": "\\bWhat are you looking for?",
+  "en": "\\bWhat are you looking for?",
+  "it": "\\bCosa stai cercando?"
  },
  {
-  "id": "The lava is moving out of the volcano!",
-  "en": "The lava is moving out of the volcano!",
-  "it": "La lava sta defluendo dal vulcano!"
+  "id": "Oh.",
+  "en": "Oh.",
+  "it": "Oh."
+ },
+ {
+  "id": "\\bI actually forgot where the switch is.",
+  "en": "\\bI actually forgot where the switch is.",
+  "it": "\\bA dire il vero ho dimenticato dov'è l'interruttore."
+ },
+ {
+  "id": "\\bBlaine likes to enhance his Fire types by being in a volcano.",
+  "en": "\\bBlaine likes to enhance his Fire types by being in a volcano.",
+  "it": "\\bA Blaine piace potenziare i suoi tipi Fuoco stando in un vulcano."
+ },
+ {
+  "id": "Smoked me.",
+  "en": "Smoked me.",
+  "it": "Mi hai incenerito."
+ },
+ {
+  "id": "\\bIt's too hot in here.",
+  "en": "\\bIt's too hot in here.",
+  "it": "\\bFa troppo caldo qui dentro."
  },
  {
   "id": "\\bBlaine: So you beat the Mansion? Good for you.",
@@ -105,19 +110,14 @@
   "it": "\\bBlaine: Torna a trovarci sull'isola quando vuoi!"
  },
  {
-  "id": "\\bBlaine likes to enhance his Fire types by being in a volcano.",
-  "en": "\\bBlaine likes to enhance his Fire types by being in a volcano.",
-  "it": "\\bA Blaine piace potenziare i suoi tipi Fuoco stando in un vulcano."
+  "id": "The switch has been activated.",
+  "en": "The switch has been activated.",
+  "it": "L'interruttore è stato attivato."
  },
  {
-  "id": "Smoked me.",
-  "en": "Smoked me.",
-  "it": "Mi hai incenerito."
- },
- {
-  "id": "\\bIt's too hot in here.",
-  "en": "\\bIt's too hot in here.",
-  "it": "\\bFa troppo caldo qui dentro."
+  "id": "The lava is moving out of the volcano!",
+  "en": "The lava is moving out of the volcano!",
+  "it": "La lava sta defluendo dal vulcano!"
  },
  {
   "id": "\\bWhy are you up here?",
@@ -135,6 +135,16 @@
   "it": "\\bSbrigati ad andartene."
  },
  {
+  "id": "\\bBlaine uses Fire type Pokémon. They are weak against the Water, Ground, and Rock types.",
+  "en": "\\bBlaine uses Fire type Pokémon. They are weak against the Water, Ground, and Rock types.",
+  "it": "\\bBlaine usa Pokémon di tipo Fuoco. Sono deboli contro i tipi Acqua, Terra e Roccia."
+ },
+ {
+  "id": "\\bThey are strong against Bug, Grass, Ice, and Steel. Bug, Grass, Fire, Ice, Steel, and Fairy moves also don't do much damage.",
+  "en": "\\bThey are strong against Bug, Grass, Ice, and Steel.  Bug, Grass, Fire, Ice, Steel, and Fairy moves also don't do much damage.",
+  "it": "\\bSono forti contro Coleottero, Erba, Ghiaccio e Acciaio.  Anche le mosse di tipo Coleottero, Erba, Fuoco, Ghiaccio, Acciaio e Folletto non fanno molti danni."
+ },
+ {
   "id": "\\bI'm always afraid of the volcano exploding.",
   "en": "\\bI'm always afraid of the volcano exploding.",
   "it": "\\bHo sempre paura che il vulcano esploda."
@@ -148,16 +158,6 @@
   "id": "\\bWhat if the volcano went BOOM? Where would our Gym go?",
   "en": "\\bWhat if the volcano went BOOM? Where would our Gym go?",
   "it": "\\bE se il vulcano facesse BUM? Dove finirebbe la nostra Palestra?"
- },
- {
-  "id": "\\bBlaine uses Fire type Pokémon. They are weak aganst the Water, Ground, and Rock types.",
-  "en": "\\bBlaine uses Fire type Pokémon. They are weak aganst the Water, Ground, and Rock types.",
-  "it": "\\bBlaine usa Pokémon di tipo Fuoco. Sono deboli contro i tipi Acqua, Terra e Roccia."
- },
- {
-  "id": "\\bThey are strong against Bug, Grass, Ice, and Steel. Bug, Grass, Fire, Ice, Steel, and Fairy moves also don't do much damage.",
-  "en": "\\bThey are strong against Bug, Grass, Ice, and Steel.  Bug, Grass, Fire, Ice, Steel, and Fairy moves also don't do much damage.",
-  "it": "\\bSono forti contro Coleottero, Erba, Ghiaccio e Acciaio.  Anche le mosse di tipo Coleottero, Erba, Fuoco, Ghiaccio, Acciaio e Folletto non fanno molti danni."
  },
  {
   "id": "\\bBlaine is amazing. You agree right?",

@@ -1,5 +1,15 @@
 [
  {
+  "id": "\\rMy Chatot says strange things.",
+  "en": "\\rMy Chatot says strange things.",
+  "it": "\\rIl mio Chatot dice cose strane."
+ },
+ {
+  "id": "\\rI think I'll go to Johto.",
+  "en": "\\rI think I'll go to Johto.",
+  "it": "\\rPenso che andrò a Johto."
+ },
+ {
   "id": "\\bBrock: Hey there \\PN. It's been a long time.",
   "en": "\\bBrock: Hey there \\PN. It's been a long time.",
   "it": "\\bBrock: Ehi, \\PN. È passato tanto tempo."
@@ -18,16 +28,6 @@
   "id": "\\bBrock: Good luck with your final challenge. I'm rooting for you.",
   "en": "\\bBrock: Good luck with your final challenge. I'm rooting for you.",
   "it": "\\bBrock: Buona fortuna per la tua ultima sfida. Faccio il tifo per te."
- },
- {
-  "id": "\\rMy Chatot says strange things.",
-  "en": "\\rMy Chatot says strange things.",
-  "it": "\\rIl mio Chatot dice cose strane."
- },
- {
-  "id": "\\rI think I'll go to Johto.",
-  "en": "\\rI think I'll go to Johto.",
-  "it": "\\rPenso che andrò a Johto."
  },
  {
   "id": "\\bI'm training hard so I can get my last Symbol.",

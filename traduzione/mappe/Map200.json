@@ -1,17 +1,32 @@
 [
  {
-  "id": "\\bWell, what an easy first challenge. Oh well, prepare to lose to The Astounding Mandi.",
-  "en": "\\bWell, what an easy first challenge. Oh well, prepare to lose to The Astounding Mandi.",
-  "it": "\\bBeh, che prima sfida facile. Pazienza, preparati a perdere contro lo Strabiliante Mandi."
+  "id": "\\bMandi: Well, what an easy first challenge. Oh well, prepare to lose to The Astounding Mandi.",
+  "en": "\\bMandi: Well, what an easy first challenge. Oh well, prepare to lose to The Astounding Mandi.",
+  "it": "\\bMandi: Beh, che primo incontro facile. Pazienza, preparati a perdere contro la Strabiliante Mandi."
  },
  {
-  "id": "\\bWhat! But how did I, The Astounding Mandi, lose?",
-  "en": "\\bWhat! But how did I, The Astounding Mandi, lose?",
-  "it": "\\bCosa?! Ma come ho fatto io, lo Strabiliante Mandi, a perdere?"
+  "id": "\\bMandi: What! But how did I, The Astounding Mandi, lose?",
+  "en": "\\bMandi: What! But how did I, The Astounding Mandi, lose?",
+  "it": "\\bMandi: Cosa?! Ma come ho fatto io, la Strabiliante Mandi, a perdere?"
  },
  {
   "id": "\\bCongratulations on winning your first match.\\nYour next battle will be on the Rock stage.",
   "en": "\\bCongratulations on winning your first match.\\nYour next battle will be on the Rock stage.",
   "it": "\\bCongratulazioni per aver vinto il tuo primo incontro.\\nLa tua prossima lotta sarà sul campo Roccia."
+ },
+ {
+  "id": "\\bMandi: You again? No, no, no, no, nooooo!",
+  "en": "\\bMandi: You again? No, no, no, no, nooooo!",
+  "it": "\\bMandi: Ancora tu? No, no, no, no, nooooo!"
+ },
+ {
+  "id": "\\bMandi: Haha, the Astounding Mandi wins!",
+  "en": "\\bMandi: Haha, the Astounding Mandi wins!",
+  "it": "\\bMandi: Ahah, la Strabiliante Mandi vince!"
+ },
+ {
+  "id": "\\bMandi: Ah, damn it. The Astounding Mandi loses to you again.",
+  "en": "\\bMandi: Ah, damn it. The Astounding Mandi loses to you again.",
+  "it": "\\bMandi: Ah, accidenti. La Strabiliante Mandi perde di nuovo contro di te."
  }
 ]

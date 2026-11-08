@@ -10,6 +10,16 @@
   "it": "\\rVoglio davvero vincere."
  },
  {
+  "id": "\\rHi, would you like to initiate a wonder trade? It will cost you 5000 per trade",
+  "en": "\\rHi, would you like to initiate a wonder trade? It will cost you 5000 per trade",
+  "it": "\\rCiao, vuoi fare uno Scambio Prodigioso? Costa 5000 per scambio"
+ },
+ {
+  "id": "\\rGreat, let's begin!",
+  "en": "\\rGreat, let's begin!",
+  "it": "\\rBene, cominciamo!"
+ },
+ {
   "id": "\\rHello, and welcome to the Pokémon Center.",
   "en": "\\rHello, and welcome to the Pokémon Center.",
   "it": "\\rCiao, benvenuto al Centro Pokémon."

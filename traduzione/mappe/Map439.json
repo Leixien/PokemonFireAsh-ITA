@@ -10,9 +10,9 @@
   "it": "\\rIl mio Alakazam può teletrasportarti.\\ch[1,-1,Solarosa, Petalipoli,Ferrugipoli,Bluruvia,Porto Selcepoli,Ciclamipoli, Brunifoglia,Cuordilava,Forestopoli,Porto Alghepoli,Annulla]"
  },
  {
-  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Oldale, Petalburg,Rustboro,Dewford,Slateport,Mauville, Fallabor,Lavaridge,Fortre,Lilycove,Sootopolis,Cancel]",
-  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Oldale, Petalburg,Rustboro,Dewford,Slateport,Mauville, Fallabor,Lavaridge,Fortre,Lilycove,Sootopolis,Cancel]",
-  "it": "\\rIl mio Alakazam può teletrasportarti.\\ch[1,-1,Solarosa, Petalipoli,Ferrugipoli,Bluruvia,Porto Selcepoli,Ciclamipoli, Brunifoglia,Cuordilava,Forestopoli,Porto Alghepoli,Ceneride,Annulla]"
+  "id": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Oldale, Petalburg,Rustboro,Dewford,Slateport,Mauville, Fallabor,Lavaridge,Fortree,Lilycove,Sootopolis,Cancel]",
+  "en": "\\rMy Alakazam can Teleport you.\\ch[1,-1,Oldale, Petalburg,Rustboro,Dewford,Slateport,Mauville, Fallabor,Lavaridge,Fortree,Lilycove,Sootopolis,Cancel]",
+  "it": "\\rIl mio Alakazam può usare Teletrasporto per portarti altrove.\\ch[1,-1,Solarosa, Petalipoli,Ferrugipoli,Bluruvia,Porto Selcepoli,Ciclamipoli, Brunifoglia,Cuordilava,Forestopoli,Porto Alghepoli,Ceneride,Annulla]"
  },
  {
   "id": "\\rWe tried having a Double Battle against the Gym Leaders. It went awful.",

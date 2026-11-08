@@ -5,8 +5,28 @@
   "it": "\\bNon ne ho molta voglia. Facciamolo e basta."
  },
  {
-  "id": "\\bCongratulations on making it to the top 16. \\nYour next battle will be the Top 8.",
-  "en": "\\bCongratulations on making it to the top 16. \\nYour next battle will be the Top 8.",
-  "it": "\\bCongratulazioni per aver raggiunto la Top 16. \\nIl tuo prossimo incontro sarà nella Top 8."
+  "id": "\\bCongratulations on making it to the Top 16. \\nYour next battle will be the Top 8.",
+  "en": "\\bCongratulations on making it to the Top 16. \\nYour next battle will be the Top 8.",
+  "it": "\\bCongratulazioni per essere arrivato nella Top 16. \\nIl tuo prossimo incontro sarà nella Top 8."
+ },
+ {
+  "id": "\\bGood to see you again \\PN! Let's do this.",
+  "en": "\\bGood to see you again \\PN! Let's do this.",
+  "it": "\\bChe bello rivederti, \\PN! Diamoci dentro."
+ },
+ {
+  "id": "\\bJust like last time, huh?",
+  "en": "\\bJust like last time, huh?",
+  "it": "\\bProprio come l'ultima volta, eh?"
+ },
+ {
+  "id": "\\bI'll beat Tyson for you \\PN, don't worry!",
+  "en": "\\bI'll beat Tyson for you \\PN, don't worry!",
+  "it": "\\bBatterò Tyson al posto tuo, \\PN, non preoccuparti!"
+ },
+ {
+  "id": "\\bCongratulations on making it to the Top 4. \\nYour next battle will be the Finals.",
+  "en": "\\bCongratulations on making it to the Top 4. \\nYour next battle will be the Finals.",
+  "it": "\\bCongratulazioni per essere arrivato nella Top 4. \\nIl tuo prossimo incontro sarà la Finale."
  }
 ]

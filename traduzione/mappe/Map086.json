@@ -20,13 +20,8 @@
   "it": "\\bGeodude"
  },
  {
-  "id": "\\bCroagunk",
-  "en": "\\bCroagunk",
-  "it": "\\bCroagunk"
- },
- {
-  "id": "\\bBrock uses Rock type Pokémon. They are weak aganst Water, Grass, Fighting, Ground, and Steel types.",
-  "en": "\\bBrock uses Rock type Pokémon. They are weak aganst Water, Grass, Fighting, Ground, and Steel types.",
+  "id": "\\bBrock uses Rock type Pokémon. They are weak against Water, Grass, Fighting, Ground, and Steel types.",
+  "en": "\\bBrock uses Rock type Pokémon. They are weak against Water, Grass, Fighting, Ground, and Steel types.",
   "it": "\\bBrock usa Pokémon di tipo Roccia. Sono deboli contro i tipi Acqua, Erba, Lotta, Terra e Acciaio."
  },
  {
@@ -35,19 +30,14 @@
   "it": "\\bNonostante tutte queste debolezze, sono forti contro Fuoco, Coleottero, Volante e Ghiaccio. Anche le mosse di tipo Normale e Veleno non fanno molti danni."
  },
  {
+  "id": "\\bCroagunk",
+  "en": "\\bCroagunk",
+  "it": "\\bCroagunk"
+ },
+ {
   "id": "\\bCrobat",
   "en": "\\bCrobat",
   "it": "\\bCrobat"
- },
- {
-  "id": "\\rChansey",
-  "en": "\\rChansey",
-  "it": "\\rChansey"
- },
- {
-  "id": "\\rBlissey",
-  "en": "\\rBlissey",
-  "it": "\\rBlissey"
  },
  {
   "id": "\\bBattle me now!",
@@ -58,6 +48,16 @@
   "id": "\\bYou're pretty hot. But not as hot as Brock!",
   "en": "\\bYou're pretty hot. But not as hot as Brock!",
   "it": "\\bSei proprio in gamba. Ma non quanto Brock!"
+ },
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
+  "id": "\\rBlissey",
+  "en": "\\rBlissey",
+  "it": "\\rBlissey"
  },
  {
   "id": "\\bLudicolo",

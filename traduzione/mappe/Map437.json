@@ -1,10 +1,5 @@
 [
  {
-  "id": "\\rHow do all those Pokémon hide in the grass?",
-  "en": "\\rHow do all those Pokémon hide in the grass?",
-  "it": "\\rCome fanno tutti quei Pokémon a nascondersi nell'erba?"
- },
- {
   "id": "\\bI found this while I was fishing a while ago.",
   "en": "\\bI found this while I was fishing a while ago.",
   "it": "\\bHo trovato questo mentre pescavo, tempo fa."
@@ -20,6 +15,16 @@
   "it": "\\bForse presto farò una cattura rara."
  },
  {
+  "id": "\\rHow do all those Pokémon hide in the grass?",
+  "en": "\\rHow do all those Pokémon hide in the grass?",
+  "it": "\\rCome fanno tutti quei Pokémon a nascondersi nell'erba?"
+ },
+ {
+  "id": "\\bIsn't the Space Center so cool? I visit it all the time!",
+  "en": "\\bIsn't the Space Center so cool? I visit it all the time!",
+  "it": "\\bIl Centro Spaziale non è fantastico? Ci vado di continuo!"
+ },
+ {
   "id": "Mossdeep City Pokémon Gym Leaders: \\nLiza & Tate",
   "en": "Mossdeep City Pokémon Gym Leaders: \\nLiza & Tate",
   "it": "Capopalestra della Palestra Pokémon di Verdeazzupoli: \\nTell & Pat"
@@ -30,14 +35,14 @@
   "it": "La combinazione mistica!"
  },
  {
-  "id": "\\bIsn't the Space Center so cool? I visit it all the time!",
-  "en": "\\bIsn't the Space Center so cool? I visit it all the time!",
-  "it": "\\bIl Centro Spaziale non è fantastico? Ci vado di continuo!"
- },
- {
   "id": "Mossdeep City\\nCherish Pokémon!",
   "en": "Mossdeep City\\nCherish Pokémon!",
   "it": "Verdeazzupoli\\nAma i Pokémon!"
+ },
+ {
+  "id": "\\rI used to travel across the sea all the time. If only I was young again.",
+  "en": "\\rI used to travel across the sea all the time. If only I was young again.",
+  "it": "\\rUn tempo viaggiavo per mare in continuazione. Ah, se fossi ancora giovane."
  },
  {
   "id": "\\bI'm only taking you back to Lilycove. Do you want to go or what?",
@@ -50,34 +55,9 @@
   "it": "\\bE va bene. Tanto non volevo andarci."
  },
  {
-  "id": "\\rI used to travel across the sea all the time. If only I was young again.",
-  "en": "\\rI used to travel across the sea all the time. If only I was young again.",
-  "it": "\\rUn tempo viaggiavo per mare in continuazione. Ah, se fossi ancora giovane."
- },
- {
   "id": "\\rI need to blow some steam.",
   "en": "\\rI need to blow some steam.",
   "it": "\\rDevo sfogarmi un po'."
- },
- {
-  "id": "\\bThe waves are powerful, but I am stronger.",
-  "en": "\\bThe waves are powerful, but I am stronger.",
-  "it": "\\bLe onde sono potenti, ma io sono più forte."
- },
- {
-  "id": "\\bI can pass some of this strength off to a Pokémon if you wish.",
-  "en": "\\bI can pass some of this strength off to a Pokémon if you wish.",
-  "it": "\\bPosso trasmettere un po' di questa forza a un Pokémon, se vuoi."
- },
- {
-  "id": "\\bWhich Pokémon would you like me to teach Dynamic Punch?",
-  "en": "\\bWhich Pokémon would you like me to teach Dynamic Punch?",
-  "it": "\\bA quale Pokémon vuoi che insegni Dinamipugno?"
- },
- {
-  "id": "\\bUse it wisely.",
-  "en": "\\bUse it wisely.",
-  "it": "\\bUsalo con saggezza."
  },
  {
   "id": "\\bHello there. I'm a teleporting master.",
@@ -105,14 +85,24 @@
   "it": "\\bVuoi che ti porti sull'Isola Izabe? Posso provarci. Sei pronto?"
  },
  {
-  "id": "Baltoy",
-  "en": "Baltoy",
-  "it": "Baltoy"
+  "id": "\\bThe waves are powerful, but I am stronger.",
+  "en": "\\bThe waves are powerful, but I am stronger.",
+  "it": "\\bLe onde sono potenti, ma io sono più forte."
  },
  {
-  "id": "Steven Stone's house",
-  "en": "Steven Stone's house",
-  "it": "Casa di Rocco Petri"
+  "id": "\\bI can pass some of this strength off to a Pokémon if you wish.",
+  "en": "\\bI can pass some of this strength off to a Pokémon if you wish.",
+  "it": "\\bPosso trasmettere un po' di questa forza a un Pokémon, se vuoi."
+ },
+ {
+  "id": "\\bWhich Pokémon would you like me to teach Dynamic Punch?",
+  "en": "\\bWhich Pokémon would you like me to teach Dynamic Punch?",
+  "it": "\\bA quale Pokémon vuoi che insegni Dinamipugno?"
+ },
+ {
+  "id": "\\bUse it wisely.",
+  "en": "\\bUse it wisely.",
+  "it": "\\bUsalo con saggezza."
  },
  {
   "id": "\\bLovely day isn't it?",
@@ -125,9 +115,24 @@
   "it": "\\bDove vorresti andare?"
  },
  {
+  "id": "Steven Stone's house",
+  "en": "Steven Stone's house",
+  "it": "Casa di Rocco Petri"
+ },
+ {
+  "id": "Baltoy",
+  "en": "Baltoy",
+  "it": "Baltoy"
+ },
+ {
   "id": "\\bYou want go to Sootopolis City? I think there is a psychic around here somewhere that can take you there.",
   "en": "\\bYou want go to Sootopolis City? I think there is a psychic around here somewhere that can take you there.",
   "it": "\\bVuoi andare a Ceneride? Credo che qui in giro ci sia un sensitivo che può portartici."
+ },
+ {
+  "id": "Mossdeep Space Center",
+  "en": "Mossdeep Space Center",
+  "it": "Centro Spaziale di Verdeazzupoli"
  },
  {
   "id": "\\rWingull",
@@ -135,9 +140,9 @@
   "it": "\\rWingull"
  },
  {
-  "id": "Mossdeep Space Center",
-  "en": "Mossdeep Space Center",
-  "it": "Centro Spaziale di Verdeazzupoli"
+  "id": "\\bThere are a lot of rare space Pokémon out in the world. I heard Deoxys is one of them.",
+  "en": "\\bThere are a lot of rare space Pokémon out in the world. I heard Deoxys is one of them.",
+  "it": "\\bNel mondo ci sono tanti rari Pokémon venuti dallo spazio. Ho sentito che Deoxys è uno di questi."
  },
  {
   "id": "\\bI have the worst luck.",
@@ -150,19 +155,14 @@
   "it": "\\bMi sto allenando per diventare arbitro."
  },
  {
-  "id": "\\bThere are a lot of rare space Pokémon out in the world. I heard Deoxys is one of them.",
-  "en": "\\bThere are a lot of rare space Pokémon out in the world. I heard Deoxys is one of them.",
-  "it": "\\bNel mondo ci sono tanti rari Pokémon venuti dallo spazio. Ho sentito che Deoxys è uno di questi."
+  "id": "\\rI got tired of swimming. I wish he would quit so we could go home.",
+  "en": "\\rI got tired of swimming. I wish he would quit so we could go home.",
+  "it": "\\rMi sono stancata di nuotare. Vorrei che smettesse, così potremmo tornare a casa."
  },
  {
   "id": "\\rMudkip!",
   "en": "\\rMudkip!",
   "it": "\\rMudkip!"
- },
- {
-  "id": "\\rI got tired of swimming. I wish he would quit so we could go home.",
-  "en": "\\rI got tired of swimming. I wish he would quit so we could go home.",
-  "it": "\\rMi sono stancata di nuotare. Vorrei che smettesse, così potremmo tornare a casa."
  },
  {
   "id": "Lilycove",

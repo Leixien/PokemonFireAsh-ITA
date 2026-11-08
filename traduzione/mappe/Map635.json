@@ -85,9 +85,9 @@
   "it": "\\rSpero che tu abbia successo!"
  },
  {
-  "id": "\\rGallade can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
-  "en": "\\rGallade can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
-  "it": "\\rGallade può teletrasportarti.\\ch[1,-1,Sabbiafine,Giubilopoli, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Canalipoli,Nevepoli,Esci]"
+  "id": "\\rGallade can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
+  "en": "\\rGallade can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
+  "it": "\\rGallade può teletrasportarti.\\ch[1,-1,Sabbiafine,Giubilopoli, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Canalipoli,Nevepoli,Annulla]"
  },
  {
   "id": "\\bGallade!",

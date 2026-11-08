@@ -10,16 +10,6 @@
   "it": "\\rMi raccomando, stai attento. La palude può causare un sacco di problemi."
  },
  {
-  "id": "\\rWho goes there?",
-  "en": "\\rWho goes there?",
-  "it": "\\rChi va là?"
- },
- {
-  "id": "\\rBe careful. Sneaking up on someone is a bad idea.",
-  "en": "\\rBe careful. Sneaking up on someone is a bad idea.",
-  "it": "\\rStai attento. Avvicinarsi di soppiatto a qualcuno è una pessima idea."
- },
- {
   "id": "\\bKeanan: Hello there. Would you like me to train one of your Pokémon?",
   "en": "\\bKeanan: Hello there. Would you like me to train one of your Pokémon?",
   "it": "\\bKeanan: Salve. Vuoi che alleni uno dei tuoi Pokémon?"
@@ -80,9 +70,14 @@
   "it": "\\bPosso sempre allenartene uno."
  },
  {
-  "id": "\\bCome back another time.",
-  "en": "\\bCome back another time.",
-  "it": "\\bTorna un'altra volta."
+  "id": "\\bIf you leave me that Pokémon, what are you gonna battle with?",
+  "en": "\\bIf you leave me that Pokémon, what are you gonna battle with?",
+  "it": "\\bSe mi lasci quel Pokémon, con cosa lotterai?"
+ },
+ {
+  "id": "\\bCome back with some common sense.",
+  "en": "\\bCome back with some common sense.",
+  "it": "\\bTorna quando avrai un po' di buon senso."
  },
  {
   "id": "\\bFine, I'll raise your \\v[3] for a while.",
@@ -95,9 +90,9 @@
   "it": "\\bTorna a prenderlo più tardi."
  },
  {
-  "id": "\\bHello \\PN. How's it going? Your Pokémon got stronger.",
-  "en": "\\bHello \\PN. How's it going? Your Pokémon got stronger.",
-  "it": "\\bCiao, \\PN. Come va? Il tuo Pokémon è diventato più forte."
+  "id": "\\bHey \\PN. How's it going? Your Pokémon got stronger.",
+  "en": "\\bHey \\PN. How's it going? Your Pokémon got stronger.",
+  "it": "\\bEhi, \\PN. Come va? Il tuo Pokémon è diventato più forte."
  },
  {
   "id": "\\bBy level, your \\v[3] has grown by about \\v[4].",
@@ -130,9 +125,9 @@
   "it": "\\G\\bNon hai abbastanza soldi..."
  },
  {
-  "id": "\\G\\bWonderful\\nHere's your Pokémon.",
-  "en": "\\G\\bWonderful\\nHere's your Pokémon.",
-  "it": "\\G\\bMeraviglioso\\nEcco il tuo Pokémon."
+  "id": "\\G\\bAwesome\\nHere's your Pokémon.",
+  "en": "\\G\\bAwesome\\nHere's your Pokémon.",
+  "it": "\\G\\bFantastico\\nEcco il tuo Pokémon."
  },
  {
   "id": "\\PN took \\v[3] back from Keanan.",
@@ -143,6 +138,16 @@
   "id": "\\bDo you want to take back the other one, too?",
   "en": "\\bDo you want to take back the other one, too?",
   "it": "\\bVuoi riprenderti anche l'altro?"
+ },
+ {
+  "id": "\\rWho goes there?",
+  "en": "\\rWho goes there?",
+  "it": "\\rChi va là?"
+ },
+ {
+  "id": "\\rBe careful. Sneaking up on someone is a bad idea.",
+  "en": "\\rBe careful. Sneaking up on someone is a bad idea.",
+  "it": "\\rStai attento. Avvicinarsi di soppiatto a qualcuno è una pessima idea."
  },
  {
   "id": "\\bWhere are you going?",

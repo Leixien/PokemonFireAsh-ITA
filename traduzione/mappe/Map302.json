@@ -1,5 +1,10 @@
 [
  {
+  "id": "It looks like a Pokémon.",
+  "en": "It looks like a Pokémon.",
+  "it": "Sembra un Pokémon."
+ },
+ {
   "id": "\\bDo you have any water?",
   "en": "\\bDo you have any water?",
   "it": "\\bHai un po' d'acqua?"
@@ -8,11 +13,6 @@
   "id": "\\bStay hydrated.",
   "en": "\\bStay hydrated.",
   "it": "\\bRicordati di bere."
- },
- {
-  "id": "It looks like a Pokémon.",
-  "en": "It looks like a Pokémon.",
-  "it": "Sembra un Pokémon."
  },
  {
   "id": "\\bI think this place used to be a lake.",

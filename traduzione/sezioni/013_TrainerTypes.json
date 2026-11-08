@@ -371,28 +371,28 @@
  },
  {
   "id": 74,
+  "en": "Breeder",
+  "it": "Allevatore"
+ },
+ {
+  "id": 75,
+  "en": "Breeder",
+  "it": "Allevatore"
+ },
+ {
+  "id": 76,
   "en": "Pokémon Trainer",
   "it": "Allenatore"
  },
  {
-  "id": 75,
-  "en": "Watcher",
-  "it": "Osservatore"
- },
- {
-  "id": 76,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
- },
- {
   "id": 77,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
  },
  {
   "id": 78,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
+  "en": "Watcher",
+  "it": "Osservatore"
  },
  {
   "id": 79,
@@ -401,8 +401,8 @@
  },
  {
   "id": 80,
-  "en": "Orange Crew Leader",
-  "it": "Capo Orange"
+  "en": "Gym Leader",
+  "it": "Capopalestra"
  },
  {
   "id": 81,
@@ -416,8 +416,8 @@
  },
  {
   "id": 83,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
+  "en": "Orange Crew Leader",
+  "it": "Capo Orange"
  },
  {
   "id": 84,
@@ -426,8 +426,8 @@
  },
  {
   "id": 85,
-  "en": "Kimono Girl",
-  "it": "Ragazza Kimono"
+  "en": "Gym Leader",
+  "it": "Capopalestra"
  },
  {
   "id": 86,
@@ -441,8 +441,8 @@
  },
  {
   "id": 88,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
+  "en": "Kimono Girl",
+  "it": "Ragazza Kimono"
  },
  {
   "id": 89,
@@ -491,63 +491,63 @@
  },
  {
   "id": 98,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 99,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 100,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 101,
   "en": "Factory Head",
   "it": "Capofabbrica"
  },
  {
-  "id": 99,
+  "id": 102,
   "en": "Arena Tycoon",
   "it": "Magnate Arena"
  },
  {
-  "id": 100,
+  "id": 103,
   "en": "Dome Ace",
   "it": "Asso Cupola"
  },
  {
-  "id": 101,
+  "id": 104,
   "en": "Pike Queen",
   "it": "Regina Tubo"
  },
  {
-  "id": 102,
+  "id": 105,
   "en": "Palace Maven",
   "it": "Guru Palazzo"
  },
  {
-  "id": 103,
+  "id": 106,
   "en": "Salon Maiden",
   "it": "Dama Salone"
  },
  {
-  "id": 104,
+  "id": 107,
   "en": "Pyramid King",
   "it": "Re Piramide"
  },
  {
-  "id": 105,
+  "id": 108,
   "en": "Pokémon Coordinator",
   "it": "Coordinatore"
  },
  {
-  "id": 106,
+  "id": 109,
   "en": "Rival",
   "it": "Rivale"
- },
- {
-  "id": 107,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
- },
- {
-  "id": 108,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
- },
- {
-  "id": 109,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
  },
  {
   "id": 110,
@@ -576,43 +576,43 @@
  },
  {
   "id": 115,
-  "en": "Pokémon Trainer",
-  "it": "Allenatore"
+  "en": "Gym Leader",
+  "it": "Capopalestra"
  },
  {
   "id": 116,
-  "en": "Pokémon Trainer",
-  "it": "Allenatore"
+  "en": "Gym Leader",
+  "it": "Capopalestra"
  },
  {
   "id": 117,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 118,
   "en": "Pokémon Trainer",
   "it": "Allenatore"
  },
  {
-  "id": 118,
+  "id": 119,
   "en": "Tower Tycoon",
   "it": "Magnate Torre"
  },
  {
-  "id": 119,
+  "id": 120,
   "en": "Elite Four",
   "it": "Superquattro"
  },
  {
-  "id": 120,
+  "id": 121,
   "en": "Gym Leader",
   "it": "Capopalestra"
- },
- {
-  "id": 121,
-  "en": "Pokémon Trainer",
-  "it": "Allenatore"
  },
  {
   "id": 122,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
  },
  {
   "id": 123,
@@ -661,8 +661,8 @@
  },
  {
   "id": 132,
-  "en": "Connoisseur",
-  "it": "Intenditore"
+  "en": "Gym Leader",
+  "it": "Capopalestra"
  },
  {
   "id": 133,
@@ -1116,23 +1116,23 @@
  },
  {
   "id": 223,
+  "en": "Pokémon Performer",
+  "it": "Artista Pokémon"
+ },
+ {
+  "id": 224,
   "en": "Pokémon Trainer",
   "it": "Allenatore"
  },
  {
-  "id": 224,
+  "id": 225,
   "en": "Champion",
   "it": "Campione"
  },
  {
-  "id": 225,
+  "id": 226,
   "en": "Dynamax Pokémon",
   "it": "Pokémon Dynamax"
- },
- {
-  "id": 226,
-  "en": "Gym Leader",
-  "it": "Capopalestra"
  },
  {
   "id": 227,
@@ -1156,28 +1156,28 @@
  },
  {
   "id": 231,
+  "en": "Gym Leader",
+  "it": "Capopalestra"
+ },
+ {
+  "id": 232,
   "en": "Elite Four",
   "it": "Superquattro"
  },
  {
-  "id": 232,
+  "id": 233,
   "en": "Pokémon Trainer",
   "it": "Allenatore"
  },
  {
-  "id": 233,
+  "id": 234,
   "en": "Chairman",
   "it": "Presidente"
  },
  {
-  "id": 234,
+  "id": 235,
   "en": "Legendary Pokémon",
   "it": "Pokémon leggendario"
- },
- {
-  "id": 235,
-  "en": "Pokémon Trainer",
-  "it": "Allenatore"
  },
  {
   "id": 236,
@@ -1196,8 +1196,8 @@
  },
  {
   "id": 239,
-  "en": "Pokémon Trainer",
-  "it": "Allenatore"
+  "en": "Team Rocket's",
+  "it": "Team Rocket"
  },
  {
   "id": 240,
@@ -1206,7 +1206,1577 @@
  },
  {
   "id": 241,
-  "en": "Team Rocket's",
-  "it": "Team Rocket"
+  "en": "Baseball Fan",
+  "it": "Tifoso di Baseball"
+ },
+ {
+  "id": 242,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 243,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 244,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 245,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 246,
+  "en": "Aether Branch Chief",
+  "it": "Capo Sezione Aether"
+ },
+ {
+  "id": 247,
+  "en": "Golfer",
+  "it": "Golfista"
+ },
+ {
+  "id": 248,
+  "en": "Pokémon Trainer",
+  "it": "Allenatore"
+ },
+ {
+  "id": 249,
+  "en": "Legendary Pokémon",
+  "it": "Pokémon leggendario"
+ },
+ {
+  "id": 250,
+  "en": "Legendary Pokémon",
+  "it": "Pokémon leggendario"
+ },
+ {
+  "id": 251,
+  "en": "Legendary Pokémon",
+  "it": "Pokémon leggendario"
+ },
+ {
+  "id": 252,
+  "en": "Legendary Pokémon",
+  "it": "Pokémon leggendario"
+ },
+ {
+  "id": 253,
+  "en": "Legendary Pokémon",
+  "it": "Pokémon leggendario"
+ },
+ {
+  "id": 254,
+  "en": "Legendary Pokémon",
+  "it": "Pokémon leggendario"
+ },
+ {
+  "id": 255,
+  "en": "Gigantamax Pokémon",
+  "it": "Pokémon Gigamax"
+ },
+ {
+  "id": 256,
+  "en": "Gigantamax Pokémon",
+  "it": "Pokémon Gigamax"
+ },
+ {
+  "id": 257,
+  "en": "Gigantamax Pokémon",
+  "it": "Pokémon Gigamax"
+ },
+ {
+  "id": 258,
+  "en": "Dynamax Pokémon",
+  "it": "Pokémon Dynamax"
+ },
+ {
+  "id": 259,
+  "en": "Gigantamax Pokémon",
+  "it": "Pokémon Gigamax"
+ },
+ {
+  "id": 260,
+  "en": "Eternamax",
+  "it": "Dynamax Infinito"
+ },
+ {
+  "id": 261,
+  "en": "Gigantamax Pokémon",
+  "it": "Pokémon Gigamax"
+ },
+ {
+  "id": 300,
+  "en": "Roaring Fighter",
+  "it": "Combattente Ruggente"
+ },
+ {
+  "id": 301,
+  "en": "Compassionate Lassie",
+  "it": "Ragazza Compassionevole"
+ },
+ {
+  "id": 302,
+  "en": "Harsh Elder",
+  "it": "Anziano Severo"
+ },
+ {
+  "id": 303,
+  "en": "Draco Descendant",
+  "it": "Discendente Draco"
+ },
+ {
+  "id": 304,
+  "en": "Masked Magician",
+  "it": "Mago Mascherato"
+ },
+ {
+  "id": 305,
+  "en": "Elusive Jonin",
+  "it": "Jonin Sfuggente"
+ },
+ {
+  "id": 306,
+  "en": "Mighty Brute",
+  "it": "Bruto Possente"
+ },
+ {
+  "id": 307,
+  "en": "Dominant Lady",
+  "it": "Dama Dominante"
+ },
+ {
+  "id": 308,
+  "en": "Majestic Champion",
+  "it": "Campione Maestoso"
+ },
+ {
+  "id": 309,
+  "en": "Adventurous Lass",
+  "it": "Pupa Avventurosa"
+ },
+ {
+  "id": 310,
+  "en": "Cold Juvenile",
+  "it": "Giovane Freddo"
+ },
+ {
+  "id": 311,
+  "en": "Capable Lad",
+  "it": "Ragazzo Capace"
+ },
+ {
+  "id": 312,
+  "en": "Talented Damsel",
+  "it": "Damigella Talentuosa"
+ },
+ {
+  "id": 313,
+  "en": "Disciplined Scholar",
+  "it": "Studioso Disciplinato"
+ },
+ {
+  "id": 314,
+  "en": "Raging Surfer",
+  "it": "Surfista Furioso"
+ },
+ {
+  "id": 315,
+  "en": "Jolly Senior",
+  "it": "Anziano Allegro"
+ },
+ {
+  "id": 316,
+  "en": "Spirited Gal",
+  "it": "Ragazza Grintosa"
+ },
+ {
+  "id": 317,
+  "en": "Stern Man",
+  "it": "Uomo Severo"
+ },
+ {
+  "id": 318,
+  "en": "Confident Femme",
+  "it": "Donna Sicura"
+ },
+ {
+  "id": 319,
+  "en": "Inseparable Twins",
+  "it": "Gemelli Inseparabili"
+ },
+ {
+  "id": 320,
+  "en": "Exquisite Mentor",
+  "it": "Mentore Raffinato"
+ },
+ {
+  "id": 321,
+  "en": "Upbeat Punk",
+  "it": "Punk Gioioso"
+ },
+ {
+  "id": 322,
+  "en": "Blithe Whisperer",
+  "it": "Sussurratore Gaio"
+ },
+ {
+  "id": 323,
+  "en": "Posh Milady",
+  "it": "Milady Snob"
+ },
+ {
+  "id": 324,
+  "en": "Seasoned Captain",
+  "it": "Capitano Esperto"
+ },
+ {
+  "id": 325,
+  "en": "Respected Gent",
+  "it": "Signore Rispettato"
+ },
+ {
+  "id": 326,
+  "en": "Flamboyant Artisan",
+  "it": "Artigiano Eccentrico"
+ },
+ {
+  "id": 327,
+  "en": "Sickly Youth",
+  "it": "Giovane Malaticcio"
+ },
+ {
+  "id": 328,
+  "en": "Rad Cutie",
+  "it": "Tipa Tosta"
+ },
+ {
+  "id": 329,
+  "en": "Remarkable Dude",
+  "it": "Tipo Notevole"
+ },
+ {
+  "id": 330,
+  "en": "Hardworking Miner",
+  "it": "Minatore Laborioso"
+ },
+ {
+  "id": 331,
+  "en": "Cheery Trekker",
+  "it": "Escursionista Allegro"
+ },
+ {
+  "id": 332,
+  "en": "Passionate Athlete",
+  "it": "Atleta Appassionato"
+ },
+ {
+  "id": 333,
+  "en": "Torrential Wrestler",
+  "it": "Lottatore Torrenziale"
+ },
+ {
+  "id": 334,
+  "en": "Stylish Senorita",
+  "it": "Senorita Elegante"
+ },
+ {
+  "id": 335,
+  "en": "Sturdy Pitman",
+  "it": "Scavatore Robusto"
+ },
+ {
+  "id": 336,
+  "en": "Dreamy Sheila",
+  "it": "Ragazza Sognante"
+ },
+ {
+  "id": 337,
+  "en": "Shining Star",
+  "it": "Stella Splendente"
+ },
+ {
+  "id": 338,
+  "en": "Prideful Challenger",
+  "it": "Sfidante Orgoglioso"
+ },
+ {
+  "id": 339,
+  "en": "Observant Matron",
+  "it": "Matrona Attenta"
+ },
+ {
+  "id": 340,
+  "en": "Blazing Afro",
+  "it": "Afro Fiammante"
+ },
+ {
+  "id": 341,
+  "en": "Avid Reader",
+  "it": "Lettore Avido"
+ },
+ {
+  "id": 342,
+  "en": "Venerable Mythologist",
+  "it": "Mitologo Venerabile"
+ },
+ {
+  "id": 343,
+  "en": "Health Specialist",
+  "it": "Specialista PS"
+ },
+ {
+  "id": 344,
+  "en": "Power Specialist",
+  "it": "Specialista Forza"
+ },
+ {
+  "id": 345,
+  "en": "Attack Specialist",
+  "it": "Specialista Attacco"
+ },
+ {
+  "id": 346,
+  "en": "Defense Specialist",
+  "it": "Specialista Difesa"
+ },
+ {
+  "id": 347,
+  "en": "Speed Specialist",
+  "it": "Specialista Velocità"
+ },
+ {
+  "id": 348,
+  "en": "Hyperactive Hotshot",
+  "it": "Asso Iperattivo"
+ },
+ {
+  "id": 349,
+  "en": "Stellar Seeker",
+  "it": "Cercatore Stellare"
+ },
+ {
+  "id": 350,
+  "en": "Phenomenal Visionary",
+  "it": "Visionario Fenomenale"
+ },
+ {
+  "id": 351,
+  "en": "Conscientious Connoisseur",
+  "it": "Intenditore Scrupoloso"
+ },
+ {
+  "id": 352,
+  "en": "Hotheaded Epicurean",
+  "it": "Buongustaio Focoso"
+ },
+ {
+  "id": 353,
+  "en": "Esteemed Sommelier",
+  "it": "Sommelier Stimato"
+ },
+ {
+  "id": 354,
+  "en": "Inquisitive Archaeologist",
+  "it": "Archeologo Curioso"
+ },
+ {
+  "id": 355,
+  "en": "Premier Artist",
+  "it": "Artista di Punta"
+ },
+ {
+  "id": 356,
+  "en": "Dazzling Supermodel",
+  "it": "Top Model Abbagliante"
+ },
+ {
+  "id": 357,
+  "en": "Underground Boss",
+  "it": "Boss del Sottosuolo"
+ },
+ {
+  "id": 358,
+  "en": "Watchful Pilot",
+  "it": "Pilota Vigile"
+ },
+ {
+  "id": 359,
+  "en": "Fervent Actor",
+  "it": "Attore Fervente"
+ },
+ {
+  "id": 360,
+  "en": "Spartan Mayor",
+  "it": "Sindaco Spartano"
+ },
+ {
+  "id": 361,
+  "en": "Focused Teacher",
+  "it": "Insegnante Attento"
+ },
+ {
+  "id": 362,
+  "en": "Starlet Bassist",
+  "it": "Bassista Stellina"
+ },
+ {
+  "id": 363,
+  "en": "Carefree Diver",
+  "it": "Sub Spensierato"
+ },
+ {
+  "id": 364,
+  "en": "Horror Writer",
+  "it": "Scrittore Horror"
+ },
+ {
+  "id": 365,
+  "en": "Street Fighter",
+  "it": "Lottatore di Strada"
+ },
+ {
+  "id": 366,
+  "en": "Fallen Gambler",
+  "it": "Giocatore Caduto"
+ },
+ {
+  "id": 367,
+  "en": "Sleepy Princess",
+  "it": "Principessa Assonnata"
+ },
+ {
+  "id": 368,
+  "en": "Wandering Hermit",
+  "it": "Eremita Errante"
+ },
+ {
+  "id": 369,
+  "en": "Young Contender",
+  "it": "Giovane Sfidante"
+ },
+ {
+  "id": 370,
+  "en": "Chosen Child",
+  "it": "Bambino Prescelto"
+ },
+ {
+  "id": 371,
+  "en": "Goodhearted Klutz",
+  "it": "Imbranato di Buon Cuore"
+ },
+ {
+  "id": 372,
+  "en": "Zealous Teen",
+  "it": "Adolescente Zelante"
+ },
+ {
+  "id": 373,
+  "en": "Cheerful Chick",
+  "it": "Ragazza Solare"
+ },
+ {
+  "id": 374,
+  "en": "Faithful Buddy",
+  "it": "Amico Fedele"
+ },
+ {
+  "id": 375,
+  "en": "Ardent Babe",
+  "it": "Pupa Ardente"
+ },
+ {
+  "id": 376,
+  "en": "Valiant Buck",
+  "it": "Giovane Valoroso"
+ },
+ {
+  "id": 377,
+  "en": "Keen-eyed Photographer",
+  "it": "Fotografo Acuto"
+ },
+ {
+  "id": 378,
+  "en": "Collected Climber",
+  "it": "Scalatore Pacato"
+ },
+ {
+  "id": 379,
+  "en": "Adorable Skater",
+  "it": "Skater Adorabile"
+ },
+ {
+  "id": 380,
+  "en": "Calm Gardener",
+  "it": "Giardiniere Calmo"
+ },
+ {
+  "id": 381,
+  "en": "Inventive Genius",
+  "it": "Genio Inventivo"
+ },
+ {
+  "id": 382,
+  "en": "Sophisticated Fashionista",
+  "it": "Fashionista Sofisticata"
+ },
+ {
+  "id": 383,
+  "en": "Starlight Teller",
+  "it": "Lettrice di Stelle"
+ },
+ {
+  "id": 384,
+  "en": "Cool Chief",
+  "it": "Capo Cool"
+ },
+ {
+  "id": 385,
+  "en": "Shady Reporter",
+  "it": "Reporter Losco"
+ },
+ {
+  "id": 386,
+  "en": "Distinguished Chef",
+  "it": "Chef Rinomato"
+ },
+ {
+  "id": 387,
+  "en": "Honorable Knight",
+  "it": "Cavaliere d'Onore"
+ },
+ {
+  "id": 388,
+  "en": "Composed Guru",
+  "it": "Guru Composto"
+ },
+ {
+  "id": 389,
+  "en": "Grand Duchess",
+  "it": "Granduchessa"
+ },
+ {
+  "id": 390,
+  "en": "Energetic Tween",
+  "it": "Ragazzino Energico"
+ },
+ {
+  "id": 391,
+  "en": "Chummy Dancer",
+  "it": "Ballerino Amichevole"
+ },
+ {
+  "id": 392,
+  "en": "Tiny Collector",
+  "it": "Piccolo Collezionista"
+ },
+ {
+  "id": 393,
+  "en": "Chic Diva",
+  "it": "Diva Chic"
+ },
+ {
+  "id": 394,
+  "en": "Dapper Guy",
+  "it": "Tipo Elegante"
+ },
+ {
+  "id": 395,
+  "en": "Mystery Magician",
+  "it": "Mago Misterioso"
+ },
+ {
+  "id": 396,
+  "en": "Dignified Prince",
+  "it": "Principe Dignitoso"
+ },
+ {
+  "id": 397,
+  "en": "Timid Fisher",
+  "it": "Pescatore Timido"
+ },
+ {
+  "id": 398,
+  "en": "Vehement Folk",
+  "it": "Tipo Veemente"
+ },
+ {
+  "id": 399,
+  "en": "Peculiar Cook",
+  "it": "Cuoco Bizzarro"
+ },
+ {
+  "id": 400,
+  "en": "Bright Mechanic",
+  "it": "Meccanico Brillante"
+ },
+ {
+  "id": 401,
+  "en": "Aspiring Painter",
+  "it": "Aspirante Pittore"
+ },
+ {
+  "id": 402,
+  "en": "Lonely Herder",
+  "it": "Pastore Solitario"
+ },
+ {
+  "id": 403,
+  "en": "Lazy Officer",
+  "it": "Agente Pigro"
+ },
+ {
+  "id": 404,
+  "en": "Smiling Orphan",
+  "it": "Orfano Sorridente"
+ },
+ {
+  "id": 405,
+  "en": "Sassy Jeweler",
+  "it": "Gioielliera Sfacciata"
+ },
+ {
+  "id": 406,
+  "en": "Humble Golfer",
+  "it": "Golfista Umile"
+ },
+ {
+  "id": 407,
+  "en": "Geeky Whiz",
+  "it": "Genietto Nerd"
+ },
+ {
+  "id": 408,
+  "en": "Undaunted Kahuna",
+  "it": "Kahuna Impavido"
+ },
+ {
+  "id": 409,
+  "en": "Big-hearted Boy",
+  "it": "Ragazzo Generoso"
+ },
+ {
+  "id": 410,
+  "en": "Twinkle Girl",
+  "it": "Ragazza Scintillante"
+ },
+ {
+  "id": 411,
+  "en": "Secret Enforcer",
+  "it": "Esecutore Segreto"
+ },
+ {
+  "id": 412,
+  "en": "Sunshine Explorer",
+  "it": "Esploratore Solare"
+ },
+ {
+  "id": 413,
+  "en": "Moonlight Adventurer",
+  "it": "Avventuriera Lunare"
+ },
+ {
+  "id": 414,
+  "en": "Subway Boss",
+  "it": "Capo Metrò"
+ },
+ {
+  "id": 415,
+  "en": "Subway Boss",
+  "it": "Capo Metrò"
+ },
+ {
+  "id": 416,
+  "en": "Factory Head",
+  "it": "Capofabbrica"
+ },
+ {
+  "id": 417,
+  "en": "Arena Tycoon",
+  "it": "Magnate Arena"
+ },
+ {
+  "id": 418,
+  "en": "Dome Ace",
+  "it": "Asso Cupola"
+ },
+ {
+  "id": 419,
+  "en": "Pike Queen",
+  "it": "Regina Tubo"
+ },
+ {
+  "id": 420,
+  "en": "Palace Maven",
+  "it": "Guru Palazzo"
+ },
+ {
+  "id": 421,
+  "en": "Pyramid King",
+  "it": "Re Piramide"
+ },
+ {
+  "id": 422,
+  "en": "Salon Maiden",
+  "it": "Dama Salone"
+ },
+ {
+  "id": 423,
+  "en": "Tower Baron",
+  "it": "Barone Torre"
+ },
+ {
+  "id": 424,
+  "en": "Mill Analyst",
+  "it": "Analista Mulino"
+ },
+ {
+  "id": 425,
+  "en": "Arcade Star",
+  "it": "Stella Arcade"
+ },
+ {
+  "id": 426,
+  "en": "Castle Valet",
+  "it": "Valletto Castello"
+ },
+ {
+  "id": 427,
+  "en": "Hall Matron",
+  "it": "Matrona Sala"
+ },
+ {
+  "id": 428,
+  "en": "Innovative Pioneer",
+  "it": "Pioniere Innovativo"
+ },
+ {
+  "id": 429,
+  "en": "Kanto Professor",
+  "it": "Prof. di Kanto"
+ },
+ {
+  "id": 430,
+  "en": "Johto Professor",
+  "it": "Prof. di Johto"
+ },
+ {
+  "id": 431,
+  "en": "Hoenn Professor",
+  "it": "Prof. di Hoenn"
+ },
+ {
+  "id": 432,
+  "en": "Sinnoh Professor",
+  "it": "Prof. di Sinnoh"
+ },
+ {
+  "id": 433,
+  "en": "Unova Professor",
+  "it": "Prof. di Unima"
+ },
+ {
+  "id": 434,
+  "en": "Kalos Professor",
+  "it": "Prof. di Kalos"
+ },
+ {
+  "id": 435,
+  "en": "Alola Professor",
+  "it": "Prof. di Alola"
+ },
+ {
+  "id": 436,
+  "en": "Professor Assistant",
+  "it": "Assistente Prof."
+ },
+ {
+  "id": 437,
+  "en": "Calculative Zealot",
+  "it": "Fanatico Calcolatore"
+ },
+ {
+  "id": 438,
+  "en": "Impassioned Extremist",
+  "it": "Estremista Appassionato"
+ },
+ {
+  "id": 439,
+  "en": "Nihilistic Boss",
+  "it": "Capo Nichilista"
+ },
+ {
+  "id": 440,
+  "en": "Manipulative Founder",
+  "it": "Fondatore Manipolatore"
+ },
+ {
+  "id": 441,
+  "en": "Delusional King",
+  "it": "Re Illuso"
+ },
+ {
+  "id": 442,
+  "en": "Misanthropic Visionary",
+  "it": "Visionario Misantropo"
+ },
+ {
+  "id": 443,
+  "en": "Monomaniacal President",
+  "it": "Presidente Ossessiva"
+ },
+ {
+  "id": 444,
+  "en": "Rebellious Leader",
+  "it": "Leader Ribelle"
+ },
+ {
+  "id": 445,
+  "en": "Idealistic Chairman",
+  "it": "Presidente Idealista"
+ },
+ {
+  "id": 446,
+  "en": "Headstrong Breeder",
+  "it": "Allevatore Testardo"
+ },
+ {
+  "id": 447,
+  "en": "Tomboyish Mermaid",
+  "it": "Sirena Maschiaccio"
+ },
+ {
+  "id": 448,
+  "en": "Lightning Lieutenant",
+  "it": "Tenente Fulmine"
+ },
+ {
+  "id": 449,
+  "en": "Serene Florist",
+  "it": "Fioraia Serena"
+ },
+ {
+  "id": 450,
+  "en": "Gifted Mistress",
+  "it": "Dama Dotata"
+ },
+ {
+  "id": 451,
+  "en": "Shadow Disciple",
+  "it": "Discepola dell'Ombra"
+ },
+ {
+  "id": 452,
+  "en": "Hotheaded Quizmaster",
+  "it": "Quizmaster Focoso"
+ },
+ {
+  "id": 453,
+  "en": "Secret Mastermind",
+  "it": "Mente Segreta"
+ },
+ {
+  "id": 454,
+  "en": "Calculated Madame",
+  "it": "Madame Calcolatrice"
+ },
+ {
+  "id": 455,
+  "en": "Kantonian Rockstar",
+  "it": "Rockstar di Kanto"
+ },
+ {
+  "id": 456,
+  "en": "Cantankerous Granny",
+  "it": "Nonna Scorbutica"
+ },
+ {
+  "id": 457,
+  "en": "Excellent Trainer",
+  "it": "Allenatore Eccellente"
+ },
+ {
+  "id": 458,
+  "en": "Egotistic Chap",
+  "it": "Tipo Egocentrico"
+ },
+ {
+  "id": 459,
+  "en": "Ditsy Miss",
+  "it": "Signorina Svampita"
+ },
+ {
+  "id": 460,
+  "en": "Silent Ace",
+  "it": "Asso Silenzioso"
+ },
+ {
+  "id": 461,
+  "en": "Elegant Keeper",
+  "it": "Custode Elegante"
+ },
+ {
+  "id": 462,
+  "en": "Keen Researcher",
+  "it": "Ricercatore Acuto"
+ },
+ {
+  "id": 463,
+  "en": "Incredible Beauty",
+  "it": "Bellezza Incredibile"
+ },
+ {
+  "id": 464,
+  "en": "Mystic Seer",
+  "it": "Veggente Mistica"
+ },
+ {
+  "id": 465,
+  "en": "Clan Leader",
+  "it": "Capoclan"
+ },
+ {
+  "id": 466,
+  "en": "Survey Member",
+  "it": "Squadra Indagini"
+ },
+ {
+  "id": 467,
+  "en": "Masked Eccentric",
+  "it": "Eccentrico Mascherato"
+ },
+ {
+  "id": 468,
+  "en": "Vivacious Filly",
+  "it": "Puledra Vivace"
+ },
+ {
+  "id": 469,
+  "en": "Proud Telekineticist",
+  "it": "Telecineta Fiero"
+ },
+ {
+  "id": 470,
+  "en": "Stoic Prodigy",
+  "it": "Prodigio Stoico"
+ },
+ {
+  "id": 471,
+  "en": "Arrogant Brat",
+  "it": "Moccioso Arrogante"
+ },
+ {
+  "id": 472,
+  "en": "Wise Ninja",
+  "it": "Ninja Saggio"
+ },
+ {
+  "id": 473,
+  "en": "Distrustful Carline",
+  "it": "Ragazza Diffidente"
+ },
+ {
+  "id": 474,
+  "en": "Fortune Sister",
+  "it": "Sorella Fortuna"
+ },
+ {
+  "id": 475,
+  "en": "Fortune Sister",
+  "it": "Sorella Fortuna"
+ },
+ {
+  "id": 476,
+  "en": "Cryptic Dame",
+  "it": "Dama Enigmatica"
+ },
+ {
+  "id": 477,
+  "en": "Fortune Sister",
+  "it": "Sorella Fortuna"
+ },
+ {
+  "id": 478,
+  "en": "Clan Leader",
+  "it": "Capoclan"
+ },
+ {
+  "id": 479,
+  "en": "Cocky Brawn",
+  "it": "Muscoloso Spavaldo"
+ },
+ {
+  "id": 480,
+  "en": "Fervent Bonnie",
+  "it": "Bella Fervente"
+ },
+ {
+  "id": 481,
+  "en": "Refined Crusher",
+  "it": "Lottatore Raffinato"
+ },
+ {
+  "id": 482,
+  "en": "Earnest Youngster",
+  "it": "Giovane Sincero"
+ },
+ {
+  "id": 483,
+  "en": "Clan Leader",
+  "it": "Capoclan"
+ },
+ {
+  "id": 484,
+  "en": "Soft-spoken Swole",
+  "it": "Palestrato Pacato"
+ },
+ {
+  "id": 485,
+  "en": "Resolute Veteran",
+  "it": "Veterano Risoluto"
+ },
+ {
+  "id": 486,
+  "en": "Clan Head",
+  "it": "Capo del Clan"
+ },
+ {
+  "id": 487,
+  "en": "Vainglorious Pop",
+  "it": "Papà Vanaglorioso"
+ },
+ {
+  "id": 488,
+  "en": "Hisui Professor",
+  "it": "Prof. di Hisui"
+ },
+ {
+  "id": 489,
+  "en": "Unbeatable Champ",
+  "it": "Campione Imbattibile"
+ },
+ {
+  "id": 490,
+  "en": "Brilliant Bronco",
+  "it": "Puledro Brillante"
+ },
+ {
+  "id": 491,
+  "en": "Galar Professor",
+  "it": "Prof. di Galar"
+ },
+ {
+  "id": 492,
+  "en": "Altruistic Romp",
+  "it": "Monello Altruista"
+ },
+ {
+  "id": 493,
+  "en": "Popular Kid",
+  "it": "Ragazzo Popolare"
+ },
+ {
+  "id": 494,
+  "en": "Haughty Slick",
+  "it": "Furbo Altezzoso"
+ },
+ {
+  "id": 495,
+  "en": "Big-hearted Coach",
+  "it": "Coach Generoso"
+ },
+ {
+  "id": 496,
+  "en": "Gentle Farmer",
+  "it": "Contadino Gentile"
+ },
+ {
+  "id": 497,
+  "en": "Dojo Master",
+  "it": "Maestro del Dojo"
+ },
+ {
+  "id": 498,
+  "en": "Indomitable Superstar",
+  "it": "Superstar Indomita"
+ },
+ {
+  "id": 499,
+  "en": "Psychotic Secretary",
+  "it": "Segretaria Psicotica"
+ },
+ {
+  "id": 500,
+  "en": "Pink Wizard",
+  "it": "Mago Rosa"
+ },
+ {
+  "id": 501,
+  "en": "Stunning Grace",
+  "it": "Grazia Stupenda"
+ },
+ {
+  "id": 502,
+  "en": "Enthusiastic Expeditor",
+  "it": "Spedizioniere Entusiasta"
+ },
+ {
+  "id": 503,
+  "en": "Rockin' Singer",
+  "it": "Cantante Rock"
+ },
+ {
+  "id": 504,
+  "en": "Professional Tamer",
+  "it": "Domatore Professionista"
+ },
+ {
+  "id": 505,
+  "en": "Survey Member",
+  "it": "Squadra Indagini"
+ },
+ {
+  "id": 506,
+  "en": "Playful Adolescence",
+  "it": "Adolescenza Giocosa"
+ },
+ {
+  "id": 507,
+  "en": "Dynamic Bairn",
+  "it": "Bimbo Dinamico"
+ },
+ {
+  "id": 508,
+  "en": "Malicious Worshipper",
+  "it": "Adoratore Malvagio"
+ },
+ {
+  "id": 509,
+  "en": "Amnestic Warden",
+  "it": "Guardiano Amnesico"
+ },
+ {
+  "id": 510,
+  "en": "Fiery Trainer",
+  "it": "Allenatore Focoso"
+ },
+ {
+  "id": 511,
+  "en": "Grandeur Club Mastermind",
+  "it": "Mente del Grandeur Club"
+ },
+ {
+  "id": 512,
+  "en": "Grandeur Club Vice",
+  "it": "Vice del Grandeur Club"
+ },
+ {
+  "id": 513,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 514,
+  "en": "Grandeur Club Administrator",
+  "it": "Superiore Grandeur Club"
+ },
+ {
+  "id": 515,
+  "en": "Grandeur Club Employee",
+  "it": "Impiegato Grandeur Club"
+ },
+ {
+  "id": 516,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 517,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 518,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 519,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 520,
+  "en": "Sygna Suit (Thunderbolt)",
+  "it": "Sygna Suit (Fulmine)"
+ },
+ {
+  "id": 521,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 522,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 523,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 524,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 525,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 526,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 527,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 528,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 529,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 530,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 531,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 532,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 533,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 534,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 535,
+  "en": "Sygna Suit (Renegade)",
+  "it": "Sygna Suit (Ribelle)"
+ },
+ {
+  "id": 536,
+  "en": "Sygna Suit (Aura)",
+  "it": "Sygna Suit (Aura)"
+ },
+ {
+  "id": 537,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 538,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 539,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 540,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 541,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 542,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 543,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 544,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 545,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 546,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 547,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 548,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 549,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 550,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 551,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 552,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 553,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 554,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 555,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 556,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 557,
+  "en": "Sygna Suit",
+  "it": "Sygna Suit"
+ },
+ {
+  "id": 558,
+  "en": "Sygna Suit (Ultra)",
+  "it": "Sygna Suit (Ultra)"
+ },
+ {
+  "id": 559,
+  "en": "Dojo Uniform",
+  "it": "Divisa del Dojo"
+ },
+ {
+  "id": 560,
+  "en": "Anniversary (2021)",
+  "it": "Anniversario (2021)"
+ },
+ {
+  "id": 561,
+  "en": "Anniversary (2021)",
+  "it": "Anniversario (2021)"
+ },
+ {
+  "id": 562,
+  "en": "Anniversary (2021)",
+  "it": "Anniversario (2021)"
+ },
+ {
+  "id": 563,
+  "en": "Anniversary (2022)",
+  "it": "Anniversario (2022)"
+ },
+ {
+  "id": 564,
+  "en": "Anniversary (2022)",
+  "it": "Anniversario (2022)"
+ },
+ {
+  "id": 565,
+  "en": "Anniversary (2022)",
+  "it": "Anniversario (2022)"
+ },
+ {
+  "id": 566,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 567,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 568,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 569,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 570,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 571,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 572,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 573,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 574,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 575,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 576,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 577,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 578,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 579,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 580,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 581,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 582,
+  "en": "Neo Champion",
+  "it": "Neo Campione"
+ },
+ {
+  "id": 583,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 584,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 585,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 586,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 587,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 588,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 589,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 590,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 591,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 592,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
+ },
+ {
+  "id": 593,
+  "en": "Arc Suit",
+  "it": "Tuta Arc"
  }
 ]

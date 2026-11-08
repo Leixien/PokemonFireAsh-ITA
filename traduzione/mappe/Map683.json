@@ -5,6 +5,11 @@
   "it": "\\bNon dovrebbe chiamarsi Battle Club?"
  },
  {
+  "id": "\\bThe Club Battle happens every so often. It's fun, but nothing like the Pokémon league.",
+  "en": "\\bThe Club Battle happens every so often. It's fun, but nothing like the Pokémon league.",
+  "it": "\\bIl Club Battle si tiene ogni tanto. È divertente, ma non è niente in confronto alla Lega Pokémon."
+ },
+ {
   "id": "\\rThis might help you in your fight.",
   "en": "\\rThis might help you in your fight.",
   "it": "\\rQuesto potrebbe aiutarti nella lotta."
@@ -18,11 +23,6 @@
   "id": "\\rCome back anytime!",
   "en": "\\rCome back anytime!",
   "it": "\\rTorna quando vuoi!"
- },
- {
-  "id": "\\bThe Club Battle happens every so often. It's fun, but nothing like the Pokémon league.",
-  "en": "\\bThe Club Battle happens every so often. It's fun, but nothing like the Pokémon league.",
-  "it": "\\bIl Club Battle si tiene ogni tanto. È divertente, ma non è niente in confronto alla Lega Pokémon."
  },
  {
   "id": "\\rNot many people enter the tournament. It would take too long if it did.",

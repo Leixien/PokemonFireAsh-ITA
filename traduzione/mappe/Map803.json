@@ -45,16 +45,6 @@
   "it": "\\rSto crescendo Pokémon insieme a Faith."
  },
  {
-  "id": "\\bI feel so safe in the corner.",
-  "en": "\\bI feel so safe in the corner.",
-  "it": "\\bMi sento così al sicuro nel mio angolino."
- },
- {
-  "id": "\\bI could step out of my corner, but I like it here.",
-  "en": "\\bI could step out of my corner, but I like it here.",
-  "it": "\\bPotrei uscire dal mio angolino, ma qui sto bene."
- },
- {
   "id": "\\rJessie: Prepare for trouble!",
   "en": "\\rJessie: Prepare for trouble!",
   "it": "\\rJessie: Preparatevi a passare guai!"
@@ -118,6 +108,16 @@
   "id": "\\bMeowth: We're back, twerp, and stronger than ever.",
   "en": "\\bMeowth: We're back, twerp, and stronger than ever.",
   "it": "\\bMeowth: Siamo tornati, moccioso, e più forti che mai."
+ },
+ {
+  "id": "\\bI feel so safe in the corner.",
+  "en": "\\bI feel so safe in the corner.",
+  "it": "\\bMi sento così al sicuro nel mio angolino."
+ },
+ {
+  "id": "\\bI could step out of my corner, but I like it here.",
+  "en": "\\bI could step out of my corner, but I like it here.",
+  "it": "\\bPotrei uscire dal mio angolino, ma qui sto bene."
  },
  {
   "id": "\\rAh, a Trainer! Lets go Joy!",

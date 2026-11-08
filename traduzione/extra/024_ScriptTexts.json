@@ -15,6 +15,11 @@
   "it": "Tentativo di impostare {1} come stato del Pokémon"
  },
  {
+  "id": "Cant load this save file",
+  "en": "Cant load this save file",
+  "it": "Impossibile caricare questo salvataggio"
+ },
+ {
   "id": "Click!\\wt[10]\n......\\wt[5] ......\\1",
   "en": "Click!\\wt[10]\n......\\wt[5] ......\\1",
   "it": "Clic!\\wt[10]\n......\\wt[5] ......\\1"
@@ -30,9 +35,19 @@
   "it": "Vuoi cancellare il salvataggio e ricominciare da capo?"
  },
  {
+  "id": "Do you want to delete this save file?",
+  "en": "Do you want to delete this save file?",
+  "it": "Vuoi cancellare questo salvataggio?"
+ },
+ {
   "id": "Invalid value {1} given",
   "en": "Invalid value {1} given",
   "it": "Valore non valido: {1}"
+ },
+ {
+  "id": "Load Game",
+  "en": "Load Game",
+  "it": "Carica partita"
  },
  {
   "id": "Map {1} was not found.",
@@ -48,6 +63,11 @@
   "id": "No starting position was set in the map editor.",
   "en": "No starting position was set in the map editor.",
   "it": "Nell'editor delle mappe non è stata impostata una posizione di partenza."
+ },
+ {
+  "id": "Passive: {1}\\nEffect: {2}",
+  "en": "Passive: {1}\\nEffect: {2}",
+  "it": "Passiva: {1}\\nEffetto: {2}"
  },
  {
   "id": "STOCK POKéMON: {1} Lv.{2} MaxHP: {3}\nTHIS POKéMON: {4} Lv.{5} MaxHP: {6}",
@@ -80,6 +100,11 @@
   "it": "I dati salvati sono stati cancellati."
  },
  {
+  "id": "Translations by:",
+  "en": "Translations by:",
+  "it": "Traduzioni di:"
+ },
+ {
   "id": "WARN: usage of deprecated method \"{1}\" or its alias.",
   "en": "WARN: usage of deprecated method \"{1}\" or its alias.",
   "it": "ATTENZIONE: uso del metodo deprecato \"{1}\" o di un suo alias."
@@ -90,9 +115,49 @@
   "it": "Vuoi salvare la partita?"
  },
  {
+  "id": "You don't have any save files. Restart game now.",
+  "en": "You don't have any save files. Restart game now.",
+  "it": "Non hai salvataggi. Riavvia il gioco."
+ },
+ {
   "id": "You put the {1} away\\nin the <icon=bagPocket{2}>\\c[1]{3} Pocket\\c[0].",
   "en": "You put the {1} away\\nin the <icon=bagPocket{2}>\\c[1]{3} Pocket\\c[0].",
   "it": "Hai messo {1}\\nnella tasca <icon=bagPocket{2}>\\c[1]{3}\\c[0]."
+ },
+ {
+  "id": "You put the {1} away\\nin the.",
+  "en": "You put the {1} away\\nin the.",
+  "it": "Hai messo {1}\\nnella tasca."
+ },
+ {
+  "id": "\\rGreat, let's begin!",
+  "en": "\\rGreat, let's begin!",
+  "it": "\\rBene, cominciamo!"
+ },
+ {
+  "id": "\\rI can't revive a Pokémon using duplicate fossils.",
+  "en": "\\rI can't revive a Pokémon using duplicate fossils.",
+  "it": "\\rNon posso rianimare un Pokémon usando due fossili uguali."
+ },
+ {
+  "id": "\\rI can't revive a Pokémon using two body fossils.",
+  "en": "\\rI can't revive a Pokémon using two body fossils.",
+  "it": "\\rNon posso rianimare un Pokémon usando due fossili del corpo."
+ },
+ {
+  "id": "\\rI can't revive a Pokémon using two head fossils.",
+  "en": "\\rI can't revive a Pokémon using two head fossils.",
+  "it": "\\rNon posso rianimare un Pokémon usando due fossili della testa."
+ },
+ {
+  "id": "\\rI'm sorry, but you need at least 5000 Poké Dollars to initiate a wonder trade.",
+  "en": "\\rI'm sorry, but you need at least 5000 Poké Dollars to initiate a wonder trade.",
+  "it": "\\rMi dispiace, ma ti servono almeno 5000 Pokédollari per avviare uno Scambio Prodigioso."
+ },
+ {
+  "id": "\\rSorry, those fossils are outside of my expertise.",
+  "en": "\\rSorry, those fossils are outside of my expertise.",
+  "it": "\\rMi dispiace, questi fossili vanno oltre le mie competenze."
  },
  {
   "id": "{1} forgot how to use {2}.\\nAnd...\u0001",
@@ -103,5 +168,10 @@
   "id": "{1} survived the poisoning.\\nThe poison faded away!\u0001",
   "en": "{1} survived the poisoning.\\nThe poison faded away!\u0001",
   "it": "{1} è sopravvissuto all'avvelenamento.\\nIl veleno è svanito!\u0001"
+ },
+ {
+  "id": "{1} unlearned its previous training.\\nAnd...\u0001",
+  "en": "{1} unlearned its previous training.\\nAnd...\u0001",
+  "it": "{1} ha dimenticato l'allenamento precedente.\\nE...\u0001"
  }
 ]

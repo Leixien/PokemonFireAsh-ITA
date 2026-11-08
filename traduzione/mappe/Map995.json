@@ -1,0 +1,527 @@
+[
+ {
+  "id": "\\rThis way to the contestants lounge, Champion \\PN.",
+  "en": "\\rThis way to the contestants lounge, Champion \\PN.",
+  "it": "\\rDa questa parte per la sala dei concorrenti, Campione \\PN."
+ },
+ {
+  "id": "\\rThis way to the contestants lounge.",
+  "en": "\\rThis way to the contestants lounge.",
+  "it": "\\rDa questa parte per la sala dei concorrenti."
+ },
+ {
+  "id": "\\bSteven: Usually, I wouldn't stick around, but I'll make an exception for you. Good luck with Leon.",
+  "en": "\\bSteven: Usually, I wouldn't stick around, but I'll make an exception for you. Good luck with Leon.",
+  "it": "\\bRocco: Di solito non mi trattengo, ma per te farò un'eccezione. Buona fortuna con Dandel."
+ },
+ {
+  "id": "\\bSteven: So you're here too. I'll give you a tough battle if we face each other later.",
+  "en": "\\bSteven: So you're here too. I'll give you a tough battle if we face each other later.",
+  "it": "\\bRocco: Quindi ci sei anche tu. Se ci affronteremo più tardi, ti darò filo da torcere."
+ },
+ {
+  "id": "\\bSteven: I lost, but want to go looking for some rocks later?",
+  "en": "\\bSteven: I lost, but want to go looking for some rocks later?",
+  "it": "\\bRocco: Ho perso, ma ti va di andare a cercare qualche roccia più tardi?"
+ },
+ {
+  "id": "\\bCilan: Hey \\PN! It's the final battle with Leon, right? Good luck!",
+  "en": "\\bCilan: Hey \\PN! It's the final battle with Leon, right?  Good luck!",
+  "it": "\\bSpighetto: Ehi, \\PN! È la lotta finale contro Dandel, vero?  Buona fortuna!"
+ },
+ {
+  "id": "\\bCilan: Hey \\PN! If we face each other later, let's be sure to give each other a delightful battle!",
+  "en": "\\bCilan: Hey \\PN! If we face each other later, let's be sure to give each other a delightful battle!",
+  "it": "\\bSpighetto: Ehi, \\PN! Se ci affronteremo più tardi, offriamoci a vicenda una lotta deliziosa!"
+ },
+ {
+  "id": "\\bCilan: Hey \\PN! That was a great battle earlier!",
+  "en": "\\bCilan: Hey \\PN! That was a great battle earlier!",
+  "it": "\\bSpighetto: Ehi, \\PN! Che bella lotta, prima!"
+ },
+ {
+  "id": "\\bBrock: You're here too, \\PN? If you want I can groom one of your Pokémon. It may help it in battle.",
+  "en": "\\bBrock: You're here too, \\PN? If you want I can groom one of your Pokémon. It may help it in battle.",
+  "it": "\\bBrock: Ci sei anche tu, \\PN? Se vuoi posso fare la toelettatura a uno dei tuoi Pokémon. Potrebbe aiutarlo in lotta."
+ },
+ {
+  "id": "\\bBrock: Which Pokémon do you want me to groom?",
+  "en": "\\bBrock: Which Pokémon do you want me to groom?",
+  "it": "\\bBrock: A quale Pokémon vuoi che faccia la toelettatura?"
+ },
+ {
+  "id": "\\bBrock: Oh, okay then.",
+  "en": "\\bBrock: Oh, okay then.",
+  "it": "\\bBrock: Oh, va bene allora."
+ },
+ {
+  "id": "\\bBrock: There! \\v[2] looks a lot better now!",
+  "en": "\\bBrock: There! \\v[2] looks a lot better now!",
+  "it": "\\bBrock: Ecco! \\v[2] sta molto meglio adesso!"
+ },
+ {
+  "id": "\\rReady to battle?",
+  "en": "\\rReady to battle?",
+  "it": "\\rTutto pronto per la lotta?"
+ },
+ {
+  "id": "\\rSorry, you can't participate. You need six different Pokémon to enter.",
+  "en": "\\rSorry, you can't participate. You need six different Pokémon to enter.",
+  "it": "\\rMi dispiace, non puoi partecipare. Per iscriverti ti servono sei Pokémon diversi."
+ },
+ {
+  "id": "\\rThey must be of different species and hold different items.",
+  "en": "\\rThey must be of different species and hold different items.",
+  "it": "\\rDevono essere di specie diverse e tenere strumenti diversi."
+ },
+ {
+  "id": "\\rCertain exotic species, as well as eggs, are ineligible.",
+  "en": "\\rCertain exotic species, as well as eggs, are ineligible.",
+  "it": "\\rAlcune specie esotiche, così come le uova, non sono ammesse."
+ },
+ {
+  "id": "\\rPlease come through.",
+  "en": "\\rPlease come through.",
+  "it": "\\rPrego, passa pure."
+ },
+ {
+  "id": "\\rTake your time to prepare. Your opponents are tough!",
+  "en": "\\rTake your time to prepare. Your opponents are tough!",
+  "it": "\\rPrenditi il tempo che ti serve per prepararti. I tuoi avversari sono tosti!"
+ },
+ {
+  "id": "\\rYou are currently not registered to battle.",
+  "en": "\\rYou are currently not registered to battle.",
+  "it": "\\rAl momento non hai un'iscrizione valida per lottare."
+ },
+ {
+  "id": "\\bDrake: So, it's just Leon left, huh? You've got this, \\PN.",
+  "en": "\\bDrake: So, it's just Leon left, huh? You've got this, \\PN.",
+  "it": "\\bDrake: Allora manca solo Dandel, eh? Ce la puoi fare, \\PN."
+ },
+ {
+  "id": "\\bDrake: It's been a while, \\PN! Let me give you a battle worthy of a Champion later.",
+  "en": "\\bDrake: It's been a while, \\PN! Let me give you a battle worthy of a Champion later.",
+  "it": "\\bDrake: Quanto tempo, \\PN! Più tardi ti offrirò una lotta degna di un Campione."
+ },
+ {
+  "id": "\\bDrake: Close battle earlier. I know you'll beat the rest.",
+  "en": "\\bDrake: Close battle earlier. I know you'll beat the rest.",
+  "it": "\\bDrake: Lotta combattuta, prima. So che batterai tutti gli altri."
+ },
+ {
+  "id": "\\rSerena: Hi \\PN! One last battle until you're the Pokémon World Champion! You've got this!",
+  "en": "\\rSerena: Hi \\PN! One last battle until you're the Pokémon World Champion! You've got this!",
+  "it": "\\rSerena: Ciao, \\PN! Un'ultima lotta e sarai Campione del Mondo Pokémon! Ce la puoi fare!"
+ },
+ {
+  "id": "\\rSerena: Hi \\PN! It makes sense that you'd be here too. There's no contests happening at the moment, so I thought it would be a great idea to take part!",
+  "en": "\\rSerena: Hi \\PN! It makes sense that you'd be here too. There's no contests happening at the moment, so I thought it would be a great idea to take part!",
+  "it": "\\rSerena: Ciao, \\PN! Ha senso che ci sia anche tu. Al momento non ci sono gare in corso, quindi ho pensato che sarebbe stata un'ottima idea partecipare!"
+ },
+ {
+  "id": "\\rSerena: Hi \\PN! Let's keep doing our best, alright?",
+  "en": "\\rSerena: Hi \\PN! Let's keep doing our best, alright?",
+  "it": "\\rSerena: Ciao, \\PN! Continuiamo a dare il massimo, va bene?"
+ },
+ {
+  "id": "\\rMisty: It's the last battle with Leon, huh? Give it all you've got!",
+  "en": "\\rMisty: It's the last battle with Leon, huh? Give it all you've got!",
+  "it": "\\rMisty: È l'ultima lotta contro Dandel, eh? Dai tutto quello che hai!"
+ },
+ {
+  "id": "\\rMisty: \\PN, you're here too? Well, I guess that makes sense, this is where all the hype is at.",
+  "en": "\\rMisty: \\PN, you're here too? Well, I guess that makes sense, this is where all the hype is at.",
+  "it": "\\rMisty: \\PN, ci sei anche tu? Beh, ha senso, è qui che c'è tutto l'entusiasmo."
+ },
+ {
+  "id": "\\rI won't lose if we battle later!",
+  "en": "\\rI won't lose if we battle later!",
+  "it": "\\rNon perderò, se ci sfideremo più tardi!"
+ },
+ {
+  "id": "\\rMisty: I'll get you next time!",
+  "en": "\\rMisty: I'll get you next time!",
+  "it": "\\rMisty: La prossima volta ti batto!"
+ },
+ {
+  "id": "\\rHello Champion \\PN! Welcome to the Pokémon Center.",
+  "en": "\\rHello Champion \\PN! Welcome to the Pokémon Center.",
+  "it": "\\rSalve, Campione \\PN! Ti diamo il benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\rCynthia: I know you can beat Leon, \\PN.",
+  "en": "\\rCynthia: I know you can beat Leon, \\PN.",
+  "it": "\\rCamilla: So che puoi battere Dandel, \\PN."
+ },
+ {
+  "id": "\\rCynthia: Oh my, it's \\PN. I suppose you feel ready to take on the world now.",
+  "en": "\\rCynthia: Oh my, it's \\PN. I suppose you feel ready to take on the world now.",
+  "it": "\\rCamilla: Oh, guarda chi c'è, \\PN. Immagino che ora tu ti senta all'altezza di sfidare il mondo."
+ },
+ {
+  "id": "\\rI won't be holding back if we end up battling each other later!",
+  "en": "\\rI won't be holding back if we end up battling each other later!",
+  "it": "\\rNon mi tratterrò, se finiremo per affrontarci più tardi!"
+ },
+ {
+  "id": "\\rCynthia: That was an exciting battle!",
+  "en": "\\rCynthia: That was an exciting battle!",
+  "it": "\\rCamilla: È stata una lotta emozionante!"
+ },
+ {
+  "id": "\\bI'm the Pokémon Move Maniac.",
+  "en": "\\bI'm the Pokémon Move Maniac.",
+  "it": "\\bSono il Maniaco delle Mosse Pokémon."
+ },
+ {
+  "id": "\\bI know every single move that Pokémon learn growing up.",
+  "en": "\\bI know every single move that Pokémon learn growing up.",
+  "it": "\\bConosco ogni singola mossa che i Pokémon imparano crescendo."
+ },
+ {
+  "id": "\\bI'm also a collector of Heart Scales.",
+  "en": "\\bI'm also a collector of Heart Scales.",
+  "it": "\\bColleziono anche Squame Cuore."
+ },
+ {
+  "id": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "en": "\\bIf you bring me one, I'll teach a move to one of your Pokémon.",
+  "it": "\\bSe me ne porti una, insegnerò una mossa a uno dei tuoi Pokémon."
+ },
+ {
+  "id": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "en": "\\bOh! That's it! That's an honest to goodness Heart Scale!",
+  "it": "\\bOh! Eccola! È una Squama Cuore autentica al cento per cento!"
+ },
+ {
+  "id": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "en": "\\bLet me guess, you want me to teach one of your Pokémon a move?",
+  "it": "\\bFammi indovinare, vuoi che insegni una mossa a uno dei tuoi Pokémon?"
+ },
+ {
+  "id": "\\bWhich Pokémon needs tutoring?",
+  "en": "\\bWhich Pokémon needs tutoring?",
+  "it": "\\bQuale Pokémon ha bisogno di lezioni?"
+ },
+ {
+  "id": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "en": "\\bIf your Pokémon need to learn a move, come back with a Heart Scale.",
+  "it": "\\bSe i tuoi Pokémon devono imparare una mossa, torna con una Squama Cuore."
+ },
+ {
+  "id": "\\bHunh? There isn't a single move that I can teach an Egg.",
+  "en": "\\bHunh? There isn't a single move that I can teach an Egg.",
+  "it": "\\bEh? Non c'è nemmeno una mossa che possa insegnare a un Uovo."
+ },
+ {
+  "id": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "en": "\\bNo way, I don't want to go near a Shadow Pokémon..",
+  "it": "\\bNeanche per sogno, non voglio avvicinarmi a un Pokémon Ombra..."
+ },
+ {
+  "id": "\\bSorry...",
+  "en": "\\bSorry...",
+  "it": "\\bMi dispiace..."
+ },
+ {
+  "id": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "en": "\\bIt doesn't appear as if I have any move I can teach to your \\v[3].",
+  "it": "\\bA quanto pare non ho nessuna mossa da insegnare al tuo \\v[3]."
+ },
+ {
+  "id": "\\bWhich move should I teach to your \\v[3]?",
+  "en": "\\bWhich move should I teach to your \\v[3]?",
+  "it": "\\bQuale mossa devo insegnare al tuo \\v[3]?"
+ },
+ {
+  "id": "\\PN handed over one Heart Scale in exchange.",
+  "en": "\\PN handed over one Heart Scale in exchange.",
+  "it": "\\PN ha consegnato una Squama Cuore in cambio."
+ },
+ {
+  "id": "\\bClemont: Hi \\PN! All the best with the finals!",
+  "en": "\\bClemont: Hi \\PN! All the best with the finals!",
+  "it": "\\bLem: Ciao, \\PN! In bocca al lupo per la finale!"
+ },
+ {
+  "id": "\\bClemont: Hi \\PN! If we face each other, the future will be now, thanks to science!",
+  "en": "\\bClemont: Hi \\PN! If we face each other, the future will be now, thanks to science!",
+  "it": "\\bLem: Ciao, \\PN! Se ci affronteremo, il futuro sarà adesso, grazie alla scienza!"
+ },
+ {
+  "id": "\\bClemont: Hi \\PN! That was a great battle earlier.",
+  "en": "\\bClemont: Hi \\PN! That was a great battle earlier.",
+  "it": "\\bLem: Ciao, \\PN! Che bella lotta, prima."
+ },
+ {
+  "id": "\\rMay: Hey \\PN! It's the final battle until you're the Pokémon World Champion! All the best!",
+  "en": "\\rMay: Hey \\PN! It's the final battle until you're the Pokémon World Champion! All the best!",
+  "it": "\\rVera: Ehi, \\PN! È l'ultima lotta prima di diventare Campione del Mondo Pokémon! In bocca al lupo!"
+ },
+ {
+  "id": "\\rMay: Hi \\PN, it's been a while! There's no contests happening at the moment, so I figured it would be a great idea to take part!",
+  "en": "\\rMay: Hi \\PN, it's been a while! There's no contests happening at the moment, so I figured it would be a great idea to take part!",
+  "it": "\\rVera: Ciao, \\PN, quanto tempo! Al momento non ci sono gare in corso, quindi ho pensato che sarebbe stata un'ottima idea partecipare!"
+ },
+ {
+  "id": "\\rMay: That was a nice battle earlier! We've gotta do that again soon!",
+  "en": "\\rMay: That was a nice battle earlier! We've gotta do that again soon!",
+  "it": "\\rVera: Bella lotta, prima! Dobbiamo rifarla presto!"
+ },
+ {
+  "id": "\\bAlder: Hmm, I suppose I can see you beating Leon if you give it your all.",
+  "en": "\\bAlder: Hmm, I suppose I can see you beating Leon if you give it your all.",
+  "it": "\\bNardo: Mmh, credo di poterti vedere battere Dandel, se dai il massimo."
+ },
+ {
+  "id": "\\bAlder: Zzz... Oh, it's \\PN. Honestly, I don't even know why I'm here, since I'm not even the current Champion of Unova.",
+  "en": "\\bAlder: Zzz... Oh, it's \\PN. Honestly, I don't even know why I'm here, since I'm not even the current Champion of Unova.",
+  "it": "\\bNardo: Zzz... Oh, sei tu, \\PN. Onestamente non so nemmeno perché sono qui, visto che non sono neanche l'attuale Campione di Unima."
+ },
+ {
+  "id": "\\bAlder: That was a nice battle, I guess.",
+  "en": "\\bAlder: That was a nice battle, I guess.",
+  "it": "\\bNardo: Bella lotta, credo."
+ },
+ {
+  "id": "\\bWhat do you mean I can't use my Groudon, Arceus, or Urshifu? This is rigged!",
+  "en": "\\bWhat do you mean I can't use my Groudon, Arceus, or Urshifu? This is rigged!",
+  "it": "\\bCome sarebbe che non posso usare il mio Groudon, Arceus o Urshifu? È tutto truccato!"
+ },
+ {
+  "id": "\\rBonnie: Hi \\PN! I'm not actually participating, I'm just here with Clemont. Good luck!",
+  "en": "\\rBonnie: Hi \\PN! I'm not actually participating, I'm just here with Clemont. Good luck!",
+  "it": "\\rClem: Ciao, \\PN! In realtà non partecipo, sono qui solo con Lem. Buona fortuna!"
+ },
+ {
+  "id": "\\rDawn: Hey \\PN! You've got the finals next, huh? I'll be cheering you on with Piplup!",
+  "en": "\\rDawn: Hey \\PN! You've got the finals next, huh? I'll be cheering you on with Piplup!",
+  "it": "\\rLucinda: Ehi, \\PN! Ora tocca a te la finale, eh? Farò il tifo per te con Piplup!"
+ },
+ {
+  "id": "\\rDawn: Hi \\PN! Good to see you here too. There's no contests happening at the moment, so I figured it would be a great idea to take part!",
+  "en": "\\rDawn: Hi \\PN! Good to see you here too. There's no contests happening at the moment, so I figured it would be a great idea to take part!",
+  "it": "\\rLucinda: Ciao, \\PN! Che bello vederti anche qui. Al momento non ci sono gare in corso, quindi ho pensato che sarebbe stata un'ottima idea partecipare!"
+ },
+ {
+  "id": "\\rDawn: That was a close battle earlier! I'll be cheering you on with Piplup from here!",
+  "en": "\\rDawn: That was a close battle earlier! I'll be cheering you on with Piplup from here!",
+  "it": "\\rLucinda: Che lotta combattuta, prima! Farò il tifo per te con Piplup da qui!"
+ },
+ {
+  "id": "\\rHello, World Champion \\PN! Would you like to start a new season of the Pokémon World Championships?",
+  "en": "\\rHello, World Champion \\PN! Would you like to start a new season of the Pokémon World Championships?",
+  "it": "\\rSalve, Campione Mondiale \\PN! Vuoi iniziare una nuova stagione dei Campionati Mondiali Pokémon?"
+ },
+ {
+  "id": "\\rHello. Here you can register for the Pokémon World Championships!",
+  "en": "\\rHello. Here you can register for the Pokémon World Championships!",
+  "it": "\\rSalve. Qui puoi iscriverti ai Campionati Mondiali Pokémon!"
+ },
+ {
+  "id": "\\rWould you like to register?",
+  "en": "\\rWould you like to register?",
+  "it": "\\rVuoi iscriverti?"
+ },
+ {
+  "id": "\\rLet me take your name...",
+  "en": "\\rLet me take your name...",
+  "it": "\\rRegistro il tuo nome..."
+ },
+ {
+  "id": "\\rAll set! Contestant \\PN, please go through when you're ready.",
+  "en": "\\rAll set! Contestant \\PN, please go through when you're ready.",
+  "it": "\\rTutto pronto! Concorrente \\PN, puoi passare quando vuoi."
+ },
+ {
+  "id": "\\rNo problem. Have a great day, Champion \\PN!",
+  "en": "\\rNo problem. Have a great day, Champion \\PN!",
+  "it": "\\rNessun problema. Buona giornata, Campione \\PN!"
+ },
+ {
+  "id": "\\rNo problem. Have a good day.",
+  "en": "\\rNo problem. Have a good day.",
+  "it": "\\rNessun problema. Buona giornata."
+ },
+ {
+  "id": "\\rWould you like to know more about the Pokémon World Championships?",
+  "en": "\\rWould you like to know more about the Pokémon World Championships?",
+  "it": "\\rVuoi saperne di più sui Campionati Mondiali Pokémon?"
+ },
+ {
+  "id": "\\rThe Pokémon World Championships is a prestigious tournament where all trainers in the whole world come together to determine who's the strongest.",
+  "en": "\\rThe Pokémon World Championships is a prestigious tournament where all trainers in the whole world come together to determine who's the strongest.",
+  "it": "\\rI Campionati Mondiali Pokémon sono un torneo prestigioso in cui gli Allenatori di tutto il mondo si riuniscono per stabilire chi è il più forte."
+ },
+ {
+  "id": "\\rIt starts with a group stage where you're matched with 3 other contestants, then a single elimination stage with 10 rounds.",
+  "en": "\\rIt starts with a group stage where you're matched with 3 other contestants, then a single elimination stage with 10 rounds.",
+  "it": "\\rSi comincia con una fase a gironi, in cui affronti altri 3 concorrenti, seguita da una fase a eliminazione diretta di 10 turni."
+ },
+ {
+  "id": "\\rBattles can be 1v1, 2v2 or 3v3 and in them, you're only allowed to use 1 item and you're forced into the \"Set\" battle style, whatever that means.",
+  "en": "\\rBattles can be 1v1, 2v2 or 3v3 and in them, you're only allowed to use 1 item and you're forced into the \"Set\" battle style, whatever that means.",
+  "it": "\\rGli incontri possono essere 1 contro 1, 2 contro 2 o 3 contro 3; puoi usare solo 1 strumento e lo stile di lotta \"Fisso\" è obbligatorio, qualunque cosa voglia dire."
+ },
+ {
+  "id": "\\rLastly, battles take place on fields with special effects. What do I mean by that? You'll find out as soon as you step in!",
+  "en": "\\rLastly, battles take place on fields with special effects. What do I mean by that? You'll find out as soon as you step in!",
+  "it": "\\rInfine, gli incontri si svolgono su campi con effetti speciali. Cosa intendo? Lo scoprirai appena ci metterai piede!"
+ },
+ {
+  "id": "\\rOh, ok. All the best!",
+  "en": "\\rOh, ok. All the best!",
+  "it": "\\rOh, ok. In bocca al lupo!"
+ },
+ {
+  "id": "\\rIris: Hi \\PN! I'll be cheering you on with your battle against Leon!",
+  "en": "\\rIris: Hi \\PN! I'll be cheering you on with your battle against Leon!",
+  "it": "\\rIris: Ciao, \\PN! Farò il tifo per te nella lotta contro Dandel!"
+ },
+ {
+  "id": "\\rIris: Hey \\PN! I can't wait to show you how much I've improved since our last battle.",
+  "en": "\\rIris: Hey \\PN! I can't wait to show you how much I've improved since our last battle.",
+  "it": "\\rIris: Ehi, \\PN! Non vedo l'ora di mostrarti quanto sono migliorata dalla nostra ultima lotta."
+ },
+ {
+  "id": "\\rIris: I still can't believe I lost... but I'll get you next time! For now, I'll be cheering you on.",
+  "en": "\\rIris: I still can't believe I lost... but I'll get you next time! For now, I'll be cheering you on.",
+  "it": "\\rIris: Ancora non ci credo di aver perso... ma la prossima volta ti batto! Per ora, farò il tifo per te."
+ },
+ {
+  "id": "\\w[signskin]To stadium",
+  "en": "\\w[signskin]To stadium",
+  "it": "\\w[signskin]Allo stadio"
+ },
+ {
+  "id": "\\rDidn't realise you needed 6 'mons. Never had ta catch more cuz I beat all the gym leaders with my level 100 Lucario that megas and dynamaxes.",
+  "en": "\\rDidn't realise you needed 6 'mons. Never had ta catch more cuz I beat all the gym leaders with my level 100 Lucario that megas and dynamaxes.",
+  "it": "\\rNon sapevo che servissero 6 Pokémon. Mai dovuto catturarne altri, ho battuto tutti i Capipalestra col mio Lucario di livello 100 che megaevolve e si dynamaxa."
+ },
+ {
+  "id": "\\rDiantha: I'm rooting for you to beat Leon.",
+  "en": "\\rDiantha: I'm rooting for you to beat Leon.",
+  "it": "\\rDiantha: Faccio il tifo per te contro Dandel."
+ },
+ {
+  "id": "\\rDiantha: Oh, it's \\PN! I'm excited at the chance to finally get to battle you in an official match.",
+  "en": "\\rDiantha: Oh, it's \\PN! I'm excited at the chance to finally get to battle you in an official match.",
+  "it": "\\rDiantha: Oh, sei tu, \\PN! Sono entusiasta di poterti finalmente sfidare in un incontro ufficiale."
+ },
+ {
+  "id": "\\rDiantha: That was a fun battle.",
+  "en": "\\rDiantha: That was a fun battle.",
+  "it": "\\rDiantha: È stata una lotta divertente."
+ },
+ {
+  "id": "\\bLance: Beat Leon for me, alright? I know you can do it.",
+  "en": "\\bLance: Beat Leon for me, alright? I know you can do it.",
+  "it": "\\bLance: Batti Dandel anche per me, d'accordo? So che puoi farcela."
+ },
+ {
+  "id": "\\bLance: Good to see you, \\PN. I won't hold back if we battle.",
+  "en": "\\bLance: Good to see you, \\PN. I won't hold back if we battle.",
+  "it": "\\bLance: Che piacere vederti, \\PN. Non mi tratterrò, se ci sfideremo."
+ },
+ {
+  "id": "\\bLance: Close battle earlier. Good luck with the rest.",
+  "en": "\\bLance: Close battle earlier. Good luck with the rest.",
+  "it": "\\bLance: Lotta combattuta, prima. Buona fortuna per il resto."
+ },
+ {
+  "id": "\\rThis room is only for contestants of the Pokémon World Championships.",
+  "en": "\\rThis room is only for contestants of the Pokémon World Championships.",
+  "it": "\\rQuesta sala è riservata ai concorrenti dei Campionati Mondiali Pokémon."
+ },
+ {
+  "id": "\\bLeon: Look like it's the two of us now, huh? Let's both give it our all and have a Champion Time!",
+  "en": "\\bLeon: Look like it's the two of us now, huh? Let's both give it our all and have a Champion Time!",
+  "it": "\\bDandel: A quanto pare siamo rimasti noi due, eh? Diamo entrambi il massimo e godiamoci un Champion Time!"
+ },
+ {
+  "id": "\\bLeon: Ah, \\PN. I'll be sure to give you a Champion Time if we battle later.",
+  "en": "\\bLeon: Ah, \\PN. I'll be sure to give you a Champion Time if we battle later.",
+  "it": "\\bDandel: Ah, \\PN. Se ci sfideremo più tardi, ti farò vivere un vero Champion Time."
+ },
+ {
+  "id": "\\bForget about the battles. Do you see everything they are selling here?",
+  "en": "\\bForget about the battles. Do you see everything they are selling here?",
+  "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
+ }
+]

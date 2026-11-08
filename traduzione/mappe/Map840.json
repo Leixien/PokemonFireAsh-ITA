@@ -30,8 +30,8 @@
   "it": "\\rEvita i tipi Drago. Sarai spacciato prima di capire cosa ti ha colpito."
  },
  {
-  "id": "\\bValerie uses Fairy type Pokémon. They are weak aganst the Poison and Steel types.",
-  "en": "\\bValerie uses Fairy type Pokémon. They are weak aganst the Poison and Steel types.",
+  "id": "\\bValerie uses Fairy type Pokémon. They are weak against the Poison and Steel types.",
+  "en": "\\bValerie uses Fairy type Pokémon. They are weak against the Poison and Steel types.",
   "it": "\\bValerie usa Pokémon di tipo Folletto. Sono deboli contro i tipi Veleno e Acciaio."
  },
  {
@@ -60,9 +60,9 @@
   "it": "\\rEcco, prendi anche questa MT."
  },
  {
-  "id": "\\rTM117 contains Moonblast. It has a chance to lower the opponents special attack.",
-  "en": "\\rTM117 contains Moonblast. It has a chance to lower the opponents special attack.",
-  "it": "\\rLa MT117 contiene Forza Lunare. Può ridurre l'Attacco Speciale dell'avversario."
+  "id": "\\rTM117 contains Moonblast. It has a chance to lower the opponent's Special Attack.",
+  "en": "\\rTM117 contains Moonblast. It has a chance to lower the opponent's Special Attack.",
+  "it": "\\rLa MT117 contiene Forza Lunare. Può ridurre l'Attacco Speciale del bersaglio."
  },
  {
   "id": "\\rValerie: I'm going to improve my elegant battle style. Perhaps one day I will be strong enough to face you again.",

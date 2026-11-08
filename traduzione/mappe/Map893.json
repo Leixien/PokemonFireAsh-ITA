@@ -60,6 +60,11 @@
   "it": "\\bHau: Grande! Dovremo rifarlo qualche volta."
  },
  {
+  "id": "This ball contain a Cosmog. Would you like to take it?",
+  "en": "This ball contain a Cosmog. Would you like to take it?",
+  "it": "Questa Ball contiene un Cosmog. Vuoi prenderlo?"
+ },
+ {
   "id": "\\bRowlet",
   "en": "\\bRowlet",
   "it": "\\bRowlet"
@@ -75,9 +80,14 @@
   "it": "Vuoi portarlo con te?"
  },
  {
-  "id": "This ball contain a Cosmog. Would you like to take it?",
-  "en": "This ball contain a Cosmog. Would you like to take it?",
-  "it": "Questa Ball contiene un Cosmog. Vuoi prenderlo?"
+  "id": "\\bWhat are you doing here?",
+  "en": "\\bWhat are you doing here?",
+  "it": "\\bChe ci fai qui?"
+ },
+ {
+  "id": "\\bCan't believe I lost.",
+  "en": "\\bCan't believe I lost.",
+  "it": "\\bNon ci credo che ho perso."
  },
  {
   "id": "\\rPikachu attack!",
@@ -93,16 +103,6 @@
   "id": "\\rPikachu lost.",
   "en": "\\rPikachu lost.",
   "it": "\\rPikachu ha perso."
- },
- {
-  "id": "\\bWhat are you doing here?",
-  "en": "\\bWhat are you doing here?",
-  "it": "\\bChe ci fai qui?"
- },
- {
-  "id": "\\bCan't believe I lost.",
-  "en": "\\bCan't believe I lost.",
-  "it": "\\bNon ci credo che ho perso."
  },
  {
   "id": "\\bKukui: Done exploring? Head back to the school.",

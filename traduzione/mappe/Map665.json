@@ -20,16 +20,6 @@
   "it": "\\bHai mai pensato di andare a scuola? Ahah, come se tu potessi mai rinunciare a qualcosa che funziona per una cosa così lenta e noiosa."
  },
  {
-  "id": "\\bWhat do you want?",
-  "en": "\\bWhat do you want?",
-  "it": "\\bChe cosa vuoi?"
- },
- {
-  "id": "\\bThis area is mine. Hurry along.",
-  "en": "\\bThis area is mine. Hurry along.",
-  "it": "\\bQuesta zona è mia. Circolare."
- },
- {
   "id": "\\bAh, it's you!",
   "en": "\\bAh, it's you!",
   "it": "\\bAh, sei tu!"
@@ -140,6 +130,16 @@
   "it": "\\bQuei due sembrano andare molto d'accordo."
  },
  {
+  "id": "\\bWhat do you want?",
+  "en": "\\bWhat do you want?",
+  "it": "\\bChe cosa vuoi?"
+ },
+ {
+  "id": "\\bThis area is mine. Hurry along.",
+  "en": "\\bThis area is mine. Hurry along.",
+  "it": "\\bQuesta zona è mia. Circolare."
+ },
+ {
   "id": "\\bI'm skipping school. Don't tell anyone.",
   "en": "\\bI'm skipping school. Don't tell anyone.",
   "it": "\\bSto marinando la scuola. Non dirlo a nessuno."
@@ -165,16 +165,6 @@
   "it": "\\rVai a sud di qui e vedrai una Pensione."
  },
  {
-  "id": "\\rMy boyfriend will beat you.",
-  "en": "\\rMy boyfriend will beat you.",
-  "it": "\\rIl mio ragazzo ti batterà."
- },
- {
-  "id": "\\rHe's not actually my boyfriend yet. Don't tell him.",
-  "en": "\\rHe's not actually my boyfriend yet. Don't tell him.",
-  "it": "\\rIn realtà non è ancora il mio ragazzo. Non dirglielo."
- },
- {
   "id": "\\rI help out at the day care.",
   "en": "\\rI help out at the day care.",
   "it": "\\rDo una mano alla Pensione."
@@ -185,19 +175,24 @@
   "it": "\\rNon dimenticare di fermarti alla Pensione."
  },
  {
+  "id": "\\rMy boyfriend will beat you.",
+  "en": "\\rMy boyfriend will beat you.",
+  "it": "\\rIl mio ragazzo ti batterà."
+ },
+ {
+  "id": "\\rHe's not actually my boyfriend yet. Don't tell him.",
+  "en": "\\rHe's not actually my boyfriend yet. Don't tell him.",
+  "it": "\\rIn realtà non è ancora il mio ragazzo. Non dirglielo."
+ },
+ {
   "id": "\\bI'm having so much fun.",
   "en": "\\bI'm having so much fun.",
   "it": "\\bMi sto divertendo un sacco."
  },
  {
-  "id": "\\rBianca: Let's battle. Wait, let me find my Poké Ball.",
-  "en": "\\rBianca: Let's battle. Wait, let me find my Poké Ball.",
-  "it": "\\rBelle: Lottiamo. Aspetta, devo trovare la mia Poké Ball."
- },
- {
-  "id": "\\rBianca: That was fun. Let's do it again real soon.",
-  "en": "\\rBianca: That was fun. Let's do it again real soon.",
-  "it": "\\rBelle: È stato divertente. Rifacciamolo presto."
+  "id": "Preschool",
+  "en": "Preschool",
+  "it": "Asilo"
  },
  {
   "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
@@ -215,19 +210,14 @@
   "it": "\\rAllevo Pokémon con Amy."
  },
  {
-  "id": "Preschool",
-  "en": "Preschool",
-  "it": "Asilo"
+  "id": "\\rBianca: Let's battle. Wait, let me find my Poké Ball.",
+  "en": "\\rBianca: Let's battle. Wait, let me find my Poké Ball.",
+  "it": "\\rBelle: Lottiamo. Aspetta, devo trovare la mia Poké Ball."
  },
  {
-  "id": "\\rSchool is so boring.",
-  "en": "\\rSchool is so boring.",
-  "it": "\\rLa scuola è così noiosa."
- },
- {
-  "id": "\\rThat will keep me entertained. Thanks.",
-  "en": "\\rThat will keep me entertained. Thanks.",
-  "it": "\\rQuesto mi terrà occupata. Grazie."
+  "id": "\\rBianca: That was fun. Let's do it again real soon.",
+  "en": "\\rBianca: That was fun. Let's do it again real soon.",
+  "it": "\\rBelle: È stato divertente. Rifacciamolo presto."
  },
  {
   "id": "\\bTrip: You again? Do you really think you can beat me? You're a worthless bumpkin from Kanto.",
@@ -245,6 +235,21 @@
   "it": "\\bTrip: Ho fatto qualche foto, ma dimostrano solo quanto poco sai."
  },
  {
+  "id": "\\rSchool is so boring.",
+  "en": "\\rSchool is so boring.",
+  "it": "\\rLa scuola è così noiosa."
+ },
+ {
+  "id": "\\rThat will keep me entertained. Thanks.",
+  "en": "\\rThat will keep me entertained. Thanks.",
+  "it": "\\rQuesto mi terrà occupata. Grazie."
+ },
+ {
+  "id": "\\rSnivy",
+  "en": "\\rSnivy",
+  "it": "\\rSnivy"
+ },
+ {
   "id": "\\rAh, a Trainer! Let's go Kumi!",
   "en": "\\rAh, a Trainer! Let's go Kumi!",
   "it": "\\rAh, un Allenatore! Andiamo, Kumi!"
@@ -253,11 +258,6 @@
   "id": "\\rI caught my Pokémon with Kumi.",
   "en": "\\rI caught my Pokémon with Kumi.",
   "it": "\\rHo catturato i miei Pokémon con Kumi."
- },
- {
-  "id": "\\rSnivy",
-  "en": "\\rSnivy",
-  "it": "\\rSnivy"
  },
  {
   "id": "Yes",

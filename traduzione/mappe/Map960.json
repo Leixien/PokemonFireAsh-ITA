@@ -10,13 +10,28 @@
   "it": "\\bVicio: Ho già calcolato che perderai. Togliamoci di torno questa formalità."
  },
  {
-  "id": "\\bFaba: ... I suppose I'll step aside.",
-  "en": "\\bFaba: ... I suppose I'll step aside.",
-  "it": "\\bVicio: ... Suppongo che mi farò da parte."
+  "id": "\\bFaba: ...I suppose I'll step aside.",
+  "en": "\\bFaba: ...I suppose I'll step aside.",
+  "it": "\\bVicio: ...Suppongo che mi farò da parte."
  },
  {
   "id": "\\bCongratulations on winning your first match. \\nYour next battle will be on the right.",
   "en": "\\bCongratulations on winning your first match. \\nYour next battle will be on the right.",
   "it": "\\bCongratulazioni per aver vinto il tuo primo incontro. \\nLa tua prossima lotta si terrà sulla destra."
+ },
+ {
+  "id": "\\bFaba: You again. Hmph, even if my calculations are saying that I'll lose, I won't.",
+  "en": "\\bFaba: You again. Hmph, even if my calculations are saying that I'll lose, I won't.",
+  "it": "\\bVicio: Ancora tu. Hmpf, anche se i miei calcoli dicono che perderò, non perderò."
+ },
+ {
+  "id": "\\bFaba: Hah, naturally!",
+  "en": "\\bFaba: Hah, naturally!",
+  "it": "\\bVicio: Ah, naturalmente!"
+ },
+ {
+  "id": "\\bFaba: ...I suppose I'll stick to my calculations next time.",
+  "en": "\\bFaba: ...I suppose I'll stick to my calculations next time.",
+  "it": "\\bVicio: ...La prossima volta mi atterrò ai miei calcoli."
  }
 ]

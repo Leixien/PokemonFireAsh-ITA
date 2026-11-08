@@ -1,13 +1,18 @@
 [
  {
-  "id": "\\bThe Power Plant is not avaliable to the public.",
-  "en": "\\bThe Power Plant is not avaliable to the public.",
-  "it": "\\bLa Centrale Elettrica non è aperta al pubblico."
+  "id": "\\rThe Power Plant is not avaliable to the public.",
+  "en": "\\rThe Power Plant is not avaliable to the public.",
+  "it": "\\rLa Centrale Elettrica non è aperta al pubblico."
  },
  {
-  "id": "\\bThere's something going on at the Power Plant. You seem strong. Would you go check it out? I need to stay here and make sure no one else goes in.",
-  "en": "\\bThere's something going on at the Power Plant. You seem strong. Would you go check it out? I need to stay here and make sure no one else goes in.",
-  "it": "\\bSta succedendo qualcosa alla Centrale Elettrica. Sembri forte. Andresti a dare un'occhiata? Io devo restare qui per assicurarmi che nessun altro entri."
+  "id": "\\rThere's something going on at the Power Plant. You seem strong. Would you go check it out? I need to stay here and make sure no one else goes in.",
+  "en": "\\rThere's something going on at the Power Plant. You seem strong. Would you go check it out? I need to stay here and make sure no one else goes in.",
+  "it": "\\rSta succedendo qualcosa alla Centrale Elettrica. Sembri forte. Andresti a dare un'occhiata? Io devo restare qui e assicurarmi che nessun altro entri."
+ },
+ {
+  "id": "\\rThank you for your help with the situation at the Power Plant.",
+  "en": "\\rThank you for your help with the situation at the Power Plant.",
+  "it": "\\rGrazie per il tuo aiuto con la situazione alla Centrale Elettrica."
  },
  {
   "id": "\\rAre you a fan of movies?",
@@ -68,6 +73,11 @@
   "id": "\\bShoot, almost caught it.",
   "en": "\\bShoot, almost caught it.",
   "it": "\\bAccidenti, l'avevo quasi preso."
+ },
+ {
+  "id": "\\bThe Power Plant is not avaliable to the public.",
+  "en": "\\bThe Power Plant is not avaliable to the public.",
+  "it": "\\bLa Centrale Elettrica non è aperta al pubblico."
  },
  {
   "id": "\\rIf you look out there you can see it is the Butterfree mating season.",

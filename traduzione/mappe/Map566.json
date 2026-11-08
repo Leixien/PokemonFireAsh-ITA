@@ -70,8 +70,8 @@
   "it": "\\rSpero che tu abbia successo!"
  },
  {
-  "id": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome,Cancel]",
-  "en": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome,Cancel]",
+  "id": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome,Cancel]",
+  "en": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome,Cancel]",
   "it": "\\rIl mio Free può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Cuoripoli,Annulla]"
  },
  {
@@ -85,18 +85,18 @@
   "it": "\\rIl mio Free può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Cuoripoli, Rupepoli,Pratopoli,Annulla]"
  },
  {
-  "id": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Veilstone,Pastoria,Canalave,Cancel]",
-  "en": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Veilstone,Pastoria,Canalave,Cancel]",
+  "id": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Veilstone,Pastoria,Canalave,Cancel]",
+  "en": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Veilstone,Pastoria,Canalave,Cancel]",
   "it": "\\rIl mio Free può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Cuoripoli, Rupepoli,Pratopoli,Canalipoli,Annulla]"
  },
  {
-  "id": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
-  "en": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floroma,Eterna,Hearthome, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
+  "id": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
+  "en": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem, Jubilife,Oreburgh,Floaroma,Eterna,Hearthome, Veilstone,Pastoria,Canalave,Snowpoint,Cancel]",
   "it": "\\rIl mio Free può teletrasportarti.\\ch[1,-1,Sabbiafine, Giubilopoli,Mineropoli,Floraria,Evopoli,Cuoripoli, Rupepoli,Pratopoli,Canalipoli,Nevepoli,Annulla]"
  },
  {
-  "id": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
-  "en": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
+  "id": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
+  "en": "\\rMy Free can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Veilstone, Pastoria,Canalave,Snowpoint,Sunnyshore,Cancel]",
   "it": "\\rIl mio Free può teletrasportarti.\\ch[1,-1,Sabbiafine,Giubilopoli, Mineropoli,Floraria,Evopoli,Cuoripoli,Rupepoli, Pratopoli,Canalipoli,Nevepoli,Arenipoli,Annulla]"
  },
  {

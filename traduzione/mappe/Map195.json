@@ -1,15 +1,5 @@
 [
  {
-  "id": "Terracotta Pokémon Contest\\nComing soon!",
-  "en": "Terracotta Pokémon Contest\\nComing soon!",
-  "it": "Gara Pokémon di Terracotta\\nIn arrivo!"
- },
- {
-  "id": "Terracotta Pokémon Contest",
-  "en": "Terracotta Pokémon Contest",
-  "it": "Gara Pokémon di Terracotta"
- },
- {
   "id": "\\bWe're setting up a Contest here. Please come back soon if you'd like to enter.",
   "en": "\\bWe're setting up a Contest here. Please come back soon if you'd like to enter.",
   "it": "\\bStiamo allestendo una Gara qui. Torna presto se vuoi partecipare."
@@ -35,9 +25,14 @@
   "it": "\\bCongratulazioni per la vittoria. Grazie per aver partecipato."
  },
  {
-  "id": "\\bI think I'm going to sit back and watch this one.",
-  "en": "\\bI think I'm going to sit back and watch this one.",
-  "it": "\\bCredo che questa me la godrò seduto a guardare."
+  "id": "Terracotta Pokémon Contest\\nComing soon!",
+  "en": "Terracotta Pokémon Contest\\nComing soon!",
+  "it": "Gara Pokémon di Terracotta\\nIn arrivo!"
+ },
+ {
+  "id": "Terracotta Pokémon Contest",
+  "en": "Terracotta Pokémon Contest",
+  "it": "Gara Pokémon di Terracotta"
  },
  {
   "id": "\\bHey there. Looking for a battle?",
@@ -55,6 +50,16 @@
   "it": "\\bForse non sono pronto. O forse sei tu che sei troppo bravo."
  },
  {
+  "id": "\\bI think I'm going to sit back and watch this one.",
+  "en": "\\bI think I'm going to sit back and watch this one.",
+  "it": "\\bCredo che questa me la godrò seduto a guardare."
+ },
+ {
+  "id": "Pokémon League\\nFront Gate",
+  "en": "Pokémon League\\nFront Gate",
+  "it": "Lega Pokémon\\nIngresso principale"
+ },
+ {
   "id": "\\rThis area is currently under construction.",
   "en": "\\rThis area is currently under construction.",
   "it": "\\rQuest'area è attualmente in costruzione."
@@ -65,9 +70,19 @@
   "it": "\\rPiù avanti c'è la Torre Lotta."
  },
  {
-  "id": "Pokémon League\\nFront Gate",
-  "en": "Pokémon League\\nFront Gate",
-  "it": "Lega Pokémon\\nIngresso principale"
+  "id": "\\bI wanna test out my strength.",
+  "en": "\\bI wanna test out my strength.",
+  "it": "\\bVoglio mettere alla prova la mia forza."
+ },
+ {
+  "id": "No way!",
+  "en": "No way!",
+  "it": "Non ci credo!"
+ },
+ {
+  "id": "\\bI've trained my whole life for the League.",
+  "en": "\\bI've trained my whole life for the League.",
+  "it": "\\bMi sono allenato tutta la vita per la Lega."
  },
  {
   "id": "\\rMay: Looks like you made it to the finals too. This should be intense.",
@@ -90,26 +105,6 @@
   "it": "\\bCongratulazioni per la vittoria. Grazie per essere stato con noi."
  },
  {
-  "id": "\\bI wanna test out my strength.",
-  "en": "\\bI wanna test out my strength.",
-  "it": "\\bVoglio mettere alla prova la mia forza."
- },
- {
-  "id": "No way!",
-  "en": "No way!",
-  "it": "Non ci credo!"
- },
- {
-  "id": "\\bI've trained my whole life for the League.",
-  "en": "\\bI've trained my whole life for the League.",
-  "it": "\\bMi sono allenato tutta la vita per la Lega."
- },
- {
-  "id": "\\rThis path is currently under construction.",
-  "en": "\\rThis path is currently under construction.",
-  "it": "\\rQuesto sentiero è attualmente in costruzione."
- },
- {
   "id": "\\bThis is the path to the Pokémon League. If you don't have 8 badges you won't stand a chance here.",
   "en": "\\bThis is the path to the Pokémon League. If you don't have 8 badges you won't stand a chance here.",
   "it": "\\bQuesta è la strada per la Lega Pokémon. Se non hai 8 medaglie non hai nessuna speranza qui."
@@ -125,9 +120,14 @@
   "it": "\\rGrazie."
  },
  {
-  "id": "\\bYou think you're reasy to battle this expert Water Trainer?",
-  "en": "\\bYou think you're reasy to battle this expert Water Trainer?",
-  "it": "\\bPensi di essere pronto a sfidare questa esperta Allenatrice di tipo Acqua?"
+  "id": "\\rThis path is currently under construction.",
+  "en": "\\rThis path is currently under construction.",
+  "it": "\\rQuesto sentiero è attualmente in costruzione."
+ },
+ {
+  "id": "\\bYou think you're ready to battle this expert Water Trainer?",
+  "en": "\\bYou think you're ready to battle this expert Water Trainer?",
+  "it": "\\bCredi di essere pronto ad affrontare questo esperto Allenatore di tipo Acqua?"
  },
  {
   "id": "Maybe I should have diversified.",
@@ -140,11 +140,6 @@
   "it": "\\bE allora? Che importa se la mia squadra non era tutta di tipo Acqua?"
  },
  {
-  "id": "\\rI'm excited to watch the Performers.",
-  "en": "\\rI'm excited to watch the Performers.",
-  "it": "\\rNon vedo l'ora di vedere le Artiste."
- },
- {
   "id": "\\rI'm just trying to find some plants.",
   "en": "\\rI'm just trying to find some plants.",
   "it": "\\rSto solo cercando qualche pianta."
@@ -153,6 +148,11 @@
   "id": "\\rI'm looking for plants. Try not to bother me again.",
   "en": "\\rI'm looking for plants. Try not to bother me again.",
   "it": "\\rSto cercando piante. Cerca di non disturbarmi più."
+ },
+ {
+  "id": "\\rI'm excited to watch the Performers.",
+  "en": "\\rI'm excited to watch the Performers.",
+  "it": "\\rNon vedo l'ora di vedere le Artiste."
  },
  {
   "id": "\\bHelp me find a strong one.",
@@ -168,6 +168,16 @@
   "id": "\\bI need one more Pokémon to balance out of team.",
   "en": "\\bI need one more Pokémon to balance out of team.",
   "it": "\\bMi serve un altro Pokémon per bilanciare la squadra."
+ },
+ {
+  "id": "\\rI'm going to be a bit harder okay?",
+  "en": "\\rI'm going to be a bit harder okay?",
+  "it": "\\rStavolta sarò un po' più dura, ok?"
+ },
+ {
+  "id": "\\rI think I might try movies next.",
+  "en": "\\rI think I might try movies next.",
+  "it": "\\rForse la prossima volta proverò con i film."
  },
  {
   "id": "\\bFor the Performance Stage, I'll be judging Pokémon.",
@@ -278,16 +288,6 @@
   "id": "\\bThat was an excellent performance.",
   "en": "\\bThat was an excellent performance.",
   "it": "\\bÈ stata un'esibizione eccellente."
- },
- {
-  "id": "\\rI'm going to be a bit harder okay?",
-  "en": "\\rI'm going to be a bit harder okay?",
-  "it": "\\rStavolta sarò un po' più dura, ok?"
- },
- {
-  "id": "\\rI think I might try movies next.",
-  "en": "\\rI think I might try movies next.",
-  "it": "\\rForse la prossima volta proverò con i film."
  },
  {
   "id": "\\bI'm looking for a good test.",

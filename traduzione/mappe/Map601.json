@@ -10,16 +10,6 @@
   "it": "\\bA quanto pare ho ancora molta strada da fare."
  },
  {
-  "id": "\\bThought you could hide?",
-  "en": "\\bThought you could hide?",
-  "it": "\\bPensavi di poterti nascondere?"
- },
- {
-  "id": "\\bDid you know you can use TMs as many times as you want. Just don't sell them. They are very rare.",
-  "en": "\\bDid you know you can use TMs as many times as you want. Just don't sell them. They are very rare.",
-  "it": "\\bLo sapevi che puoi usare le MT tutte le volte che vuoi? Solo, non venderle. Sono molto rare."
- },
- {
   "id": "\\bCheck this out.",
   "en": "\\bCheck this out.",
   "it": "\\bGuarda qui."
@@ -60,6 +50,21 @@
   "it": "\\bHai fatto un buon affare."
  },
  {
+  "id": "\\bThought you could hide?",
+  "en": "\\bThought you could hide?",
+  "it": "\\bPensavi di poterti nascondere?"
+ },
+ {
+  "id": "\\bDid you know you can use TMs as many times as you want. Just don't sell them. They are very rare.",
+  "en": "\\bDid you know you can use TMs as many times as you want. Just don't sell them. They are very rare.",
+  "it": "\\bLo sapevi che puoi usare le MT tutte le volte che vuoi? Solo, non venderle. Sono molto rare."
+ },
+ {
+  "id": "\\bHoney attracts wild Pokémon, but I prefer to eat it.",
+  "en": "\\bHoney attracts wild Pokémon, but I prefer to eat it.",
+  "it": "\\bIl Miele attira i Pokémon selvatici, ma io preferisco mangiarlo."
+ },
+ {
   "id": "\\bDon't have much going on. How about a battle?",
   "en": "\\bDon't have much going on. How about a battle?",
   "it": "\\bNon ho molto da fare. Che ne dici di una lotta?"
@@ -68,21 +73,6 @@
   "id": "\\bBack to work I suppose.",
   "en": "\\bBack to work I suppose.",
   "it": "\\bTorniamo al lavoro, suppongo."
- },
- {
-  "id": "\\bHoney attracts wild Pokémon, but I prefer to eat it.",
-  "en": "\\bHoney attracts wild Pokémon, but I prefer to eat it.",
-  "it": "\\bIl Miele attira i Pokémon selvatici, ma io preferisco mangiarlo."
- },
- {
-  "id": "\\rI'm going to be a bit harder okay?",
-  "en": "\\rI'm going to be a bit harder okay?",
-  "it": "\\rStavolta sarò un po' più dura, ok?"
- },
- {
-  "id": "\\rBerries can do all sorts of things, but the best thing is that Pokémon will use them on their own in battle.",
-  "en": "\\rBerries can do all sorts of things, but the best thing is that Pokémon will use them on their own in battle.",
-  "it": "\\rLe bacche possono fare un sacco di cose, ma la cosa migliore è che i Pokémon le usano da soli in lotta."
  },
  {
   "id": "\\bBe careful. Wild Pokémon are around.",
@@ -95,19 +85,14 @@
   "it": "\\bAspetta, hai conosciuto mio fratello?"
  },
  {
-  "id": "\\bYou seem like a fine youngin. Show me your stuff.",
-  "en": "\\bYou seem like a fine youngin. Show me your stuff.",
-  "it": "\\bSembri un giovanotto in gamba. Fammi vedere cosa sai fare."
+  "id": "\\rI'm going to be a bit harder okay?",
+  "en": "\\rI'm going to be a bit harder okay?",
+  "it": "\\rStavolta sarò un po' più dura, ok?"
  },
  {
-  "id": "\\bOh to be young again.",
-  "en": "\\bOh to be young again.",
-  "it": "\\bAh, tornare giovani..."
- },
- {
-  "id": "\\bAlways be prepared for a battle.",
-  "en": "\\bAlways be prepared for a battle.",
-  "it": "\\bSii sempre pronto per una lotta."
+  "id": "\\rBerries can do all sorts of things, but the best thing is that Pokémon will use them on their own in battle.",
+  "en": "\\rBerries can do all sorts of things, but the best thing is that Pokémon will use them on their own in battle.",
+  "it": "\\rLe bacche possono fare un sacco di cose, ma la cosa migliore è che i Pokémon le usano da soli in lotta."
  },
  {
   "id": "\\bGary: Hey. If it isn't \\PN. Haven't seen you in a while.",
@@ -140,6 +125,26 @@
   "it": "\\bGary: Beh, ho del lavoro da fare. Ci vediamo in giro, \\PN."
  },
  {
+  "id": "\\bAlways be prepared for a battle.",
+  "en": "\\bAlways be prepared for a battle.",
+  "it": "\\bSii sempre pronto per una lotta."
+ },
+ {
+  "id": "\\bYou seem like a fine youngin. Show me your stuff.",
+  "en": "\\bYou seem like a fine youngin. Show me your stuff.",
+  "it": "\\bSembri un giovanotto in gamba. Fammi vedere cosa sai fare."
+ },
+ {
+  "id": "\\bOh to be young again.",
+  "en": "\\bOh to be young again.",
+  "it": "\\bAh, tornare giovani..."
+ },
+ {
+  "id": "\\bI'm afraid to go into the mansion. What if I break something?",
+  "en": "\\bI'm afraid to go into the mansion. What if I break something?",
+  "it": "\\bHo paura di entrare nella villa. E se rompo qualcosa?"
+ },
+ {
   "id": "\\rI love playing in the grass.",
   "en": "\\rI love playing in the grass.",
   "it": "\\rAdoro giocare nell'erba."
@@ -148,21 +153,6 @@
   "id": "\\rThis forest is huge. Be sure to look everywhere so you don't get lost.",
   "en": "\\rThis forest is huge. Be sure to look everywhere so you don't get lost.",
   "it": "\\rQuesta foresta è enorme. Guarda bene dappertutto, così non ti perdi."
- },
- {
-  "id": "\\bI'm afraid to go into the mansion. What if I break something?",
-  "en": "\\bI'm afraid to go into the mansion. What if I break something?",
-  "it": "\\bHo paura di entrare nella villa. E se rompo qualcosa?"
- },
- {
-  "id": "\\bHave I introduced you to my friends?",
-  "en": "\\bHave I introduced you to my friends?",
-  "it": "\\bTi ho già presentato i miei amici?"
- },
- {
-  "id": "\\bThe Pokémon Mansion right next to us holds many Pokémon. They sometimes give one away when its ready to leave.",
-  "en": "\\bThe Pokémon Mansion right next to us holds many Pokémon. They sometimes give one away when its ready to leave.",
-  "it": "\\bLa Villa Pokémon qui accanto ospita molti Pokémon. A volte ne regalano uno quando è pronto per andarsene."
  },
  {
   "id": "\\rI'm not lost!",
@@ -175,14 +165,14 @@
   "it": "\\rUn ranger è sempre consapevole di ciò che lo circonda."
  },
  {
-  "id": "\\rThe ocean is a lovely place.",
-  "en": "\\rThe ocean is a lovely place.",
-  "it": "\\rL'oceano è un posto incantevole."
+  "id": "\\bHave I introduced you to my friends?",
+  "en": "\\bHave I introduced you to my friends?",
+  "it": "\\bTi ho già presentato i miei amici?"
  },
  {
-  "id": "\\rI would love to swim away with the waves.",
-  "en": "\\rI would love to swim away with the waves.",
-  "it": "\\rMi piacerebbe tanto lasciarmi portare via dalle onde."
+  "id": "\\bThe Pokémon Mansion right next to us holds many Pokémon. They sometimes give one away when its ready to leave.",
+  "en": "\\bThe Pokémon Mansion right next to us holds many Pokémon. They sometimes give one away when its ready to leave.",
+  "it": "\\bLa Villa Pokémon qui accanto ospita molti Pokémon. A volte ne regalano uno quando è pronto per andarsene."
  },
  {
   "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
@@ -200,14 +190,19 @@
   "it": "\\bResta con me, Melissa."
  },
  {
-  "id": "\\bCare for a break?",
-  "en": "\\bCare for a break?",
-  "it": "\\bTi va una pausa?"
+  "id": "\\rThe ocean is a lovely place.",
+  "en": "\\rThe ocean is a lovely place.",
+  "it": "\\rL'oceano è un posto incantevole."
  },
  {
-  "id": "\\bHave you been to Hearthome City? The contests there are spectacular.",
-  "en": "\\bHave you been to Hearthome City? The contests there are spectacular.",
-  "it": "\\bSei stato a Cuoripoli? Le gare lì sono spettacolari."
+  "id": "\\rI would love to swim away with the waves.",
+  "en": "\\rI would love to swim away with the waves.",
+  "it": "\\rMi piacerebbe tanto lasciarmi portare via dalle onde."
+ },
+ {
+  "id": "\\bUmbreon",
+  "en": "\\bUmbreon",
+  "it": "\\bUmbreon"
  },
  {
   "id": "\\bI'm doing fieldwork. Stay away.",
@@ -220,24 +215,14 @@
   "it": "\\bSto cercando di capire se il mio Kadabra può evolversi senza essere scambiato."
  },
  {
-  "id": "\\bUmbreon",
-  "en": "\\bUmbreon",
-  "it": "\\bUmbreon"
+  "id": "\\bCare for a break?",
+  "en": "\\bCare for a break?",
+  "it": "\\bTi va una pausa?"
  },
  {
-  "id": "\\bDon't you dare enter here.",
-  "en": "\\bDon't you dare enter here.",
-  "it": "\\bNon osare entrare qui."
- },
- {
-  "id": "\\bI have a treasure hidden in there. You will never find it though.",
-  "en": "\\bI have a treasure hidden in there. You will never find it though.",
-  "it": "\\bLà dentro ho nascosto un tesoro. Tanto non lo troverai mai."
- },
- {
-  "id": "Pokémon Mansion",
-  "en": "Pokémon Mansion",
-  "it": "Villa Pokémon"
+  "id": "\\bHave you been to Hearthome City? The contests there are spectacular.",
+  "en": "\\bHave you been to Hearthome City? The contests there are spectacular.",
+  "it": "\\bSei stato a Cuoripoli? Le gare lì sono spettacolari."
  },
  {
   "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
@@ -255,14 +240,19 @@
   "it": "\\rAlmeno ho ancora Jason."
  },
  {
-  "id": "\\bIntruder!",
-  "en": "\\bIntruder!",
-  "it": "\\bUn intruso!"
+  "id": "Pokémon Mansion",
+  "en": "Pokémon Mansion",
+  "it": "Villa Pokémon"
  },
  {
-  "id": "\\bI guess you don't mean harm.",
-  "en": "\\bI guess you don't mean harm.",
-  "it": "\\bVa bene, non sembri avere cattive intenzioni."
+  "id": "\\bDon't you dare enter here.",
+  "en": "\\bDon't you dare enter here.",
+  "it": "\\bNon osare entrare qui."
+ },
+ {
+  "id": "\\bI have a treasure hidden in there. You will never find it though.",
+  "en": "\\bI have a treasure hidden in there. You will never find it though.",
+  "it": "\\bLà dentro ho nascosto un tesoro. Tanto non lo troverai mai."
  },
  {
   "id": "\\bI may have gotten lost from my friends.",
@@ -273,6 +263,16 @@
   "id": "\\bIf you see any of my friends tell them I'm fine.",
   "en": "\\bIf you see any of my friends tell them I'm fine.",
   "it": "\\bSe vedi qualcuno dei miei amici, digli che sto bene."
+ },
+ {
+  "id": "\\bIntruder!",
+  "en": "\\bIntruder!",
+  "it": "\\bUn intruso!"
+ },
+ {
+  "id": "\\bI guess you don't mean harm.",
+  "en": "\\bI guess you don't mean harm.",
+  "it": "\\bVa bene, non sembri avere cattive intenzioni."
  },
  {
   "id": "Yes",

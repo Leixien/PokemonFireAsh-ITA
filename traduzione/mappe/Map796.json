@@ -10,24 +10,9 @@
   "it": "La Ball contiene Chespin. Vuoi prenderlo?"
  },
  {
-  "id": "The ball holds a Fenniken. Would you like to take it?",
-  "en": "The ball holds a Fenniken. Would you like to take it?",
-  "it": "La Ball contiene Fenniken. Vuoi prenderlo?"
- },
- {
-  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Cancel]",
-  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Cancel]",
-  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange,Johto,Hoenn,Sinnoh,Unima,Annulla]"
- },
- {
-  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Cancel]",
-  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Cancel]",
-  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange,Johto,Hoenn,Sinnoh,Unima,Alola,Annulla]"
- },
- {
-  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Galar,Cancel]",
-  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Galar,Cancel]",
-  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange,Johto,Hoenn,Sinnoh,Unima,Alola,Galar,Annulla]"
+  "id": "The ball holds a Fennekin. Would you like to take it?",
+  "en": "The ball holds a Fennekin. Would you like to take it?",
+  "it": "La Poké Ball contiene un Fennekin. Vuoi prenderlo?"
  },
  {
   "id": "\\bSycamore: Sorry, but I need to find Froakie. We can talk soon.",
@@ -58,6 +43,21 @@
   "id": "\\bSycamore: I study Mega Evolution. Garchomp and I are able to do it together.",
   "en": "\\bSycamore: I study Mega Evolution. Garchomp and I are able to do it together.",
   "it": "\\bPlatan: Studio la Megaevoluzione. Io e Garchomp riusciamo a usarla insieme."
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange,Johto,Hoenn,Sinnoh,Unima,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange,Johto,Hoenn,Sinnoh,Unima,Alola,Annulla]"
+ },
+ {
+  "id": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Galar,Cancel]",
+  "en": "Where would you like to go?\\ch[1,-1,Kanto,Orange, Johto,Hoenn,Sinnoh,Unova,Alola,Galar,Cancel]",
+  "it": "Dove vuoi andare?\\ch[1,-1,Kanto,Orange,Johto,Hoenn,Sinnoh,Unima,Alola,Galar,Annulla]"
  },
  {
   "id": "\\bAlain: Good to see you again, \\PN. I'm on a break from searching for Mega Stones, but a battle would be a good way to keep me sharp.",

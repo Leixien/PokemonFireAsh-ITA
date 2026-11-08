@@ -13,7 +13,7 @@ import sys
 from rubymarshal.classes import UserDef
 from rubymarshal.writer import writes
 
-from fa_common import (DEFAULT_GAME, ROOT, TRAD_DIR, control_codes, load_json,
+from fa_common import (DEFAULT_GAME, ROOT, TRAD_DIR, VERSIONI, VERSIONE_CORRENTE, control_codes, load_json,
                        load_messages, make_ordered_hash, read_ordered_hash,
                        rstr, sanitize, section_filename, to_str, SECTION_NAMES)
 
@@ -98,12 +98,14 @@ def main():
             out.append(arr)
         total += n
         done += d
-    dest = os.path.join(game, "Data", "italiano.dat")
+    cfg = VERSIONI[VERSIONE_CORRENTE]
+    dist = os.path.join(ROOT, "translated_files", VERSIONE_CORRENTE)
+    os.makedirs(dist, exist_ok=True)
+    dest = os.path.join(dist, cfg["file"])
     with open(dest, "wb") as f:
         f.write(writes(out))
-    dist = os.path.join(ROOT, "translated_files")
-    os.makedirs(dist, exist_ok=True)
-    shutil.copyfile(dest, os.path.join(dist, "italiano.dat"))
+    if len(sys.argv) > 1:  # copia anche in una cartella di gioco indicata
+        shutil.copyfile(dest, os.path.join(game, "Data", cfg["file"]))
     for w in warnings:
         print("ATTENZIONE:", w)
     pct = 100.0 * done / total if total else 0

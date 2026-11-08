@@ -1,10 +1,5 @@
 [
  {
-  "id": "\\rMy father is the Gym Leader around here. His Gym is on the outskirts of the town.",
-  "en": "\\rMy father is the Gym Leader around here. His Gym is on the outskirts of the town.",
-  "it": "\\rMio padre è il Capopalestra di qui. La sua Palestra è alla periferia della città."
- },
- {
   "id": "Name: Kangaskhan",
   "en": "Name: Kangaskhan",
   "it": "Nome: Kangaskhan"
@@ -15,19 +10,14 @@
   "it": "Un Pokémon materno che alleva i piccoli in una tasca sul ventre."
  },
  {
+  "id": "\\rMy father is the Gym Leader around here. His Gym is on the outskirts of the town.",
+  "en": "\\rMy father is the Gym Leader around here. His Gym is on the outskirts of the town.",
+  "it": "\\rMio padre è il Capopalestra di qui. La sua Palestra è alla periferia della città."
+ },
+ {
   "id": "\\rChan!",
   "en": "\\rChan!",
   "it": "\\rChan!"
- },
- {
-  "id": "\\rThat item ball in there...\\nWere you wanting it?",
-  "en": "\\rThat item ball in there...\\nWere you wanting it?",
-  "it": "\\rQuella Poké Ball là dentro...\\nLa volevi anche tu?"
- },
- {
-  "id": "\\rMe too!\\n...Huh? That's a Pokémon?",
-  "en": "\\rMe too!\\n...Huh? That's a Pokémon?",
-  "it": "\\rAnch'io!\\n...Eh? Quello è un Pokémon?"
  },
  {
   "id": "Name: Omanyte",
@@ -40,14 +30,19 @@
   "it": "Un Pokémon estremamente raro, riportato in vita da un fossile."
  },
  {
+  "id": "\\rThat item ball in there...\\nWere you wanting it?",
+  "en": "\\rThat item ball in there...\\nWere you wanting it?",
+  "it": "\\rQuella Poké Ball là dentro...\\nLa volevi anche tu?"
+ },
+ {
+  "id": "\\rMe too!\\n...Huh? That's a Pokémon?",
+  "en": "\\rMe too!\\n...Huh? That's a Pokémon?",
+  "it": "\\rAnch'io!\\n...Eh? Quello è un Pokémon?"
+ },
+ {
   "id": "Fuchsia City\\nBehold! It's Passion Pink!",
   "en": "Fuchsia City\\nBehold! It's Passion Pink!",
   "it": "Fucsiapoli\\nEcco a voi il rosa passione!"
- },
- {
-  "id": "\\bDid you try the Safari Game?",
-  "en": "\\bDid you try the Safari Game?",
-  "it": "\\bHai provato il Gioco Safari?"
  },
  {
   "id": "Name: Chansey",
@@ -60,6 +55,16 @@
   "it": "Un Pokémon raro e sfuggente che si dice porti fortuna a chi riesce a catturarlo."
  },
  {
+  "id": "\\bDid you try the Safari Game?",
+  "en": "\\bDid you try the Safari Game?",
+  "it": "\\bHai provato il Gioco Safari?"
+ },
+ {
+  "id": "\\bLapras",
+  "en": "\\bLapras",
+  "it": "\\bLapras"
+ },
+ {
   "id": "\\bOur Safari Zone has a zoo in front of the entrance.",
   "en": "\\bOur Safari Zone has a zoo in front of the entrance. ",
   "it": "\\bLa nostra Zona Safari ha uno zoo davanti all'ingresso. "
@@ -68,26 +73,6 @@
   "id": "\\bOut back is the Safari Game for catching Pokémon.",
   "en": "\\bOut back is the Safari Game for catching Pokémon.",
   "it": "\\bSul retro c'è il Gioco Safari per catturare Pokémon."
- },
- {
-  "id": "\\bLapras",
-  "en": "\\bLapras",
-  "it": "\\bLapras"
- },
- {
-  "id": "\\bFarfetch'd",
-  "en": "\\bFarfetch'd",
-  "it": "\\bFarfetch'd"
- },
- {
-  "id": "Name: Voltorb",
-  "en": "Name: Voltorb",
-  "it": "Nome: Voltorb"
- },
- {
-  "id": "The very image of a Poké Ball.",
-  "en": "The very image of a Poké Ball.",
-  "it": "Il ritratto sputato di una Poké Ball."
  },
  {
   "id": "\\bYou there! You think you're good enough to enter my Safari Zone?",
@@ -100,14 +85,19 @@
   "it": "\\bNon fare niente di avventato là dentro."
  },
  {
-  "id": "\\bRem raid",
-  "en": "\\bRem raid",
-  "it": "\\bRem raid"
+  "id": "Name: Voltorb",
+  "en": "Name: Voltorb",
+  "it": "Nome: Voltorb"
  },
  {
-  "id": "Safari Game",
-  "en": "Safari Game",
-  "it": "Gioco Safari"
+  "id": "The very image of a Poké Ball.",
+  "en": "The very image of a Poké Ball.",
+  "it": "Il ritratto sputato di una Poké Ball."
+ },
+ {
+  "id": "\\bFarfetch'd",
+  "en": "\\bFarfetch'd",
+  "it": "\\bFarfetch'd"
  },
  {
   "id": "Name: Slowpoke",
@@ -120,9 +110,14 @@
   "it": "Amichevole e lento nei movimenti."
  },
  {
-  "id": "\\bThis Pokémon is so cool!",
-  "en": "\\bThis Pokémon is so cool!",
-  "it": "\\bQuesto Pokémon è fortissimo!"
+  "id": "Safari Game",
+  "en": "Safari Game",
+  "it": "Gioco Safari"
+ },
+ {
+  "id": "\\bRem raid",
+  "en": "\\bRem raid",
+  "it": "\\bRem raid"
  },
  {
   "id": "\\rKanga",
@@ -130,14 +125,9 @@
   "it": "\\rKanga"
  },
  {
-  "id": "\\rKaku",
-  "en": "\\rKaku",
-  "it": "\\rKaku"
- },
- {
-  "id": "\\rSlow...",
-  "en": "\\rSlow...",
-  "it": "\\rSlow..."
+  "id": "\\bThis Pokémon is so cool!",
+  "en": "\\bThis Pokémon is so cool!",
+  "it": "\\bQuesto Pokémon è fortissimo!"
  },
  {
   "id": "Name: Lapras",
@@ -148,5 +138,15 @@
   "id": "The king of the seas.",
   "en": "The king of the seas.",
   "it": "Il re dei mari."
+ },
+ {
+  "id": "\\rSlow...",
+  "en": "\\rSlow...",
+  "it": "\\rSlow..."
+ },
+ {
+  "id": "\\rKaku",
+  "en": "\\rKaku",
+  "it": "\\rKaku"
  }
 ]

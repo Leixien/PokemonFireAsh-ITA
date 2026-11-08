@@ -25,14 +25,19 @@
   "it": "\\bIl museo è anche la Palestra. Lì dentro puoi imparare e lottare."
  },
  {
+  "id": "\\rSwadloon",
+  "en": "\\rSwadloon",
+  "it": "\\rSwadloon"
+ },
+ {
   "id": "Nacrene City\\nA Pearl of a Place",
   "en": "Nacrene City\\nA Pearl of a Place",
   "it": "Zefiropoli\\nUna perla di città"
  },
  {
-  "id": "\\rSwadloon",
-  "en": "\\rSwadloon",
-  "it": "\\rSwadloon"
+  "id": "\\bI've just come from Castelia City. The forest sure is scary.",
+  "en": "\\bI've just come from Castelia City. The forest sure is scary.",
+  "it": "\\bVengo da Austropoli. Il bosco fa davvero paura."
  },
  {
   "id": "\\rIris: Wha! ...Oh it's just \\PN. I came here to see the Dragon Fossils, but I guess this is just a Gym.",
@@ -50,11 +55,6 @@
   "it": "\\rIris: Allora forse una possibilità ce l'hai. Buona fortuna."
  },
  {
-  "id": "\\bI've just come from Castelia City. The forest sure is scary.",
-  "en": "\\bI've just come from Castelia City. The forest sure is scary.",
-  "it": "\\bVengo da Austropoli. Il bosco fa davvero paura."
- },
- {
   "id": "Nacrene City Pokémon Gym Leader:\\nLenora",
   "en": "Nacrene City Pokémon Gym Leader:\\nLenora",
   "it": "Capopalestra della Palestra Pokémon di Zefiropoli:\\nAloé"
@@ -65,14 +65,19 @@
   "it": "Un'archeologa con carattere"
  },
  {
+  "id": "\\bLenora uses Normal types in her gym. They can be tough despite having no true advantage.",
+  "en": "\\bLenora uses Normal types in her gym. They can be tough despite having no true advantage.",
+  "it": "\\bAloé usa tipi Normale nella sua Palestra. Possono essere tosti pur senza avere veri vantaggi."
+ },
+ {
   "id": "Nacrene Museum",
   "en": "Nacrene Museum",
   "it": "Museo di Zefiropoli"
  },
  {
-  "id": "\\bLenora uses Normal types in her gym. They can be tough despite having no true advantage.",
-  "en": "\\bLenora uses Normal types in her gym. They can be tough despite having no true advantage.",
-  "it": "\\bAloé usa tipi Normale nella sua Palestra. Possono essere tosti pur senza avere veri vantaggi."
+  "id": "\\rI love visiting the museum!",
+  "en": "\\rI love visiting the museum!",
+  "it": "\\rAdoro visitare il museo!"
  },
  {
   "id": "\\rWhich starter would you pick?",
@@ -88,11 +93,6 @@
   "id": "\\rThat one is my favourite too.",
   "en": "\\rThat one is my favourite too.",
   "it": "\\rÈ anche il mio preferito."
- },
- {
-  "id": "\\rI love visiting the museum!",
-  "en": "\\rI love visiting the museum!",
-  "it": "\\rAdoro visitare il museo!"
  },
  {
   "id": "Snivy",

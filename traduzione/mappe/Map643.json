@@ -1,5 +1,15 @@
 [
  {
+  "id": "\\bForget about the battles. Do you see everything they are selling here?",
+  "en": "\\bForget about the battles. Do you see everything they are selling here?",
+  "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
+ },
+ {
+  "id": "\\rChansey",
+  "en": "\\rChansey",
+  "it": "\\rChansey"
+ },
+ {
   "id": "\\bThis is where the beginning rounds take place.",
   "en": "\\bThis is where the beginning rounds take place.",
   "it": "\\bQui si svolgono i turni iniziali."
@@ -30,19 +40,9 @@
   "it": "\\bQui si svolgono le lotte dei Top 32."
  },
  {
-  "id": "\\rChansey",
-  "en": "\\rChansey",
-  "it": "\\rChansey"
- },
- {
-  "id": "\\bForget about the battles. Do you see everything they are selling here?",
-  "en": "\\bForget about the battles. Do you see everything they are selling here?",
-  "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
- },
- {
-  "id": "\\bI'm telling you to use the computer. Learn about your opponent.",
-  "en": "\\bI'm telling you to use the computer. Learn about your opponent.",
-  "it": "\\bTi dico di usare il computer. Studia il tuo avversario."
+  "id": "\\bThis is where the Top 32 battles take place.",
+  "en": "\\bThis is where the Top 32 battles take place.",
+  "it": "\\bQui si svolgono gli incontri della Top 32."
  },
  {
   "id": "\\bThis is the Finals stage.",
@@ -50,14 +50,29 @@
   "it": "\\bQuesta è la fase delle Finali."
  },
  {
+  "id": "\\bThis is where the Finals take place? Are you ready?",
+  "en": "\\bThis is where the Finals take place? Are you ready?",
+  "it": "\\bQui si svolge la Finale? Sei pronto?"
+ },
+ {
+  "id": "\\bI'm telling you to use the computer. Learn about your opponent.",
+  "en": "\\bI'm telling you to use the computer. Learn about your opponent.",
+  "it": "\\bTi dico di usare il computer. Studia il tuo avversario."
+ },
+ {
   "id": "\\bI need to find a strong Grass type.",
   "en": "\\bI need to find a strong Grass type.",
   "it": "\\bDevo trovare un Pokémon di tipo Erba forte."
  },
  {
-  "id": "\\bI can win with just my intuition. I don't need numbers.",
-  "en": "\\bI can win with just my intuition. I don't need numbers.",
-  "it": "\\bPosso vincere solo con il mio intuito. Non mi servono i numeri."
+  "id": "\\bIs your Quilava lacking in firepower? Have it learn Eruption!",
+  "en": "\\bIs your Quilava lacking in firepower? Have it learn Eruption!",
+  "it": "\\bAl tuo Quilava manca potenza di fuoco? Fagli imparare Eruzione!"
+ },
+ {
+  "id": "\\bCome back when you're ready.",
+  "en": "\\bCome back when you're ready.",
+  "it": "\\bTorna quando sei pronto."
  },
  {
   "id": "\\bBarry: \\PN! You made it!",
@@ -85,9 +100,19 @@
   "it": "\\bBarry: Ho perso contro Paul... Scusa, \\PN. Sembra che non potremo risolvere la questione."
  },
  {
+  "id": "\\bI can win with just my intuition. I don't need numbers.",
+  "en": "\\bI can win with just my intuition. I don't need numbers.",
+  "it": "\\bPosso vincere solo con il mio intuito. Non mi servono i numeri."
+ },
+ {
   "id": "\\bI've already lost... How did that happen?",
   "en": "\\bI've already lost... How did that happen?",
   "it": "\\bHo già perso... Com'è potuto succedere?"
+ },
+ {
+  "id": "\\rAmpharos",
+  "en": "\\rAmpharos",
+  "it": "\\rAmpharos"
  },
  {
   "id": "\\bScizor",
@@ -95,9 +120,9 @@
   "it": "\\bScizor"
  },
  {
-  "id": "\\rAmpharos",
-  "en": "\\rAmpharos",
-  "it": "\\rAmpharos"
+  "id": "\\bI trust you Blastoise!",
+  "en": "\\bI trust you Blastoise!",
+  "it": "\\bConto su di te, Blastoise!"
  },
  {
   "id": "\\rHello. Here you can register for the Lily of the Valley Conference.",
@@ -130,14 +155,19 @@
   "it": "\\rTi sei già iscritto."
  },
  {
-  "id": "\\bI trust you Blastoise!",
-  "en": "\\bI trust you Blastoise!",
-  "it": "\\bConto su di te, Blastoise!"
+  "id": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Lily of the Valley Conference? It might be too easy for you...",
+  "en": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Lily of the Valley Conference? It might be too easy for you...",
+  "it": "\\rOh, ma quello è il Monarca \\PN? Sei sicuro di volerti iscrivere alla Conferenza Mughetto? Potrebbe essere troppo facile per te..."
  },
  {
-  "id": "\\rI'm gonna win. Sorry for your loss.",
-  "en": "\\rI'm gonna win. Sorry for your loss.",
-  "it": "\\rVincerò io. Mi spiace per la tua sconfitta."
+  "id": "\\rOk then... well, we've changed the format a little bit, being that from the Top 32 onwards, all the battles are full battles.",
+  "en": "\\rOk then... well, we've changed the format a little bit, being that from the Top 32 onwards, all the battles are full battles.",
+  "it": "\\rVa bene... allora, abbiamo cambiato un po' il formato: dalla Top 32 in poi, tutte le lotte sono lotte complete."
+ },
+ {
+  "id": "\\rYour first battle will be to the far left. Good luck! Though you probably won't need it...",
+  "en": "\\rYour first battle will be to the far left. Good luck! Though you probably won't need it...",
+  "it": "\\rIl tuo primo incontro sarà in fondo a sinistra. Buona fortuna! Anche se probabilmente non ti servirà..."
  },
  {
   "id": "\\bPaul: I may not agree with how you train, but I can accept that it's a valid option.",
@@ -150,6 +180,16 @@
   "it": "\\bVado a sfidare di nuovo Brandon. Buona fortuna, potresti anche vincere."
  },
  {
+  "id": "\\rI'm gonna win. Sorry for your loss.",
+  "en": "\\rI'm gonna win. Sorry for your loss.",
+  "it": "\\rVincerò io. Mi spiace per la tua sconfitta."
+ },
+ {
+  "id": "\\rBlastoise",
+  "en": "\\rBlastoise",
+  "it": "\\rBlastoise"
+ },
+ {
   "id": "\\bThis is where the Top 16 battle.",
   "en": "\\bThis is where the Top 16 battle.",
   "it": "\\bQui si sfidano i Top 16."
@@ -160,9 +200,79 @@
   "it": "\\bQui si sfidano i Top 16? Sei pronto?"
  },
  {
-  "id": "\\rBlastoise",
-  "en": "\\rBlastoise",
-  "it": "\\rBlastoise"
+  "id": "\\rHello, and welcome to the Pokémon Center.",
+  "en": "\\rHello, and welcome to the Pokémon Center.",
+  "it": "\\rCiao, benvenuto al Centro Pokémon."
+ },
+ {
+  "id": "\\rWe restore your tired Pokémon to full health.",
+  "en": "\\rWe restore your tired Pokémon to full health.",
+  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
+ },
+ {
+  "id": "\\rWould you like to rest your Pokémon?",
+  "en": "\\rWould you like to rest your Pokémon?",
+  "it": "\\rVuoi far riposare i tuoi Pokémon?"
+ },
+ {
+  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
+  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
+ },
+ {
+  "id": "\\rYour Pokémon may be infected by PokeRus.",
+  "en": "\\rYour Pokémon may be infected by PokeRus.",
+  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
+ },
+ {
+  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
+  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
+ },
+ {
+  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
+  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
+ },
+ {
+  "id": "\\rThank you for waiting.",
+  "en": "\\rThank you for waiting.",
+  "it": "\\rGrazie per l'attesa."
+ },
+ {
+  "id": "\\rWe've restored your Pokémon to full health.",
+  "en": "\\rWe've restored your Pokémon to full health.",
+  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
+ },
+ {
+  "id": "\\rWe hope to see you again!",
+  "en": "\\rWe hope to see you again!",
+  "it": "\\rTorna a trovarci!"
+ },
+ {
+  "id": "\\rFirst, you should restore your Pokémon to full health.",
+  "en": "\\rFirst, you should restore your Pokémon to full health.",
+  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
+ },
+ {
+  "id": "\\rYour Pokémon have been healed to perfect health.",
+  "en": "\\rYour Pokémon have been healed to perfect health.",
+  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
+ },
+ {
+  "id": "\\rWe hope you excel!",
+  "en": "\\rWe hope you excel!",
+  "it": "\\rSpero che tu abbia successo!"
+ },
+ {
+  "id": "\\bPaul: Hmph. So you made it. Don't lose too quickly.",
+  "en": "\\bPaul: Hmph. So you made it. Don't lose too quickly.",
+  "it": "\\bPaul: Hmph. Quindi ce l'hai fatta. Non perdere troppo in fretta."
+ },
+ {
+  "id": "\\bPaul: So I battle you next. Show me you can handle it.",
+  "en": "\\bPaul: So I battle you next. Show me you can handle it.",
+  "it": "\\bPaul: Quindi il prossimo avversario sei tu. Dimostrami che sei all'altezza."
  },
  {
   "id": "\\bMcCann: Hello there. Would you like me to train one of your Pokémon?",
@@ -285,79 +395,14 @@
   "it": "\\bVuoi riprenderti anche l'altro?"
  },
  {
-  "id": "\\rHello, and welcome to the Pokémon Center.",
-  "en": "\\rHello, and welcome to the Pokémon Center.",
-  "it": "\\rCiao, benvenuto al Centro Pokémon."
+  "id": "\\bThis is where the Semi-Finals take place.",
+  "en": "\\bThis is where the Semi-Finals take place.",
+  "it": "\\bQui si svolgono le semifinali."
  },
  {
-  "id": "\\rWe restore your tired Pokémon to full health.",
-  "en": "\\rWe restore your tired Pokémon to full health.",
-  "it": "\\rQui rimettiamo in forze i tuoi Pokémon stanchi."
- },
- {
-  "id": "\\rWould you like to rest your Pokémon?",
-  "en": "\\rWould you like to rest your Pokémon?",
-  "it": "\\rVuoi far riposare i tuoi Pokémon?"
- },
- {
-  "id": "\\rOK, I'll take your Pokémon for a few seconds.",
-  "en": "\\rOK, I'll take your Pokémon for a few seconds.",
-  "it": "\\rBene, prendo i tuoi Pokémon per qualche secondo."
- },
- {
-  "id": "\\rYour Pokémon may be infected by PokeRus.",
-  "en": "\\rYour Pokémon may be infected by PokeRus.",
-  "it": "\\rI tuoi Pokémon potrebbero aver contratto il Pokérus."
- },
- {
-  "id": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
-  "en": "\\rLittle is known about the PokeRus except that they are microscopic life-forms that attach to Pokémon.",
-  "it": "\\rSi sa poco del Pokérus, se non che si tratta di forme di vita microscopiche che si attaccano ai Pokémon."
- },
- {
-  "id": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
-  "en": "\\rWhile infected, Pokémon are said to grow exceptionally well.",
-  "it": "\\rSi dice che i Pokémon infetti crescano eccezionalmente bene."
- },
- {
-  "id": "\\rThank you for waiting.",
-  "en": "\\rThank you for waiting.",
-  "it": "\\rGrazie per l'attesa."
- },
- {
-  "id": "\\rWe've restored your Pokémon to full health.",
-  "en": "\\rWe've restored your Pokémon to full health.",
-  "it": "\\rI tuoi Pokémon sono di nuovo in piena forma."
- },
- {
-  "id": "\\rWe hope to see you again!",
-  "en": "\\rWe hope to see you again!",
-  "it": "\\rTorna a trovarci!"
- },
- {
-  "id": "\\rFirst, you should restore your Pokémon to full health.",
-  "en": "\\rFirst, you should restore your Pokémon to full health.",
-  "it": "\\rPer prima cosa, dovresti rimettere in forze i tuoi Pokémon."
- },
- {
-  "id": "\\rYour Pokémon have been healed to perfect health.",
-  "en": "\\rYour Pokémon have been healed to perfect health.",
-  "it": "\\rI tuoi Pokémon sono stati curati e sono in perfetta salute."
- },
- {
-  "id": "\\rWe hope you excel!",
-  "en": "\\rWe hope you excel!",
-  "it": "\\rSpero che tu abbia successo!"
- },
- {
-  "id": "\\bPaul: Hmph. So you made it. Don't lose too quickly.",
-  "en": "\\bPaul: Hmph. So you made it. Don't lose too quickly.",
-  "it": "\\bPaul: Hmph. Quindi ce l'hai fatta. Non perdere troppo in fretta."
- },
- {
-  "id": "\\bPaul: So I battle you next. Show me you can handle it.",
-  "en": "\\bPaul: So I battle you next. Show me you can handle it.",
-  "it": "\\bPaul: Quindi il prossimo avversario sei tu. Dimostrami che sei all'altezza."
+  "id": "\\bThis is where the Semi-Finals take place? Are you ready?",
+  "en": "\\bThis is where the Semi-Finals take place? Are you ready?",
+  "it": "\\bQui si svolgono le semifinali? Sei pronto?"
  },
  {
   "id": "\\bThis is where the Top 8 battle.",
@@ -368,16 +413,6 @@
   "id": "\\bThis is where the Top 8 fight? Are you ready?",
   "en": "\\bThis is where the Top 8 fight? Are you ready?",
   "it": "\\bQui si sfidano i Top 8? Sei pronto?"
- },
- {
-  "id": "\\bThis is where the Semi-Finals take place.",
-  "en": "\\bThis is where the Semi-Finals take place.",
-  "it": "\\bQui si svolgono le semifinali."
- },
- {
-  "id": "\\bThis is where the Semi-Finals take place? Are you ready?",
-  "en": "\\bThis is where the Semi-Finals take place? Are you ready?",
-  "it": "\\bQui si svolgono le semifinali? Sei pronto?"
  },
  {
   "id": "Yes",

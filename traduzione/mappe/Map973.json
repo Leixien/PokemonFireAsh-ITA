@@ -10,9 +10,9 @@
   "it": "\\bOranguru"
  },
  {
-  "id": "\\bSun: My name is Henry. I'm from a family of swordsmiths and was taught how to repair weapons.",
-  "en": "\\bSun: My name is Henry. I'm from a family of swordsmiths and was taught how to repair weapons.",
-  "it": "\\bSun: Mi chiamo Henry. Vengo da una famiglia di forgiatori di spade e mi hanno insegnato a riparare le armi."
+  "id": "\\bHenry: My name is Henry. I'm from a family of swordsmiths and was taught how to repair weapons.",
+  "en": "\\bHenry: My name is Henry. I'm from a family of swordsmiths and was taught how to repair weapons.",
+  "it": "\\bHenry: Mi chiamo Henry. Vengo da una famiglia di forgiatori di spade e mi hanno insegnato a riparare le armi."
  },
  {
   "id": "\\bShow me your skills.",
@@ -30,9 +30,9 @@
   "it": "\\bMr. Rime"
  },
  {
-  "id": "\\bYou've returned to your world.",
-  "en": "\\bYou've returned to your world.",
-  "it": "\\bSei tornato nel tuo mondo."
+  "id": "You've returned to your world.",
+  "en": "You've returned to your world.",
+  "it": "Sei tornato nel tuo mondo."
  },
  {
   "id": "\\bUrshifu",

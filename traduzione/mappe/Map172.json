@@ -5,21 +5,6 @@
   "it": "\\rSono venuta fin da Alola per questa vacanza. Però non vedo l'ora di tornare a casa."
  },
  {
-  "id": "\\bI always believed in the classics. Here, take one.",
-  "en": "\\bI always believed in the classics. Here, take one.",
-  "it": "\\bHo sempre creduto nei classici. Tieni, prendine uno."
- },
- {
-  "id": "\\bThose were our only options when I was a Trainer. That or hard work.",
-  "en": "\\bThose were our only options when I was a Trainer.  That or hard work.",
-  "it": "\\bQuando ero un Allenatore avevamo solo queste opzioni. O quello, o il duro lavoro."
- },
- {
-  "id": "\\rOr...",
-  "en": "\\rOr...",
-  "it": "\\rOppure..."
- },
- {
   "id": "\\rOh, are you new? Please enjoy one on the house.",
   "en": "\\rOh, are you new? Please enjoy one on the house.",
   "it": "\\rOh, sei nuovo? Prendine uno, offre la casa."
@@ -30,9 +15,19 @@
   "it": "\\rContinua a sostenerci, per favore."
  },
  {
-  "id": "\\bI'm waiting for dark to explore the city.",
-  "en": "\\bI'm waiting for dark to explore the city.",
-  "it": "\\bAspetto che faccia buio per esplorare la città."
+  "id": "\\rOr...",
+  "en": "\\rOr...",
+  "it": "\\rOppure..."
+ },
+ {
+  "id": "\\bI always believed in the classics. Here, take one.",
+  "en": "\\bI always believed in the classics. Here, take one.",
+  "it": "\\bHo sempre creduto nei classici. Tieni, prendine uno."
+ },
+ {
+  "id": "\\bThose were our only options when I was a Trainer. That or hard work.",
+  "en": "\\bThose were our only options when I was a Trainer.  That or hard work.",
+  "it": "\\bQuando ero un Allenatore avevamo solo queste opzioni. O quello, o il duro lavoro."
  },
  {
   "id": "\\rOleana: Are you leaving?",
@@ -40,19 +35,9 @@
   "it": "\\rOleana: Te ne vai?"
  },
  {
-  "id": "\\bWelcome to Rose Tower.",
-  "en": "\\bWelcome to Rose Tower.",
-  "it": "\\bBenvenuto alla Torre Rose."
- },
- {
-  "id": "\\bI want to go battle someone.",
-  "en": "\\bI want to go battle someone.",
-  "it": "\\bHo voglia di andare a lottare con qualcuno."
- },
- {
-  "id": "\\rLiving here isn't easy. There's so much going on it can be hard to keep up with it all.",
-  "en": "\\rLiving here isn't easy. There's so much going on it can be hard to keep up with it all.",
-  "it": "\\rVivere qui non è facile. Succedono così tante cose che è difficile stare al passo con tutto."
+  "id": "\\rI'm waiting till it's dark to explore the city.",
+  "en": "\\rI'm waiting till it's dark to explore the city.",
+  "it": "\\rAspetto che faccia buio per esplorare la città."
  },
  {
   "id": "\\bGalar is home to Dynamax. Rumor has it that the power came from an ancient Pokémon.",
@@ -60,29 +45,24 @@
   "it": "\\bGalar è la patria del Dynamax. Si dice che questo potere provenga da un antico Pokémon."
  },
  {
+  "id": "\\rLiving here isn't easy. There's so much going on it can be hard to keep up with it all.",
+  "en": "\\rLiving here isn't easy. There's so much going on it can be hard to keep up with it all.",
+  "it": "\\rVivere qui non è facile. Succedono così tante cose che è difficile stare al passo con tutto."
+ },
+ {
+  "id": "\\bI want to go battle someone.",
+  "en": "\\bI want to go battle someone.",
+  "it": "\\bHo voglia di andare a lottare con qualcuno."
+ },
+ {
+  "id": "\\bWelcome to Rose Tower.",
+  "en": "\\bWelcome to Rose Tower.",
+  "it": "\\bBenvenuto alla Torre Rose."
+ },
+ {
   "id": "\\bThis hotel is the height of luxury.",
   "en": "\\bThis hotel is the height of luxury.",
   "it": "\\bQuesto hotel è il massimo del lusso."
- },
- {
-  "id": "\\bWhere would you like to go?",
-  "en": "\\bWhere would you like to go?",
-  "it": "\\bDove vorresti andare?"
- },
- {
-  "id": "\\bWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wedgehurst,Exit]",
-  "en": "\\bWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wedgehurst,Exit]",
-  "it": "\\bDove vorresti andare?\\ch[1,-1,Zafferanopoli, Fiordoropoli,Freezington,Wedgehurst,Esci]"
- },
- {
-  "id": "\\bDo you have your key?",
-  "en": "\\bDo you have your key?",
-  "it": "\\bHai la tua chiave?"
- },
- {
-  "id": "\\rMime Mime",
-  "en": "\\rMime Mime",
-  "it": "\\rMime Mime"
  },
  {
   "id": "\\bI've referred multiple matches for the Champion. He never loses. It's like he's in a league of his own.",
@@ -90,19 +70,24 @@
   "it": "\\bHo arbitrato diversi incontri del Campione. Non perde mai. È come se giocasse in un altro campionato."
  },
  {
-  "id": "\\rWelcome to The Rose of the Rondelands hotel.",
-  "en": "\\rWelcome to The Rose of the Rondelands hotel.",
-  "it": "\\rBenvenuto all'hotel Rose of the Rondelands."
+  "id": "\\rMime Mime",
+  "en": "\\rMime Mime",
+  "it": "\\rMime Mime"
  },
  {
-  "id": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium. Please take this as an apology.",
-  "en": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium. Please take this as an apology.",
-  "it": "\\rMi dispiace, l'hotel è al completo per via della lotta imminente allo Stadio di Wyndon. Accetta questo come scusa."
+  "id": "\\rDo you have your key?",
+  "en": "\\rDo you have your key?",
+  "it": "\\rHai la tua chiave?"
  },
  {
-  "id": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium.",
-  "en": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium.",
-  "it": "\\rMi dispiace, l'hotel è al completo per via della lotta imminente allo Stadio di Wyndon."
+  "id": "\\rWhere would you like to go?",
+  "en": "\\rWhere would you like to go?",
+  "it": "\\rDove vuoi andare?"
+ },
+ {
+  "id": "\\rWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wedgehurst,Exit]",
+  "en": "\\rWhere would you like to go?\\ch[1,-1,Saffron, Goldenrod,Freezington,Wedgehurst,Exit]",
+  "it": "\\rDove vuoi andare?\\ch[1,-1,Zafferanopoli, Fiordoropoli,Freezington,Wedgehurst,Esci]"
  },
  {
   "id": "\\bI collect rare items. I bet I have something you don't have. That's right. It's a Rising Badge.",
@@ -120,6 +105,41 @@
   "it": "\\bForse dovrei provare a collezionare amici, invece."
  },
  {
+  "id": "\\rWelcome to The Rose of the Rondelands hotel.",
+  "en": "\\rWelcome to The Rose of the Rondelands hotel.",
+  "it": "\\rBenvenuto all'hotel Rose of the Rondelands."
+ },
+ {
+  "id": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium. Please take this as an apology.",
+  "en": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium. Please take this as an apology.",
+  "it": "\\rMi dispiace, l'hotel è al completo per via della lotta imminente allo Stadio di Wyndon. Accetta questo come scusa."
+ },
+ {
+  "id": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium.",
+  "en": "\\rI'm sorry, the hotel is full due to the upcoming battle in Wyndon Stadium.",
+  "it": "\\rMi dispiace, l'hotel è al completo per via della lotta imminente allo Stadio di Wyndon."
+ },
+ {
+  "id": "\\bHi! Sorry about any inconvinience caused by stats not going up in a previous version after using the guy next to me. Bring me any Pokémon that have been affected and talk to me again so I can fix 'em up.",
+  "en": "\\bHi! Sorry about any inconvinience caused by stats not going up in a previous version after using the guy next to me. Bring me any Pokémon that have been affected and talk to me again so I can fix 'em up.",
+  "it": "\\bCiao! Ci scusiamo per il disagio causato dalle statistiche che non aumentavano in una versione precedente dopo aver parlato con il tizio qui accanto. Portami i Pokémon coinvolti e parlami di nuovo, così li sistemo."
+ },
+ {
+  "id": "\\bLet me fix up your team...",
+  "en": "\\bLet me fix up your team...",
+  "it": "\\bLascia che sistemi la tua squadra..."
+ },
+ {
+  "id": "\\b... and done! Enjoy!",
+  "en": "\\b... and done! Enjoy!",
+  "it": "\\b... e fatto! Buon divertimento!"
+ },
+ {
+  "id": "\\bI'm taking a break before heading back out and exploring.",
+  "en": "\\bI'm taking a break before heading back out and exploring.",
+  "it": "\\bMi prendo una pausa prima di tornare fuori a esplorare."
+ },
+ {
   "id": "\\rOleana: The upper limits of Rose Tower are off- limits.",
   "en": "\\rOleana: The upper limits of Rose Tower are off- limits.",
   "it": "\\rOleana: I piani superiori della Torre Rose sono off- limits."
@@ -133,21 +153,6 @@
   "id": "\\rThe upper limits of Rose Tower are off-limits.",
   "en": "\\rThe upper limits of Rose Tower are off-limits.",
   "it": "\\rI piani superiori della Torre Rose sono off-limits."
- },
- {
-  "id": "\\bI'm taking a break before heading back out and exploring.",
-  "en": "\\bI'm taking a break before heading back out and exploring.",
-  "it": "\\bMi prendo una pausa prima di tornare fuori a esplorare."
- },
- {
-  "id": "\\rA Champion, are you? I guess you might need something like this.",
-  "en": "\\rA Champion, are you? I guess you might need something like this.",
-  "it": "\\rUn Campione, eh? Allora forse ti servirà qualcosa del genere."
- },
- {
-  "id": "\\rThose candies work based on experience over levels. Try using that one on a weak Pokémon.",
-  "en": "\\rThose candies work based on experience over levels. Try using that one on a weak Pokémon. ",
-  "it": "\\rQuelle caramelle funzionano in base all'esperienza, non ai livelli. Prova a usare quella su un Pokémon debole. "
  },
  {
   "id": "\\bRose: Thank you for meeting with me, \\PN. I can sense you have a lot of potential. It reminds me of when I discovered Leon.",
@@ -185,14 +190,24 @@
   "it": "\\bGrazie per il tuo tempo. "
  },
  {
-  "id": "\\bI've worked here for over a year. The stuff we're doing is going to change the world.",
-  "en": "\\bI've worked here for over a year. The stuff we're doing is going to change the world.",
-  "it": "\\bLavoro qui da più di un anno. Quello che stiamo facendo cambierà il mondo."
+  "id": "\\rA Champion, are you? I guess you might need something like this.",
+  "en": "\\rA Champion, are you? I guess you might need something like this.",
+  "it": "\\rUn Campione, eh? Allora forse ti servirà qualcosa del genere."
+ },
+ {
+  "id": "\\rThose candies work based on experience over levels. Try using that one on a weak Pokémon.",
+  "en": "\\rThose candies work based on experience over levels. Try using that one on a weak Pokémon. ",
+  "it": "\\rQuelle caramelle funzionano in base all'esperienza, non ai livelli. Prova a usare quella su un Pokémon debole. "
  },
  {
   "id": "\\rMost people don't take the train these days. The Flying Taxi is how most people travel.",
   "en": "\\rMost people don't take the train these days. The Flying Taxi is how most people travel.",
   "it": "\\rDi questi tempi pochi prendono il treno. Quasi tutti viaggiano con il Volotaxi."
+ },
+ {
+  "id": "\\bI've worked here for over a year. The stuff we're doing is going to change the world.",
+  "en": "\\bI've worked here for over a year. The stuff we're doing is going to change the world.",
+  "it": "\\bLavoro qui da più di un anno. Quello che stiamo facendo cambierà il mondo."
  },
  {
   "id": "\\bI like to come here after a long day of battling.",

@@ -20,14 +20,14 @@
   "it": "\\bHo imparato tantissimo nelle lotte che abbiamo fatto. Andrò a Temperopoli a tentare la Palestra di lì. Spero di essere più forte la prossima volta che ci vediamo."
  },
  {
-  "id": "\\bWe would like to thank you for your help with the thieves. Please accept this gift.",
-  "en": "\\bWe would like to thank you for your help with the thieves. Please accept this gift.",
-  "it": "\\bVorremmo ringraziarti per il tuo aiuto con i ladri. Accetta questo regalo, ti prego."
+  "id": "\\rWe would like to thank you for your help with the thieves. Please accept this gift.",
+  "en": "\\rWe would like to thank you for your help with the thieves. Please accept this gift.",
+  "it": "\\rVorremmo ringraziarti per il tuo aiuto con i ladri. Accetta questo regalo."
  },
  {
-  "id": "\\bWe thank you for your help with the thieves. However, this area is off limits.",
-  "en": "\\bWe thank you for your help with the thieves.  However, this area is off limits.",
-  "it": "\\bTi ringraziamo per il tuo aiuto con i ladri.  Tuttavia, l'accesso a quest'area è vietato."
+  "id": "\\rWe thank you for your help with the thieves. However, this area is off limits.",
+  "en": "\\rWe thank you for your help with the thieves.  However, this area is off limits.",
+  "it": "\\rTi ringraziamo per il tuo aiuto con i ladri.  Tuttavia, quest'area è off-limits."
  },
  {
   "id": "\\bLet me share my joy with you.",

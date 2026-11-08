@@ -1,30 +1,5 @@
 [
  {
-  "id": "\\rThe island trial is up ahead.",
-  "en": "\\rThe island trial is up ahead.",
-  "it": "\\rLa prova dell'isola è più avanti."
- },
- {
-  "id": "\\rI've beaten it before. It was fun I guess.",
-  "en": "\\rI've beaten it before. It was fun I guess.",
-  "it": "\\rL'ho già superata. È stato divertente, credo."
- },
- {
-  "id": "\\rI'm getting ready for the trial.",
-  "en": "\\rI'm getting ready for the trial.",
-  "it": "\\rMi sto preparando per la prova."
- },
- {
-  "id": "\\rHala gives everyone a chance to try the trial. All you need is spunk.",
-  "en": "\\rHala gives everyone a chance to try the trial. All you need is spunk.",
-  "it": "\\rHala dà a tutti la possibilità di tentare la prova. Basta avere grinta."
- },
- {
-  "id": "\\bYou need permission from Hala to enter this trial.",
-  "en": "\\bYou need permission from Hala to enter this trial.",
-  "it": "\\bTi serve il permesso di Hala per accedere a questa prova."
- },
- {
   "id": "\\bHalt.",
   "en": "\\bHalt.",
   "it": "\\bAlt."
@@ -35,6 +10,16 @@
   "it": "\\bBella lotta. Direi che ti meriti di proseguire."
  },
  {
+  "id": "Rotom Dex: That's both of them. Let's head back to the professor.",
+  "en": "Rotom Dex: That's both of them. Let's head back to the professor.",
+  "it": "Rotom Dex: Abbiamo trovato entrambi. Torniamo dal professore."
+ },
+ {
+  "id": "\\rYou need permission from Hala to enter this trial.",
+  "en": "\\rYou need permission from Hala to enter this trial.",
+  "it": "\\rTi serve il permesso di Hala per accedere a questa prova."
+ },
+ {
   "id": "\\bMy Butterfree will never lose.",
   "en": "\\bMy Butterfree will never lose.",
   "it": "\\bIl mio Butterfree non perderà mai."
@@ -43,26 +28,6 @@
   "id": "\\bHow did Butterfree lose? I've had it since I started my journey.",
   "en": "\\bHow did Butterfree lose? I've had it since I started my journey.",
   "it": "\\bCome ha fatto Butterfree a perdere? Ce l'ho da quando ho iniziato il mio viaggio."
- },
- {
-  "id": "Verdant Cavern",
-  "en": "Verdant Cavern",
-  "it": "Grotta Sottobosco"
- },
- {
-  "id": "Rotom Dex: That's both of them. Let's head back to the professor.",
-  "en": "Rotom Dex: That's both of them. Let's head back to the professor.",
-  "it": "Rotom Dex: Abbiamo trovato entrambi. Torniamo dal professore."
- },
- {
-  "id": "\\rI wonder what is out there in the sea.",
-  "en": "\\rI wonder what is out there in the sea.",
-  "it": "\\rChissà cosa c'è là fuori, nel mare."
- },
- {
-  "id": "\\rI want to travel to Hoenn. I hear they have a lot of water too.",
-  "en": "\\rI want to travel to Hoenn. I hear they have a lot of water too.",
-  "it": "\\rVoglio andare a Hoenn. Ho sentito che anche lì c'è un sacco d'acqua."
  },
  {
   "id": "\\bKukui: Hey cousin. I see you beat your first trial. What did you get for it?",
@@ -83,5 +48,40 @@
   "id": "\\bKukui: Your Pokémon can use Z-Power now! But you can only use it once in a battle.",
   "en": "\\bKukui: Your Pokémon can use Z-Power now! But you can only use it once in a battle.",
   "it": "\\bKukui: I tuoi Pokémon ora possono usare il potere Z! Ma puoi farlo una sola volta per lotta."
+ },
+ {
+  "id": "\\rI wonder what is out there in the sea.",
+  "en": "\\rI wonder what is out there in the sea.",
+  "it": "\\rChissà cosa c'è là fuori, nel mare."
+ },
+ {
+  "id": "\\rI want to travel to Hoenn. I hear they have a lot of water too.",
+  "en": "\\rI want to travel to Hoenn. I hear they have a lot of water too.",
+  "it": "\\rVoglio andare a Hoenn. Ho sentito che anche lì c'è un sacco d'acqua."
+ },
+ {
+  "id": "Verdant Cavern",
+  "en": "Verdant Cavern",
+  "it": "Grotta Sottobosco"
+ },
+ {
+  "id": "\\rThe island trial is up ahead.",
+  "en": "\\rThe island trial is up ahead.",
+  "it": "\\rLa prova dell'isola è più avanti."
+ },
+ {
+  "id": "\\rI've beaten it before. It was fun I guess.",
+  "en": "\\rI've beaten it before. It was fun I guess.",
+  "it": "\\rL'ho già superata. È stato divertente, credo."
+ },
+ {
+  "id": "\\rI'm getting ready for the trial.",
+  "en": "\\rI'm getting ready for the trial.",
+  "it": "\\rMi sto preparando per la prova."
+ },
+ {
+  "id": "\\rHala gives everyone a chance to try the trial. All you need is spunk.",
+  "en": "\\rHala gives everyone a chance to try the trial. All you need is spunk.",
+  "it": "\\rHala dà a tutti la possibilità di tentare la prova. Basta avere grinta."
  }
 ]

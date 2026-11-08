@@ -25,16 +25,6 @@
   "it": "\\bSii sempre attento."
  },
  {
-  "id": "\\bDon't scare me like that.",
-  "en": "\\bDon't scare me like that.",
-  "it": "\\bNon spaventarmi così."
- },
- {
-  "id": "\\bThis forest is scary.",
-  "en": "\\bThis forest is scary.",
-  "it": "\\bQuesto bosco fa paura."
- },
- {
   "id": "\\bI think we've spent enough time making clothes for the Pokémon here. Time to head home.",
   "en": "\\bI think we've spent enough time making clothes for the Pokémon here. Time to head home.",
   "it": "\\bCredo che abbiamo passato abbastanza tempo a fare vestiti per i Pokémon di qui. È ora di tornare a casa."
@@ -68,6 +58,16 @@
   "id": "\\bWe should be going now. It was a pleasure to meet you, \\PN.",
   "en": "\\bWe should be going now. It was a pleasure to meet you, \\PN.",
   "it": "\\bOra dobbiamo andare. È stato un piacere conoscerti, \\PN."
+ },
+ {
+  "id": "\\bDon't scare me like that.",
+  "en": "\\bDon't scare me like that.",
+  "it": "\\bNon spaventarmi così."
+ },
+ {
+  "id": "\\bThis forest is scary.",
+  "en": "\\bThis forest is scary.",
+  "it": "\\bQuesto bosco fa paura."
  },
  {
   "id": "\\bAre you going into the deeper area?",
@@ -110,6 +110,16 @@
   "it": "\\rMi piace davvero tanto qui. È mistico."
  },
  {
+  "id": "\\bBurgh is over there somewhere. A nobody like you shouldn't disturb him.",
+  "en": "\\bBurgh is over there somewhere. A nobody like you shouldn't disturb him.",
+  "it": "\\bArtemisio è da qualche parte laggiù. Una nullità come te non dovrebbe disturbarlo."
+ },
+ {
+  "id": "\\bYou met Burgh?! What was he like?",
+  "en": "\\bYou met Burgh?! What was he like?",
+  "it": "\\bHai incontrato Artemisio?! Com'era?"
+ },
+ {
   "id": "\\rSee anything fun in here?",
   "en": "\\rSee anything fun in here?",
   "it": "\\rHai visto qualcosa di divertente qui?"
@@ -120,14 +130,9 @@
   "it": "\\rHai trovato qualche strumento caduto?"
  },
  {
-  "id": "\\bBurgh is over there somewhere. A nobody like you shouldn't disturb him.",
-  "en": "\\bBurgh is over there somewhere. A nobody like you shouldn't disturb him.",
-  "it": "\\bArtemisio è da qualche parte laggiù. Una nullità come te non dovrebbe disturbarlo."
- },
- {
-  "id": "\\bYou met Burgh?! What was he like?",
-  "en": "\\bYou met Burgh?! What was he like?",
-  "it": "\\bHai incontrato Artemisio?! Com'era?"
+  "id": "\\bDon't go in there. A powerful Pokémon dwells there.",
+  "en": "\\bDon't go in there. A powerful Pokémon dwells there.",
+  "it": "\\bNon entrare lì. Ci dimora un Pokémon potente."
  },
  {
   "id": "\\rHunting away.",
@@ -140,11 +145,6 @@
   "it": "\\rTrovato qualcosa di buono?"
  },
  {
-  "id": "\\bDon't go in there. A powerful Pokémon dwells there.",
-  "en": "\\bDon't go in there. A powerful Pokémon dwells there.",
-  "it": "\\bNon entrare lì. Ci dimora un Pokémon potente."
- },
- {
   "id": "\\rAh, a Trainer! Lets go Mayo!",
   "en": "\\rAh, a Trainer! Lets go Mayo!",
   "it": "\\rAh, un Allenatore! Andiamo, Mayo!"
@@ -155,11 +155,6 @@
   "it": "\\rAllevo Pokémon con Mayo."
  },
  {
-  "id": "\\rI hear a powerful Pokémon lives in here.",
-  "en": "\\rI hear a powerful Pokémon lives in here.",
-  "it": "\\rHo sentito che qui vive un Pokémon potente."
- },
- {
   "id": "\\bSewaddle",
   "en": "\\bSewaddle",
   "it": "\\bSewaddle"
@@ -168,6 +163,11 @@
   "id": "Would you like to take Sewaddle with you?",
   "en": "Would you like to take Sewaddle with you?",
   "it": "Vuoi portare Sewaddle con te?"
+ },
+ {
+  "id": "\\rI hear a powerful Pokémon lives in here.",
+  "en": "\\rI hear a powerful Pokémon lives in here.",
+  "it": "\\rHo sentito che qui vive un Pokémon potente."
  },
  {
   "id": "Yes",

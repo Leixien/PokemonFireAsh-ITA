@@ -20,19 +20,14 @@
   "it": "\\rNon rallentare mai. Sei ancora troppo giovane."
  },
  {
-  "id": "\\rThis class is so much fun!",
-  "en": "\\rThis class is so much fun!",
-  "it": "\\rQuesta lezione è troppo divertente!"
- },
- {
   "id": "\\bI swear he goes and puts an item there every day. There is no way that people keep dropping stuff there.",
   "en": "\\bI swear he goes and puts an item there every day.  There is no way that people keep dropping stuff there.",
   "it": "\\bGiuro che va a mettere uno strumento lì ogni giorno. Non è possibile che la gente continui a perdere roba proprio lì."
  },
  {
-  "id": "\\bI wanna go outside and play.",
-  "en": "\\bI wanna go outside and play.",
-  "it": "\\bVoglio andare fuori a giocare."
+  "id": "\\rThis class is so much fun!",
+  "en": "\\rThis class is so much fun!",
+  "it": "\\rQuesta lezione è troppo divertente!"
  },
  {
   "id": "\\rBe sure to read what's on the blackboard carefully!",
@@ -40,14 +35,14 @@
   "it": "\\rLeggi con attenzione quello che c'è scritto sulla lavagna!"
  },
  {
+  "id": "\\bI wanna go outside and play.",
+  "en": "\\bI wanna go outside and play.",
+  "it": "\\bVoglio andare fuori a giocare."
+ },
+ {
   "id": "\\bI've learned so much in here.",
   "en": "\\bI've learned so much in here.",
   "it": "\\bHo imparato tantissimo qui dentro."
- },
- {
-  "id": "\\rMaybe I should stop messing around.",
-  "en": "\\rMaybe I should stop messing around.",
-  "it": "\\rForse dovrei smetterla di fare la stupida."
  },
  {
   "id": "Choose a status option.",
@@ -90,14 +85,9 @@
   "it": "L'avvelenamento persiste dopo la lotta. Usa un Antidoto per curarlo!"
  },
  {
-  "id": "\\bI know a lot about Pokémon.",
-  "en": "\\bI know a lot about Pokémon.",
-  "it": "\\bSo un sacco di cose sui Pokémon."
- },
- {
-  "id": "\\bMy dad made the Pokétch.",
-  "en": "\\bMy dad made the Pokétch.",
-  "it": "\\bIl mio papà ha creato il Pokétch."
+  "id": "\\rMaybe I should stop messing around.",
+  "en": "\\rMaybe I should stop messing around.",
+  "it": "\\rForse dovrei smetterla di fare la stupida."
  },
  {
   "id": "Paralysis reduces speed and may prevent the Pokémon from moving.",
@@ -133,6 +123,16 @@
   "id": "Confusion does not last if recalled though.",
   "en": "Confusion does not last if recalled though.",
   "it": "Però la confusione svanisce se lo si richiama."
+ },
+ {
+  "id": "\\bI know a lot about Pokémon.",
+  "en": "\\bI know a lot about Pokémon.",
+  "it": "\\bSo un sacco di cose sui Pokémon."
+ },
+ {
+  "id": "\\bMy dad made the Pokétch.",
+  "en": "\\bMy dad made the Pokétch.",
+  "it": "\\bIl mio papà ha creato il Pokétch."
  },
  {
   "id": "\\bIf you look near the tree in town you should find an item.",

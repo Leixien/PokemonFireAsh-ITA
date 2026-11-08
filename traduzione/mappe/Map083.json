@@ -1,23 +1,18 @@
 [
  {
-  "id": "\\rNidoran, sit.",
-  "en": "\\rNidoran, sit.",
-  "it": "\\rNidoran, seduto."
- },
- {
   "id": "\\rSuzie: Have you battled my big brother yet?",
   "en": "\\rSuzie: Have you battled my big brother yet?",
   "it": "\\rSuzie: Hai già lottato contro il mio fratellone?"
  },
  {
+  "id": "\\rNidoran, sit.",
+  "en": "\\rNidoran, sit.",
+  "it": "\\rNidoran, seduto."
+ },
+ {
   "id": "\\bBilly: My twin's name is Tilly.",
   "en": "\\bBilly: My twin's name is Tilly.",
   "it": "\\bBilly: La mia gemella si chiama Tilly."
- },
- {
-  "id": "\\bNido",
-  "en": "\\bNido",
-  "it": "\\bNido"
  },
  {
   "id": "\\rYolanda: Our brother Brock does all the cooking and cleaning around here.",
@@ -35,6 +30,16 @@
   "it": "\\rÈ Terrempesta. Infligge danni a ogni turno ai Pokémon che non sono di tipo Roccia, Terra o Acciaio."
  },
  {
+  "id": "\\bNido",
+  "en": "\\bNido",
+  "it": "\\bNido"
+ },
+ {
+  "id": "\\rTilly: My twin's name is Billy.",
+  "en": "\\rTilly: My twin's name is Billy.",
+  "it": "\\rTilly: Il mio gemello si chiama Billy."
+ },
+ {
   "id": "\\bPokémon learn new moves as they grow.",
   "en": "\\bPokémon learn new moves as they grow.",
   "it": "\\bI Pokémon imparano nuove mosse man mano che crescono."
@@ -45,24 +50,19 @@
   "it": "\\bMa alcune mosse devono essere insegnate loro dalle persone."
  },
  {
-  "id": "\\rTilly: My twin's name is Billy.",
-  "en": "\\rTilly: My twin's name is Billy.",
-  "it": "\\rTilly: Il mio gemello si chiama Billy."
- },
- {
   "id": "\\bTommy: We all help Brock out at the gym whenever we can.",
   "en": "\\bTommy: We all help Brock out at the gym whenever we can.",
   "it": "\\bTommy: Aiutiamo tutti Brock in palestra ogni volta che possiamo."
  },
  {
-  "id": "\\bI like having Brock and his family around. There are plenty of kids to play with.",
-  "en": "\\bI like having Brock and his family around. There are plenty of kids to play with.",
-  "it": "\\bMi piace avere Brock e la sua famiglia nei paraggi. Ci sono un sacco di bambini con cui giocare."
- },
- {
   "id": "\\bTimmy: You better not beat my big brother.",
   "en": "\\bTimmy: You better not beat my big brother.",
   "it": "\\bTimmy: Faresti meglio a non battere il mio fratellone."
+ },
+ {
+  "id": "\\bI like having Brock and his family around. There are plenty of kids to play with.",
+  "en": "\\bI like having Brock and his family around. There are plenty of kids to play with.",
+  "it": "\\bMi piace avere Brock e la sua famiglia nei paraggi. Ci sono un sacco di bambini con cui giocare."
  },
  {
   "id": "\\bForrest: Oh, you plan on challenging Brock?",
@@ -100,6 +100,11 @@
   "it": "\\rCindy: I nostri genitori se ne sono andati, quindi ora è Brock a prendersi cura di noi."
  },
  {
+  "id": "\\bSalvadore: Brock is more than just a Gym Leader, he is the best brother we could ever have.",
+  "en": "\\bSalvadore: Brock is more than just a Gym Leader, he is the best brother we could ever have.",
+  "it": "\\bSalvadore: Brock non è solo un Capopalestra, è il miglior fratello che potessimo desiderare."
+ },
+ {
   "id": "\\bOur Pokémon is hard to handle because we got it in a trade.",
   "en": "\\bOur Pokémon is hard to handle because we got it in a trade.",
   "it": "\\bIl nostro Pokémon è difficile da gestire perché l'abbiamo ottenuto con uno scambio."
@@ -113,10 +118,5 @@
   "id": "\\bIf only we had some Badges...",
   "en": "\\bIf only we had some Badges...",
   "it": "\\bSe solo avessimo qualche Medaglia..."
- },
- {
-  "id": "\\bSalvadore: Brock is more than just a Gym Leader, he is the best brother we could ever have.",
-  "en": "\\bSalvadore: Brock is more than just a Gym Leader, he is the best brother we could ever have.",
-  "it": "\\bSalvadore: Brock non è solo un Capopalestra, è il miglior fratello che potessimo desiderare."
  }
 ]

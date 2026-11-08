@@ -35,8 +35,8 @@
   "it": "\\rSei proprio un ottimo Allenatore."
  },
  {
-  "id": "\\bBea uses Fighting type Pokémon. They are weak aganst the Flying, Psychic, and Fairy types.",
-  "en": "\\bBea uses Fighting type Pokémon. They are weak aganst the Flying, Psychic, and Fairy types.",
+  "id": "\\bBea uses Fighting type Pokémon. They are weak against the Flying, Psychic, and Fairy types.",
+  "en": "\\bBea uses Fighting type Pokémon. They are weak against the Flying, Psychic, and Fairy types.",
   "it": "\\bFabia usa Pokémon di tipo Lotta. Sono deboli contro i tipi Volante, Psico e Folletto."
  },
  {
@@ -45,8 +45,8 @@
   "it": "\\bSono superefficaci contro Normale, Ghiaccio, Buio, Roccia e Acciaio. Resistono a Coleottero, Buio e Roccia."
  },
  {
-  "id": "\\bAllister uses Ghost type Pokémon. They are weak aganst the Dark and Ghost types.",
-  "en": "\\bAllister uses Ghost type Pokémon. They are weak aganst the Dark and Ghost types.",
+  "id": "\\bAllister uses Ghost type Pokémon. They are weak against the Dark and Ghost types.",
+  "en": "\\bAllister uses Ghost type Pokémon. They are weak against the Dark and Ghost types.",
   "it": "\\bOnion usa Pokémon di tipo Spettro. Sono deboli contro i tipi Buio e Spettro."
  },
  {
@@ -110,9 +110,9 @@
   "it": "\\bOnion:... G-Grazie di essere venuto. Tu... prendi questo."
  },
  {
-  "id": "\\bAllister:That item... It helps you Gigantamax. Talk to... him if you want more.",
-  "en": "\\bAllister:That item... It helps you Gigantamax. Talk to... him if you want more.",
-  "it": "\\bOnion:Quello strumento... Ti aiuta a usare il Gigamax. Parla con... lui se ne vuoi altri."
+  "id": "\\bAllister: That item... It helps you Gigantamax. Talk to... him if you want more.",
+  "en": "\\bAllister: That item... It helps you Gigantamax. Talk to... him if you want more.",
+  "it": "\\bOnion: Quello strumento... Ti permette di usare il Gigamax. Parla... con lui se ne vuoi altri."
  },
  {
   "id": "\\bLet's pound fists.",

@@ -1542,7 +1542,7 @@
  {
   "id": 309,
   "en": "Lightning",
-  "it": "Lampo"
+  "it": "Luminoso"
  },
  {
   "id": 310,
@@ -4542,7 +4542,7 @@
  {
   "id": 909,
   "en": "Shellfish",
-  "it": "Molluscoide"
+  "it": "Crostaceo"
  },
  {
   "id": 910,
@@ -4682,12 +4682,12 @@
  {
   "id": 937,
   "en": "Classy Cat",
-  "it": "Gatto Fine"
+  "it": "Nobilgatto"
  },
  {
   "id": 938,
   "en": "Scout",
-  "it": "Esploratore"
+  "it": "Esplorante"
  },
  {
   "id": 939,
@@ -4712,7 +4712,7 @@
  {
   "id": 943,
   "en": "Megaton",
-  "it": "Megaton"
+  "it": "Megatone"
  },
  {
   "id": 944,
@@ -4742,17 +4742,17 @@
  {
   "id": 949,
   "en": "Wild Duck",
-  "it": "Anatra"
+  "it": "Selvanatra"
  },
  {
   "id": 950,
   "en": "Sludge",
-  "it": "Fango"
+  "it": "Melma"
  },
  {
   "id": 951,
   "en": "Sludge",
-  "it": "Fango"
+  "it": "Melma"
  },
  {
   "id": 952,
@@ -4772,7 +4772,7 @@
  {
   "id": 955,
   "en": "Coconut",
-  "it": "Cocco"
+  "it": "Nocecocco"
  },
  {
   "id": 956,
@@ -4782,12 +4782,12 @@
  {
   "id": 957,
   "en": "Bone Keeper",
-  "it": "Custodossa"
+  "it": "Guardaossi"
  },
  {
   "id": 958,
   "en": "Poison Gas",
-  "it": "Velenogas"
+  "it": "Velenuvola"
  },
  {
   "id": 959,
@@ -4802,7 +4802,7 @@
  {
   "id": 961,
   "en": "Stag Beetle",
-  "it": "Cervovolante"
+  "it": "Cervolante"
  },
  {
   "id": 962,
@@ -4817,7 +4817,7 @@
  {
   "id": 964,
   "en": "Cruel",
-  "it": "Crudele"
+  "it": "Sanguefreddo"
  },
  {
   "id": 965,
@@ -4831,43 +4831,43 @@
  },
  {
   "id": 967,
-  "en": "Genetic",
-  "it": "Genetico"
+  "en": "Flame",
+  "it": "Fiamma"
  },
  {
   "id": 968,
+  "en": "Flame",
+  "it": "Fiamma"
+ },
+ {
+  "id": 969,
   "en": "Genetic",
   "it": "Genetico"
  },
  {
-  "id": 969,
+  "id": 970,
+  "en": "Genetic",
+  "it": "Genetico"
+ },
+ {
+  "id": 971,
   "en": "Ghost Flame",
   "it": "Fiamma Spettro"
  },
  {
-  "id": 970,
+  "id": 972,
   "en": "Tiny Mouse",
-  "it": "Topolino"
+  "it": "Topino"
  },
  {
-  "id": 971,
+  "id": 973,
   "en": "Light",
   "it": "Luce"
  },
  {
-  "id": 972,
+  "id": 974,
   "en": "Hexpert",
   "it": "Esperto Maledizioni"
- },
- {
-  "id": 973,
-  "en": "Symbol",
-  "it": "Simbolo"
- },
- {
-  "id": 974,
-  "en": "Symbol",
-  "it": "Simbolo"
  },
  {
   "id": 975,
@@ -4996,123 +4996,123 @@
  },
  {
   "id": 1000,
-  "en": "Iron Snake",
-  "it": "Serpeferro"
+  "en": "Symbol",
+  "it": "Simbolo"
  },
  {
   "id": 1001,
+  "en": "Symbol",
+  "it": "Simbolo"
+ },
+ {
+  "id": 1002,
+  "en": "Iron Snake",
+  "it": "Ferroserpe"
+ },
+ {
+  "id": 1003,
   "en": "Balloon",
   "it": "Pallone"
  },
  {
-  "id": 1002,
+  "id": 1004,
   "en": "Pincer",
   "it": "Chela"
  },
  {
-  "id": 1003,
+  "id": 1005,
   "en": "Single Horn",
   "it": "Monocorno"
  },
  {
-  "id": 1004,
+  "id": 1006,
   "en": "Sharp Claw",
-  "it": "Artiglio"
+  "it": "Lamartigli"
  },
  {
-  "id": 1005,
+  "id": 1007,
   "en": "Coral",
   "it": "Corallo"
  },
  {
-  "id": 1006,
+  "id": 1008,
   "en": "Dark",
   "it": "Buio"
  },
  {
-  "id": 1007,
+  "id": 1009,
   "en": "Armor",
-  "it": "Corazza"
+  "it": "Armatura"
  },
  {
-  "id": 1008,
+  "id": 1010,
   "en": "Forest",
   "it": "Foresta"
  },
  {
-  "id": 1009,
+  "id": 1011,
   "en": "Blaze",
   "it": "Vampe"
  },
  {
-  "id": 1010,
+  "id": 1012,
   "en": "Mud Fish",
-  "it": "Pescefango"
+  "it": "Fango Pesce"
  },
  {
-  "id": 1011,
+  "id": 1013,
   "en": "TinyRaccoon",
   "it": "Procioncino"
  },
  {
-  "id": 1012,
+  "id": 1014,
   "en": "Rushing",
-  "it": "Scattante"
+  "it": "Sfrecciante"
  },
  {
-  "id": 1013,
+  "id": 1015,
   "en": "Embrace",
   "it": "Abbraccio"
  },
  {
-  "id": 1014,
+  "id": 1016,
   "en": "Darkness",
   "it": "Oscurità"
  },
  {
-  "id": 1015,
-  "en": "Deceiver",
-  "it": "Ingannatore"
- },
- {
-  "id": 1016,
-  "en": "Iron Armor",
-  "it": "Ferrocorazza"
- },
- {
   "id": 1017,
+  "en": "Deceiver",
+  "it": "Inganno"
+ },
+ {
+  "id": 1018,
+  "en": "Iron Armor",
+  "it": "Corazza"
+ },
+ {
+  "id": 1019,
   "en": "Meditate",
   "it": "Meditazione"
  },
  {
-  "id": 1018,
+  "id": 1020,
   "en": "Discharge",
-  "it": "Scarica"
+  "it": "Scossa"
  },
  {
-  "id": 1019,
+  "id": 1021,
   "en": "Brutal",
   "it": "Brutale"
  },
  {
-  "id": 1020,
+  "id": 1022,
   "en": "Eruption",
   "it": "Eruzione"
  },
  {
-  "id": 1021,
+  "id": 1023,
   "en": "Humming",
   "it": "Canterino"
- },
- {
-  "id": 1022,
-  "en": "Weather",
-  "it": "Meteo"
- },
- {
-  "id": 1023,
-  "en": "Weather",
-  "it": "Meteo"
  },
  {
   "id": 1024,
@@ -5121,63 +5121,63 @@
  },
  {
   "id": 1025,
+  "en": "Weather",
+  "it": "Meteo"
+ },
+ {
+  "id": 1026,
+  "en": "Weather",
+  "it": "Meteo"
+ },
+ {
+  "id": 1027,
   "en": "Marionette",
   "it": "Marionetta"
  },
  {
-  "id": 1026,
-  "en": "Disaster",
-  "it": "Disastro"
- },
- {
-  "id": 1027,
-  "en": "Face",
-  "it": "Faccia"
- },
- {
   "id": 1028,
+  "en": "Disaster",
+  "it": "Catastrofe"
+ },
+ {
+  "id": 1029,
+  "en": "Face",
+  "it": "Tuttomuso"
+ },
+ {
+  "id": 1030,
   "en": "Dragon",
   "it": "Drago"
  },
  {
-  "id": 1029,
-  "en": "Iron Leg",
-  "it": "Gamba Ferro"
- },
- {
-  "id": 1030,
-  "en": "Eon",
-  "it": "Eone"
- },
- {
   "id": 1031,
-  "en": "Eon",
-  "it": "Eone"
+  "en": "Iron Leg",
+  "it": "Ferrarto"
  },
  {
   "id": 1032,
-  "en": "Sea Basin",
-  "it": "Bacino Marino"
+  "en": "Eon",
+  "it": "Eone"
  },
  {
   "id": 1033,
+  "en": "Eon",
+  "it": "Eone"
+ },
+ {
+  "id": 1034,
+  "en": "Sea Basin",
+  "it": "Oceano"
+ },
+ {
+  "id": 1035,
   "en": "Continent",
   "it": "Continente"
  },
  {
-  "id": 1034,
-  "en": "Sky High",
-  "it": "Cielo Alto"
- },
- {
-  "id": 1035,
-  "en": "DNA",
-  "it": "DNA"
- },
- {
   "id": 1036,
-  "en": "DNA",
-  "it": "DNA"
+  "en": "Sky High",
+  "it": "Stratosfera"
  },
  {
   "id": 1037,
@@ -5186,13 +5186,13 @@
  },
  {
   "id": 1038,
-  "en": "Bagworm",
-  "it": "Larva"
+  "en": "DNA",
+  "it": "DNA"
  },
  {
   "id": 1039,
-  "en": "Bagworm",
-  "it": "Larva"
+  "en": "DNA",
+  "it": "DNA"
  },
  {
   "id": 1040,
@@ -5206,58 +5206,58 @@
  },
  {
   "id": 1042,
-  "en": "Blossom",
-  "it": "Fioritura"
+  "en": "Bagworm",
+  "it": "Larva"
  },
  {
   "id": 1043,
-  "en": "Sea Slug",
-  "it": "Lumacamare"
+  "en": "Bagworm",
+  "it": "Larva"
  },
  {
   "id": 1044,
-  "en": "Sea Slug",
-  "it": "Lumacamare"
+  "en": "Blossom",
+  "it": "Bocciolo"
  },
  {
   "id": 1045,
+  "en": "Sea Slug",
+  "it": "Lumacomare"
+ },
+ {
+  "id": 1046,
+  "en": "Sea Slug",
+  "it": "Lumacomare"
+ },
+ {
+  "id": 1047,
   "en": "Rabbit",
   "it": "Coniglio"
  },
  {
-  "id": 1046,
+  "id": 1048,
   "en": "Mach",
   "it": "Mach"
  },
  {
-  "id": 1047,
+  "id": 1049,
   "en": "Aura",
   "it": "Aura"
  },
  {
-  "id": 1048,
-  "en": "Frost Tree",
-  "it": "Albero Gelo"
- },
- {
-  "id": 1049,
-  "en": "Blade",
-  "it": "Lama"
- },
- {
   "id": 1050,
-  "en": "Plasma",
-  "it": "Plasma"
+  "en": "Aura",
+  "it": "Aura"
  },
  {
   "id": 1051,
-  "en": "Plasma",
-  "it": "Plasma"
+  "en": "Frost Tree",
+  "it": "Albergelo"
  },
  {
   "id": 1052,
-  "en": "Plasma",
-  "it": "Plasma"
+  "en": "Blade",
+  "it": "Lama"
  },
  {
   "id": 1053,
@@ -5271,193 +5271,193 @@
  },
  {
   "id": 1055,
-  "en": "Temporal",
-  "it": "Temporale"
+  "en": "Plasma",
+  "it": "Plasma"
  },
  {
   "id": 1056,
-  "en": "Spatial",
-  "it": "Spaziale"
+  "en": "Plasma",
+  "it": "Plasma"
  },
  {
   "id": 1057,
-  "en": "Renegade",
-  "it": "Rinnegato"
+  "en": "Plasma",
+  "it": "Plasma"
  },
  {
   "id": 1058,
+  "en": "Temporal",
+  "it": "Tempo"
+ },
+ {
+  "id": 1059,
+  "en": "Spatial",
+  "it": "Spazio"
+ },
+ {
+  "id": 1060,
+  "en": "Colossal",
+  "it": "Colossale"
+ },
+ {
+  "id": 1061,
+  "en": "Renegade",
+  "it": "Ribelle"
+ },
+ {
+  "id": 1062,
   "en": "Gratitude",
   "it": "Gratitudine"
  },
  {
-  "id": 1059,
-  "en": "Alpha",
-  "it": "Alfa"
- },
- {
-  "id": 1060,
-  "en": "Alpha",
-  "it": "Alfa"
- },
- {
-  "id": 1061,
-  "en": "Alpha",
-  "it": "Alfa"
- },
- {
-  "id": 1062,
-  "en": "Alpha",
-  "it": "Alfa"
- },
- {
   "id": 1063,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1064,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1065,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1066,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1067,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1068,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1069,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1070,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1071,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1072,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1073,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1074,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1075,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1076,
   "en": "Alpha",
-  "it": "Alfa"
+  "it": "Primevo"
  },
  {
   "id": 1077,
-  "en": "Formidable",
-  "it": "Formidabile"
+  "en": "Alpha",
+  "it": "Primevo"
  },
  {
   "id": 1078,
-  "en": "Hearing",
-  "it": "Udito"
+  "en": "Alpha",
+  "it": "Primevo"
  },
  {
   "id": 1079,
+  "en": "Alpha",
+  "it": "Primevo"
+ },
+ {
+  "id": 1080,
+  "en": "Alpha",
+  "it": "Primevo"
+ },
+ {
+  "id": 1081,
+  "en": "Formidable",
+  "it": "Dignità"
+ },
+ {
+  "id": 1082,
+  "en": "Hearing",
+  "it": "Ascolto"
+ },
+ {
+  "id": 1083,
   "en": "Spinning",
   "it": "Rotante"
  },
  {
-  "id": 1080,
+  "id": 1084,
   "en": "Hostile",
-  "it": "Ostile"
+  "it": "Irruenza"
  },
  {
-  "id": 1081,
+  "id": 1085,
   "en": "Mellow",
   "it": "Mansueto"
  },
  {
-  "id": 1082,
-  "en": "Zen Charm",
-  "it": "Zen"
- },
- {
-  "id": 1083,
-  "en": "Zen Charm",
-  "it": "Zen"
- },
- {
-  "id": 1084,
-  "en": "Blazing",
-  "it": "Ardente"
- },
- {
-  "id": 1085,
-  "en": "Zen Charm",
-  "it": "Zen"
- },
- {
   "id": 1086,
-  "en": "Spirit",
-  "it": "Spirito"
+  "en": "Zen Charm",
+  "it": "Daruma"
  },
  {
   "id": 1087,
+  "en": "Zen Charm",
+  "it": "Daruma"
+ },
+ {
+  "id": 1088,
+  "en": "Blazing",
+  "it": "Altefiamme"
+ },
+ {
+  "id": 1089,
+  "en": "Zen Charm",
+  "it": "Daruma"
+ },
+ {
+  "id": 1090,
+  "en": "Spirit",
+  "it": "Fatuanima"
+ },
+ {
+  "id": 1091,
   "en": "Spiteful Fox",
   "it": "Volpe Dispettosa"
  },
  {
-  "id": 1088,
+  "id": 1092,
   "en": "Baneful Fox",
   "it": "Volpe Maligna"
- },
- {
-  "id": 1089,
-  "en": "Season",
-  "it": "Stagione"
- },
- {
-  "id": 1090,
-  "en": "Season",
-  "it": "Stagione"
- },
- {
-  "id": 1091,
-  "en": "Season",
-  "it": "Stagione"
- },
- {
-  "id": 1092,
-  "en": "Season",
-  "it": "Stagione"
  },
  {
   "id": 1093,
@@ -5471,268 +5471,268 @@
  },
  {
   "id": 1095,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1096,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1097,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1098,
+  "en": "Season",
+  "it": "Stagione"
+ },
+ {
+  "id": 1099,
   "en": "Trap",
   "it": "Trappola"
  },
  {
-  "id": 1096,
+  "id": 1100,
   "en": "Battle Cry",
   "it": "Grido di Guerra"
  },
  {
-  "id": 1097,
-  "en": "Cyclone",
-  "it": "Ciclone"
- },
- {
-  "id": 1098,
-  "en": "Bolt Strike",
-  "it": "Saetta"
- },
- {
-  "id": 1099,
-  "en": "Abundance",
-  "it": "Abbondanza"
- },
- {
-  "id": 1100,
-  "en": "Boundary",
-  "it": "Confine"
- },
- {
   "id": 1101,
-  "en": "Boundary",
-  "it": "Confine"
+  "en": "Cyclone",
+  "it": "Turbinio"
  },
  {
   "id": 1102,
-  "en": "Boundary",
-  "it": "Confine"
+  "en": "Bolt Strike",
+  "it": "Fulminante"
  },
  {
   "id": 1103,
+  "en": "Abundance",
+  "it": "Fertilità"
+ },
+ {
+  "id": 1104,
   "en": "Boundary",
   "it": "Confine"
  },
  {
-  "id": 1104,
+  "id": 1105,
+  "en": "Boundary",
+  "it": "Confine"
+ },
+ {
+  "id": 1106,
+  "en": "Boundary",
+  "it": "Confine"
+ },
+ {
+  "id": 1107,
+  "en": "Boundary",
+  "it": "Confine"
+ },
+ {
+  "id": 1108,
   "en": "Colt",
   "it": "Puledro"
  },
  {
-  "id": 1105,
+  "id": 1109,
   "en": "Melody",
   "it": "Melodia"
  },
  {
-  "id": 1106,
-  "en": "Paleozoic",
-  "it": "Paleozoico"
- },
- {
-  "id": 1107,
-  "en": "Paleozoic",
-  "it": "Paleozoico"
- },
- {
-  "id": 1108,
-  "en": "Paleozoic",
-  "it": "Paleozoico"
- },
- {
-  "id": 1109,
-  "en": "Paleozoic",
-  "it": "Paleozoico"
- },
- {
   "id": 1110,
-  "en": "Ninja",
-  "it": "Ninja"
+  "en": "Paleozoic",
+  "it": "Paleozoico"
  },
  {
   "id": 1111,
+  "en": "Paleozoic",
+  "it": "Paleozoico"
+ },
+ {
+  "id": 1112,
+  "en": "Paleozoic",
+  "it": "Paleozoico"
+ },
+ {
+  "id": 1113,
+  "en": "Paleozoic",
+  "it": "Paleozoico"
+ },
+ {
+  "id": 1114,
   "en": "Ninja",
   "it": "Ninja"
  },
  {
-  "id": 1112,
-  "en": "Scale",
-  "it": "Scaglia"
- },
- {
-  "id": 1113,
-  "en": "Scale",
-  "it": "Scaglia"
- },
- {
-  "id": 1114,
-  "en": "Scale",
-  "it": "Scaglia"
- },
- {
   "id": 1115,
-  "en": "Scale",
-  "it": "Scaglia"
+  "en": "Ninja",
+  "it": "Ninja"
  },
  {
   "id": 1116,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1117,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1118,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1119,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1120,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1121,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1122,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1123,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1124,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1125,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1126,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1127,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1128,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1129,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1130,
   "en": "Scale",
-  "it": "Scaglia"
+  "it": "Farfascaglia"
  },
  {
   "id": 1131,
-  "en": "Single Bloom",
-  "it": "Bocciolo"
+  "en": "Scale",
+  "it": "Farfascaglia"
  },
  {
   "id": 1132,
-  "en": "Single Bloom",
-  "it": "Bocciolo"
+  "en": "Scale",
+  "it": "Farfascaglia"
  },
  {
   "id": 1133,
-  "en": "Single Bloom",
-  "it": "Bocciolo"
+  "en": "Scale",
+  "it": "Farfascaglia"
  },
  {
   "id": 1134,
-  "en": "Single Bloom",
-  "it": "Bocciolo"
+  "en": "Scale",
+  "it": "Farfascaglia"
  },
  {
   "id": 1135,
   "en": "Single Bloom",
-  "it": "Bocciolo"
+  "it": "Monofiore"
  },
  {
   "id": 1136,
   "en": "Single Bloom",
-  "it": "Bocciolo"
+  "it": "Monofiore"
  },
  {
   "id": 1137,
   "en": "Single Bloom",
-  "it": "Bocciolo"
+  "it": "Monofiore"
  },
  {
   "id": 1138,
   "en": "Single Bloom",
-  "it": "Bocciolo"
+  "it": "Monofiore"
  },
  {
   "id": 1139,
   "en": "Single Bloom",
-  "it": "Bocciolo"
+  "it": "Monofiore"
  },
  {
   "id": 1140,
-  "en": "Garden",
-  "it": "Giardino"
+  "en": "Single Bloom",
+  "it": "Monofiore"
  },
  {
   "id": 1141,
-  "en": "Garden",
-  "it": "Giardino"
+  "en": "Single Bloom",
+  "it": "Monofiore"
  },
  {
   "id": 1142,
-  "en": "Garden",
-  "it": "Giardino"
+  "en": "Single Bloom",
+  "it": "Monofiore"
  },
  {
   "id": 1143,
+  "en": "Single Bloom",
+  "it": "Monofiore"
+ },
+ {
+  "id": 1144,
   "en": "Garden",
   "it": "Giardino"
  },
  {
-  "id": 1144,
-  "en": "Poodle",
-  "it": "Barboncino"
- },
- {
   "id": 1145,
-  "en": "Poodle",
-  "it": "Barboncino"
+  "en": "Garden",
+  "it": "Giardino"
  },
  {
   "id": 1146,
-  "en": "Poodle",
-  "it": "Barboncino"
+  "en": "Garden",
+  "it": "Giardino"
  },
  {
   "id": 1147,
-  "en": "Poodle",
-  "it": "Barboncino"
+  "en": "Garden",
+  "it": "Giardino"
  },
  {
   "id": 1148,
@@ -5761,43 +5761,43 @@
  },
  {
   "id": 1153,
-  "en": "Constraint",
-  "it": "Costrizione"
+  "en": "Poodle",
+  "it": "Barboncino"
  },
  {
   "id": 1154,
-  "en": "Royal Sword",
-  "it": "Spada Regale"
+  "en": "Poodle",
+  "it": "Barboncino"
  },
  {
   "id": 1155,
-  "en": "Snail",
-  "it": "Lumaca"
+  "en": "Poodle",
+  "it": "Barboncino"
  },
  {
   "id": 1156,
-  "en": "Shell Bunker",
-  "it": "Bunker Conchiglia"
+  "en": "Poodle",
+  "it": "Barboncino"
  },
  {
   "id": 1157,
-  "en": "Pumpkin",
-  "it": "Zucca"
+  "en": "Constraint",
+  "it": "Temperanza"
  },
  {
   "id": 1158,
-  "en": "Pumpkin",
-  "it": "Zucca"
+  "en": "Royal Sword",
+  "it": "Spadareale"
  },
  {
   "id": 1159,
-  "en": "Pumpkin",
-  "it": "Zucca"
+  "en": "Snail",
+  "it": "Lumachina"
  },
  {
   "id": 1160,
-  "en": "Pumpkin",
-  "it": "Zucca"
+  "en": "Shell Bunker",
+  "it": "Bunker Conchiglia"
  },
  {
   "id": 1161,
@@ -5811,188 +5811,188 @@
  },
  {
   "id": 1163,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1164,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1165,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1166,
+  "en": "Pumpkin",
+  "it": "Zucca"
+ },
+ {
+  "id": 1167,
   "en": "Iceberg",
   "it": "Iceberg"
  },
  {
-  "id": 1164,
-  "en": "Life",
-  "it": "Vita"
- },
- {
-  "id": 1165,
-  "en": "Order",
-  "it": "Ordine"
- },
- {
-  "id": 1166,
-  "en": "Order",
-  "it": "Ordine"
- },
- {
-  "id": 1167,
-  "en": "Order",
-  "it": "Ordine"
- },
- {
   "id": 1168,
-  "en": "Jewel",
-  "it": "Gioiello"
+  "en": "Life",
+  "it": "Creazione"
  },
  {
   "id": 1169,
-  "en": "Mischief",
-  "it": "Dispetto"
+  "en": "Order",
+  "it": "Equilibrio"
  },
  {
   "id": 1170,
-  "en": "Arrow Quill",
-  "it": "Penna Freccia"
+  "en": "Order",
+  "it": "Equilibrio"
  },
  {
   "id": 1171,
-  "en": "Dancing",
-  "it": "Danza"
+  "en": "Order",
+  "it": "Equilibrio"
  },
  {
   "id": 1172,
-  "en": "Dancing",
-  "it": "Danza"
+  "en": "Jewel",
+  "it": "Gemma"
  },
  {
   "id": 1173,
+  "en": "Mischief",
+  "it": "Birba"
+ },
+ {
+  "id": 1174,
+  "en": "Arrow Quill",
+  "it": "Alifreccia"
+ },
+ {
+  "id": 1175,
   "en": "Dancing",
   "it": "Danza"
  },
  {
-  "id": 1174,
+  "id": 1176,
+  "en": "Dancing",
+  "it": "Danza"
+ },
+ {
+  "id": 1177,
+  "en": "Dancing",
+  "it": "Danza"
+ },
+ {
+  "id": 1178,
   "en": "Puppy",
   "it": "Cagnolino"
  },
  {
-  "id": 1175,
+  "id": 1179,
   "en": "Wolf",
   "it": "Lupo"
  },
  {
-  "id": 1176,
+  "id": 1180,
   "en": "Wolf",
   "it": "Lupo"
  },
  {
-  "id": 1177,
+  "id": 1181,
   "en": "Small Fry",
   "it": "Pesciolino"
  },
  {
-  "id": 1178,
-  "en": "Synthetic",
-  "it": "Sintetico"
- },
- {
-  "id": 1179,
-  "en": "Synthetic",
-  "it": "Sintetico"
- },
- {
-  "id": 1180,
-  "en": "Synthetic",
-  "it": "Sintetico"
- },
- {
-  "id": 1181,
-  "en": "Synthetic",
-  "it": "Sintetico"
- },
- {
   "id": 1182,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1183,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1184,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1185,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1186,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1187,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1188,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1189,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1190,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1191,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1192,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1193,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1194,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1195,
   "en": "Synthetic",
-  "it": "Sintetico"
+  "it": "Multigene"
  },
  {
   "id": 1196,
-  "en": "Meteor",
-  "it": "Meteora"
+  "en": "Synthetic",
+  "it": "Multigene"
  },
  {
   "id": 1197,
-  "en": "Meteor",
-  "it": "Meteora"
+  "en": "Synthetic",
+  "it": "Multigene"
  },
  {
   "id": 1198,
-  "en": "Meteor",
-  "it": "Meteora"
+  "en": "Synthetic",
+  "it": "Multigene"
  },
  {
   "id": 1199,
-  "en": "Meteor",
-  "it": "Meteora"
+  "en": "Synthetic",
+  "it": "Multigene"
  },
  {
   "id": 1200,
@@ -6011,417 +6011,467 @@
  },
  {
   "id": 1203,
-  "en": "Disguise",
-  "it": "Travestimento"
+  "en": "Meteor",
+  "it": "Meteora"
  },
  {
   "id": 1204,
-  "en": "Prism",
-  "it": "Prisma"
+  "en": "Meteor",
+  "it": "Meteora"
  },
  {
   "id": 1205,
-  "en": "Prism",
-  "it": "Prisma"
+  "en": "Meteor",
+  "it": "Meteora"
  },
  {
   "id": 1206,
-  "en": "Prism",
-  "it": "Prisma"
+  "en": "Meteor",
+  "it": "Meteora"
  },
  {
   "id": 1207,
+  "en": "Disguise",
+  "it": "Fantasmanto"
+ },
+ {
+  "id": 1208,
   "en": "Prism",
   "it": "Prisma"
  },
  {
-  "id": 1208,
+  "id": 1209,
+  "en": "Prism",
+  "it": "Prisma"
+ },
+ {
+  "id": 1210,
+  "en": "Prism",
+  "it": "Prisma"
+ },
+ {
+  "id": 1211,
+  "en": "Prism",
+  "it": "Prisma"
+ },
+ {
+  "id": 1212,
   "en": "Artificial",
   "it": "Artificiale"
  },
  {
-  "id": 1209,
+  "id": 1213,
   "en": "Gulp",
-  "it": "Inghiotti"
+  "it": "Inghiottone"
  },
  {
-  "id": 1210,
+  "id": 1214,
   "en": "Gulp",
-  "it": "Inghiotti"
+  "it": "Inghiottone"
  },
  {
-  "id": 1211,
+  "id": 1215,
   "en": "Punk",
   "it": "Punk"
  },
  {
-  "id": 1212,
-  "en": "Black Tea",
-  "it": "Tè Nero"
- },
- {
-  "id": 1213,
-  "en": "Black Tea",
-  "it": "Tè Nero"
- },
- {
-  "id": 1214,
-  "en": "Cream",
-  "it": "Panna"
- },
- {
-  "id": 1215,
-  "en": "Cream",
-  "it": "Panna"
- },
- {
   "id": 1216,
-  "en": "Cream",
-  "it": "Panna"
+  "en": "Black Tea",
+  "it": "Tè"
  },
  {
   "id": 1217,
-  "en": "Cream",
-  "it": "Panna"
+  "en": "Black Tea",
+  "it": "Tè"
  },
  {
   "id": 1218,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1219,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1220,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1221,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1222,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1223,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1224,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1225,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1226,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1227,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1228,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1229,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1230,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1231,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1232,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1233,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1234,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1235,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1236,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1237,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1238,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1239,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1240,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1241,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1242,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1243,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1244,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1245,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1246,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1247,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1248,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1249,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1250,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1251,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1252,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1253,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1254,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1255,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1256,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1257,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1258,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1259,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1260,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1261,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1262,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1263,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1264,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1265,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1266,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1267,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1268,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1269,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1270,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1271,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1272,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1273,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1274,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1275,
   "en": "Cream",
-  "it": "Panna"
+  "it": "Pannafresca"
  },
  {
   "id": 1276,
+  "en": "Cream",
+  "it": "Pannafresca"
+ },
+ {
+  "id": 1277,
+  "en": "Cream",
+  "it": "Pannafresca"
+ },
+ {
+  "id": 1278,
+  "en": "Cream",
+  "it": "Pannafresca"
+ },
+ {
+  "id": 1279,
+  "en": "Cream",
+  "it": "Pannafresca"
+ },
+ {
+  "id": 1280,
   "en": "Penguin",
   "it": "Pinguino"
  },
  {
-  "id": 1277,
+  "id": 1281,
   "en": "Emotion",
   "it": "Emozione"
  },
  {
-  "id": 1278,
-  "en": "Two-Sided",
-  "it": "Doppia Faccia"
- },
- {
-  "id": 1279,
-  "en": "Warrior",
-  "it": "Guerriero"
- },
- {
-  "id": 1280,
-  "en": "Warrior",
-  "it": "Guerriero"
- },
- {
-  "id": 1281,
-  "en": "Wushu",
-  "it": "Wushu"
- },
- {
   "id": 1282,
-  "en": "High King",
-  "it": "Gran Re"
+  "en": "Two-Sided",
+  "it": "Doppiafaccia"
  },
  {
   "id": 1283,
+  "en": "Warrior",
+  "it": "Guerriero"
+ },
+ {
+  "id": 1284,
+  "en": "Warrior",
+  "it": "Guerriero"
+ },
+ {
+  "id": 1285,
+  "en": "Wushu",
+  "it": "Kung Fu"
+ },
+ {
+  "id": 1286,
   "en": "High King",
   "it": "Gran Re"
  },
  {
-  "id": 1284,
-  "en": "Big Fish",
-  "it": "Pesce Grosso"
+  "id": 1287,
+  "en": "High King",
+  "it": "Gran Re"
  },
  {
-  "id": 1285,
+  "id": 1288,
+  "en": "Big Fish",
+  "it": "Pescegrosso"
+ },
+ {
+  "id": 1289,
   "en": "Love-Hate",
   "it": "Amoreodio"
+ },
+ {
+  "id": 1290,
+  "en": "Wild Duck",
+  "it": "Selvanatra"
+ },
+ {
+  "id": 1291,
+  "en": "Sludge",
+  "it": "Melma"
+ },
+ {
+  "id": 1292,
+  "en": "Genetic",
+  "it": "Genetico"
+ },
+ {
+  "id": 1293,
+  "en": "Armor",
+  "it": "Armatura"
+ },
+ {
+  "id": 1294,
+  "en": "Flame",
+  "it": "Fiamma"
+ },
+ {
+  "id": 1295,
+  "en": "Aura",
+  "it": "Aura"
  }
 ]

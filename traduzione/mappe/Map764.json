@@ -145,11 +145,6 @@
   "it": "\\bGoh: Questo Moltres è tosto. Dammi una mano, \\PN."
  },
  {
-  "id": "\\bMuk! Muk!",
-  "en": "\\bMuk! Muk!",
-  "it": "\\bMuk! Muk!"
- },
- {
   "id": "\\bSnor..lax",
   "en": "\\bSnor..lax",
   "it": "\\bSnor..lax"
@@ -231,8 +226,8 @@
  },
  {
   "id": "\\bGoh: Hey \\PN. Could you meet me at Cerise Park? Thanks.",
-  "en": "\\bGoh: Hey \\PN. Could you meet me at Cerise Park?  Thanks.",
-  "it": "\\bGoh: Ehi \\PN. Puoi raggiungermi al Parco Cerise? Grazie."
+  "en": "\\bGoh: Hey \\PN. Could you meet me at Cerise Park? Thanks.",
+  "it": "\\bGoh: Ehi, \\PN. Potresti raggiungermi al Parco Cerise? Grazie."
  },
  {
   "id": "\\bStaraptor",
@@ -245,9 +240,9 @@
   "it": "\\bHeracross!"
  },
  {
-  "id": "\\bScraggy",
-  "en": "\\bScraggy",
-  "it": "\\bScraggy"
+  "id": "\\bCor",
+  "en": "\\bCor",
+  "it": "\\bCor"
  },
  {
   "id": "\\bSirfetch'd",
@@ -255,14 +250,14 @@
   "it": "\\bSirfetch'd"
  },
  {
+  "id": "\\bScraggy",
+  "en": "\\bScraggy",
+  "it": "\\bScraggy"
+ },
+ {
   "id": "\\rLana: I want to go swimming.",
   "en": "\\rLana: I want to go swimming.",
   "it": "\\rSuiren: Voglio andare a nuotare."
- },
- {
-  "id": "\\bCor",
-  "en": "\\bCor",
-  "it": "\\bCor"
  },
  {
   "id": "\\bChar!",
@@ -290,19 +285,9 @@
   "it": "\\bTracey: Vuoi lottare, eh? Va bene, d'accordo."
  },
  {
-  "id": "Draco",
-  "en": "Draco",
-  "it": "Draco"
- },
- {
-  "id": "\\rDragonite",
-  "en": "\\rDragonite",
-  "it": "\\rDragonite"
- },
- {
-  "id": "\\bSceptile",
-  "en": "\\bSceptile",
-  "it": "\\bSceptile"
+  "id": "\\bHawlucha",
+  "en": "\\bHawlucha",
+  "it": "\\bHawlucha"
  },
  {
   "id": "\\rMallow: Grass types!",
@@ -310,14 +295,19 @@
   "it": "\\rIbis: Tipi Erba!"
  },
  {
-  "id": "\\bHawlucha",
-  "en": "\\bHawlucha",
-  "it": "\\bHawlucha"
+  "id": "\\bSceptile",
+  "en": "\\bSceptile",
+  "it": "\\bSceptile"
  },
  {
-  "id": "\\bBuizel",
-  "en": "\\bBuizel",
-  "it": "\\bBuizel"
+  "id": "\\rDragonite",
+  "en": "\\rDragonite",
+  "it": "\\rDragonite"
+ },
+ {
+  "id": "Draco",
+  "en": "Draco",
+  "it": "Draco"
  },
  {
   "id": "\\rSnivy",
@@ -325,19 +315,9 @@
   "it": "\\rSnivy"
  },
  {
-  "id": "\\bPidgeot!",
-  "en": "\\bPidgeot!",
-  "it": "\\bPidgeot!"
- },
- {
-  "id": "\\bSophocles: I wish there were some Electric types around...",
-  "en": "\\bSophocles: I wish there were some Electric types around...",
-  "it": "\\bChrys: Vorrei che ci fossero dei tipi Elettro qui in giro..."
- },
- {
-  "id": "\\bSwellow",
-  "en": "\\bSwellow",
-  "it": "\\bSwellow"
+  "id": "\\bBuizel",
+  "en": "\\bBuizel",
+  "it": "\\bBuizel"
  },
  {
   "id": "\\bTalonflame",
@@ -345,9 +325,24 @@
   "it": "\\bTalonflame"
  },
  {
-  "id": "\\rBayleef!!",
-  "en": "\\rBayleef!!",
-  "it": "\\rBayleef!!"
+  "id": "\\bSwellow",
+  "en": "\\bSwellow",
+  "it": "\\bSwellow"
+ },
+ {
+  "id": "\\bSophocles: I wish there were some Electric types around...",
+  "en": "\\bSophocles: I wish there were some Electric types around...",
+  "it": "\\bChrys: Vorrei che ci fossero dei tipi Elettro qui in giro..."
+ },
+ {
+  "id": "\\bPidgeot!",
+  "en": "\\bPidgeot!",
+  "it": "\\bPidgeot!"
+ },
+ {
+  "id": "\\rGliscor",
+  "en": "\\rGliscor",
+  "it": "\\rGliscor"
  },
  {
   "id": "\\bPignite!!",
@@ -355,9 +350,14 @@
   "it": "\\bPignite!!"
  },
  {
-  "id": "\\rGliscor",
-  "en": "\\rGliscor",
-  "it": "\\rGliscor"
+  "id": "\\rBayleef!!",
+  "en": "\\rBayleef!!",
+  "it": "\\rBayleef!!"
+ },
+ {
+  "id": "\\bNoivern!",
+  "en": "\\bNoivern!",
+  "it": "\\bNoivern!"
  },
  {
   "id": "\\bOak: Welcome home \\PN! I'm sure you're excited to see your friends again.",
@@ -398,10 +398,5 @@
   "id": "\\bOak: Perhaps you two could join Gary finding Moltres.",
   "en": "\\bOak: Perhaps you two could join Gary finding Moltres.",
   "it": "\\bOak: Forse voi due potreste aiutare Gary a cercare Moltres."
- },
- {
-  "id": "\\bNoivern!",
-  "en": "\\bNoivern!",
-  "it": "\\bNoivern!"
  }
 ]

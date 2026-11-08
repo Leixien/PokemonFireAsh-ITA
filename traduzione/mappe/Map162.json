@@ -210,14 +210,9 @@
   "it": "\\rQui accanto puoi scambiare i gettoni con dei premi favolosi."
  },
  {
-  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Power Anklet - 100 coins,Power Band - 100 coins, Power Belt - 100 coins,Power Bracer - 100 coins, Power Lens - 100 coins,No thanks]",
-  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Power Anklet - 100 coins,Power Band - 100 coins, Power Belt - 100 coins,Power Bracer - 100 coins, Power Lens - 100 coins,No thanks]",
-  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Vigorgliera - 100 gettoni,Vigorbanda - 100 gettoni, Vigorfascia - 100 gettoni,Vigorcerchio - 100 gettoni, Vigorlente - 100 gettoni,No grazie]"
- },
- {
-  "id": "\\CN\\bYou have no room in your Bag.",
-  "en": "\\CN\\bYou have no room in your Bag.",
-  "it": "\\CN\\bNon hai spazio nella Borsa."
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Power Anklet - 1000 coins,Power Band - 1000 coins, Power Belt - 1000 coins,Power Bracer - 1000 coins, Power Lens - 1000 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Power Anklet - 1000 coins,Power Band - 1000 coins, Power Belt - 1000 coins,Power Bracer - 1000 coins, Power Lens - 1000 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Vigorgliera - 1000 gettoni,Vigorbanda - 1000 gettoni, Vigorfascia - 1000 gettoni,Vigorcerchio - 1000 gettoni, Vigorlente - 1000 gettoni,No grazie]"
  },
  {
   "id": "\\rThis is the Pokémon Lottery Corner. I'm Felicity, your attendant today.",
@@ -360,9 +355,9 @@
   "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Fascia Blu - 800 gettoni,Fascia Rossa - 1000 gettoni, Fascia Rosa - 1000 gettoni,Fascia Verde - 1000 gettoni, Fascia Gialla - 1600 gettoni,No grazie]"
  },
  {
-  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Eject Button - 800 coins,Eviolite - 800 coins, Choice Specs - 1600 coins,Choice Band - 1600 coins, Choice Scarf - 1600 coins,No thanks]",
-  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Eject Button - 800 coins,Eviolite - 800 coins, Choice Specs - 1600 coins,Choice Band - 1600 coins, Choice Scarf - 1600 coins,No thanks]",
-  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Pulsantefuga - 800 gettoni,Evolcondensa - 800 gettoni, Lentiscelta - 1600 gettoni,Bendascelta - 1600 gettoni, Stolascelta - 1600 gettoni,No grazie]"
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Eject Button - 800 coins,Eviolite - 800 coins, Choice Band - 1600 coins,Choice Specs - 1600 coins, Choice Scarf - 1600 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Eject Button - 800 coins,Eviolite - 800 coins, Choice Band - 1600 coins,Choice Specs - 1600 coins, Choice Scarf - 1600 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Pulsantefuga - 800 gettoni,Evolcondensa - 800 gettoni, Bendascelta - 1600 gettoni,Lentiscelta - 1600 gettoni, Stolascelta - 1600 gettoni,No grazie]"
  },
  {
   "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Smoke Ball - 800 coins,Miracle Seed - 1000 coins, Charcoal - 1000 coins,Mystic Water - 1000 coins, Yellow Flute - 1600 coins,No thanks]",
@@ -380,14 +375,14 @@
   "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Abra - 180 gettoni,Clefairy - 500 gettoni, Dratini - 2800 gettoni,Scyther - 5500 gettoni, Porygon - 9999 gettoni,No, grazie]"
  },
  {
-  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Exp Candy M - 250 coins,Exp Candy L - 500 coins, Exp Candy XL - 1000 coins,PP Up - 1000 coins, PP Max - 4000 coins,No thanks]",
-  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Exp Candy M - 250 coins,Exp Candy L - 500 coins, Exp Candy XL - 1000 coins,PP Up - 1000 coins, PP Max - 4000 coins,No thanks]",
-  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Caramella Esp. M - 250 gettoni,Caramella Esp. L - 500 gettoni, Caramella Esp. XL - 1000 gettoni,PP-Su - 1000 gettoni, PP-Max - 4000 gettoni,No grazie]"
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Exp Candy M - 250 coins,Exp Candy L - 500 coins, Exp Candy XL - 1000 coins,PP Up - 1000 coins, PP Max - 3000 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Exp Candy M - 250 coins,Exp Candy L - 500 coins, Exp Candy XL - 1000 coins,PP Up - 1000 coins, PP Max - 3000 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Caram. Esp. M - 250 gettoni,Caram. Esp. L - 500 gettoni, Caram. Esp. XL - 1000 gettoni,PP-Su - 1000 gettoni, PP-Max - 3000 gettoni,No grazie]"
  },
  {
-  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Cell Battery - 800 coins,Air Balloon - 1000 coins, Ability Capsule - 1000 coins,Bottle Cap - 2000 coins, Gold Bottle Cap - 9000 coins,No thanks]",
-  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Cell Battery - 800 coins,Air Balloon - 1000 coins, Ability Capsule - 1000 coins,Bottle Cap - 2000 coins, Gold Bottle Cap - 9000 coins,No thanks]",
-  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Ricaripila - 800 gettoni,Palloncino - 1000 gettoni, Capsula Abilità - 1000 gettoni,Tappo d'Argento - 2000 gettoni, Tappo d'Oro - 9000 gettoni,No grazie]"
+  "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Cell Battery - 800 coins,Air Balloon - 1000 coins, Ability Capsule - 1000 coins,Bottle Cap - 2000 coins, Gold Bottle Cap - 12000 coins,No thanks]",
+  "en": "\\CN\\bWhich prize would you like?\\ch[1,6, Cell Battery - 800 coins,Air Balloon - 1000 coins, Ability Capsule - 1000 coins,Bottle Cap - 2000 coins, Gold Bottle Cap - 12000 coins,No thanks]",
+  "it": "\\CN\\bQuale premio desideri?\\ch[1,6, Ricaripila - 800 gettoni,Palloncino - 1000 gettoni, Capsula Abilità - 1000 gettoni,Tappo d'Argento - 2000 gettoni, Tappo d'Oro - 12000 gettoni,No grazie]"
  },
  {
   "id": "\\CN\\bWhich prize would you like?\\ch[1,6, Flame Orb - 800 coins,Toxic Orb - 1000 coins, Iron Ball - 1000 coins,Light Clay - 1000 coins, Focus Sash - 1600 coins,No thanks]",

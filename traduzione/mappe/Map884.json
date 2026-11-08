@@ -80,6 +80,11 @@
   "it": "\\bNon metterti in mezzo."
  },
  {
+  "id": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "en": "You are about to enter a battle with a legendary that will be unobtainable until the post game if it is not caught here. Save?",
+  "it": "Stai per affrontare un Pokémon leggendario che, se non lo catturi qui, non sarà ottenibile fino al post-game. Vuoi salvare?"
+ },
+ {
   "id": "\\bDon't ruin this.",
   "en": "\\bDon't ruin this.",
   "it": "\\bNon rovinare tutto."
@@ -163,6 +168,16 @@
   "id": "Mossdeep",
   "en": "Mossdeep",
   "it": "Verdeazzupoli"
+ },
+ {
+  "id": "Yes",
+  "en": "Yes",
+  "it": "Sì"
+ },
+ {
+  "id": "No",
+  "en": "No",
+  "it": "No"
  },
  {
   "id": "Magma",

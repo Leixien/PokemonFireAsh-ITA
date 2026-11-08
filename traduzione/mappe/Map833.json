@@ -20,11 +20,6 @@
   "it": "\\bPotresti ancora riuscire a sfidare Clemont. Se scegli il piano giusto."
  },
  {
-  "id": "\\bLuxray",
-  "en": "\\bLuxray",
-  "it": "\\bLuxray"
- },
- {
   "id": "\\bThis leads to the top of Prism Tower.",
   "en": "\\bThis leads to the top of Prism Tower.",
   "it": "\\bDa qui si arriva in cima alla Torre Prisma."
@@ -33,6 +28,11 @@
   "id": "\\rBonnie: Hi \\PN! Did you come to visit us?",
   "en": "\\rBonnie: Hi \\PN! Did you come to visit us?",
   "it": "\\rBonnie: Ciao \\PN! Sei venuto a trovarci?"
+ },
+ {
+  "id": "\\bLuxray",
+  "en": "\\bLuxray",
+  "it": "\\bLuxray"
  },
  {
   "id": "\\bTime to finish this.",
@@ -50,9 +50,9 @@
   "it": "\\bDedenne!"
  },
  {
-  "id": "\\bClemont uses Electric type Pokémon. They are weak aganst only the Ground type.",
-  "en": "\\bClemont uses Electric type Pokémon. They are weak aganst only the Ground type.",
-  "it": "\\bClemont usa Pokémon di tipo Elettro. Sono deboli soltanto contro il tipo Terra."
+  "id": "\\bClemont uses Electric type Pokémon. They are weak against only the Ground type.",
+  "en": "\\bClemont uses Electric type Pokémon. They are weak against only the Ground type.",
+  "it": "\\bLem usa Pokémon di tipo Elettro. Sono deboli solo contro il tipo Terra."
  },
  {
   "id": "\\bThey are strong against Flying and Water. Flying, Electric, and Steel moves also don't do much damage.",
@@ -60,14 +60,14 @@
   "it": "\\bSono forti contro Volante e Acqua. Anche le mosse Volante, Elettro e Acciaio non fanno loro molto danno."
  },
  {
-  "id": "\\bBunnelby",
-  "en": "\\bBunnelby",
-  "it": "\\bBunnelby"
+  "id": "\\bLooks like you picked wrong.",
+  "en": "\\bLooks like you picked wrong.",
+  "it": "\\bSembra che tu abbia scelto male."
  },
  {
-  "id": "\\bDiggersby",
-  "en": "\\bDiggersby",
-  "it": "\\bDiggersby"
+  "id": "\\bLooks like you won. This time.",
+  "en": "\\bLooks like you won. This time.",
+  "it": "\\bSembra che tu abbia vinto. Per questa volta."
  },
  {
   "id": "\\bClemont: It's finally time \\PN. I've been waiting for this battle for a long time. I'm determined to give you a worthy fight. Let's begin.",
@@ -92,7 +92,7 @@
  {
   "id": "\\bClemont: That was an outstanding battle \\PN. Bonnie and I are going to keep traveling for a while. I want to be able to stand on the same level as you.",
   "en": "\\bClemont: That was an outstanding battle \\PN.  Bonnie and I are going to keep traveling for a while. I want to be able to stand on the same level as you.",
-  "it": "\\bClemont: È stata una lotta straordinaria, \\PN.  Io e Bonnie continueremo a viaggiare per un po'. Voglio riuscire a essere al tuo stesso livello."
+  "it": "\\bClemont: È stata una lotta straordinaria, \\PN.  Io e Clem continueremo a viaggiare per un po'. Voglio riuscire a essere al tuo stesso livello."
  },
  {
   "id": "\\bClemont: It's good to see you again. I've been practicing everyday to grow as a Trainer and inventor.",
@@ -140,24 +140,19 @@
   "it": "\\bClemont: È stata una gran bella lotta. Non vedo l'ora della prossima."
  },
  {
-  "id": "\\bLooks like you picked wrong.",
-  "en": "\\bLooks like you picked wrong.",
-  "it": "\\bSembra che tu abbia scelto male."
+  "id": "\\bBunnelby",
+  "en": "\\bBunnelby",
+  "it": "\\bBunnelby"
  },
  {
-  "id": "\\bLooks like you won. This time.",
-  "en": "\\bLooks like you won. This time.",
-  "it": "\\bSembra che tu abbia vinto. Per questa volta."
+  "id": "\\bDiggersby",
+  "en": "\\bDiggersby",
+  "it": "\\bDiggersby"
  },
  {
   "id": "Magnemite",
   "en": "Magnemite",
   "it": "Magnemite"
- },
- {
-  "id": "\\bChespin",
-  "en": "\\bChespin",
-  "it": "\\bChespin"
  },
  {
   "id": "\\bNot going to happen.",
@@ -168,6 +163,11 @@
   "id": "\\bClemont uses Electric types. Use a ground type to win.",
   "en": "\\bClemont uses Electric types. Use a ground type to win.",
   "it": "\\bClemont usa Pokémon di tipo Elettro. Usa un tipo Terra per vincere."
+ },
+ {
+  "id": "\\bChespin",
+  "en": "\\bChespin",
+  "it": "\\bChespin"
  },
  {
   "id": "Magneton",

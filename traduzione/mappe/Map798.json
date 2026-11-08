@@ -30,16 +30,6 @@
   "it": "\\rHai cresciuto bene la tua squadra. Continua così."
  },
  {
-  "id": "\\bEver heard of Rhyhorn racing?",
-  "en": "\\bEver heard of Rhyhorn racing?",
-  "it": "\\bHai mai sentito parlare delle corse di Rhyhorn?"
- },
- {
-  "id": "\\bOne of the best Rhyhorn racers is Grace.",
-  "en": "\\bOne of the best Rhyhorn racers is Grace.",
-  "it": "\\bUna delle migliori fantine di Rhyhorn è Grace."
- },
- {
   "id": "\\bHow are you?",
   "en": "\\bHow are you?",
   "it": "\\bCome stai?"
@@ -48,6 +38,16 @@
   "id": "\\bGreat battle. You're something special.",
   "en": "\\bGreat battle. You're something special.",
   "it": "\\bGran bella lotta. Sei davvero speciale."
+ },
+ {
+  "id": "\\bEver heard of Rhyhorn racing?",
+  "en": "\\bEver heard of Rhyhorn racing?",
+  "it": "\\bHai mai sentito parlare delle corse di Rhyhorn?"
+ },
+ {
+  "id": "\\bOne of the best Rhyhorn racers is Grace.",
+  "en": "\\bOne of the best Rhyhorn racers is Grace.",
+  "it": "\\bUna delle migliori fantine di Rhyhorn è Grace."
  },
  {
   "id": "\\rHello.",
@@ -60,16 +60,6 @@
   "it": "\\rOttimo lavoro!"
  },
  {
-  "id": "\\bAre you ready?",
-  "en": "\\bAre you ready?",
-  "it": "\\bSei pronto?"
- },
- {
-  "id": "\\bI just came from the gym. Viola is tough.",
-  "en": "\\bI just came from the gym. Viola is tough.",
-  "it": "\\bVengo dalla Palestra. Violetta è tosta."
- },
- {
   "id": "\\bFletchling",
   "en": "\\bFletchling",
   "it": "\\bFletchling"
@@ -78,6 +68,16 @@
   "id": "Would you like to take Fletchling with you?",
   "en": "Would you like to take Fletchling with you?",
   "it": "Vuoi portare Fletchling con te?"
+ },
+ {
+  "id": "\\bAre you ready?",
+  "en": "\\bAre you ready?",
+  "it": "\\bSei pronto?"
+ },
+ {
+  "id": "\\bI just came from the gym. Viola is tough.",
+  "en": "\\bI just came from the gym. Viola is tough.",
+  "it": "\\bVengo dalla Palestra. Violetta è tosta."
  },
  {
   "id": "\\bShow me your team. Right now!",

@@ -1,8 +1,8 @@
 [
  {
-  "id": "\\bIndeedee",
-  "en": "\\bIndeedee",
-  "it": "\\bIndeedee"
+  "id": "\\rIris: Do you think I could ask Cynthia and Diantha for a picture? I'm so nervous.",
+  "en": "\\rIris: Do you think I could ask Cynthia and Diantha for a picture? I'm so nervous.",
+  "it": "\\rIris: Secondo te posso chiedere a Camilla e a Diantha una foto? Sono così agitata."
  },
  {
   "id": "\\bDo you think I can enter one day?",
@@ -10,24 +10,9 @@
   "it": "\\bSecondo te un giorno potrò partecipare anch'io?"
  },
  {
-  "id": "\\rIris: Do you think I could ask Cynthia and Diantha for a picture? I'm so nervous.",
-  "en": "\\rIris: Do you think I could ask Cynthia and Diantha for a picture? I'm so nervous.",
-  "it": "\\rIris: Secondo te posso chiedere a Camilla e a Diantha una foto? Sono così agitata."
- },
- {
-  "id": "\\rLeon's Charizard is unstoppable.",
-  "en": "\\rLeon's Charizard is unstoppable.",
-  "it": "\\rIl Charizard di Dandel è inarrestabile."
- },
- {
-  "id": "\\bAlain will be my pick. Someone has to pick the underdog.",
-  "en": "\\bAlain will be my pick. Someone has to pick the underdog.",
-  "it": "\\bIo punto su Alain. Qualcuno dovrà pur tifare per lo sfavorito."
- },
- {
-  "id": "\\bThis room is only for the Masters Eight.",
-  "en": "\\bThis room is only for the Masters Eight.",
-  "it": "\\bQuesta sala è riservata agli Otto Master."
+  "id": "\\bIndeedee",
+  "en": "\\bIndeedee",
+  "it": "\\bIndeedee"
  },
  {
   "id": "\\rDawn: You're in the finals! No need to worry though. I know you'll win.",
@@ -35,14 +20,19 @@
   "it": "\\rLucinda: Sei arrivato in finale! Comunque non c'è da preoccuparsi. So che vincerai."
  },
  {
-  "id": "\\bRookidee",
-  "en": "\\bRookidee",
-  "it": "\\bRookidee"
+  "id": "\\bThis room is only for the Masters Eight.",
+  "en": "\\bThis room is only for the Masters Eight.",
+  "it": "\\bQuesta sala è riservata agli Otto Master."
  },
  {
-  "id": "\\rCynthia is my pick. Her elegance and calclations are going to put her above the pack.",
-  "en": "\\rCynthia is my pick. Her elegance and calclations are going to put her above the pack.",
-  "it": "\\rIo tifo per Camilla. La sua eleganza e i suoi calcoli la porteranno sopra tutti gli altri."
+  "id": "\\bAlain will be my pick. Someone has to pick the underdog.",
+  "en": "\\bAlain will be my pick. Someone has to pick the underdog.",
+  "it": "\\bIo punto su Alain. Qualcuno dovrà pur tifare per lo sfavorito."
+ },
+ {
+  "id": "\\rLeon's Charizard is unstoppable.",
+  "en": "\\rLeon's Charizard is unstoppable.",
+  "it": "\\rIl Charizard di Dandel è inarrestabile."
  },
  {
   "id": "\\rDiantha: How lovely to see you again. I hope you perform well against Steven.",
@@ -60,9 +50,19 @@
   "it": "\\rDiantha: Non sottovalutare Dandel. La sua forza bruta basta a travolgere qualsiasi strategia."
  },
  {
-  "id": "\\bI made it to the top eight last year. It was tough.",
-  "en": "\\bI made it to the top eight last year. It was tough.",
-  "it": "\\bL'anno scorso sono arrivato tra i primi otto. È stata dura."
+  "id": "\\rCynthia is my pick. Her elegance and calculations are going to put her above the pack.",
+  "en": "\\rCynthia is my pick. Her elegance and calculations are going to put her above the pack.",
+  "it": "\\rIo punto su Camilla. La sua eleganza e i suoi calcoli la porteranno sopra tutti gli altri."
+ },
+ {
+  "id": "\\bRookidee",
+  "en": "\\bRookidee",
+  "it": "\\bRookidee"
+ },
+ {
+  "id": "\\rDratini",
+  "en": "\\rDratini",
+  "it": "\\rDratini"
  },
  {
   "id": "\\bI've been following Leon for years. He never loses.",
@@ -70,9 +70,19 @@
   "it": "\\bSeguo Dandel da anni. Non perde mai."
  },
  {
-  "id": "\\rDratini",
-  "en": "\\rDratini",
-  "it": "\\rDratini"
+  "id": "\\bI made it to the top eight last year. It was tough.",
+  "en": "\\bI made it to the top eight last year. It was tough.",
+  "it": "\\bL'anno scorso sono arrivato tra i primi otto. È stata dura."
+ },
+ {
+  "id": "\\bLance: It's nice to see each other under less dangerous circumstances.",
+  "en": "\\bLance: It's nice to see each other under less dangerous circumstances.",
+  "it": "\\bLance: È bello rivedersi in circostanze meno pericolose."
+ },
+ {
+  "id": "\\bIris is my pick. Her Dragon past strikes a cord in me.",
+  "en": "\\bIris is my pick. Her Dragon past strikes a cord in me.",
+  "it": "\\bIo tifo per Iris. Il suo passato con i Draghi tocca le mie corde."
  },
  {
   "id": "\\bLeon: Thank you everyone for supporting me during this season, but there's an emergency outside. I need to...",
@@ -110,14 +120,39 @@
   "it": "\\bDandel: Che ne dici di provarlo in una lotta contro di me? Ci vediamo dentro lo stadio."
  },
  {
-  "id": "\\bIris is my pick. Her Dragon past strikes a cord in me.",
-  "en": "\\bIris is my pick. Her Dragon past strikes a cord in me.",
-  "it": "\\bIo tifo per Iris. Il suo passato con i Draghi tocca le mie corde."
+  "id": "\\rHello. Welcome to Wyndon Stadium.",
+  "en": "\\rHello. Welcome to Wyndon Stadium.",
+  "it": "\\rSalve. Benvenuto allo Stadio di Wyndon."
  },
  {
-  "id": "\\bLance: It's nice to see each other under less dangerous circumstances.",
-  "en": "\\bLance: It's nice to see each other under less dangerous circumstances.",
-  "it": "\\bLance: È bello rivedersi in circostanze meno pericolose."
+  "id": "\\rHello, \\PN of the Masters 8. Would you like ask the current Monarch to hold a Masters 8 tournament now?",
+  "en": "\\rHello, \\PN of the Masters 8. Would you like ask the current Monarch to hold a Masters 8 tournament now?",
+  "it": "\\rSalve, \\PN degli Otto Master. Vuoi chiedere all'attuale Monarca di organizzare ora un torneo degli Otto Master?"
+ },
+ {
+  "id": "\\rHello, Monarch \\PN. Would you like to hold a Masters 8 tournament now?",
+  "en": "\\rHello, Monarch \\PN. Would you like to hold a Masters 8 tournament now?",
+  "it": "\\rSalve, Monarca \\PN. Vuoi organizzare ora un torneo degli Otto Master?"
+ },
+ {
+  "id": "\\rOk, please give me a moment to contact them...",
+  "en": "\\rOk, please give me a moment to contact them...",
+  "it": "\\rBene, dammi un attimo per contattarli..."
+ },
+ {
+  "id": "\\rAlright, let's set it up.",
+  "en": "\\rAlright, let's set it up.",
+  "it": "\\rD'accordo, organizziamolo."
+ },
+ {
+  "id": "\\rEnjoy and good luck!",
+  "en": "\\rEnjoy and good luck!",
+  "it": "\\rDivertiti e buona fortuna!"
+ },
+ {
+  "id": "\\rNo problem. Have a good day.",
+  "en": "\\rNo problem. Have a good day.",
+  "it": "\\rNessun problema. Buona giornata."
  },
  {
   "id": "\\bThere are no matches taking place right now.",
@@ -185,19 +220,24 @@
   "it": "\\bStiamo preparando la finale. Torni più tardi, per favore."
  },
  {
+  "id": "\\bIn the meantime, could you help us deal with some commotion in the city?",
+  "en": "\\bIn the meantime, could you help us deal with some commotion in the city?",
+  "it": "\\bNel frattempo, potresti aiutarci a gestire un po' di trambusto in città?"
+ },
+ {
   "id": "\\bParticipant \\PN. Please follow me for your battle against Leon.",
   "en": "\\bParticipant \\PN. Please follow me for your battle against Leon.",
   "it": "\\bPartecipante \\PN. Prego, mi segua per la sua lotta contro Dandel."
  },
  {
-  "id": "\\rHello. Welcome to Wyndon Stadium.",
-  "en": "\\rHello. Welcome to Wyndon Stadium.",
-  "it": "\\rSalve. Benvenuto allo Stadio di Wyndon."
+  "id": "\\bSteven: So it will be a battle between us. I wish you the best of luck.",
+  "en": "\\bSteven: So it will be a battle between us. I wish you the best of luck.",
+  "it": "\\bRocco: Quindi la lotta sarà tra noi due. Ti auguro buona fortuna."
  },
  {
-  "id": "\\rDynamax is something that can be done at this stadium. It's not something you can do everywhere.",
-  "en": "\\rDynamax is something that can be done at this stadium. It's not something you can do everywhere.",
-  "it": "\\rIn questo stadio è possibile usare il Dynamax. Non è una cosa che si può fare ovunque."
+  "id": "\\bLance just became Champion. He's on a roll and he'll win here too.",
+  "en": "\\bLance just became Champion. He's on a roll and he'll win here too.",
+  "it": "\\bLance è appena diventato Campione. È in gran forma e vincerà anche qui."
  },
  {
   "id": "\\bI want to battle Leon one day.",
@@ -205,14 +245,14 @@
   "it": "\\bUn giorno voglio lottare contro Dandel."
  },
  {
-  "id": "\\bLance just became Champion. He's on a role and he'll win here too.",
-  "en": "\\bLance just became Champion. He's on a role and he'll win here too.",
-  "it": "\\bLance è appena diventato Campione. È in gran forma e vincerà anche qui."
+  "id": "\\rDynamax is something that can be done at this stadium. It's not something you can do everywhere.",
+  "en": "\\rDynamax is something that can be done at this stadium. It's not something you can do everywhere.",
+  "it": "\\rIn questo stadio è possibile usare il Dynamax. Non è una cosa che si può fare ovunque."
  },
  {
-  "id": "\\bSteven: So it will be a battle between us. I wish you the best of luck.",
-  "en": "\\bSteven: So it will be a battle between us. I wish you the best of luck.",
-  "it": "\\bRocco: Quindi la lotta sarà tra noi due. Ti auguro buona fortuna."
+  "id": "\\bLeon is the clear winner. Plus, he's very cool.",
+  "en": "\\bLeon is the clear winner. Plus, he's very cool.",
+  "it": "\\bDandel è il vincitore indiscusso. E poi è fighissimo."
  },
  {
   "id": "\\bGoh: Leon seems really strong.",
@@ -223,31 +263,6 @@
   "id": "\\bGoh: That was a great battle, \\PN. Should we head back to the lab?",
   "en": "\\bGoh: That was a great battle, \\PN. Should we head back to the lab?",
   "it": "\\bGoh: È stata una gran lotta, \\PN. Torniamo al laboratorio?"
- },
- {
-  "id": "\\bLeon is the clear winner. Plus, he's very cool.",
-  "en": "\\bLeon is the clear winner. Plus, he's very cool.",
-  "it": "\\bDandel è il vincitore indiscusso. E poi è fighissimo."
- },
- {
-  "id": "\\rSteelix",
-  "en": "\\rSteelix",
-  "it": "\\rSteelix"
- },
- {
-  "id": "\\bNin",
-  "en": "\\bNin",
-  "it": "\\bNin"
- },
- {
-  "id": "\\rThe battle against Lance was intense. I couldn't take my eyes off of it.",
-  "en": "\\rThe battle against Lance was intense. I couldn't take my eyes off of it.",
-  "it": "\\rLa lotta contro Lance è stata intensa. Non riuscivo a staccarle gli occhi di dosso."
- },
- {
-  "id": "\\bDiantha has to win. She deserves it for her strategy.",
-  "en": "\\bDiantha has to win. She deserves it for her strategy.",
-  "it": "\\bDiantha deve vincere. Se lo merita per la sua strategia."
  },
  {
   "id": "\\rCynthia: I believe you'll do quite well here. I'm also happy to see Iris qualified.",
@@ -265,9 +280,34 @@
   "it": "\\rCamilla: Farò il tifo per te."
  },
  {
-  "id": "\\rI come here for every battle.",
-  "en": "\\rI come here for every battle.",
-  "it": "\\rVengo qui per ogni lotta."
+  "id": "\\bDiantha has to win. She deserves it for her strategy.",
+  "en": "\\bDiantha has to win. She deserves it for her strategy.",
+  "it": "\\bDiantha deve vincere. Se lo merita per la sua strategia."
+ },
+ {
+  "id": "\\rThe battle against Lance was intense. I couldn't take my eyes off of it.",
+  "en": "\\rThe battle against Lance was intense. I couldn't take my eyes off of it.",
+  "it": "\\rLa lotta contro Lance è stata intensa. Non riuscivo a staccarle gli occhi di dosso."
+ },
+ {
+  "id": "\\bNin",
+  "en": "\\bNin",
+  "it": "\\bNin"
+ },
+ {
+  "id": "\\rSteelix",
+  "en": "\\rSteelix",
+  "it": "\\rSteelix"
+ },
+ {
+  "id": "\\bAlain: I'm not surprised to see you made it as well. Let's meet up in the finals like last time.",
+  "en": "\\bAlain: I'm not surprised to see you made it as well.  Let's meet up in the finals like last time.",
+  "it": "\\bAlain: Non mi sorprende che ce l'abbia fatta anche tu.  Ritroviamoci in finale come l'ultima volta."
+ },
+ {
+  "id": "\\rSteven is the obvious choice. His skill in battle is better than everyone.",
+  "en": "\\rSteven is the obvious choice. His skill in battle is better than everyone.",
+  "it": "\\rRocco è la scelta più ovvia. In lotta è più abile di tutti."
  },
  {
   "id": "\\rHello, and welcome to the Pokémon Center.",
@@ -335,19 +375,29 @@
   "it": "\\rSpero che tu abbia successo!"
  },
  {
-  "id": "\\rSteven is the obvious choice. His skill in battle is better than everyone.",
-  "en": "\\rSteven is the obvious choice. His skill in battle is better than everyone.",
-  "it": "\\rRocco è la scelta più ovvia. In lotta è più abile di tutti."
+  "id": "\\rI come here for every battle.",
+  "en": "\\rI come here for every battle.",
+  "it": "\\rVengo qui per ogni lotta."
  },
  {
-  "id": "\\bAlain: I'm not surprised to see you made it as well. Let's meet up in the finals like last time.",
-  "en": "\\bAlain: I'm not surprised to see you made it as well.  Let's meet up in the finals like last time.",
-  "it": "\\bAlain: Non mi sorprende che ce l'abbia fatta anche tu.  Ritroviamoci in finale come l'ultima volta."
+  "id": "\\bLeon: The Masters Eight. Let's make this one even more exciting than the last!",
+  "en": "\\bLeon: The Masters Eight. Let's make this one even more exciting than the last!",
+  "it": "\\bDandel: Gli Otto Master. Rendiamo questa edizione ancora più emozionante della scorsa!"
  },
  {
-  "id": "\\bLeon is amazing!",
-  "en": "\\bLeon is amazing!",
-  "it": "\\bDandel è fantastico!"
+  "id": "\\bLeon: The next battle will be even better than the last.",
+  "en": "\\bLeon: The next battle will be even better than the last.",
+  "it": "\\bDandel: La prossima lotta sarà ancora meglio dell'ultima."
+ },
+ {
+  "id": "\\bLeon: I'm pumped for our battle.",
+  "en": "\\bLeon: I'm pumped for our battle.",
+  "it": "\\bDandel: Non vedo l'ora di lottare con te."
+ },
+ {
+  "id": "\\r\\PN will win. I can feel it in my soul.",
+  "en": "\\r\\PN will win. I can feel it in my soul.",
+  "it": "\\r\\PN vincerà. Me lo sento nell'anima."
  },
  {
   "id": "\\bRaihan: Man, Leon sure is tough. No matter what I try I just can't best him.",
@@ -370,24 +420,9 @@
   "it": "\\bRaihan: Chissà, magari lotterai persino contro di me.  Ma non pensare che ti lascerò metterti tra me e la vittoria su Dandel."
  },
  {
-  "id": "\\r\\PN will win. I can feel it in my soul.",
-  "en": "\\r\\PN will win. I can feel it in my soul.",
-  "it": "\\r\\PN vincerà. Me lo sento nell'anima."
- },
- {
-  "id": "\\bLeon: The Masters Eight. Let's make this one even more exciting than the last!",
-  "en": "\\bLeon: The Masters Eight. Let's make this one even more exciting than the last!",
-  "it": "\\bDandel: Gli Otto Master. Rendiamo questa edizione ancora più emozionante della scorsa!"
- },
- {
-  "id": "\\bLeon: The next battle will be even better than the last.",
-  "en": "\\bLeon: The next battle will be even better than the last.",
-  "it": "\\bDandel: La prossima lotta sarà ancora meglio dell'ultima."
- },
- {
-  "id": "\\bLeon: I'm pumped for our battle.",
-  "en": "\\bLeon: I'm pumped for our battle.",
-  "it": "\\bDandel: Non vedo l'ora di lottare con te."
+  "id": "\\bLeon is amazing!",
+  "en": "\\bLeon is amazing!",
+  "it": "\\bDandel è fantastico!"
  },
  {
   "id": "Yes",

@@ -5,11 +5,6 @@
   "it": "\\rSei arrivato lontano da casa. Ti senti bene?"
  },
  {
-  "id": "\\rThis class is so much fun!",
-  "en": "\\rThis class is so much fun!",
-  "it": "\\rQuesta lezione è troppo divertente!"
- },
- {
   "id": "\\bI'm looking for a Bunnelby.",
   "en": "\\bI'm looking for a Bunnelby.",
   "it": "\\bSto cercando un Bunnelby."
@@ -55,9 +50,9 @@
   "it": "\\bGrazie per lo scambio!"
  },
  {
-  "id": "\\rBe sure to read what's on the blackboard carefully!",
-  "en": "\\rBe sure to read what's on the blackboard carefully!",
-  "it": "\\rLeggi con attenzione quello che c'è scritto sulla lavagna!"
+  "id": "\\rThis class is so much fun!",
+  "en": "\\rThis class is so much fun!",
+  "it": "\\rQuesta lezione è troppo divertente!"
  },
  {
   "id": "\\bI wanna go outside and play.",
@@ -65,9 +60,24 @@
   "it": "\\bVoglio andare fuori a giocare."
  },
  {
+  "id": "\\rBe sure to read what's on the blackboard carefully!",
+  "en": "\\rBe sure to read what's on the blackboard carefully!",
+  "it": "\\rLeggi con attenzione quello che c'è scritto sulla lavagna!"
+ },
+ {
   "id": "\\bI've learned so much in here.",
   "en": "\\bI've learned so much in here.",
   "it": "\\bHo imparato tantissimo qui dentro."
+ },
+ {
+  "id": "\\rI think these help in class. I don't really know though.",
+  "en": "\\rI think these help in class. I don't really know though.",
+  "it": "\\rCredo che questi aiutino a scuola. Ma non ne sono proprio sicura."
+ },
+ {
+  "id": "\\rMaybe I should stop messing around.",
+  "en": "\\rMaybe I should stop messing around.",
+  "it": "\\rForse dovrei smetterla di fare la stupida."
  },
  {
   "id": "Choose a status option.",
@@ -108,16 +118,6 @@
   "id": "Poison lingers after battles. Use an Antidote to cure poison!",
   "en": "Poison lingers after battles. Use an Antidote to cure poison!",
   "it": "L'avvelenamento persiste dopo la lotta. Usa un Antidoto per curarlo!"
- },
- {
-  "id": "\\rI think these help in class. I don't really know though.",
-  "en": "\\rI think these help in class. I don't really know though.",
-  "it": "\\rCredo che questi aiutino a scuola. Ma non ne sono proprio sicura."
- },
- {
-  "id": "\\rMaybe I should stop messing around.",
-  "en": "\\rMaybe I should stop messing around.",
-  "it": "\\rForse dovrei smetterla di fare la stupida."
  },
  {
   "id": "Paralysis reduces speed and may prevent the Pokémon from moving.",

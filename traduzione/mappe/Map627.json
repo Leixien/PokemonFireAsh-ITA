@@ -10,11 +10,6 @@
   "it": "\\rChar"
  },
  {
-  "id": "\\bWarm me up Charmander.",
-  "en": "\\bWarm me up Charmander.",
-  "it": "\\bScaldami, Charmander."
- },
- {
   "id": "\\rChansey",
   "en": "\\rChansey",
   "it": "\\rChansey"
@@ -85,14 +80,19 @@
   "it": "\\rSpero che tu abbia successo!"
  },
  {
-  "id": "\\rMy Jynx can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Cancel]",
-  "en": "\\rMy Jynx can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Cancel]",
-  "it": "\\rIl mio Jynx può teletrasportarti.\\ch[1,-1,Sabbiafine,Giubilopoli, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Canalipoli,Esci]"
+  "id": "\\bWarm me up Charmander.",
+  "en": "\\bWarm me up Charmander.",
+  "it": "\\bScaldami, Charmander."
  },
  {
-  "id": "\\rMy Jynx can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Sunnyshore,Cancel]",
-  "en": "\\rMy Jynx can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Sunnyshore,Cancel]",
-  "it": "\\rIl mio Jynx può teletrasportarti.\\ch[1,-1,Sabbiafine,Giubilopoli, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Canalipoli,Arenipoli,Esci]"
+  "id": "\\rMy Jynx can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Cancel]",
+  "en": "\\rMy Jynx can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Cancel]",
+  "it": "\\rIl mio Jynx può teletrasportarti.\\ch[1,-1,Sabbiafine,Giubilopoli, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Canalipoli,Annulla]"
+ },
+ {
+  "id": "\\rMy Jynx can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Sunnyshore,Cancel]",
+  "en": "\\rMy Jynx can Teleport you.\\ch[1,-1,Sandgem,Jubilife, Oreburgh,Floaroma,Eterna,Hearthome,Solaceon, Veilstone,Pastoria,Canalave,Sunnyshore,Cancel]",
+  "it": "\\rIl mio Jynx può teletrasportarti.\\ch[1,-1,Sabbiafine,Giubilopoli, Mineropoli,Floraria,Evopoli,Cuoripoli,Flemminia, Rupepoli,Pratopoli,Canalipoli,Arenipoli,Annulla]"
  },
  {
   "id": "\\rJynx",

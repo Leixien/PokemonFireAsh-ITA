@@ -1,5 +1,15 @@
 [
  {
+  "id": "\\bTurtonator",
+  "en": "\\bTurtonator",
+  "it": "\\bTurtonator"
+ },
+ {
+  "id": "\\rLusamine: Good to see you again \\PN.",
+  "en": "\\rLusamine: Good to see you again \\PN.",
+  "it": "\\rSamina: Che piacere rivederti, \\PN."
+ },
+ {
   "id": "\\bI go to this school too.",
   "en": "\\bI go to this school too.",
   "it": "\\bAnch'io frequento questa scuola."
@@ -8,36 +18,6 @@
   "id": "\\bEveryone acts like I don't exist. It's not fair!",
   "en": "\\bEveryone acts like I don't exist. It's not fair!",
   "it": "\\bTutti fanno finta che io non esista. Non è giusto!"
- },
- {
-  "id": "\\rLusamine: Good to see you again \\PN.",
-  "en": "\\rLusamine: Good to see you again \\PN.",
-  "it": "\\rSamina: Che piacere rivederti, \\PN."
- },
- {
-  "id": "\\bTurtonator",
-  "en": "\\bTurtonator",
-  "it": "\\bTurtonator"
- },
- {
-  "id": "\\rMisty: Surprise! Bet you weren't expecting to see me here. You can thank Lana for that.",
-  "en": "\\rMisty: Surprise! Bet you weren't expecting to see me here. You can thank Lana for that.",
-  "it": "\\rMisty: Sorpresa! Scommetto che non ti aspettavi di vedermi qui. Puoi ringraziare Suiren per questo."
- },
- {
-  "id": "\\rThis may be a vacation for me, but don't think I can't beat you in a battle.",
-  "en": "\\rThis may be a vacation for me, but don't think I can't beat you in a battle.",
-  "it": "\\rSarò anche in vacanza, ma non pensare che non possa batterti in una lotta."
- },
- {
-  "id": "\\rMisty: Ugh, I still can't win. Maybe Brock will have a better chance. Last I heard he said he was going to visit Nurse Joy at the Pokémon Center.",
-  "en": "\\rMisty: Ugh, I still can't win. Maybe Brock will have a better chance. Last I heard he said he was going to visit Nurse Joy at the Pokémon Center.",
-  "it": "\\rMisty: Uffa, non riesco ancora a vincere. Forse Brock avrà più fortuna. L'ultima volta che l'ho sentito diceva che sarebbe andato a trovare l'Infermiera Joy al Centro Pokémon."
- },
- {
-  "id": "\\bSamson: Take your seat and we will begin.",
-  "en": "\\bSamson: Take your seat and we will begin.",
-  "it": "\\bSamson: Prendete posto e cominceremo."
  },
  {
   "id": "\\rSweet!",
@@ -55,89 +35,24 @@
   "it": "\\rTsareena"
  },
  {
-  "id": "\\bSophocles: The Mossdeep Space Center was incredible. I'm glad Molayne was able to take me.",
-  "en": "\\bSophocles: The Mossdeep Space Center was incredible. I'm glad Molayne was able to take me.",
-  "it": "\\bChrys: Il Centro Spaziale di Verdeazzupoli era incredibile. Sono contento che Molayne abbia potuto portarmici."
+  "id": "\\bSamson: Take your seat and we will begin.",
+  "en": "\\bSamson: Take your seat and we will begin.",
+  "it": "\\bSamson: Prendete posto e cominceremo."
  },
  {
-  "id": "\\bBut you probably want a battle. I suppose we can.",
-  "en": "\\bBut you probably want a battle. I suppose we can.",
-  "it": "\\bMa tu probabilmente vuoi lottare. Va bene, si può fare."
+  "id": "\\rMisty: Surprise! Bet you weren't expecting to see me here. You can thank Lana for that.",
+  "en": "\\rMisty: Surprise! Bet you weren't expecting to see me here. You can thank Lana for that.",
+  "it": "\\rMisty: Sorpresa! Scommetto che non ti aspettavi di vedermi qui. Puoi ringraziare Suiren per questo."
  },
  {
-  "id": "\\bSophocles: I'm going to stay here. I'll see you later.",
-  "en": "\\bSophocles: I'm going to stay here. I'll see you later.",
-  "it": "\\bChrys: Io resto qui. Ci vediamo dopo."
+  "id": "\\rThis may be a vacation for me, but don't think I can't beat you in a battle.",
+  "en": "\\rThis may be a vacation for me, but don't think I can't beat you in a battle.",
+  "it": "\\rSarò anche in vacanza, ma non pensare che non possa batterti in una lotta."
  },
  {
-  "id": "\\bKukui: Take your seat, cousin, and we will start the lesson.",
-  "en": "\\bKukui: Take your seat, cousin, and we will start the lesson.",
-  "it": "\\bKukui: Prendi posto, cugino, e cominciamo la lezione."
- },
- {
-  "id": "\\bKukui: Come look at the board if you're ever lost.",
-  "en": "\\bKukui: Come look at the board if you're ever lost.",
-  "it": "\\bKukui: Vieni a guardare la lavagna se ti senti perso."
- },
- {
-  "id": "\\bKukui: Sit down and we will continue, cousin.",
-  "en": "\\bKukui: Sit down and we will continue, cousin.",
-  "it": "\\bKukui: Siediti e continuiamo, cugino."
- },
- {
-  "id": "\\bKukui: I'll meet you at home.",
-  "en": "\\bKukui: I'll meet you at home.",
-  "it": "\\bKukui: Ci vediamo a casa."
- },
- {
-  "id": "\\bKukui: Sit down and we will start, cousin.",
-  "en": "\\bKukui: Sit down and we will start, cousin.",
-  "it": "\\bKukui: Siediti e cominciamo, cugino."
- },
- {
-  "id": "\\bKukui: It should be found in Melemele Meadow.",
-  "en": "\\bKukui: It should be found in Melemele Meadow.",
-  "it": "\\bKukui: Dovrebbe trovarsi al Prato Mele Mele."
- },
- {
-  "id": "\\bKukui: Wasn't it nice of Lana to organize this?",
-  "en": "\\bKukui: Wasn't it nice of Lana to organize this?",
-  "it": "\\bKukui: Non è stato carino da parte di Suiren organizzare tutto questo?"
- },
- {
-  "id": "\\bKukui: Head for the boat.",
-  "en": "\\bKukui: Head for the boat.",
-  "it": "\\bKukui: Dirigiti alla barca."
- },
- {
-  "id": "\\bKukui: I wish you luck. Come visit sometime.",
-  "en": "\\bKukui: I wish you luck. Come visit sometime.",
-  "it": "\\bKukui: Buona fortuna. Vieni a trovarci qualche volta."
- },
- {
-  "id": "\\bKukui: Alola, cousin! How'd our champion doing?",
-  "en": "\\bKukui: Alola, cousin! How'd our champion doing?",
-  "it": "\\bKukui: Alola, cugino! Come se la passa il nostro campione?"
- },
- {
-  "id": "\\bWhy don't you take a seat for old times sake?",
-  "en": "\\bWhy don't you take a seat for old times sake?",
-  "it": "\\bPerché non ti siedi, come ai vecchi tempi?"
- },
- {
-  "id": "\\bKukui: I'm not here to battle you. I already know you can beat me.",
-  "en": "\\bKukui: I'm not here to battle you. I already know you can beat me.",
-  "it": "\\bKukui: Non sono qui per sfidarti. So già che puoi battermi."
- },
- {
-  "id": "\\bKukui: If was great to see you again, \\PN. We'll be rooting for you.",
-  "en": "\\bKukui: If was great to see you again, \\PN. We'll be rooting for you.",
-  "it": "\\bKukui: È stato bellissimo rivederti, \\PN. Faremo il tifo per te."
- },
- {
-  "id": "\\bKukui: Take a seat, cousin.",
-  "en": "\\bKukui: Take a seat, cousin.",
-  "it": "\\bKukui: Prendi posto, cugino."
+  "id": "\\rMisty: Ugh, I still can't win. Maybe Brock will have a better chance. Last I heard he said he was going to visit Nurse Joy at the Pokémon Center.",
+  "en": "\\rMisty: Ugh, I still can't win. Maybe Brock will have a better chance. Last I heard he said he was going to visit Nurse Joy at the Pokémon Center.",
+  "it": "\\rMisty: Uffa, non riesco ancora a vincere. Forse Brock avrà più fortuna. L'ultima volta che l'ho sentito diceva che sarebbe andato a trovare l'Infermiera Joy al Centro Pokémon."
  },
  {
   "id": "\\rLana: My name is Lana. Nice to meet you \\PN.",
@@ -250,9 +165,99 @@
   "it": "\\rSuiren: È bello rivedere Lylia."
  },
  {
-  "id": "\\bVulpix!",
-  "en": "\\bVulpix!",
-  "it": "\\bVulpix!"
+  "id": "\\bKukui: Take your seat, cousin, and we will start the lesson.",
+  "en": "\\bKukui: Take your seat, cousin, and we will start the lesson.",
+  "it": "\\bKukui: Prendi posto, cugino, e cominciamo la lezione."
+ },
+ {
+  "id": "\\bKukui: Come look at the board if you're ever lost.",
+  "en": "\\bKukui: Come look at the board if you're ever lost.",
+  "it": "\\bKukui: Vieni a guardare la lavagna se ti senti perso."
+ },
+ {
+  "id": "\\bKukui: Sit down and we will continue, cousin.",
+  "en": "\\bKukui: Sit down and we will continue, cousin.",
+  "it": "\\bKukui: Siediti e continuiamo, cugino."
+ },
+ {
+  "id": "\\bKukui: I'll meet you at home.",
+  "en": "\\bKukui: I'll meet you at home.",
+  "it": "\\bKukui: Ci vediamo a casa."
+ },
+ {
+  "id": "\\bKukui: Sit down and we will start, cousin.",
+  "en": "\\bKukui: Sit down and we will start, cousin.",
+  "it": "\\bKukui: Siediti e cominciamo, cugino."
+ },
+ {
+  "id": "\\bKukui: It should be found in Melemele Meadow.",
+  "en": "\\bKukui: It should be found in Melemele Meadow.",
+  "it": "\\bKukui: Dovrebbe trovarsi al Prato Mele Mele."
+ },
+ {
+  "id": "\\bKukui: Wasn't it nice of Lana to organize this?",
+  "en": "\\bKukui: Wasn't it nice of Lana to organize this?",
+  "it": "\\bKukui: Non è stato carino da parte di Suiren organizzare tutto questo?"
+ },
+ {
+  "id": "\\bKukui: Head for the boat.",
+  "en": "\\bKukui: Head for the boat.",
+  "it": "\\bKukui: Dirigiti alla barca."
+ },
+ {
+  "id": "\\bKukui: I wish you luck. Come visit sometime.",
+  "en": "\\bKukui: I wish you luck. Come visit sometime.",
+  "it": "\\bKukui: Buona fortuna. Vieni a trovarci qualche volta."
+ },
+ {
+  "id": "\\bKukui: Alola, cousin! How'd our champion doing?",
+  "en": "\\bKukui: Alola, cousin! How'd our champion doing?",
+  "it": "\\bKukui: Alola, cugino! Come se la passa il nostro campione?"
+ },
+ {
+  "id": "\\bWhy don't you take a seat for old times sake?",
+  "en": "\\bWhy don't you take a seat for old times sake?",
+  "it": "\\bPerché non ti siedi, come ai vecchi tempi?"
+ },
+ {
+  "id": "\\bKukui: I'm not here to battle you. I already know you can beat me.",
+  "en": "\\bKukui: I'm not here to battle you. I already know you can beat me.",
+  "it": "\\bKukui: Non sono qui per sfidarti. So già che puoi battermi."
+ },
+ {
+  "id": "\\bKukui: It was great to see you again, \\PN. We'll be rooting for you.",
+  "en": "\\bKukui: It was great to see you again, \\PN. We'll be rooting for you.",
+  "it": "\\bKukui: È stato bello rivederti, \\PN. Faremo il tifo per te."
+ },
+ {
+  "id": "\\bKukui: Take a seat, cousin.",
+  "en": "\\bKukui: Take a seat, cousin.",
+  "it": "\\bKukui: Prendi posto, cugino."
+ },
+ {
+  "id": "\\bKukui: If was great to see you again, \\PN. We'll be rooting for you.",
+  "en": "\\bKukui: If was great to see you again, \\PN. We'll be rooting for you.",
+  "it": "\\bKukui: È stato bellissimo rivederti, \\PN. Faremo il tifo per te."
+ },
+ {
+  "id": "\\bSophocles: The Mossdeep Space Center was incredible. I'm glad Molayne was able to take me.",
+  "en": "\\bSophocles: The Mossdeep Space Center was incredible. I'm glad Molayne was able to take me.",
+  "it": "\\bChrys: Il Centro Spaziale di Verdeazzupoli era incredibile. Sono contento che Molayne abbia potuto portarmici."
+ },
+ {
+  "id": "\\bBut you probably want a battle. I suppose we can.",
+  "en": "\\bBut you probably want a battle. I suppose we can.",
+  "it": "\\bMa tu probabilmente vuoi lottare. Va bene, si può fare."
+ },
+ {
+  "id": "\\bSophocles: I'm going to stay here. I'll see you later.",
+  "en": "\\bSophocles: I'm going to stay here. I'll see you later.",
+  "it": "\\bChrys: Io resto qui. Ci vediamo dopo."
+ },
+ {
+  "id": "\\bEevee",
+  "en": "\\bEevee",
+  "it": "\\bEevee"
  },
  {
   "id": "\\bKiawe: I'm Kiawe. It's nice to meet a fellow battler like myself.",
@@ -350,19 +355,24 @@
   "it": "\\bKiawe: Buona fortuna per la tua prossima lotta."
  },
  {
-  "id": "\\bEevee",
-  "en": "\\bEevee",
-  "it": "\\bEevee"
+  "id": "\\bVulpix!",
+  "en": "\\bVulpix!",
+  "it": "\\bVulpix!"
  },
  {
-  "id": "\\bGladion: I'm ready to get back to training.",
-  "en": "\\bGladion: I'm ready to get back to training.",
-  "it": "\\bIridio: Sono pronto a tornare ad allenarmi."
+  "id": "\\rPopplio",
+  "en": "\\rPopplio",
+  "it": "\\rPopplio"
  },
  {
-  "id": "Rotom Dex:... It's hiding in the plants on the right side of the school.",
-  "en": "Rotom Dex:... It's hiding in the plants on the right side of the school.",
-  "it": "Rotom Dex:... Si nasconde tra le piante sul lato destro della scuola."
+  "id": "\\rBrionne",
+  "en": "\\rBrionne",
+  "it": "\\rBrionne"
+ },
+ {
+  "id": "\\rPrimarina",
+  "en": "\\rPrimarina",
+  "it": "\\rPrimarina"
  },
  {
   "id": "\\bKukui: Alola! For our first lesson with our new student we are going to explore the forest near the school.",
@@ -670,9 +680,9 @@
   "it": "\\bKukui: Detto questo, è ora che ognuno di voi vada per la sua strada. Alola a tutti."
  },
  {
-  "id": "\\bKukui: Everyone, let's give \\PN and Goh a strong Alolan weclome! It's great to see our champion back.",
-  "en": "\\bKukui: Everyone, let's give \\PN and Goh a strong Alolan weclome! It's great to see our champion back.",
-  "it": "\\bKukui: Ragazzi, diamo a \\PN e a Goh un caloroso benvenuto alla maniera di Alola! È bello rivedere il nostro campione."
+  "id": "\\bKukui: Everyone, let's give \\PN and Goh a strong Alolan welcome! It's great to see our champion back.",
+  "en": "\\bKukui: Everyone, let's give \\PN and Goh a strong Alolan welcome! It's great to see our champion back.",
+  "it": "\\bKukui: Ragazzi, diamo a \\PN e Goh un caloroso benvenuto alolano! È bello riavere qui il nostro Campione."
  },
  {
   "id": "\\bOf course, becoming a champion wasn't enough for him and he's now in the World Coronation Series. No doubt he'll be the one to win it.",
@@ -715,44 +725,19 @@
   "it": "\\bMohn: Sono anni che non ne vedo una. Andiamo a guardarla."
  },
  {
-  "id": "\\rPopplio",
-  "en": "\\rPopplio",
-  "it": "\\rPopplio"
+  "id": "Rotom Dex:... It's hiding in the plants on the right side of the school.",
+  "en": "Rotom Dex:... It's hiding in the plants on the right side of the school.",
+  "it": "Rotom Dex:... Si nasconde tra le piante sul lato destro della scuola."
  },
  {
-  "id": "\\rBrionne",
-  "en": "\\rBrionne",
-  "it": "\\rBrionne"
+  "id": "\\bGladion: I'm ready to get back to training.",
+  "en": "\\bGladion: I'm ready to get back to training.",
+  "it": "\\bIridio: Sono pronto a tornare ad allenarmi."
  },
  {
-  "id": "\\rPrimarina",
-  "en": "\\rPrimarina",
-  "it": "\\rPrimarina"
- },
- {
-  "id": "Meltan",
-  "en": "Meltan",
-  "it": "Meltan"
- },
- {
-  "id": "It's a Meltan.",
-  "en": "It's a Meltan.",
-  "it": "È un Meltan."
- },
- {
-  "id": "Would you like to take it with you?",
-  "en": "Would you like to take it with you?",
-  "it": "Vuoi portarlo con te?"
- },
- {
-  "id": "\\bCharja",
-  "en": "\\bCharja",
-  "it": "\\bCharja"
- },
- {
-  "id": "\\bVika",
-  "en": "\\bVika",
-  "it": "\\bVika"
+  "id": "\\rLillie: Hello there. Please keep that Pikachu away from me.",
+  "en": "\\rLillie: Hello there. Please keep that Pikachu away from me.",
+  "it": "\\rLylia: Salve. Per favore, tieni quel Pikachu lontano da me."
  },
  {
   "id": "\\rLillie: Nice to meet you, \\PN.",
@@ -845,124 +830,29 @@
   "it": "\\rLylia: Sono così felice che abbiamo ritrovato mio padre. E anche Nihilego è una splendida aggiunta alla famiglia."
  },
  {
-  "id": "\\rLillie: Hello there. Please keep that Pikachu away from me.",
-  "en": "\\rLillie: Hello there. Please keep that Pikachu away from me.",
-  "it": "\\rLylia: Salve. Per favore, tieni quel Pikachu lontano da me."
+  "id": "\\bCharja",
+  "en": "\\bCharja",
+  "it": "\\bCharja"
  },
  {
-  "id": "\\rLusamine: I've dreamed of this day for years.",
-  "en": "\\rLusamine: I've dreamed of this day for years.",
-  "it": "\\rSamina: Ho sognato questo giorno per anni."
+  "id": "\\bVika",
+  "en": "\\bVika",
+  "it": "\\bVika"
  },
  {
-  "id": "It looks lost. Would you like to take it with you?",
-  "en": "It looks lost. Would you like to take it with you?",
-  "it": "Sembra essersi perso. Vuoi portarlo con te?"
+  "id": "Meltan",
+  "en": "Meltan",
+  "it": "Meltan"
  },
  {
-  "id": "Rotom Dex: Another Ultra Beast found! Let's head home.",
-  "en": "Rotom Dex: Another Ultra Beast found! Let's head home.",
-  "it": "Rotom Dex: Trovata un'altra Ultracreatura! Torniamo a casa."
+  "id": "It's a Meltan.",
+  "en": "It's a Meltan.",
+  "it": "È un Meltan."
  },
  {
-  "id": "\\bSophocles: You're the new classmate? I can't wait to learn more about you.",
-  "en": "\\bSophocles: You're the new classmate? I can't wait to learn more about you.",
-  "it": "\\bChrys: Sei tu il nuovo compagno di classe? Non vedo l'ora di saperne di più su di te."
- },
- {
-  "id": "\\bSophocles: Me? Okay...",
-  "en": "\\bSophocles: Me? Okay...",
-  "it": "\\bChrys: Io? Va bene..."
- },
- {
-  "id": "\\bSophocles: I need a break.",
-  "en": "\\bSophocles: I need a break.",
-  "it": "\\bChrys: Ho bisogno di una pausa."
- },
- {
-  "id": "\\bSophocles: Today was pretty fun.",
-  "en": "\\bSophocles: Today was pretty fun.",
-  "it": "\\bChrys: Oggi è stato piuttosto divertente."
- },
- {
-  "id": "\\bSophocles: I hope it doesn't take long to get there.",
-  "en": "\\bSophocles: I hope it doesn't take long to get there.",
-  "it": "\\bChrys: Spero che non ci voglia molto per arrivare."
- },
- {
-  "id": "\\bSophocles: This trip sounds like a good one.",
-  "en": "\\bSophocles: This trip sounds like a good one.",
-  "it": "\\bChrys: Questa gita sembra promettente."
- },
- {
-  "id": "\\bSophocles: This sounds like my kind of place.",
-  "en": "\\bSophocles: This sounds like my kind of place.",
-  "it": "\\bChrys: Sembra proprio il posto che fa per me."
- },
- {
-  "id": "\\bSophocles: I'm going to freeze...",
-  "en": "\\bSophocles: I'm going to freeze...",
-  "it": "\\bChrys: Morirò congelato..."
- },
- {
-  "id": "\\bSophocles: I guess I can help out.",
-  "en": "\\bSophocles: I guess I can help out.",
-  "it": "\\bChrys: Credo di poter dare una mano."
- },
- {
-  "id": "\\bSophocles: My parents are so tired. I wonder what happened.",
-  "en": "\\bSophocles: My parents are so tired. I wonder what happened.",
-  "it": "\\bChrys: I miei genitori sono stanchissimi. Chissà cos'è successo."
- },
- {
-  "id": "\\bSophocles: How come no one told me they were coming?",
-  "en": "\\bSophocles: How come no one told me they were coming?",
-  "it": "\\bChrys: Come mai nessuno mi ha detto che sarebbero venuti?"
- },
- {
-  "id": "\\bSophocles: I'm so excited. I already know what my project will be.",
-  "en": "\\bSophocles: I'm so excited. I already know what my project will be.",
-  "it": "\\bChrys: Sono così emozionato. So già quale sarà il mio progetto."
- },
- {
-  "id": "\\bSophocles: Do you think they have good food?",
-  "en": "\\bSophocles: Do you think they have good food?",
-  "it": "\\bChrys: Pensi che lì si mangi bene?"
- },
- {
-  "id": "\\bSophocles: I've been training hard for this. Don't think I'm going to hold back.",
-  "en": "\\bSophocles: I've been training hard for this. Don't think I'm going to hold back.",
-  "it": "\\bChrys: Mi sono allenato duramente per questo. Non pensare che mi tratterrò."
- },
- {
-  "id": "\\bSophocles: I'm looking forward to learning.",
-  "en": "\\bSophocles: I'm looking forward to learning.",
-  "it": "\\bChrys: Non vedo l'ora di imparare."
- },
- {
-  "id": "\\bSophocles: Mossdeep sounds amazing.",
-  "en": "\\bSophocles: Mossdeep sounds amazing.",
-  "it": "\\bChrys: Verdeazzupoli sembra fantastica."
- },
- {
-  "id": "\\bSophocles: Mossdeep was fun. I'm planning on going back again.",
-  "en": "\\bSophocles: Mossdeep was fun. I'm planning on going back again.",
-  "it": "\\bChrys: A Verdeazzupoli mi sono divertito. Ho intenzione di tornarci."
- },
- {
-  "id": "\\bSophocles: I'll do my best.",
-  "en": "\\bSophocles: I'll do my best.",
-  "it": "\\bChrys: Farò del mio meglio."
- },
- {
-  "id": "\\bSophocles: I'm going to keep growing too.",
-  "en": "\\bSophocles: I'm going to keep growing too.",
-  "it": "\\bChrys: Anch'io continuerò a crescere."
- },
- {
-  "id": "\\bSophocles: I'm happy they found him. Who would have guessed it would be somewhere so cold.",
-  "en": "\\bSophocles: I'm happy they found him. Who would have guessed it would be somewhere so cold.",
-  "it": "\\bChrys: Sono felice che l'abbiano trovato. Chi avrebbe mai detto che sarebbe stato in un posto così freddo."
+  "id": "Would you like to take it with you?",
+  "en": "Would you like to take it with you?",
+  "it": "Vuoi portarlo con te?"
  },
  {
   "id": "Rotom Dex: Let's head to the forest.",
@@ -1245,34 +1135,119 @@
   "it": "La lavagna è vuota."
  },
  {
-  "id": "\\bJames: They ate my bottlecap collection! We have to punish them somehow.",
-  "en": "\\bJames: They ate my bottlecap collection! We have to punish them somehow.",
-  "it": "\\bJames: Hanno mangiato la mia collezione di tappi di bottiglia! Dobbiamo punirli in qualche modo."
+  "id": "\\bSophocles: You're the new classmate? I can't wait to learn more about you.",
+  "en": "\\bSophocles: You're the new classmate? I can't wait to learn more about you.",
+  "it": "\\bChrys: Sei tu il nuovo compagno di classe? Non vedo l'ora di saperne di più su di te."
  },
  {
-  "id": "\\bMeowth: Are you sure you saw one of them come in here?",
-  "en": "\\bMeowth: Are you sure you saw one of them come in here?",
-  "it": "\\bMeowth: Sei sicura di averne visto uno entrare qui?"
+  "id": "\\bSophocles: Me? Okay...",
+  "en": "\\bSophocles: Me? Okay...",
+  "it": "\\bChrys: Io? Va bene..."
  },
  {
-  "id": "\\rJessie: Yes. It's hard to forget that strange Pokémon with a hex nut for a head.",
-  "en": "\\rJessie: Yes. It's hard to forget that strange Pokémon with a hex nut for a head.",
-  "it": "\\rJessie: Sì. È difficile dimenticare quello strano Pokémon con un dado al posto della testa."
+  "id": "\\bSophocles: I need a break.",
+  "en": "\\bSophocles: I need a break.",
+  "it": "\\bChrys: Ho bisogno di una pausa."
  },
  {
-  "id": "\\rJessie: Can't you see we're busy?",
-  "en": "\\rJessie: Can't you see we're busy?",
-  "it": "\\rJessie: Non vedi che siamo occupati?"
+  "id": "\\bSophocles: Today was pretty fun.",
+  "en": "\\bSophocles: Today was pretty fun.",
+  "it": "\\bChrys: Oggi è stato piuttosto divertente."
  },
  {
-  "id": "\\bWobbuffet!",
-  "en": "\\bWobbuffet!",
-  "it": "\\bWobbuffet!"
+  "id": "\\bSophocles: I hope it doesn't take long to get there.",
+  "en": "\\bSophocles: I hope it doesn't take long to get there.",
+  "it": "\\bChrys: Spero che non ci voglia molto per arrivare."
  },
  {
-  "id": "\\rOlivia: Nice to meet you.",
-  "en": "\\rOlivia: Nice to meet you.",
-  "it": "\\rOlivia: Piacere di conoscerti."
+  "id": "\\bSophocles: This trip sounds like a good one.",
+  "en": "\\bSophocles: This trip sounds like a good one.",
+  "it": "\\bChrys: Questa gita sembra promettente."
+ },
+ {
+  "id": "\\bSophocles: This sounds like my kind of place.",
+  "en": "\\bSophocles: This sounds like my kind of place.",
+  "it": "\\bChrys: Sembra proprio il posto che fa per me."
+ },
+ {
+  "id": "\\bSophocles: I'm going to freeze...",
+  "en": "\\bSophocles: I'm going to freeze...",
+  "it": "\\bChrys: Morirò congelato..."
+ },
+ {
+  "id": "\\bSophocles: I guess I can help out.",
+  "en": "\\bSophocles: I guess I can help out.",
+  "it": "\\bChrys: Credo di poter dare una mano."
+ },
+ {
+  "id": "\\bSophocles: My parents are so tired. I wonder what happened.",
+  "en": "\\bSophocles: My parents are so tired. I wonder what happened.",
+  "it": "\\bChrys: I miei genitori sono stanchissimi. Chissà cos'è successo."
+ },
+ {
+  "id": "\\bSophocles: How come no one told me they were coming?",
+  "en": "\\bSophocles: How come no one told me they were coming?",
+  "it": "\\bChrys: Come mai nessuno mi ha detto che sarebbero venuti?"
+ },
+ {
+  "id": "\\bSophocles: I'm so excited. I already know what my project will be.",
+  "en": "\\bSophocles: I'm so excited. I already know what my project will be.",
+  "it": "\\bChrys: Sono così emozionato. So già quale sarà il mio progetto."
+ },
+ {
+  "id": "\\bSophocles: Do you think they have good food?",
+  "en": "\\bSophocles: Do you think they have good food?",
+  "it": "\\bChrys: Pensi che lì si mangi bene?"
+ },
+ {
+  "id": "\\bSophocles: I've been training hard for this. Don't think I'm going to hold back.",
+  "en": "\\bSophocles: I've been training hard for this. Don't think I'm going to hold back.",
+  "it": "\\bChrys: Mi sono allenato duramente per questo. Non pensare che mi tratterrò."
+ },
+ {
+  "id": "\\bSophocles: I'm looking forward to learning.",
+  "en": "\\bSophocles: I'm looking forward to learning.",
+  "it": "\\bChrys: Non vedo l'ora di imparare."
+ },
+ {
+  "id": "\\bSophocles: Mossdeep sounds amazing.",
+  "en": "\\bSophocles: Mossdeep sounds amazing.",
+  "it": "\\bChrys: Verdeazzupoli sembra fantastica."
+ },
+ {
+  "id": "\\bSophocles: Mossdeep was fun. I'm planning on going back again.",
+  "en": "\\bSophocles: Mossdeep was fun. I'm planning on going back again.",
+  "it": "\\bChrys: A Verdeazzupoli mi sono divertito. Ho intenzione di tornarci."
+ },
+ {
+  "id": "\\bSophocles: I'll do my best.",
+  "en": "\\bSophocles: I'll do my best.",
+  "it": "\\bChrys: Farò del mio meglio."
+ },
+ {
+  "id": "\\bSophocles: I'm going to keep growing too.",
+  "en": "\\bSophocles: I'm going to keep growing too.",
+  "it": "\\bChrys: Anch'io continuerò a crescere."
+ },
+ {
+  "id": "\\bSophocles: I'm happy they found him. Who would have guessed it would be somewhere so cold.",
+  "en": "\\bSophocles: I'm happy they found him. Who would have guessed it would be somewhere so cold.",
+  "it": "\\bChrys: Sono felice che l'abbiano trovato. Chi avrebbe mai detto che sarebbe stato in un posto così freddo."
+ },
+ {
+  "id": "It looks lost. Would you like to take it with you?",
+  "en": "It looks lost. Would you like to take it with you?",
+  "it": "Sembra essersi perso. Vuoi portarlo con te?"
+ },
+ {
+  "id": "Rotom Dex: Another Ultra Beast found! Let's head home.",
+  "en": "Rotom Dex: Another Ultra Beast found! Let's head home.",
+  "it": "Rotom Dex: Trovata un'altra Ultracreatura! Torniamo a casa."
+ },
+ {
+  "id": "\\rLusamine: I've dreamed of this day for years.",
+  "en": "\\rLusamine: I've dreamed of this day for years.",
+  "it": "\\rSamina: Ho sognato questo giorno per anni."
  },
  {
   "id": "\\bSamson: Alola! You must be the person my cousin sent. Could you hand me the egg?",
@@ -1360,14 +1335,39 @@
   "it": "\\bSamson: Goditi le vacanze, \\PN. Spero che un giorno tornerai a trovarci tutti."
  },
  {
+  "id": "\\rOlivia: Nice to meet you.",
+  "en": "\\rOlivia: Nice to meet you.",
+  "it": "\\rOlivia: Piacere di conoscerti."
+ },
+ {
+  "id": "\\bJames: They ate my bottlecap collection! We have to punish them somehow.",
+  "en": "\\bJames: They ate my bottlecap collection! We have to punish them somehow.",
+  "it": "\\bJames: Hanno mangiato la mia collezione di tappi di bottiglia! Dobbiamo punirli in qualche modo."
+ },
+ {
+  "id": "\\bMeowth: Are you sure you saw one of them come in here?",
+  "en": "\\bMeowth: Are you sure you saw one of them come in here?",
+  "it": "\\bMeowth: Sei sicura di averne visto uno entrare qui?"
+ },
+ {
+  "id": "\\rJessie: Yes. It's hard to forget that strange Pokémon with a hex nut for a head.",
+  "en": "\\rJessie: Yes. It's hard to forget that strange Pokémon with a hex nut for a head.",
+  "it": "\\rJessie: Sì. È difficile dimenticare quello strano Pokémon con un dado al posto della testa."
+ },
+ {
+  "id": "\\rJessie: Can't you see we're busy?",
+  "en": "\\rJessie: Can't you see we're busy?",
+  "it": "\\rJessie: Non vedi che siamo occupati?"
+ },
+ {
+  "id": "\\bWobbuffet!",
+  "en": "\\bWobbuffet!",
+  "it": "\\bWobbuffet!"
+ },
+ {
   "id": "\\rTogedemaru",
   "en": "\\rTogedemaru",
   "it": "\\rTogedemaru"
- },
- {
-  "id": "Your Pokémon were fully healed.",
-  "en": "Your Pokémon were fully healed.",
-  "it": "I tuoi Pokémon sono stati curati completamente."
  },
  {
   "id": "\\rVulpix",
@@ -1375,9 +1375,14 @@
   "it": "\\rVulpix"
  },
  {
-  "id": "\\bMohn: Being here really brings me back. So much has changed.",
-  "en": "\\bMohn: Being here really brings me back. So much has changed.",
-  "it": "\\bMohn: Essere qui mi riporta indietro nel tempo. Sono cambiate tante cose."
+  "id": "Your Pokémon were fully healed.",
+  "en": "Your Pokémon were fully healed.",
+  "it": "I tuoi Pokémon sono stati curati completamente."
+ },
+ {
+  "id": "\\bMarowak",
+  "en": "\\bMarowak",
+  "it": "\\bMarowak"
  },
  {
   "id": "\\rMallow: I hear you're from Kanto! I bet you have a bunch of cool stories.",
@@ -1480,9 +1485,9 @@
   "it": "\\rIbis: Sono così felice che Lylia e la sua famiglia siano di nuovo insieme."
  },
  {
-  "id": "\\bMarowak",
-  "en": "\\bMarowak",
-  "it": "\\bMarowak"
+  "id": "\\bMohn: Being here really brings me back. So much has changed.",
+  "en": "\\bMohn: Being here really brings me back. So much has changed.",
+  "it": "\\bMohn: Essere qui mi riporta indietro nel tempo. Sono cambiate tante cose."
  },
  {
   "id": "Yes",

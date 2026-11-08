@@ -1,5 +1,25 @@
 [
  {
+  "id": "\\rNo one passes here without battling me.",
+  "en": "\\rNo one passes here without battling me.",
+  "it": "\\rNessuno passa di qui senza lottare con me."
+ },
+ {
+  "id": "\\rKeep heading this way to get to Fuchsia City.",
+  "en": "\\rKeep heading this way to get to Fuchsia City.",
+  "it": "\\rContinua in questa direzione per arrivare a Fucsiapoli."
+ },
+ {
+  "id": "\\bGet out of my way!",
+  "en": "\\bGet out of my way!",
+  "it": "\\bLevati di mezzo!"
+ },
+ {
+  "id": "\\bI said move.",
+  "en": "\\bI said move.",
+  "it": "\\bHo detto spostati."
+ },
+ {
   "id": "\\bCool bike! Let me have it!",
   "en": "\\bCool bike! Let me have it!",
   "it": "\\bBella bici! Dammela!"
@@ -20,26 +40,6 @@
   "it": "\\bTi butto fuori a colpi di pancia!"
  },
  {
-  "id": "\\bI could go for a battle.",
-  "en": "\\bI could go for a battle.",
-  "it": "\\bMi farei volentieri una lotta."
- },
- {
-  "id": "\\bYou can find stuff on Cycling Road.",
-  "en": "\\bYou can find stuff on Cycling Road.",
-  "it": "\\bSulla Pista Ciclabile si trova un sacco di roba."
- },
- {
-  "id": "\\bGet out of my way!",
-  "en": "\\bGet out of my way!",
-  "it": "\\bLevati di mezzo!"
- },
- {
-  "id": "\\bI said move.",
-  "en": "\\bI said move.",
-  "it": "\\bHo detto spostati."
- },
- {
   "id": "\\bNo one passes here without battling me.",
   "en": "\\bNo one passes here without battling me.",
   "it": "\\bNessuno passa di qui senza lottare con me."
@@ -50,13 +50,13 @@
   "it": "\\bLotti bene, ragazzo."
  },
  {
-  "id": "\\rNo one passes here without battling me.",
-  "en": "\\rNo one passes here without battling me.",
-  "it": "\\rNessuno passa di qui senza lottare con me."
+  "id": "\\bI could go for a battle.",
+  "en": "\\bI could go for a battle.",
+  "it": "\\bMi farei volentieri una lotta."
  },
  {
-  "id": "\\rKeep heading this way to get to Fuchsia City.",
-  "en": "\\rKeep heading this way to get to Fuchsia City.",
-  "it": "\\rContinua in questa direzione per arrivare a Fucsiapoli."
+  "id": "\\bYou can find stuff on Cycling Road.",
+  "en": "\\bYou can find stuff on Cycling Road.",
+  "it": "\\bSulla Pista Ciclabile si trova un sacco di roba."
  }
 ]

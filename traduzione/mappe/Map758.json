@@ -75,6 +75,21 @@
   "it": "\\rTi sei già iscritto."
  },
  {
+  "id": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Vetress Conference? It might be too easy for you...",
+  "en": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Vetress Conference? It might be too easy for you...",
+  "it": "\\rOh, ma quello è il Monarca \\PN? Sei sicuro di volerti iscrivere alla Conferenza Vetress? Potrebbe essere troppo facile per te..."
+ },
+ {
+  "id": "\\rOk then... well, we haven't changed the format too much.",
+  "en": "\\rOk then... well, we haven't changed the format too much.",
+  "it": "\\rVa bene... allora, non abbiamo cambiato troppo il formato."
+ },
+ {
+  "id": "\\rYour first battle will be to the far left. Good luck! Though you probably won't need it...",
+  "en": "\\rYour first battle will be to the far left. Good luck! Though you probably won't need it...",
+  "it": "\\rIl tuo primo incontro sarà in fondo a sinistra. Buona fortuna! Anche se probabilmente non ti servirà..."
+ },
+ {
   "id": "\\rAxew...",
   "en": "\\rAxew...",
   "it": "\\rAxew..."
@@ -82,11 +97,6 @@
  {
   "id": "\\bThis is where the beginning rounds take place.",
   "en": "\\bThis is where the beginning rounds take place.",
-  "it": "\\bQui si svolgono i turni iniziali."
- },
- {
-  "id": "\\bThis is where the begining rounds take place.",
-  "en": "\\bThis is where the begining rounds take place.",
   "it": "\\bQui si svolgono i turni iniziali."
  },
  {

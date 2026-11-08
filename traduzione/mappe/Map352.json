@@ -8,5 +8,20 @@
   "id": "\\bCongratulations on making it the first Round Robin. \\nYour next battle will be the second Round Robin event.",
   "en": "\\bCongratulations on making it the first Round Robin. \\nYour next battle will be the second Round Robin event.",
   "it": "\\bCongratulazioni per aver superato il primo Girone. \\nLa tua prossima lotta sarà quella del secondo Girone."
+ },
+ {
+  "id": "\\rHey, you're that cute person from last time! You won't beat me again!",
+  "en": "\\rHey, you're that cute person from last time! You won't beat me again!",
+  "it": "\\rEhi, sei quel tipo carino dell'altra volta! Stavolta non mi batterai!"
+ },
+ {
+  "id": "\\rHaha! My Fire types are the best!",
+  "en": "\\rHaha! My Fire types are the best!",
+  "it": "\\rAhah! I miei tipi Fuoco sono i migliori!"
+ },
+ {
+  "id": "\\rNah, of course you'd win since it's you!",
+  "en": "\\rNah, of course you'd win since it's you!",
+  "it": "\\rMa dai, ovvio che vinci tu, sei tu!"
  }
 ]

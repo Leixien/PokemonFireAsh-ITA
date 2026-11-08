@@ -5,6 +5,11 @@
   "it": "\\rQuesta lezione è troppo divertente!"
  },
  {
+  "id": "\\bI wanna go outside and play.",
+  "en": "\\bI wanna go outside and play.",
+  "it": "\\bVoglio andare fuori a giocare."
+ },
+ {
   "id": "\\rBe sure to listen to the rules.",
   "en": "\\rBe sure to listen to the rules.",
   "it": "\\rMi raccomando, rispetta le regole."
@@ -15,19 +20,9 @@
   "it": "\\rForse certe regole vanno infrante."
  },
  {
-  "id": "\\bI wanna go outside and play.",
-  "en": "\\bI wanna go outside and play.",
-  "it": "\\bVoglio andare fuori a giocare."
- },
- {
   "id": "\\bI've learned so much in here.",
   "en": "\\bI've learned so much in here.",
   "it": "\\bHo imparato tantissimo qui dentro."
- },
- {
-  "id": "\\rMaybe I should stop messing around.",
-  "en": "\\rMaybe I should stop messing around.",
-  "it": "\\rForse dovrei smetterla di fare la stupida."
  },
  {
   "id": "Choose a status option.",
@@ -68,6 +63,11 @@
   "id": "Poison lingers after battles. Use an Antidote to cure poison!",
   "en": "Poison lingers after battles. Use an Antidote to cure poison!",
   "it": "L'avvelenamento persiste dopo la lotta. Usa un Antidoto per curarlo!"
+ },
+ {
+  "id": "\\rMaybe I should stop messing around.",
+  "en": "\\rMaybe I should stop messing around.",
+  "it": "\\rForse dovrei smetterla di fare la stupida."
  },
  {
   "id": "Paralysis reduces speed and may prevent the Pokémon from moving.",

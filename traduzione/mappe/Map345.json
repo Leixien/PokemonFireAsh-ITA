@@ -5,6 +5,11 @@
   "it": "\\bNon credo proprio."
  },
  {
+  "id": "\\bSomeone needs to stop this.",
+  "en": "\\bSomeone needs to stop this.",
+  "it": "\\bQualcuno deve fermare tutto questo."
+ },
+ {
   "id": "\\rYou again? I hate to admit it, but this operation has become a failure. Matori Matrix, retreat!",
   "en": "\\rYou again? I hate to admit it, but this operation has become a failure. Matori Matrix, retreat!",
   "it": "\\rAncora tu? Odio ammetterlo, ma questa operazione si è rivelata un fallimento. Matori Matrix, ritirata!"
@@ -25,9 +30,9 @@
   "it": "\\bL'ho catturato e l'ho portato al laboratorio. Ti aspetto lì."
  },
  {
-  "id": "\\bSomeone needs to stop this.",
-  "en": "\\bSomeone needs to stop this.",
-  "it": "\\bQualcuno deve fermare tutto questo."
+  "id": "Resort Area\\nRelax & Play!",
+  "en": "Resort Area\\nRelax & Play!",
+  "it": "Area Svago\\nRelax e divertimento!"
  },
  {
   "id": "\\bStay out of our way.",
@@ -38,11 +43,6 @@
   "id": "\\bThe boss won't like this.",
   "en": "\\bThe boss won't like this.",
   "it": "\\bAl capo questo non piacerà."
- },
- {
-  "id": "Resort Area\\nRelax & Play!",
-  "en": "Resort Area\\nRelax & Play!",
-  "it": "Area Svago\\nRelax e divertimento!"
  },
  {
   "id": "\\bI grow berries here in my spare time. They're my pride and joy.",
@@ -90,16 +90,6 @@
   "it": "\\bMagi"
  },
  {
-  "id": "\\bGet out of here.",
-  "en": "\\bGet out of here.",
-  "it": "\\bVattene da qui."
- },
- {
-  "id": "\\b...",
-  "en": "\\b...",
-  "it": "\\b..."
- },
- {
   "id": "\\rYou look tired. Why don't you take a rest.",
   "en": "\\rYou look tired. Why don't you take a rest.",
   "it": "\\rSembri stanco. Perché non ti riposi un po'?"
@@ -108,5 +98,15 @@
   "id": "\\rOh, not in here. You should take a rest in the mansion. It has lovely accommodations.",
   "en": "\\rOh, not in here. You should take a rest in the mansion. It has lovely accommodations.",
   "it": "\\rOh, non qui. Dovresti riposarti nella villa. Ha delle sistemazioni deliziose."
+ },
+ {
+  "id": "\\bGet out of here.",
+  "en": "\\bGet out of here.",
+  "it": "\\bVattene da qui."
+ },
+ {
+  "id": "\\b...",
+  "en": "\\b...",
+  "it": "\\b..."
  }
 ]

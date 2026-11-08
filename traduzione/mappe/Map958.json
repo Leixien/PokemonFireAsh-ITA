@@ -1,18 +1,13 @@
 [
  {
-  "id": "\\rMom: \\PN, I'm so proud of you.",
-  "en": "\\rMom: \\PN, I'm so proud of you.",
-  "it": "\\rMamma: \\PN, sono così fiera di te."
+  "id": "\\rBlissey",
+  "en": "\\rBlissey",
+  "it": "\\rBlissey"
  },
  {
-  "id": "\\bKukui: Thank you, \\PN. You've made this league better than I could have hoped. I can't wait to see what you'll do next.",
-  "en": "\\bKukui: Thank you, \\PN. You've made this league better than I could have hoped. I can't wait to see what you'll do next.",
-  "it": "\\bKukui: Grazie, \\PN. Hai reso questa Lega migliore di quanto potessi sperare. Non vedo l'ora di vedere cosa farai adesso."
- },
- {
-  "id": "\\bBut we can worry about that later. Let's head home for now.",
-  "en": "\\bBut we can worry about that later. Let's head home for now.",
-  "it": "\\bMa a quello possiamo pensarci dopo. Per ora torniamo a casa."
+  "id": "\\rVulpix",
+  "en": "\\rVulpix",
+  "it": "\\rVulpix"
  },
  {
   "id": "\\bWhat if I lose? I spend so much time not preparing.",
@@ -25,24 +20,19 @@
   "it": "\\bAlla fine ho perso. Peccato."
  },
  {
-  "id": "\\rVulpix",
-  "en": "\\rVulpix",
-  "it": "\\rVulpix"
+  "id": "\\bKukui: Thank you, \\PN. You've made this league better than I could have hoped. I can't wait to see what you'll do next.",
+  "en": "\\bKukui: Thank you, \\PN. You've made this league better than I could have hoped. I can't wait to see what you'll do next.",
+  "it": "\\bKukui: Grazie, \\PN. Hai reso questa Lega migliore di quanto potessi sperare. Non vedo l'ora di vedere cosa farai adesso."
  },
  {
-  "id": "\\rBlissey",
-  "en": "\\rBlissey",
-  "it": "\\rBlissey"
+  "id": "\\bBut we can worry about that later. Let's head home for now.",
+  "en": "\\bBut we can worry about that later. Let's head home for now.",
+  "it": "\\bMa a quello possiamo pensarci dopo. Per ora torniamo a casa."
  },
  {
-  "id": "\\bMr. Mime",
-  "en": "\\bMr. Mime",
-  "it": "\\bMr. Mime"
- },
- {
-  "id": "\\bHala: I'm one of the referees. Good luck to you.",
-  "en": "\\bHala: I'm one of the referees. Good luck to you.",
-  "it": "\\bHala: Sono uno degli arbitri. Buona fortuna."
+  "id": "\\rMom: \\PN, I'm so proud of you.",
+  "en": "\\rMom: \\PN, I'm so proud of you.",
+  "it": "\\rMamma: \\PN, sono così fiera di te."
  },
  {
   "id": "\\bThis is where the Finals take place.",
@@ -65,9 +55,29 @@
   "it": "\\bAh, Campione \\PN. Sei pronto per la tua lotta di esibizione?"
  },
  {
-  "id": "\\bOak: Excellent job. I knew giving you Pikachu was a good idea.",
-  "en": "\\bOak: Excellent job. I knew giving you Pikachu was a good idea.",
-  "it": "\\bOak: Ottimo lavoro. Sapevo che darti Pikachu era una buona idea."
+  "id": "\\bThis is where the Semi Finals and Finals take place.",
+  "en": "\\bThis is where the Semi Finals and Finals take place.",
+  "it": "\\bQui si svolgono le Semifinali e la Finale."
+ },
+ {
+  "id": "\\bThis is where the Semi Finals and Finals take place. Are you ready?",
+  "en": "\\bThis is where the Semi Finals and Finals take place. Are you ready?",
+  "it": "\\bQui si svolgono le semifinali e la Finale. Sei pronto?"
+ },
+ {
+  "id": "\\bHala: I'm one of the referees. Good luck to you.",
+  "en": "\\bHala: I'm one of the referees. Good luck to you.",
+  "it": "\\bHala: Sono uno degli arbitri. Buona fortuna."
+ },
+ {
+  "id": "\\bMr. Mime",
+  "en": "\\bMr. Mime",
+  "it": "\\bMr. Mime"
+ },
+ {
+  "id": "\\rPrimarina",
+  "en": "\\rPrimarina",
+  "it": "\\rPrimarina"
  },
  {
   "id": "\\bGladion: So, you made it, \\PN? Good. I was afraid this was going to be too easy.",
@@ -95,9 +105,39 @@
   "it": "\\bIridio: Siamo io e te. Senza esclusione di colpi."
  },
  {
-  "id": "\\rPrimarina",
-  "en": "\\rPrimarina",
-  "it": "\\rPrimarina"
+  "id": "\\bOak: Excellent job. I knew giving you Pikachu was a good idea.",
+  "en": "\\bOak: Excellent job. I knew giving you Pikachu was a good idea.",
+  "it": "\\bOak: Ottimo lavoro. Sapevo che darti Pikachu era una buona idea."
+ },
+ {
+  "id": "\\bSophocles: There's so much to consider. What should I do?",
+  "en": "\\bSophocles: There's so much to consider. What should I do?",
+  "it": "\\bChrys: Ci sono così tante cose da considerare. Cosa dovrei fare?"
+ },
+ {
+  "id": "\\bSophocles: This is when it gets really exciting.",
+  "en": "\\bSophocles: This is when it gets really exciting.",
+  "it": "\\bChrys: È adesso che si fa davvero emozionante."
+ },
+ {
+  "id": "\\bSophocles: I have a foolproof plan.",
+  "en": "\\bSophocles: I have a foolproof plan.",
+  "it": "\\bChrys: Ho un piano infallibile."
+ },
+ {
+  "id": "\\bSophocles: Kiawe is good. It was a close call and he barely won.",
+  "en": "\\bSophocles: Kiawe is good. It was a close call and he barely won.",
+  "it": "\\bChrys: Kiawe è forte. È stata dura e ha vinto per un pelo."
+ },
+ {
+  "id": "\\bSophocles: You're so close. Keep pushing.",
+  "en": "\\bSophocles: You're so close. Keep pushing.",
+  "it": "\\bChrys: Sei vicinissimo. Continua così."
+ },
+ {
+  "id": "\\bNanu: I got dragged into this. Still, maybe it will be worth a watch.",
+  "en": "\\bNanu: I got dragged into this. Still, maybe it will be worth a watch.",
+  "it": "\\bNanu: Mi ci hanno trascinato. Comunque, forse varrà la pena guardare."
  },
  {
   "id": "\\bOak: I see we made it. Your mother and I are here to watch you win. Also, I was hoping to see a rare Pokémon spotted in this region.",
@@ -125,34 +165,9 @@
   "it": "\\bOak: Vedo che ci siamo arrivati. Tua madre e io siamo qui per vederti vincere."
  },
  {
-  "id": "\\bNanu: I got dragged into this. Still, maybe it will be worth a watch.",
-  "en": "\\bNanu: I got dragged into this. Still, maybe it will be worth a watch.",
-  "it": "\\bNanu: Mi ci hanno trascinato. Comunque, forse varrà la pena guardare."
- },
- {
-  "id": "\\bSophocles: There's so much to consider. What should I do?",
-  "en": "\\bSophocles: There's so much to consider. What should I do?",
-  "it": "\\bChrys: Ci sono così tante cose da considerare. Cosa dovrei fare?"
- },
- {
-  "id": "\\bSophocles: This is when it gets really exciting.",
-  "en": "\\bSophocles: This is when it gets really exciting.",
-  "it": "\\bChrys: È adesso che si fa davvero emozionante."
- },
- {
-  "id": "\\bSophocles: I have a fullproof plan.",
-  "en": "\\bSophocles: I have a fullproof plan.",
-  "it": "\\bChrys: Ho un piano infallibile."
- },
- {
-  "id": "\\bSophocles: Kiawe is good. It was a close call and he barely won.",
-  "en": "\\bSophocles: Kiawe is good. It was a close call and he barely won.",
-  "it": "\\bChrys: Kiawe è forte. È stata dura e ha vinto per un pelo."
- },
- {
-  "id": "\\bSophocles: You're so close. Keep pushing.",
-  "en": "\\bSophocles: You're so close. Keep pushing.",
-  "it": "\\bChrys: Sei vicinissimo. Continua così."
+  "id": "\\rOlivia: I'm a referee. I hope to see you advance.",
+  "en": "\\rOlivia: I'm a referee. I hope to see you advance.",
+  "it": "\\rOlivia: Sono un arbitro. Spero di vederti avanzare."
  },
  {
   "id": "\\rAcerola: Ah, you're here too. Should have guessed.",
@@ -175,34 +190,9 @@
   "it": "\\rAcerola: Sono carichissima per la tua lotta."
  },
  {
-  "id": "\\rOlivia: I'm a referee. I hope to see you advance.",
-  "en": "\\rOlivia: I'm a referee. I hope to see you advance.",
-  "it": "\\rOlivia: Sono un arbitro. Spero di vederti avanzare."
- },
- {
-  "id": "\\rLana: I bet the first round will be tough.",
-  "en": "\\rLana: I bet the first round will be tough.",
-  "it": "\\rSuiren: Scommetto che il primo turno sarà difficile."
- },
- {
-  "id": "\\rLana: The Top 16. I did it!",
-  "en": "\\rLana: The Top 16. I did it!",
-  "it": "\\rSuiren: La Top 16. Ce l'ho fatta!"
- },
- {
-  "id": "\\rLana: Guzma looks scary. I hope I beat him.",
-  "en": "\\rLana: Guzma looks scary. I hope I beat him.",
-  "it": "\\rSuiren: Guzman fa paura. Spero di batterlo."
- },
- {
-  "id": "\\rLana: Guzma beat me easily. Get revenge for me.",
-  "en": "\\rLana: Guzma beat me easily. Get revenge for me.",
-  "it": "\\rSuiren: Guzman mi ha battuta facilmente. Vendicami."
- },
- {
-  "id": "\\rLana: A battle between you and Gladion. Sounds exciting.",
-  "en": "\\rLana: A battle between you and Gladion. Sounds exciting.",
-  "it": "\\rSuiren: Una lotta tra te e Iridio. Sembra emozionante."
+  "id": "\\rComfey",
+  "en": "\\rComfey",
+  "it": "\\rComfey"
  },
  {
   "id": "\\rHello. Here you can register for the Manalo Conference.",
@@ -235,24 +225,74 @@
   "it": "\\rTi sei già iscritto."
  },
  {
-  "id": "\\rComfey",
-  "en": "\\rComfey",
-  "it": "\\rComfey"
+  "id": "\\rOh my, is that Alola's Champion and World Monarch \\PN? Are you sure you want to register for the Manalo Conference? It might be too easy for you...",
+  "en": "\\rOh my, is that Alola's Champion and World Monarch \\PN? Are you sure you want to register for the Manalo Conference? It might be too easy for you...",
+  "it": "\\rOh, ma quello è \\PN, Campione di Alola e Monarca Mondiale? Vuoi davvero iscriverti alla Conferenza Manalo? Potrebbe essere fin troppo facile per te..."
  },
  {
-  "id": "\\bSamson: Surprised to see me? Your principal isn't going to sit back and miss this.",
-  "en": "\\bSamson: Surprised to see me? Your principal isn't going to sit back and miss this.",
-  "it": "\\bSamson: Sorpreso di vedermi? Il tuo preside non se ne starà certo con le mani in mano a perdersi tutto questo."
+  "id": "\\rOk then... well, we've changed the format a little bit, being that the Battle Royale ends when there's 32 contestants left, instead of 16.",
+  "en": "\\rOk then... well, we've changed the format a little bit, being that the Battle Royale ends when there's 32 contestants left, instead of 16.",
+  "it": "\\rBene allora... abbiamo cambiato un po' il formato: il Battle Royal termina quando restano 32 concorrenti, invece di 16."
  },
  {
-  "id": "\\bSamson: Haha, if only Sam could see me.",
-  "en": "\\bSamson: Haha, if only Sam could see me.",
-  "it": "\\bSamson: Ahah, se solo Sam potesse vedermi."
+  "id": "\\rFor you specifically, you also have to battle 4 trainers, including one of your classmates, in order to move on. Don't ask me why, I have no idea either.",
+  "en": "\\rFor you specifically, you also have to battle 4 trainers, including one of your classmates, in order to move on. Don't ask me why, I have no idea either.",
+  "it": "\\rPer te in particolare, per passare il turno dovrai anche sfidare 4 Allenatori, tra cui uno dei tuoi compagni di classe. Non chiedermi perché, non ne ho idea nemmeno io."
  },
  {
-  "id": "\\bSamson: Top 16 isn't too bad.",
-  "en": "\\bSamson: Top 16 isn't too bad.",
-  "it": "\\bSamson: La Top 16 non è niente male."
+  "id": "\\rGood luck! Though you probably won't need it...",
+  "en": "\\rGood luck! Though you probably won't need it...",
+  "it": "\\rBuona fortuna! Anche se probabilmente non ti servirà..."
+ },
+ {
+  "id": "\\rLana: I bet the first round will be tough.",
+  "en": "\\rLana: I bet the first round will be tough.",
+  "it": "\\rSuiren: Scommetto che il primo turno sarà difficile."
+ },
+ {
+  "id": "\\rLana: The Top 16. I did it!",
+  "en": "\\rLana: The Top 16. I did it!",
+  "it": "\\rSuiren: La Top 16. Ce l'ho fatta!"
+ },
+ {
+  "id": "\\rLana: Guzma looks scary. I hope I beat him.",
+  "en": "\\rLana: Guzma looks scary. I hope I beat him.",
+  "it": "\\rSuiren: Guzman fa paura. Spero di batterlo."
+ },
+ {
+  "id": "\\rLana: Guzma beat me easily. Get revenge for me.",
+  "en": "\\rLana: Guzma beat me easily. Get revenge for me.",
+  "it": "\\rSuiren: Guzman mi ha battuta facilmente. Vendicami."
+ },
+ {
+  "id": "\\rLana: A battle between you and Gladion. Sounds exciting.",
+  "en": "\\rLana: A battle between you and Gladion. Sounds exciting.",
+  "it": "\\rSuiren: Una lotta tra te e Iridio. Sembra emozionante."
+ },
+ {
+  "id": "\\bThis is where the Battle Royale takes place.",
+  "en": "\\bThis is where the Battle Royale takes place.",
+  "it": "\\bÈ qui che si svolge la Battaglia Reale."
+ },
+ {
+  "id": "\\bThis is where the beginning rounds take place.",
+  "en": "\\bThis is where the beginning rounds take place.",
+  "it": "\\bQui si svolgono i turni iniziali."
+ },
+ {
+  "id": "\\bAre you ready?",
+  "en": "\\bAre you ready?",
+  "it": "\\bSei pronto?"
+ },
+ {
+  "id": "\\bRight this way.",
+  "en": "\\bRight this way.",
+  "it": "\\bDa questa parte, prego."
+ },
+ {
+  "id": "\\bVery well.",
+  "en": "\\bVery well.",
+  "it": "\\bMolto bene."
  },
  {
   "id": "\\bKukui: Excited? I am! The first round is a Battle Royale. Be one of the last 16 standing to move on.",
@@ -285,34 +325,19 @@
   "it": "\\bKukui: Tu o Iridio? Chi sarà il primo Campione?"
  },
  {
-  "id": "\\bThis is where the Battle Royale takes place.",
-  "en": "\\bThis is where the Battle Royale takes place.",
-  "it": "\\bÈ qui che si svolge la Battaglia Reale."
+  "id": "\\bSamson: Surprised to see me? Your principal isn't going to sit back and miss this.",
+  "en": "\\bSamson: Surprised to see me? Your principal isn't going to sit back and miss this.",
+  "it": "\\bSamson: Sorpreso di vedermi? Il tuo preside non se ne starà certo con le mani in mano a perdersi tutto questo."
  },
  {
-  "id": "\\bThis is where the beginning rounds take place.",
-  "en": "\\bThis is where the beginning rounds take place.",
-  "it": "\\bQui si svolgono i turni iniziali."
+  "id": "\\bSamson: Haha, if only Sam could see me.",
+  "en": "\\bSamson: Haha, if only Sam could see me.",
+  "it": "\\bSamson: Ahah, se solo Sam potesse vedermi."
  },
  {
-  "id": "\\bAre you ready?",
-  "en": "\\bAre you ready?",
-  "it": "\\bSei pronto?"
- },
- {
-  "id": "\\bRight this way.",
-  "en": "\\bRight this way.",
-  "it": "\\bDa questa parte, prego."
- },
- {
-  "id": "\\bVery well.",
-  "en": "\\bVery well.",
-  "it": "\\bMolto bene."
- },
- {
-  "id": "\\rHapu: It's a good thing I'm not competing. You'd be in trouble.",
-  "en": "\\rHapu: It's a good thing I'm not competing. You'd be in trouble.",
-  "it": "\\rHapu: Meno male che io non partecipo. Saresti nei guai."
+  "id": "\\bSamson: Top 16 isn't too bad.",
+  "en": "\\bSamson: Top 16 isn't too bad.",
+  "it": "\\bSamson: La Top 16 non è niente male."
  },
  {
   "id": "\\rLillie: I hope I make it through the first round. I hope you do too!",
@@ -340,6 +365,36 @@
   "it": "\\rLylia: Farò il tifo sia per te che per mio fratello."
  },
  {
+  "id": "\\rHapu: It's a good thing I'm not competing. You'd be in trouble.",
+  "en": "\\rHapu: It's a good thing I'm not competing. You'd be in trouble.",
+  "it": "\\rHapu: Meno male che io non partecipo. Saresti nei guai."
+ },
+ {
+  "id": "\\bThis is where the Top 16 battle.",
+  "en": "\\bThis is where the Top 16 battle.",
+  "it": "\\bQui si sfidano i Top 16."
+ },
+ {
+  "id": "\\bThis is where the Top 16 fight? Are you ready?",
+  "en": "\\bThis is where the Top 16 fight? Are you ready?",
+  "it": "\\bQui si sfidano i Top 16? Sei pronto?"
+ },
+ {
+  "id": "\\bThis is where the Top 32 battle.",
+  "en": "\\bThis is where the Top 32 battle.",
+  "it": "\\bQui lottano i migliori 32."
+ },
+ {
+  "id": "\\bThis is where the Top 32 fight? Are you ready?",
+  "en": "\\bThis is where the Top 32 fight? Are you ready?",
+  "it": "\\bQui lottano i migliori 32. Sei pronto?"
+ },
+ {
+  "id": "Staryu",
+  "en": "Staryu",
+  "it": "Staryu"
+ },
+ {
   "id": "\\rLusamine: \\PN, I wish you luck. Though I'm rooting for my children as well.",
   "en": "\\rLusamine: \\PN, I wish you luck. Though I'm rooting for my children as well.",
   "it": "\\rSamina: \\PN, ti auguro buona fortuna. Anche se faccio il tifo pure per i miei figli."
@@ -360,19 +415,24 @@
   "it": "\\rSamina: \\PN, è terribile. Si sono aperti diversi Ultravarchi e lo stadio è sotto attacco. Dobbiamo evacuare tutti."
  },
  {
-  "id": "Staryu",
-  "en": "Staryu",
-  "it": "Staryu"
+  "id": "\\rTogedemaru",
+  "en": "\\rTogedemaru",
+  "it": "\\rTogedemaru"
  },
  {
-  "id": "\\bThis is where the Top 16 battle.",
-  "en": "\\bThis is where the Top 16 battle.",
-  "it": "\\bQui si sfidano i Top 16."
+  "id": "\\rThere's no way I'm losing.",
+  "en": "\\rThere's no way I'm losing.",
+  "it": "\\rNon esiste che io perda."
  },
  {
-  "id": "\\bThis is where the Top 16 fight? Are you ready?",
-  "en": "\\bThis is where the Top 16 fight? Are you ready?",
-  "it": "\\bQui si sfidano i Top 16? Sei pronto?"
+  "id": "\\rI'm happy for you on your victory.",
+  "en": "\\rI'm happy for you on your victory.",
+  "it": "\\rSono felice per la tua vittoria."
+ },
+ {
+  "id": "\\bFaba: We'll take care of monitoring the Ultra Wormholes. You take care of the Guzzlord.",
+  "en": "\\bFaba: We'll take care of monitoring the Ultra Wormholes. You take care of the Guzzlord.",
+  "it": "\\bVicio: Al monitoraggio degli Ultravarchi pensiamo noi. Tu occupati di Guzzlord."
  },
  {
   "id": "\\rHello, and welcome to the Pokémon Center.",
@@ -440,29 +500,14 @@
   "it": "\\rSpero che tu abbia successo!"
  },
  {
-  "id": "\\bFaba: We'll take care of monitoring the Ultra Wormholes. You take care of the Guzzlord.",
-  "en": "\\bFaba: We'll take care of monitoring the Ultra Wormholes. You take care of the Guzzlord.",
-  "it": "\\bVicio: Al monitoraggio degli Ultravarchi pensiamo noi. Tu occupati di Guzzlord."
+  "id": "\\bThis is where the Top 8 battle.",
+  "en": "\\bThis is where the Top 8 battle.",
+  "it": "\\bQui si sfidano i Top 8."
  },
  {
-  "id": "\\rThere's no way I'm losing.",
-  "en": "\\rThere's no way I'm losing.",
-  "it": "\\rNon esiste che io perda."
- },
- {
-  "id": "\\rI'm happy for you on your victory.",
-  "en": "\\rI'm happy for you on your victory.",
-  "it": "\\rSono felice per la tua vittoria."
- },
- {
-  "id": "\\rTogedemaru",
-  "en": "\\rTogedemaru",
-  "it": "\\rTogedemaru"
- },
- {
-  "id": "\\rMom: \\PN, we made it just in time! Mimey and I are here to support you.",
-  "en": "\\rMom: \\PN, we made it just in time! Mimey and I are here to support you.",
-  "it": "\\rMamma: \\PN, siamo arrivati giusto in tempo! Mimey e io siamo qui a sostenerti."
+  "id": "\\bThis is where the Top 8 fight? Are you ready?",
+  "en": "\\bThis is where the Top 8 fight? Are you ready?",
+  "it": "\\bQui si sfidano i Top 8? Sei pronto?"
  },
  {
   "id": "\\bThis is where the Semi Finals take place.",
@@ -475,14 +520,9 @@
   "it": "\\bÈ qui che si svolgono le semifinali? Sei pronto?"
  },
  {
-  "id": "\\bThis is where the Top 8 battle.",
-  "en": "\\bThis is where the Top 8 battle.",
-  "it": "\\bQui si sfidano i Top 8."
- },
- {
-  "id": "\\bThis is where the Top 8 fight? Are you ready?",
-  "en": "\\bThis is where the Top 8 fight? Are you ready?",
-  "it": "\\bQui si sfidano i Top 8? Sei pronto?"
+  "id": "\\rMom: \\PN, we made it just in time! Mimey and I are here to support you.",
+  "en": "\\rMom: \\PN, we made it just in time! Mimey and I are here to support you.",
+  "it": "\\rMamma: \\PN, siamo arrivati giusto in tempo! Mimey e io siamo qui a sostenerti."
  },
  {
   "id": "Yes",

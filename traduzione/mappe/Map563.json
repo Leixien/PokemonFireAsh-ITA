@@ -1,8 +1,8 @@
 [
  {
-  "id": "\\rMantyke",
-  "en": "\\rMantyke",
-  "it": "\\rMantyke"
+  "id": "Pokémon News Press",
+  "en": "Pokémon News Press",
+  "it": "Redazione Notizie Pokémon"
  },
  {
   "id": "Solaceon Pokémon Contest Hall",
@@ -10,19 +10,19 @@
   "it": "Sala Gare Pokémon di Flemminia"
  },
  {
-  "id": "Pokémon News Press",
-  "en": "Pokémon News Press",
-  "it": "Redazione Notizie Pokémon"
- },
- {
-  "id": "\\bStantler",
-  "en": "\\bStantler",
-  "it": "\\bStantler"
+  "id": "\\rMantyke",
+  "en": "\\rMantyke",
+  "it": "\\rMantyke"
  },
  {
   "id": "Solaceon Town\\nFree of Worry!",
   "en": "Solaceon Town\\nFree of Worry!",
   "it": "Flemminia\\nLibera da ogni pensiero!"
+ },
+ {
+  "id": "\\bStantler",
+  "en": "\\bStantler",
+  "it": "\\bStantler"
  },
  {
   "id": "\\bExcuse me.",
@@ -43,11 +43,6 @@
   "id": "\\bWe appreciate your help for protecting the ruins.",
   "en": "\\bWe appreciate your help for protecting the ruins.",
   "it": "\\bTi siamo grati per aver protetto le rovine."
- },
- {
-  "id": "\\rSpinda",
-  "en": "\\rSpinda",
-  "it": "\\rSpinda"
  },
  {
   "id": "\\bAh, it's you!",
@@ -160,6 +155,11 @@
   "it": "\\bQuei due sembrano andare molto d'accordo."
  },
  {
+  "id": "\\rSpinda",
+  "en": "\\rSpinda",
+  "it": "\\rSpinda"
+ },
+ {
   "id": "\\bI'm looking for a Raichu.",
   "en": "\\bI'm looking for a Raichu.",
   "it": "\\bSto cercando un Raichu."
@@ -210,6 +210,11 @@
   "it": "\\rUn tempo qui non c'era altro che una strada, ma persone e Pokémon si sono riuniti ed è nata una città."
  },
  {
+  "id": "\\bWe tend to stay away from the Ruins. Be careful if you go there.",
+  "en": "\\bWe tend to stay away from the Ruins. Be careful if you go there.",
+  "it": "\\bDi solito stiamo alla larga dalle Rovine. Fai attenzione se ci vai."
+ },
+ {
   "id": "\\bDon't you just hate how long it takes for Eggs to show up? Well now you don't have to!",
   "en": "\\bDon't you just hate how long it takes for Eggs to show up? Well now you don't have to!",
   "it": "\\bNon odi anche tu quanto ci mettono a comparire le Uova? Beh, adesso non dovrai più aspettare!"
@@ -220,24 +225,19 @@
   "it": "\\bQuello è un Ovamuleto. Aumenta le probabilità di trovare un Uovo."
  },
  {
-  "id": "\\bWe tend to stay away from the Ruins. Be careful if you go there.",
-  "en": "\\bWe tend to stay away from the Ruins. Be careful if you go there.",
-  "it": "\\bDi solito stiamo alla larga dalle Rovine. Fai attenzione se ci vai."
- },
- {
   "id": "\\rJust how long do I need to leave my Pokémon in the Day Care for them to be strong?",
   "en": "\\rJust how long do I need to leave my Pokémon in the Day Care for them to be strong?",
   "it": "\\rMa quanto devo lasciare i miei Pokémon alla Pensione perché diventino forti?"
  },
  {
-  "id": "\\bHitmonchan",
-  "en": "\\bHitmonchan",
-  "it": "\\bHitmonchan"
- },
- {
   "id": "\\rOh I just love writing about the Contests. Especially this one since it is so close to the news press.",
   "en": "\\rOh I just love writing about the Contests. Especially this one since it is so close to the news press. ",
   "it": "\\rOh, adoro scrivere delle Gare. Soprattutto di questa, visto che è così vicina alla redazione. "
+ },
+ {
+  "id": "\\bHitmonchan",
+  "en": "\\bHitmonchan",
+  "it": "\\bHitmonchan"
  },
  {
   "id": "\\bRaising a Pokémon is too much work. I'm glad the Day Care is here.",

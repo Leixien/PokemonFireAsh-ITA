@@ -45,6 +45,11 @@
   "it": "\\bHo sentito che si sta allenando al Lago Valore. Chissà perché?"
  },
  {
+  "id": "\\bAbra",
+  "en": "\\bAbra",
+  "it": "\\bAbra"
+ },
+ {
   "id": "\\bAre you \\PN? A boy named Barry told me to send you to Twinleaf Town if you came by.",
   "en": "\\bAre you \\PN? A boy named Barry told me to send you to Twinleaf Town if you came by.",
   "it": "\\bSei tu \\PN? Un ragazzo di nome Barry mi ha detto di mandarti a Duefoglie se fossi passato di qui."
@@ -58,6 +63,16 @@
   "id": "Come heal your Pokémon inside!",
   "en": "Come heal your Pokémon inside!",
   "it": "Entra a curare i tuoi Pokémon!"
+ },
+ {
+  "id": "\\bHello there. Want my Abra to take you somewhere?",
+  "en": "\\bHello there. Want my Abra to take you somewhere?",
+  "it": "\\bSalve. Vuoi che il mio Abra ti porti da qualche parte?"
+ },
+ {
+  "id": "\\bIf you ever feel like it.",
+  "en": "\\bIf you ever feel like it.",
+  "it": "\\bQuando ne hai voglia."
  },
  {
   "id": "\\bIt's said that some Pokémon evolve from this, but I can't figure it out. You take it.",
@@ -148,5 +163,25 @@
   "id": "\\rI want to go swimming,",
   "en": "\\rI want to go swimming,",
   "it": "\\rVoglio andare a nuotare,"
+ },
+ {
+  "id": "Twinleaf",
+  "en": "Twinleaf",
+  "it": "Duefoglie"
+ },
+ {
+  "id": "Veilstone",
+  "en": "Veilstone",
+  "it": "Rupepoli"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Celestic",
+  "en": "Celestic",
+  "it": "Memoride"
  }
 ]

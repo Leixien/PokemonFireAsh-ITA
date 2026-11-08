@@ -40,26 +40,6 @@
   "it": "\\bE adesso che faccio?"
  },
  {
-  "id": "\\rHi there. Would you like to enter in our annual PokéRinger? It's a competition where only Flying types can enter. \\ch[1,-1,Yes,No]",
-  "en": "\\rHi there. Would you like to enter in our annual PokéRinger? It's a competition where only Flying types can enter. \\ch[1,-1,Yes,No]",
-  "it": "\\rCiao. Vuoi partecipare al nostro PokéRinger annuale? È una competizione aperta solo ai Pokémon di tipo Volante. \\ch[1,-1,Sì,No]"
- },
- {
-  "id": "\\rHave a nice day.",
-  "en": "\\rHave a nice day.",
-  "it": "\\rBuona giornata."
- },
- {
-  "id": "\\rOh... you don't have a Flying type Pokémon on your team. Come back when you do.",
-  "en": "\\rOh... you don't have a Flying type Pokémon on your team. Come back when you do.",
-  "it": "\\rOh... non hai Pokémon di tipo Volante in squadra. Torna quando ne avrai uno."
- },
- {
-  "id": "\\rHala gives everyone a chance to try the trial. All you need is spunk.",
-  "en": "\\rHala gives everyone a chance to try the trial. All you need is spunk.",
-  "it": "\\rHala dà a tutti la possibilità di tentare la prova. Basta avere grinta."
- },
- {
   "id": "\\bWhy did the Wailmer cross the road?",
   "en": "\\bWhy did the Wailmer cross the road?",
   "it": "\\bPerché il Wailmer ha attraversato la strada?"

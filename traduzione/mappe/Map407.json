@@ -25,11 +25,6 @@
   "it": "\\rDoduo!"
  },
  {
-  "id": "\\rI'm very sorry, but you missed the deadline to compete.",
-  "en": "\\rI'm very sorry, but you missed the deadline to compete.",
-  "it": "\\rMi dispiace molto, ma il termine per le iscrizioni è scaduto."
- },
- {
   "id": "\\bAfter spending years in this town I decided to help out and teach the move, Pain Split.",
   "en": "\\bAfter spending years in this town I decided to help out and teach the move, Pain Split.",
   "it": "\\bDopo aver passato anni in questa città, ho deciso di rendermi utile insegnando la mossa Malcomune."
@@ -48,6 +43,11 @@
   "id": "\\bCome back anytime!",
   "en": "\\bCome back anytime!",
   "it": "\\bTorna quando vuoi!"
+ },
+ {
+  "id": "\\rI'm very sorry, but you missed the deadline to compete.",
+  "en": "\\rI'm very sorry, but you missed the deadline to compete.",
+  "it": "\\rMi dispiace molto, ma il termine per le iscrizioni è scaduto."
  },
  {
   "id": "\\rJessie: What do you mean I lost the contest?!?! Didn't you see how marvelous my Pokémon were?",

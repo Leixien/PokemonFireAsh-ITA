@@ -20,9 +20,9 @@
   "it": "\\bMi serve più allenamento."
  },
  {
-  "id": "\\bOlympia uses Psychic type Pokémon. They are weak aganst the Bug, Ghost, and Dark types.",
-  "en": "\\bOlympia uses Psychic type Pokémon. They are weak aganst the Bug, Ghost, and Dark types.",
-  "it": "\\bAstra usa Pokémon di tipo Psico. Sono deboli contro i tipi Coleottero, Spettro e Buio."
+  "id": "\\bOlympia uses Psychic type Pokémon. They are weak against the Bug, Ghost, and Dark types.",
+  "en": "\\bOlympia uses Psychic type Pokémon. They are weak against the Bug, Ghost, and Dark types.",
+  "it": "\\bOlympia usa Pokémon di tipo Psico. Sono deboli contro i tipi Coleottero, Spettro e Buio."
  },
  {
   "id": "\\bThey are strong against Fighting and Poison. Psychic and Fighting moves also don't do much damage.",

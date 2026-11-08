@@ -2736,8 +2736,8 @@
  },
  {
   "id": 548,
-  "en": "The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.",
-  "it": "Il Pokémon usa parte dei suoi PS per creare una copia di sé che gli fa da esca."
+  "en": "The user creates a substitute for itself using some of its HP, serving as its decoy.",
+  "it": "Il Pokémon usa parte dei propri PS per creare un sostituto che gli faccia da esca."
  },
  {
   "id": 549,
@@ -3705,6 +3705,496 @@
   "it": "Dopo aver attaccato, il Pokémon torna indietro e lascia il posto a un altro Pokémon della squadra."
  },
  {
+  "id": 742,
+  "en": "The user lashes out at the target with ruinous claws. This may also leave the target poisoned, paralyzed, or asleep.",
+  "it": "Il Pokémon colpisce il bersaglio con artigli micidiali. Può anche avvelenarlo, paralizzarlo o farlo addormentare."
+ },
+ {
+  "id": 743,
+  "en": "Cloaking itself in psychic energy, the user slams into the target. This also boosts the user's Defense stat.",
+  "it": "Il Pokémon si avvolge di energia psichica e carica il bersaglio. Aumenta anche la propria Difesa."
+ },
+ {
+  "id": 744,
+  "en": "The user swaps its Attack and Defense stats.",
+  "it": "Il Pokémon scambia tra loro le sue statistiche di Attacco e Difesa."
+ },
+ {
+  "id": 745,
+  "en": "The user swings its stone axes at the target. Stone splinters left behind by this attack float around the target.",
+  "it": "Il Pokémon colpisce il bersaglio con le sue asce di pietra. Le schegge di roccia lasciate dall'attacco fluttuano attorno al bersaglio."
+ },
+ {
+  "id": 746,
+  "en": "The user attacks by wrapping opposing Pokémon in fierce winds brimming with love and hate. This may also lower their Attack stats.",
+  "it": "Il Pokémon avvolge gli avversari in venti impetuosi colmi di amore e odio. Può anche ridurne l'Attacco."
+ },
+ {
+  "id": 747,
+  "en": "The user attacks by emitting a mysterious power. This also boosts the user's Sp. Atk stat.",
+  "it": "Il Pokémon attacca emettendo un potere misterioso. Aumenta anche il proprio Attacco Speciale."
+ },
+ {
+  "id": 748,
+  "en": "The user rampages around spewing flames for two to three turns. The user then becomes confused.",
+  "it": "Il Pokémon si scatena sputando fiamme per due o tre turni, poi diventa confuso."
+ },
+ {
+  "id": 749,
+  "en": "The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user quite a lot.",
+  "it": "Il Pokémon si avvolge nell'acqua e si scaglia contro il bersaglio con tutto il corpo. Anche chi la usa subisce parecchi danni."
+ },
+ {
+  "id": 750,
+  "en": "The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user.",
+  "it": "Il Pokémon scaglia la clorofilla accumulata contro il bersaglio. Anche chi la usa subisce danni."
+ },
+ {
+  "id": 751,
+  "en": "The user hurls giant chunks of ice at the target to inflict damage. This may also make the target flinch.",
+  "it": "Il Pokémon scaglia enormi blocchi di ghiaccio contro il bersaglio. Può anche farlo tentennare."
+ },
+ {
+  "id": 752,
+  "en": "The user performs an intense dance to usher in victory, boosting its Attack, Defense, and Speed stats.",
+  "it": "Il Pokémon esegue una danza intensa che propizia la vittoria, aumentando Attacco, Difesa e Velocità."
+ },
+ {
+  "id": 753,
+  "en": "The user smashes into the target in a full-body tackle. This also lowers the user's Defense and Sp. Def stats.",
+  "it": "Il Pokémon carica il bersaglio con tutto il corpo, ma riduce la propria Difesa e Difesa Speciale."
+ },
+ {
+  "id": 754,
+  "en": "The user launches countless toxic barbs to inflict damage. This may also poison the target. This move's power is doubled if the target is already poisoned.",
+  "it": "Il Pokémon scaglia innumerevoli aculei tossici. Può avvelenare il bersaglio. Se il bersaglio è già avvelenato, la potenza della mossa raddoppia."
+ },
+ {
+  "id": 755,
+  "en": "The user slashes the target with aura-enriched wings. This also boosts the user's Speed stat. This move has a heightened chance of landing a critical hit.",
+  "it": "Il Pokémon colpisce il bersaglio con ali cariche di aura. Aumenta anche la sua Velocità. Probabilità di brutto colpo elevata."
+ },
+ {
+  "id": 756,
+  "en": "The user attacks the target with spine-chilling resentment. This also lowers the target's Attack stat.",
+  "it": "Il Pokémon attacca il bersaglio con un rancore agghiacciante. Riduce anche l'Attacco del bersaglio."
+ },
+ {
+  "id": 757,
+  "en": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat.",
+  "it": "Il Pokémon rende la propria pelle dura come uno scudo di ferro, aumentando di molto la sua Difesa."
+ },
+ {
+  "id": 758,
+  "en": "The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and may also lower the target's Defense stat or make it flinch.",
+  "it": "Il Pokémon tira un calcio e scocca tre frecce. Ha un'alta probabilità di brutto colpo e può ridurre la Difesa del bersaglio o farlo tentennare."
+ },
+ {
+  "id": 759,
+  "en": "The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition.",
+  "it": "Il Pokémon attacca con una miriade di sfere di fuoco. Può anche scottare il bersaglio. Se il bersaglio ha un problema di stato, la potenza della mossa raddoppia."
+ },
+ {
+  "id": 760,
+  "en": "The user slashes its shell blade at the target, aiming to land a critical hit. Shell splinters left behind by this attack remain scattered under the target as spikes.",
+  "it": "Il Pokémon colpisce il bersaglio con la sua lama di conchiglia, con elevata probabilità di brutto colpo. Le schegge lasciate dall'attacco si spargono sotto il bersaglio formando delle punte."
+ },
+ {
+  "id": 761,
+  "en": "The user attacks with a gust of chilled air. It also lowers the targets' Speed stat.",
+  "it": "Il Pokémon attacca con una raffica d'aria gelida. Riduce anche la Velocità dei bersagli."
+ },
+ {
+  "id": 762,
+  "en": "The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave the target with paralysis.",
+  "it": "Il Pokémon evoca una tempesta tonante e attacca ferocemente con fulmini e vento. Può anche paralizzare il bersaglio."
+ },
+ {
+  "id": 763,
+  "en": "The user attacks by wrapping the target in fierce winds and searingly hot sand. This also leaves the target with a burn.",
+  "it": "Il Pokémon avvolge il bersaglio in venti impetuosi e sabbia rovente. Scotta anche il bersaglio."
+ },
+ {
+  "id": 764,
+  "en": "The user receives a blessing from the crescent moon, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle.",
+  "it": "Il Pokémon riceve la benedizione della luna crescente, che ripristina i PS e cura i problemi di stato suoi e dei Pokémon alleati in campo."
+ },
+ {
+  "id": 765,
+  "en": "The user lifts its spirits, curing its own status conditions and boosting its Sp. Atk and Sp. Def stats.",
+  "it": "Il Pokémon si fa coraggio, curando i propri problemi di stato e aumentando il suo Attacco Speciale e la sua Difesa Speciale."
+ },
+ {
+  "id": 766,
+  "en": "The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat.",
+  "it": "Il Pokémon attacca all'improvviso come se sbucasse dall'erba alta. Il suo agile gioco di gambe ne aumenta la Velocità."
+ },
+ {
+  "id": 767,
+  "en": "The user attacks by pouncing on the target. This also lowers the target's Speed stat.",
+  "it": "Il Pokémon si avventa sul bersaglio. Riduce anche la Velocità del bersaglio."
+ },
+ {
+  "id": 768,
+  "en": "The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain.",
+  "it": "Il Pokémon si ricopre i piedi di ghiaccio sottile e piroetta colpendo il bersaglio. Il movimento rotatorio distrugge anche il campo."
+ },
+ {
+  "id": 769,
+  "en": "The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat.",
+  "it": "Il Pokémon investe il bersaglio con acqua così gelida da fiaccarne le forze. Riduce anche l'Attacco del bersaglio."
+ },
+ {
+  "id": 900,
+  "en": "The user attacks the target 5 times.",
+  "it": "Il Pokémon colpisce il bersaglio 5 volte."
+ },
+ {
+  "id": 901,
+  "en": "A retaliation move that counters any physical attack, then disables that attack.",
+  "it": "Mossa di ritorsione che contrattacca qualsiasi attacco fisico e poi rende inutilizzabile quella mossa."
+ },
+ {
+  "id": 902,
+  "en": "The user jabs at the target, KOing if it has less than 50% health.",
+  "it": "Il Pokémon colpisce il bersaglio con un rapido affondo e lo manda KO se ha meno del 50% dei PS."
+ },
+ {
+  "id": 903,
+  "en": "The user hypes itself up, preparing for a crit on the next attack and raising its Attack by 1 stage.",
+  "it": "Il Pokémon si carica per mettere a segno un brutto colpo con l'attacco successivo e aumenta il proprio Attacco di 1 livello."
+ },
+ {
+  "id": 904,
+  "en": "The user spreads flakes, randomly lowering 3 of the target's stats.",
+  "it": "Il Pokémon sparge scaglie che riducono 3 statistiche a caso del bersaglio."
+ },
+ {
+  "id": 905,
+  "en": "The user traps its target in an ice cage, lowering its Speed and Evasion by 3 stages.",
+  "it": "Il Pokémon intrappola il bersaglio in una gabbia di ghiaccio, riducendone Velocità ed Elusione di 3 livelli."
+ },
+ {
+  "id": 906,
+  "en": "The user attacks the target by sliding on an icy path.",
+  "it": "Il Pokémon attacca il bersaglio scivolando su una scia di ghiaccio."
+ },
+ {
+  "id": 907,
+  "en": "The user attacks, healing some of its HP.",
+  "it": "Il Pokémon attacca e recupera parte dei propri PS."
+ },
+ {
+  "id": 908,
+  "en": "The user negates physical attacks against it for 1 turn and raises its Special Defense by 2 stages.",
+  "it": "Il Pokémon annulla gli attacchi fisici contro di sé per 1 turno e aumenta di 2 livelli la propria Difesa Speciale."
+ },
+ {
+  "id": 909,
+  "en": "The user negates special attacks against it for 1 turn and raises its Defense by 2 stages.",
+  "it": "Il Pokémon annulla gli attacchi speciali contro di sé per 1 turno e aumenta di 2 livelli la propria Difesa."
+ },
+ {
+  "id": 910,
+  "en": "The user negates status moves against it for 1 turn and raises its Evasion by 2 stages.",
+  "it": "Il Pokémon annulla le mosse di stato contro di sé per 1 turno e aumenta di 2 livelli la propria Elusione."
+ },
+ {
+  "id": 911,
+  "en": "The user reduces its ability countdown by 1 turn.",
+  "it": "Il Pokémon riduce di 1 turno il conto alla rovescia della propria abilità."
+ },
+ {
+  "id": 912,
+  "en": "The user electrifies itself and charges at the opponent, summoning thunderclouds in the process.",
+  "it": "Il Pokémon si elettrizza e carica l'avversario, evocando nubi temporalesche."
+ },
+ {
+  "id": 913,
+  "en": "The user summons raging tides to attack the opponent which remain on the field.",
+  "it": "Il Pokémon evoca maree impetuose che attaccano l'avversario e restano sul campo."
+ },
+ {
+  "id": 914,
+  "en": "The user channels the power of the earth to attack the target, causing earthquakes.",
+  "it": "Il Pokémon incanala il potere della terra per attaccare il bersaglio, provocando terremoti."
+ },
+ {
+  "id": 915,
+  "en": "The user barrages the target with blue flames, causing a heat wave.",
+  "it": "Il Pokémon tempesta il bersaglio di fiamme blu, scatenando un'ondata di calore."
+ },
+ {
+  "id": 916,
+  "en": "The user attacks targets with fumes with a chance to burn targets.",
+  "it": "Il Pokémon attacca i bersagli con dei fumi. Può scottarli."
+ },
+ {
+  "id": 917,
+  "en": "The user lets out a cry, drastically raising its Special Attack with a chance to paralyse opponents.",
+  "it": "Il Pokémon lancia un grido che aumenta moltissimo il suo Attacco Speciale. Può paralizzare gli avversari."
+ },
+ {
+  "id": 918,
+  "en": "The user infests its targets with a chance to poison targets.",
+  "it": "Il Pokémon infesta i bersagli. Può avvelenarli."
+ },
+ {
+  "id": 919,
+  "en": "The user attacks with the intent of giving its target a peaceful death.",
+  "it": "Il Pokémon attacca con l'intento di donare al bersaglio una morte serena."
+ },
+ {
+  "id": 920,
+  "en": "The user depletes its target's life force.",
+  "it": "Il Pokémon prosciuga l'energia vitale del bersaglio."
+ },
+ {
+  "id": 921,
+  "en": "The user sets up a seal, sharply lowering its Evasion by in exchange for halving all damage taken by the user's side for 7 turns.",
+  "it": "Il Pokémon crea un sigillo che riduce molto la sua Elusione, ma dimezza tutti i danni subiti dalla sua squadra per 7 turni."
+ },
+ {
+  "id": 922,
+  "en": "The user creates a ring of fire around the target which deals damage to it after 3 turns.",
+  "it": "Il Pokémon crea un anello di fuoco attorno al bersaglio che lo danneggia dopo 3 turni."
+ },
+ {
+  "id": 923,
+  "en": "The user changes its target's primary type to a random type.",
+  "it": "Il Pokémon cambia il tipo principale del bersaglio in un tipo casuale."
+ },
+ {
+  "id": 930,
+  "en": "The user releases countless shots of light. Its type varies with the kind of Plate the user is holding.",
+  "it": "Il Pokémon emette innumerevoli raggi di luce. Il tipo varia in base alla Lastra tenuta."
+ },
+ {
+  "id": 931,
+  "en": "The user turns into a Ghost type in order to stealthily set up Stealth Rocks on the opponent's side.",
+  "it": "Il Pokémon diventa di tipo Spettro per piazzare di nascosto Levitoroccia nel campo avversario."
+ },
+ {
+  "id": 932,
+  "en": "The user turns sets up Spikes of different varieties on the opponent's side.",
+  "it": "Il Pokémon piazza Punte di vario genere nel campo avversario."
+ },
+ {
+  "id": 933,
+  "en": "The user explodes to inflict damage to all foes. The user faints upon using this move.",
+  "it": "Il Pokémon esplode infliggendo danni a tutti gli avversari, ma diventa esausto."
+ },
+ {
+  "id": 934,
+  "en": "The user and its trainer sync with each other so much that a Spirit Bomb is created.",
+  "it": "Il Pokémon e il suo Allenatore sono così in sintonia da creare una Spirit Bomb."
+ },
+ {
+  "id": 935,
+  "en": "Sharply raises the user's Def and Sp. Def, creating a Fighting Zone in the process.",
+  "it": "Aumenta molto la Difesa e la Difesa Speciale del Pokémon e crea una Fighting Zone."
+ },
+ {
+  "id": 936,
+  "en": "Sharply raises user's speed and powers up user's next move.",
+  "it": "Aumenta molto la Velocità del Pokémon e potenzia la sua mossa successiva."
+ },
+ {
+  "id": 937,
+  "en": "The user cuts the space the target is occupying.",
+  "it": "Il Pokémon taglia lo spazio occupato dal bersaglio."
+ },
+ {
+  "id": 938,
+  "en": "The user deals damage equal to half the target's max HP.",
+  "it": "Il Pokémon infligge danni pari alla metà dei PS massimi del bersaglio."
+ },
+ {
+  "id": 939,
+  "en": "The user tears the target along with the space around it. Critical hits land more easily.",
+  "it": "Il Pokémon squarcia il bersaglio e lo spazio che lo circonda. Aumenta la probabilità di brutto colpo."
+ },
+ {
+  "id": 940,
+  "en": "The user charges at the target using every bit of its power, lowering the target's Defense by 6 stages.",
+  "it": "Il Pokémon carica il bersaglio con tutte le sue forze, riducendone la Difesa di 6 livelli."
+ },
+ {
+  "id": 945,
+  "en": "The user blasts the target with power that distorts even time, causing it to come to a stop for 2 turns.",
+  "it": "Il Pokémon colpisce il bersaglio con un potere che distorce persino il tempo, bloccandolo per 2 turni."
+ },
+ {
+  "id": 946,
+  "en": "The user blasts the target with power that distorts even time.",
+  "it": "Il Pokémon colpisce il bersaglio con un potere che distorce persino il tempo."
+ },
+ {
+  "id": 947,
+  "en": "Fires a beam of steel that it collected from its entire body.",
+  "it": "Spara un raggio d'acciaio raccolto da tutto il corpo."
+ },
+ {
+  "id": 948,
+  "en": "The user attacks the target, freezing it with the power of a thousand universes.",
+  "it": "Il Pokémon attacca il bersaglio e lo congela con il potere di mille universi."
+ },
+ {
+  "id": 949,
+  "en": "The user charges the target at blinding speed. This attack always goes before any other move.",
+  "it": "Il Pokémon carica il bersaglio a velocità accecante. Agisce sempre prima di qualsiasi altra mossa."
+ },
+ {
+  "id": 950,
+  "en": "The user accelerates, maxing out its speed.",
+  "it": "Il Pokémon accelera, portando la propria Velocità al massimo."
+ },
+ {
+  "id": 951,
+  "en": "The user heals the target back to full health, but the target's stats are reduced by 2 stages.",
+  "it": "Il Pokémon ripristina tutti i PS del bersaglio, ma ne riduce le statistiche di 2 livelli."
+ },
+ {
+  "id": 952,
+  "en": "The user conjures a hand to shave away at the target, halving its HP.",
+  "it": "Il Pokémon evoca una mano che consuma il bersaglio, dimezzandone i PS."
+ },
+ {
+  "id": 953,
+  "en": "Drop the target's Atk, Sp. Atk or Spd by 1 stage then give it a random status effect.",
+  "it": "Riduce di 1 livello l'Attacco, l'Attacco Speciale o la Velocità del bersaglio, poi gli infligge un problema di stato casuale."
+ },
+ {
+  "id": 954,
+  "en": "The user uses the target's highest stat to attack the target. Still hits the target if they're switching out.",
+  "it": "Il Pokémon usa la statistica più alta del bersaglio per attaccarlo. Colpisce anche se il bersaglio viene sostituito."
+ },
+ {
+  "id": 955,
+  "en": "The user spreads out a toxic mist, poisoning the target and laying multiple layers of toxic spikes.",
+  "it": "Il Pokémon diffonde una nebbia tossica che avvelena il bersaglio e sparge più strati di Fielepunte."
+ },
+ {
+  "id": 956,
+  "en": "The user spreads out an icy mist, freezing the target.",
+  "it": "Il Pokémon diffonde una nebbia gelida che congela il bersaglio."
+ },
+ {
+  "id": 957,
+  "en": "The user attacks the target uses iron, poisoning and binding the target.",
+  "it": "Il Pokémon attacca il bersaglio con il ferro, avvelenandolo e intrappolandolo."
+ },
+ {
+  "id": 958,
+  "en": "The user preemtively attacks the target.",
+  "it": "Il Pokémon attacca il bersaglio d'anticipo."
+ },
+ {
+  "id": 959,
+  "en": "The user activates Love Train, raising all its stats by 1 stage and taking less damage from all types.",
+  "it": "Il Pokémon attiva Love Train, aumentando tutte le sue statistiche di 1 livello e subendo meno danni da ogni tipo."
+ },
+ {
+  "id": 960,
+  "en": "The user charges up energy in their steel ball for 1 turn, ignoring the opponent's stat boosts and destroying Reflect, Light Screen, Protect, etc.",
+  "it": "Il Pokémon carica energia nella sua sfera d'acciaio per 1 turno, ignora le modifiche alle statistiche dell'avversario e distrugge Riflesso, Schermoluce, Protezione, ecc."
+ },
+ {
+  "id": 961,
+  "en": "The user attacks the target with sound waves, with the chance of making it flinch.",
+  "it": "Il Pokémon attacca il bersaglio con onde sonore. Può farlo tentennare."
+ },
+ {
+  "id": 962,
+  "en": "The user lowers the target's attacking stats by 2 stages and raises its own by the same amount.",
+  "it": "Il Pokémon riduce di 2 livelli le statistiche offensive del bersaglio e aumenta le proprie della stessa misura."
+ },
+ {
+  "id": 963,
+  "en": "The user generates a lot of heat, causing the target to be burned.",
+  "it": "Il Pokémon genera un forte calore che scotta il bersaglio."
+ },
+ {
+  "id": 964,
+  "en": "The user binds and confuses the target with fun.",
+  "it": "Il Pokémon intrappola il bersaglio e lo confonde a suon di divertimento."
+ },
+ {
+  "id": 965,
+  "en": "The user removes the target's item and steals its stat boosts.",
+  "it": "Il Pokémon rimuove lo strumento del bersaglio e ne ruba le modifiche alle statistiche."
+ },
+ {
+  "id": 966,
+  "en": "The user turns the target's body extremely soft, drastically lowering its Defense and Sp. Defense.",
+  "it": "Il Pokémon rende il corpo del bersaglio molle, riducendone moltissimo la Difesa e la Difesa Speciale."
+ },
+ {
+  "id": 987,
+  "en": "The user turns creates a zone that powers up Normal type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Normale per cinque turni."
+ },
+ {
+  "id": 988,
+  "en": "The user turns creates a zone that powers up Ice type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Ghiaccio per cinque turni."
+ },
+ {
+  "id": 989,
+  "en": "The user turns creates a zone that powers up Fighting type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Lotta per cinque turni."
+ },
+ {
+  "id": 990,
+  "en": "The user turns creates a zone that powers up Poison type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Veleno per cinque turni."
+ },
+ {
+  "id": 991,
+  "en": "The user turns creates a zone that powers up Ground type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Terra per cinque turni."
+ },
+ {
+  "id": 992,
+  "en": "The user turns creates a zone that powers up Flying type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Volante per cinque turni."
+ },
+ {
+  "id": 993,
+  "en": "The user turns creates a zone that powers up Bug type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Coleottero per cinque turni."
+ },
+ {
+  "id": 994,
+  "en": "The user turns creates a zone that powers up Rock type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Roccia per cinque turni."
+ },
+ {
+  "id": 995,
+  "en": "The user turns creates a zone that powers up Ghost type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Spettro per cinque turni."
+ },
+ {
+  "id": 996,
+  "en": "The user creates a zone that powers up Dragon type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Drago per cinque turni."
+ },
+ {
+  "id": 997,
+  "en": "The user turns creates a zone that powers up Dark type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Buio per cinque turni."
+ },
+ {
+  "id": 998,
+  "en": "The user turns creates a zone that powers up Dark type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Buio per cinque turni."
+ },
+ {
+  "id": 999,
+  "en": "The user turns creates a zone that powers up Fairy type moves for five turns.",
+  "it": "Il Pokémon crea una zona che potenzia le mosse di tipo Folletto per cinque turni."
+ },
+ {
   "id": 1000,
   "en": "The user builds up its momentum using its Z-Power and crashes into the target at full speed.",
   "it": "Il Pokémon prende la rincorsa con il potere Z e si scaglia sul bersaglio a tutta velocità."
@@ -4140,123 +4630,718 @@
   "it": "Mossa Gigamax di Urshifu Gigamax. Questo colpo multiplo può superare Dynabarriera."
  },
  {
-  "id": 1087,
-  "en": "The user lashes out at the target with ruinous claws. This may also leave the target poisoned, paralyzed, or asleep.",
-  "it": "Il Pokémon colpisce il bersaglio con artigli micidiali. Può anche avvelenarlo, paralizzarlo o farlo addormentare."
- },
- {
-  "id": 1088,
-  "en": "Cloaking itself in psychic energy, the user slams into the target. This also boosts the user’s Defense stat.",
-  "it": "Il Pokémon si avvolge di energia psichica e si scaglia contro il bersaglio. Aumenta anche la sua Difesa."
- },
- {
-  "id": 1089,
-  "en": "The user swaps its Attack and Defense stats.",
-  "it": "Il Pokémon scambia tra loro le sue statistiche di Attacco e Difesa."
- },
- {
-  "id": 1090,
-  "en": "The user swings its stone axes at the target. Stone splinters left behind by this attack float around the target.",
-  "it": "Il Pokémon colpisce il bersaglio con le sue asce di pietra. Le schegge di roccia lasciate dall'attacco fluttuano attorno al bersaglio."
- },
- {
-  "id": 1091,
-  "en": "The user attacks by wrapping opposing Pokémon in fierce winds brimming with love and hate. This may also lower their Attack stats.",
-  "it": "Il Pokémon avvolge gli avversari in venti impetuosi colmi di amore e odio. Può anche ridurne l'Attacco."
- },
- {
-  "id": 1092,
-  "en": "The user attacks by emitting a mysterious power. This also boosts the user’s Sp. Atk stat.",
-  "it": "Il Pokémon attacca sprigionando un potere misterioso. Aumenta anche il suo Attacco Speciale."
- },
- {
-  "id": 1093,
-  "en": "The user rampages around spewing flames for two to three turns. The user then becomes confused.",
-  "it": "Il Pokémon si scatena sputando fiamme per due o tre turni, poi diventa confuso."
- },
- {
-  "id": 1094,
-  "en": "The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user quite a lot.",
-  "it": "Il Pokémon si avvolge nell'acqua e si scaglia contro il bersaglio con tutto il corpo. Anche chi la usa subisce parecchi danni."
- },
- {
-  "id": 1095,
-  "en": "The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user.",
-  "it": "Il Pokémon scaglia la clorofilla accumulata contro il bersaglio. Anche chi la usa subisce danni."
- },
- {
-  "id": 1096,
-  "en": "The user hurls giant chunks of ice at the target to inflict damage. This may also make the target flinch.",
-  "it": "Il Pokémon scaglia enormi blocchi di ghiaccio contro il bersaglio. Può anche farlo tentennare."
- },
- {
-  "id": 1097,
-  "en": "The user performs an intense dance to usher in victory, boosting its Attack, Defense, and Speed stats.",
-  "it": "Il Pokémon esegue una danza intensa che propizia la vittoria, aumentando Attacco, Difesa e Velocità."
- },
- {
-  "id": 1098,
-  "en": "The user smashes into the target in a full-body tackle. This also lowers the user’s Defense and Sp. Def stats.",
-  "it": "Il Pokémon si scaglia contro il bersaglio con tutto il corpo. Riduce però la sua Difesa e Difesa Speciale."
- },
- {
-  "id": 1099,
-  "en": "The user launches countless toxic barbs to inflict damage. This may also poison the target. This move’s power is doubled if the target is already poisoned.",
-  "it": "Il Pokémon scaglia innumerevoli aculei velenosi. Può anche avvelenare il bersaglio. Se il bersaglio è già avvelenato, la potenza della mossa raddoppia."
- },
- {
   "id": 1100,
-  "en": "The user slashes the target with aura-enriched wings. This also boosts the user's Speed stat. This move has a heightened chance of landing a critical hit.",
-  "it": "Il Pokémon colpisce il bersaglio con ali cariche di aura. Aumenta anche la sua Velocità. Probabilità di brutto colpo elevata."
+  "en": "Sygna Suit Brock's signature move.",
+  "it": "Mossa distintiva di Brock (Sygna Suit)."
  },
  {
   "id": 1101,
-  "en": "The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat.",
-  "it": "Il Pokémon attacca il bersaglio con un rancore agghiacciante. Riduce anche l'Attacco del bersaglio."
+  "en": "Sygna Suit Misty's signature move.",
+  "it": "Mossa distintiva di Misty (Sygna Suit)."
  },
  {
   "id": 1102,
-  "en": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat.",
-  "it": "Il Pokémon rende la propria pelle dura come uno scudo di ferro, aumentando di molto la sua Difesa."
+  "en": "Sygna Suit Erika's signature move.",
+  "it": "Mossa distintiva di Erika (Sygna Suit)."
  },
  {
   "id": 1103,
-  "en": "The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and may also lower the target’s Defense stat or make it flinch.",
-  "it": "Il Pokémon sferra un calcio e poi scocca tre frecce. Probabilità di brutto colpo elevata. Può anche ridurre la Difesa del bersaglio o farlo tentennare."
+  "en": "Sygna Suit Red's signature move.",
+  "it": "Mossa distintiva di Red (Sygna Suit)."
  },
  {
   "id": 1104,
-  "en": "The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition.",
-  "it": "Il Pokémon attacca con una miriade di sfere di fuoco. Può anche scottare il bersaglio. Se il bersaglio ha un problema di stato, la potenza della mossa raddoppia."
+  "en": "Sygna Suit Red (Thunderbolt)'s signature move.",
+  "it": "Mossa distintiva di Red (Sygna Suit, Fulmine)."
  },
  {
   "id": 1105,
-  "en": "The user slashes its shell blade at the target, aiming to land a critical hit. Shell splinters left behind by this attack remain scattered under the target as spikes.",
-  "it": "Il Pokémon colpisce il bersaglio con la sua lama di conchiglia, con elevata probabilità di brutto colpo. Le schegge lasciate dall'attacco si spargono sotto il bersaglio formando delle punte."
+  "en": "Sygna Suit Morty's signature move.",
+  "it": "Mossa distintiva di Angelo (Sygna Suit)."
  },
  {
   "id": 1106,
-  "en": "The user attacks with a gust of chilled air. It also lowers the targets' Speed stat.",
-  "it": "Il Pokémon attacca con una raffica d'aria gelida. Riduce anche la Velocità dei bersagli."
+  "en": "Sygna Suit Ethan's signature move.",
+  "it": "Mossa distintiva di Ethan (Sygna Suit)."
  },
  {
   "id": 1107,
-  "en": "The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave the target with paralysis.",
-  "it": "Il Pokémon evoca una tempesta tonante e attacca ferocemente con fulmini e vento. Può anche paralizzare il bersaglio."
+  "en": "Sygna Suit Lyra's signature move.",
+  "it": "Mossa distintiva di Lyra (Sygna Suit)."
  },
  {
   "id": 1108,
-  "en": "The user attacks by wrapping the target in fierce winds and searingly hot sand. This also leaves the target with a burn.",
-  "it": "Il Pokémon avvolge il bersaglio in venti impetuosi e sabbia rovente. Scotta anche il bersaglio."
+  "en": "The user raises its allies' Special Attack and Crit Rate.",
+  "it": "Il Pokémon aumenta l'Attacco Speciale e la probabilità di brutto colpo degli alleati."
  },
  {
   "id": 1109,
-  "en": "The user receives a blessing from the crescent moon, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle.",
-  "it": "Il Pokémon riceve la benedizione della luna crescente, che ripristina i PS e cura i problemi di stato suoi e dei Pokémon alleati in campo."
+  "en": "Sygna Suit Silver's signature move.",
+  "it": "Mossa distintiva di Silver (Sygna Suit)."
  },
  {
   "id": 1110,
-  "en": "The user lifts its spirits, curing its own status conditions and boosting its Sp. Atk and Sp. Def stats.",
-  "it": "Il Pokémon si fa coraggio, curando i propri problemi di stato e aumentando il suo Attacco Speciale e la sua Difesa Speciale."
+  "en": "The user raises its allies' Special Attack, Special Defense and Crit Rate.",
+  "it": "Il Pokémon aumenta l'Attacco Speciale, la Difesa Speciale e la probabilità di brutto colpo degli alleati."
+ },
+ {
+  "id": 1111,
+  "en": "The user raises its attack and accuracy and raises its allies' Speed.",
+  "it": "Il Pokémon aumenta il proprio Attacco e la propria Precisione e aumenta la Velocità degli alleati."
+ },
+ {
+  "id": 1112,
+  "en": "The user sharple raises its Defense, Sp. Atk. Sp. Def. and Speed, while changing its moves.",
+  "it": "Il Pokémon aumenta molto Difesa, Attacco Speciale, Difesa Speciale e Velocità, cambiando le sue mosse."
+ },
+ {
+  "id": 1113,
+  "en": "The user changes into Attack Forme and maxes out its Sp. Atk. and Crit Rate, while changing its moves.",
+  "it": "Il Pokémon assume la Forma Attacco e porta al massimo Attacco Speciale e probabilità di brutto colpo, cambiando le sue mosse."
+ },
+ {
+  "id": 1114,
+  "en": "The user changes into Speed Forme and maxes out its Speed and drastically raises its Evasion, while changing its moves.",
+  "it": "Il Pokémon assume la Forma Velocità, porta al massimo la Velocità e aumenta moltissimo l'Elusione, cambiando le sue mosse."
+ },
+ {
+  "id": 1115,
+  "en": "The user changes into Defense Forme, guards itself and drastically raises all allies' Atk. and Sp. Atk., while changing its moves.",
+  "it": "Il Pokémon assume la Forma Difesa, si protegge e aumenta moltissimo l'Attacco e l'Attacco Speciale di tutti gli alleati, cambiando le sue mosse."
+ },
+ {
+  "id": 1116,
+  "en": "Sygna Suit Wally's signature move.",
+  "it": "Mossa distintiva di Lino (Sygna Suit)."
+ },
+ {
+  "id": 1117,
+  "en": "Sygna Suit Cyrus's signature move.",
+  "it": "Mossa distintiva di Cyrus (Sygna Suit)."
+ },
+ {
+  "id": 1118,
+  "en": "Sygna Suit Cynthia's signature move.",
+  "it": "Mossa distintiva di Camilla (Sygna Suit)."
+ },
+ {
+  "id": 1119,
+  "en": "Sygna Suit Cynthia (Renegade)'s signature move.",
+  "it": "Mossa distintiva di Camilla (Sygna Suit, Renegade)."
+ },
+ {
+  "id": 1120,
+  "en": "Sygna Suit Cynthia (Aura)'s signature move.",
+  "it": "Mossa distintiva di Camilla (Sygna Suit, Aura)."
+ },
+ {
+  "id": 1121,
+  "en": "Sygna Suit Dawn's signature move.",
+  "it": "Mossa distintiva di Lucinda (Sygna Suit)."
+ },
+ {
+  "id": 1122,
+  "en": "Sygna Suit Elesa's signature move.",
+  "it": "Mossa distintiva di Camelia (Sygna Suit)."
+ },
+ {
+  "id": 1123,
+  "en": "Sygna Suit Grimsley's signature move.",
+  "it": "Mossa distintiva di Mirton (Sygna Suit)."
+ },
+ {
+  "id": 1124,
+  "en": "Sygna Suit Hilda's signature move.",
+  "it": "Mossa distintiva di Hilda (Sygna Suit)."
+ },
+ {
+  "id": 1125,
+  "en": "Sygna Suit Hilbert's signature move.",
+  "it": "Mossa distintiva di Hilbert (Sygna Suit)."
+ },
+ {
+  "id": 1126,
+  "en": "The user drastically raises its Attack and maxes its Crit Rate.",
+  "it": "Il Pokémon aumenta moltissimo il proprio Attacco e porta al massimo la probabilità di brutto colpo."
+ },
+ {
+  "id": 1127,
+  "en": "Sygna Suit Roxie's signature move.",
+  "it": "Mossa distintiva di Velia (Sygna Suit)."
+ },
+ {
+  "id": 1128,
+  "en": "Sygna Suit Serena's signature move.",
+  "it": "Mossa distintiva di Serena (Sygna Suit)."
+ },
+ {
+  "id": 1129,
+  "en": "Sygna Suit Korrina's signature move.",
+  "it": "Mossa distintiva di Ornella (Sygna Suit)."
+ },
+ {
+  "id": 1130,
+  "en": "Sygna Suit Diantha's signature move.",
+  "it": "Mossa distintiva di Diantha (Sygna Suit)."
+ },
+ {
+  "id": 1131,
+  "en": "Sygna Suit Lysandre's signature move.",
+  "it": "Mossa distintiva di Elisio (Sygna Suit)."
+ },
+ {
+  "id": 1132,
+  "en": "Sygna Suit Lusamine's signature move.",
+  "it": "Mossa distintiva di Samina (Sygna Suit)."
+ },
+ {
+  "id": 1133,
+  "en": "Sygna Suit Hau's signature move.",
+  "it": "Mossa distintiva di Hau (Sygna Suit)."
+ },
+ {
+  "id": 1134,
+  "en": "Sygna Suit Lana's signature move.",
+  "it": "Mossa distintiva di Suiren (Sygna Suit)."
+ },
+ {
+  "id": 1135,
+  "en": "Sygna Suit Acerola's signature move.",
+  "it": "Mossa distintiva di Mapli (Sygna Suit)."
+ },
+ {
+  "id": 1136,
+  "en": "Sygna Suit Mina's signature move.",
+  "it": "Mossa distintiva di Mina (Sygna Suit)."
+ },
+ {
+  "id": 1137,
+  "en": "Sygna Suit Gladion's signature move.",
+  "it": "Mossa distintiva di Iridio (Sygna Suit)."
+ },
+ {
+  "id": 1138,
+  "en": "Sygna Suit Leon's signature move.",
+  "it": "Mossa distintiva di Dandel (Sygna Suit)."
+ },
+ {
+  "id": 1139,
+  "en": "Sygna Suit Piers's signature move.",
+  "it": "Mossa distintiva di Ginepro (Sygna Suit)."
+ },
+ {
+  "id": 1140,
+  "en": "Sygna Suit Ingo's signature move.",
+  "it": "Mossa distintiva di Ingo (Sygna Suit)."
+ },
+ {
+  "id": 1141,
+  "en": "Sygna Suit Emmet's signature move.",
+  "it": "Mossa distintiva di Emmet (Sygna Suit)."
+ },
+ {
+  "id": 1142,
+  "en": "Sygna Suit Giovanni's signature move.",
+  "it": "Mossa distintiva di Giovanni (Sygna Suit)."
+ },
+ {
+  "id": 1143,
+  "en": "Sygna Suit (Ultra) Giovanni's signature move.",
+  "it": "Mossa distintiva di Giovanni (Sygna Suit Ultra)."
+ },
+ {
+  "id": 1144,
+  "en": "Sygna Suit Blue's signature move.",
+  "it": "Mossa distintiva di Blue (Sygna Suit)."
+ },
+ {
+  "id": 1145,
+  "en": "Sygna Suit Leaf's signature move.",
+  "it": "Mossa distintiva di Leaf (Sygna Suit)."
+ },
+ {
+  "id": 1146,
+  "en": "Dojo Gloria's signature move.",
+  "it": "Mossa distintiva di Gloria (Dojo)."
+ },
+ {
+  "id": 1147,
+  "en": "Anni Lillie's signature move.",
+  "it": "Mossa distintiva di Lylia (Anniversario)."
+ },
+ {
+  "id": 1148,
+  "en": "Anni N's signature move.",
+  "it": "Mossa distintiva di N (Anniversario)."
+ },
+ {
+  "id": 1149,
+  "en": "Anni Steven's signature move.",
+  "it": "Mossa distintiva di Rocco (Anniversario)."
+ },
+ {
+  "id": 1150,
+  "en": "Anni May's signature move.",
+  "it": "Mossa distintiva di Vera (Anniversario)."
+ },
+ {
+  "id": 1151,
+  "en": "Anni Skyla's signature move.",
+  "it": "Mossa distintiva di Anemone (Anniversario)."
+ },
+ {
+  "id": 1152,
+  "en": "Anni Raihan's signature move.",
+  "it": "Mossa distintiva di Raihan (Anniversario)."
+ },
+ {
+  "id": 1153,
+  "en": "Neo Champion Serena's signature move.",
+  "it": "Mossa distintiva di Serena (Neo Campione)."
+ },
+ {
+  "id": 1154,
+  "en": "Neo Champion Calem's signature move.",
+  "it": "Mossa distintiva di Calem (Neo Campione)."
+ },
+ {
+  "id": 1155,
+  "en": "Neo Champion Marnie's signature move.",
+  "it": "Mossa distintiva di Mary (Neo Campione)."
+ },
+ {
+  "id": 1156,
+  "en": "Neo Champion Hop's signature move.",
+  "it": "Mossa distintiva di Hop (Neo Campione)."
+ },
+ {
+  "id": 1157,
+  "en": "Neo Champion Bede's signature move.",
+  "it": "Mossa distintiva di Beet (Neo Campione)."
+ },
+ {
+  "id": 1158,
+  "en": "Neo Champion Red's signature move.",
+  "it": "Mossa distintiva di Red (Neo Campione)."
+ },
+ {
+  "id": 1159,
+  "en": "Neo Champion Leaf's signature move.",
+  "it": "Mossa distintiva di Leaf (Neo Campione)."
+ },
+ {
+  "id": 1160,
+  "en": "Neo Champion Blue's signature move.",
+  "it": "Mossa distintiva di Blue (Neo Campione)."
+ },
+ {
+  "id": 1161,
+  "en": "Neo Champion Nate's signature move.",
+  "it": "Mossa distintiva di Nate (Neo Campione)."
+ },
+ {
+  "id": 1162,
+  "en": "Neo Champion Rosa's signature move.",
+  "it": "Mossa distintiva di Rosa (Neo Campione)."
+ },
+ {
+  "id": 1163,
+  "en": "Neo Champion Silver's signature move.",
+  "it": "Mossa distintiva di Silver (Neo Campione)."
+ },
+ {
+  "id": 1164,
+  "en": "Neo Champion Cheren's signature move.",
+  "it": "Mossa distintiva di Komor (Neo Campione)."
+ },
+ {
+  "id": 1165,
+  "en": "Neo Champion Bianca's signature move.",
+  "it": "Mossa distintiva di Belle (Neo Campione)."
+ },
+ {
+  "id": 1166,
+  "en": "Neo Champion May's signature move.",
+  "it": "Mossa distintiva di Vera (Neo Campione)."
+ },
+ {
+  "id": 1167,
+  "en": "Neo Champion Brendan's signature move.",
+  "it": "Mossa distintiva di Brendan (Neo Campione)."
+ },
+ {
+  "id": 1168,
+  "en": "Neo Champion Elio's signature move.",
+  "it": "Mossa distintiva di Elio (Neo Campione)."
+ },
+ {
+  "id": 1169,
+  "en": "Neo Champion Selene's signature move.",
+  "it": "Mossa distintiva di Selene (Neo Campione)."
+ },
+ {
+  "id": 1200,
+  "en": "The user looses a blast of aura power from deep within its body. This move is certain to hit.",
+  "it": "Il Pokémon libera un'onda di energia aura dal profondo del corpo. Non manca mai il bersaglio."
+ },
+ {
+  "id": 1201,
+  "en": "The user electrifies itself, then charges at the foe, ignoring any defensive effects on all opposing Pokémon.",
+  "it": "Il Pokémon si elettrizza e carica l'avversario, ignorando qualsiasi effetto difensivo di tutti i Pokémon avversari."
+ },
+ {
+  "id": 1202,
+  "en": "The user lets out a light which lowers the target's attack, Sp. Atk and makes them weaker to Fairy attacks.",
+  "it": "Il Pokémon emette una luce che riduce l'Attacco e l'Attacco Speciale del bersaglio e lo rende più vulnerabile alle mosse di tipo Folletto."
+ },
+ {
+  "id": 1203,
+  "en": "The user fires a beam of light at its target. The type changes depending on the Drive the user holds.",
+  "it": "Il Pokémon spara un raggio di luce. Il tipo cambia in base al Modulo tenuto."
+ },
+ {
+  "id": 1204,
+  "en": "Letting out a noble roar, the user intimidates the target and sharply lowers its Attack, Sp. Atk and Speed.",
+  "it": "Il Pokémon emette un nobile ruggito che intimidisce il bersaglio, riducendone molto Attacco, Attacco Speciale e Velocità."
+ },
+ {
+  "id": 1205,
+  "en": "The user whips up a storm of diamonds to damage foes. This sharply raises all allies' Defense stat and shaprly lowers all opponent's Defense stat.",
+  "it": "Il Pokémon scatena una tempesta di diamanti contro gli avversari. Aumenta molto la Difesa di tutti gli alleati e riduce molto quella di tutti gli avversari."
+ },
+ {
+  "id": 1206,
+  "en": "A Hydro Pump that is fueled by burned Pokémon. Lysandre and Volcanion's ultimate weapon.",
+  "it": "Un'Idropompa alimentata da Pokémon bruciati. L'arma suprema di Elisio e Volcanion."
+ },
+ {
+  "id": 1207,
+  "en": "The user captures and attacks foes by using an electric net, which harshly lowers their Speed stat and sharply raises ally Pokémon's Speed.",
+  "it": "Il Pokémon cattura e attacca gli avversari con una rete elettrica, riducendone di molto la Velocità e aumentando molto quella dei Pokémon alleati."
+ },
+ {
+  "id": 1208,
+  "en": "The user tears at the target with blades formed by psychic power. Always lands a critical hit.",
+  "it": "Il Pokémon squarcia il bersaglio con lame create dal potere psichico. Va sempre a segno con un brutto colpo."
+ },
+ {
+  "id": 1209,
+  "en": "A frenetic dance to uplift the fighting spirit. It sharply raises all allies' Attack stat and makes all allies deal more damage with their next physical attack.",
+  "it": "Una danza frenetica che risveglia lo spirito combattivo. Aumenta molto l'Attacco di tutti gli alleati e potenzia il loro prossimo attacco fisico."
+ },
+ {
+  "id": 1210,
+  "en": "It enables all allies to evade all attacks.",
+  "it": "Permette a tutti gli alleati di schivare qualsiasi attacco."
+ },
+ {
+  "id": 1211,
+  "en": "A consecutive three-kick attack that becomes more powerful with each successful hit.",
+  "it": "Tre calci consecutivi la cui potenza aumenta a ogni colpo andato a segno."
+ },
+ {
+  "id": 1212,
+  "en": "It swamps the area around the user with a giant sludge wave. It may also poison those hit.",
+  "it": "Un'enorme onda di fango investe la zona intorno al Pokémon. Può avvelenare chi colpisce."
+ },
+ {
+  "id": 1213,
+  "en": "Attacks opposing Pokémon by twanging a guitar or bass guitar.",
+  "it": "Attacca i Pokémon avversari facendo vibrare le corde di una chitarra o di un basso."
+ },
+ {
+  "id": 1214,
+  "en": "The user unleashes a strong beam. The attack does more damage based on how much the opponent's Sp. Atk stat has been lowered.",
+  "it": "Il Pokémon scatena un potente raggio. Più l'Attacco Speciale dell'avversario è stato ridotto, più danni infligge."
+ },
+ {
+  "id": 1215,
+  "en": "This relentless attack does massive damage to a target affected by status problems.",
+  "it": "Questo attacco spietato infligge danni ingenti se il bersaglio ha un problema di stato."
+ },
+ {
+  "id": 1216,
+  "en": "The user shrouds itself in electricity and smashes into its foe.",
+  "it": "Il Pokémon si avvolge di elettricità e si scaglia contro l'avversario."
+ },
+ {
+  "id": 1217,
+  "en": "The user charges up power and raises both its Defense and Sp. Def. The move can be used two times.",
+  "it": "Il Pokémon accumula energia e aumenta Difesa e Difesa Speciale. La mossa può essere usata due volte."
+ },
+ {
+  "id": 1218,
+  "en": "The power stored using the move Stockpile is absorbed by the user to heal its HP.",
+  "it": "Il Pokémon assorbe l'energia raccolta con Accumulo per recuperare PS."
+ },
+ {
+  "id": 1219,
+  "en": "The user crunches up the target with sharp fangs. It also lowers the target's Defense and Special Defense stats.",
+  "it": "Il Pokémon morde il bersaglio con zanne affilate. Riduce anche la Difesa e la Difesa Speciale del bersaglio."
+ },
+ {
+  "id": 1250,
+  "en": "The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first.",
+  "it": "Il Pokémon si lancia sul bersaglio a velocità quasi invisibile. Colpisce sempre per primo."
+ },
+ {
+  "id": 1251,
+  "en": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.",
+  "it": "Muovendosi rapidamente, il Pokémon crea copie illusorie di sé e aumenta la sua elusione."
+ },
+ {
+  "id": 1252,
+  "en": "The user transforms its wrath into a fire-like aura to attack. It causes flinching.",
+  "it": "Il Pokémon trasforma la sua ira in un'aura simile a fuoco per attaccare. Fa tentennare il bersaglio."
+ },
+ {
+  "id": 1253,
+  "en": "The user kicks the target with lightning-like movement. It drastically lowers the target's Defense and Special Defense.",
+  "it": "Il Pokémon colpisce il bersaglio con un calcio fulmineo. Riduce moltissimo la Difesa e la Difesa Speciale del bersaglio."
+ },
+ {
+  "id": 1254,
+  "en": "The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.",
+  "it": "Il Pokémon attacca sprigionando poteri psichici dagli occhi. Può anche congelare il bersaglio."
+ },
+ {
+  "id": 1255,
+  "en": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+  "it": "Il bersaglio viene colpito da un raggio di energia gelida. Può anche congelarlo."
+ },
+ {
+  "id": 1256,
+  "en": "The user lands and rests its body. It restores the user's HP by up to 60% of its max HP.",
+  "it": "Il Pokémon atterra e fa riposare il corpo, recuperando fino al 60% dei PS massimi."
+ },
+ {
+  "id": 1257,
+  "en": "The user cloaks itself in fire and charges at the foe. It may burn the target.",
+  "it": "Il Pokémon si avvolge di fuoco e carica l'avversario. Può scottare il bersaglio."
+ },
+ {
+  "id": 1258,
+  "en": "The user rampages and attacks all enemies.",
+  "it": "Il Pokémon si scatena e attacca tutti i nemici."
+ },
+ {
+  "id": 1259,
+  "en": "An ancient song appeals to the hearts of those listening. It may also induce sleep.",
+  "it": "Un canto antico che tocca il cuore di chi ascolta. Può far addormentare il bersaglio."
+ },
+ {
+  "id": 1260,
+  "en": "Large boulders are hurled at the foes to inflict damage, making the targets flinch.",
+  "it": "Il Pokémon scaglia grossi massi contro gli avversari, facendoli tentennare."
+ },
+ {
+  "id": 1261,
+  "en": "The user attacks with a gust of chilled air. It also harshly lowers the targets' Speed stat.",
+  "it": "Il Pokémon attacca con una raffica d'aria gelida. Riduce molto anche la Velocità dei bersagli."
+ },
+ {
+  "id": 1262,
+  "en": "The user attacks by slicing with its long horns. The target's stat changes don't affect the damage.",
+  "it": "Il Pokémon attacca fendendo con le sue lunghe corna. Le modifiche alle statistiche del bersaglio non influiscono sul danno."
+ },
+ {
+  "id": 1263,
+  "en": "The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue.",
+  "it": "Il Pokémon attacca i nemici con innumerevoli raggi di luce di un blu intenso e brillante."
+ },
+ {
+  "id": 1264,
+  "en": "The user attacks its foes by manifesting the power of the land in fearsome blades of stone.",
+  "it": "Il Pokémon attacca i nemici manifestando il potere della terra in temibili lame di pietra."
+ },
+ {
+  "id": 1265,
+  "en": "The user slams into the target with the force of a meteor. Can't be stopped by the target's Ability.",
+  "it": "Il Pokémon si scaglia contro il bersaglio con la forza di una meteora. Ignora l'abilità del bersaglio."
+ },
+ {
+  "id": 1266,
+  "en": "The user emits a sinister ray. This move can be used on the target regardless of its Abilities.",
+  "it": "Il Pokémon emette un raggio sinistro. Questa mossa ha effetto indipendentemente dall'abilità del bersaglio."
+ },
+ {
+  "id": 1300,
+  "en": "Arc Suit Cynthia's signature move.",
+  "it": "Mossa distintiva di Camilla (Arc Suit)."
+ },
+ {
+  "id": 1301,
+  "en": "Arc Suit Steven's signature move.",
+  "it": "Mossa distintiva di Rocco (Arc Suit)."
+ },
+ {
+  "id": 1302,
+  "en": "Arc Suit Lance's signature move.",
+  "it": "Mossa distintiva di Lance (Arc Suit)."
+ },
+ {
+  "id": 1303,
+  "en": "Arc Suit Leon's signature move.",
+  "it": "Mossa distintiva di Dandel (Arc Suit)."
+ },
+ {
+  "id": 1304,
+  "en": "Arc Suit N's signature move.",
+  "it": "Mossa distintiva di N (Arc Suit)."
+ },
+ {
+  "id": 1305,
+  "en": "Arc Suit Alder's signature move.",
+  "it": "Mossa distintiva di Nardo (Arc Suit)."
+ },
+ {
+  "id": 1306,
+  "en": "Arc Suit Silver's signature move.",
+  "it": "Mossa distintiva di Silver (Arc Suit)."
+ },
+ {
+  "id": 1307,
+  "en": "Arc Suit Ethan's signature move.",
+  "it": "Mossa distintiva di Ethan (Arc Suit)."
+ },
+ {
+  "id": 1308,
+  "en": "Arc Suit Blue's signature move.",
+  "it": "Mossa distintiva di Blue (Arc Suit)."
+ },
+ {
+  "id": 1309,
+  "en": "Arc Suit Brock's signature move.",
+  "it": "Mossa distintiva di Brock (Arc Suit)."
+ },
+ {
+  "id": 1310,
+  "en": "Arc Suit Misty's signature move.",
+  "it": "Mossa distintiva di Misty (Arc Suit)."
+ },
+ {
+  "id": 1320,
+  "en": "The user sets off an earthquake that strikes all enemy Pokémon.",
+  "it": "Il Pokémon scatena un terremoto che colpisce tutti i Pokémon avversari."
+ },
+ {
+  "id": 1321,
+  "en": "The user sets off an earthquake that strikes all enemy Pokémon.",
+  "it": "Il Pokémon scatena un terremoto che colpisce tutti i Pokémon avversari."
+ },
+ {
+  "id": 1322,
+  "en": "The user strikes the target with tough punches as fast as bullets. This move always goes first.",
+  "it": "Il Pokémon colpisce il bersaglio con pugni rapidi come proiettili. Questa mossa agisce sempre per prima."
+ },
+ {
+  "id": 1323,
+  "en": "The target is hit with a hard punch fired like a meteor.",
+  "it": "Il bersaglio viene colpito da un pugno potente scagliato come una meteora."
+ },
+ {
+  "id": 1324,
+  "en": "The foe is attacked with a powerful beam.",
+  "it": "L'avversario viene colpito da un raggio potente."
+ },
+ {
+  "id": 1325,
+  "en": "The user rampages, doing more damage the more the opponent's Sp. Def is lowered.",
+  "it": "Il Pokémon si scatena. Più la Difesa Speciale dell'avversario è stata ridotta, più danni infligge."
+ },
+ {
+  "id": 1326,
+  "en": "The foe is attacked with an intense blast of all-consuming fire. It also leaves the target with a burn.",
+  "it": "L'avversario viene investito da un'intensa vampata di fuoco che divora tutto. Scotta anche il bersaglio."
+ },
+ {
+  "id": 1327,
+  "en": "The foe is attacked with an intense blast of all-consuming fire.",
+  "it": "L'avversario viene investito da un'intensa vampata di fuoco che divora tutto."
+ },
+ {
+  "id": 1328,
+  "en": "The user lets loose a pitch-black shock wave at its target. It lowers the target's accuracy by 1 stage.",
+  "it": "Il Pokémon scaglia contro il bersaglio un'onda d'urto nerissima. Riduce di 1 livello la Precisione del bersaglio."
+ },
+ {
+  "id": 1329,
+  "en": "The user lets loose a pitch-black shock wave at its target. It lowers the target's stats 10 times.",
+  "it": "Il Pokémon scaglia contro il bersaglio un'onda d'urto nerissima. Riduce le statistiche del bersaglio 10 volte."
+ },
+ {
+  "id": 1330,
+  "en": "The foe is attacked with a powerful beam. Sets Bug Zone.",
+  "it": "L'avversario viene colpito da un raggio potente. Crea una Bug Zone."
+ },
+ {
+  "id": 1331,
+  "en": "The user vibrates its wings to generate a damaging sound wave, increasing the power of the user's next special move.",
+  "it": "Il Pokémon fa vibrare le ali e genera onde sonore dannose, potenziando la sua prossima mossa speciale."
+ },
+ {
+  "id": 1332,
+  "en": "The target is razed with a mystical fire of great intensity. It also leaves the target with a burn.",
+  "it": "Il bersaglio viene investito da un intenso fuoco mistico. Scotta anche il bersaglio."
+ },
+ {
+  "id": 1333,
+  "en": "The target is razed with a mystical fire of great intensity. Protects the user from damage from the rest of the turn.",
+  "it": "Il bersaglio viene investito da un intenso fuoco mistico. Protegge il Pokémon dai danni per il resto del turno."
+ },
+ {
+  "id": 1334,
+  "en": "A vortex of air is shot at the target to inflict damage. Always a critical hit.",
+  "it": "Il Pokémon scaglia un vortice d'aria contro il bersaglio. Va sempre a segno con un brutto colpo."
+ },
+ {
+  "id": 1335,
+  "en": "A vortex of air is shot at the target to inflict damage.",
+  "it": "Il Pokémon scaglia un vortice d'aria contro il bersaglio."
+ },
+ {
+  "id": 1336,
+  "en": "The user wraps its foe in a fierce wind that flies up into the sky. It also confuses the foe.",
+  "it": "Il Pokémon avvolge l'avversario in un vento impetuoso che lo solleva in cielo. Confonde anche l'avversario."
+ },
+ {
+  "id": 1337,
+  "en": "The user attacks with a blade of air that slices even the sky. It makes the target flinch.",
+  "it": "Il Pokémon attacca con una lama d'aria capace di fendere persino il cielo. Fa tentennare il bersaglio."
+ },
+ {
+  "id": 1338,
+  "en": "The user wraps its foe in a fierce wind that flies up into the sky. It also confuses the foe.",
+  "it": "Il Pokémon avvolge l'avversario in un vento impetuoso che lo solleva in cielo. Confonde anche l'avversario."
+ },
+ {
+  "id": 1339,
+  "en": "Large boulders are hurled at the foes to inflict damage. It may also make the targets flinch.",
+  "it": "Il Pokémon scaglia grossi massi contro i nemici. Può anche farli tentennare."
+ },
+ {
+  "id": 1340,
+  "en": "The user stabs the foe with sharpened stones from below. It always results in a critical hit.",
+  "it": "Il Pokémon trafigge l'avversario dal basso con pietre affilate. Va sempre a segno con un brutto colpo."
+ },
+ {
+  "id": 1341,
+  "en": "Large boulders are hurled at the foes to inflict damage.",
+  "it": "Il Pokémon scaglia grossi massi contro gli avversari."
+ },
+ {
+  "id": 1342,
+  "en": "A spray of bubbles is forcefully ejected at the target. It may also lower its Speed stat.",
+  "it": "Il bersaglio viene investito da uno spruzzo di bolle. Può ridurne la Velocità."
+ },
+ {
+  "id": 1343,
+  "en": "The target is blasted by a huge volume of water launched under great pressure.",
+  "it": "Il bersaglio viene colpito da un'enorme quantità d'acqua sparata ad alta pressione."
+ },
+ {
+  "id": 1344,
+  "en": "A spray of bubbles is forcefully ejected at the target. It may also lower its Speed stat.",
+  "it": "Il bersaglio viene investito da uno spruzzo di bolle. Può ridurne la Velocità."
  }
 ]

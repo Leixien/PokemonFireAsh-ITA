@@ -1333,5 +1333,850 @@
   "id": 267,
   "en": "Possesses 2 abilities, Unnerve and Grim Neigh",
   "it": "Possiede 2 abilità, Agitazione e Nitrito Nero"
+ },
+ {
+  "id": 268,
+  "en": "The Pokémon summons a sandstorm in battle and extends its duration.",
+  "it": "Il Pokémon scatena una tempesta di sabbia in lotta e ne prolunga la durata."
+ },
+ {
+  "id": 269,
+  "en": "The Pokémon sets up a Fighting Zone when entering the battle.",
+  "it": "Il Pokémon crea una Fighting Zone quando entra in lotta."
+ },
+ {
+  "id": 270,
+  "en": "Burns the target(s) when attacking.",
+  "it": "Scotta il bersaglio o i bersagli quando attacca."
+ },
+ {
+  "id": 271,
+  "en": "Turns the ground into Electric Terrain and extends its duration.",
+  "it": "Trasforma il terreno in Campo Elettrico e ne prolunga la durata."
+ },
+ {
+  "id": 272,
+  "en": "Turns the ground into Psychic Terrain and extends its duration.",
+  "it": "Trasforma il terreno in Campo Psichico e ne prolunga la durata."
+ },
+ {
+  "id": 273,
+  "en": "Turns the ground into Grassy Terrain and extends its duration.",
+  "it": "Trasforma il terreno in Campo Erboso e ne prolunga la durata."
+ },
+ {
+  "id": 274,
+  "en": "The Pokémon sets up a Fairy Zone when entering the battle and extends its duration.",
+  "it": "Il Pokémon crea una Fairy Zone quando entra in lotta e ne prolunga la durata."
+ },
+ {
+  "id": 275,
+  "en": "Boosts Sp. Atk each time a Pokémon faints.",
+  "it": "Aumenta l'Att. Sp. ogni volta che un Pokémon va KO."
+ },
+ {
+  "id": 276,
+  "en": "Boosts power and resistance of sound moves.",
+  "it": "Potenzia le mosse sonore e ne riduce i danni subiti."
+ },
+ {
+  "id": 277,
+  "en": "Boosts power and resistance of sound moves.",
+  "it": "Potenzia le mosse sonore e ne riduce i danni subiti."
+ },
+ {
+  "id": 278,
+  "en": "It changes type to that of the move it's about to use, except Normal type.",
+  "it": "Cambia il proprio tipo in quello della mossa che sta per usare, tranne il tipo Normale."
+ },
+ {
+  "id": 279,
+  "en": "Ups Sp. Atk if a hit makes its HP half or less.",
+  "it": "Aumenta l'Att. Sp. se un colpo dimezza i suoi PS."
+ },
+ {
+  "id": 280,
+  "en": "Maxes Atk when entering the field.",
+  "it": "Porta al massimo l'Attacco quando entra in campo."
+ },
+ {
+  "id": 281,
+  "en": "Raises speed of itself and allies when entering the field.",
+  "it": "Aumenta la Velocità propria e degli alleati quando entra in campo."
+ },
+ {
+  "id": 282,
+  "en": "The Pokémon raises the foe's PP usage.",
+  "it": "Fa consumare più PP al nemico."
+ },
+ {
+  "id": 283,
+  "en": "Moves can be used regardless of Abilities.",
+  "it": "Usa le mosse a prescindere dalle abilità."
+ },
+ {
+  "id": 284,
+  "en": "Boosts the likelihood of added effects appearing.",
+  "it": "Aumenta la probabilità degli effetti secondari."
+ },
+ {
+  "id": 400,
+  "en": "A body of pure, solid gold gives the Pokémon full immunity to other Pokémon's status moves.",
+  "it": "Il corpo d'oro puro e massiccio rende il Pokémon del tutto immune alle mosse di stato degli altri Pokémon."
+ },
+ {
+  "id": 401,
+  "en": "Reduces all special damage by 80%, but can't be KOed by a physical attack.",
+  "it": "Riduce dell'80% tutti i danni speciali, ma il Pokémon non può essere mandato KO da un attacco fisico."
+ },
+ {
+  "id": 402,
+  "en": "The Pokémon takes 1/8 of its max HP per hit.",
+  "it": "Il Pokémon subisce danni pari a 1/8 dei PS massimi a ogni colpo."
+ },
+ {
+  "id": 403,
+  "en": "The Pokémon randomly makes one Pokémon on the field faint every 5 turns.",
+  "it": "Ogni 5 turni il Pokémon manda KO a caso un Pokémon in campo."
+ },
+ {
+  "id": 404,
+  "en": "The Pokémon sets up an extreme weather based on the type of attack used.",
+  "it": "Il Pokémon scatena condizioni atmosferiche estreme in base al tipo dell'attacco usato."
+ },
+ {
+  "id": 405,
+  "en": "Contact may poison or cause paralysis or sleep.",
+  "it": "Il contatto può avvelenare, paralizzare o addormentare."
+ },
+ {
+  "id": 406,
+  "en": "The user's moves have increased accuracy if it is at full HP.",
+  "it": "Le mosse del Pokémon sono più precise se ha tutti i PS."
+ },
+ {
+  "id": 407,
+  "en": "The user changes form upon reaching 75% or lower of its max HP.",
+  "it": "Il Pokémon cambia forma quando i suoi PS scendono al 75% o meno."
+ },
+ {
+  "id": 408,
+  "en": "The user can't be KO'ed. Upon reaching less than 10% of its max HP, restore all HP and change form again.",
+  "it": "Il Pokémon non può andare KO. Quando i PS scendono sotto il 10%, li recupera tutti e cambia di nuovo forma."
+ },
+ {
+  "id": 409,
+  "en": "The user revives all enemy Pokémon upon its defeat.",
+  "it": "Quando viene sconfitto, il Pokémon rianima tutti i Pokémon nemici."
+ },
+ {
+  "id": 410,
+  "en": "The user opens its domain upon entering the battle.",
+  "it": "Il Pokémon apre il suo dominio quando entra in lotta."
+ },
+ {
+  "id": 411,
+  "en": "The user can only be damaged by critical hits.",
+  "it": "Il Pokémon può subire danni solo dai brutti colpi."
+ },
+ {
+  "id": 412,
+  "en": "The user's attack stat is doubled and becomes more resistant to attacks.",
+  "it": "L'Attacco del Pokémon raddoppia e diventa più resistente agli attacchi."
+ },
+ {
+  "id": 413,
+  "en": "Heal for 75% of damage dealt.",
+  "it": "Recupera PS pari al 75% dei danni inflitti."
+ },
+ {
+  "id": 414,
+  "en": "Inflicts damage to the foe after being attacked.",
+  "it": "Infligge danni all'avversario dopo aver subito un attacco."
+ },
+ {
+  "id": 415,
+  "en": "Removes attacks from existence most of the time.",
+  "it": "Il più delle volte cancella gli attacchi dall'esistenza."
+ },
+ {
+  "id": 416,
+  "en": "Boost user's speed and priority every turn.",
+  "it": "Aumenta la Velocità e la priorità del Pokémon a ogni turno."
+ },
+ {
+  "id": 417,
+  "en": "Gain/increase substitute after an attack.",
+  "it": "Ottiene o rafforza un sostituto dopo un attacco."
+ },
+ {
+  "id": 418,
+  "en": "Reduce target's hp by 25% of its hp after being attacked.",
+  "it": "Dopo aver subito un attacco, riduce i PS del bersaglio del 25%."
+ },
+ {
+  "id": 419,
+  "en": "Sinnoh's hopes are manifested in the raging earth.",
+  "it": "Le speranze di Sinnoh si manifestano nella terra impetuosa."
+ },
+ {
+  "id": 420,
+  "en": "Johto's hopes are manifested in this majestic beast.",
+  "it": "Le speranze di Johto si manifestano in questa bestia maestosa."
+ },
+ {
+  "id": 421,
+  "en": "Hoenn's hopes are manifested in this shiny iron.",
+  "it": "Le speranze di Hoenn si manifestano in questo ferro scintillante."
+ },
+ {
+  "id": 422,
+  "en": "Galar's hopes are manifested in this bright flame.",
+  "it": "Le speranze di Galar si manifestano in questa fiamma brillante."
+ },
+ {
+  "id": 423,
+  "en": "Unova's hopes are manifested in this dreadful beast.",
+  "it": "Le speranze di Unima si manifestano in questa bestia terrificante."
+ },
+ {
+  "id": 424,
+  "en": "Unova's hopes are manifested in this beautiful insect.",
+  "it": "Le speranze di Unima si manifestano in questo splendido insetto."
+ },
+ {
+  "id": 425,
+  "en": "Johto's hopes are manifested in this bright flame.",
+  "it": "Le speranze di Johto si manifestano in questa fiamma brillante."
+ },
+ {
+  "id": 426,
+  "en": "Johto's hopes are manifested in these high-flying wings.",
+  "it": "Le speranze di Johto si manifestano in queste ali che volano alte."
+ },
+ {
+  "id": 427,
+  "en": "Kanto's hopes are manifested in these high-flying wings.",
+  "it": "Le speranze di Kanto si manifestano in queste ali che volano alte."
+ },
+ {
+  "id": 428,
+  "en": "Kanto's hopes are manifested in this sturdy stone.",
+  "it": "Le speranze di Kanto si manifestano in questa robusta pietra."
+ },
+ {
+  "id": 429,
+  "en": "Kanto's hopes are manifested in this aquatic creature.",
+  "it": "Le speranze di Kanto si manifestano in questa creatura acquatica."
+ },
+ {
+  "id": 500,
+  "en": "Restores 2% of user's max HP after it uses a move.",
+  "it": "Ripristina il 2% dei PS massimi dopo aver usato una mossa."
+ },
+ {
+  "id": 501,
+  "en": "10% chance to boost Attack stat after using a move.",
+  "it": "10% di probabilità di aumentare l'Attacco dopo aver usato una mossa."
+ },
+ {
+  "id": 502,
+  "en": "10% chance to boost Defense stat after using a move.",
+  "it": "10% di probabilità di aumentare la Difesa dopo aver usato una mossa."
+ },
+ {
+  "id": 503,
+  "en": "10% chance to boost Special Attack stat after using a move.",
+  "it": "10% di probabilità di aumentare l'Attacco Speciale dopo aver usato una mossa."
+ },
+ {
+  "id": 504,
+  "en": "10% chance to boost Special Defense stat after using a move.",
+  "it": "10% di probabilità di aumentare la Difesa Speciale dopo aver usato una mossa."
+ },
+ {
+  "id": 505,
+  "en": "10% chance to boost Speed stat after using a move.",
+  "it": "10% di probabilità di aumentare la Velocità dopo aver usato una mossa."
+ },
+ {
+  "id": 506,
+  "en": "10% chance to boost Accuracy stat after using a move.",
+  "it": "10% di probabilità di aumentare la Precisione dopo aver usato una mossa."
+ },
+ {
+  "id": 507,
+  "en": "5% chance to boost Evasion stat after using a move.",
+  "it": "5% di probabilità di aumentare l'Elusione dopo aver usato una mossa."
+ },
+ {
+  "id": 508,
+  "en": "5% chance to boost Crit Rate after using a move.",
+  "it": "5% di probabilità di aumentare la probabilità di brutti colpi dopo aver usato una mossa."
+ },
+ {
+  "id": 509,
+  "en": "15% chance to boost Attack stat after being attacked.",
+  "it": "15% di probabilità di aumentare l'Attacco quando subisce un attacco."
+ },
+ {
+  "id": 510,
+  "en": "15% chance to boost Defense stat after being attacked.",
+  "it": "15% di probabilità di aumentare la Difesa quando subisce un attacco."
+ },
+ {
+  "id": 511,
+  "en": "15% chance to boost Special Attack stat after being attacked.",
+  "it": "15% di probabilità di aumentare l'Attacco Speciale quando subisce un attacco."
+ },
+ {
+  "id": 512,
+  "en": "15% chance to boost Special Defense stat after being attacked.",
+  "it": "15% di probabilità di aumentare la Difesa Speciale quando subisce un attacco."
+ },
+ {
+  "id": 513,
+  "en": "15% chance to boost Evasion stat after being attacked.",
+  "it": "15% di probabilità di aumentare l'Elusione quando subisce un attacco."
+ },
+ {
+  "id": 514,
+  "en": "Boosts Attack stat by 1 stage upon entering battle.",
+  "it": "Aumenta l'Attacco di un livello quando entra in campo."
+ },
+ {
+  "id": 515,
+  "en": "Boosts Defense stat by 1 stage upon entering battle.",
+  "it": "Aumenta la Difesa di un livello quando entra in campo."
+ },
+ {
+  "id": 516,
+  "en": "Boosts Special Attack stat by 1 stage upon entering battle.",
+  "it": "Aumenta l'Attacco Speciale di un livello quando entra in campo."
+ },
+ {
+  "id": 517,
+  "en": "Boosts Special Defense stat by 1 stage upon entering battle.",
+  "it": "Aumenta la Difesa Speciale di un livello quando entra in campo."
+ },
+ {
+  "id": 518,
+  "en": "Boosts Speed stat by 1 stage upon entering battle.",
+  "it": "Aumenta la Velocità di un livello quando entra in campo."
+ },
+ {
+  "id": 519,
+  "en": "Boosts Accuracy stat by 1 stage upon entering battle.",
+  "it": "Aumenta la Precisione di un livello quando entra in campo."
+ },
+ {
+  "id": 520,
+  "en": "Boosts Evasion stat by 1 stage upon entering battle.",
+  "it": "Aumenta l'Elusione di un livello quando entra in campo."
+ },
+ {
+  "id": 521,
+  "en": "Lower Attack stat of opponents by 1 stage upon entering battle.",
+  "it": "Riduce l'Attacco degli avversari di un livello quando entra in campo."
+ },
+ {
+  "id": 522,
+  "en": "Lower Defense stat of opponents by 1 stage upon entering battle.",
+  "it": "Riduce la Difesa degli avversari di un livello quando entra in campo."
+ },
+ {
+  "id": 523,
+  "en": "Lower Special Attack stat of opponents by 1 stage upon entering battle.",
+  "it": "Riduce l'Attacco Speciale degli avversari di un livello quando entra in campo."
+ },
+ {
+  "id": 524,
+  "en": "Lower Special Defense stat of opponents by 1 stage upon entering battle.",
+  "it": "Riduce la Difesa Speciale degli avversari di un livello quando entra in campo."
+ },
+ {
+  "id": 525,
+  "en": "Lower Speed stat of opponents by 1 stage upon entering battle.",
+  "it": "Riduce la Velocità degli avversari di un livello quando entra in campo."
+ },
+ {
+  "id": 526,
+  "en": "Lower Accuracy stat of opponents by 1 stage upon entering battle.",
+  "it": "Riduce la Precisione degli avversari di un livello quando entra in campo."
+ },
+ {
+  "id": 527,
+  "en": "Lower Evasion stat of opponents by 1 stage upon entering battle.",
+  "it": "Riduce l'Elusione degli avversari di un livello quando entra in campo."
+ },
+ {
+  "id": 528,
+  "en": "Creates a Normal Zone upon entering battle.",
+  "it": "Crea una Zona Normale quando entra in campo."
+ },
+ {
+  "id": 529,
+  "en": "Creates a Ice Zone upon entering battle.",
+  "it": "Crea una Zona Ghiaccio quando entra in campo."
+ },
+ {
+  "id": 530,
+  "en": "Turns the sunlight harsh upon entering battle.",
+  "it": "Quando entra in campo, la luce solare diventa intensa."
+ },
+ {
+  "id": 531,
+  "en": "The Pokémon makes it rain upon entering battle.",
+  "it": "Quando entra in campo, fa piovere."
+ },
+ {
+  "id": 532,
+  "en": "Turns the ground into Electric Terrain.",
+  "it": "Trasforma il terreno in Campo Elettrico."
+ },
+ {
+  "id": 533,
+  "en": "Turns the ground into Grassy Terrain.",
+  "it": "Trasforma il terreno in Campo Erboso."
+ },
+ {
+  "id": 534,
+  "en": "Turns the ground into Psychic Terrain.",
+  "it": "Trasforma il terreno in Campo Psichico."
+ },
+ {
+  "id": 535,
+  "en": "Creates a Fighting Zone upon entering battle.",
+  "it": "Crea una Zona Lotta quando entra in campo."
+ },
+ {
+  "id": 536,
+  "en": "The Pokémon summons a hailstorm upon entering battle.",
+  "it": "Quando entra in campo, scatena una grandinata."
+ },
+ {
+  "id": 537,
+  "en": "The Pokémon summons a sandstorm upon entering battle.",
+  "it": "Quando entra in campo, scatena una tempesta di sabbia."
+ },
+ {
+  "id": 538,
+  "en": "Creates a Poison Zone upon entering battle.",
+  "it": "Crea una Zona Veleno quando entra in campo."
+ },
+ {
+  "id": 539,
+  "en": "Creates a Ground Zone upon entering battle.",
+  "it": "Crea una Zona Terra quando entra in campo."
+ },
+ {
+  "id": 540,
+  "en": "Creates a Flying Zone upon entering battle.",
+  "it": "Crea una Zona Volante quando entra in campo."
+ },
+ {
+  "id": 541,
+  "en": "Creates a Bug Zone upon entering battle.",
+  "it": "Crea una Zona Coleottero quando entra in campo."
+ },
+ {
+  "id": 542,
+  "en": "Creates a Rock Zone upon entering battle.",
+  "it": "Crea una Zona Roccia quando entra in campo."
+ },
+ {
+  "id": 543,
+  "en": "Creates a Ghost Zone upon entering battle.",
+  "it": "Crea una Zona Spettro quando entra in campo."
+ },
+ {
+  "id": 544,
+  "en": "Creates a Dragon Zone upon entering battle.",
+  "it": "Crea una Zona Drago quando entra in campo."
+ },
+ {
+  "id": 545,
+  "en": "Creates a Dark Zone upon entering battle.",
+  "it": "Crea una Zona Buio quando entra in campo."
+ },
+ {
+  "id": 546,
+  "en": "Creates a Steel Zone upon entering battle.",
+  "it": "Crea una Zona Acciaio quando entra in campo."
+ },
+ {
+  "id": 547,
+  "en": "Creates a Fairy Zone upon entering battle.",
+  "it": "Crea una Zona Folletto quando entra in campo."
+ },
+ {
+  "id": 550,
+  "en": "Increase Atk. and Crit Rate when attacking.",
+  "it": "Aumenta Attacco e probabilità di brutti colpi quando attacca."
+ },
+ {
+  "id": 551,
+  "en": "Increase Sp. Atk. and Crit Rate when attacking.",
+  "it": "Aumenta Att. Sp. e probabilità di brutti colpi quando attacca."
+ },
+ {
+  "id": 552,
+  "en": "Turn single target attacks into AoE attacks.",
+  "it": "Le mosse a bersaglio singolo colpiscono tutti gli avversari."
+ },
+ {
+  "id": 553,
+  "en": "Double HP gained from healing.",
+  "it": "Raddoppia i PS recuperati con le cure."
+ },
+ {
+  "id": 560,
+  "en": "Doubles additional effect chance and stats can't be lowered in a sandstorm.",
+  "it": "Raddoppia la probabilità degli effetti secondari e, durante una tempesta di sabbia, le statistiche non possono essere ridotte."
+ },
+ {
+  "id": 561,
+  "en": "Gains gradual healing upon entry and 50% chance to increase evasion after using a move.",
+  "it": "Ottiene una cura graduale quando entra in campo e ha il 50% di probabilità di aumentare l'Elusione dopo aver usato una mossa."
+ },
+ {
+  "id": 562,
+  "en": "When Sunny, heal after using a move and stats can't be lowered.",
+  "it": "Con il sole, si cura dopo aver usato una mossa e le sue statistiche non possono essere ridotte."
+ },
+ {
+  "id": 563,
+  "en": "Skip recharge turns and moves will always land.",
+  "it": "Salta i turni di ricarica e le sue mosse vanno sempre a segno."
+ },
+ {
+  "id": 564,
+  "en": "Moves are always critical hits and heals after using a move in Electric Terrain.",
+  "it": "Le mosse sono sempre brutti colpi e, sul Campo Elettrico, si cura dopo aver usato una mossa."
+ },
+ {
+  "id": 565,
+  "en": "Raise Atk and Sp Atk of itself and allies when hit and raise Sp Def of itself and allies after using a move.",
+  "it": "Se colpito, aumenta Attacco e Att. Sp. suoi e degli alleati; dopo aver usato una mossa, aumenta la Dif. Sp. sua e degli alleati."
+ },
+ {
+  "id": 567,
+  "en": "Badly poison opponent and reduce its Def and Sp Def after using a move.",
+  "it": "Dopo aver usato una mossa, iperavvelena l'avversario e ne riduce Difesa e Dif. Sp."
+ },
+ {
+  "id": 568,
+  "en": "The user's moves will always land and are critical hits. Normal-type moves become Ground type.",
+  "it": "Le mosse vanno sempre a segno e sono brutti colpi. Le mosse di tipo Normale diventano di tipo Terra."
+ },
+ {
+  "id": 569,
+  "en": "Heal user's side after using a move when Sunny and increase team's stats when using a status move for the first time.",
+  "it": "Con il sole, cura la sua squadra dopo aver usato una mossa e aumenta le statistiche della squadra al primo uso di una mossa di stato."
+ },
+ {
+  "id": 570,
+  "en": "Turn single target attacks into AoE attacks. Restore PP for trainer move when a move is used.",
+  "it": "Le mosse a bersaglio singolo colpiscono tutti gli avversari. Usare una mossa ripristina i PP della mossa Allenatore."
+ },
+ {
+  "id": 571,
+  "en": "After using a move, flinch, trap and confuse opponent and lower its stats.",
+  "it": "Dopo aver usato una mossa, fa tentennare, intrappola e confonde l'avversario e ne riduce le statistiche."
+ },
+ {
+  "id": 572,
+  "en": "Heal user's side after using a move when Rainy and increase team's Sp Def when using a status move for the first time.",
+  "it": "Con la pioggia, cura la sua squadra dopo aver usato una mossa e aumenta la Dif. Sp. della squadra al primo uso di una mossa di stato."
+ },
+ {
+  "id": 573,
+  "en": "For each hit of a move, raise user's Evasion and lower target's Defense.",
+  "it": "A ogni colpo di una mossa, aumenta la propria Elusione e riduce la Difesa del bersaglio."
+ },
+ {
+  "id": 574,
+  "en": "Increase power of team's special moves when entering battle, increase likelihood of additional effects of moves and double stat drops.",
+  "it": "Entrando in campo potenzia le mosse speciali della squadra, aumenta la probabilità degli effetti secondari e raddoppia i cali di statistiche."
+ },
+ {
+  "id": 575,
+  "en": "Raise Speed of allies when switching in and lower target's Defense when using a move.",
+  "it": "Entrando in campo aumenta la Velocità degli alleati e riduce la Difesa del bersaglio quando usa una mossa."
+ },
+ {
+  "id": 576,
+  "en": "Raise Speed of allies when switching in and confuse the target when using a move.",
+  "it": "Entrando in campo aumenta la Velocità degli alleati e confonde il bersaglio quando usa una mossa."
+ },
+ {
+  "id": 577,
+  "en": "Raises stats when they would be lowered and double additional effect chance.",
+  "it": "Le statistiche aumentano anziché diminuire e raddoppia la probabilità degli effetti secondari."
+ },
+ {
+  "id": 578,
+  "en": "Raises stats when they would be lowered and has a chance to power up next attack after using a move.",
+  "it": "Le statistiche aumentano anziché diminuire e, dopo aver usato una mossa, può potenziare l'attacco successivo."
+ },
+ {
+  "id": 579,
+  "en": "Raises stats when they would be lowered, raises Sp Def of all allied sync pairs when using a status move and stat increases applied apply to all allies instead.",
+  "it": "Le statistiche aumentano anziché diminuire, aumenta la Dif. Sp. delle coppie alleate quando usa una mossa di stato e i suoi aumenti di statistiche vanno invece a tutti gli alleati."
+ },
+ {
+  "id": 580,
+  "en": "Raises stats when they would be lowered and applies Tailwind when a status move is used.",
+  "it": "Le statistiche aumentano anziché diminuire e usa Ventoincoda quando usa una mossa di stato."
+ },
+ {
+  "id": 581,
+  "en": "Lower target's stats when using a status move and power up moves against sleeping targets.",
+  "it": "Riduce le statistiche del bersaglio quando usa una mossa di stato e potenzia le mosse contro bersagli addormentati."
+ },
+ {
+  "id": 582,
+  "en": "Increase likelihood of additional effects of moves and ignore damage reduction effects.",
+  "it": "Aumenta la probabilità degli effetti secondari e ignora gli effetti che riducono i danni."
+ },
+ {
+  "id": 583,
+  "en": "Increase likelihood of additional effects of moves and reduce opponent's Def and Sp Def after using a move.",
+  "it": "Aumenta la probabilità degli effetti secondari e riduce Difesa e Dif. Sp. dell'avversario dopo aver usato una mossa."
+ },
+ {
+  "id": 584,
+  "en": "Sets Fighting Zone on entry and heal allied side after using a move.",
+  "it": "Crea una Zona Lotta quando entra in campo e cura la sua squadra dopo aver usato una mossa."
+ },
+ {
+  "id": 585,
+  "en": "Reduce damage and power up allied special attacks when using a status move when health is less than 50%.",
+  "it": "Riduce i danni e, con meno del 50% dei PS, potenzia gli attacchi speciali alleati quando usa una mossa di stato."
+ },
+ {
+  "id": 586,
+  "en": "Evasion can't be lowered and raise it when attacked.",
+  "it": "L'Elusione non può essere ridotta e aumenta quando subisce un attacco."
+ },
+ {
+  "id": 587,
+  "en": "Increase likelihood of additional effects of moves and power up moves in a pinch.",
+  "it": "Aumenta la probabilità degli effetti secondari e potenzia le mosse in difficoltà."
+ },
+ {
+  "id": 588,
+  "en": "Change Genesect's form when attacking and implant a type debuff of the corresponding type.",
+  "it": "Cambia la forma di Genesect quando attacca e applica al bersaglio un indebolimento del tipo corrispondente."
+ },
+ {
+  "id": 589,
+  "en": "Raises stats when they would be lowered and increase Attack on entry.",
+  "it": "Le statistiche aumentano anziché diminuire e aumenta l'Attacco quando entra in campo."
+ },
+ {
+  "id": 590,
+  "en": "Increase likelihood of additional effects of moves, ignores enduring effects when attacking and reduce damage taken when charging.",
+  "it": "Aumenta la probabilità degli effetti secondari, ignora gli effetti di resistenza quando attacca e riduce i danni subiti mentre si carica."
+ },
+ {
+  "id": 591,
+  "en": "Stats can't be lowered and moves will always land.",
+  "it": "Le statistiche non possono essere ridotte e le mosse vanno sempre a segno."
+ },
+ {
+  "id": 592,
+  "en": "Raises stats 3 times after using a move.",
+  "it": "Aumenta le statistiche 3 volte dopo aver usato una mossa."
+ },
+ {
+  "id": 593,
+  "en": "Lower opponent's Speed when switching in and increase Attack and Crit Rate after using a move.",
+  "it": "Entrando in campo riduce la Velocità dell'avversario e dopo aver usato una mossa aumenta Attacco e probabilità di brutti colpi."
+ },
+ {
+  "id": 594,
+  "en": "Turn single target attacks into AoE attacks and skip recharge turns.",
+  "it": "Le mosse a bersaglio singolo colpiscono tutti gli avversari e salta i turni di ricarica."
+ },
+ {
+  "id": 595,
+  "en": "Extend Electric Terrain duration and increase power of team's special moves when weather, terrain or zone changes.",
+  "it": "Prolunga il Campo Elettrico e potenzia le mosse speciali della squadra quando cambiano clima, campo o zona."
+ },
+ {
+  "id": 596,
+  "en": "Extend Psychic Terrain duration and increase power of attacks when weather, terrain or zone changes.",
+  "it": "Prolunga il Campo Psichico e potenzia gli attacchi quando cambiano clima, campo o zona."
+ },
+ {
+  "id": 597,
+  "en": "Extend Grassy Terrain duration and increase power of team's physical moves when weather, terrain or zone changes.",
+  "it": "Prolunga il Campo Erboso e potenzia le mosse fisiche della squadra quando cambiano clima, campo o zona."
+ },
+ {
+  "id": 598,
+  "en": "User's stats can't be lowered and lower Sp Atk stat of target when using a move.",
+  "it": "Le statistiche non possono essere ridotte e riduce l'Att. Sp. del bersaglio quando usa una mossa."
+ },
+ {
+  "id": 599,
+  "en": "Skip recharge turns and lower opponent's stats when using a move.",
+  "it": "Salta i turni di ricarica e riduce le statistiche dell'avversario quando usa una mossa."
+ },
+ {
+  "id": 600,
+  "en": "Set and extend Electric Terrain duration on switch in and ignore target's enduring effects when attacking.",
+  "it": "Entrando in campo crea e prolunga il Campo Elettrico e ignora gli effetti di resistenza del bersaglio quando attacca."
+ },
+ {
+  "id": 601,
+  "en": "Set and extend Poison Zone duration on switch in and lower target's stats if it's poisoned or paralyzed.",
+  "it": "Entrando in campo crea e prolunga la Zona Veleno e riduce le statistiche del bersaglio se è avvelenato o paralizzato."
+ },
+ {
+  "id": 602,
+  "en": "Increase power of team's special moves and increase Special Attack and Crit Rate after using a move.",
+  "it": "Potenzia le mosse speciali della squadra e aumenta Att. Sp. e probabilità di brutti colpi dopo aver usato una mossa."
+ },
+ {
+  "id": 603,
+  "en": "Trap opponent and increase Attack and Crit Rate after using a move.",
+  "it": "Intrappola l'avversario e aumenta Attacco e probabilità di brutti colpi dopo aver usato una mossa."
+ },
+ {
+  "id": 604,
+  "en": "Restores 2% of user's max HP after it uses a move.",
+  "it": "Ripristina il 2% dei PS massimi dopo aver usato una mossa."
+ },
+ {
+  "id": 605,
+  "en": "For each hit of a move, lower target's Defense and Speed.",
+  "it": "A ogni colpo di una mossa, riduce Difesa e Velocità del bersaglio."
+ },
+ {
+  "id": 606,
+  "en": "Sets Tailwind on switch in and power up moves when at max HP.",
+  "it": "Entrando in campo attiva Ventoincoda e potenzia le mosse quando ha i PS al massimo."
+ },
+ {
+  "id": 607,
+  "en": "Turn single target attacks into AoE attacks and ignore Enduring effects, raise team's Speed and lower target's Special Defense when attacking.",
+  "it": "Le mosse a bersaglio singolo colpiscono tutti gli avversari e ignorano gli effetti di resistenza; quando attacca aumenta la Velocità della squadra e riduce la Dif. Sp. del bersaglio."
+ },
+ {
+  "id": 608,
+  "en": "Raises stats when they would be lowered and raise Speed when attacking.",
+  "it": "Le statistiche aumentano anziché diminuire e aumenta la Velocità quando attacca."
+ },
+ {
+  "id": 609,
+  "en": "Increase likelihood of additional effects of moves and double stat drops on targets.",
+  "it": "Aumenta la probabilità degli effetti secondari e raddoppia i cali di statistiche sui bersagli."
+ },
+ {
+  "id": 610,
+  "en": "Increase likelihood of additional effects of moves and confuse targets when attacking.",
+  "it": "Aumenta la probabilità degli effetti secondari e confonde i bersagli quando attacca."
+ },
+ {
+  "id": 611,
+  "en": "Power up team's moves when using a status move and lower target's Attack and Special Attack if it's trapped, confused or flinching.",
+  "it": "Potenzia le mosse della squadra quando usa una mossa di stato e riduce Attacco e Att. Sp. del bersaglio se è intrappolato, confuso o tentenna."
+ },
+ {
+  "id": 612,
+  "en": "Max out hits when using when using a multi-strike move and lower target's stats when a move hits.",
+  "it": "Le mosse a colpi multipli colpiscono il numero massimo di volte e riducono le statistiche del bersaglio quando vanno a segno."
+ },
+ {
+  "id": 613,
+  "en": "Lower target's Accuracy when attacking and may cause it to flinch.",
+  "it": "Riduce la Precisione del bersaglio quando attacca e può farlo tentennare."
+ },
+ {
+  "id": 614,
+  "en": "Immune to status conditions and chance to restore HP when attacking.",
+  "it": "Immune ai problemi di stato e può recuperare PS quando attacca."
+ },
+ {
+  "id": 615,
+  "en": "Immune to stat drops and restores team's HP when in a Dark Zone.",
+  "it": "Immune ai cali di statistiche e ripristina i PS della squadra in una Zona Buio."
+ },
+ {
+  "id": 616,
+  "en": "Max out Crit Rate on switch in and restore HP and power up special moves when dropping below 50% HP for the first time in battle.",
+  "it": "Entrando in campo massimizza la probabilità di brutti colpi; la prima volta che scende sotto il 50% dei PS si cura e potenzia le mosse speciali."
+ },
+ {
+  "id": 617,
+  "en": "Lower target's Sp Def by same amount when lowering its Def. Increase Atk on switch in.",
+  "it": "Quando riduce la Difesa del bersaglio, ne riduce anche la Dif. Sp. della stessa misura. Aumenta l'Attacco quando entra in campo."
+ },
+ {
+  "id": 618,
+  "en": "Raise team's Speed when switching in and immune to critical hits.",
+  "it": "Aumenta la Velocità della squadra quando entra in campo ed è immune ai brutti colpi."
+ },
+ {
+  "id": 619,
+  "en": "Moves will always land and be critical hits. When a move lands, power up user's special moves based on number of targets hit and lower their resistance to ice moves.",
+  "it": "Le mosse vanno sempre a segno e sono brutti colpi. Quando una mossa va a segno, potenzia le mosse speciali in base ai bersagli colpiti e riduce la loro resistenza alle mosse Ghiaccio."
+ },
+ {
+  "id": 620,
+  "en": "A status move also lowers the target's Atk., Sp. Atk. and Sp. Def. and its resistance to fire moves.",
+  "it": "Le mosse di stato riducono anche Attacco, Att. Sp. e Dif. Sp. del bersaglio e la sua resistenza alle mosse Fuoco."
+ },
+ {
+  "id": 621,
+  "en": "Moves lower target's resistance to electric moves and increase team's Def. and Sp. Def..",
+  "it": "Le mosse riducono la resistenza del bersaglio alle mosse Elettro e aumentano Difesa e Dif. Sp. della squadra."
+ },
+ {
+  "id": 622,
+  "en": "Using trainer moves max out user's attack and power up its physical attacks. Moves will always be critical hits.",
+  "it": "Usare mosse Allenatore massimizza l'Attacco e potenzia gli attacchi fisici. Le mosse sono sempre brutti colpi."
+ },
+ {
+  "id": 623,
+  "en": "Normal moves become the user's secondary type. When using a move, raise team's Def. or Sp. Def. and lower its resistance to its secondary type.",
+  "it": "Le mosse Normali diventano del suo tipo secondario. Usando una mossa, aumenta Difesa o Dif. Sp. della squadra e riduce la resistenza del bersaglio al suo tipo secondario."
+ },
+ {
+  "id": 624,
+  "en": "Extend duration of sandstorm and power up user's moves while in a sandstorm. Power up user's physical moves after using a move in a sandstorm.",
+  "it": "Prolunga la tempesta di sabbia e vi potenzia le proprie mosse. Dopo aver usato una mossa nella tempesta di sabbia, potenzia le mosse fisiche."
+ },
+ {
+  "id": 625,
+  "en": "Moves will always land and be critical hits. Power up user's physical and special moves after using a move.",
+  "it": "Le mosse vanno sempre a segno e sono brutti colpi. Dopo aver usato una mossa, potenzia le mosse fisiche e speciali."
+ },
+ {
+  "id": 626,
+  "en": "Raise team's speed and evasion after using a move and ignore target's enduring effect.",
+  "it": "Dopo aver usato una mossa aumenta Velocità ed Elusione della squadra e ignora gli effetti di resistenza del bersaglio."
+ },
+ {
+  "id": 627,
+  "en": "Increase Sp. Atk. by 2 on entry and power up moves while raining. Moves will always land and be critical hits.",
+  "it": "Entrando in campo aumenta l'Att. Sp. di 2 livelli e con la pioggia potenzia le mosse. Le mosse vanno sempre a segno e sono brutti colpi."
+ },
+ {
+  "id": 628,
+  "en": "Increase Atk. by 2 on entry and power up moves while sunny. Moves will always land and be critical hits.",
+  "it": "Entrando in campo aumenta l'Attacco di 2 livelli e con il sole potenzia le mosse. Le mosse vanno sempre a segno e sono brutti colpi."
+ },
+ {
+  "id": 629,
+  "en": "Increase Atk. by 2 on entry. Moves will always be critical hits. Automatically use Morning Sun when below 50% HP.",
+  "it": "Entrando in campo aumenta l'Attacco di 2 livelli. Le mosse sono sempre brutti colpi. Usa Mattindoro da solo sotto il 50% dei PS."
+ },
+ {
+  "id": 630,
+  "en": "Increase Sp. Atk. by 2 on entry. Moves will always be critical hits. Automatically use Moonlight when below 50% HP.",
+  "it": "Entrando in campo aumenta l'Att. Sp. di 2 livelli. Le mosse sono sempre brutti colpi. Usa Lucelunare da solo sotto il 50% dei PS."
  }
 ]

@@ -15,124 +15,44 @@
   "it": "\\bOak: Aspetta, non dimenticare Pikachu!"
  },
  {
-  "id": "Battle?\\ch[1,1,Red,Blue,Green,Yellow,Gold,Silver, Crystal,Ruby,Sapphire,Emerald,Diamond,Pearl,Platinum, Black,White,Blake,Whitley,X,Y,Sun,Moon,Henry,Casey]",
-  "en": "Battle?\\ch[1,1,Red,Blue,Green,Yellow,Gold,Silver, Crystal,Ruby,Sapphire,Emerald,Diamond,Pearl,Platinum, Black,White,Blake,Whitley,X,Y,Sun,Moon,Henry,Casey]",
-  "it": "Lottare?\\ch[1,1,Red,Blue,Green,Yellow,Gold,Silver, Crystal,Ruby,Sapphire,Emerald,Diamond,Pearl,Platinum, Black,White,Blake,Whitley,X,Y,Sun,Moon,Henry,Casey]"
+  "id": "[SYSTEM ACTIVATING.......]",
+  "en": "[SYSTEM ACTIVATING.......]",
+  "it": "[ATTIVAZIONE SISTEMA.......]"
  },
  {
-  "id": "This place...appears to be Pallet Town.",
-  "en": "This place...appears to be Pallet Town.",
-  "it": "Questo posto... sembra essere Biancavilla."
+  "id": "[WARNING! WARNING!]",
+  "en": "[WARNING!  WARNING!]",
+  "it": "[ATTENZIONE!  ATTENZIONE!]"
  },
  {
-  "id": "This place...appears to be the Viridian Gym.",
-  "en": "This place...appears to be the Viridian Gym.",
-  "it": "Questo posto... sembra essere la Palestra di Smeraldopoli."
+  "id": "Teleport?",
+  "en": "Teleport?",
+  "it": "Teletrasporto?"
  },
  {
-  "id": "This place...appears to be the Indigo Plateau.",
-  "en": "This place...appears to be the Indigo Plateau.",
-  "it": "Questo posto... sembra essere l'Altopiano Blu."
+  "id": "\\bHey, surprise surprise! \\PN! I'm Hitsukid, you must have finished your Journey to be a Pokemon Master.",
+  "en": "\\bHey, surprise surprise! \\PN! I'm Hitsukid, you must have finished your Journey to be a Pokemon Master.",
+  "it": "\\bEhi, ma guarda un po'! \\PN! Sono Hitsukid. Devi aver completato il tuo viaggio per diventare un Maestro di Pokémon."
  },
  {
-  "id": "This place...appears to be Viridian Forest.",
-  "en": "This place...appears to be Viridian Forest.",
-  "it": "Questo posto... sembra essere il Bosco Smeraldo."
+  "id": "\\bBut do you really think you are the very best?",
+  "en": "\\bBut do you really think you are the very best?",
+  "it": "\\bMa credi davvero di essere il migliore in assoluto?"
  },
  {
-  "id": "This place...appears to be New Bark Town.",
-  "en": "This place...appears to be New Bark Town.",
-  "it": "Questo posto... sembra essere Borgo Foglianova."
+  "id": "\\bWe have two Quantum Transporters here, bringing you to other dimensions in order to satisfy your hunger for more challenges.",
+  "en": "\\bWe have two Quantum Transporters here, bringing you to other dimensions in order to satisfy your hunger for more challenges.",
+  "it": "\\bQui abbiamo due Trasportatori Quantici, che ti portano in altre dimensioni per saziare la tua fame di nuove sfide."
  },
  {
-  "id": "This place...appears to be Viridian City.",
-  "en": "This place...appears to be Viridian City.",
-  "it": "Questo posto... sembra essere Smeraldopoli."
+  "id": "\\bWatch out though, I am sensing tenacious vibes through those devices.",
+  "en": "\\bWatch out though, I am sensing tenacious vibes through those devices.",
+  "it": "\\bPerò fai attenzione: percepisco vibrazioni tenaci provenire da quei dispositivi."
  },
  {
-  "id": "This place...appears to be Ecruteak City.",
-  "en": "This place...appears to be Ecruteak City.",
-  "it": "Questo posto... sembra essere Amarantopoli."
- },
- {
-  "id": "This place...appears to be Slateport City.",
-  "en": "This place...appears to be Slateport City.",
-  "it": "Questo posto... sembra essere Porto Selcepoli."
- },
- {
-  "id": "This place...appears to be Littleroot Town.",
-  "en": "This place...appears to be Littleroot Town.",
-  "it": "Questo posto... sembra essere Albanova."
- },
- {
-  "id": "This place...appears to be the Battle Tower.",
-  "en": "This place...appears to be the Battle Tower.",
-  "it": "Questo posto... sembra essere la Torre Lotta."
- },
- {
-  "id": "This place...appears to be Iron Island.",
-  "en": "This place...appears to be Iron Island.",
-  "it": "Questo posto... sembra essere l'Isola Ferrosa."
- },
- {
-  "id": "This place...appears to be Pastoria City.",
-  "en": "This place...appears to be Pastoria City.",
-  "it": "Questo posto... sembra essere Pratopoli."
- },
- {
-  "id": "This place...appears to be Mt. Coronet.",
-  "en": "This place...appears to be Mt. Coronet.",
-  "it": "Questo posto... sembra essere il Monte Corona."
- },
- {
-  "id": "This place...appears to be the Unova Pokémon League.",
-  "en": "This place...appears to be the Unova Pokémon League.",
-  "it": "Questo posto... sembra essere la Lega Pokémon di Unima."
- },
- {
-  "id": "This place...appears to be Nimbasa City.",
-  "en": "This place...appears to be Nimbasa City.",
-  "it": "Questo posto... sembra essere Sciroccopoli."
- },
- {
-  "id": "This place...appears to be Virbank City.",
-  "en": "This place...appears to be Virbank City.",
-  "it": "Questo posto... sembra essere Virbopoli."
- },
- {
-  "id": "This place...appears to be Aspertia City.",
-  "en": "This place...appears to be Aspertia City.",
-  "it": "Questo posto... sembra essere Alisopoli."
- },
- {
-  "id": "This place...appears to be Geosenge Town.",
-  "en": "This place...appears to be Geosenge Town.",
-  "it": "Questo posto... sembra essere Cromleburgo."
- },
- {
-  "id": "This place...appears to be Shalour City.",
-  "en": "This place...appears to be Shalour City.",
-  "it": "Questo posto... sembra essere Yantaropoli."
- },
- {
-  "id": "This place...appears to be Iki Town.",
-  "en": "This place...appears to be Iki Town.",
-  "it": "Questo posto... sembra essere Lili."
- },
- {
-  "id": "This place...appears to be Aether Paradise.",
-  "en": "This place...appears to be Aether Paradise.",
-  "it": "Questo posto... sembra essere il Paradiso Aether."
- },
- {
-  "id": "This place...appears to be Tower Summit.",
-  "en": "This place...appears to be Tower Summit.",
-  "it": "Questo posto... sembra essere la Cima della Torre."
- },
- {
-  "id": "This place...appears to be Slumbering Weald.",
-  "en": "This place...appears to be Slumbering Weald.",
-  "it": "Questo posto... sembra essere il Bosco Assopito."
+  "id": "\\bSeems like great challenges for you to overcome... but you have been warned. ALL THE BEST!",
+  "en": "\\bSeems like great challenges for you to overcome...  but you have been warned. ALL THE BEST!",
+  "it": "\\bSembrano grandi sfide da superare...  ma sei stato avvisato. IN BOCCA AL LUPO!"
  },
  {
   "id": "\\bOak: Ah \\PN, how is it going? Is your Pikachu doing well?",
@@ -300,6 +220,21 @@
   "it": "Pikachu ha iniziato a seguirti.\\se[itemlevel]\\wtnp[20]"
  },
  {
+  "id": "Gary: Pallet Town\\n Paul: Veilstone City\\n Barry: Twinleaf Town",
+  "en": "Gary: Pallet Town\\n Paul: Veilstone City\\n Barry: Twinleaf Town",
+  "it": "Gary: Biancavilla\\n Paul: Rupepoli\\n Barry: Duefoglie"
+ },
+ {
+  "id": "Trip: Nuvema Town\\n Alain: Professor Sycamore's Lab\\n Sawyer: Lumiose City",
+  "en": "Trip: Nuvema Town\\n Alain: Professor Sycamore's Lab\\n Sawyer: Lumiose City",
+  "it": "Trip: Soffiolieve\\n Alain: Laboratorio del Prof. Platan\\n Sawyer: Luminopoli"
+ },
+ {
+  "id": "Gladion: Hau'oli City\\n Hau: Tapu Village",
+  "en": "Gladion: Hau'oli City\\n Hau: Tapu Village",
+  "it": "Iridio: Hau'oli\\n Hau: Villaggio Tapu"
+ },
+ {
   "id": "Misty: Cerulean City\\n Brock: Pewter City\\n Tracey: Oak's Corral",
   "en": "Misty: Cerulean City\\n Brock: Pewter City\\n Tracey: Oak's Corral",
   "it": "Misty: Celestopoli\\n Brock: Plumbeopoli\\n Tracey: Recinto di Oak"
@@ -335,21 +270,6 @@
   "it": "Goh: Parco Cerise"
  },
  {
-  "id": "Gary: Pallet Town\\n Paul: Veilstone City\\n Barry: Twinleaf Town",
-  "en": "Gary: Pallet Town\\n Paul: Veilstone City\\n Barry: Twinleaf Town",
-  "it": "Gary: Biancavilla\\n Paul: Rupepoli\\n Barry: Duefoglie"
- },
- {
-  "id": "Trip: Nuvema Town\\n Alain: Professor Sycamore's Lab\\n Sawyer: Lumiose City",
-  "en": "Trip: Nuvema Town\\n Alain: Professor Sycamore's Lab\\n Sawyer: Lumiose City",
-  "it": "Trip: Soffiolieve\\n Alain: Laboratorio del Prof. Platan\\n Sawyer: Luminopoli"
- },
- {
-  "id": "Gladion: Hau'oli City\\n Hau: Tapu Village",
-  "en": "Gladion: Hau'oli City\\n Hau: Tapu Village",
-  "it": "Iridio: Hau'oli\\n Hau: Villaggio Tapu"
- },
- {
   "id": "\\PN received a Pokédex!",
   "en": "\\PN received a Pokédex!",
   "it": "\\PN ha ricevuto un Pokédex!"
@@ -360,6 +280,16 @@
   "it": "Hai già un Pokédex."
  },
  {
+  "id": "\\bMuk! Muk!",
+  "en": "\\bMuk! Muk!",
+  "it": "\\bMuk! Muk!"
+ },
+ {
+  "id": "Rotom!!",
+  "en": "Rotom!!",
+  "it": "Rotom!!"
+ },
+ {
   "id": "\\bHello \\PN. I've managed to make a machine that captures the essence of powerful Trainers from a different dimension.",
   "en": "\\bHello \\PN. I've managed to make a machine that captures the essence of powerful Trainers from a different dimension.",
   "it": "\\bCiao \\PN. Sono riuscito a costruire una macchina che cattura l'essenza di Allenatori potenti provenienti da un'altra dimensione."
@@ -368,11 +298,6 @@
   "id": "\\bThey are called 'Pokédex holders'. Feel free to try the machine out.",
   "en": "\\bThey are called 'Pokédex holders'. Feel free to try the machine out.",
   "it": "\\bVengono chiamati \"Possessori di Pokédex\". Prova pure la macchina."
- },
- {
-  "id": "Rotom!!",
-  "en": "Rotom!!",
-  "it": "Rotom!!"
  },
  {
   "id": "\\bOak: \\PN, you're late. All of the starter Pokémon have been taken. ...Well there is one left, but it is a bit reckless.",
@@ -398,6 +323,176 @@
   "id": "\\bDon't forget to take your Pokédex before you leave.",
   "en": "\\bDon't forget to take your Pokédex before you leave.",
   "it": "\\bNon dimenticare di prendere il tuo Pokédex prima di andare."
+ },
+ {
+  "id": "[SYSTEM ACTIVATING........]",
+  "en": "[SYSTEM ACTIVATING........]",
+  "it": "[ATTIVAZIONE SISTEMA........]"
+ },
+ {
+  "id": "[DANGER! DANGER!]",
+  "en": "[DANGER!  DANGER!]",
+  "it": "[PERICOLO!  PERICOLO!]"
+ },
+ {
+  "id": "Teleport?\\ch[1,1,Red,Blue,Green,Yellow,Gold,Silver, Crystal,Ruby,Sapphire,Emerald,Diamond,Pearl,Platinum, Black,White,Blake,Whitley,X,Y,Sun,Moon,Henry,Casey,No]",
+  "en": "Teleport?\\ch[1,1,Red,Blue,Green,Yellow,Gold,Silver, Crystal,Ruby,Sapphire,Emerald,Diamond,Pearl,Platinum, Black,White,Blake,Whitley,X,Y,Sun,Moon,Henry,Casey,No]",
+  "it": "Teletrasporto?\\ch[1,1,Red,Blue,Green,Yellow,Gold,Silver, Crystal,Ruby,Sapphire,Emerald,Diamond,Pearl,Platinum, Black,White,Blake,Whitley,X,Y,Sun,Moon,Henry,Casey,No]"
+ },
+ {
+  "id": "This place...appears to be Pallet Town.",
+  "en": "This place...appears to be Pallet Town.",
+  "it": "Questo posto... sembra essere Biancavilla."
+ },
+ {
+  "id": "This place...appears to be the Viridian Gym.",
+  "en": "This place...appears to be the Viridian Gym.",
+  "it": "Questo posto... sembra essere la Palestra di Smeraldopoli."
+ },
+ {
+  "id": "This place...appears to be the Indigo Plateau.",
+  "en": "This place...appears to be the Indigo Plateau.",
+  "it": "Questo posto... sembra essere l'Altopiano Blu."
+ },
+ {
+  "id": "This place...appears to be Viridian Forest.",
+  "en": "This place...appears to be Viridian Forest.",
+  "it": "Questo posto... sembra essere il Bosco Smeraldo."
+ },
+ {
+  "id": "This place...appears to be New Bark Town.",
+  "en": "This place...appears to be New Bark Town.",
+  "it": "Questo posto... sembra essere Borgo Foglianova."
+ },
+ {
+  "id": "This place...appears to be Viridian City.",
+  "en": "This place...appears to be Viridian City.",
+  "it": "Questo posto... sembra essere Smeraldopoli."
+ },
+ {
+  "id": "This place...appears to be Ecruteak City.",
+  "en": "This place...appears to be Ecruteak City.",
+  "it": "Questo posto... sembra essere Amarantopoli."
+ },
+ {
+  "id": "This place...appears to be Slateport City.",
+  "en": "This place...appears to be Slateport City.",
+  "it": "Questo posto... sembra essere Porto Selcepoli."
+ },
+ {
+  "id": "This place...appears to be Littleroot Town.",
+  "en": "This place...appears to be Littleroot Town.",
+  "it": "Questo posto... sembra essere Albanova."
+ },
+ {
+  "id": "This place...appears to be the Battle Tower.",
+  "en": "This place...appears to be the Battle Tower.",
+  "it": "Questo posto... sembra essere la Torre Lotta."
+ },
+ {
+  "id": "This place...appears to be Iron Island.",
+  "en": "This place...appears to be Iron Island.",
+  "it": "Questo posto... sembra essere l'Isola Ferrosa."
+ },
+ {
+  "id": "This place...appears to be Pastoria City.",
+  "en": "This place...appears to be Pastoria City.",
+  "it": "Questo posto... sembra essere Pratopoli."
+ },
+ {
+  "id": "This place...appears to be Mt. Coronet.",
+  "en": "This place...appears to be Mt. Coronet.",
+  "it": "Questo posto... sembra essere il Monte Corona."
+ },
+ {
+  "id": "This place...appears to be the Unova Pokémon League.",
+  "en": "This place...appears to be the Unova Pokémon League.",
+  "it": "Questo posto... sembra essere la Lega Pokémon di Unima."
+ },
+ {
+  "id": "This place...appears to be Nimbasa City.",
+  "en": "This place...appears to be Nimbasa City.",
+  "it": "Questo posto... sembra essere Sciroccopoli."
+ },
+ {
+  "id": "This place...appears to be Virbank City.",
+  "en": "This place...appears to be Virbank City.",
+  "it": "Questo posto... sembra essere Virbopoli."
+ },
+ {
+  "id": "This place...appears to be Aspertia City.",
+  "en": "This place...appears to be Aspertia City.",
+  "it": "Questo posto... sembra essere Alisopoli."
+ },
+ {
+  "id": "This place...appears to be Geosenge Town.",
+  "en": "This place...appears to be Geosenge Town.",
+  "it": "Questo posto... sembra essere Cromleburgo."
+ },
+ {
+  "id": "This place...appears to be Shalour City.",
+  "en": "This place...appears to be Shalour City.",
+  "it": "Questo posto... sembra essere Yantaropoli."
+ },
+ {
+  "id": "This place...appears to be Iki Town.",
+  "en": "This place...appears to be Iki Town.",
+  "it": "Questo posto... sembra essere Lili."
+ },
+ {
+  "id": "This place...appears to be Aether Paradise.",
+  "en": "This place...appears to be Aether Paradise.",
+  "it": "Questo posto... sembra essere il Paradiso Aether."
+ },
+ {
+  "id": "This place...appears to be Tower Summit.",
+  "en": "This place...appears to be Tower Summit.",
+  "it": "Questo posto... sembra essere la Cima della Torre."
+ },
+ {
+  "id": "This place...appears to be Slumbering Weald.",
+  "en": "This place...appears to be Slumbering Weald.",
+  "it": "Questo posto... sembra essere il Bosco Assopito."
+ },
+ {
+  "id": "\\bOak: I'm not sure what else there is for you to do, \\PN. I would say you've made huge strides to becoming a Pokémon Master.",
+  "en": "\\bOak: I'm not sure what else there is for you to do, \\PN. I would say you've made huge strides to becoming a Pokémon Master.",
+  "it": "\\bOak: Non so cos'altro ti resti da fare, \\PN. Direi che hai fatto passi da gigante per diventare un Maestro di Pokémon."
+ },
+ {
+  "id": "\\bYou could seek out the friends you've met along the way. They may want to see you again. I have a list of the places where they are somewhere around here.",
+  "en": "\\bYou could seek out the friends you've met along the way. They may want to see you again. I have a list of the places where they are somewhere around here.",
+  "it": "\\bPotresti andare a cercare gli amici che hai incontrato lungo la strada. Forse vorranno rivederti. Ho una lista dei posti dove si trovano, qui da qualche parte."
+ },
+ {
+  "id": "\\bThere is also a battle hall in Driftveil City that might interest you.",
+  "en": "\\bThere is also a battle hall in Driftveil City that might interest you.",
+  "it": "\\bC'è anche un Salone Lotta a Libecciopoli che potrebbe interessarti."
+ },
+ {
+  "id": "\\bWhat's that? You want me to see your Pokédex?",
+  "en": "\\bWhat's that? You want me to see your Pokédex?",
+  "it": "\\bCome? Vuoi che dia un'occhiata al tuo Pokédex?"
+ },
+ {
+  "id": "\\bHmm... I see...",
+  "en": "\\bHmm... I see...",
+  "it": "\\bMmh... Vedo..."
+ },
+ {
+  "id": "\\bWow! Well done on completing the Pokédex, \\PN!",
+  "en": "\\bWow! Well done on completing the Pokédex, \\PN!",
+  "it": "\\bWow! Complimenti per aver completato il Pokédex, \\PN!"
+ },
+ {
+  "id": "\\bHere's a reward.",
+  "en": "\\bHere's a reward.",
+  "it": "\\bEcco una ricompensa."
+ },
+ {
+  "id": "\\bRemeber \\PN, your adventure doesn't end here. There's still so much for you to explore in this vast world!",
+  "en": "\\bRemeber \\PN, your adventure doesn't end here.  There's still so much for you to explore in this vast world!",
+  "it": "\\bRicorda, \\PN, la tua avventura non finisce qui.  C'è ancora tantissimo da esplorare in questo vasto mondo!"
  },
  {
   "id": "\\bOak: I hear you've beaten the Unova region as well. Wonderful work, \\PN.",
@@ -435,9 +530,9 @@
   "it": "\\bOak: Vai a Smeraldopoli. Lì ci sarà un dirigibile che ti porterà a destinazione."
  },
  {
-  "id": "\\bOak: I hear you were the runner up of Kalos League. Wonderful work.",
-  "en": "\\bOak: I hear you were the runner up of Kalos League. Wonderful work.",
-  "it": "\\bOak: Ho sentito che sei arrivato secondo alla Lega di Kalos. Ottimo lavoro."
+  "id": "\\bOak: I hear you've beaten the Kalos region as well. Wonderful work.",
+  "en": "\\bOak: I hear you've beaten the Kalos region as well.  Wonderful work.",
+  "it": "\\bOak: Ho sentito che hai conquistato anche la regione di Kalos.  Ottimo lavoro."
  },
  {
   "id": "\\bIt's also wonderful timing. Your mother just won a trip to the Alola region.",
@@ -533,21 +628,6 @@
   "id": "\\bI'm truly proud of you, \\PN. I wish you luck in your next journey. And know that you're always welcomed back home.",
   "en": "\\bI'm truly proud of you, \\PN. I wish you luck in your next journey. And know that you're always welcomed back home.",
   "it": "\\bSono davvero fiero di te, \\PN. Ti auguro buona fortuna per il tuo prossimo viaggio. E sappi che sarai sempre il benvenuto a casa."
- },
- {
-  "id": "\\bOak: I'm not sure what else there is for you to do, \\PN. I would say you've made huge strides to becoming a Pokémon Master.",
-  "en": "\\bOak: I'm not sure what else there is for you to do, \\PN. I would say you've made huge strides to becoming a Pokémon Master.",
-  "it": "\\bOak: Non so cos'altro ti resti da fare, \\PN. Direi che hai fatto passi da gigante per diventare un Maestro di Pokémon."
- },
- {
-  "id": "\\bYou could seek out the friends you've met along the way. They may want to see you again. I have a list of the places where they are somewhere around here.",
-  "en": "\\bYou could seek out the friends you've met along the way. They may want to see you again. I have a list of the places where they are somewhere around here.",
-  "it": "\\bPotresti andare a cercare gli amici che hai incontrato lungo la strada. Forse vorranno rivederti. Ho una lista dei posti dove si trovano, qui da qualche parte."
- },
- {
-  "id": "\\bThere is also a battle hall in Driftveil City that might interest you.",
-  "en": "\\bThere is also a battle hall in Driftveil City that might interest you.",
-  "it": "\\bC'è anche un Salone Lotta a Libecciopoli che potrebbe interessarti."
  },
  {
   "id": "Yes",

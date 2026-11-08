@@ -90,8 +90,8 @@
   "it": "\\rSapevo che sarebbe successo."
  },
  {
-  "id": "\\bSabrina uses Psychic type Pokémon. They are weak aganst the Bug, Ghost, and Dark types.",
-  "en": "\\bSabrina uses Psychic type Pokémon. They are weak aganst the Bug, Ghost, and Dark types.",
+  "id": "\\bSabrina uses Psychic type Pokémon. They are weak against the Bug, Ghost, and Dark types.",
+  "en": "\\bSabrina uses Psychic type Pokémon. They are weak against the Bug, Ghost, and Dark types.",
   "it": "\\bSabrina usa Pokémon di tipo Psico. Sono deboli contro i tipi Coleottero, Spettro e Buio."
  },
  {
@@ -153,6 +153,11 @@
   "id": "I didn't expect that.",
   "en": "I didn't expect that.",
   "it": "Questo non me l'aspettavo."
+ },
+ {
+  "id": "\\bThere used to be two Pokémon Gyms in Saffron. We destroyed any chances of them staying though.",
+  "en": "\\bThere used to be two Pokémon Gyms in Saffron. We destroyed any chances of them staying though.",
+  "it": "\\bUna volta a Zafferanopoli c'erano due Palestre Pokémon. Però abbiamo distrutto ogni possibilità che restassero entrambe."
  },
  {
   "id": "\\bThere used to two Pokémon Gyms in Saffron. We destroyed any chances of them staying though.",

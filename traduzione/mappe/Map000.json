@@ -135,9 +135,154 @@
   "it": "\\rCamilla: Grazie per l'aiuto, \\PN."
  },
  {
+  "id": "\\bAnd what difficulty will you be participating in?",
+  "en": "\\bAnd what difficulty will you be participating in?",
+  "it": "\\bE a quale livello di difficoltà vuoi partecipare?"
+ },
+ {
   "id": "\\bGladion: That was a fantastic battle.",
   "en": "\\bGladion: That was a fantastic battle.",
   "it": "\\bIridio: È stata una lotta fantastica."
+ },
+ {
+  "id": "You obtained a Mayhem Key.",
+  "en": "You obtained a Mayhem Key.",
+  "it": "Hai ottenuto una Chiave del Caos."
+ },
+ {
+  "id": "\\bYou came runner up this year. Come back next year to try again. Thank you for competing.",
+  "en": "\\bYou came runner up this year. Come back next year to try again. Thank you for competing.",
+  "it": "\\bQuest'anno sei arrivato secondo. Torna l'anno prossimo per riprovarci. Grazie per aver partecipato."
+ },
+ {
+  "id": "\\bYou placed in the Top 4 this year. Come back next year to try again. Thank you for competing.",
+  "en": "\\bYou placed in the Top 4 this year. Come back next year to try again. Thank you for competing.",
+  "it": "\\bQuest'anno sei arrivato tra i Top 4. Torna l'anno prossimo per riprovarci. Grazie per aver partecipato."
+ },
+ {
+  "id": "\\bYou placed in the Top 8 this year. Come back next year to try again. Thank you for competing.",
+  "en": "\\bYou placed in the Top 8 this year. Come back next year to try again. Thank you for competing.",
+  "it": "\\bQuest'anno sei arrivato tra i migliori 8. Torna l'anno prossimo per riprovarci. Grazie per aver partecipato."
+ },
+ {
+  "id": "\\bYou placed in the Top 16 this year. Come back next year to try again. Thank you for competing.",
+  "en": "\\bYou placed in the Top 16 this year. Come back next year to try again. Thank you for competing.",
+  "it": "\\bQuest'anno sei arrivato tra i primi 16. Torna l'anno prossimo per riprovarci. Grazie per aver partecipato."
+ },
+ {
+  "id": "\\bYou placed in the Top 32 this year. Come back next year to try again. Thank you for competing.",
+  "en": "\\bYou placed in the Top 32 this year. Come back next year to try again. Thank you for competing.",
+  "it": "\\bQuest'anno sei arrivato tra i primi 32. Torna l'anno prossimo per riprovarci. Grazie per aver partecipato."
+ },
+ {
+  "id": "\\bYou placed in the Top 64 this year. Come back next year to try again. Thank you for competing.",
+  "en": "\\bYou placed in the Top 64 this year. Come back next year to try again. Thank you for competing.",
+  "it": "\\bQuest'anno sei arrivato tra i primi 64. Torna l'anno prossimo per riprovarci. Grazie per aver partecipato."
+ },
+ {
+  "id": "\\bYou placed in the Top 128 this year. Come back next year to try again. Thank you for competing.",
+  "en": "\\bYou placed in the Top 128 this year. Come back next year to try again. Thank you for competing.",
+  "it": "\\bQuest'anno sei arrivato tra i primi 128. Torna l'anno prossimo per riprovarci. Grazie per aver partecipato."
+ },
+ {
+  "id": "\\bYou placed in the Top 256 this year. Come back next year to try again. Thank you for competing.",
+  "en": "\\bYou placed in the Top 256 this year. Come back next year to try again. Thank you for competing.",
+  "it": "\\bQuest'anno sei arrivato tra i primi 256. Torna l'anno prossimo per riprovarci. Grazie per aver partecipato."
+ },
+ {
+  "id": "\\ch[75,-1,Normal, Fire, Water, Electric, Grass, Ice, Fighting, Poison, Ground, Flying, Psychic, Bug, Rock, Ghost, Dragon, Dark, Steel, Fairy]",
+  "en": "\\ch[75,-1,Normal, Fire, Water, Electric, Grass, Ice, Fighting, Poison, Ground, Flying, Psychic, Bug, Rock, Ghost, Dragon, Dark, Steel, Fairy]",
+  "it": "\\ch[75,-1,Normale, Fuoco, Acqua, Elettro, Erba, Ghiaccio, Lotta, Veleno, Terra, Volante, Psico, Coleottero, Roccia, Spettro, Drago, Buio, Acciaio, Folletto]"
+ },
+ {
+  "id": "PLEASE COLLECT YOUR PAD! THANK YOU!",
+  "en": "PLEASE COLLECT YOUR PAD! THANK YOU!",
+  "it": "RITIRA IL TUO PAD! GRAZIE!"
+ },
+ {
+  "id": "YOU HAVE INSUFFICIENT CREDIT. PLEASE COME BACK NEXT TIME.",
+  "en": "YOU HAVE INSUFFICIENT CREDIT. PLEASE COME BACK NEXT TIME.",
+  "it": "CREDITO INSUFFICIENTE. TORNA LA PROSSIMA VOLTA."
+ },
+ {
+  "id": "\\ch[75,-1, Air Balloon,Eject Button,Red Card,Mental Herb, Absorb Bulb,Luminous Moss, Snowball,Cell Battery, Weakness Policy,Blunder Policy,Metronome]",
+  "en": "\\ch[75,-1, Air Balloon,Eject Button,Red Card,Mental Herb, Absorb Bulb,Luminous Moss, Snowball,Cell Battery, Weakness Policy,Blunder Policy,Metronome]",
+  "it": "\\ch[75,-1, Palloncino,Pulsantefuga,Cartelrosso,Mentalerba, Bulbo,Muschioluce, Palla di Neve,Ricaripila, Vulneropolizza,Fiascopolizza,Plessimetro]"
+ },
+ {
+  "id": "\\ch[75,-1, Grip Claw,Binding Band, White Herb, Power Herb, Lagging Tail, Quick Claw, Flame Orb, Toxic Orb, Iron Ball ]",
+  "en": "\\ch[75,-1, Grip Claw,Binding Band, White Herb, Power Herb, Lagging Tail, Quick Claw, Flame Orb, Toxic Orb, Iron Ball ]",
+  "it": "\\ch[75,-1, Presartigli,Legafascia, Erbachiara, Vigorerba, Rallentocoda, Rapidartigli, Fiammosfera, Tossicsfera, Ferropalla ]"
+ },
+ {
+  "id": "\\ch[75,-1, Bright Powder, Rocky Helmet, Big Root, Razor Claw Scope Lens, Wide Lens, Zoom Lens, King's Rock, Razor Fang Safety Goggles ]",
+  "en": "\\ch[75,-1, Bright Powder, Rocky Helmet, Big Root, Razor Claw Scope Lens, Wide Lens, Zoom Lens, King's Rock, Razor Fang Safety Goggles ]",
+  "it": "\\ch[75,-1, Luminpolvere, Bitorzolelmo, Granradice, Affilartigli Mirino, Grandelente, Zoomlente, Roccia di Re, Affilodente Visierantisabbia ]"
+ },
+ {
+  "id": "\\ch[75,-1, Eviolite, Heat Rock, Damp Rock, Smooth Rock, Icy Rock, Light Clay, Black Sludge, Shell Bell, Muscle Band, Wise Glasses, Focus Sash, Terrain Extender, Heavy Duty Boots]",
+  "en": "\\ch[75,-1, Eviolite, Heat Rock, Damp Rock, Smooth Rock, Icy Rock, Light Clay, Black Sludge, Shell Bell, Muscle Band, Wise Glasses, Focus Sash, Terrain Extender, Heavy Duty Boots]",
+  "it": "\\ch[75,-1, Evolcondensa, Rocciacalda, Rocciaumida, Roccialiscia, Rocciafredda, Creta Luce, Fangopece, Conchinella, Muscolbanda, Saviocchiali, Focalnastro, Fissacampo, Scarponi Robusti]"
+ },
+ {
+  "id": "\\ch[75,-1, Leftovers, Life Orb, Expert Belt, Assault Vest ]",
+  "en": "\\ch[75,-1, Leftovers, Life Orb, Expert Belt, Assault Vest ]",
+  "it": "\\ch[75,-1, Avanzi, Assorbisfera, Abilcintura, Corpetto Assalto ]"
+ },
+ {
+  "id": "\\ch[75,-1, Choice Band, Choice Specs, Choice Scarf ]",
+  "en": "\\ch[75,-1, Choice Band, Choice Specs, Choice Scarf ]",
+  "it": "\\ch[75,-1, Bendascelta, Lentiscelta, Stolascelta ]"
+ },
+ {
+  "id": "\\bYou didn't get a placement this year. Come back next year to try again. Thank you for competing.",
+  "en": "\\bYou didn't get a placement this year. Come back next year to try again. Thank you for competing.",
+  "it": "\\bQuest'anno non sei arrivato in classifica. Torna l'anno prossimo per riprovarci. Grazie per aver partecipato."
+ },
+ {
+  "id": "Congratulations on becoming the new Monarch!",
+  "en": "Congratulations on becoming the new Monarch!",
+  "it": "Congratulazioni, sei il nuovo Monarca!"
+ },
+ {
+  "id": "Congratulations on defending your title as Monarch!",
+  "en": "Congratulations on defending your title as Monarch!",
+  "it": "Congratulazioni per aver difeso il tuo titolo di Monarca!"
+ },
+ {
+  "id": "Based on performance, your rank is now 2. Thank you for competing.",
+  "en": "Based on performance, your rank is now 2. Thank you for competing.",
+  "it": "In base alla tua prestazione, ora sei al 2° posto in classifica. Grazie per aver partecipato."
+ },
+ {
+  "id": "Based on performance, your rank is now 4. Thank you for competing.",
+  "en": "Based on performance, your rank is now 4. Thank you for competing.",
+  "it": "In base alla tua prestazione, ora sei al 4° posto in classifica. Grazie per aver partecipato."
+ },
+ {
+  "id": "Based on performance, your rank is now 8. Thank you for competing.",
+  "en": "Based on performance, your rank is now 8. Thank you for competing.",
+  "it": "In base alla tua prestazione, ora sei all'8° posto in classifica. Grazie per aver partecipato."
+ },
+ {
+  "id": "You have obtained 5 Keys. You may escape the Mayhem.",
+  "en": "You have obtained 5 Keys. You may escape the Mayhem.",
+  "it": "Hai ottenuto 5 Chiavi. Puoi fuggire dal Caos."
+ },
+ {
+  "id": "\\rHi, would you like to initiate a Wonder Trade? It will cost you 5000 per trade.",
+  "en": "\\rHi, would you like to initiate a Wonder Trade? It will cost you 5000 per trade.",
+  "it": "\\rCiao, vuoi fare uno Scambio Prodigioso? Ogni scambio costa 5000."
+ },
+ {
+  "id": "Unlucky! You have lost your title of World Champion.",
+  "en": "Unlucky! You have lost your title of World Champion.",
+  "it": "Che sfortuna! Hai perso il titolo di Campione del Mondo."
+ },
+ {
+  "id": "Unlucky! Better luck next time.",
+  "en": "Unlucky! Better luck next time.",
+  "it": "Che sfortuna! Andrà meglio la prossima volta."
  },
  {
   "id": "Evaluate Pokédex",
@@ -158,5 +303,30 @@
   "id": "No",
   "en": "No",
   "it": "No"
+ },
+ {
+  "id": "Rookie",
+  "en": "Rookie",
+  "it": "Principiante"
+ },
+ {
+  "id": "Veteran",
+  "en": "Veteran",
+  "it": "Veterano"
+ },
+ {
+  "id": "Ace",
+  "en": "Ace",
+  "it": "Asso"
+ },
+ {
+  "id": "Cancel",
+  "en": "Cancel",
+  "it": "Annulla"
+ },
+ {
+  "id": "Master",
+  "en": "Master",
+  "it": "Master"
  }
 ]

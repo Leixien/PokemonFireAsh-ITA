@@ -1,18 +1,8 @@
 [
  {
-  "id": "\\rLillie: Don't worry about us.",
-  "en": "\\rLillie: Don't worry about us.",
-  "it": "\\rLylia: Non preoccuparti per noi."
- },
- {
-  "id": "\\bJames: Welcome to our shop.",
-  "en": "\\bJames: Welcome to our shop.",
-  "it": "\\bJames: Benvenuti nel nostro negozio."
- },
- {
-  "id": "\\bTurtonator",
-  "en": "\\bTurtonator",
-  "it": "\\bTurtonator"
+  "id": "\\bYo, this league sucks.",
+  "en": "\\bYo, this league sucks.",
+  "it": "\\bEhi, questa Lega fa schifo."
  },
  {
   "id": "\\rYo, down with the league.",
@@ -20,34 +10,19 @@
   "it": "\\rEhi, abbasso la Lega."
  },
  {
-  "id": "\\bYo, this league sucks.",
-  "en": "\\bYo, this league sucks.",
-  "it": "\\bEhi, questa Lega fa schifo."
+  "id": "\\bTurtonator",
+  "en": "\\bTurtonator",
+  "it": "\\bTurtonator"
  },
  {
-  "id": "It's a Naganadel. Would you like to take it with you?",
-  "en": "It's a Naganadel. Would you like to take it with you?",
-  "it": "È un Naganadel. Vuoi portarlo con te?"
+  "id": "\\bJames: Welcome to our shop.",
+  "en": "\\bJames: Welcome to our shop.",
+  "it": "\\bJames: Benvenuti nel nostro negozio."
  },
  {
-  "id": "\\rMallow: Don't slow down.",
-  "en": "\\rMallow: Don't slow down.",
-  "it": "\\rIbis: Non rallentare."
- },
- {
-  "id": "\\rJessie: We'll figure something out.",
-  "en": "\\rJessie: We'll figure something out.",
-  "it": "\\rJessie: Ci inventeremo qualcosa."
- },
- {
-  "id": "\\rJessie: Obviously I should win.",
-  "en": "\\rJessie: Obviously I should win.",
-  "it": "\\rJessie: Ovviamente dovrei vincere io."
- },
- {
-  "id": "\\rJessie: Wobbuffet shouldn't have lost. You can't lose now.",
-  "en": "\\rJessie: Wobbuffet shouldn't have lost. You can't lose now.",
-  "it": "\\rJessie: Wobbuffet non avrebbe dovuto perdere. Adesso non puoi perdere."
+  "id": "\\rLillie: Don't worry about us.",
+  "en": "\\rLillie: Don't worry about us.",
+  "it": "\\rLylia: Non preoccuparti per noi."
  },
  {
   "id": "\\rMallow: Are you ready, \\PN?",
@@ -75,14 +50,29 @@
   "it": "\\rIbis: La finale, eh? Ce la puoi fare."
  },
  {
-  "id": "\\bGladion: This is ours.",
-  "en": "\\bGladion: This is ours.",
-  "it": "\\bIridio: Questa è nostra."
+  "id": "\\rJessie: We'll figure something out.",
+  "en": "\\rJessie: We'll figure something out.",
+  "it": "\\rJessie: Ci inventeremo qualcosa."
  },
  {
-  "id": "\\rJessie: How can we help you?",
-  "en": "\\rJessie: How can we help you?",
-  "it": "\\rJessie: Come possiamo aiutarti?"
+  "id": "\\rJessie: Obviously I should win.",
+  "en": "\\rJessie: Obviously I should win.",
+  "it": "\\rJessie: Ovviamente dovrei vincere io."
+ },
+ {
+  "id": "\\rJessie: Wobbuffet shouldn't have lost. You can't lose now.",
+  "en": "\\rJessie: Wobbuffet shouldn't have lost. You can't lose now.",
+  "it": "\\rJessie: Wobbuffet non avrebbe dovuto perdere. Adesso non puoi perdere."
+ },
+ {
+  "id": "\\rMallow: Don't slow down.",
+  "en": "\\rMallow: Don't slow down.",
+  "it": "\\rIbis: Non rallentare."
+ },
+ {
+  "id": "It's a Naganadel. Would you like to take it with you?",
+  "en": "It's a Naganadel. Would you like to take it with you?",
+  "it": "È un Naganadel. Vuoi portarlo con te?"
  },
  {
   "id": "\\rStock up on items. They might just save you.",
@@ -90,9 +80,34 @@
   "it": "\\rFai scorta di strumenti. Potrebbero salvarti."
  },
  {
-  "id": "\\bSophocles: We can handle this one.",
-  "en": "\\bSophocles: We can handle this one.",
-  "it": "\\bChrys: Questa possiamo gestirla."
+  "id": "\\rJessie: How can we help you?",
+  "en": "\\rJessie: How can we help you?",
+  "it": "\\rJessie: Come possiamo aiutarti?"
+ },
+ {
+  "id": "\\bGladion: This is ours.",
+  "en": "\\bGladion: This is ours.",
+  "it": "\\bIridio: Questa è nostra."
+ },
+ {
+  "id": "\\bTupp: Yo, the boss is going to love that we're destroying this league. Forget Kukui and his dumb dream.",
+  "en": "\\bTupp: Yo, the boss is going to love that we're destroying this league. Forget Kukui and his dumb dream.",
+  "it": "\\bTupp: Ehi, al capo piacerà un sacco che stiamo distruggendo questa Lega. Al diavolo Kukui e il suo stupido sogno."
+ },
+ {
+  "id": "\\bTupp: No way. Yo, this isn't cool. Let's get out of here.",
+  "en": "\\bTupp: No way. Yo, this isn't cool. Let's get out of here.",
+  "it": "\\bTupp: Non ci credo. Yo, così non è figo. Filiamo via di qui."
+ },
+ {
+  "id": "\\bWelcome. Where would you like to go?",
+  "en": "\\bWelcome. Where would you like to go?",
+  "it": "\\bBenvenuto. Dove vorresti andare?"
+ },
+ {
+  "id": "\\bForget about the battles. Do you see everything they are selling here?",
+  "en": "\\bForget about the battles. Do you see everything they are selling here?",
+  "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
  },
  {
   "id": "\\bIlima: This isn't the Kalos League, but it looks promising.",
@@ -120,29 +135,9 @@
   "it": "\\bIlima: Finalmente la finale. Buona fortuna."
  },
  {
-  "id": "\\bForget about the battles. Do you see everything they are selling here?",
-  "en": "\\bForget about the battles. Do you see everything they are selling here?",
-  "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
- },
- {
-  "id": "\\bWelcome. Where would you like to go?",
-  "en": "\\bWelcome. Where would you like to go?",
-  "it": "\\bBenvenuto. Dove vorresti andare?"
- },
- {
-  "id": "\\bTupp: Yo, the boss is going to love that we're destroying this league. Forget Kukui and his dumb dream.",
-  "en": "\\bTupp: Yo, the boss is going to love that we're destroying this league. Forget Kukui and his dumb dream.",
-  "it": "\\bTupp: Ehi, al capo piacerà un sacco che stiamo distruggendo questa Lega. Al diavolo Kukui e il suo stupido sogno."
- },
- {
-  "id": "\\bTupp: No way. Yo, this isn't cool. Let's get out of here.",
-  "en": "\\bTupp: No way. Yo, this isn't cool. Let's get out of here.",
-  "it": "\\bTupp: Non ci credo. Yo, così non è figo. Filiamo via di qui."
- },
- {
-  "id": "\\rOlivia: Help somewhere else!",
-  "en": "\\rOlivia: Help somewhere else!",
-  "it": "\\rOlivia: Andate ad aiutare da un'altra parte!"
+  "id": "\\bSophocles: We can handle this one.",
+  "en": "\\bSophocles: We can handle this one.",
+  "it": "\\bChrys: Questa possiamo gestirla."
  },
  {
   "id": "\\bMy team is going to be unstoppable. I have only a Geodude.",
@@ -155,9 +150,24 @@
   "it": "\\bIl mio Geodude non è bastato..."
  },
  {
-  "id": "\\bKiawe: Our burning hearts will prevail.",
-  "en": "\\bKiawe: Our burning hearts will prevail.",
-  "it": "\\bKiawe: I nostri cuori ardenti trionferanno."
+  "id": "\\rOlivia: Help somewhere else!",
+  "en": "\\rOlivia: Help somewhere else!",
+  "it": "\\rOlivia: Andate ad aiutare da un'altra parte!"
+ },
+ {
+  "id": "\\bZipp: Yo yo yo.",
+  "en": "\\bZipp: Yo yo yo.",
+  "it": "\\bZipp: Yo yo yo."
+ },
+ {
+  "id": "\\rThat shop looks... so empty to me. \\nWhat do you think?",
+  "en": "\\rThat shop looks... so empty to me. \\nWhat do you think?",
+  "it": "\\rQuel negozio mi sembra... così vuoto. \\nTu che ne pensi?"
+ },
+ {
+  "id": "\\rThat shop looks shady to me.\\nWhat do you think?",
+  "en": "\\rThat shop looks shady to me.\\nWhat do you think?",
+  "it": "\\rQuel negozio mi sembra losco.\\nTu che ne pensi?"
  },
  {
   "id": "\\rMina: Ah... sorry, got distracted. What do you need?",
@@ -175,34 +185,9 @@
   "it": "\\rMina: Ho perso. Pazienza."
  },
  {
-  "id": "\\rThat shop looks... so empty to me. \\nWhat do you think?",
-  "en": "\\rThat shop looks... so empty to me. \\nWhat do you think?",
-  "it": "\\rQuel negozio mi sembra... così vuoto. \\nTu che ne pensi?"
- },
- {
-  "id": "\\rThat shop looks shady to me.\\nWhat do you think?",
-  "en": "\\rThat shop looks shady to me.\\nWhat do you think?",
-  "it": "\\rQuel negozio mi sembra losco.\\nTu che ne pensi?"
- },
- {
-  "id": "\\bZipp: Yo yo yo.",
-  "en": "\\bZipp: Yo yo yo.",
-  "it": "\\bZipp: Yo yo yo."
- },
- {
-  "id": "\\bNanu: Stay back, kid. Don't want you getting hurt.",
-  "en": "\\bNanu: Stay back, kid. Don't want you getting hurt.",
-  "it": "\\bNanu: Stai indietro, ragazzino. Non voglio che ti faccia male."
- },
- {
-  "id": "\\bNeed to practice. No time for distractions.",
-  "en": "\\bNeed to practice. No time for distractions.",
-  "it": "\\bDevo esercitarmi. Niente tempo per le distrazioni."
- },
- {
-  "id": "\\bDistractions are everywhere.",
-  "en": "\\bDistractions are everywhere.",
-  "it": "\\bLe distrazioni sono ovunque."
+  "id": "\\bKiawe: Our burning hearts will prevail.",
+  "en": "\\bKiawe: Our burning hearts will prevail.",
+  "it": "\\bKiawe: I nostri cuori ardenti trionferanno."
  },
  {
   "id": "\\bKiawe: I need to get in some extra training.",
@@ -230,9 +215,24 @@
   "it": "\\bKiawe: Io sarò anche fuori, ma tu hai ancora una possibilità.  Non sprecarla."
  },
  {
-  "id": "\\rLana: It's only one. I think we can manage.",
-  "en": "\\rLana: It's only one. I think we can manage.",
-  "it": "\\rSuiren: È solo uno. Credo che ce la possiamo fare."
+  "id": "\\bNeed to practice. No time for distractions.",
+  "en": "\\bNeed to practice. No time for distractions.",
+  "it": "\\bDevo esercitarmi. Niente tempo per le distrazioni."
+ },
+ {
+  "id": "\\bDistractions are everywhere.",
+  "en": "\\bDistractions are everywhere.",
+  "it": "\\bLe distrazioni sono ovunque."
+ },
+ {
+  "id": "\\bNanu: Stay back, kid. Don't want you getting hurt.",
+  "en": "\\bNanu: Stay back, kid. Don't want you getting hurt.",
+  "it": "\\bNanu: Stai indietro, ragazzino. Non voglio che ti faccia male."
+ },
+ {
+  "id": "\\rRapp: Yo, what do you think you're doing?",
+  "en": "\\rRapp: Yo, what do you think you're doing?",
+  "it": "\\rRapp: Yo, che cavolo credi di fare?"
  },
  {
   "id": "\\bFaba: Hmm, a Battle Royal. I'll need a good strategy to move on.",
@@ -255,19 +255,24 @@
   "it": "\\bVicio: Personalmente, vorrei che vincesse il signorino Iridio."
  },
  {
-  "id": "\\rRapp: Yo, what do you think you're doing?",
-  "en": "\\rRapp: Yo, what do you think you're doing?",
-  "it": "\\rRapp: Yo, che cavolo credi di fare?"
+  "id": "\\rLana: It's only one. I think we can manage.",
+  "en": "\\rLana: It's only one. I think we can manage.",
+  "it": "\\rSuiren: È solo uno. Credo che ce la possiamo fare."
  },
  {
-  "id": "\\rHapu: Gotta focus.",
-  "en": "\\rHapu: Gotta focus.",
-  "it": "\\rHapu: Devo concentrarmi."
+  "id": "\\bGuzma: What do you want, punk?",
+  "en": "\\bGuzma: What do you want, punk?",
+  "it": "\\bGuzman: Che vuoi, teppistello?"
  },
  {
-  "id": "\\bHau: We've got this!",
-  "en": "\\bHau: We've got this!",
-  "it": "\\bHau: Ce la possiamo fare!"
+  "id": "\\bGuzma: Get lost. I don't have time for you.",
+  "en": "\\bGuzma: Get lost. I don't have time for you.",
+  "it": "\\bGuzman: Sparisci. Non ho tempo da perdere con te."
+ },
+ {
+  "id": "\\bGuzma: I'll crush you the moment you step foot in the ring.",
+  "en": "\\bGuzma: I'll crush you the moment you step foot in the ring.",
+  "it": "\\bGuzman: Ti distruggerò appena metterai piede sul ring."
  },
  {
   "id": "\\bHau: Haha, you're here. Time for that rematch, isn't it?",
@@ -295,24 +300,19 @@
   "it": "\\bHau: Conto su di te per la vittoria."
  },
  {
-  "id": "\\bGuzma: What do you want, punk?",
-  "en": "\\bGuzma: What do you want, punk?",
-  "it": "\\bGuzman: Che vuoi, teppistello?"
+  "id": "\\bHau: We've got this!",
+  "en": "\\bHau: We've got this!",
+  "it": "\\bHau: Ce la possiamo fare!"
  },
  {
-  "id": "\\bGuzma: Get lost. I don't have time for you.",
-  "en": "\\bGuzma: Get lost. I don't have time for you.",
-  "it": "\\bGuzman: Sparisci. Non ho tempo da perdere con te."
+  "id": "\\rHapu: Gotta focus.",
+  "en": "\\rHapu: Gotta focus.",
+  "it": "\\rHapu: Devo concentrarmi."
  },
  {
-  "id": "\\bGuzma: I'll crush you the moment you step foot in the ring.",
-  "en": "\\bGuzma: I'll crush you the moment you step foot in the ring.",
-  "it": "\\bGuzman: Ti distruggerò appena metterai piede sul ring."
- },
- {
-  "id": "\\bHala: Us Kahuna's can handle this.",
-  "en": "\\bHala: Us Kahuna's can handle this.",
-  "it": "\\bHala: Noi Kahuna possiamo occuparcene."
+  "id": "\\bMarowak",
+  "en": "\\bMarowak",
+  "it": "\\bMarowak"
  },
  {
   "id": "\\bWobbuffet!",
@@ -320,9 +320,29 @@
   "it": "\\bWobbuffet!"
  },
  {
-  "id": "\\bMarowak",
-  "en": "\\bMarowak",
-  "it": "\\bMarowak"
+  "id": "\\bHala: Us Kahuna's can handle this.",
+  "en": "\\bHala: Us Kahuna's can handle this.",
+  "it": "\\bHala: Noi Kahuna possiamo occuparcene."
+ },
+ {
+  "id": "\\rTsareena",
+  "en": "\\rTsareena",
+  "it": "\\rTsareena"
+ },
+ {
+  "id": "\\bJames: What's our plan?",
+  "en": "\\bJames: What's our plan?",
+  "it": "\\bJames: Qual è il nostro piano?"
+ },
+ {
+  "id": "\\bJames:... I suppose I'll lose.",
+  "en": "\\bJames:... I suppose I'll lose.",
+  "it": "\\bJames:... Immagino che perderò."
+ },
+ {
+  "id": "\\bJames: I can win this next match.",
+  "en": "\\bJames: I can win this next match.",
+  "it": "\\bJames: Il prossimo incontro posso vincerlo."
  },
  {
   "id": "\\bMasked Royal: Good, help from our new Champion. Don't hold back.",
@@ -348,26 +368,6 @@
   "id": "\\bKukui: Let's make it a full battle.",
   "en": "\\bKukui: Let's make it a full battle.",
   "it": "\\bKukui: Facciamone una lotta completa."
- },
- {
-  "id": "\\bJames: What's our plan?",
-  "en": "\\bJames: What's our plan?",
-  "it": "\\bJames: Qual è il nostro piano?"
- },
- {
-  "id": "\\bJames:... I suppose I'll lose.",
-  "en": "\\bJames:... I suppose I'll lose.",
-  "it": "\\bJames:... Immagino che perderò."
- },
- {
-  "id": "\\bJames: I can win this next match.",
-  "en": "\\bJames: I can win this next match.",
-  "it": "\\bJames: Il prossimo incontro posso vincerlo."
- },
- {
-  "id": "\\rTsareena",
-  "en": "\\rTsareena",
-  "it": "\\rTsareena"
  },
  {
   "id": "Yes",

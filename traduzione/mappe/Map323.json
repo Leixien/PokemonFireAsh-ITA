@@ -25,6 +25,11 @@
   "it": "\\bLa Coppa Vortice è terminata. Torna più tardi."
  },
  {
+  "id": "\\bWelcome to the Whirl Waver.",
+  "en": "\\bWelcome to the Whirl Waver.",
+  "it": "\\bBenvenuto a bordo del Whirl Waver."
+ },
+ {
   "id": "\\bWelcome to the Olivine Cruiser.",
   "en": "\\bWelcome to the Olivine Cruiser.",
   "it": "\\bBenvenuto a bordo dell'Olivine Cruiser."
@@ -33,11 +38,6 @@
   "id": "\\bThe whirlpools are currently too strong for me to travel, so please wait a while.",
   "en": "\\bThe whirlpools are currently too strong for me to travel, so please wait a while.",
   "it": "\\bAl momento i mulinelli sono troppo forti per navigare, quindi aspetta un po', per favore."
- },
- {
-  "id": "\\bWelcome to the Whirl Waver.",
-  "en": "\\bWelcome to the Whirl Waver.",
-  "it": "\\bBenvenuto a bordo del Whirl Waver."
  },
  {
   "id": "\\bI hear the winner gets a Mystic Water.",
@@ -110,21 +110,6 @@
   "it": "No"
  },
  {
-  "id": "Cianwood",
-  "en": "Cianwood",
-  "it": "Fiorlisopoli"
- },
- {
-  "id": "Olivine",
-  "en": "Olivine",
-  "it": "Olivinopoli"
- },
- {
-  "id": "Exit",
-  "en": "Exit",
-  "it": "Esci"
- },
- {
   "id": "Yellow Rock",
   "en": "Yellow Rock",
   "it": "Roccia Gialla"
@@ -138,5 +123,20 @@
   "id": "Ogi",
   "en": "Ogi",
   "it": "Ogi"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
+ },
+ {
+  "id": "Cianwood",
+  "en": "Cianwood",
+  "it": "Fiorlisopoli"
+ },
+ {
+  "id": "Olivine",
+  "en": "Olivine",
+  "it": "Olivinopoli"
  }
 ]

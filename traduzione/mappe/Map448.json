@@ -1,15 +1,5 @@
 [
  {
-  "id": "\\rHi and hello.",
-  "en": "\\rHi and hello.",
-  "it": "\\rCiao e salve."
- },
- {
-  "id": "\\rCome back again soon.",
-  "en": "\\rCome back again soon.",
-  "it": "\\rTorna presto a trovarci."
- },
- {
   "id": "\\bI'm the Pokémon Move Maniac.",
   "en": "\\bI'm the Pokémon Move Maniac.",
   "it": "\\bSono il Maniaco delle Mosse Pokémon."
@@ -80,19 +70,19 @@
   "it": "\\PN ha consegnato una Squama Cuore in cambio."
  },
  {
+  "id": "\\rHi and hello.",
+  "en": "\\rHi and hello.",
+  "it": "\\rCiao e salve."
+ },
+ {
+  "id": "\\rCome back again soon.",
+  "en": "\\rCome back again soon.",
+  "it": "\\rTorna presto a trovarci."
+ },
+ {
   "id": "\\rRaihan comes here often. Sonia, a researcher, also spends a lot of time here.",
   "en": "\\rRaihan comes here often. Sonia, a researcher, also spends a lot of time here.",
   "it": "\\rRaihan viene spesso qui. Anche Sonia, una ricercatrice, ci passa un sacco di tempo."
- },
- {
-  "id": "\\rHere for a bite?",
-  "en": "\\rHere for a bite?",
-  "it": "\\rSei qui per mangiare un boccone?"
- },
- {
-  "id": "\\rI'll finish my drink and leave.",
-  "en": "\\rI'll finish my drink and leave.",
-  "it": "\\rFinisco il mio drink e me ne vado."
  },
  {
   "id": "\\bUh...\\nOh, yes, I'm the Move Deleter.",
@@ -155,9 +145,14 @@
   "it": "\\b\\v[3] ha dimenticato completamente \\v[4]."
  },
  {
-  "id": "\\rWelcome to the vault.",
-  "en": "\\rWelcome to the vault.",
-  "it": "\\rBenvenuto nel caveau."
+  "id": "\\rHere for a bite?",
+  "en": "\\rHere for a bite?",
+  "it": "\\rSei qui per mangiare un boccone?"
+ },
+ {
+  "id": "\\rI'll finish my drink and leave.",
+  "en": "\\rI'll finish my drink and leave.",
+  "it": "\\rFinisco il mio drink e me ne vado."
  },
  {
   "id": "\\rPlease hide this for me.",
@@ -170,6 +165,16 @@
   "it": "\\rGrazie."
  },
  {
+  "id": "\\rWelcome to the vault.",
+  "en": "\\rWelcome to the vault.",
+  "it": "\\rBenvenuto nel caveau."
+ },
+ {
+  "id": "\\rThe history of Galar bores me. It's not like the Darkest Day will ever happen again.",
+  "en": "\\rThe history of Galar bores me. It's not like the Darkest Day will ever happen again.",
+  "it": "\\rLa storia di Galar mi annoia. Non è che il Giorno più Buio possa ripetersi."
+ },
+ {
   "id": "\\rWelcome.",
   "en": "\\rWelcome.",
   "it": "\\rBenvenuto."
@@ -180,9 +185,9 @@
   "it": "\\rResta quanto vuoi."
  },
  {
-  "id": "\\rThe history of Galar bores me. It's not like the Darkest Day will ever happen again.",
-  "en": "\\rThe history of Galar bores me. It's not like the Darkest Day will ever happen again.",
-  "it": "\\rLa storia di Galar mi annoia. Non è che il Giorno più Buio possa ripetersi."
+  "id": "It's a painting of a person and Pokémon.",
+  "en": "It's a painting of a person and Pokémon.",
+  "it": "È un dipinto che raffigura una persona e un Pokémon."
  },
  {
   "id": "\\rRaihan is almost as strong as Leon. They battle all the time, though Raihan never wins.",
@@ -190,14 +195,14 @@
   "it": "\\rRaihan è forte quasi quanto Dandel. Lottano di continuo, anche se Raihan non vince mai."
  },
  {
-  "id": "\\rIsn't the food here great?",
-  "en": "\\rIsn't the food here great?",
-  "it": "\\rIl cibo qui è ottimo, vero?"
- },
- {
   "id": "\\rTwo heroes stopped the Darkest Day. I wish those heroes were better remembered.",
   "en": "\\rTwo heroes stopped the Darkest Day. I wish those heroes were better remembered.",
   "it": "\\rDue eroi fermarono il Giorno più Buio. Vorrei che quegli eroi fossero ricordati meglio."
+ },
+ {
+  "id": "\\rIsn't the food here great?",
+  "en": "\\rIsn't the food here great?",
+  "it": "\\rIl cibo qui è ottimo, vero?"
  },
  {
   "id": "\\rI'm so glad we could come here.",
@@ -215,6 +220,11 @@
   "it": "\\bPotresti avere qualche possibilità contro Raihan."
  },
  {
+  "id": "\\bWhy does Dynamax only happen in this region? The answer must be in here.",
+  "en": "\\bWhy does Dynamax only happen in this region?  The answer must be in here.",
+  "it": "\\bPerché il Dynamax avviene solo in questa regione?  La risposta dev'essere qui dentro."
+ },
+ {
   "id": "\\bI'm trying to relax here.",
   "en": "\\bI'm trying to relax here.",
   "it": "\\bSto cercando di rilassarmi."
@@ -223,11 +233,6 @@
   "id": "\\bBeat it.",
   "en": "\\bBeat it.",
   "it": "\\bSparisci."
- },
- {
-  "id": "\\bWhy does Dynamax only happen in this region? The answer must be in here.",
-  "en": "\\bWhy does Dynamax only happen in this region?  The answer must be in here.",
-  "it": "\\bPerché il Dynamax avviene solo in questa regione?  La risposta dev'essere qui dentro."
  },
  {
   "id": "Yes",

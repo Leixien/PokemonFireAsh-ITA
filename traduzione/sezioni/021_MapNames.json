@@ -661,8 +661,8 @@
  },
  {
   "id": 133,
-  "en": "Cable Club",
-  "it": "Cable Club"
+  "en": "Grandeur Club",
+  "it": "Grandeur Club"
  },
  {
   "id": 134,
@@ -701,8 +701,8 @@
  },
  {
   "id": 141,
-  "en": "EXAMPLE MAP",
-  "it": "MAPPA DI ESEMPIO"
+  "en": "SECRET PEAK",
+  "it": "PICCO SEGRETO"
  },
  {
   "id": 142,
@@ -751,8 +751,8 @@
  },
  {
   "id": 151,
-  "en": "EXAMPLE MAP",
-  "it": "MAPPA DI ESEMPIO"
+  "en": "GRANDEUR LOUNGE",
+  "it": "LOUNGE GRANDEUR"
  },
  {
   "id": 152,
@@ -1066,8 +1066,8 @@
  },
  {
   "id": 214,
-  "en": "EXAMPLE MAP",
-  "it": "MAPPA DI ESEMPIO"
+  "en": "STAGE",
+  "it": "PALCO"
  },
  {
   "id": 215,
@@ -1186,7 +1186,7 @@
  },
  {
   "id": 238,
-  "en": "Ascrobia Pokémon Center",
+  "en": "Ascorbia Pokémon Center",
   "it": "Centro Pokémon di Ascorbia"
  },
  {
@@ -2011,8 +2011,8 @@
  },
  {
   "id": 403,
-  "en": "Fallabor Town",
-  "it": "Mentania"
+  "en": "Fallarbor Town",
+  "it": "Brunifoglia"
  },
  {
   "id": 404,
@@ -2146,7 +2146,7 @@
  },
  {
   "id": 430,
-  "en": "Weather Instiitute",
+  "en": "Weather Institute",
   "it": "Istituto Meteo"
  },
  {
@@ -2861,7 +2861,7 @@
  },
  {
   "id": 573,
-  "en": "Route 215 gate",
+  "en": "Route 215 Gate",
   "it": "Varco del Percorso 215"
  },
  {
@@ -3571,7 +3571,7 @@
  },
  {
   "id": 715,
-  "en": "Clubsplosion  Room",
+  "en": "Clubsplosion Room",
   "it": "Sala Clubsplosion"
  },
  {
@@ -4958,5 +4958,25 @@
   "id": 992,
   "en": "Route 20 Cave",
   "it": "Grotta del Percorso 20"
+ },
+ {
+  "id": 993,
+  "en": "Alternate Universe",
+  "it": "Universo Alternativo"
+ },
+ {
+  "id": 994,
+  "en": "Wyndon?",
+  "it": "Wyndon?"
+ },
+ {
+  "id": 995,
+  "en": "Wyndon Stadium?",
+  "it": "Stadio di Wyndon?"
+ },
+ {
+  "id": 996,
+  "en": "Stadium",
+  "it": "Stadio"
  }
 ]

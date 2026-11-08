@@ -40,6 +40,11 @@
   "it": "\\bLa Palestra è in cima."
  },
  {
+  "id": "Navel Gym ahead",
+  "en": "Navel Gym ahead",
+  "it": "Palestra di Navel più avanti"
+ },
+ {
   "id": "\\bAre you ready for this?",
   "en": "\\bAre you ready for this?",
   "it": "\\bSei pronto?"
@@ -48,11 +53,6 @@
   "id": "\\bWork up a sweat with that move.",
   "en": "\\bWork up a sweat with that move.",
   "it": "\\bCon quella mossa ti farai una bella sudata."
- },
- {
-  "id": "Navel Gym ahead",
-  "en": "Navel Gym ahead",
-  "it": "Palestra di Navel più avanti"
  },
  {
   "id": "\\rTrainers are in there to get stronger. Be careful!",

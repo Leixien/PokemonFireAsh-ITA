@@ -30,16 +30,6 @@
   "it": "\\rBenvenuto al Ristorante di Levantopoli!"
  },
  {
-  "id": "\\bCilan uses Grass type Pokémon. They are weak aganst the Bug, Fire, Poison, Flying, and Ice types.",
-  "en": "\\bCilan uses Grass type Pokémon. They are weak aganst the Bug, Fire, Poison, Flying, and Ice types.",
-  "it": "\\bSpighetto usa Pokémon di tipo Erba. Sono deboli contro i tipi Coleottero, Fuoco, Veleno, Volante e Ghiaccio."
- },
- {
-  "id": "\\bThey are strong against Water, Ground, and Rock. Electirc, Grass, Ground, and Water moves also don't do much damage.",
-  "en": "\\bThey are strong against Water, Ground, and Rock.  Electirc, Grass, Ground, and Water moves also don't do much damage.",
-  "it": "\\bSono forti contro Acqua, Terra e Roccia. Anche le mosse di tipo Elettro, Erba, Terra e Acqua non fanno loro molti danni."
- },
- {
   "id": "\\bCilan: Welcome to the Striaton Gym. Your aroma is marvelous.",
   "en": "\\bCilan: Welcome to the Striaton Gym. Your aroma is marvelous.",
   "it": "\\bSpighetto: Benvenuto alla Palestra di Levantopoli. Il tuo aroma è meraviglioso."
@@ -95,6 +85,16 @@
   "it": "\\bSpighetto: Il tuo modo di lottare mi ha ispirato. Viaggerò per il mondo e assaporerò quante più prelibatezze possibile."
  },
  {
+  "id": "\\bCilan uses Grass type Pokémon. They are weak against the Bug, Fire, Poison, Flying, and Ice types.",
+  "en": "\\bCilan uses Grass type Pokémon. They are weak against the Bug, Fire, Poison, Flying, and Ice types.",
+  "it": "\\bSpighetto usa Pokémon di tipo Erba. Sono deboli contro i tipi Coleottero, Fuoco, Veleno, Volante e Ghiaccio."
+ },
+ {
+  "id": "\\bThey are strong against Water, Ground, and Rock. Electric, Grass, Ground, and Water moves also don't do much damage.",
+  "en": "\\bThey are strong against Water, Ground, and Rock.  Electric, Grass, Ground, and Water moves also don't do much damage.",
+  "it": "\\bSono forti contro Acqua, Terra e Roccia.  Anche le mosse di tipo Elettro, Erba, Terra e Acqua non fanno molti danni."
+ },
+ {
   "id": "\\bChili: You seem like a strong challenger.",
   "en": "\\bChili: You seem like a strong challenger.",
   "it": "\\bMaisello: Sembri uno sfidante forte."
@@ -110,9 +110,9 @@
   "it": "\\bSpighetto: Idea eccellente! Che ne dici di iniziare con Maisello come antipasto, Maisello come portata principale e me come dessert?"
  },
  {
-  "id": "\\bCress uses Water type Pokémon. They are weak aganst Grass and Electric types.",
-  "en": "\\bCress uses Water type Pokémon. They are weak aganst Grass and Electric types.",
-  "it": "\\bChicco usa Pokémon di tipo Acqua. Sono deboli contro i tipi Erba ed Elettro."
+  "id": "\\bCress uses Water type Pokémon. They are weak against Grass and Electric types.",
+  "en": "\\bCress uses Water type Pokémon. They are weak against Grass and Electric types.",
+  "it": "\\bMaisello usa Pokémon di tipo Acqua. Sono deboli contro i tipi Erba ed Elettro."
  },
  {
   "id": "\\bThey are strong against Fire, Ground, and Rock. Fire, Ice, Steel, and Water moves also don't do much damage.",
@@ -120,19 +120,19 @@
   "it": "\\bSono forti contro Fuoco, Terra e Roccia.  Anche le mosse di tipo Fuoco, Ghiaccio, Acciaio e Acqua non fanno molti danni."
  },
  {
-  "id": "\\bCilan uses Fire type Pokémon. They are weak aganst the Water, Ground, and Rock types.",
-  "en": "\\bCilan uses Fire type Pokémon. They are weak aganst the Water, Ground, and Rock types.",
-  "it": "\\bMaisello usa Pokémon di tipo Fuoco. Sono deboli contro i tipi Acqua, Terra e Roccia."
+  "id": "\\bOh, you're here for the gym. It's at the back.",
+  "en": "\\bOh, you're here for the gym. It's at the back.",
+  "it": "\\bOh, sei qui per la Palestra. È in fondo."
+ },
+ {
+  "id": "\\bChili uses Fire type Pokémon. They are weak against the Water, Ground, and Rock types.",
+  "en": "\\bChili uses Fire type Pokémon. They are weak against the Water, Ground, and Rock types.",
+  "it": "\\bChicco usa Pokémon di tipo Fuoco. Sono deboli contro i tipi Acqua, Terra e Roccia."
  },
  {
   "id": "\\bThey are strong against Bug, Grass, Ice, and Steel. Bug, Grass, Fire, Ice, Steel, and Fairy moves also don't do much damage.",
   "en": "\\bThey are strong against Bug, Grass, Ice, and Steel.  Bug, Grass, Fire, Ice, Steel, and Fairy moves also don't do much damage.",
   "it": "\\bSono forti contro Coleottero, Erba, Ghiaccio e Acciaio.  Anche le mosse di tipo Coleottero, Erba, Fuoco, Ghiaccio, Acciaio e Folletto non fanno molti danni."
- },
- {
-  "id": "\\bOh, you're here for the gym. It's at the back.",
-  "en": "\\bOh, you're here for the gym. It's at the back.",
-  "it": "\\bOh, sei qui per la Palestra. È in fondo."
  },
  {
   "id": "\\bDon't tell me to slow down.",

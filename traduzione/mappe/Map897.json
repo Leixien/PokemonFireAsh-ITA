@@ -1,40 +1,5 @@
 [
  {
-  "id": "\\bLapras",
-  "en": "\\bLapras",
-  "it": "\\bLapras"
- },
- {
-  "id": "\\rWould you like to see my babies?",
-  "en": "\\rWould you like to see my babies?",
-  "it": "\\rVuoi vedere i miei piccoli?"
- },
- {
-  "id": "\\rI'm so upset right now.",
-  "en": "\\rI'm so upset right now.",
-  "it": "\\rSono così arrabbiata in questo momento."
- },
- {
-  "id": "\\bA fine day for a stroll, isn't it?",
-  "en": "\\bA fine day for a stroll, isn't it?",
-  "it": "\\bBella giornata per una passeggiata, vero?"
- },
- {
-  "id": "\\bThat was a wonderful battle.",
-  "en": "\\bThat was a wonderful battle.",
-  "it": "\\bÈ stata una lotta magnifica."
- },
- {
-  "id": "\\bHave you found anything rare?",
-  "en": "\\bHave you found anything rare?",
-  "it": "\\bHai trovato qualcosa di raro?"
- },
- {
-  "id": "\\bKeep up that fighting spirit.",
-  "en": "\\bKeep up that fighting spirit.",
-  "it": "\\bNon perdere quello spirito combattivo."
- },
- {
   "id": "\\bDo you know about Alola forms?",
   "en": "\\bDo you know about Alola forms?",
   "it": "\\bConosci le forme di Alola?"
@@ -43,16 +8,6 @@
   "id": "\\bIn the Alola region, a species' regional variant is referred to as its Alola Form. They look similar to what you'd find in Kanto, but have big changes.",
   "en": "\\bIn the Alola region, a species' regional variant is referred to as its Alola Form. They look similar to what you'd find in Kanto, but have big changes.",
   "it": "\\bNella regione di Alola, la variante regionale di una specie si chiama Forma di Alola. Somigliano a quelli che troveresti a Kanto, ma con grandi differenze."
- },
- {
-  "id": "\\rHow dare you get in my way.",
-  "en": "\\rHow dare you get in my way.",
-  "it": "\\rCome osi metterti sulla mia strada?"
- },
- {
-  "id": "\\rFine. I'm sorry you stepped in front of me.",
-  "en": "\\rFine. I'm sorry you stepped in front of me.",
-  "it": "\\rE va bene. Mi dispiace che tu mi sia finito davanti."
  },
  {
   "id": "\\bPopplio",
@@ -73,6 +28,16 @@
   "id": "Oh, you don't have any space for it.",
   "en": "Oh, you don't have any space for it.",
   "it": "Oh, non hai spazio per tenerlo."
+ },
+ {
+  "id": "\\rHow dare you get in my way.",
+  "en": "\\rHow dare you get in my way.",
+  "it": "\\rCome osi metterti sulla mia strada?"
+ },
+ {
+  "id": "\\rFine. I'm sorry you stepped in front of me.",
+  "en": "\\rFine. I'm sorry you stepped in front of me.",
+  "it": "\\rE va bene. Mi dispiace che tu mi sia finito davanti."
  },
  {
   "id": "\\rLana: So on this island is a wild Gyarados. I want you to fish it up and battle it. I've done it plenty of times. It usually hides near a rock.",
@@ -110,6 +75,11 @@
   "it": "\\rOk, bene."
  },
  {
+  "id": "\\bLapras",
+  "en": "\\bLapras",
+  "it": "\\bLapras"
+ },
+ {
   "id": "\\rYou look tired. Take a break.",
   "en": "\\rYou look tired. Take a break.",
   "it": "\\rSembri stanco. Fai una pausa."
@@ -118,6 +88,16 @@
   "id": "\\rOh, good! You and your Pokémon are looking great.",
   "en": "\\rOh, good! You and your Pokémon are looking great.",
   "it": "\\rOh, bene! Tu e i tuoi Pokémon siete in gran forma."
+ },
+ {
+  "id": "\\rWould you like to see my babies?",
+  "en": "\\rWould you like to see my babies?",
+  "it": "\\rVuoi vedere i miei piccoli?"
+ },
+ {
+  "id": "\\rI'm so upset right now.",
+  "en": "\\rI'm so upset right now.",
+  "it": "\\rSono così arrabbiata in questo momento."
  },
  {
   "id": "Rotom Dex: The Gyarados might be here. Do you want to fish it up?",
@@ -130,14 +110,24 @@
   "it": "Buona idea. Prima preparati."
  },
  {
-  "id": "Hau'oli City",
-  "en": "Hau'oli City",
-  "it": "Hau'oli"
+  "id": "\\bA fine day for a stroll, isn't it?",
+  "en": "\\bA fine day for a stroll, isn't it?",
+  "it": "\\bBella giornata per una passeggiata, vero?"
  },
  {
-  "id": "Exit",
-  "en": "Exit",
-  "it": "Esci"
+  "id": "\\bThat was a wonderful battle.",
+  "en": "\\bThat was a wonderful battle.",
+  "it": "\\bÈ stata una lotta magnifica."
+ },
+ {
+  "id": "\\bHave you found anything rare?",
+  "en": "\\bHave you found anything rare?",
+  "it": "\\bHai trovato qualcosa di raro?"
+ },
+ {
+  "id": "\\bKeep up that fighting spirit.",
+  "en": "\\bKeep up that fighting spirit.",
+  "it": "\\bNon perdere quello spirito combattivo."
  },
  {
   "id": "Yes",
@@ -148,5 +138,15 @@
   "id": "No",
   "en": "No",
   "it": "No"
+ },
+ {
+  "id": "Hau'oli City",
+  "en": "Hau'oli City",
+  "it": "Hau'oli"
+ },
+ {
+  "id": "Exit",
+  "en": "Exit",
+  "it": "Esci"
  }
 ]

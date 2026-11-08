@@ -65,9 +65,9 @@
   "it": "\\rCiao. Qui puoi iscriverti al torneo."
  },
  {
-  "id": "\\rIf you register you will be assigned to a Trainer for Tag Battles. Would you like to regester?",
-  "en": "\\rIf you register you will be assigned to a Trainer for Tag Battles. Would you like to regester?",
-  "it": "\\rSe ti iscrivi, ti verrà assegnato un Allenatore per le Lotte in Coppia. Vuoi iscriverti?"
+  "id": "\\rIf you register you will be assigned to a Trainer for Tag Battles. Would you like to register?",
+  "en": "\\rIf you register you will be assigned to a Trainer for Tag Battles. Would you like to register?",
+  "it": "\\rSe ti iscrivi, ti verrà assegnato un Allenatore con cui affrontare le Lotte in Coppia. Vuoi iscriverti?"
  },
  {
   "id": "\\rGreat! Let's set you up for a battle.",

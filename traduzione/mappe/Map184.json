@@ -95,9 +95,9 @@
   "it": "\\bBenvenuto. Dove vorresti andare?"
  },
  {
-  "id": "\\rWelcome. Where would you like to go?\\ch[1,-1, Vermillion,Cinnabar Gym,Metallica Island,Seafoam Islamds,Exit]",
-  "en": "\\rWelcome. Where would you like to go?\\ch[1,-1, Vermillion,Cinnabar Gym,Metallica Island,Seafoam Islamds,Exit]",
-  "it": "\\rBenvenuto. Dove vuoi andare?\\ch[1,-1, Aranciopoli,Palestra Cannella,Isola Metallica,Isole Spumarine,Esci]"
+  "id": "\\rWelcome. Where would you like to go?\\ch[1,-1, Vermillion,Cinnabar Gym,Metallica Island,Seafoam Islands,Exit]",
+  "en": "\\rWelcome. Where would you like to go?\\ch[1,-1, Vermillion,Cinnabar Gym,Metallica Island,Seafoam Islands,Exit]",
+  "it": "\\rBenvenuto. Dove vuoi andare?\\ch[1,-1, Aranciopoli,Palestra di Cannella,Isola Metallica,Isole Spumarine,Esci]"
  },
  {
   "id": "\\bI'm looking for a Seel.",

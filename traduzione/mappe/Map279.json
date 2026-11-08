@@ -1,15 +1,5 @@
 [
  {
-  "id": "\\rThere are so many events going on right now.",
-  "en": "\\rThere are so many events going on right now.",
-  "it": "\\rCi sono tantissimi eventi in corso in questo momento."
- },
- {
-  "id": "\\rIt's so much fun.",
-  "en": "\\rIt's so much fun.",
-  "it": "\\rÈ così divertente."
- },
- {
   "id": "\\bHave you tried the Tauros competition? I lost.",
   "en": "\\bHave you tried the Tauros competition? I lost.",
   "it": "\\bHai provato la gara dei Tauros? Io ho perso."
@@ -83,6 +73,16 @@
   "id": "\\rChansey",
   "en": "\\rChansey",
   "it": "\\rChansey"
+ },
+ {
+  "id": "\\rThere are so many events going on right now.",
+  "en": "\\rThere are so many events going on right now.",
+  "it": "\\rCi sono tantissimi eventi in corso in questo momento."
+ },
+ {
+  "id": "\\rIt's so much fun.",
+  "en": "\\rIt's so much fun.",
+  "it": "\\rÈ così divertente."
  },
  {
   "id": "Yes",

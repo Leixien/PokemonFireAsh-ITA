@@ -1,35 +1,5 @@
 [
  {
-  "id": "\\bHi \\PN! I'm your Rival!",
-  "en": "\\bHi \\PN!  I'm your Rival!",
-  "it": "\\bCiao \\PN! Sono il tuo Rivale!"
- },
- {
-  "id": "\\bDo you want to name me, or leave me with my default name as defined in trainers.txt?",
-  "en": "\\bDo you want to name me, or leave me with my default name as defined in trainers.txt?",
-  "it": "\\bVuoi darmi un nome o lasciarmi quello predefinito definito in trainers.txt?"
- },
- {
-  "id": "\\bSo my name is \\v[12], huh? Okay then.",
-  "en": "\\bSo my name is \\v[12], huh?  Okay then.",
-  "it": "\\bQuindi mi chiamo \\v[12], eh? Va bene."
- },
- {
-  "id": "\\bLet's get down to the battle!",
-  "en": "\\bLet's get down to the battle!",
-  "it": "\\bPassiamo alla lotta!"
- },
- {
-  "id": "Not too shabby.",
-  "en": "Not too shabby.",
-  "it": "Niente male."
- },
- {
-  "id": "\\bI'm going to leave now. Smell you later!",
-  "en": "\\bI'm going to leave now.  Smell you later!",
-  "it": "\\bOra me ne vado. Ci si vede!"
- },
- {
   "id": "\\bDid I notice you, or did you notice me?",
   "en": "\\bDid I notice you, or did you notice me?",
   "it": "\\bSono io che ho notato te o tu che hai notato me?"
@@ -60,6 +30,36 @@
   "it": "\\bDiventerò ancora più forte e la prossima volta ti batterò!"
  },
  {
+  "id": "\\bHi \\PN! I'm your Rival!",
+  "en": "\\bHi \\PN!  I'm your Rival!",
+  "it": "\\bCiao \\PN! Sono il tuo Rivale!"
+ },
+ {
+  "id": "\\bDo you want to name me, or leave me with my default name as defined in trainers.txt?",
+  "en": "\\bDo you want to name me, or leave me with my default name as defined in trainers.txt?",
+  "it": "\\bVuoi darmi un nome o lasciarmi quello predefinito definito in trainers.txt?"
+ },
+ {
+  "id": "\\bSo my name is \\v[12], huh? Okay then.",
+  "en": "\\bSo my name is \\v[12], huh?  Okay then.",
+  "it": "\\bQuindi mi chiamo \\v[12], eh? Va bene."
+ },
+ {
+  "id": "\\bLet's get down to the battle!",
+  "en": "\\bLet's get down to the battle!",
+  "it": "\\bPassiamo alla lotta!"
+ },
+ {
+  "id": "Not too shabby.",
+  "en": "Not too shabby.",
+  "it": "Niente male."
+ },
+ {
+  "id": "\\bI'm going to leave now. Smell you later!",
+  "en": "\\bI'm going to leave now.  Smell you later!",
+  "it": "\\bOra me ne vado. Ci si vede!"
+ },
+ {
   "id": "\\rYou'll need at least two Pokémon if you want to battle us.",
   "en": "\\rYou'll need at least two Pokémon if you want to battle us.",
   "it": "\\rTi servono almeno due Pokémon se vuoi sfidarci."
@@ -78,26 +78,6 @@
   "id": "\\rNotice that our events aren't created by comments.",
   "en": "\\rNotice that our events aren't created by comments.",
   "it": "\\rNota che i nostri eventi non sono creati tramite commenti."
- },
- {
-  "id": "\\rBattle me now!",
-  "en": "\\rBattle me now!",
-  "it": "\\rSfidami subito!"
- },
- {
-  "id": "Defeated! Oh my!",
-  "en": "Defeated!  Oh my!",
-  "it": "Sconfitta! Oh, cielo!"
- },
- {
-  "id": "\\rCan I add you to my contacts list?",
-  "en": "\\rCan I add you to my contacts list?",
-  "it": "\\rPosso aggiungerti alla mia lista contatti?"
- },
- {
-  "id": "\\rI'll say the same thing after every battle.",
-  "en": "\\rI'll say the same thing after every battle.",
-  "it": "\\rDirò la stessa cosa dopo ogni lotta."
  },
  {
   "id": "Something unseeable is in the way. Want to use the Silph Scope?",
@@ -123,6 +103,26 @@
   "id": "Something unseeable is in the way.",
   "en": "Something unseeable is in the way.",
   "it": "Qualcosa di invisibile blocca il passaggio."
+ },
+ {
+  "id": "\\rBattle me now!",
+  "en": "\\rBattle me now!",
+  "it": "\\rSfidami subito!"
+ },
+ {
+  "id": "Defeated! Oh my!",
+  "en": "Defeated!  Oh my!",
+  "it": "Sconfitta! Oh, cielo!"
+ },
+ {
+  "id": "\\rCan I add you to my contacts list?",
+  "en": "\\rCan I add you to my contacts list?",
+  "it": "\\rPosso aggiungerti alla mia lista contatti?"
+ },
+ {
+  "id": "\\rI'll say the same thing after every battle.",
+  "en": "\\rI'll say the same thing after every battle.",
+  "it": "\\rDirò la stessa cosa dopo ogni lotta."
  },
  {
   "id": "\\bYou'll need at least two Pokémon if you want to battle us.",
@@ -170,21 +170,6 @@
   "it": "\\bOK, allora."
  },
  {
-  "id": "\\bThis battle will go without a hitch!",
-  "en": "\\bThis battle will go without a hitch!",
-  "it": "\\bQuesta lotta andrà liscia come l'olio!"
- },
- {
-  "id": "You're too good for me!",
-  "en": "You're too good for me!",
-  "it": "Sei troppo forte per me!"
- },
- {
-  "id": "\\bHow did you manage to face all three of us?",
-  "en": "\\bHow did you manage to face all three of us?",
-  "it": "\\bCome hai fatto ad affrontarci tutti e tre?"
- },
- {
   "id": "These are all the particle effects available in Essentials. An event can only have one particle effect.",
   "en": "These are all the particle effects available in Essentials.  An event can only have one particle effect.",
   "it": "Questi sono tutti gli effetti particellari disponibili in Essentials. Un evento può avere un solo effetto particellare."
@@ -208,6 +193,21 @@
   "id": "The shadow-related comments must come before the particle effect comment.",
   "en": "The shadow-related comments must come before the particle effect comment.",
   "it": "I commenti relativi alle ombre devono precedere il commento dell'effetto particellare."
+ },
+ {
+  "id": "\\bThis battle will go without a hitch!",
+  "en": "\\bThis battle will go without a hitch!",
+  "it": "\\bQuesta lotta andrà liscia come l'olio!"
+ },
+ {
+  "id": "You're too good for me!",
+  "en": "You're too good for me!",
+  "it": "Sei troppo forte per me!"
+ },
+ {
+  "id": "\\bHow did you manage to face all three of us?",
+  "en": "\\bHow did you manage to face all three of us?",
+  "it": "\\bCome hai fatto ad affrontarci tutti e tre?"
  },
  {
   "id": "\\bI'll get my tackle out for you!",

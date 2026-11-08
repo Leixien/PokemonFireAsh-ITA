@@ -1,18 +1,13 @@
 [
  {
-  "id": "\\bForget about the battles. Do you see everything they are selling here?",
-  "en": "\\bForget about the battles. Do you see everything they are selling here?",
-  "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
- },
- {
   "id": "\\rWigglytuff",
   "en": "\\rWigglytuff",
   "it": "\\rWigglytuff"
  },
  {
-  "id": "\\bOne guy spams Thunderbolt and my all flying team is defeated. Maybe I need some options.",
-  "en": "\\bOne guy spams Thunderbolt and my all flying team is defeated. Maybe I need some options.",
-  "it": "\\bUn tizio spamma Fulmine e la mia squadra tutta di tipo Volante è sconfitta. Forse mi servono più alternative."
+  "id": "\\bForget about the battles. Do you see everything they are selling here?",
+  "en": "\\bForget about the battles. Do you see everything they are selling here?",
+  "it": "\\bLascia perdere le lotte. Hai visto tutto quello che vendono qui?"
  },
  {
   "id": "\\bThis is where the Semi Finals and Finals take place.",
@@ -37,7 +32,7 @@
  {
   "id": "\\bAre you ready for your battle against Drasna?",
   "en": "\\bAre you ready for your battle against Drasna?",
-  "it": "\\bSei pronto per la tua lotta contro Drasna?"
+  "it": "\\bSei pronto per la tua lotta contro Lila?"
  },
  {
   "id": "\\bThe league is over. Come back next year.",
@@ -45,14 +40,14 @@
   "it": "\\bLa Lega è finita. Torna l'anno prossimo."
  },
  {
+  "id": "\\bOne guy spams Thunderbolt and my all flying team is defeated. Maybe I need some options.",
+  "en": "\\bOne guy spams Thunderbolt and my all flying team is defeated. Maybe I need some options.",
+  "it": "\\bUn tizio spamma Fulmine e la mia squadra tutta di tipo Volante è sconfitta. Forse mi servono più alternative."
+ },
+ {
   "id": "\\bThis is my third time trying. No way am I losing.",
   "en": "\\bThis is my third time trying. No way am I losing.",
   "it": "\\bÈ la terza volta che ci provo. Non perderò di certo."
- },
- {
-  "id": "\\rI came to cheer on Alain. He's a good friend of mine.",
-  "en": "\\rI came to cheer on Alain. He's a good friend of mine.",
-  "it": "\\rSono venuta a fare il tifo per Alain. È un mio caro amico."
  },
  {
   "id": "\\bSawyer: This is going to be so much fun. I can't wait to see what I learn.",
@@ -65,9 +60,19 @@
   "it": "\\bSawyer: Sembra che il mio prossimo avversario sia tu. Peccato che non possiamo vincere entrambi. Ma non mi tratterrò."
  },
  {
+  "id": "\\rI came to cheer on Alain. He's a good friend of mine.",
+  "en": "\\rI came to cheer on Alain. He's a good friend of mine.",
+  "it": "\\rSono venuta a fare il tifo per Alain. È un mio caro amico."
+ },
+ {
   "id": "\\bDon't feel bad. There is always next year.",
   "en": "\\bDon't feel bad. There is always next year.",
   "it": "\\bNon abbatterti. C'è sempre l'anno prossimo."
+ },
+ {
+  "id": "\\rChesnaught",
+  "en": "\\rChesnaught",
+  "it": "\\rChesnaught"
  },
  {
   "id": "\\rHello. Here you can register for the Lumiose Conference.",
@@ -105,9 +110,24 @@
   "it": "\\rIl Team Flare ci sta attaccando. Cosa facciamo?"
  },
  {
-  "id": "\\rChesnaught",
-  "en": "\\rChesnaught",
-  "it": "\\rChesnaught"
+  "id": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Lumiose Conference? It might be too easy for you...",
+  "en": "\\rOh my, is that Monarch \\PN? Are you sure you want to register for the Lumiose Conference? It might be too easy for you...",
+  "it": "\\rOh, ma quello è il Monarca \\PN? Sei sicuro di volerti iscrivere alla Conferenza di Luminopoli? Potrebbe essere troppo facile per te..."
+ },
+ {
+  "id": "\\rOk then... well, the format's the same as last year.",
+  "en": "\\rOk then... well, the format's the same as last year.",
+  "it": "\\rVa bene... allora, il formato è lo stesso dell'anno scorso."
+ },
+ {
+  "id": "\\rYour first battle will be to the far left. Good luck! Though you probably won't need it...",
+  "en": "\\rYour first battle will be to the far left. Good luck! Though you probably won't need it...",
+  "it": "\\rIl tuo primo incontro sarà in fondo a sinistra. Buona fortuna! Anche se probabilmente non ti servirà..."
+ },
+ {
+  "id": "\\bLet's win this, partner.",
+  "en": "\\bLet's win this, partner.",
+  "it": "\\bVinciamo, compagno."
  },
  {
   "id": "\\bThis is where the Top 64 take place.",
@@ -130,9 +150,9 @@
   "it": "\\bMolto bene."
  },
  {
-  "id": "\\bLet's win this, partner.",
-  "en": "\\bLet's win this, partner.",
-  "it": "\\bVinciamo, compagno."
+  "id": "\\bAlain: I can't believe he's doing this. I have to stop him now.",
+  "en": "\\bAlain: I can't believe he's doing this. I have to stop him now.",
+  "it": "\\bAlain: Non posso credere che lo stia facendo. Devo fermarlo subito."
  },
  {
   "id": "\\rI'm rooting for my friend Trevor.",
@@ -140,9 +160,9 @@
   "it": "\\rFaccio il tifo per il mio amico Trevor."
  },
  {
-  "id": "\\bAlain: I can't believe he's doing this. I have to stop him now.",
-  "en": "\\bAlain: I can't believe he's doing this. I have to stop him now.",
-  "it": "\\bAlain: Non posso credere che lo stia facendo. Devo fermarlo subito."
+  "id": "\\bAipom!",
+  "en": "\\bAipom!",
+  "it": "\\bAipom!"
  },
  {
   "id": "\\bThis is where the Top 32 battle.",
@@ -153,11 +173,6 @@
   "id": "\\bThis is where the Top 32 fight? Are you ready?",
   "en": "\\bThis is where the Top 32 fight? Are you ready?",
   "it": "\\bQui lottano i migliori 32. Sei pronto?"
- },
- {
-  "id": "\\bAipom!",
-  "en": "\\bAipom!",
-  "it": "\\bAipom!"
  },
  {
   "id": "\\rHello, and welcome to the Pokémon Center.",
@@ -230,16 +245,6 @@
   "it": "\\bSceptile"
  },
  {
-  "id": "\\bThis is where the Top 16 battle.",
-  "en": "\\bThis is where the Top 16 battle.",
-  "it": "\\bQui si sfidano i Top 16."
- },
- {
-  "id": "\\bThis is where the Top 16 fight? Are you ready?",
-  "en": "\\bThis is where the Top 16 fight? Are you ready?",
-  "it": "\\bQui si sfidano i Top 16? Sei pronto?"
- },
- {
   "id": "\\bThis is where the Top 8 take place.",
   "en": "\\bThis is where the Top 8 take place.",
   "it": "\\bQui si svolge la fase dei Migliori 8."
@@ -248,6 +253,16 @@
   "id": "\\bThis is where the Top 8 take place? Are you ready?",
   "en": "\\bThis is where the Top 8 take place? Are you ready?",
   "it": "\\bQui si svolge la fase dei Migliori 8? Sei pronto?"
+ },
+ {
+  "id": "\\bThis is where the Top 16 battle.",
+  "en": "\\bThis is where the Top 16 battle.",
+  "it": "\\bQui si sfidano i Top 16."
+ },
+ {
+  "id": "\\bThis is where the Top 16 fight? Are you ready?",
+  "en": "\\bThis is where the Top 16 fight? Are you ready?",
+  "it": "\\bQui si sfidano i Top 16? Sei pronto?"
  },
  {
   "id": "Yes",

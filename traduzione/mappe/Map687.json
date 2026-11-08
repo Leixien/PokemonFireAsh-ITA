@@ -1,5 +1,10 @@
 [
  {
+  "id": "\\rMy brother is upstairs. He loves looking at stones.",
+  "en": "\\rMy brother is upstairs. He loves looking at stones.",
+  "it": "\\rMio fratello è al piano di sopra. Adora guardare le pietre."
+ },
+ {
   "id": "\\rOh?\\nYour \\v[1]...",
   "en": "\\rOh?\\nYour \\v[1]...",
   "it": "\\rOh?\\nIl tuo \\v[1]..."
@@ -38,11 +43,6 @@
   "id": "\\rIf you do, I'll give your Pokémon something nice.",
   "en": "\\rIf you do, I'll give your Pokémon something nice.",
   "it": "\\rSe lo farai, darò al tuo Pokémon qualcosa di bello."
- },
- {
-  "id": "\\rMy brother is upstairs. He loves looking at stones.",
-  "en": "\\rMy brother is upstairs. He loves looking at stones.",
-  "it": "\\rMio fratello è al piano di sopra. Adora guardare le pietre."
  },
  {
   "id": "\\bThe city is known for all the activities you can enjoy.",

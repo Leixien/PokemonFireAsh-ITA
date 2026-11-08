@@ -1,5 +1,10 @@
 [
  {
+  "id": "Mr. Briney's harbor",
+  "en": "Mr. Briney's harbor",
+  "it": "Porto del sig. Marino"
+ },
+ {
   "id": "\\rHello.",
   "en": "\\rHello.",
   "it": "\\rSalve."
@@ -10,29 +15,14 @@
   "it": "\\rSono stata ovunque. Il mondo non finisce mai."
  },
  {
-  "id": "Mr. Briney's harbor",
-  "en": "Mr. Briney's harbor",
-  "it": "Porto del sig. Marino"
- },
- {
-  "id": "\\bXatu",
-  "en": "\\bXatu",
-  "it": "\\bXatu"
- },
- {
   "id": "\\bThe students learn so much from the school we have here.",
   "en": "\\bThe students learn so much from the school we have here.",
   "it": "\\bGli studenti imparano tantissimo nella scuola che abbiamo qui."
  },
  {
-  "id": "\\bAre you trying to find someone?",
-  "en": "\\bAre you trying to find someone?",
-  "it": "\\bStai cercando qualcuno?"
- },
- {
-  "id": "\\b...",
-  "en": "\\b...",
-  "it": "\\b..."
+  "id": "\\bXatu",
+  "en": "\\bXatu",
+  "it": "\\bXatu"
  },
  {
   "id": "Rustboro City Pokémon Gym Leader: \\nRoxanne",
@@ -45,9 +35,14 @@
   "it": "La studentessa modello che ama le rocce!"
  },
  {
-  "id": "\\bZag",
-  "en": "\\bZag",
-  "it": "\\bZag"
+  "id": "\\bAre you trying to find someone?",
+  "en": "\\bAre you trying to find someone?",
+  "it": "\\bStai cercando qualcuno?"
+ },
+ {
+  "id": "\\b...",
+  "en": "\\b...",
+  "it": "\\b..."
  },
  {
   "id": "\\bThis town is the home of science. Not even Kanto can beat us.",
@@ -55,14 +50,9 @@
   "it": "\\bQuesta città è la patria della scienza. Nemmeno Kanto può batterci."
  },
  {
-  "id": "Do you need something?",
-  "en": "Do you need something?",
-  "it": "Ti serve qualcosa?"
- },
- {
-  "id": "I should get going soon. My family is waiting.",
-  "en": "I should get going soon. My family is waiting.",
-  "it": "Dovrei andare presto. La mia famiglia mi aspetta."
+  "id": "\\bZag",
+  "en": "\\bZag",
+  "it": "\\bZag"
  },
  {
   "id": "\\rMr Briney has such a cute Wingull, Peeko.",
@@ -70,19 +60,24 @@
   "it": "\\rIl sig. Marino ha un Wingull adorabile, Peeko."
  },
  {
+  "id": "\\bDo you need something?",
+  "en": "\\bDo you need something?",
+  "it": "\\bTi serve qualcosa?"
+ },
+ {
+  "id": "\\bI should get going soon. My family is waiting.",
+  "en": "\\bI should get going soon. My family is waiting.",
+  "it": "\\bDovrei andare tra poco. La mia famiglia mi aspetta."
+ },
+ {
   "id": "\\bWe experiment and create many things at the Devon Corporation.",
   "en": "\\bWe experiment and create many things at the Devon Corporation.",
   "it": "\\bAlla Devon SpA facciamo esperimenti e creiamo molte cose."
  },
  {
-  "id": "\\rBanette...",
-  "en": "\\rBanette...",
-  "it": "\\rBanette..."
- },
- {
-  "id": "It seems like the Banette is looking for its Trainer. Ask around and see if you can find them.",
-  "en": "It seems like the Banette is looking for its Trainer. Ask around and see if you can find them.",
-  "it": "Sembra che Banette stia cercando il suo Allenatore. Chiedi in giro e vedi se riesci a trovarlo."
+  "id": "Devon Corporation\\nFor all your living needs, we make it all.",
+  "en": "Devon Corporation\\nFor all your living needs, we make it all.",
+  "it": "Devon SpA\\nPer ogni esigenza della tua vita, produciamo di tutto."
  },
  {
   "id": "\\bRoxanne can be really tough. I've perfected a move to beat her though.",
@@ -100,14 +95,14 @@
   "it": "\\bTorna quando sei pronto."
  },
  {
-  "id": "Devon Corporation\\nFor all your living needs, we make it all.",
-  "en": "Devon Corporation\\nFor all your living needs, we make it all.",
-  "it": "Devon SpA\\nPer ogni esigenza della tua vita, produciamo di tutto."
+  "id": "\\rBanette...",
+  "en": "\\rBanette...",
+  "it": "\\rBanette..."
  },
  {
-  "id": "\\bRoxanne was in a hurry. I think she said she was going to the school.",
-  "en": "\\bRoxanne was in a hurry. I think she said she was going to the school.",
-  "it": "\\bPetra andava di fretta. Mi pare abbia detto che andava a scuola."
+  "id": "It seems like the Banette is looking for its Trainer. Ask around and see if you can find them.",
+  "en": "It seems like the Banette is looking for its Trainer. Ask around and see if you can find them.",
+  "it": "Sembra che Banette stia cercando il suo Allenatore. Chiedi in giro e vedi se riesci a trovarlo."
  },
  {
   "id": "\\rRoxanne is the Gym Leader of this city.",
@@ -120,6 +115,16 @@
   "it": "\\rUsa Pokémon di tipo Roccia."
  },
  {
+  "id": "\\bRoxanne was in a hurry. I think she said she was going to the school.",
+  "en": "\\bRoxanne was in a hurry. I think she said she was going to the school.",
+  "it": "\\bPetra andava di fretta. Mi pare abbia detto che andava a scuola."
+ },
+ {
+  "id": "Rustboro City\\nThe city probing the integration of nature and science.",
+  "en": "Rustboro City\\nThe city probing the integration of nature and science.",
+  "it": "Ferrugipoli\\nLa città che esplora l'unione tra natura e scienza."
+ },
+ {
   "id": "\\rYou're looking for me?",
   "en": "\\rYou're looking for me?",
   "it": "\\rStai cercando me?"
@@ -128,10 +133,5 @@
   "id": "\\rOh. That's okay.",
   "en": "\\rOh. That's okay.",
   "it": "\\rOh. Non fa niente."
- },
- {
-  "id": "Rustboro City\\nThe city probing the integration of nature and science.",
-  "en": "Rustboro City\\nThe city probing the integration of nature and science.",
-  "it": "Ferrugipoli\\nLa città che esplora l'unione tra natura e scienza."
  }
 ]

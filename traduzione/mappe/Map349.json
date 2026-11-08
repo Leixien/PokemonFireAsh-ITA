@@ -10,11 +10,6 @@
   "it": "\\rQuel negozio mi sembra losco.\\nTu che ne pensi?"
  },
  {
-  "id": "\\bJames: Welcome to our shop.",
-  "en": "\\bJames: Welcome to our shop.",
-  "it": "\\bJames: Benvenuti nel nostro negozio."
- },
- {
   "id": "\\rMisty: Hi \\PN. Are you already done here?",
   "en": "\\rMisty: Hi \\PN. Are you already done here?",
   "it": "\\rMisty: Ciao \\PN. Hai già finito qui?"
@@ -38,6 +33,11 @@
   "id": "\\rMisty: I've decided to become a permanent Gym Leader. Isn't that exciting?",
   "en": "\\rMisty: I've decided to become a permanent Gym Leader. Isn't that exciting?",
   "it": "\\rMisty: Ho deciso di diventare Capopalestra a tempo pieno. Non è emozionante?"
+ },
+ {
+  "id": "\\bJames: Welcome to our shop.",
+  "en": "\\bJames: Welcome to our shop.",
+  "it": "\\bJames: Benvenuti nel nostro negozio."
  },
  {
   "id": "\\bThe Silver Conference is so much fun.",
@@ -81,8 +81,8 @@
  },
  {
   "id": "\\bBrock: There! \\v[2] looks a lot better now!",
-  "en": "\\bBrock: There!  \\v[2] looks a lot better now!",
-  "it": "\\bBrock: Ecco fatto!  \\v[2] ha un aspetto molto migliore ora!"
+  "en": "\\bBrock: There! \\v[2] looks a lot better now!",
+  "it": "\\bBrock: Ecco! \\v[2] sta molto meglio adesso!"
  },
  {
   "id": "\\bWobbuffet!",

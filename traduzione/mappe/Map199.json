@@ -13,5 +13,15 @@
   "id": "\\bCongratulations on winning your second match. \\nYour next battle will be on the Ice stage.",
   "en": "\\bCongratulations on winning your second match. \\nYour next battle will be on the Ice stage.",
   "it": "\\bCongratulazioni per aver vinto il tuo secondo incontro. \\nLa tua prossima lotta sarà sul campo Ghiaccio."
+ },
+ {
+  "id": "\\bI'm not losing to you again!",
+  "en": "\\bI'm not losing to you again!",
+  "it": "\\bNon perderò di nuovo contro di te!"
+ },
+ {
+  "id": "\\bYes! On to the next round.",
+  "en": "\\bYes! On to the next round.",
+  "it": "\\bSì! Avanti al prossimo turno."
  }
 ]

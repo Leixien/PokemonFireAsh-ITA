@@ -40,14 +40,9 @@
   "it": "\\rSe solo Furio rallentasse un po'."
  },
  {
-  "id": "Cianwood City Pharmacy\\n 500 Years of Tradition\\n We Await Your Medicinal Queries",
-  "en": "Cianwood City Pharmacy\\n 500 Years of Tradition\\n We Await Your Medicinal Queries",
-  "it": "Farmacia di Fiorlisopoli\\n 500 anni di tradizione\\n Rispondiamo a ogni domanda sui medicinali"
- },
- {
-  "id": "\\bI want to go swimming, but my dad said no.",
-  "en": "\\bI want to go swimming, but my dad said no.",
-  "it": "\\bVoglio andare a nuotare, ma il mio papà ha detto di no."
+  "id": "Cianwood City Pharmacy\\n500 Years of Tradition \\nWe Await Your Medicinal Queries",
+  "en": "Cianwood City Pharmacy\\n500 Years of Tradition \\nWe Await Your Medicinal Queries",
+  "it": "Farmacia di Fiorlisopoli\\n500 anni di tradizione \\nAttendiamo le vostre domande sui medicinali"
  },
  {
   "id": "\\rSeadra",
@@ -60,9 +55,14 @@
   "it": "\\rKingdra"
  },
  {
-  "id": "Olivine Pokémon Gym Leader: \\nChuck",
-  "en": "Olivine Pokémon Gym Leader: \\nChuck",
-  "it": "Capopalestra di Fiorlisopoli: \\nFurio"
+  "id": "\\bI want to go swimming, but my dad said no.",
+  "en": "\\bI want to go swimming, but my dad said no.",
+  "it": "\\bVoglio andare a nuotare, ma il mio papà ha detto di no."
+ },
+ {
+  "id": "Cianwood Pokémon Gym Leader: \\nChuck",
+  "en": "Cianwood Pokémon Gym Leader: \\nChuck",
+  "it": "Capopalestra della Palestra Pokémon di Fiorlisopoli: \\nFurio"
  },
  {
   "id": "His Roaring Fists do the Talking",
@@ -70,14 +70,14 @@
   "it": "I suoi pugni ruggenti parlano per lui"
  },
  {
-  "id": "\\bNo matter how many times we break them these rocks, just keep coming back.",
-  "en": "\\bNo matter how many times we break them these rocks, just keep coming back.",
-  "it": "\\bNon importa quante volte le spacchiamo, queste rocce tornano sempre."
- },
- {
   "id": "\\bUrsaring",
   "en": "\\bUrsaring",
   "it": "\\bUrsaring"
+ },
+ {
+  "id": "\\bNo matter how many times we break them these rocks, just keep coming back.",
+  "en": "\\bNo matter how many times we break them these rocks, just keep coming back.",
+  "it": "\\bNon importa quante volte le spacchiamo, queste rocce tornano sempre."
  },
  {
   "id": "\\bWelcome to the Olivine Cruiser. Unfortunately we are not sailing right now due to engine failure.",
