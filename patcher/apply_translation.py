@@ -1,18 +1,16 @@
-"""Applica la traduzione italiana a Pokemon Fire Ash (versioni 3.7.1 e 3.4).
+"""Applica la traduzione italiana a Pokemon Fire Ash 3.7.1.
 
 Uso:
     py -m pip install -r requirements.txt
     py patcher/apply_translation.py "C:\\percorso\\della\\cartella\\del\\gioco"
 
 La cartella e' quella che contiene Game.exe e la cartella Data.
-Il patcher riconosce la versione del gioco e:
-  1. copia il file di lingua italiano giusto in <gioco>/Data/
-     (3.7.1: italian.dat, 3.4: italiano.dat)
+Il patcher controlla la versione del gioco e:
+  1. copia italian.dat in <gioco>/Data/
   2. aggiunge "Italiano" alla scelta della lingua in Data/Scripts.rxdata
      (backup in Data/Scripts.rxdata.bak)
-Al primo avvio il gioco chiede la lingua; si puo' cambiare dal menu iniziale.
-Su versioni non riconosciute si ferma (aggiungi --forza per tentare comunque
-con la traduzione della 3.7.1).
+Scegli la lingua al primo avvio o dalla voce "Language" del menu iniziale.
+Su versioni non riconosciute si ferma (aggiungi --forza per tentare comunque).
 """
 import hashlib
 import os
